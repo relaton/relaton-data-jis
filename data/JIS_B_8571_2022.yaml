@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISB8571-2022
+title:
+- content: ガスメーター
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Gas meters
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8571%3A2022
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08571_000_000_2022_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8571:2022
+  type: JIS
+  primary: true
+docnumber: B8571
+date:
+- type: issued
+  value: '2022-05-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: エネルギー源として使用するガスの体積を計量するガスメーターについて規定。エネルギー源として使用するガスとは，石炭ガス，コークスガス，油ガス，ナフサガス，天然ガス，石油ガス，オフガス，バイオガス又はこれらの混合ガス（空気で希釈されたものを含む。）をいう。口径２５０　ｍｍ以下（実測湿式ガスメーターを除く。）であって，使用最大圧力１０　kＰａ以下のガスメーターは，附属書ＪＡに規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本計量機器工業連合会
+ics:
+- code: 17.040.30
+  text: Measuring instruments
+- code: 91.140.40
+  text: Gas supply systems
+structuredidentifier:
+  project_number: B8571
+  type: JIS
+ext:
+  schema-version: v0.0.1

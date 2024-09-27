@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISC5440-1980
+title:
+- content: 信頼性保証制御用小形電磁継電器通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for reliability assured lowpower electromagnetic relays for
+    industrial control circuits
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5440%3A1980
+  type: src
+type: standard
+docid:
+- id: JIS C 5440:1980
+  type: JIS
+  primary: true
+docnumber: C5440
+date:
+- type: issued
+  value: '1980-12-25'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器及び工業制御回路に用いる信頼性保証制御用小形電極継電器の共通的事項及び個別規格において規定すべき事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 29.120.70
+  text: Relays
+structuredidentifier:
+  project_number: C5440
+  type: JIS
+ext:
+  schema-version: v0.0.1

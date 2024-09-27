@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX3005-3-2002
+title:
+- content: データベース言語ＳＱＬ　第３部：呼出しレベルインタフェース（ＳＱＬ／ＣＬＩ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Database languages -- SQL -- Part 3: Call-Level
+    Interface (SQL/CLI)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3005-3%3A2002
+  type: src
+type: standard
+docid:
+- id: JIS X 3005-3:2002
+  type: JIS
+  primary: true
+docnumber: X3005
+date:
+- type: issued
+  value: '2002-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 使用する手続と実行するデータベース言語のＳＱＬ文とを独立させて，標準プログラム言語で記述された適用業務プログラム内からＳＱＬ文を実行するために使用してもよい構造及び手続を定義。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3005
+  type: JIS
+ext:
+  schema-version: v0.0.1

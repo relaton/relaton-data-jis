@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISZ4343-2015
+title:
+- content: 体内放射能測定装置―γ線放出核種（エネルギー１００ｋｅＶ以上３　０００ｋｅＶ以下）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: In vivo counters for measuring activity of gamma-emitters (energy from
+    100 keV to 3 000 keV)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4343%3A2015
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04343_000_000_2015_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 4343:2015
+  type: JIS
+  primary: true
+docnumber: Z4343
+date:
+- type: issued
+  value: '2015-10-20'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 原子力施設及び放射線施設における作業者，放射性物質に汚染された又は汚染されたおそれのある地域で就業する作業者及び同地域に居住する一般公衆の内部被ばく線量を推定するために，人体内のγ線放出核種から放出されるγ線を体外から検出することによって放射能を測定する体内放射能測定装置について規定。核燃料再処理施設などで必要とされる２００ｋｅＶ以下のγ線及びＸ線を対象とした低エネルギー測定用の装置並びに鉄遮蔽室などを装備することによって極低バックグラウンド環境を実現した研究目的の装置には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電気計測器工業会"
+ics:
+- code: '13.280'
+  text: Radiation protection
+structuredidentifier:
+  project_number: Z4343
+  type: JIS
+ext:
+  schema-version: v0.0.1

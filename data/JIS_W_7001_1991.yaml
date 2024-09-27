@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISW7001-1991
+title:
+- content: 航空宇宙―航空機電気系統の特性
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Aerospace -- Characteristics of aircraft electrical systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+7001%3A1991
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_w_07001_000_000_1991_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS W 7001:1991
+  type: JIS
+  primary: true
+docnumber: W7001
+date:
+- type: issued
+  value: '1991-02-28'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 航空機搭載機器の端子に供給する電源の特性について規定し，また，他の機器に供給する電源の特性に悪影響を及ぼすことがある利用機器の諸元に関する限界について規定。この規格の目的は，航空機搭載利用機器と航空機電源との間の適合性を達成することである。地上支援電源は，別の規格で取り扱う。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本航空宇宙工業会
+ics:
+- code: '49.060'
+  text: Aerospace electric equipment and systems
+structuredidentifier:
+  project_number: W7001
+  type: JIS
+ext:
+  schema-version: v0.0.1

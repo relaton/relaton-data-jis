@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISX4003-1989
+title:
+- content: 日本語文書交換用ファイル仕様（幾何学図形）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: File specification for Japanese documents interchange (Geometric graphics)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4003%3A1989
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04003_000_000_1989_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04003_000_000_1989_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4003:1989
+  type: JIS
+  primary: true
+docnumber: X4003
+date:
+- type: issued
+  value: '1989-06-30'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 日本語ワードプロセッサ又はこれと同等の機能をもつ情報処理機器相互間でフレキシブルディスクカートリッジを用いて，文字及び幾何学図形を基本とする日本語文書の交換を行う場合の文書ファイルの仕様について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X4003
+  type: JIS
+ext:
+  schema-version: v0.0.1

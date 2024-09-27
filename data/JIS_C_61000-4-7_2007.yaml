@@ -1,0 +1,94 @@
+---
+schema-version: v1.2.9
+id: JISC61000-4-7-2007
+title:
+- content: 電磁両立性―第４－７部：試験及び測定技術―電力供給システム及びこれに接続する機器のための高調波及び次数間高調波の測定方法及び計装に関する指針
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Electromagnetic compatibility (EMC) -- Part 4-7: Testing and measurement
+    techniques -- General guide on harmonics and interharmonics measurements and instrumentation,
+    for power supply systems and equipment connected thereto'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61000-4-7%3A2007
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61000_004_007_2007_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 61000-4-7:2007
+  type: JIS
+  primary: true
+docnumber: C61000
+date:
+- type: issued
+  value: '2007-05-20'
+- type: confirmed
+  value: '2022-06-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 幾つかの規格で規定するエミッション限度値（例えば，ＪＩＳ　Ｃ　６１０００－３－２で規定する高調波電流限度値）に応じて機器の個別項目を試験するための測定計装並びに実際の電力供給システム内の高調波電流及び高調波電圧の測定のための測定計装を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電気学会"
+ics:
+- code: 33.100.10
+  text: Emission
+- code: 33.100.20
+  text: Immunity
+structuredidentifier:
+  project_number: C61000
+  type: JIS
+ext:
+  schema-version: v0.0.1

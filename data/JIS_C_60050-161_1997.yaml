@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: JISC60050-161-1997
+title:
+- content: ＥＭＣに関するＩＥＶ用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'International Electrotechnical Vocabulary: Electromagnetic compatibility'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60050-161%3A1997
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60050_161_000_1997_j_ed20_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 60050-161:1997
+  type: JIS
+  primary: true
+docnumber: C60050
+date:
+- type: issued
+  value: '1997-11-30'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 国際電気用語（ＩＥＶ）のうち，電磁両立性に関する用語について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 01.040.33
+  text: Telecommunications. Audio and video engineering (Vocabularies)
+- code: '33.100'
+  text: Electromagnetic compatibility (EMC)
+structuredidentifier:
+  project_number: C60050
+  type: JIS
+ext:
+  schema-version: v0.0.1

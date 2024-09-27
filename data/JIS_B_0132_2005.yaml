@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISB0132-2005
+title:
+- content: 送風機・圧縮機用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms for fans, blowers and compressors
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0132%3A2005
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00132_000_000_2005_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 0132:2005
+  type: JIS
+  primary: true
+docnumber: B0132
+date:
+- type: issued
+  value: '2005-09-20'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　ターボ機械協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　ターボ機械協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 送風機，圧縮機及びその部品に関する用語並びに空力用語の定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　ターボ機械協会
+ics:
+- code: 01.040.23
+  text: Fluid systems and components for general use (Vocabularies)
+- code: '23.120'
+  text: Ventilators. Fans. Air-conditioners
+- code: '23.140'
+  text: Compressors and pneumatic machines
+structuredidentifier:
+  project_number: B0132
+  type: JIS
+ext:
+  schema-version: v0.0.1

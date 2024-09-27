@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX5802-1994
+title:
+- content: メッセージ指向型文書交換システム（ＭＯＴＩＳ）　―　第２部　総合体系
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Text Communication -- Message-Oriented Text
+    Interchange Systems (MOTIS) -- Part 2: Overall Architecture'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5802%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS X 5802:1994
+  type: JIS
+  primary: true
+docnumber: X5802
+date:
+- type: issued
+  value: '1994-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: メッセージ指向型文書交換システムの規格群（ＪＩＳ　Ｘ　５８０１～５８０７）の一つである。開放型システム間相互接続（ＯＳＩ）によるメッセージ通信処理システム（ＭＨＳ）の仕様を規定。さらに，ＭＨＳの総合体系を規定し，その技術的な概要を示す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5802
+  type: JIS
+ext:
+  schema-version: v0.0.1

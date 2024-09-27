@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC7514-1985
+title:
+- content: 赤外線電球
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Infrared lamps
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7514%3A1985
+  type: src
+type: standard
+docid:
+- id: JIS C 7514:1985
+  type: JIS
+  primary: true
+docnumber: C7514
+date:
+- type: issued
+  value: '1985-02-28'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電球工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電球工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 赤外放射を利用する分布温度２０００Ｋから２６００Ｋの工業用赤外線加熱タングステン電球について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電球工業会
+ics:
+- code: 29.140.20
+  text: Incandescent lamps
+structuredidentifier:
+  project_number: C7514
+  type: JIS
+ext:
+  schema-version: v0.0.1

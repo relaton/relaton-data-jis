@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISZ6000-1996
+title:
+- content: マイクログラフィックス用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Micrographics -- Vocabulary
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+6000%3A1996
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_06000_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 6000:1996
+  type: JIS
+  primary: true
+docnumber: Z6000
+date:
+- type: issued
+  value: '1996-04-30'
+- type: confirmed
+  value: '2010-10-01'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　日本文書情報マネジメント協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　日本文書情報マネジメント協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: マイクログラフィックスに関する用語及びその定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　日本文書情報マネジメント協会
+ics:
+- code: 01.040.37
+  text: Image technology (Vocabularies)
+- code: '37.080'
+  text: Document imaging applications
+structuredidentifier:
+  project_number: Z6000
+  type: JIS
+ext:
+  schema-version: v0.0.1

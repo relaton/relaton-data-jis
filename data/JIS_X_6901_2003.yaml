@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISX6901-2003
+title:
+- content: カード及びカードシステム用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms relating to cards and card systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6901%3A2003
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06901_000_000_2003_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6901:2003
+  type: JIS
+  primary: true
+docnumber: X6901
+date:
+- type: issued
+  value: '2003-06-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: カード及びカードを用いる周辺のシステムに関する用語及びその定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　ビジネス機械・情報システム産業協会"
+ics:
+- code: 01.040.35
+  text: Information technology (Vocabularies)
+- code: 35.220.10
+  text: Paper cards and tapes
+- code: 35.240.01
+  text: Application of information technology in general
+structuredidentifier:
+  project_number: X6901
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISA4112-2020
+title:
+- content: 太陽集熱器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Solar collectors
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+4112%3A2020
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04112_000_000_2020_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS A 4112:2020
+  type: JIS
+  primary: true
+docnumber: A4112
+date:
+- type: issued
+  value: '2020-04-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　ソーラーシステム振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　ソーラーシステム振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 集熱媒体を強制循環する平板形，真空ガラス管形などの非追尾式の太陽集熱器及び太陽光発電機能付き集熱器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　ソーラーシステム振興協会
+ics:
+- code: '27.160'
+  text: Solar energy engineering
+structuredidentifier:
+  project_number: A4112
+  type: JIS
+ext:
+  schema-version: v0.0.1

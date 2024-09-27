@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISC60068-2-59-2001
+title:
+- content: 環境試験方法―電気・電子―サインビート振動試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Environmental testing -- Part 2: Test methods Test Fe: Vibration -- Sine-beat
+    method'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-59%3A2001
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_059_2001_j_ed10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_059_2001_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 60068-2-59:2001
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  value: '2001-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 例えば，地震若しくは爆発現象，又は機械の振動によって発生する短時間のパルス的な力又は周期的な力に遭遇することがある部分，機器及びその他の電気・電子製品の試験方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '17.160'
+  text: Vibrations, shock and vibration measurements
+- code: '19.040'
+  text: Environmental testing
+- code: '29.020'
+  text: Electrical engineering in general
+- code: '31.020'
+  text: Electronic components in general
+structuredidentifier:
+  project_number: C60068
+  type: JIS
+ext:
+  schema-version: v0.0.1

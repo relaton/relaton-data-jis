@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX6003-1984
+title:
+- content: 日本語文書処理用文字盤配列
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Keyboard layout for Japanese text processing
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6003%3A1984
+  type: src
+type: standard
+docid:
+- id: JIS X 6003:1984
+  type: JIS
+  primary: true
+docnumber: X6003
+date:
+- type: issued
+  value: '1984-07-31'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子工業振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子工業振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 通常の国語の文章の表記に用いられる文字の，文字盤型入力装置における配列について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子工業振興協会
+ics:
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
+structuredidentifier:
+  project_number: X6003
+  type: JIS
+ext:
+  schema-version: v0.0.1

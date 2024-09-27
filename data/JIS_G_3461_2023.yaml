@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: JISG3461-2023
+title:
+- content: ボイラ・熱交換器用炭素鋼鋼管
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Carbon steel tubes for boiler and heat exchanger
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3461%3A2023
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03461_000_000_2023_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03461_000_000_2023_e_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS G 3461:2023
+  type: JIS
+  primary: true
+docnumber: G3461
+date:
+- type: issued
+  value: '2023-12-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 管の内外で熱の授受のために使用する炭素鋼鋼管，例えば，ボイラの水管，煙管，過熱器，空気予熱器などに用いる管，及び化学工業・石油工業の熱交換器，コンデンサ管，触媒管などに用いる管について規定。ただし，加熱炉用鋼管及び低温熱交換器用鋼管には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄鋼連盟
+ics:
+- code: 23.040.10
+  text: Iron and steel pipes
+- code: 27.060.30
+  text: Boilers and heat exchangers
+- code: 77.140.10
+  text: Heat-treatable steels
+- code: 77.140.75
+  text: Steel pipes and tubes for specific use
+structuredidentifier:
+  project_number: G3461
+  type: JIS
+ext:
+  schema-version: v0.0.1

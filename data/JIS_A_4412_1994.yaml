@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISA4412-1994
+title:
+- content: 住宅用冷暖房ユニット
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Air-conditioning unit for dwellings
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+4412%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04412_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS A 4412:1994
+  type: JIS
+  primary: true
+docnumber: A4412
+date:
+- type: issued
+  value: '1994-08-31'
+- type: confirmed
+  value: '2001-01-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本建材・住宅設備産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本建材・住宅設備産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 定格暖房能力８３．７ＭＪ／ｈ｛２００００ｋｃａｌ／ｈ｝（給湯兼用の場合は，１２５．６ＭＪ／ｈ｛３００００ｋｃａｌ／ｈ｝以下，冷房能力６２．８ＭＪ／ｈ｛１５０００ｋｃａｌ／ｈ｝以下の住宅に使用される冷暖房ユニットについて規定。ユニットに給湯器を併設した冷暖房給湯ユニットについても規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本建材・住宅設備産業協会
+ics:
+- code: 97.100.01
+  text: Heating appliances in general
+structuredidentifier:
+  project_number: A4412
+  type: JIS
+ext:
+  schema-version: v0.0.1

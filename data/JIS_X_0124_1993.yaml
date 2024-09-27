@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX0124-1993
+title:
+- content: 単位記号の情報交換用表記方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Representation of unit symbols for information interchange
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0124%3A1993
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00124_000_000_1993_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0124:1993
+  type: JIS
+  primary: true
+docnumber: X0124
+date:
+- type: issued
+  value: '1993-05-31'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 国際単位系（ＳＩ）及びＳＩと併用してよい単位について，情報処理及びデータ伝送を行うシステムを用いてシステムとシステムとの間及び人とシステムとの間で情報交換をする場合の単位記号の表記方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本情報経済社会推進協会
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X0124
+  type: JIS
+ext:
+  schema-version: v0.0.1

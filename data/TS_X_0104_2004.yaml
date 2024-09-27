@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: TSX0104-2004
+title:
+- content: ＩＴ侵入検知枠組み
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Security techniques -- IT intrusion detection
+    framework
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+X+0104%3A2004
+  type: src
+type: standard
+docid:
+- id: TS X 0104:2004
+  type: JIS
+  primary: true
+docnumber: X0104
+date:
+- type: issued
+  value: '2004-11-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 情報技術（ＩＴ）システムへの侵入を検知するための枠組みを規定。ここでは侵入の多くの種類が考察されている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-specification
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X0104
+  type: JIS
+ext:
+  schema-version: v0.0.1

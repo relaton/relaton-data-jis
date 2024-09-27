@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.9
+id: JISC61000-3-2-2019
+title:
+- content: 電磁両立性―第３－２部：限度値―高調波電流発生限度値（１相当たりの入力電流が２０Ａ以下の機器）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Electromagnetic compatibility (EMC) -- Part 3-2: Limits -- Limits for
+    harmonic current emissions (equipment input current <= 20 A per phase)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61000-3-2%3A2019
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61000_003_002_2019_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61000_003_002_2019_e_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 61000-3-2:2019
+  type: JIS
+  primary: true
+docnumber: C61000
+date:
+- type: issued
+  value: '2019-03-20'
+- type: confirmed
+  value: '2023-06-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 商用電源系統に流入する高調波電流の制限について規定。規定の試験条件で，供試機器が発生する入力電流に含まれる高調波成分の限度値を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電気学会"
+ics:
+- code: 33.100.10
+  text: Emission
+structuredidentifier:
+  project_number: C61000
+  type: JIS
+ext:
+  schema-version: v0.0.1

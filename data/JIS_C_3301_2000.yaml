@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISC3301-2000
+title:
+- content: ゴムコード
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Rubber insulated flexible cords
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3301%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03301_000_000_2000_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 3301:2000
+  type: JIS
+  primary: true
+docnumber: C3301
+date:
+- type: issued
+  value: '2000-12-31'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電線工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電線工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 屋内で交流３００Ｖ以下のつり下げ灯又は小形電気器具に使用するゴムコード及びキャブタイヤコードについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電線工業会
+ics:
+- code: 29.060.20
+  text: Cables
+structuredidentifier:
+  project_number: C3301
+  type: JIS
+ext:
+  schema-version: v0.0.1

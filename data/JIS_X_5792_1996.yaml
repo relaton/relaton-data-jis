@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5792-1996
+title:
+- content: 開放型システム間相互接続―開放型システムにおける安全保護の枠組み―認証の枠組み
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Open Systems Interconnection -- Security frameworks
+    for open systems: Authentication framework'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5792%3A1996
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05792_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5792:1996
+  type: JIS
+  primary: true
+docnumber: X5792
+date:
+- type: issued
+  value: '1996-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: "”開放型システムにおける安全保護の枠組み”に関する一連の規格は，安全保護サービスを開放型システム環境で適用することを規定。ここで”開放型システム”という用語は，データベース，分散応用，開放型分散処理，ＯＳＩなどの領域を含む。安全保護の枠組みは，システム及びシステム内のオブジェクトを保護する手段を定めること，並びにシステム間の相互作用に焦点を置く。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X5792
+  type: JIS
+ext:
+  schema-version: v0.0.1

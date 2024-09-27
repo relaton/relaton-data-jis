@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISA5003-1995
+title:
+- content: 石材
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Stones
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5003%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS A 5003:1995
+  type: JIS
+  primary: true
+docnumber: A5003
+date:
+- type: issued
+  value: '1995-02-01'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本建材・住宅設備産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本建材・住宅設備産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 土木，建築に使用する天然産の石材について規定。天然スレート，割ぐり石，軌道用敷石及び道路用石材を除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本建材・住宅設備産業協会
+ics:
+- code: 91.100.15
+  text: Mineral materials and products
+structuredidentifier:
+  project_number: A5003
+  type: JIS
+ext:
+  schema-version: v0.0.1

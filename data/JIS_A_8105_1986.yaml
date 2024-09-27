@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISA8105-1986
+title:
+- content: 建設機械用テンパレチャゲージ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Temperature gauges for construction machinery
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8105%3A1986
+  type: src
+type: standard
+docid:
+- id: JIS A 8105:1986
+  type: JIS
+  primary: true
+docnumber: A8105
+date:
+- type: issued
+  value: '1986-10-31'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本建設機械化協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本建設機械化協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 建設機械用のエンジン冷却液，トルクコンバータ油などの温度を指示するテンパレチャゲージについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本建設機械化協会
+ics:
+- code: '91.220'
+  text: Construction equipment
+structuredidentifier:
+  project_number: A8105
+  type: JIS
+ext:
+  schema-version: v0.0.1

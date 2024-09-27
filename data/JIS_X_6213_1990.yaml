@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISX6213-1990
+title:
+- content: １３０ｍｍフレキシブルディスクカートリッジのトラックフォーマット―１３２６２磁束反転／ｒａｄ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Track format for 130 mm high density flexible disk cartridges -- 13262
+    ftprad
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6213%3A1990
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06213_000_000_1990_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6213:1990
+  type: JIS
+  primary: true
+docnumber: X6213
+date:
+- type: issued
+  value: '1990-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　６２１１に規定する１３０ｍｍフレキシブルディスクカートリッジに磁束記録密度１３２６２磁束反転／ｒａｄ，トラック密度３．８トラックで情報を記録する際の，トラックフォーマットＡ及びトラックフォーマットＢについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 35.220.21
+  text: Magnetic disks
+structuredidentifier:
+  project_number: X6213
+  type: JIS
+ext:
+  schema-version: v0.0.1

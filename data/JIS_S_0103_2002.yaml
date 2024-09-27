@@ -1,0 +1,92 @@
+---
+schema-version: v1.2.9
+id: JISS0103-2002
+title:
+- content: 消費者用図記号
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Graphical symbols for consumers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+0103%3A2002
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_00103_000_000_2002_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS S 0103:2002
+  type: JIS
+  primary: true
+docnumber: S0103
+date:
+- type: issued
+  value: '2003-01-31'
+- type: confirmed
+  value: '2013-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 日常生活で使用する消費者生活製品に指示事項等の伝達事項を視覚的に表示する目的で用いる場合の消費者図記号について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 01.080.10
+  text: Public information symbols. Signs. Plates. Labels
+- code: 03.080.30
+  text: Services for consumers
+structuredidentifier:
+  project_number: S0103
+  type: JIS
+ext:
+  schema-version: v0.0.1

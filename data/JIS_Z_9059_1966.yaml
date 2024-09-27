@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISZ9059-1966
+title:
+- content: 母分散比の区間推定
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Interval estimation of the population variance ratio
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9059%3A1966
+  type: src
+type: standard
+docid:
+- id: JIS Z 9059:1966
+  type: JIS
+  primary: true
+docnumber: Z9059
+date:
+- type: issued
+  value: '1977-11-15'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 母集団（またはそれをよく代表すると思われるロット）から得た測定値に基づいて，二つの母集団の分散の比を含む確率がたとえば９５％になる区間を求める方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 03.120.30
+  text: Application of statistical methods
+structuredidentifier:
+  project_number: Z9059
+  type: JIS
+ext:
+  schema-version: v0.0.1

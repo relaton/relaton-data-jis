@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.9
+id: JISZ9041-3-1999
+title:
+- content: データの統計的な解釈方法―第３部：割合に関する検定方法と推定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Statistical interpretation of data -- Part 3: Tests and confidence intervals
+    relating to proportions'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9041-3%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09041_003_000_1999_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09041_003_000_1999_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 9041-3:1999
+  type: JIS
+  primary: true
+docnumber: Z9041
+date:
+- type: issued
+  value: '1999-08-31'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: ａ）ある集団からｎアイテムのサンプルが抽出され，そのうちのｘ個がある特定の特性を示しているとき，その特性の母集団での割合はどのくらいか　ｂ）ａ）で推定された割合は，名目上の（指定された）値と異なるのか　ｃ）母集団が２つ与えられたとき，２つの母集団でその特性の割合は異なるのか　ｄ）ｂ）及びｃ）において，その検定結果が確かであることを十分に保証するためには，母集団からどのくらいのアイテムを抽出しなければならないのか　これらの問題を扱うための統計的方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 03.120.30
+  text: Application of statistical methods
+structuredidentifier:
+  project_number: Z9041
+  type: JIS
+ext:
+  schema-version: v0.0.1

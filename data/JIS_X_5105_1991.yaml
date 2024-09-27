@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX5105-1991
+title:
+- content: ハイレベルデータリンク制御手順の手順要素
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information processing systems -- Data communication -- High-level data
+    link control elements of procedures
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5105%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS X 5105:1991
+  type: JIS
+  primary: true
+docnumber: X5105
+date:
+- type: issued
+  value: '1991-08-01'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　５１０４によるＨＤＬＣのフレーム構成及び両方向で独立なフレームの番号付けを用いた同期式でコード透過なデータ転送のためのデータリンク制御手順の手順要素を規定。ＨＤＬＣの手順要素は，二次局又は複合局がコマンドを受信したときに実行すべき動作によって規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.20
+  text: Data link layer
+structuredidentifier:
+  project_number: X5105
+  type: JIS
+ext:
+  schema-version: v0.0.1

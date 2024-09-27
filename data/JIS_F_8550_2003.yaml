@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISF8550-2003
+title:
+- content: 船用光ファイバ伝送装置―伝送路適用基準
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Marine optical transmission apparatus -- Criteria for selection of optical
+    fiber cable and optical connector
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8550%3A2003
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_08550_000_000_2003_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS F 8550:2003
+  type: JIS
+  primary: true
+docnumber: F8550
+date:
+- type: issued
+  value: '2003-12-20'
+- type: confirmed
+  value: '2023-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 船で使用する光ファイバ伝送装置のうちの光ファイバコード，光ファイバケーブル，光ファイバ複合ケーブル及び光ファイバコネクタの使用並びにそれらの敷設及び検査について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 33.180.10
+  text: Fibres and cables
+- code: 33.180.20
+  text: Fibre optic interconnecting devices
+- code: 47.020.70
+  text: Navigation and control equipment
+structuredidentifier:
+  project_number: F8550
+  type: JIS
+ext:
+  schema-version: v0.0.1

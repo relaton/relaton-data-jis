@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISC4504-1975
+title:
+- content: 誘導電動機のじか入始動開閉器通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for direct-on-line (full-voltage) A.C. starters for induction
+    motors
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4504%3A1975
+  type: src
+type: standard
+docid:
+- id: JIS C 4504:1975
+  type: JIS
+  primary: true
+docnumber: C4504
+date:
+- type: issued
+  value: '1975-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電圧６００Ｖ以下，周波数５０Ｈｚ又は６０Ｈｚの電路に接続され，単相又は三相の誘導電動機を全電圧の下で始動，停止を行う気中形及び油入形のじか入始動開閉器の一般事項について規定。船舶用，車両用などの開閉器及び極数切換電動機用等の特殊用途に用いる開閉器，並びに定格出力１００Ｗ未満の電動機に用いる開閉器については，適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: 29.160.30
+  text: Motors
+structuredidentifier:
+  project_number: C4504
+  type: JIS
+ext:
+  schema-version: v0.0.1

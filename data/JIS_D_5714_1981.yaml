@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISD5714-1981
+title:
+- content: 自動車用停止表示燈
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Emergency warning lamps for automobiles
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+5714%3A1981
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_05714_000_000_1981_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS D 5714:1981
+  type: JIS
+  primary: true
+docnumber: D5714
+date:
+- type: issued
+  value: '1981-07-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本自動車部品工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本自動車部品工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 事故などによる停車中の自動車を他の車両に知らせる目的で，道路上に置いて用いる自動車用停止表示燈について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本自動車部品工業会
+ics:
+- code: 43.040.20
+  text: Lighting, signalling and warning devices
+structuredidentifier:
+  project_number: D5714
+  type: JIS
+ext:
+  schema-version: v0.0.1

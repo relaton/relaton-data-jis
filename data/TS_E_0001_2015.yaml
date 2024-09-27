@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: TSE0001-2015
+title:
+- content: 無線式列車制御システムにおける無線システムの性能要求決定手順
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Railway applications -- Procedure to determine the performance requirements
+    for radio systems applied to radio-based train control systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+E+0001%3A2015
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_ts_e_00001_000_000_2015_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: TS E 0001:2015
+  type: JIS
+  primary: true
+docnumber: E0001
+date:
+- type: issued
+  value: '2015-08-01'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 鉄道事業者及び／又は無線装置メーカが一定の業務ニーズ及び設備状況に両立した，無線式列車制御システムにおける無線システムの適切な性能要求を決めるための手順について確立。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-specification
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄道電気技術協会
+ics:
+- code: '45.060'
+  text: Railway rolling stock
+structuredidentifier:
+  project_number: E0001
+  type: JIS
+ext:
+  schema-version: v0.0.1

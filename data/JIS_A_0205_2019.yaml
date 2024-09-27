@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISA0205-2019
+title:
+- content: ベクトル数値地質図―品質要求事項及び主題属性コード
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Vector-digital geological-map -- Quality requirements and subject attribute
+    codes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+0205%3A2019
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_00205_000_000_2019_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS A 0205:2019
+  type: JIS
+  primary: true
+docnumber: A0205
+date:
+- type: issued
+  value: '2019-03-20'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 国立研究開発法人　産業技術総合研究所
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 国立研究開発法人　産業技術総合研究所
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 地質図を保存，交換，再現，編集などのためにベクトル数値地質図として公開・提供する場合に，その品質を確保する上で必要な基本的事項について規定するとともに，異なる作成者，異なる利用者，異なる場所及び異なる出力形式の間で地質図を誤りなく再現する上で必要な地質図の記号，色，模様，用語，地層・岩体区分などの主題属性を示す主題属性コード（定義，記述，表記及び表示法を含む。）について規定。地形図，地理調査などに基づいて作成される主題図は，地質図とは異なるためこの規格を適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 国立研究開発法人　産業技術総合研究所
+ics:
+- code: 01.080.30
+  text: Graphical symbols for use on mechanical engineering and construction drawings,
+    diagrams, plans, maps and in relevant technical product documentation
+- code: '07.060'
+  text: Geology. Meteorology. Hydrology
+structuredidentifier:
+  project_number: A0205
+  type: JIS
+ext:
+  schema-version: v0.0.1

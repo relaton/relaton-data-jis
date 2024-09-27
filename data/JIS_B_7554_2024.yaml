@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISB7554-2024
+title:
+- content: 電磁流量計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electromagnetic flowmeters
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7554%3A2024
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07554_000_000_2024_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 7554:2024
+  type: JIS
+  primary: true
+docnumber: B7554
+date:
+- type: issued
+  value: '2024-02-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 満水状態の閉管路内における導電性流体の流量測定に使用される産業用電磁流量計について規定する。この規格は，励磁コイルの駆動に交流又はパルス状の直流を用いた電磁流量計に適用。また，主電源から電力供給を受ける電磁流量計，及び電池又は他の電源から電力供給を受ける電磁流量計にも適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電気計測器工業会"
+ics:
+- code: 17.120.10
+  text: Flow in closed conduits
+structuredidentifier:
+  project_number: B7554
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX0651-1991
+title:
+- content: 電子製版システム間カラー画像データ交換用磁気テープフォーマット
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: User exchange format for the exchange of color picture data between electronic
+    prepress systems via magnetic tape
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0651%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS X 0651:1991
+  type: JIS
+  primary: true
+docnumber: X0651
+date:
+- type: issued
+  value: '1991-12-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 異なるカラー電子製版システム間でのデジタルデータの交換を可能とするための磁気テープフォーマットのうち，利用者間でのカラー画像データ交換のためのフォーマットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.220.22
+  text: Magnetic tapes
+structuredidentifier:
+  project_number: X0651
+  type: JIS
+ext:
+  schema-version: v0.0.1

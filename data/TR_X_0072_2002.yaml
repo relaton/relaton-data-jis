@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: TRX0072-2002
+title:
+- content: 虹彩認証システムの精度評価方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Evaluation Method for Accuracy of Iris Authentication Systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0072%3A2002
+  type: src
+type: standard
+docid:
+- id: TR X 0072:2002
+  type: JIS
+  primary: true
+docnumber: X0072
+date:
+- type: issued
+  value: '2002-09-01'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 虹彩認証システムとは，「登録者を規定するためにあらかじめ登録してある虹彩の登録データと，ユーザが登録者であることを主張してあらたに入力した虹彩を比較し，両虹彩の類似度ないし距離を定量し出力するアルゴリズムまたは照合装置，及び虹彩が一致したか否かを判定するシステム」とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: '35.240'
+  text: Applications of information technology
+structuredidentifier:
+  project_number: X0072
+  type: JIS
+ext:
+  schema-version: v0.0.1

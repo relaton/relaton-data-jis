@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISC5955-3-2022
+title:
+- content: 光伝送用能動部品―性能標準テンプレート―第３部：単心波長多重並列伝送リンク用光送受信モジュール
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Fiber optic active components and devices -- Performance standard template
+    -- Part 3: Optical transceiver modules for single fiber parallel transmission
+    link with wavelength division multiplexing'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5955-3%3A2022
+  type: src
+type: standard
+docid:
+- id: JIS C 5955-3:2022
+  type: JIS
+  primary: true
+docnumber: C5955
+date:
+- type: issued
+  value: '2022-06-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＪＩＳ　Ｃ　５９５３－１に基づき，チャネル（レーン）当たり１０　Ｇｂｉｔ／ｓ及び２５　Ｇｂｉｔ／ｓの並列（パラレル）なデジタル信号を，単心の光ファイバ（単心形）を介して，波長多重で伝送し，２Ｒ（波形再生及び波形整形）機能又は３Ｒ（波形再生，波形整形及び同期信号再生）機能をもち，デジタル変調方式として二値振幅変調［ＡＳＫ（Ａｍｐｌｉｔｕｄｅ　Ｓｈｉｆｔ　Ｋｅｙｉｎｇ），ＩＭ（Ｉｎｔｅｎｓｉｔｙ　Ｍｏｄｕｌａｔｉｏｎ）又はＯＯＫ（Ｏｎ－Ｏｆｆ　Ｋｅｙｉｎｇ）ともいう。］方式の単心波長多重並列伝送リンク用光送受信モジュールの性能標準の作成に基づく性能標準テンプレートについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　光産業技術振興協会"
+ics:
+- code: 33.180.20
+  text: Fibre optic interconnecting devices
+structuredidentifier:
+  project_number: C5955
+  type: JIS
+ext:
+  schema-version: v0.0.1

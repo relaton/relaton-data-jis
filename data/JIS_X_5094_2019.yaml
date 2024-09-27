@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISX5094-2019
+title:
+- content: ＵＴＣトレーサビリティ保証のためのタイムアセスメント機関（ＴＡＡ）の技術要件
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Technical requirements for TAA to certify UTC-traceability
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5094%3A2019
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05094_000_000_2019_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05094_000_000_2019_e_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5094:2019
+  type: JIS
+  primary: true
+docnumber: X5094
+date:
+- type: issued
+  value: '2019-03-20'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 国立研究開発法人　情報通信研究機構
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 国立研究開発法人　情報通信研究機構
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 次の三つ［タイムアセスメント機関（ＴＡＡ）の機能を定義する。；タイムスタンピング機関（ＴＳＡ）に時刻を供給するための，及びＴＡＡの使用を通じてその時刻の正確さを保証するための全体構成を記載する。；ＴＡＡが信頼できる時刻源をＴＳＡに対して供給し，また，その保証を与えるための技術指針を提供する。］について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 国立研究開発法人　情報通信研究機構
+ics:
+- code: '35.030'
+  text: IT Security
+- code: 35.240.60
+  text: IT applications in transport
+structuredidentifier:
+  project_number: X5094
+  type: JIS
+ext:
+  schema-version: v0.0.1

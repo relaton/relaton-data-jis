@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISZ8524-1999
+title:
+- content: 人間工学―視覚表示装置を用いるオフィス作業―メニュー対話
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Ergonomics -- Office work with visual display terminals (VDTs) -- Menu
+    dialogues
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8524%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08524_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 8524:1999
+  type: JIS
+  primary: true
+docnumber: Z8524
+date:
+- type: issued
+  value: '2000-01-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本人間工学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本人間工学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 典型的なオフィス作業を行う際に，利用者とコンピュータとの対話に使われるメニューについての条件付きの推奨事項について規定。推奨事項を，ウィンドー，パネル，ボタン，フィールドなどを含む種々の手法で提示するメニューにも適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本人間工学会
+ics:
+- code: '13.180'
+  text: Ergonomics
+- code: '31.120'
+  text: Electronic display devices
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
+structuredidentifier:
+  project_number: Z8524
+  type: JIS
+ext:
+  schema-version: v0.0.1

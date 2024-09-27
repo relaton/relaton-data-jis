@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX4201-1990
+title:
+- content: コンピュータグラフィクス中核系（ＧＫＳ）機能記述
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information processing systems -- Computer graphics -- Graphical Kernel
+    System (GKS) functional description
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4201%3A1990
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04201_000_000_1990_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4201:1990
+  type: JIS
+  primary: true
+docnumber: X4201
+date:
+- type: issued
+  value: '1990-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: コンピュータグラフィックスのプログラム作成のための集合であるグラフィックス中核系（ＧＫＳ）の機能記述について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.140'
+  text: Computer graphics
+structuredidentifier:
+  project_number: X4201
+  type: JIS
+ext:
+  schema-version: v0.0.1

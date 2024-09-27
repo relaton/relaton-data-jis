@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISC0445-1999
+title:
+- content: 文字数字の表記に関する一般則を含む機器の端子及び識別指定された電線端末の識別法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Identification of equipment terminals and of terminations of certain designated
+    conductors, including general rules for an alphanumeric system
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0445%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS C 0445:1999
+  type: JIS
+  primary: true
+docnumber: C0445
+date:
+- type: issued
+  value: '1999-11-30'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 抵抗器，ヒューズ，リレー，接触器，変圧器，回転機などのような電気機器の端子の識別及び表示に対して適用。識別指定された電線端末の識別にも適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '29.020'
+  text: Electrical engineering in general
+- code: 29.060.10
+  text: Wires
+structuredidentifier:
+  project_number: C0445
+  type: JIS
+ext:
+  schema-version: v0.0.1

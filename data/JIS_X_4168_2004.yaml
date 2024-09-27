@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: JISX4168-2004
+title:
+- content: 段階スタイルシート水準１（ＣＳＳ１）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Cascading Style Sheets, level 1
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4168%3A2004
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04168_000_000_2004_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4168:2004
+  type: JIS
+  primary: true
+docnumber: X4168
+date:
+- type: issued
+  value: '2004-06-20'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 段階スタイルシート（ＣＳＳ）の水準１（ＣＳＳ１）の機構を規定。ＣＳＳ１は，簡単なスタイルシート機構であって，文書作成者及び読者が，フォント，カラー，スペースなどのスタイルをＨＴＭＬ文書に付与することを可能にする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.080'
+  text: Software
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X4168
+  type: JIS
+ext:
+  schema-version: v0.0.1

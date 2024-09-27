@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISX4159-2005
+title:
+- content: 拡張可能なマーク付け言語（ＸＭＬ）１．０
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Extensible Markup Language (XML) 1.0
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4159%3A2005
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04159_000_000_2005_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4159:2005
+  type: JIS
+  primary: true
+docnumber: X4159
+date:
+- type: issued
+  value: '2005-03-20'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＸＭＬ文書というデータオブジェクトのクラスを規定し，ＸＭＬ文書を処理するプログラムの動作の一部を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X4159
+  type: JIS
+ext:
+  schema-version: v0.0.1

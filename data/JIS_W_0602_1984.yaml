@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISW0602-1984
+title:
+- content: 航空機の重量区分
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Weight distribution of aircraft
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+0602%3A1984
+  type: src
+type: standard
+docid:
+- id: JIS W 0602:1984
+  type: JIS
+  primary: true
+docnumber: W0602
+date:
+- type: issued
+  value: '1984-06-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 航空機の重量区分及びその区分に含まれる内容について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本航空宇宙工業会
+ics:
+- code: '49.020'
+  text: Aircraft and space vehicles in general
+structuredidentifier:
+  project_number: W0602
+  type: JIS
+ext:
+  schema-version: v0.0.1

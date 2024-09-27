@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: TRX0032-2000
+title:
+- content: 段階スタイルシート水準２（ＣＳＳ２）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Cascading Style Sheets, level 2 CSS2 Specification
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0032%3A2000
+  type: src
+type: standard
+docid:
+- id: TR X 0032:2000
+  type: JIS
+  primary: true
+docnumber: X0032
+date:
+- type: issued
+  value: '2000-09-30'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 段階スタイルシート，水準２を定義（ＣＳＳ２）。ＣＳＳ２はスタイルシート言語であり，これによって，文書作成者及び利用者が，フォント，スペーシング，聴覚キューなどのスタイルを，ＨＴＭＬ文書，ＸＭＬアプリケーションなどの構造化文書に付加することができる。文書の内容から文書の表示スタイルを分離することによって，ＣＳＳ２はウェブ作成及びサイト保守を簡便化する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+- code: '35.110'
+  text: Networking
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X0032
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX3005-13-2007
+title:
+- content: データベース言語ＳＱＬ　第１３部：Ｊａｖａプログラム言語を用いるＳＱＬルーチン及び型（ＳＱＬ／ＪＲＴ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Database languages -- SQL -- Part 13: SQL Routines
+    and Types Using the JavaTM Programming Language (SQL/JRT)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3005-13%3A2007
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03005_013_000_2007_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 3005-13:2007
+  type: JIS
+  primary: true
+docnumber: X3005
+date:
+- type: issued
+  value: '2007-09-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: Ｊａｖａプログラム言語で書かれた静的メソッドをＳＱＬ呼出しルーチンとして呼び出す機能，及びＪａｖａプログラム言語で定義されたクラスをＳＱＬ利用者定義構造型として用いる機能を規定（Ｊａｖａは，Ｓｕｎ　Ｍｉｃｒｏｓｙｓｔｅｍｓ，Ｉｎｃの登録商標である。）。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3005
+  type: JIS
+ext:
+  schema-version: v0.0.1

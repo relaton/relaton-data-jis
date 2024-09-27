@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISB8434-1991
+title:
+- content: 産業用ロボット　―　操作装置などに関する機能識別記号
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Industrial robots -- identification symbols for operator controls
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8434%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS B 8434:1991
+  type: JIS
+  primary: true
+docnumber: B8434
+date:
+- type: issued
+  value: '1991-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本ロボット工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本ロボット工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 産業用ロボットの操作装置などの操作ボタン，表示灯などに用いる識別記号について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本ロボット工業会
+ics:
+- code: 01.080.20
+  text: Graphical symbols for use on specific equipment
+- code: 25.040.30
+  text: Industrial robots. Manipulators
+structuredidentifier:
+  project_number: B8434
+  type: JIS
+ext:
+  schema-version: v0.0.1

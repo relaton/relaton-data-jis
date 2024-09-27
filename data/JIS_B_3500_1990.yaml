@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISB3500-1990
+title:
+- content: プログラマブルコントローラ用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms used in programmable controller
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3500%3A1990
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03500_000_000_1990_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03500_000_000_1990_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 3500:1990
+  type: JIS
+  primary: true
+docnumber: B3500
+date:
+- type: issued
+  value: '1990-12-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: プログラマブルコントローラに用いられる一般用語及び機能・試験に関する用語並びにそれらの定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気制御機器工業会
+ics:
+- code: 25.040.40
+  text: Industrial process measurement and control
+- code: 35.240.50
+  text: IT applications in industry
+structuredidentifier:
+  project_number: B3500
+  type: JIS
+ext:
+  schema-version: v0.0.1

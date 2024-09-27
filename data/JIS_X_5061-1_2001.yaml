@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5061-1-2001
+title:
+- content: セキュリティ技術―添付型ディジタル署名―第１部：総論
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Security techniques -- Digital signatures with
+    appendix -- Part 1: General'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5061-1%3A2001
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05061_001_000_2001_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5061-1:2001
+  type: JIS
+  primary: true
+docnumber: X5061
+date:
+- type: issued
+  value: '2001-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 任意長のメッセージに対する複数の添付型ディジタル署名機構を規定。添付型ディジタル署名の一般的な原則及び要件を含む。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X5061
+  type: JIS
+ext:
+  schema-version: v0.0.1

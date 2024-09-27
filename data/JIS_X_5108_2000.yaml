@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5108-2000
+title:
+- content: 開放型システム間相互接続―トランスポートサービス定義
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Open Systems Interconnection -- Transport service
+    definition
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5108%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05108_000_000_2000_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5108:2000
+  type: JIS
+  primary: true
+docnumber: X5108
+date:
+- type: issued
+  value: '2000-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 外部から見たＯＳＩトランスポート層が提供するサービスを，ａ）サービスの基本的作動及び事象；ｂ）基本的動作及び事象に関係するパラメタデータ；ｃ）動作と事象との間の関係，及びそれらの有効な順序の観点から抽象的な方法で規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.40
+  text: Transport layer
+structuredidentifier:
+  project_number: X5108
+  type: JIS
+ext:
+  schema-version: v0.0.1

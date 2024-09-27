@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISF0807-1999
+title:
+- content: 船用自動化機器環境試験通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General requirements for environmental tests of control and instrumentation
+    equipment for marine use
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0807%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS F 0807:1999
+  type: JIS
+  primary: true
+docnumber: F0807
+date:
+- type: issued
+  value: '1999-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 船に搭載する自動化及び計測装置用の機器，ユニット，センサについて，船内で想定される環境条件の下で，機能が十分発揮できることを確認するために行う環境試験の一般的事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 47.020.70
+  text: Navigation and control equipment
+structuredidentifier:
+  project_number: F0807
+  type: JIS
+ext:
+  schema-version: v0.0.1

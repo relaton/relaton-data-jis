@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.9
+id: JISC5381-311-2016
+title:
+- content: 低圧サージ防護デバイス用部品―第３１１部：ガス入り放電管（ＧＤＴ）の要求事項及び試験回路
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Components for low-voltage surge protective devices -- Part 311: Performance
+    requirements and test circuits for gas discharge tubes (GDT)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5381-311%3A2016
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05381_311_000_2016_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 5381-311:2016
+  type: JIS
+  primary: true
+docnumber: C5381
+date:
+- type: issued
+  value: '2016-03-22'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 公称システム電圧が交流１　０００Ｖ（実効値）又は直流１　５００Ｖ以下の通信網，信号網及び低圧配電システムの過電圧保護に用いる二つ又は三つの電極をもつガス入り放電管（GDT）の電気的特性を決定するための試験回路，試験方法及び試験の合否判定について規定。完成品であるサージ防護デバイスについては規定しない。GDTの特性及びサージ防護デバイスの耐量との正確な協調が非常に厳しい電子機器内に使用するGDT全体の要求事項も規定しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電子情報技術産業協会"
+ics:
+- code: '31.100'
+  text: Electronic tubes
+- code: 33.040.99
+  text: Other equipment for telecommunication systems
+structuredidentifier:
+  project_number: C5381
+  type: JIS
+ext:
+  schema-version: v0.0.1

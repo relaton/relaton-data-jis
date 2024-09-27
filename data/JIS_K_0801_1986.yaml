@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISK0801-1986
+title:
+- content: 濁度自動計測器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Continuous turbidimeter
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0801%3A1986
+  type: src
+type: standard
+docid:
+- id: JIS K 0801:1986
+  type: JIS
+  primary: true
+docnumber: K0801
+date:
+- type: issued
+  value: '1986-04-30'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 公共用水域の水質監視及び工場・事業所における排水の水質管理のために用いる濁度自動計測器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 71.040.40
+  text: Chemical analysis
+structuredidentifier:
+  project_number: K0801
+  type: JIS
+ext:
+  schema-version: v0.0.1

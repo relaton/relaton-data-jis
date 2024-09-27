@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISB3700-203-1997
+title:
+- content: 産業オートメーションシステム及びその統合―製品データの表現及び交換―第２０３部：アプリケーションプロトコル：形態管理された設計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Industrial automation systems and integration -- Product data representation
+    and exchange -- Part 203: Application protocol: Configuration controlled design'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3700-203%3A1997
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03700_203_000_1997_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 3700-203:1997
+  type: JIS
+  primary: true
+docnumber: B3700
+date:
+- type: issued
+  value: '1997-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 機械部品及びその組立品について形態管理された３次元設計のアプリケーションシステム間における交換について，その範囲及び情報要件に必要な統合リソースを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本情報経済社会推進協会
+ics:
+- code: 25.040.40
+  text: Industrial process measurement and control
+structuredidentifier:
+  project_number: B3700
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX4114-1998
+title:
+- content: 開放型文書体系（ＯＤＡ）及び交換様式　―　第１４部　時間関係及び非線形構造
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Open Document Architecture (ODA) and interchange format -- Part 14: Temporal
+    relationships and non-linear structures'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4114%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04114_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4114:1998
+  type: JIS
+  primary: true
+docnumber: X4114
+date:
+- type: issued
+  value: '1998-03-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　４１０１～Ｘ　４１１２及びＸ　４１１４は，文書の交換を促進することを目的。文書は，書簡，手紙，送り状，帳票，報告書などとし，絵及び表を含んでいてもよい。文書中で使われる内容要素は，図形文字，ラスタ図形要素お酔い幾何学図形要素でもよく，これらのすべてを一つの文書中に含んでいてもよい。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.20
+  text: IT applications in office work
+structuredidentifier:
+  project_number: X4114
+  type: JIS
+ext:
+  schema-version: v0.0.1

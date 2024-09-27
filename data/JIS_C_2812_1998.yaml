@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISC2812-1998
+title:
+- content: 機器取付け用レール
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Mounting rails for devices
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2812%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02812_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02812_000_000_1998_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 2812:1998
+  type: JIS
+  primary: true
+docnumber: C2812
+date:
+- type: issued
+  value: '1998-03-31'
+- type: confirmed
+  value: '2023-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 交流１０００Ｖ以下又は直流１５００Ｖ以下で使用する継電器，接触器，開閉器，工業用端子台などの電気機器を取り付ける機器取付け用レールについて規定。　
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気制御機器工業会
+ics:
+- code: 29.130.01
+  text: Switchgear and controlgear in general
+structuredidentifier:
+  project_number: C2812
+  type: JIS
+ext:
+  schema-version: v0.0.1

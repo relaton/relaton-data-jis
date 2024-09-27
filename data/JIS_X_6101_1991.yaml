@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISX6101-1991
+title:
+- content: 情報交換用磁気テープ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Magnetic tape for information interchange
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6101%3A1991
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06101_000_000_1991_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6101:1991
+  type: JIS
+  primary: true
+docnumber: X6101
+date:
+- type: issued
+  value: '1991-12-31'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 計数形電子計算機及び類似の機械相互間で交換する情報の記録媒体として用いられる磁気テープについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 35.220.22
+  text: Magnetic tapes
+structuredidentifier:
+  project_number: X6101
+  type: JIS
+ext:
+  schema-version: v0.0.1

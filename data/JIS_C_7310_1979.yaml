@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISC7310-1979
+title:
+- content: 信頼性保証ディジタル半導体集積回路通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for reliability assured digital semiconductor integrated
+    circuits
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7310%3A1979
+  type: src
+type: standard
+docid:
+- id: JIS C 7310:1979
+  type: JIS
+  primary: true
+docnumber: C7310
+date:
+- type: issued
+  value: '1979-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器に用いるディジタル半導体集積回路（ディジタルＩＣ）のうち，信頼性保証が要求されるディジタルＩＣについての信頼性保証プログラム，認証試験，定期的認証維持試験などの共通的事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本電子部品信頼性センター
+ics:
+- code: '31.200'
+  text: Integrated circuits. Microelectronics
+structuredidentifier:
+  project_number: C7310
+  type: JIS
+ext:
+  schema-version: v0.0.1

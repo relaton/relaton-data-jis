@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX4154-1997
+title:
+- content: 標準ページ記述言語ＳＰＤＬ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Standard Page Description Language (SPDL)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4154%3A1997
+  type: src
+type: standard
+docid:
+- id: JIS X 4154:1997
+  type: JIS
+  primary: true
+docnumber: X4154
+date:
+- type: issued
+  value: '1997-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 白黒２値，白黒多階調又はフルカラーのテキスト，画像及び幾何図形から構成される電子化文書を，提示（印刷又は他の適当な媒体への表示）に適した形式で記述するための言語を定義。将来における画像生成技術の発展に対応可能にするために，拡張性を考慮している。多様な接続要求に対応したさまざまな機器構成のもとで用いることを意図し，特にＯＳＩ通信網上における使用に適している。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　ビジネス機械・情報システム産業協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X4154
+  type: JIS
+ext:
+  schema-version: v0.0.1

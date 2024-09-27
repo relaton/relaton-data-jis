@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: JIST7318-2002
+title:
+- content: オフサルモメータ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Ophthalmometers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+7318%3A2002
+  type: src
+type: standard
+docid:
+- id: JIS T 7318:2002
+  type: JIS
+  primary: true
+docnumber: T7318
+date:
+- type: issued
+  value: '2002-10-31'
+- type: confirmed
+  value: '2019-10-25'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本医用光学機器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本医用光学機器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 人眼角膜全面をトーリック面と仮定し，その反射像によって，角膜主経線曲率半径及び角膜主経線方向を測定し，曲率半径の値から角膜屈折力を演算によって求めて，曲率半径，主径線の方向及び角膜屈折力を表示するオフサルモメータについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本医用光学機器工業会"
+ics:
+- code: 11.040.70
+  text: Ophthalmic equipment
+structuredidentifier:
+  project_number: T7318
+  type: JIS
+ext:
+  schema-version: v0.0.1

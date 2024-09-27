@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISX0151-1989
+title:
+- content: 流通ソフトウェアパッケージの利用者用文書及び外装表示
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information processing systems -- User documentation and cover information
+    for consumer software packages
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0151%3A1989
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00151_000_000_1989_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0151:1989
+  type: JIS
+  primary: true
+docnumber: X0151
+date:
+- type: issued
+  value: '1990-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 流通ソフトウェアパッケージに添付する利用者用文書及び外装表示について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X0151
+  type: JIS
+ext:
+  schema-version: v0.0.1

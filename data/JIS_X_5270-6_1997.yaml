@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5270-6-1997
+title:
+- content: 高速並列インタフェース　―　第６部　物理層スイッチの制御（ＨＩＰＰＩ－ＳＣ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- High-Performance Parallel Interface -- Part
+    6: Physical Switch Control (HIPPI-SC)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5270-6%3A1997
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05270_006_000_1997_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5270-6:1997
+  type: JIS
+  primary: true
+docnumber: X5270
+date:
+- type: issued
+  value: '1997-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＨＩＰＰＩ，すなわちデータ処理機器間における高速な２点間インタフェースの物理層スイッチの制御を規定。複数のＨＩＰＰＩ－ＰＨを相互接続する中間装置で起こる誤まりについての防止策を規定しない。計算機システムにおけるＨＩＰＰＩの開発及び利用を促進することを目的として，共通な物理層スイッチの制御を規定。計算機，高速表示システム及びインテリジェント高速ブロック転送型周辺装置を接続する物理層スイッチの交換制御のしくみを規定。ＨＩＰＰＩの２点間トポロジーにも適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.10
+  text: Physical layer
+structuredidentifier:
+  project_number: X5270
+  type: JIS
+ext:
+  schema-version: v0.0.1

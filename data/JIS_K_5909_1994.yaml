@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISK5909-1994
+title:
+- content: セラック
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Shellac
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5909%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_05909_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS K 5909:1994
+  type: JIS
+  primary: true
+docnumber: K5909
+date:
+- type: issued
+  value: '1994-05-31'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: 日本セラック協同組合
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本セラック協同組合
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ラック貝ガラ虫の分泌物を精製して得たセラックについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本セラック協同組合
+ics:
+- code: 87.060.20
+  text: Binders
+structuredidentifier:
+  project_number: K5909
+  type: JIS
+ext:
+  schema-version: v0.0.1

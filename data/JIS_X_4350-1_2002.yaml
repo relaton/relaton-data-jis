@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX4350-1-2002
+title:
+- content: ＪＰＥＧ２０００画像符号処理システム―第１部：基本符号処理
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- JPEG 2000 Image coding system -- Part 1: Core
+    coding system'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4350-1%3A2002
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04350_001_000_2002_j_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4350-1:2002
+  type: JIS
+  primary: true
+docnumber: X4350
+date:
+- type: issued
+  value: '2002-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ２値，連続階調白黒及びパレット化されたカラー又は連続階調カラーのディジタル静止画像符号処理における，可逆（情報が保存される。）及び非可逆の圧縮方法の組を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X4350
+  type: JIS
+ext:
+  schema-version: v0.0.1

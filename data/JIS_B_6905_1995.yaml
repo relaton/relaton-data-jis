@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISB6905-1995
+title:
+- content: 金属製品熱処理用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Heat treatment for metal products -- Vocabulary
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6905%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06905_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 6905:1995
+  type: JIS
+  primary: true
+docnumber: B6905
+date:
+- type: issued
+  value: '1995-03-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本熱処理技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本熱処理技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 鉄鋼及び非鉄金属からなる機械部品，ジク，工具，金型などの製品の熱処理に関する用語及び定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本熱処理技術協会
+ics:
+- code: 01.040.25
+  text: Manufacturing engineering (Vocabularies)
+- code: '25.200'
+  text: Heat treatment
+structuredidentifier:
+  project_number: B6905
+  type: JIS
+ext:
+  schema-version: v0.0.1

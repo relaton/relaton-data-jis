@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISX0129-1-2003
+title:
+- content: ソフトウェア製品の品質―第１部：品質モデル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Software engineering -- Product quality -- Part 1: Quality model'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0129-1%3A2003
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00129_001_000_2003_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0129-1:2003
+  type: JIS
+  primary: true
+docnumber: X0129
+date:
+- type: issued
+  value: '2003-02-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ソフトウェア製品品質に対して，ａ）内部品質及び外部品質；ｂ）利用時の品質の二部構成のモデルを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X0129
+  type: JIS
+ext:
+  schema-version: v0.0.1

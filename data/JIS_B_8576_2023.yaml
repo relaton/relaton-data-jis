@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISB8576-2023
+title:
+- content: 水素燃料計量システム―自動車充填用
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Hydrogen metering system for motor vehicles
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8576%3A2023
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08576_000_000_2023_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8576:2023
+  type: JIS
+  primary: true
+docnumber: B8576
+date:
+- type: issued
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 車両の燃料タンクに圧縮水素ガスを充填するための機構をもち，水素ステーションに設置し，取引又は証明に使用する計量システムについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本計量機器工業連合会
+ics:
+- code: 17.040.30
+  text: Measuring instruments
+- code: 75.160.30
+  text: Gaseous fuels
+structuredidentifier:
+  project_number: B8576
+  type: JIS
+ext:
+  schema-version: v0.0.1

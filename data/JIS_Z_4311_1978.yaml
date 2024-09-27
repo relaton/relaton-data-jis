@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.9
+id: JISZ4311-1978
+title:
+- content: 個人用照射線量警報計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Personal exposure alarm meters for x and gamma-rays
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4311%3A1978
+  type: src
+type: standard
+docid:
+- id: JIS Z 4311:1978
+  type: JIS
+  primary: true
+docnumber: Z4311
+date:
+- type: issued
+  value: '1978-07-31'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　日本保安用品協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　日本保安用品協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 光量子エネルギー又は実効エネルギーが３０ｋｅＶから２ＭｅＶまでのＸ線及びＣ線による人体の外部被ばく線量を監視するための個人用照射線量警報計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　日本保安用品協会
+structuredidentifier:
+  project_number: Z4311
+  type: JIS
+ext:
+  schema-version: v0.0.1

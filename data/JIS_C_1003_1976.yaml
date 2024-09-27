@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC1003-1976
+title:
+- content: ディジタル電圧計試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Testing methods for digital voltmeters
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1003%3A1976
+  type: src
+type: standard
+docid:
+- id: JIS C 1003:1976
+  type: JIS
+  primary: true
+docnumber: C1003
+date:
+- type: issued
+  value: '1976-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＡＤ変換器をもっていて直流電圧をディジタル表示するディジタル電圧計の試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
+structuredidentifier:
+  project_number: C1003
+  type: JIS
+ext:
+  schema-version: v0.0.1

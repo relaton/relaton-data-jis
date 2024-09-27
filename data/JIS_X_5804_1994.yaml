@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISX5804-1994
+title:
+- content: メッセージ指向型文書交換システム（ＭＯＴＩＳ）　―　第４部　メッセージ転送システムの抽象サービス定義及び手続
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Text Communication -- Message-Oriented Text
+    Interchange Systems (MOTIS) -- Part 4: Message Transfer System: Abstract Service
+    Definition and Procedures'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5804%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS X 5804:1994
+  type: JIS
+  primary: true
+docnumber: X5804
+date:
+- type: issued
+  value: '1994-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 開放型システム環境で利用されるメッセージ指向型文書交換システムの規格群の一つである。ＭＴＳが提供する抽象サービスを規定し，ＭＴＳの正しい分散操作を確実にするためにＭＴＡが実行する手続を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5804
+  type: JIS
+ext:
+  schema-version: v0.0.1

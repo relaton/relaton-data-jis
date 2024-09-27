@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC8325-1983
+title:
+- content: 交流電磁開閉器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: AC electromagnetic switches
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8325%3A1983
+  type: src
+type: standard
+docid:
+- id: JIS C 8325:1983
+  type: JIS
+  primary: true
+docnumber: C8325
+date:
+- type: issued
+  value: '1983-11-10'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 定格絶縁電圧６００Ｖ以下，周波数５０Ｈｚ又は６０Ｈｚの気中形及び油入形の交流電磁開閉器について規定。船用，車両用などの開閉器には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: 29.120.40
+  text: Switches
+structuredidentifier:
+  project_number: C8325
+  type: JIS
+ext:
+  schema-version: v0.0.1

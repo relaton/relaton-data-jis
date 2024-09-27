@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISX25010-2013
+title:
+- content: システム及びソフトウェア製品の品質要求及び評価（ＳＱｕａＲＥ）―システム及びソフトウェア品質モデル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Systems and software engineering -- Systems and software Quality Requirements
+    and Evaluation (SQuaRE) -- System and software quality models
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+25010%3A2013
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_25010_000_000_2013_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 25010:2013
+  type: JIS
+  primary: true
+docnumber: X25010
+date:
+- type: issued
+  value: '2013-06-20'
+- type: confirmed
+  value: '2023-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ａ）利用時の品質モデル；ｂ）製品品質モデルを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X25010
+  type: JIS
+ext:
+  schema-version: v0.0.1

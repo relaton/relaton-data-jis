@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC4531-1994
+title:
+- content: コンタクタ形電磁継電器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Contactor relays
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4531%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS C 4531:1994
+  type: JIS
+  primary: true
+docnumber: C4531
+date:
+- type: issued
+  value: '1994-06-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 周波数５０若しくは６０Ｈｚの交流６００Ｖ以下又は直流２５０Ｖ以下の電路に使用する一般制御用コンタクタ形電磁継電器について規定。ヒンジ形継電器，通信機，電子計算機などに専用のもの及び電圧継電器，電流継電器，限時継電器など特定の用途のものには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: 29.120.70
+  text: Relays
+structuredidentifier:
+  project_number: C4531
+  type: JIS
+ext:
+  schema-version: v0.0.1

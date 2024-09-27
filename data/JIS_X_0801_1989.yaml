@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX0801-1989
+title:
+- content: 雑誌名の情報交換用略記方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Abbreviation of titles of periodicals for information interchange
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0801%3A1989
+  type: src
+type: standard
+docid:
+- id: JIS X 0801:1989
+  type: JIS
+  primary: true
+docnumber: X0801
+date:
+- type: issued
+  value: '1990-02-28'
+contributor:
+- organization:
+    name:
+    - content: 文部科学省科学技術・学術政策局基盤政策課
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 文部科学省科学技術・学術政策局基盤政策課
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: データ処理システムにおける一次資料中に参照文献を記述する場合及び二次資料を作成する場合に参照した個々の雑誌（その他の逐次刊行物も含む。）の誌名の略記方法について規定。“一次資料”，“二次資料”及び“参照した雑誌”は，技術分野のものを示すが，和文又は欧文の別は問わない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 文部科学省科学技術・学術政策局基盤政策課
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X0801
+  type: JIS
+ext:
+  schema-version: v0.0.1

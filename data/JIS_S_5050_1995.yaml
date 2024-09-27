@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISS5050-1995
+title:
+- content: 革靴
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Leather shoes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+5050%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_05050_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS S 5050:1995
+  type: JIS
+  primary: true
+docnumber: S5050
+date:
+- type: issued
+  value: '1995-09-30'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 特定非営利活動法人　日本靴工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 特定非営利活動法人　日本靴工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 革を甲用材料とした一般歩行用の革靴について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 特定非営利活動法人　日本靴工業会
+ics:
+- code: '61.060'
+  text: Footwear
+structuredidentifier:
+  project_number: S5050
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC0801-1964
+title:
+- content: 電子機器用部品の色による定格表示の通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Color code for electronic parts
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0801%3A1964
+  type: src
+type: standard
+docid:
+- id: JIS C 0801:1964
+  type: JIS
+  primary: true
+docnumber: C0801
+date:
+- type: issued
+  value: '1975-06-20'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子応用機器の構成部品の定格の数字を色で表わす場合の基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: '31.020'
+  text: Electronic components in general
+structuredidentifier:
+  project_number: C0801
+  type: JIS
+ext:
+  schema-version: v0.0.1

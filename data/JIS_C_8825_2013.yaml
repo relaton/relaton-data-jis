@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISC8825-2013
+title:
+- content: 小形燃料電池システムの電磁両立性（ＥＭＣ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electromagnetic compatibility (EMC) for small fuel cell power systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8825%3A2013
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08825_000_000_2013_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8825:2013
+  type: JIS
+  primary: true
+docnumber: C8825
+date:
+- type: issued
+  value: '2013-07-22'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ａ）燃料電池の種類　固体高分子形燃料電池及び固体酸化物形燃料電池；ｂ）出力　定格送電出力１０ｋＷ未満；ｃ）交流出力電圧　２２０Ｖ以下；ｄ）運転形態　系統連系運転又は自立運転；ｅ）原燃料　気体燃料（都市ガス，液化石油ガスなど），液体燃料（灯油など）又は水素；ｆ）運転圧力　燃料ガスが通る部分の最高使用圧力が０．１ＭＰａ未満。液体燃料が通る部分は，１．０ＭＰａ未満；ｇ）システム形態　パッケージに収納された定置用の発電専用システム又はコージェネレーションシステム。マイクロ及びポータブル燃料電池は除く；事項に該当する定置用の小形固体高分子形燃料電池システム及び小形固体酸化物形燃料電池システムの電磁両立性（ＥＭＣ）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.070'
+  text: Fuel cells
+- code: '33.100'
+  text: Electromagnetic compatibility (EMC)
+structuredidentifier:
+  project_number: C8825
+  type: JIS
+ext:
+  schema-version: v0.0.1

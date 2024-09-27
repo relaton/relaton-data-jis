@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JIST1011-1988
+title:
+- content: 医用電気機器用語（共通編）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms used in medical electrical equipment (general terms)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1011%3A1988
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_01011_000_000_1988_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_01011_000_000_1988_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS T 1011:1988
+  type: JIS
+  primary: true
+docnumber: T1011
+date:
+- type: issued
+  value: '1989-02-28'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 医用電気機器に関する共通的な用語及びその意味について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
+- code: 11.040.01
+  text: Medical equipment in general
+structuredidentifier:
+  project_number: T1011
+  type: JIS
+ext:
+  schema-version: v0.0.1

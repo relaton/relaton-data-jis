@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISB7542-1979
+title:
+- content: 工業用バイメタル式温度計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Bimetallic thermometers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7542%3A1979
+  type: src
+type: standard
+docid:
+- id: JIS B 7542:1979
+  type: JIS
+  primary: true
+docnumber: B7542
+date:
+- type: issued
+  value: '1979-12-01'
+contributor:
+- organization:
+    name:
+    - content: 日本圧力計温度計工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本圧力計温度計工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 一端が固定されたバイメタルの自由端が温度変化に伴って動くのを利用して指針を回転させ，温度を指示する単針同心の丸形指示温度計で感温部が直管形のもののうち，温度範囲－５０～５００℃で使用されるものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本圧力計温度計工業会
+ics:
+- code: 17.200.20
+  text: Temperature-measuring instruments
+structuredidentifier:
+  project_number: B7542
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JIST1214-1985
+title:
+- content: 医用トレッドミル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Medical treadmils
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1214%3A1985
+  type: src
+type: standard
+docid:
+- id: JIS T 1214:1985
+  type: JIS
+  primary: true
+docnumber: T1214
+date:
+- type: issued
+  value: '1985-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 運動負荷検査及び医学的リハビリテーション用の電気動力を用いたトレッドミルについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+structuredidentifier:
+  project_number: T1214
+  type: JIS
+ext:
+  schema-version: v0.0.1

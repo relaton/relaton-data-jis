@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISC1912-2014
+title:
+- content: 家庭用電気機器及び類似機器からの人体ばく露に関する電磁界の測定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Measurement methods for electromagnetic fields of household appliances
+    and similar apparatus with regard to human exposure
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1912%3A2014
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01912_000_000_2014_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 1912:2014
+  type: JIS
+  primary: true
+docnumber: C1912
+date:
+- type: issued
+  value: '2014-08-20'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ３００ＧＨｚ以下の電磁界を取り扱い，家庭用及び類似用途の電気機器周囲の電界の強さ及び磁束密度を評価するための方法について，試験条件並びに測定距離及び測定位置を含めて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電気学会
+ics:
+- code: '97.030'
+  text: Domestic electrical appliances in general
+structuredidentifier:
+  project_number: C1912
+  type: JIS
+ext:
+  schema-version: v0.0.1

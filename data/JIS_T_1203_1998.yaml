@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JIST1203-1998
+title:
+- content: 脳波計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electroencephalographs
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1203%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_01203_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_01203_000_000_1998_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS T 1203:1998
+  type: JIS
+  primary: true
+docnumber: T1203
+date:
+- type: issued
+  value: '1998-04-30'
+- type: confirmed
+  value: '2023-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 診断のために，脳の活動電位を記録する脳波計について規定。これ以外の目的で脳波測定を行う機器，例えば，大脳機能監視装置，脳波テレメータ，脳波データ収録・再生装置，電気治療中の特別な脳波監視装置などには適用しない。脳波用せん（閃）光刺激装置を内蔵するものの該当する部分については，ＪＩＳ　Ｔ　１２１３を適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+structuredidentifier:
+  project_number: T1203
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISC0455-2005
+title:
+- content: 電気及び関連分野―工業用システム，設備及び装置，並びに工業製品―システムにおける接続端の識別
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Industrial systems, installations and equipment and industrial products
+    -- Identification of terminals within a system
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0455%3A2005
+  type: src
+type: standard
+docid:
+- id: JIS C 0455:2005
+  type: JIS
+  primary: true
+docnumber: C0455
+date:
+- type: issued
+  value: '2005-09-20'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: システムにおけるオブジェクトの接続端の指定方法に関する原則について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 01.080.30
+  text: Graphical symbols for use on mechanical engineering and construction drawings,
+    diagrams, plans, maps and in relevant technical product documentation
+structuredidentifier:
+  project_number: C0455
+  type: JIS
+ext:
+  schema-version: v0.0.1

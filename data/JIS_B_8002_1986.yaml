@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISB8002-1986
+title:
+- content: 往復動内燃機関の性能試験方法通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for test code of reciprocating internal combustion engines
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8002%3A1986
+  type: src
+type: standard
+docid:
+- id: JIS B 8002:1986
+  type: JIS
+  primary: true
+docnumber: B8002
+date:
+- type: issued
+  value: '1986-11-30'
+contributor:
+- organization:
+    name:
+    - content: 日本内燃機関連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本内燃機関連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 航空機用を除くすべての径復動内燃機関の性能試験方法の共通する事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本内燃機関連合会
+ics:
+- code: '21.240'
+  text: Rotary-reciprocating mechanisms and their parts
+- code: '27.020'
+  text: Internal combustion engines
+structuredidentifier:
+  project_number: B8002
+  type: JIS
+ext:
+  schema-version: v0.0.1

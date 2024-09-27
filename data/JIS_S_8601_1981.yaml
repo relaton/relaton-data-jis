@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISS8601-1981
+title:
+- content: ディスクレコード
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Disk records
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+8601%3A1981
+  type: src
+type: standard
+docid:
+- id: JIS S 8601:1981
+  type: JIS
+  primary: true
+docnumber: S8601
+date:
+- type: issued
+  value: '1981-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本レコード協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本レコード協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 再生を目的とした音の固定物として複製された蓄音機用ディスクレコードについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本レコード協会
+ics:
+- code: 33.160.30
+  text: Audio systems
+structuredidentifier:
+  project_number: S8601
+  type: JIS
+ext:
+  schema-version: v0.0.1

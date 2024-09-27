@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISD0103-2019
+title:
+- content: 自動車部品―電気装置の機器・部品の名称
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Automobile parts -- Glossary of devices and parts of electric equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+0103%3A2019
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_00103_000_000_2019_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS D 0103:2019
+  type: JIS
+  primary: true
+docnumber: D0103
+date:
+- type: issued
+  value: '2019-03-20'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 自動車用電気装置の生産，取引，整備などの分野で用いる，自動車用電気装置の主な機器・部品の名称について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　自動車技術会
+ics:
+- code: 01.040.43
+  text: Road vehicle engineering (Vocabularies)
+- code: 43.040.10
+  text: Electrical and electronic equipment
+structuredidentifier:
+  project_number: D0103
+  type: JIS
+ext:
+  schema-version: v0.0.1

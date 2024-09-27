@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISC1611-1995
+title:
+- content: サーミスタ測温体
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Thermistor for temperature measurement
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1611%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01611_000_000_1995_j_pr11_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01611_000_000_1995_e_pr20_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 1611:1995
+  type: JIS
+  primary: true
+docnumber: C1611
+date:
+- type: issued
+  value: '1995-01-31'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 温度測定に使用するサーミスタ測温体について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 17.200.10
+  text: Heat. Calorimetry
+structuredidentifier:
+  project_number: C1611
+  type: JIS
+ext:
+  schema-version: v0.0.1

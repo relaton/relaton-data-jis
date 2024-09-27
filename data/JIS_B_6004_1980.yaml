@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISB6004-1980
+title:
+- content: 工作機械の騒音レベル測定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Method of sound level measurement for machine tools
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6004%3A1980
+  type: src
+type: standard
+docid:
+- id: JIS B 6004:1980
+  type: JIS
+  primary: true
+docnumber: B6004
+date:
+- type: issued
+  value: '1980-12-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 金属切削に用いる工作機械から発生する音の騒音レベルの測定方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本工作機械工業会
+ics:
+- code: 17.140.20
+  text: Noise emitted by machines and equipment
+- code: 25.080.01
+  text: Machine tools in general
+structuredidentifier:
+  project_number: B6004
+  type: JIS
+ext:
+  schema-version: v0.0.1

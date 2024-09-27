@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.9
+id: JISX6300-9-2001
+title:
+- content: 外部端子付きＩＣカード　―　追加共通コマンド及びセキュリティ属性
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Identification cards -- Integrated circuit(s) cards with contacts -- Part
+    9: Additional interindustry commands and security attributes'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6300-9%3A2001
+  type: src
+type: standard
+docid:
+- id: JIS X 6300-9:2001
+  type: JIS
+  primary: true
+docnumber: X6300
+date:
+- type: issued
+  value: '2001-10-31'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: カード・関連オブジェクトのライフサイクル記述及び符号化，カード関連オブジェクトのセキュリティ属性の記述及び符号化，追加共通コマンドの機能及び形式，これらのコマンドに関連付けられたデータ要素，並びにカード発信メッセージ初期化機構を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ＩＣカードシステム利用促進協議会"
+ics:
+- code: '35.040'
+  text: Information coding
+- code: 35.240.15
+  text: Identification cards. Chip cards. Biometrics
+structuredidentifier:
+  project_number: X6300
+  type: JIS
+ext:
+  schema-version: v0.0.1

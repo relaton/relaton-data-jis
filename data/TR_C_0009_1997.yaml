@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: TRC0009-1997
+title:
+- content: 電磁両立性　第２部：環境　第６節：産業プラント内の電源における低周波伝導妨害に関するエミッションレベルの評価
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Electromagnetic compatibility (EMC) Part 2: Environment Section 6: Assessment
+    of the emission levels in the power supply of industrial plants as regards low-frequency
+    conducted disturbances'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0009%3A1997
+  type: src
+type: standard
+docid:
+- id: TR C 0009:1997
+  type: JIS
+  primary: true
+docnumber: C0009
+date:
+- type: issued
+  value: '1997-11-20'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 産業環境における非公共系統に接続された装置，機器及びシステムのエミッションに起因する電源系統における低周波伝導妨害に関するレベルの評価方法を勧告。これによって，適切なエミッション限度値を導くことができる。これは低圧及び中圧の，交流５０／６０Ｈｚの非公共系統に適用。船舶，航空機，海上作業台船，及び鉄道用の系統は本報告書の適用範囲外。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 33.100.10
+  text: Emission
+- code: 33.100.20
+  text: Immunity
+structuredidentifier:
+  project_number: C0009
+  type: JIS
+ext:
+  schema-version: v0.0.1

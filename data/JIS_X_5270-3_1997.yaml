@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISX5270-3-1997
+title:
+- content: 高速並列インタフェース　―　第３部　論理リンク制御プロトコルデータ単位のカプセル化（ＨＩＰＰＩ－ＬＥ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- High-Performance Parallel Interface -- Part
+    3: Encapsulation of ISO/IEC 8802-2 (IEEE Std 802.2) Logical Link Control Protocol
+    Data Unit (HIPPI-LE)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5270-3%3A1997
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05270_003_000_1997_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5270-3:1997
+  type: JIS
+  primary: true
+docnumber: X5270
+date:
+- type: issued
+  value: '1997-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＨＩＰＰＩにおけるＩＳＯ／ＩＥＣ　８８０２－２の論理リンク制御のプロトコルデータ単位（ＰＤＵ）のカプセル化について共通規則を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.10
+  text: Physical layer
+structuredidentifier:
+  project_number: X5270
+  type: JIS
+ext:
+  schema-version: v0.0.1

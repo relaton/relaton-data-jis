@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: TRX0077-2003
+title:
+- content: Ｘフォーム１．０
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: XForms 1.0
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0077%3A2003
+  type: src
+type: standard
+docid:
+- id: TR X 0077:2003
+  type: JIS
+  primary: true
+docnumber: X0077
+date:
+- type: issued
+  value: '2003-02-01'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ウェブ用の次世代のフォーム（Ｆｏｒｍｓ）を表現するＸＭＬ応用とする。独立した文書型ではなく，ＸＨＴＭＬ，ＳＶＧなどの他のマーク付け言語に統合されることを意図。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X0077
+  type: JIS
+ext:
+  schema-version: v0.0.1

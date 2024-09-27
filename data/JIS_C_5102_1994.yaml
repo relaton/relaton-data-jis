@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC5102-1994
+title:
+- content: 電子機器用固定コンデンサの試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Test methods of fixed capacitors for use in electronic equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5102%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS C 5102:1994
+  type: JIS
+  primary: true
+docnumber: C5102
+date:
+- type: issued
+  value: '1994-04-30'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器に用いる固定コンデンサの試験方法について規定。この規格と個別規格との間に規定の相違がある場合は，個別規格の規定による。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子機械工業会
+ics:
+- code: 31.060.10
+  text: Fixed capacitors
+structuredidentifier:
+  project_number: C5102
+  type: JIS
+ext:
+  schema-version: v0.0.1

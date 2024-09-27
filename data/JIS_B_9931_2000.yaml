@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISB9931-2000
+title:
+- content: 質量法による作動油汚染の測定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Fluid contamination -- Determination of contaminants by the gravimetric
+    methods
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9931%3A2000
+  type: src
+type: standard
+docid:
+- id: JIS B 9931:2000
+  type: JIS
+  primary: true
+docnumber: B9931
+date:
+- type: issued
+  value: '2000-04-30'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本フルードパワー工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本フルードパワー工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 油圧システムに使用されている作動油の汚染度を，二通りの質量法によって測定する方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本フルードパワー工業会
+ics:
+- code: 23.100.60
+  text: Filters, seals and contamination of fluids
+- code: '75.120'
+  text: Hydraulic fluids
+structuredidentifier:
+  project_number: B9931
+  type: JIS
+ext:
+  schema-version: v0.0.1

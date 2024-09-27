@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISH7803-2005
+title:
+- content: 金属触媒の粒子径及び結晶子径測定方法通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for the determination of particle size and crystallite size
+    in metal catalysts
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+7803%3A2005
+  type: src
+type: standard
+docid:
+- id: JIS H 7803:2005
+  type: JIS
+  primary: true
+docnumber: H7803
+date:
+- type: issued
+  value: '2005-03-20'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　大阪科学技術センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　大阪科学技術センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 担体上に分散・固定化された状態（例えば，担持金属触媒）及び金属コロイドとして単独及び触媒中に分離している状態（例えば，金属コロイド懸濁液）で存在する１ｍｍ以上１００ｍｍ以下の粒子径もつ金属元素からなる金属触媒の粒子径を電子顕微鏡法で，結晶子径をＸ線回折法を用いて測定する際に共通な事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　大阪科学技術センター
+ics:
+- code: '19.120'
+  text: Particle size analysis. Sieving
+- code: 71.100.99
+  text: Other products of the chemical industry
+- code: '77.020'
+  text: Production of metals
+structuredidentifier:
+  project_number: H7803
+  type: JIS
+ext:
+  schema-version: v0.0.1

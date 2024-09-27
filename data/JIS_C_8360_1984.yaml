@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISC8360-1984
+title:
+- content: リモコンリレー及びリモコンスイッチ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Remote control relays and remote control switches
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8360%3A1984
+  type: src
+type: standard
+docid:
+- id: JIS C 8360:1984
+  type: JIS
+  primary: true
+docnumber: C8360
+date:
+- type: issued
+  value: '1984-06-30'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電設工業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電設工業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 屋内で周波数５０Ｈｚ又は６０Ｈｚの交流３００Ｖ以下の電路で遠隔制御方式に使用するリモコンリレー及びリモコンスイッチについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電設工業協会
+ics:
+- code: 29.120.40
+  text: Switches
+- code: 29.120.70
+  text: Relays
+structuredidentifier:
+  project_number: C8360
+  type: JIS
+ext:
+  schema-version: v0.0.1

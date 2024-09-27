@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISC1517-2024
+title:
+- content: 振動レベル計―取引又は証明用
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Vibration level meters -- Measuring instruments used in transaction or
+    certification
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1517%3A2024
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01517_000_000_2024_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 1517:2024
+  type: JIS
+  primary: true
+docnumber: C1517
+date:
+- type: issued
+  value: '2024-03-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 取引又は証明用に使用される振動レベル計の構造，性能，試験方法などについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本計量機器工業連合会
+ics:
+- code: 17.140.50
+  text: Electroacoustics
+- code: '17.160'
+  text: Vibrations, shock and vibration measurements
+structuredidentifier:
+  project_number: C1517
+  type: JIS
+ext:
+  schema-version: v0.0.1

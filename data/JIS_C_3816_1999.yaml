@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISC3816-1999
+title:
+- content: 長幹がいし
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Long rod insulators
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3816%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03816_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 3816:1999
+  type: JIS
+  primary: true
+docnumber: C3816
+date:
+- type: issued
+  value: '1999-07-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 日本電磁器協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本電磁器協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: クレビスークレビス形及びソケット―ソケット形磁器製長幹がいしについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本電磁器協会
+ics:
+- code: 29.080.10
+  text: Insulators
+structuredidentifier:
+  project_number: C3816
+  type: JIS
+ext:
+  schema-version: v0.0.1

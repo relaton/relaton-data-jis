@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX6300-8-2001
+title:
+- content: 外部端子付きＩＣカード　―　セキュリティ関連共通コマンド
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Identification cards -- Integrated circuit(s) cards with contacts -- Part
+    8: Security related interindustry commands'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6300-8%3A2001
+  type: src
+type: standard
+docid:
+- id: JIS X 6300-8:2001
+  type: JIS
+  primary: true
+docnumber: X6300
+date:
+- type: issued
+  value: '2001-05-31'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: カード用セキュリティプロトコル；セキュアメッセージング拡張機能：カード内のセキュリティ機能の記述も含め，カードのセキュリティ機能及びサービスへのカードのセキュリティ機構の写像；セキュリティ支援のためのデータ要素；カードに実装されたアルゴリズムの使用方法（ただし，アルゴリズム自身の詳細の規定はしない。）；認証書の使用方法；セキュリティの関連するコマンドの事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ＩＣカードシステム利用促進協議会"
+ics:
+- code: 35.240.15
+  text: Identification cards. Chip cards. Biometrics
+structuredidentifier:
+  project_number: X6300
+  type: JIS
+ext:
+  schema-version: v0.0.1

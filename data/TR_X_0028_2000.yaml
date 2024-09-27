@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: TRX0028-2000
+title:
+- content: Ｊａｖａプラットフォームの実時間機能拡張のための要件定義
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Requirements for Real-time Extensions for the Java Platform
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0028%3A2000
+  type: src
+type: standard
+docid:
+- id: TR X 0028:2000
+  type: JIS
+  primary: true
+docnumber: X0028
+date:
+- type: issued
+  value: '2000-08-01'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 実時間Ｊａｖａ規定の作成者・開発者，プロファイルの要件・規定作成者及び応用プログラム開発者のために，実時間コミュニティにおいても明確になっていなかった“実時間”の概念の明確化，並びに実時間Ｊａｖａシステムを理解するための共通の概念及び用語；様々なプラットフォーム上で動作する実時間Ｊａｖａアプリケーションのために共通的に必要な実時間機能の“コア”要件　の項目を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 35.240.01
+  text: Application of information technology in general
+structuredidentifier:
+  project_number: X0028
+  type: JIS
+ext:
+  schema-version: v0.0.1

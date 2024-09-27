@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX4331-1999
+title:
+- content: 動画信号及び付随する音響信号のはん用符号化―第９部：同期多重復号器のリアルタイムインタフェースへの拡張
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Generic coding of moving pictures and associated
+    audio information -- Part 9: Extension for real time interface for systems decoders'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4331%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS X 4331:1999
+  type: JIS
+  primary: true
+docnumber: X4331
+date:
+- type: issued
+  value: '2000-02-29'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　４３２５のどのような要件の変更又は入替えも定めない。すべてのトランスポートストリームは，リアルタイムインタフェース（ＲＴＩ）によって転送されるかどうかにかかわらず，ＪＩＳ　Ｘ　４３２５によらなければならない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X4331
+  type: JIS
+ext:
+  schema-version: v0.0.1

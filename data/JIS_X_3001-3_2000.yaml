@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISX3001-3-2000
+title:
+- content: プログラム言語　Ｆｏｒｔｒａｎ―第３部：条件付き翻訳
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Programming languages -- Fortran -- Part 3: Conditional Compilation'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3001-3%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03001_003_000_2000_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 3001-3:2000
+  type: JIS
+  primary: true
+docnumber: X3001
+date:
+- type: issued
+  value: '2000-12-31'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　３００１規格群の部分規格は，Ｆｏｒｔｒａｎで用いられる，条件付き翻訳の機能を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3001
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISZ3621-1992
+title:
+- content: ろう付作業標準
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Recommended practice for brazing
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3621%3A1992
+  type: src
+type: standard
+docid:
+- id: JIS Z 3621:1992
+  type: JIS
+  primary: true
+docnumber: Z3621
+date:
+- type: issued
+  value: '1992-11-15'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本溶接協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本溶接協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 炭素鋼，合金鋼，銅，銅合金などの厚さ３．２ｍｍ以下の板及び管のろう付作業標準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本溶接協会
+ics:
+- code: 25.160.50
+  text: Brazing and soldering
+structuredidentifier:
+  project_number: Z3621
+  type: JIS
+ext:
+  schema-version: v0.0.1

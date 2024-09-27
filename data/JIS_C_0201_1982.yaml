@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISC0201-1982
+title:
+- content: ヒューズ用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms for fuses
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0201%3A1982
+  type: src
+type: standard
+docid:
+- id: JIS C 0201:1982
+  type: JIS
+  primary: true
+docnumber: C0201
+date:
+- type: issued
+  value: '1982-02-28'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ヒューズに関する用語と，その読み方及び用語の意味について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電気学会
+ics:
+- code: 01.040.29
+  text: Electrical engineering (Vocabularies)
+- code: 29.120.50
+  text: Fuses and other overcurrent protection devices
+structuredidentifier:
+  project_number: C0201
+  type: JIS
+ext:
+  schema-version: v0.0.1

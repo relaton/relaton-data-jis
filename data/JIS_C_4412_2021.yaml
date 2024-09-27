@@ -1,0 +1,92 @@
+---
+schema-version: v1.2.9
+id: JISC4412-2021
+title:
+- content: 低圧蓄電システムの安全要求事項
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Safety requirements for electric energy storage equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4412%3A2021
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04412_000_000_2021_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04412_000_000_2021_e_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 4412:2021
+  type: JIS
+  primary: true
+docnumber: C4412
+date:
+- type: issued
+  value: '2021-11-22'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 一体形蓄電池又は分離形蓄電池を備えた低圧蓄電システムの装置としての安全性について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電機工業会"
+ics:
+- code: '29.200'
+  text: Rectifiers. Converters. Stabilized power supply
+structuredidentifier:
+  project_number: C4412
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISZ3001-1999
+title:
+- content: 溶接用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Welding terms
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3001%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS Z 3001:1999
+  type: JIS
+  primary: true
+docnumber: Z3001
+date:
+- type: issued
+  value: '1999-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本溶接協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本溶接協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 溶接関係で術語として用いる用語と，その定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本溶接協会
+ics:
+- code: 01.040.25
+  text: Manufacturing engineering (Vocabularies)
+- code: 25.160.01
+  text: Welding, brazing and soldering in general
+structuredidentifier:
+  project_number: Z3001
+  type: JIS
+ext:
+  schema-version: v0.0.1

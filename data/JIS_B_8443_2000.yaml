@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISB8443-2000
+title:
+- content: 産業用マニピュレーティングロボット―把握型グリッパによる対象物ハンドリング―用語及び特性の表し方
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Manipulating industrial robots -- Object handling with grasp-type grippers
+    -- Vocabulary and presentation of characteristics
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8443%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08443_000_000_2000_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8443:2000
+  type: JIS
+  primary: true
+docnumber: B8443
+date:
+- type: issued
+  value: '2001-01-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本ロボット工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本ロボット工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 対象物ハンドリングを記述する用語，及び把握型グリッパの機能，構造，要素に関する用語を与える。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本ロボット工業会
+ics:
+- code: 01.040.25
+  text: Manufacturing engineering (Vocabularies)
+- code: 25.040.30
+  text: Industrial robots. Manipulators
+structuredidentifier:
+  project_number: B8443
+  type: JIS
+ext:
+  schema-version: v0.0.1

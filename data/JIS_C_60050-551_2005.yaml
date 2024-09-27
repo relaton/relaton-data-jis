@@ -1,0 +1,100 @@
+---
+schema-version: v1.2.9
+id: JISC60050-551-2005
+title:
+- content: 電気技術用語―第５５１部：パワーエレクトロニクス
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'International Electrotechnical Vocabulary -- Part 551: Power electronics'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60050-551%3A2005
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60050_551_000_2005_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60050_551_000_2005_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 60050-551:2005
+  type: JIS
+  primary: true
+docnumber: C60050
+date:
+- type: issued
+  value: '2005-12-20'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 電気技術用語のうち，パワーエレクトニクスに関する用語について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電気学会"
+ics:
+- code: 01.040.29
+  text: Electrical engineering (Vocabularies)
+- code: 01.040.31
+  text: Electronics (Vocabularies)
+- code: '29.200'
+  text: Rectifiers. Converters. Stabilized power supply
+- code: '31.020'
+  text: Electronic components in general
+structuredidentifier:
+  project_number: C60050
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISF7005-1984
+title:
+- content: 船用配管の識別
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Identification of piping system on board ships
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+7005%3A1984
+  type: src
+type: standard
+docid:
+- id: JIS F 7005:1984
+  type: JIS
+  primary: true
+docnumber: F7005
+date:
+- type: issued
+  value: '1985-02-28'
+- type: confirmed
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 船における配管系統内の流体の種類の識別を，色によって表示する場合の一般事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 47.020.30
+  text: Piping systems
+structuredidentifier:
+  project_number: F7005
+  type: JIS
+ext:
+  schema-version: v0.0.1

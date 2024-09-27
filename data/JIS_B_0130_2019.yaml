@@ -1,0 +1,92 @@
+---
+schema-version: v1.2.9
+id: JISB0130-2019
+title:
+- content: 火力発電用語―一般
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms for thermal power plants -- General
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0130%3A2019
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00130_000_000_2019_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 0130:2019
+  type: JIS
+  primary: true
+docnumber: B0130
+date:
+- type: issued
+  value: '2019-09-20'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　火力原子力発電技術協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　火力原子力発電技術協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 火力発電で用いられる全体，環境，運用，保守など一般に関する主な用語，及びその定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　火力原子力発電技術協会"
+ics:
+- code: 01.040.27
+  text: Energy and heat transfer engineering (Vocabularies)
+- code: '27.100'
+  text: Power stations in general
+structuredidentifier:
+  project_number: B0130
+  type: JIS
+ext:
+  schema-version: v0.0.1

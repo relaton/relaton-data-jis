@@ -1,0 +1,87 @@
+---
+schema-version: v1.2.9
+id: JISB2005-8-3-2008
+title:
+- content: 工業プロセス用調節弁―第８部：騒音―第３節：調節弁の空気力学的流動騒音の予測方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Industrial-process control valves -- Part 8-3: Noise considerations --
+    Control valve aerodynamic noise prediction method'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2005-8-3%3A2008
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02005_008_003_2008_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02005_008_003_2008_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 2005-8-3:2008
+  type: JIS
+  primary: true
+docnumber: B2005
+date:
+- type: issued
+  value: '2008-03-20'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本バルブ工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本バルブ工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 圧縮性流体の流れによって，調節弁及び隣接した配管エキスパンダ内に発生する外部音圧レベルを予測する理論的手法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本バルブ工業会
+ics:
+- code: 17.140.20
+  text: Noise emitted by machines and equipment
+- code: 23.060.40
+  text: Pressure regulators
+- code: 25.040.40
+  text: Industrial process measurement and control
+structuredidentifier:
+  project_number: B2005
+  type: JIS
+ext:
+  schema-version: v0.0.1

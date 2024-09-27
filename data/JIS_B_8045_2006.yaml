@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISB8045-2006
+title:
+- content: ガスタービン―ガスタービン装置用状態監視装置に対する要求事項
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Gas turbines -- Data acquisition and trend monitoring system requirements
+    for gas turbine installations
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8045%3A2006
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08045_000_000_2006_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8045:2006
+  type: JIS
+  primary: true
+docnumber: B8045
+date:
+- type: issued
+  value: '2006-11-20'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ガスタービン装置及び附属装置に使用する状態監視装置（データ収集装置及び傾向監視装置）について規定。さらに，それぞれの監視装置の特徴及び性能を比較できるように，測定値の変換及び妥当性検証の方法についても規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本内燃機関連合会"
+ics:
+- code: '27.040'
+  text: Gas and steam turbines. Steam engines
+structuredidentifier:
+  project_number: B8045
+  type: JIS
+ext:
+  schema-version: v0.0.1

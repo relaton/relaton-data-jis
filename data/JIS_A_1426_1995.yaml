@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISA1426-1995
+title:
+- content: 太陽蓄熱槽の蓄熱性能試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Test method of thermal performance for solar storage tanks
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1426%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS A 1426:1995
+  type: JIS
+  primary: true
+docnumber: A1426
+date:
+- type: issued
+  value: '1995-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　ソーラーシステム振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　ソーラーシステム振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 蓄熱媒体として液体を使用し，熱エネルギーを顕熱として貯蔵するソーラーシステム用直接蓄熱形，間接蓄熱形等の太陽蓄熱槽の蓄熱性（保温性能，出湯性能，熱交換性能）試験方法について規定。ただし，潜熱を利用する集熱媒体及び蓄熱媒体を用いる蓄熱槽には適用しない。蓄熱槽とは，給湯用及び蓄熱用を含む蓄熱槽容量１０００ｌ以下のものとし，補助熱源装置が蓄熱槽に一体となって組み込まれたものを含む。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　ソーラーシステム振興協会
+ics:
+- code: '27.160'
+  text: Solar energy engineering
+structuredidentifier:
+  project_number: A1426
+  type: JIS
+ext:
+  schema-version: v0.0.1

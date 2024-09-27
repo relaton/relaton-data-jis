@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISC3204-1988
+title:
+- content: 横巻線
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Fiber or paper covered copper winding wires
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3204%3A1988
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03204_000_000_1988_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 3204:1988
+  type: JIS
+  primary: true
+docnumber: C3204
+date:
+- type: issued
+  value: '1988-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電線工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電線工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電気機器の巻線及び配線に用いる横巻線について規定。なお，この規格に規定しない事項は，ＪＩＳ　Ｃ　３０５３による。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電線工業会
+ics:
+- code: 29.060.10
+  text: Wires
+structuredidentifier:
+  project_number: C3204
+  type: JIS
+ext:
+  schema-version: v0.0.1

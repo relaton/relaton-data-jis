@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISC7021-1977
+title:
+- content: 個別半導体デバイスの環境試験方法及び耐久性試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Environmental testing methods and endurance testing methods for discrete
+    semiconductor devices
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7021%3A1977
+  type: src
+type: standard
+docid:
+- id: JIS C 7021:1977
+  type: JIS
+  primary: true
+docnumber: C7021
+date:
+- type: issued
+  value: '1977-05-31'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 集積回路を除く個別半導体デバイスの使用，輸送又は貯蔵の際の各種条件のもとでの性能の安定性を評価するための環境試験方法及び耐久性試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子機械工業会
+ics:
+- code: 31.080.01
+  text: Semiconductor devices in general
+structuredidentifier:
+  project_number: C7021
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JIST1301-1991
+title:
+- content: 患者監視装置通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General requirements for patient monitors
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1301%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS T 1301:1991
+  type: JIS
+  primary: true
+docnumber: T1301
+date:
+- type: issued
+  value: '1991-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 患者の生理学的情報を，長期間にわたって監視する患者監視装置に共通する要求事項について規定。集中患者監視装置には適用しない。個別規格の規定と相違があるときは，個別規格の規定が優先するものとする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+structuredidentifier:
+  project_number: T1301
+  type: JIS
+ext:
+  schema-version: v0.0.1

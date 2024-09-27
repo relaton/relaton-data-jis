@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.9
+id: JISX6306-1995
+title:
+- content: 外部端子付きＩＣカード　―　共通コマンド
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Identification cards -- Integrated circuit(s) cards with contacts -- Part
+    4: Interindustry commands for interchange'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6306%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06306_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6306:1995
+  type: JIS
+  primary: true
+docnumber: X6306
+date:
+- type: issued
+  value: '1995-11-30'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 接続装置からＩＣカードへの方向，又はその逆方向に伝送されるメッセージ，すなわちコマンド及びレスポンスの内容；初期応答の際にＩＣカードが送信される管理情報バイトの構造及び内容；共通コマンドを実行する際に，インタフェース上に現わるＩＣカード内部のファイル及びデータの構成；ＩＣカード内部のファイル及びデータへのアクセス方法；ＩＣカード内部のファイル及びデータへの，アクセス方法　の項目を規定。　
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ＩＣカードシステム利用促進協議会"
+ics:
+- code: 35.240.15
+  text: Identification cards. Chip cards. Biometrics
+structuredidentifier:
+  project_number: X6306
+  type: JIS
+ext:
+  schema-version: v0.0.1

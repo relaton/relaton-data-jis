@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: TRX0003-2000
+title:
+- content: フォント情報処理用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms used in font information processing
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0003%3A2000
+  type: src
+type: standard
+docid:
+- id: TR X 0003:2000
+  type: JIS
+  primary: true
+docnumber: X0003
+date:
+- type: issued
+  value: '2000-05-31'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 情報処理技術を用いて文字概念を可視化し表示・印刷する際に必要なフォント関連技術の用語を体系的に整理し，定義及び対応する英語を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 01.040.37
+  text: Image technology (Vocabularies)
+- code: '35.040'
+  text: Information coding
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X0003
+  type: JIS
+ext:
+  schema-version: v0.0.1

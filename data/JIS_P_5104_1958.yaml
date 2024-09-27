@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISP5104-1958
+title:
+- content: あて名印刷機用カード
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Card for addressing machine
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+5104%3A1958
+  type: src
+type: standard
+docid:
+- id: JIS P 5104:1958
+  type: JIS
+  primary: true
+docnumber: P5104
+date:
+- type: issued
+  value: '1977-11-15'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: あて名印刷機は使用するカードについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: '85.080'
+  text: Paper products
+structuredidentifier:
+  project_number: P5104
+  type: JIS
+ext:
+  schema-version: v0.0.1

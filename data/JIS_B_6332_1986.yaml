@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.9
+id: JISB6332-1986
+title:
+- content: 数値制御立形ボール盤の試験及び検査方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Test code for performance and accuracy of numerically controlled turret
+    and single spindle drilling machines with vertical spindle
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6332%3A1986
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06332_000_000_1986_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06332_000_000_1986_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 6332:1986
+  type: JIS
+  primary: true
+docnumber: B6332
+date:
+- type: issued
+  value: '1986-12-31'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 数値制御立形ボール盤の運転性能，剛性，機械精度及び工作精度に関する試験及び検査方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本工作機械工業会
+ics:
+- code: 25.040.20
+  text: Numerically controlled machines
+- code: 25.080.40
+  text: Drilling machines
+structuredidentifier:
+  project_number: B6332
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISB7090-1999
+title:
+- content: 光学及び光学機器―基準波長
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Optics and optical instruments -- Reference wavelengths
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7090%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS B 7090:1999
+  type: JIS
+  primary: true
+docnumber: B7090
+date:
+- type: issued
+  value: '2000-01-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 日本光学工業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本光学工業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 光学材料，光学系及び光学機器，並びに眼用レンズの特性を記述するために使用する二つの基準波長について規定。これに付随して主分散及びアッベ数を定義。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本光学工業協会
+ics:
+- code: 17.180.01
+  text: Optics and optical measurements in general
+structuredidentifier:
+  project_number: B7090
+  type: JIS
+ext:
+  schema-version: v0.0.1

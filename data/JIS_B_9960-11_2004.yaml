@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: JISB9960-11-2004
+title:
+- content: 機械類の安全性―機械の電気装置―第１１部：交流１０００Ｖ又は直流１５００Ｖを超え３６ｋＶ以下の高電圧装置に対する要求事項
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Safety of machinery -- Electrical equipment of machines -- Part 11: Requirements
+    for HV equipment for voltages above 1000V a.c. or 1500V d.c. and not exceeding
+    36kV'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9960-11%3A2004
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09960_011_000_2004_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09960_011_000_2004_e_ed20_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 9960-11:2004
+  type: JIS
+  primary: true
+docnumber: B9960
+date:
+- type: issued
+  value: '2004-04-01'
+- type: confirmed
+  value: '2020-10-26'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本機械工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本機械工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 連携して稼働する一群の機械を含み，より上位のシステムに属する部分（例えば，システム間のコミュニケーッション）を除く電気，電子装置及び機械システムに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本機械工業連合会
+ics:
+- code: '13.110'
+  text: Safety of machinery
+- code: '29.020'
+  text: Electrical engineering in general
+structuredidentifier:
+  project_number: B9960
+  type: JIS
+ext:
+  schema-version: v0.0.1

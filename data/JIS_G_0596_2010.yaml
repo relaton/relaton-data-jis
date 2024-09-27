@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISG0596-2010
+title:
+- content: ステンレス鋼配管継手の腐食試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Method of corrosion test for stainless steel tube fittings
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0596%3A2010
+  type: src
+type: standard
+docid:
+- id: JIS G 0596:2010
+  type: JIS
+  primary: true
+docnumber: G0596
+date:
+- type: issued
+  value: '2010-03-23'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: ステンレス協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ステンレス協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 外径６０．５ｍｍ以下のステンレス鋼配管継手の自然電位及び腐食発生電位の測定方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: ステンレス協会
+ics:
+- code: '77.060'
+  text: Corrosion of metals
+- code: 77.140.20
+  text: Stainless steels
+structuredidentifier:
+  project_number: G0596
+  type: JIS
+ext:
+  schema-version: v0.0.1

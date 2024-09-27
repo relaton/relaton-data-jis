@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5763-1994
+title:
+- content: 開放型システム間相互接続　―　システム管理概要
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Open Systems Interconnection -- Systems management
+    overview
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5763%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05763_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5763:1994
+  type: JIS
+  primary: true
+docnumber: X5763
+date:
+- type: issued
+  value: '1994-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: １．システム管理規格群の概要を規定　２．システム管理規格群を幾つかのグループに区別し，それぞれのグループの適用範囲を規定し，各グループ内の主要な要素を識別するための基盤を確率　３．システム管理群の作製指針を与え，それらを相互に関連付ける方法を示す　４．システム管理規格群で使用する用語を定義　５．すべてのシステム管理規格群を定義するのに適用　の事項を定める。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5763
+  type: JIS
+ext:
+  schema-version: v0.0.1

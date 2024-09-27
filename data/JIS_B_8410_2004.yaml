@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISB8410-2004
+title:
+- content: 水道用減圧弁
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Pressure reducing valves for water works
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8410%3A2004
+  type: src
+type: standard
+docid:
+- id: JIS B 8410:2004
+  type: JIS
+  primary: true
+docnumber: B8410
+date:
+- type: issued
+  value: '2004-03-20'
+- type: confirmed
+  value: '2008-10-01'
+contributor:
+- organization:
+    name:
+    - content: 日本暖房機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本暖房機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 温水用熱交換器の給水に用いる逆流防止機構を内蔵した給水一次側が最高使用圧力７５０ｋＰａの水道用減圧弁について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本暖房機器工業会
+ics:
+- code: 23.060.40
+  text: Pressure regulators
+- code: 91.140.65
+  text: Water heating equipment
+structuredidentifier:
+  project_number: B8410
+  type: JIS
+ext:
+  schema-version: v0.0.1

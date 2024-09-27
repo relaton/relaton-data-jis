@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC8308-1988
+title:
+- content: カバー付きナイフスイッチ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Knife switches with cover
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8308%3A1988
+  type: src
+type: standard
+docid:
+- id: JIS C 8308:1988
+  type: JIS
+  primary: true
+docnumber: C8308
+date:
+- type: issued
+  value: '1988-12-31'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本配線器具工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本配線器具工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 周波数５０Ｈｚ又は６０Ｈｚの交流２５０Ｖ以下の一般電路の主幹開閉器，分岐開閉器及び電灯・電熱などの操作開閉器として使う表面接続形のカバー付ナイフスイッチのうち，定格電流が１００Ａ以下でつめ付ヒューズ付き及びヒューズなしのものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本配線器具工業会
+ics:
+- code: 29.120.40
+  text: Switches
+structuredidentifier:
+  project_number: C8308
+  type: JIS
+ext:
+  schema-version: v0.0.1

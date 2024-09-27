@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISE3310-1998
+title:
+- content: 地上中継信号機
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Railway signal -- Wayside repeating signals
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+3310%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS E 3310:1998
+  type: JIS
+  primary: true
+docnumber: E3310
+date:
+- type: issued
+  value: '1998-06-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 鉄道信号用の地上中継信号機機構について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄道電気技術協会
+ics:
+- code: '45.080'
+  text: Rails and railway components
+structuredidentifier:
+  project_number: E3310
+  type: JIS
+ext:
+  schema-version: v0.0.1

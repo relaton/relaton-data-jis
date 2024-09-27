@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISZ3040-1995
+title:
+- content: 溶接施工方法の確認試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Method of qualification test for welding procedure
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3040%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03040_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03040_000_000_1995_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 3040:1995
+  type: JIS
+  primary: true
+docnumber: Z3040
+date:
+- type: issued
+  value: '1995-02-28'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本溶接協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本溶接協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 溶接構造物の溶接において，あらかじめ溶接施工方法の適否を確認するための共通的試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本溶接協会
+ics:
+- code: 25.160.10
+  text: Welding processes
+structuredidentifier:
+  project_number: Z3040
+  type: JIS
+ext:
+  schema-version: v0.0.1

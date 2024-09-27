@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISE2221-1989
+title:
+- content: 電車線路用ターンバックル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Wire turnbuckles for overhead contact system of electric railway
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+2221%3A1989
+  type: src
+type: standard
+docid:
+- id: JIS E 2221:1989
+  type: JIS
+  primary: true
+docnumber: E2221
+date:
+- type: issued
+  value: '1989-02-28'
+contributor:
+- organization:
+    name:
+    - content: 電車線工業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 電車線工業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電車線路のちょう架線，補助ちょう架線，トロリ線及びスパン線に使用するワイヤターンバックルについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 電車線工業協会
+ics:
+- code: 21.060.20
+  text: Nuts
+- code: '29.280'
+  text: Electric traction equipment
+- code: '45.080'
+  text: Rails and railway components
+structuredidentifier:
+  project_number: E2221
+  type: JIS
+ext:
+  schema-version: v0.0.1

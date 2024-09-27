@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.9
+id: JISX0127-1988
+title:
+- content: 計算機システム構成の図記号と用法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Computer system configuration diagram symbols and conventions
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0127%3A1988
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00127_000_000_1988_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00127_000_000_1988_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0127:1988
+  type: JIS
+  primary: true
+docnumber: X0127
+date:
+- type: issued
+  value: '1988-08-31'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 情報処理システムなど，計算機システムの構成図に用いる図記号とその用法を定める。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: 01.080.50
+  text: Graphical symbols for use on information technology and telecommunications
+    technical drawings and in relevant technical product documentation
+- code: '35.020'
+  text: Information technology (IT) in general
+structuredidentifier:
+  project_number: X0127
+  type: JIS
+ext:
+  schema-version: v0.0.1

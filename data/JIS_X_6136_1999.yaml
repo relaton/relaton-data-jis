@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.9
+id: JISX6136-1999
+title:
+- content: 情報交換用データ圧縮―適合化無損失アルゴリズム（ＡＬＤＣ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Adaptive Lossless Data Compression algorithm
+    (ALDC)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6136%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS X 6136:1999
+  type: JIS
+  primary: true
+docnumber: X6136
+date:
+- type: issued
+  value: '1999-04-30'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: データを表現するビット数を消滅する無損失データ圧縮について規定。アルゴリズムは，適合化無損失データ圧縮アルゴリズム（ＡＬＤＣ）として知られている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X6136
+  type: JIS
+ext:
+  schema-version: v0.0.1

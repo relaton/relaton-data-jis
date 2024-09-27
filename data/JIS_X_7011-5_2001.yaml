@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.9
+id: JISX7011-5-2001
+title:
+- content: 行政，商業及び輸送のための電子データ交換（ＥＤＩＦＡＣＴ）―業務レベル構文規則―第５部：バッチＥＤＩ用セキュリティ規則（認証性，完全性及び発信元の否認防止）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Electronic data interchange for administration, commerce and transport
+    (EDIFACT) -- Application level syntax rules (Syntax version number:4) -- Part
+    5: Security rules for batch EDI (authenticity, integrity and non-repudiation of
+    origin)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7011-5%3A2001
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07011_005_000_2001_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 7011-5:2001
+  type: JIS
+  primary: true
+docnumber: X7011
+date:
+- type: issued
+  value: '2001-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＥＤＩＦＡＣＴにおけるセキュリティのための構文規則を規定。確立されたセキュリティ機構に従って，認証性，完全性，及び発信元の否認防止のための，メッセージ／パッケージレベル，グループ及び交換レベルの処置方法を提供。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本情報経済社会推進協会
+ics:
+- code: '35.040'
+  text: Information coding
+- code: 35.240.60
+  text: IT applications in transport
+structuredidentifier:
+  project_number: X7011
+  type: JIS
+ext:
+  schema-version: v0.0.1

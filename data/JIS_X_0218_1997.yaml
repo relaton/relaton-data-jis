@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: JISX0218-1997
+title:
+- content: 図形文字の短縮識別名称
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Short identification names of graphic characters
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0218%3A1997
+  type: src
+type: standard
+docid:
+- id: JIS X 0218:1997
+  type: JIS
+  primary: true
+docnumber: X0218
+date:
+- type: issued
+  value: '1997-02-28'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＪＩＳ　Ｘ　０２０１，ＪＩＳ　Ｘ　０２０８，ＪＩＳ　Ｘ　０２１２及びＪＩＳ　Ｘ　０２２１によって規定されている符号化文字集合の中の図形文字の短縮識別名称について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X0218
+  type: JIS
+ext:
+  schema-version: v0.0.1

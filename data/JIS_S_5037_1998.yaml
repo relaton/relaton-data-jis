@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISS5037-1998
+title:
+- content: 靴のサイズ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Sizing system for shoes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+5037%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_05037_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS S 5037:1998
+  type: JIS
+  primary: true
+docnumber: S5037
+date:
+- type: issued
+  value: '1998-09-30'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 全日本履物団体協議会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 全日本履物団体協議会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 一般歩行用の靴のサイズについて規定。一般歩行用以外の靴についても準用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 全日本履物団体協議会
+ics:
+- code: '61.060'
+  text: Footwear
+structuredidentifier:
+  project_number: S5037
+  type: JIS
+ext:
+  schema-version: v0.0.1

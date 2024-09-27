@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX0205-1972
+title:
+- content: 情報交換用符号の紙カード上での表現
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Implementation of code for information interchange on 12-row punched cards
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0205%3A1972
+  type: src
+type: standard
+docid:
+- id: JIS X 0205:1972
+  type: JIS
+  primary: true
+docnumber: X0205
+date:
+- type: issued
+  value: '1981-10-15'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　０２０１を紙カード上に表現する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: 35.220.10
+  text: Paper cards and tapes
+structuredidentifier:
+  project_number: X0205
+  type: JIS
+ext:
+  schema-version: v0.0.1

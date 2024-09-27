@@ -1,0 +1,87 @@
+---
+schema-version: v1.2.9
+id: JISX4177-2-2005
+title:
+- content: 文書スキーマ定義言語（ＤＳＤＬ）―第２部：正規文法に基づく妥当性検証―ＲＥＬＡＸ　ＮＧ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Document Schema Definition Languages (DSDL) -- Part 2: Regular-grammar-based
+    validation -- RELAX NG'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4177-2%3A2005
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04177_002_000_2005_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4177-2:2005
+  type: JIS
+  primary: true
+docnumber: X4177
+date:
+- type: issued
+  value: '2005-07-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＸＭＬに関するスキーマ言語ＲＥＬＡＸ　ＮＧについて規定。ＲＥＬＡＸ　ＮＧスキーマは，ＸＭＬ文書の構造及び内容に関するパターンを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X4177
+  type: JIS
+ext:
+  schema-version: v0.0.1

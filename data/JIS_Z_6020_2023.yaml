@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISZ6020-2023
+title:
+- content: 文書管理―文書保存のための要求事項
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Document management -- Minimum requirements for the storage of documents
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+6020%3A2023
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_06020_000_000_2023_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 6020:2023
+  type: JIS
+  primary: true
+docnumber: Z6020
+date:
+- type: issued
+  value: '2023-11-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本文書情報マネジメント協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本文書情報マネジメント協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 電子文書管理システムによって管理される文書の真正性，インテグリティ及び可読性を維持するために必要な要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　日本文書情報マネジメント協会"
+ics:
+- code: '37.080'
+  text: Document imaging applications
+structuredidentifier:
+  project_number: Z6020
+  type: JIS
+ext:
+  schema-version: v0.0.1

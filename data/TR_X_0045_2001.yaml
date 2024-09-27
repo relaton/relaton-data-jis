@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: TRX0045-2001
+title:
+- content: ディレクトリ情報のためのＭＩＭＥ内容型
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: A MIME Content-Type for Directory Information
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0045%3A2001
+  type: src
+type: standard
+docid:
+- id: TR X 0045:2001
+  type: JIS
+  primary: true
+docnumber: X0045
+date:
+- type: issued
+  value: '2001-07-01'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ディレクトリ情報を保持するためのＭＩＭＥ内容型を定義。特定のディレクトリサービス又はプロトコルから独立とする。ｔｅｘｔ／ｄｉｒｅｃｔｏｒｙ内容型は，例えば，名前，電子メール用番地，ロゴなどの，様々なディレクトリ情報を保持するために定義。ｔｅｓｔ／ｄｉｒｅｃｔｏｒｙ内容型は，より複雑な状況を操作するためにｍｕｌｔｉｐａｒｔ／ｒｅｌａｔｅｄ内容型のルート本体部分として使うこともできる。特に，例えば，写真又は音といったＭＩＭＥ表現をもつ非テキスト情報が表現される場合に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X0045
+  type: JIS
+ext:
+  schema-version: v0.0.1

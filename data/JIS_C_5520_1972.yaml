@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC5520-1972
+title:
+- content: ホノモータ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Record turntables
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5520%3A1972
+  type: src
+type: standard
+docid:
+- id: JIS C 5520:1972
+  type: JIS
+  primary: true
+docnumber: C5520
+date:
+- type: issued
+  value: '1972-05-27'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電気蓄音機およびレコードプレーヤなどに使用し，定格電圧１５０Ｖ以下の５０Ｈｚまたは６０Ｈｚの定格周波数の単相交流電源で動作するホノモータの種類，構造，性能その他の事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子機械工業会
+ics:
+- code: 33.160.30
+  text: Audio systems
+structuredidentifier:
+  project_number: C5520
+  type: JIS
+ext:
+  schema-version: v0.0.1

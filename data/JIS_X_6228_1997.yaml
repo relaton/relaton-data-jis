@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISX6228-1997
+title:
+- content: ９０ｍｍフレキシブルディスクカートリッジ　―　記憶容量２１メガバイト
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 90 mm flexible disk cartridges for information interchange -- 21 MBytes
+    formatted capacity
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6228%3A1997
+  type: src
+type: standard
+docid:
+- id: JIS X 6228:1997
+  type: JIS
+  primary: true
+docnumber: X6228
+date:
+- type: issued
+  value: '1997-11-01'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 両面を内周帯域３１８３１磁束反転／ｒａｄ，外周帯域４７７４７磁束反転／ｒａｄ，データトラック数３２６本／面（トラック密度２１．３トラック／ｍｍ）でセクタサーボ及び２－７ＲＬＬ記録方式を用いた９０ｍｍフレキシブルディスクカートリッジを規定。情報処理システム間で物理的特性情報交換をするために，フレキシブルディスクカートリッジの機械的特性，物理的特性及び磁気的特性を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 35.220.21
+  text: Magnetic disks
+structuredidentifier:
+  project_number: X6228
+  type: JIS
+ext:
+  schema-version: v0.0.1

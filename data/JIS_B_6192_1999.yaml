@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISB6192-1999
+title:
+- content: 工作機械　―　数値制御による位置決め精度試験方法通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Test code for machine tools -- Determination of accuracy and repeatability
+    of positioning numerically controlled axes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6192%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS B 6192:1999
+  type: JIS
+  primary: true
+docnumber: B6192
+date:
+- type: issued
+  value: '1999-08-31'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 数値制御工作機械運動軸の位置決め精度の試験方法及び評価方法について規定。測定は，機上で各運動軸について行う。規定している方法は，直進運動軸及び回転運動軸に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本工作機械工業会"
+ics:
+- code: 25.040.20
+  text: Numerically controlled machines
+structuredidentifier:
+  project_number: B6192
+  type: JIS
+ext:
+  schema-version: v0.0.1

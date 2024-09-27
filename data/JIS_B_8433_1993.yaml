@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISB8433-1993
+title:
+- content: 産業用マニピュレーティングロボット―安全性
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Manipulating industrial robots -- Safety
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8433%3A1993
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08433_000_000_1993_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8433:1993
+  type: JIS
+  primary: true
+docnumber: B8433
+date:
+- type: issued
+  value: '1994-02-28'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本ロボット工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本ロボット工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 産業用マニピュレーティングロボット及びロボットシステムについての設計，製作，プログラミング，運転，使用，保守及び修理に対して，安全上考慮すべき点についての指針。この規格において確立された安全上の原則は，他のタイプのロボットにも適用できる可能性があるが，適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本ロボット工業会
+ics:
+- code: 25.040.30
+  text: Industrial robots. Manipulators
+structuredidentifier:
+  project_number: B8433
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: JISC0447-1997
+title:
+- content: マンマシンインタフェース（ＭＭＩ）―操作の基準
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Man-machine interface (MMI) -- Actuating principles
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0447%3A1997
+  type: src
+type: standard
+docid:
+- id: JIS C 0447:1997
+  type: JIS
+  primary: true
+docnumber: C0447
+date:
+- type: issued
+  value: '1997-11-30'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 機器の安全な操作を介して安全性（人体，資産，環境などの）を増強する；操作機器（操作部）の適切で適時な操作を容易にする　目的で，電気機器に関連するマンマシンインタフェースの一部を構成する手動式操作機器（操作部）の一般的な操作の基準を定める。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.200'
+  text: Interface and interconnection equipment
+structuredidentifier:
+  project_number: C0447
+  type: JIS
+ext:
+  schema-version: v0.0.1

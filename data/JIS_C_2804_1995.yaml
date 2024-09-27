@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISC2804-1995
+title:
+- content: 圧縮端子
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Compression terminals
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2804%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02804_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 2804:1995
+  type: JIS
+  primary: true
+docnumber: C2804
+date:
+- type: issued
+  value: '1995-04-30'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 電気機器の端子部と電線とを接続するため特殊な工具を用いて，電線と端子を圧縮して接続する圧縮端子について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: 29.120.20
+  text: Connecting devices
+structuredidentifier:
+  project_number: C2804
+  type: JIS
+ext:
+  schema-version: v0.0.1

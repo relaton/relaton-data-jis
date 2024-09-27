@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISX0161-2008
+title:
+- content: ソフトウェア技術―ソフトウェアライフサイクルプロセス―保守
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Software Engineering -- Software Life Cycle Processes -- Maintenance
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0161%3A2008
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00161_000_000_2008_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0161:2008
+  type: JIS
+  primary: true
+docnumber: X0161
+date:
+- type: issued
+  value: '2008-03-20'
+- type: confirmed
+  value: '2022-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ソフトウェア製品の規模，複雑度，完全性又は適用対象にかかわらず，使用される。与えられたソフトウェア製品の保守範囲及び規模に対応して，はん（汎）用的及び特殊なソフトウェア保守計画が実行され，評価され，修整される枠組みを提供。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X0161
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISX9202-1999
+title:
+- content: 製版ディジタルデータ交換―入力スキャナこう（較）正のためのカラーターゲット
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Graphic technology -- Prepress digital data exchange -- Colour target for
+    input scanner calibration
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9202%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09202_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 9202:1999
+  type: JIS
+  primary: true
+docnumber: X9202
+date:
+- type: issued
+  value: '1999-07-31'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: "（印刷・出版のための準備工程に使用する）写真製品と入力スキャナとの組合せをこう（較）正するために使用するターゲット(機器の色再現特性評価用色票及びディジタルデータの総称）の割付け及び測色値を規定。ターゲットは，カラー透過フィルム及びカラー印画紙の２種類で規定。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+- code: 37.100.99
+  text: Other standards related to graphic technology
+structuredidentifier:
+  project_number: X9202
+  type: JIS
+ext:
+  schema-version: v0.0.1

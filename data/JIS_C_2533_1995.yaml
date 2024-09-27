@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC2533-1995
+title:
+- content: 熱電対用補償導線心線
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Conductors for extension and compensating cables of thermocouples
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2533%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS C 2533:1995
+  type: JIS
+  primary: true
+docnumber: C2533
+date:
+- type: issued
+  value: '1995-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｃ　１６１０に規定する熱電対補償導線に使用する心線について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 17.200.20
+  text: Temperature-measuring instruments
+structuredidentifier:
+  project_number: C2533
+  type: JIS
+ext:
+  schema-version: v0.0.1

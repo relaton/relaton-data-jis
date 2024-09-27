@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISC4411-1-2023
+title:
+- content: 無停電電源装置（ＵＰＳ）―第１部：安全要求事項
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Uninterruptible power systems (UPS) -- Part 1: General and safety requirements
+    for UPS'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4411-1%3A2023
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04411_001_000_2023_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 4411-1:2023
+  type: JIS
+  primary: true
+docnumber: C4411
+date:
+- type: issued
+  value: '2023-03-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 一般人が近付くことが制限されていない区域，又は立入制限区域に設置する，定周波数の交流出力電圧を供給し，交流入出力で電圧が１　１００　Ｖ以下，かつ，エネルギー蓄積装置との接続部の電圧が直流１　５００　Ｖ以下の，低圧配電系用の無停電電源装置（UＰＳ）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電機工業会"
+ics:
+- code: '29.200'
+  text: Rectifiers. Converters. Stabilized power supply
+structuredidentifier:
+  project_number: C4411
+  type: JIS
+ext:
+  schema-version: v0.0.1

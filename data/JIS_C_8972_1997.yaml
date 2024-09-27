@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.9
+id: JISC8972-1997
+title:
+- content: 太陽光発電用長時間率鉛蓄電池の試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Testing procedure of long discharge rate lead-acid batteries for photovoltaic
+    systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8972%3A1997
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08972_000_000_1997_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08972_000_000_1997_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8972:1997
+  type: JIS
+  primary: true
+docnumber: C8972
+date:
+- type: issued
+  value: '1997-07-31'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 太陽光発電システムに使用する鉛蓄電池のうち，定格容量の規定が１０時間率以上のベント形及びシール形鉛蓄電池を対照とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.160'
+  text: Solar energy engineering
+- code: 29.220.20
+  text: Acid secondary cells and batteries
+structuredidentifier:
+  project_number: C8972
+  type: JIS
+ext:
+  schema-version: v0.0.1

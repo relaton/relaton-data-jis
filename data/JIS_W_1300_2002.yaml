@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISW1300-2002
+title:
+- content: 航空宇宙―管―外径及び肉厚―メートル寸法系列
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Aerospace -- Tubing -- Outside diameters and Thicknesses -- Metric dimensions
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+1300%3A2002
+  type: src
+type: standard
+docid:
+- id: JIS W 1300:2002
+  type: JIS
+  primary: true
+docnumber: W1300
+date:
+- type: issued
+  value: '2002-03-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 航空機の構造及び構成系統のすべてにおいて使用する金属製の管の外径及び肉厚について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本航空宇宙工業会
+ics:
+- code: 23.040.01
+  text: Pipeline components and pipelines in general
+- code: '49.080'
+  text: Aerospace fluid systems and components
+structuredidentifier:
+  project_number: W1300
+  type: JIS
+ext:
+  schema-version: v0.0.1

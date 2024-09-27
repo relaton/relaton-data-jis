@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISX0604-1986
+title:
+- content: 情報交換用データ記述ファイル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Specification for a data descriptive file for information interchange
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0604%3A1986
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00604_000_000_1986_j_pr20_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00604_000_000_1986_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0604:1986
+  type: JIS
+  primary: true
+docnumber: X0604
+date:
+- type: issued
+  value: '1986-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 多様な形と構造をもつデータを，計算機システム間で情報交換するためのレコード及びファイルに関し，媒体に依存しない一般的構造及びその記述方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: 35.220.20
+  text: Magnetic storage devices in general
+structuredidentifier:
+  project_number: X0604
+  type: JIS
+ext:
+  schema-version: v0.0.1

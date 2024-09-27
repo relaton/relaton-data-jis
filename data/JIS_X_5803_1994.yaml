@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX5803-1994
+title:
+- content: メッセージ指向型文書交換システム（ＭＯＴＩＳ）　―　第３部　抽象サービス定義の規約
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Text Communication -- Message-Oriented Text
+    Interchange Systems (MOTIS) -- Part 3: Abstract Service Definition Conventions'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5803%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS X 5803:1994
+  type: JIS
+  primary: true
+docnumber: X5803
+date:
+- type: issued
+  value: '1994-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: メッセージ指向型文書交換システムの規格群（規格群は，ＪＩＳ　Ｘ　５８０１～５８０７）の一つである。規格群は，開放型システム間相互接続（ＯＳＩ）環境で使用するメッセージ通信処理システム（ＭＨＳ）の仕様を規定。さらにメッセージ通信処理の分散情報処理業務の内容を定義するための規約を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5803
+  type: JIS
+ext:
+  schema-version: v0.0.1

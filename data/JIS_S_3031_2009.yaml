@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISS3031-2009
+title:
+- content: 石油燃焼機器の試験方法通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for test methods of oil burning appliances
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3031%3A2009
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_03031_000_000_2009_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS S 3031:2009
+  type: JIS
+  primary: true
+docnumber: S3031
+date:
+- type: issued
+  value: '2009-03-20'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本燃焼機器検査協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本燃焼機器検査協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 灯油，軽油又は重油を燃料とし，ちゅう（厨）房，暖房，給湯などに用いる石油燃焼機器の性能を測定するための試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本燃焼機器検査協会
+ics:
+- code: 27.060.10
+  text: Liquid and solid fuel burners
+- code: 97.100.40
+  text: Liquid fuel heaters
+structuredidentifier:
+  project_number: S3031
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISB6014-1980
+title:
+- content: 工作機械の安全通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General code of safety for machine tools
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6014%3A1980
+  type: src
+type: standard
+docid:
+- id: JIS B 6014:1980
+  type: JIS
+  primary: true
+docnumber: B6014
+date:
+- type: issued
+  value: '1980-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 工作機械及び機械加工に附随させる安全防護装置及び安全防護対策に関する一般的事項について規定。国で定めた規制のあるものについては適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本工作機械工業会
+ics:
+- code: 25.080.01
+  text: Machine tools in general
+structuredidentifier:
+  project_number: B6014
+  type: JIS
+ext:
+  schema-version: v0.0.1

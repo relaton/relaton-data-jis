@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISZ9043-1962
+title:
+- content: 母平均と基準値との差の検定（標準偏差既知，両側）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Significance test of difference between the population mean and the standard
+    (standard deviation known, two-sided)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9043%3A1962
+  type: src
+type: standard
+docid:
+- id: JIS Z 9043:1962
+  type: JIS
+  primary: true
+docnumber: Z9043
+date:
+- type: issued
+  value: '1975-05-15'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 母集団の標準偏差がわかっている場合に，母集団の母平均が基準として設定した値と差があるといえるかどうかを母集団（またはそれをよく代表すると思われるロット）から得た測定値に基づいて検定する方法について規定（母集団の標準偏差既知両側検定）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 03.120.30
+  text: Application of statistical methods
+structuredidentifier:
+  project_number: Z9043
+  type: JIS
+ext:
+  schema-version: v0.0.1

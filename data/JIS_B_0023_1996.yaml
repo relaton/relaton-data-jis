@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.9
+id: JISB0023-1996
+title:
+- content: 製図―幾何公差表示方式―最大実体公差方式及び最小実体公差方式
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Technical drawings -- Geometrical tolerancing -- Maximum material requirement
+    and least material requirement
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0023%3A1996
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00023_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00023_000_000_1996_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 0023:1996
+  type: JIS
+  primary: true
+docnumber: B0023
+date:
+- type: issued
+  value: '1996-01-31'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 最大公差と公差方式及びその適用について規定。最大実体公差方式の使用は，寸法公差と幾何公差とが相互に依存する部品同士の組付けを妨げることなく，製造を容易にすることができる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 01.100.01
+  text: Technical drawings in general
+- code: 17.040.10
+  text: Limits and fits
+structuredidentifier:
+  project_number: B0023
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5776-1994
+title:
+- content: 開放型システム間相互接続　―　システム管理　―　ログ制御機能
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Open Systems Interconnection -- Systems Management:
+    Log control function'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5776%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05776_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5776:1994
+  type: JIS
+  primary: true
+docnumber: X5776
+date:
+- type: issued
+  value: '1994-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　５００６で規定するシステム管理を目的とした相互動作を行うために，集中的又は非集中的管理環境の中の応用プロセスが使用する一つのシステム管理機能を規定。ログ制御機能を規定するものであり，サービス及び二つの機能単位からなる。ＪＩＳ　Ｘ　５００３で規定する応用層に位置し，ＩＳＯ／ＩＥＣ　９５４５で提供されるモデルに従って定義。システム管理機能の役割は，ＪＩＳ　Ｘ　５７６３で規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5776
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JIST1453-1998
+title:
+- content: 電気手術器（電気メス）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: High frequency surgical equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1453%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS T 1453:1998
+  type: JIS
+  primary: true
+docnumber: T1453
+date:
+- type: issued
+  value: '1998-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 生体組織の切開及び／（又は）凝固を行うために手術に使用する，０．３～５ＭＨｚの主要搬送周波数をもつ電気手術器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 11.040.30
+  text: Surgical instruments and materials
+structuredidentifier:
+  project_number: T1453
+  type: JIS
+ext:
+  schema-version: v0.0.1

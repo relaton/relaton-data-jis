@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISX0203-1973
+title:
+- content: 情報交換用及び数値制御機械用符号の紙テープ上での表現
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Implementation of code for information interchange and numerical control
+    of machines on paper tape
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0203%3A1973
+  type: src
+type: standard
+docid:
+- id: JIS X 0203:1973
+  type: JIS
+  primary: true
+docnumber: X0203
+date:
+- type: issued
+  value: '1973-03-01'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　０２０１およびＪＩＳ　Ｂ　６３１１を紙テープ上に表現する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: 35.220.10
+  text: Paper cards and tapes
+structuredidentifier:
+  project_number: X0203
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISX6201-1991
+title:
+- content: ２００ｍｍフレキシブルディスクカートリッジ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 200 mm flexible disk cartridges
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6201%3A1991
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06201_000_000_1991_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06201_000_000_1991_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6201:1991
+  type: JIS
+  primary: true
+docnumber: X6201
+date:
+- type: issued
+  value: '1991-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 情報処理及びそれに関連するシステムの相互間において交換可能な片面又は両面に磁束反転密度　１３２６２磁束反転／ｒａｄ　トラック密度　１．９トラック／ｍｍの単密度記録又は倍密度記録で記録する情報交換用２００ｍｍフレキシブルディスクカートリッジの構造・寸法，物理的特性・機械的特性及び電気的特性・磁気的特性について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 35.220.21
+  text: Magnetic disks
+structuredidentifier:
+  project_number: X6201
+  type: JIS
+ext:
+  schema-version: v0.0.1

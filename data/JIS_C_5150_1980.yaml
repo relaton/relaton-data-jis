@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC5150-1980
+title:
+- content: 電子機器交流電源用コンデンサ通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules of AC mains supply capacitors for electronic equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5150%3A1980
+  type: src
+type: standard
+docid:
+- id: JIS C 5150:1980
+  type: JIS
+  primary: true
+docnumber: C5150
+date:
+- type: issued
+  value: '1980-06-30'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器の交流電源回路において，交流電源用コンデンサの安全性を特に考慮した性能及びその他の共通事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子機械工業会
+ics:
+- code: 31.060.70
+  text: Power capacitors
+structuredidentifier:
+  project_number: C5150
+  type: JIS
+ext:
+  schema-version: v0.0.1

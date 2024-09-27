@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISF8828-1997
+title:
+- content: 船用遮断器式配電箱
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Shipbuilding -- Switch boards with circuit breakers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8828%3A1997
+  type: src
+type: standard
+docid:
+- id: JIS F 8828:1997
+  type: JIS
+  primary: true
+docnumber: F8828
+date:
+- type: issued
+  value: '1997-04-30'
+contributor:
+- organization:
+    name:
+    - content: 財団法人　日本船舶標準協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 財団法人　日本船舶標準協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 船内における回路電圧２５０Ｖ以下の電灯に給電するための配電箱で，その支回路の保護に配線用遮断器を用いたものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 財団法人　日本船舶標準協会
+ics:
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+structuredidentifier:
+  project_number: F8828
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,94 @@
+---
+schema-version: v1.2.9
+id: JISB9922-2001
+title:
+- content: クリーンベンチ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Clean work station
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9922%3A2001
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09922_000_000_2001_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 9922:2001
+  type: JIS
+  primary: true
+docnumber: B9922
+date:
+- type: issued
+  value: '2001-02-28'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本空気清浄協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本空気清浄協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 送風機及びＨＥＰＡフィルタ又はＵＬＰＡフィルタを内蔵し，作業空間を一定の空気清浄度に維持するクリーンベンチについて規定。作業空間が負圧となる構造のものには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　日本空気清浄協会"
+ics:
+- code: 13.040.30
+  text: Workplace atmospheres
+- code: '23.120'
+  text: Ventilators. Fans. Air-conditioners
+- code: 91.140.30
+  text: Ventilation and air-conditioning systems
+structuredidentifier:
+  project_number: B9922
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JIST1113-1984
+title:
+- content: 心音計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Phonocardiographs
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1113%3A1984
+  type: src
+type: standard
+docid:
+- id: JIS T 1113:1984
+  type: JIS
+  primary: true
+docnumber: T1113
+date:
+- type: issued
+  value: '1985-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 心音信号を体表面で測定する臨床診断用の心音計及び変調直記式心音計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+structuredidentifier:
+  project_number: T1113
+  type: JIS
+ext:
+  schema-version: v0.0.1

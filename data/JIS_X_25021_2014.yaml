@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISX25021-2014
+title:
+- content: システム及びソフトウェア製品の品質要求及び評価（ＳＱｕａＲＥ）―品質測定量要素
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Systems and software engineering -- Systems and software Quality Requirements
+    and Evaluation (SQuaRE) -- Quality measure elements
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+25021%3A2014
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_25021_000_000_2014_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 25021:2014
+  type: JIS
+  primary: true
+docnumber: X25021
+date:
+- type: issued
+  value: '2014-06-20'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 次の情報［製品品質の要求事項の仕様の一部分として，ＱＭＥを定義するための要求事項及び事例；ＱＭＥの初期集合の例；ＱＭＥに対する製品（対象実体）の特徴の定義及び定量化のための手引］を含んでいる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X25021
+  type: JIS
+ext:
+  schema-version: v0.0.1

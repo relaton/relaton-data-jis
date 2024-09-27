@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISC8947-2023
+title:
+- content: 球状太陽電池セルのＩ－Ｖ特性測定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Spherical photovoltaic cell (SPVC) -- Measurement of photovoltaic current-voltage
+    characteristics
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8947%3A2023
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08947_000_000_2023_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8947:2023
+  type: JIS
+  primary: true
+docnumber: C8947
+date:
+- type: issued
+  value: '2023-03-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ソーラシミュレータ及び積分球を用いた球状太陽電池セルのＩーＶ特性（電流－電圧特性）の測定方法について規定。直径が１　ｍｍ～２　ｍｍの結晶シリコンの球状太陽電池セルに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '27.160'
+  text: Solar energy engineering
+- code: 29.220.99
+  text: Other cells and batteries
+structuredidentifier:
+  project_number: C8947
+  type: JIS
+ext:
+  schema-version: v0.0.1

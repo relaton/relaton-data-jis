@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC1601-1983
+title:
+- content: 指示熱電温度計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Indicating thermoelectric thermometers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1601%3A1983
+  type: src
+type: standard
+docid:
+- id: JIS C 1601:1983
+  type: JIS
+  primary: true
+docnumber: C1601
+date:
+- type: issued
+  value: '1983-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 可動コイル形指示計とＪＩＳ　Ｃ　１６０２に規定する熱電対とを組み合わせたアナログ方式の指示熱電温度計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 17.200.20
+  text: Temperature-measuring instruments
+structuredidentifier:
+  project_number: C1601
+  type: JIS
+ext:
+  schema-version: v0.0.1

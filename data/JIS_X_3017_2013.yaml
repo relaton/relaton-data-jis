@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX3017-2013
+title:
+- content: プログラム言語Ｒｕｂｙ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Programming languages -- Ruby
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3017%3A2013
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03017_000_000_2013_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 3017:2013
+  type: JIS
+  primary: true
+docnumber: X3017
+date:
+- type: issued
+  value: '2013-12-20'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　Ｒｕｂｙアソシエーション
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　Ｒｕｂｙアソシエーション
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: プログラム言語Rubyの構文規則及び意味規則を規定し，その規格適合処理系，規格に厳密に適合するプログラム及び規格適合プログラムの要件を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　Ｒｕｂｙアソシエーション
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3017
+  type: JIS
+ext:
+  schema-version: v0.0.1

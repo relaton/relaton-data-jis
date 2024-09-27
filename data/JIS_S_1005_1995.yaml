@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISS1005-1995
+title:
+- content: 家庭用流し台・調理台・こんろ台
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Kitchen equipments
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+1005%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS S 1005:1995
+  type: JIS
+  primary: true
+docnumber: S1005
+date:
+- type: issued
+  value: '1995-07-31'
+contributor:
+- organization:
+    name:
+    - content: キッチン・バス工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: キッチン・バス工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 一般家庭に用いられる流し台，調理台及びこんろ台について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: キッチン・バス工業会
+ics:
+- code: 97.040.20
+  text: Cooking ranges, working tables, ovens and similar appliances
+structuredidentifier:
+  project_number: S1005
+  type: JIS
+ext:
+  schema-version: v0.0.1

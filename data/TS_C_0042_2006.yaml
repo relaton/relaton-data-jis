@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: TSC0042-2006
+title:
+- content: 太陽光発電システム現地試験指針
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Guidelines of commissioning and maintenance field test for PV power generating
+    system
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+C+0042%3A2006
+  type: src
+type: standard
+docid:
+- id: TS C 0042:2006
+  type: JIS
+  primary: true
+docnumber: C0042
+date:
+- type: issued
+  value: '2006-03-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 系統連係形太陽光発電システム及び独立形太陽光発電システムの現地における試験の適用及び試験実施時の注意点について規定。小容量のシステム（１ｋＷ以下）及び直結形のポンプシステムを除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-specification
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.160'
+  text: Solar energy engineering
+structuredidentifier:
+  project_number: C0042
+  type: JIS
+ext:
+  schema-version: v0.0.1

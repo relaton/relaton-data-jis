@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX0802-1989
+title:
+- content: 機関名の情報交換用表記方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Description of name of corporate bodies for information interchange
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0802%3A1989
+  type: src
+type: standard
+docid:
+- id: JIS X 0802:1989
+  type: JIS
+  primary: true
+docnumber: X0802
+date:
+- type: issued
+  value: '1990-02-28'
+contributor:
+- organization:
+    name:
+    - content: 文部科学省科学技術・学術政策局基盤政策課
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 文部科学省科学技術・学術政策局基盤政策課
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: データ処理システムにおける書誌参照及び二次資料の作成に用いる機関名の表記方法について規定。雑誌名中における機関名の表記方法は，ＪＩＳ　Ｘ　０８０１による。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 文部科学省科学技術・学術政策局基盤政策課
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X0802
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISF0070-1998
+title:
+- content: 船用機器・部品の電子情報体系
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Shipbuilding -- Electronic data system of equipment and parts
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0070%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS F 0070:1998
+  type: JIS
+  primary: true
+docnumber: F0070
+date:
+- type: issued
+  value: '1998-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 船に搭載する機器の部品・予備品に関する情報を電子情報交換（ＥＤＩ）する際に，情報の流通段階でその部品等を特定するために必要となる情報を，船舶データ，機器データ及び部品データで構成した情報体系として規定。併せて情報の流通段階を考慮して部品等購入データをこの体系に加えて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 47.020.70
+  text: Navigation and control equipment
+structuredidentifier:
+  project_number: F0070
+  type: JIS
+ext:
+  schema-version: v0.0.1

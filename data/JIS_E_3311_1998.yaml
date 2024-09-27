@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISE3311-1998
+title:
+- content: 進路表示機
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Railway signal -- Route indicators
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+3311%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS E 3311:1998
+  type: JIS
+  primary: true
+docnumber: E3311
+date:
+- type: issued
+  value: '1998-06-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 鉄道信号用の進路表示機機構について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄道電気技術協会
+ics:
+- code: '45.080'
+  text: Rails and railway components
+structuredidentifier:
+  project_number: E3311
+  type: JIS
+ext:
+  schema-version: v0.0.1

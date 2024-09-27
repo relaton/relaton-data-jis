@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISB8481-1999
+title:
+- content: 室内温度調節器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Room thermostats
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8481%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08481_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8481:1999
+  type: JIS
+  primary: true
+docnumber: B8481
+date:
+- type: issued
+  value: '2000-02-29'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 人の居住する室内の壁面に単独に取り付けて，室内温度を検出し，空調機器を制御するもので，機械的な変位により電気接点の開閉を行う機構を内蔵した室内温度調節器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: '23.120'
+  text: Ventilators. Fans. Air-conditioners
+structuredidentifier:
+  project_number: B8481
+  type: JIS
+ext:
+  schema-version: v0.0.1

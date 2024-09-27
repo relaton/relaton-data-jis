@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISZ8113-1998
+title:
+- content: 照明用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Lighting vocabulary
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8113%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08113_000_000_1998_j_pr11_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 8113:1998
+  type: JIS
+  primary: true
+docnumber: Z8113
+date:
+- type: issued
+  value: '1999-03-31'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　照明学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　照明学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 照明用語と，その定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　照明学会
+ics:
+- code: 01.040.91
+  text: Construction materials and building (Vocabularies)
+- code: 91.160.01
+  text: Lighting in general
+structuredidentifier:
+  project_number: Z8113
+  type: JIS
+ext:
+  schema-version: v0.0.1

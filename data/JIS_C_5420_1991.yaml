@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISC5420-1991
+title:
+- content: プリント配線板用コネクタ通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules of one-part connectors for printed wiring board
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5420%3A1991
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05420_000_000_1991_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05420_000_000_1991_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 5420:1991
+  type: JIS
+  primary: true
+docnumber: C5420
+date:
+- type: issued
+  value: '1991-08-01'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器に使用するプリント配線板用コネクタのうち，プリント配線板のエッジコネクタ端子と直接結合するコネクタの共通的事項及び個別規格に，規定すべき事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 31.220.10
+  text: Plug-and-socket devices. Connectors
+structuredidentifier:
+  project_number: C5420
+  type: JIS
+ext:
+  schema-version: v0.0.1

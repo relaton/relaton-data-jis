@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISC4556-2009
+title:
+- content: 工業用電子カウンタ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electronic counter for industrial use
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4556%3A2009
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04556_000_000_2009_j_ed11_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04556_000_000_2009_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 4556:2009
+  type: JIS
+  primary: true
+docnumber: C4556
+date:
+- type: issued
+  value: '2009-12-21'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 周波数が５０Ｈｚ及び／又は６０Ｈｚの交流２５０Ｖ以下，又は直流２５０Ｖ以下の工業用制御回路に使用する電子カウンタの要求事項及び試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電気制御機器工業会"
+ics:
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
+- code: 25.040.40
+  text: Industrial process measurement and control
+structuredidentifier:
+  project_number: C4556
+  type: JIS
+ext:
+  schema-version: v0.0.1

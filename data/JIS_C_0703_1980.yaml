@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISC0703-1980
+title:
+- content: 低圧電気機器の絶縁基準
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Classification and test methods for insulation of household appliances
+    and equipments
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0703%3A1980
+  type: src
+type: standard
+docid:
+- id: JIS C 0703:1980
+  type: JIS
+  primary: true
+docnumber: C0703
+date:
+- type: issued
+  value: '1980-04-01'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　電気安全環境研究所
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　電気安全環境研究所
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 交流電圧３００Ｖ以下，周波数５０Ｈｚ又は６０Ｈｚの電源に接続し，家庭，商店，事務所などで用いる家庭用電気機器及び類似の電気機器の絶縁基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　電気安全環境研究所
+ics:
+- code: 29.080.01
+  text: Electrical insulation in general
+- code: 29.100.01
+  text: Components for electrical equipment in general
+structuredidentifier:
+  project_number: C0703
+  type: JIS
+ext:
+  schema-version: v0.0.1

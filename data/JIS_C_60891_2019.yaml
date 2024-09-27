@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISC60891-2019
+title:
+- content: 太陽電池デバイス―Ｉ－Ｖ特性測定における温度及び照度補正法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Photovoltaic devices -- Procedures for temperature and irradiance corrections
+    to measured I-V characteristics
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60891%3A2019
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60891_000_000_2019_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 60891:2019
+  type: JIS
+  primary: true
+docnumber: C60891
+date:
+- type: issued
+  value: '2019-03-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 太陽電池デバイスの電流－電圧測定値に対する温度及び照度補正を行うための手順，並びにこれらの補正に関連する係数を特定するために用いる手順を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.160'
+  text: Solar energy engineering
+structuredidentifier:
+  project_number: C60891
+  type: JIS
+ext:
+  schema-version: v0.0.1

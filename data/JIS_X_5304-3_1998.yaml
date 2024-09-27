@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5304-3-1998
+title:
+- content: 開放型システム間相互接続―コネクションレス型ネットワークプロトコル―第３部：Ｘ．２５サブネットワークによる下位サービス提供
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Protocol for providing the connectionless-mode
+    network service -- Part 3: Provision of the underlying service by an X.25 subnetwork'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5304-3%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05304_003_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5304-3:1998
+  type: JIS
+  primary: true
+docnumber: X5304
+date:
+- type: issued
+  value: '1998-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＩＴＵ－Ｔ勧告Ｘ．２５に適合するサブネトワークにおいて，ＪＩＳ　Ｘ　５３０２が規定するプロトコルの前提とするサービスをＩＳＯ／ＩＥＣ　８６４８で規定されているサブネットワーク依存収束機能（ＳＮＤＣＦ）を通じて提供する方法を規定。ＩＳＯ／ＩＥＣ　９６４６－１の要件及び指針に基づくプロトコル実装適合性申告書（ＰＩＣＳ）様式を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.30
+  text: Network layer
+structuredidentifier:
+  project_number: X5304
+  type: JIS
+ext:
+  schema-version: v0.0.1

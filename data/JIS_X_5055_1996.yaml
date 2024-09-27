@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX5055-1996
+title:
+- content: セキュリティ技術　―　ブロック暗号アルゴリズムによる暗号検査関数を用いるデータ完全性機構
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Security techniques -- Data integrity mechanism
+    using a cryptographic check function employing a block cipher algorithm
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5055%3A1996
+  type: src
+type: standard
+docid:
+- id: JIS X 5055:1996
+  type: JIS
+  primary: true
+docnumber: X5055
+date:
+- type: issued
+  value: '1996-12-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ｎビット暗合検査値を計算するために，鍵及びｎビットブロック暗合アルゴリズムを用いる手法を規定。この手法は，データが不正に変更されているか否かを検出するためのデータ完全性機構として使用できる。データ完全性機構の強度は，鍵の長さ及び機密性，暗合アルゴリズムの特性並びに検査値の長さｍに依存する。セキュリティの体系，処理又は応用のようなセキュリティサービスに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X5055
+  type: JIS
+ext:
+  schema-version: v0.0.1

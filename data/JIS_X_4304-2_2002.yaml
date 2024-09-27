@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX4304-2-2002
+title:
+- content: 連続階調静止画像の可逆及び準可逆圧縮　―　第２部：拡張
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Lossless and near-lossless compression of continuous-tone
+    still images -- Part 2: Extensions'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4304-2%3A2002
+  type: src
+type: standard
+docid:
+- id: JIS X 4304-2:2002
+  type: JIS
+  primary: true
+docnumber: X4304
+date:
+- type: issued
+  value: '2002-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 連続階調（２値画像を含む。），白黒及びカラーのディジタル静止画像符号化処理における，可逆（情報が保存される。）及び準可逆（それぞれの標本値の再生誤差があらかじめ定められた範囲内に限定される。）の圧縮方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X4304
+  type: JIS
+ext:
+  schema-version: v0.0.1

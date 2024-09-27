@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISC3102-1984
+title:
+- content: 電気用軟銅線
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Annealed copper wires for electrical purposes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3102%3A1984
+  type: src
+type: standard
+docid:
+- id: JIS C 3102:1984
+  type: JIS
+  primary: true
+docnumber: C3102
+date:
+- type: issued
+  value: '1984-04-30'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電線工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電線工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 断面が円形で軟質の電気用銅線について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電線工業会
+ics:
+- code: 29.060.10
+  text: Wires
+structuredidentifier:
+  project_number: C3102
+  type: JIS
+ext:
+  schema-version: v0.0.1

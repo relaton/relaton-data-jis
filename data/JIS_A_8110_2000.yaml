@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISA8110-2000
+title:
+- content: 土工機械―サービス診断用計測器具
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Earth-moving machinery -- Service instrumentation
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8110%3A2000
+  type: src
+type: standard
+docid:
+- id: JIS A 8110:2000
+  type: JIS
+  primary: true
+docnumber: A8110
+date:
+- type: issued
+  value: '2000-11-30'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本建設機械施工協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本建設機械施工協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 作業現場で土工機械を点検するための診断用計測器具のリストをガイダンスとして規定。目的は，携帯用器具を使用して容易に機械の点検ができるように，近づきやすく，器具が取りつけやすい土工機械が設計されるためのものである。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本建設機械施工協会
+ics:
+- code: '19.060'
+  text: Mechanical testing
+- code: '19.080'
+  text: Electrical and electronic testing
+- code: '53.100'
+  text: Earth-moving machinery
+structuredidentifier:
+  project_number: A8110
+  type: JIS
+ext:
+  schema-version: v0.0.1

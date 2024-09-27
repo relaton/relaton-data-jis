@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISC1211-1-2009
+title:
+- content: 電力量計（単独計器）―第１部：一般仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Alternating-current watt-hour meters (for direct connection) -- Part 1:
+    General measuring instrument'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1211-1%3A2009
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01211_001_000_2009_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01211_001_000_2009_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 1211-1:2009
+  type: JIS
+  primary: true
+docnumber: C1211
+date:
+- type: issued
+  value: '2009-04-20'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 一般に使用される電力量計であって，単相２線式回路，単相３線式回路，三相３線式回路及び三相４線式回路において，計器用変成器と組み合わせないで単独に使用する普通電力量計（Ⅲ形１素子単独計器及びⅢ形多素子単独計器）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
+structuredidentifier:
+  project_number: C1211
+  type: JIS
+ext:
+  schema-version: v0.0.1

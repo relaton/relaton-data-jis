@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISC5443-1997
+title:
+- content: 電子機器用スイッチ品目別通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Generic specification of switches for use in electronic equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5443%3A1997
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05443_000_000_1997_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05443_000_000_1997_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 5443:1997
+  type: JIS
+  primary: true
+docnumber: C5443
+date:
+- type: issued
+  value: '1997-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器に用いる定格電圧５００Ｖ（周波数５０Ｈｚ及び６０Ｈｚの交流，又は直流）以下，定格電流６３Ａ以下の機械的接点をもつ手動操作スイッチの品目別通則であり，スイッチの品種別通則，ブランク個別規格及び個別規格に規定する電気的性能，機械的性能，耐候性，その他の共通的要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 31.220.20
+  text: Switches
+structuredidentifier:
+  project_number: C5443
+  type: JIS
+ext:
+  schema-version: v0.0.1

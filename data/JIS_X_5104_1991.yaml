@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX5104-1991
+title:
+- content: ハイレベルデータリンク制御手順のフレーム構成
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information processing systems -- Data communication -- High-level data
+    link control procedures -- Frame structure
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5104%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS X 5104:1991
+  type: JIS
+  primary: true
+docnumber: X5104
+date:
+- type: issued
+  value: '1991-08-01'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 符号上の制約を受けることのないハイレベルデータリンク制御（ＨＤＬＣ）手順を用いるデータ通信システムにおけるフレーム構成について規定。フレームの各要素の相対的位置，フレーム区切りシーケンスのビット構成，フレーム内におけるビットパターンの独立性を実現するために用いる機構を規定。２種類のフレーム検査シーケンス，アドレス部の拡張方法，及びアドレスの用法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.20
+  text: Data link layer
+structuredidentifier:
+  project_number: X5104
+  type: JIS
+ext:
+  schema-version: v0.0.1

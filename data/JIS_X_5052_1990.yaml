@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX5052-1990
+title:
+- content: ６４ビットのブロック暗号アルゴリズムの利用モード
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Modes of operation for a 64-bit block cipher algorithm
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5052%3A1990
+  type: src
+type: standard
+docid:
+- id: JIS X 5052:1990
+  type: JIS
+  primary: true
+docnumber: X5052
+date:
+- type: issued
+  value: '1990-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 秘密のかぎ（鍵）を用いた，６４ビットのブロック暗号について４種類の利用モードを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X5052
+  type: JIS
+ext:
+  schema-version: v0.0.1

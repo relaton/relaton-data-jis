@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISC9810-1999
+title:
+- content: 家庭用交流換気扇及び速度調整装置の性能測定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: A.C. electric ventilating fans and regulators for household and similar
+    purposes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9810%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09810_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 9810:1999
+  type: JIS
+  primary: true
+docnumber: C9810
+date:
+- type: issued
+  value: '1999-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ２５０Ｖ以下の単相交流回路で使用する，消費電力が５００Ｗ以下の単相交流電動機で駆動し，羽根直径０．５ｍ以下の，家庭用及びこれに類する換気扇（関連速度調整装置を含む。）の性能及び対応する試験方法について規定。壁，窓，台所などに使用する換気扇に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '23.120'
+  text: Ventilators. Fans. Air-conditioners
+structuredidentifier:
+  project_number: C9810
+  type: JIS
+ext:
+  schema-version: v0.0.1

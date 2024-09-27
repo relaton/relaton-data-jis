@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISB8043-2-2000
+title:
+- content: ガスタービン―排気排出物―第２部：排出物の自動監視
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Gas turbines -- Exhaust gas emission -- Part 2: Automated emission monitoring'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8043-2%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08043_002_000_2000_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8043-2:2000
+  type: JIS
+  primary: true
+docnumber: B8043
+date:
+- type: issued
+  value: '2000-11-30'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 日本内燃機関連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本内燃機関連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 期間を限ることでなく長期にわたって連続して行う測定に用いる，監視プログラム並びに測定機器の選定及びその操作についての要求事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本内燃機関連合会
+ics:
+- code: 13.040.40
+  text: Stationary source emissions
+- code: '27.040'
+  text: Gas and steam turbines. Steam engines
+structuredidentifier:
+  project_number: B8043
+  type: JIS
+ext:
+  schema-version: v0.0.1

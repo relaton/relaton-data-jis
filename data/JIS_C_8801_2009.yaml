@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISC8801-2009
+title:
+- content: りん酸形燃料電池発電システム通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for phosphoric acid fuel cell power generating system
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8801%3A2009
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08801_000_000_2009_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08801_000_000_2009_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8801:2009
+  type: JIS
+  primary: true
+docnumber: C8801
+date:
+- type: issued
+  value: '2009-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ａ）燃料電池の種類　常圧形のりん酸形燃料電池発電設備；ｂ）システムの出力　５０ｋＷ以上，５００ｋＷ未満；ｃ）構造形式　パッケージ一体形構造に該当する燃料電池発電システムについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.070'
+  text: Fuel cells
+structuredidentifier:
+  project_number: C8801
+  type: JIS
+ext:
+  schema-version: v0.0.1

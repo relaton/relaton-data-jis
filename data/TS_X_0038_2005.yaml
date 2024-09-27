@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: TSX0038-2005
+title:
+- content: DVD－書換形ディスクのボリューム構造及びファイル構造
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Volume and file structure of DVD rewritable Disc
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+X+0038%3A2005
+  type: src
+type: standard
+docid:
+- id: TS X 0038:2005
+  type: JIS
+  primary: true
+docnumber: X0038
+date:
+- type: issued
+  value: '2005-09-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: コンピュータシステムの利用者の間の情報交換をサポートするＤＶＤ－書換形ディスクのボリューム構造及びファイル構造のためのフォーマットを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-specification
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　光産業技術振興協会
+ics:
+- code: '35.040'
+  text: Information coding
+- code: 35.220.21
+  text: Magnetic disks
+structuredidentifier:
+  project_number: X0038
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC2315-1999
+title:
+- content: バルカナイズドファイバ板
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Vulcanized fibre sheets for electrical purposes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2315%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS C 2315:1999
+  type: JIS
+  primary: true
+docnumber: C2315
+date:
+- type: issued
+  value: '1999-11-30'
+contributor:
+- organization:
+    name:
+    - content: 電気機能材料工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 電気機能材料工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電気機器の絶縁に用いる，バルカナイズドファイバの平板について規定。板を接着剤で積層した材料は除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 電気機能材料工業会
+ics:
+- code: 29.035.10
+  text: Paper and board insulating materials
+structuredidentifier:
+  project_number: C2315
+  type: JIS
+ext:
+  schema-version: v0.0.1

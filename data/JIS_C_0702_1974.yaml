@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISC0702-1974
+title:
+- content: クラスＩＩ電気機器の絶縁構造通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for insulation construction of class II electrical appliances
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0702%3A1974
+  type: src
+type: standard
+docid:
+- id: JIS C 0702:1974
+  type: JIS
+  primary: true
+docnumber: C0702
+date:
+- type: issued
+  value: '1974-03-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 単相交流で，定格電圧３００Ｖ以下のクラスＩＩ電気機器（機体内部に定常的に発生する電圧が３００Ｖを超えるものは除く。）の絶縁構造について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: 29.080.01
+  text: Electrical insulation in general
+- code: 29.100.01
+  text: Components for electrical equipment in general
+structuredidentifier:
+  project_number: C0702
+  type: JIS
+ext:
+  schema-version: v0.0.1

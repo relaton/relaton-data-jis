@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISX0306-2023
+title:
+- content: 国際標準逐次刊行物番号（ＩＳＳＮ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: International standard serial number (ISSN)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0306%3A2023
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00306_000_000_2023_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0306:2023
+  type: JIS
+  primary: true
+docnumber: X0306
+date:
+- type: issued
+  value: '2023-09-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報科学技術協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報科学技術協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 逐次刊行物及びその他の継続資料を一意に識別する標準コード（ＩＳＳＮ）の利用を規定し，促進するものである。それぞれの国際標準逐次刊行物番号（ＩＳＳＮ）は，冊子体か電子媒体かにかかわらず，逐次刊行物又はその他の継続資料を媒体も含めて一意に識別するものである。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報科学技術協会"
+ics:
+- code: 01.140.20
+  text: Information sciences
+structuredidentifier:
+  project_number: X0306
+  type: JIS
+ext:
+  schema-version: v0.0.1

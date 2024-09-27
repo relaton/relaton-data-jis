@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISA1204-2020
+title:
+- content: 土の粒度試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: The method for particle size distribution of soils
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1204%3A2020
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01204_000_000_2020_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS A 1204:2020
+  type: JIS
+  primary: true
+docnumber: A1204
+date:
+- type: issued
+  value: '2020-03-25'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　地盤工学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　地盤工学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 高有機質土以外の土で，かつ，目開き７５　ｍｍのふるいを通過した土の粒度を，求める試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　地盤工学会
+ics:
+- code: 13.080.01
+  text: Soil quality and pedology in general
+- code: '93.010'
+  text: Civil engineering in general
+structuredidentifier:
+  project_number: A1204
+  type: JIS
+ext:
+  schema-version: v0.0.1

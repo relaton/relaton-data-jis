@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5746-1995
+title:
+- content: 開放型システム間相互接続　―　仮想端末基本クラスプロトコル　―　第１部　仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Open Systems Interconnection -- Virtual terminal
+    basic class protocol -- Part 1: Specification'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5746%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05746_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5746:1995
+  type: JIS
+  primary: true
+docnumber: X5746
+date:
+- type: issued
+  value: '1995-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: "（ａ）基本クラス仮想端末サービスの提供者の機能を実装したプロトコルマシン間でデータ及び制御情報並びに参照情報をコネクション型で転送するための一連の手順　（ｂ）これらの手順が操作される二つのモード　（ｃ）データ及び制御情報の転送で使われるプロトコル要素の構造並びにこれらのプロトコル要素のＡＣＳＥ及び下位層サービスへの写像　（ｄ）プロトコルマシンで使用する機能単位及びサービスのパラメタの折衝手段　（ｅ）データ及び制御情報の転送で使用するプロトコル要素の構造及び写像　の事項を規定。また，手順に関して　（ｆ）仮想端末プロトコル要素の交換を通して行う仮想端末プロトコルマシン間の相互作用　（ｇ）同一システム内で仮想端末サービスプリミティブの交換を通して行う仮想端末プロトコルマシンと仮想端末サービス利用者との相互作用　（ｈ）サービスプリミティブの交換を通して行う仮想端末プロトコルとＡＣＳＥ及びプレゼンテーションサービス提供者との間の相互作用　の事項を規定。→以下続く"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5746
+  type: JIS
+ext:
+  schema-version: v0.0.1

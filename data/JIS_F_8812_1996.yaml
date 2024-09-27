@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISF8812-1996
+title:
+- content: 船用端子盤
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Shipbuilding -- Terminal boards
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8812%3A1996
+  type: src
+type: standard
+docid:
+- id: JIS F 8812:1996
+  type: JIS
+  primary: true
+docnumber: F8812
+date:
+- type: issued
+  value: '1996-12-31'
+contributor:
+- organization:
+    name:
+    - content: 財団法人　日本船舶標準協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 財団法人　日本船舶標準協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 船内の定格電圧２５０Ｖ以下の電気器具に取り付けられる。小形端子を用いた電線接続用の端子盤について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 財団法人　日本船舶標準協会
+ics:
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+structuredidentifier:
+  project_number: F8812
+  type: JIS
+ext:
+  schema-version: v0.0.1

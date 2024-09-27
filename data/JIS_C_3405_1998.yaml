@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISC3405-1998
+title:
+- content: 自動車―高圧電線
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Road vehicles -- High tension cables
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3405%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03405_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03405_000_000_1998_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 3405:1998
+  type: JIS
+  primary: true
+docnumber: C3405
+date:
+- type: issued
+  value: '1998-11-30'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 自動車に使用する高圧電線について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　自動車技術会
+ics:
+- code: 29.060.10
+  text: Wires
+- code: 43.040.10
+  text: Electrical and electronic equipment
+structuredidentifier:
+  project_number: C3405
+  type: JIS
+ext:
+  schema-version: v0.0.1

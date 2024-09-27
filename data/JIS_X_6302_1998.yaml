@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX6302-1998
+title:
+- content: 識別カード　―　記録技術
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Identification cards -- Recording technique
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6302%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS X 6302:1998
+  type: JIS
+  primary: true
+docnumber: X6302
+date:
+- type: issued
+  value: '1998-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 識別カードの記録技術であるエンボス，磁気記録，ＩＤ－１型カード上のエンボス位置，読取り専用磁気トラックの位置及び読み書き両用磁気トラックの位置について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　ビジネス機械・情報システム産業協会
+ics:
+- code: 35.240.15
+  text: Identification cards. Chip cards. Biometrics
+structuredidentifier:
+  project_number: X6302
+  type: JIS
+ext:
+  schema-version: v0.0.1

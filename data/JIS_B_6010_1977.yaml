@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISB6010-1977
+title:
+- content: 工作機械の回転数及び送り
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Machine tool speeds and feeds
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6010%3A1977
+  type: src
+type: standard
+docid:
+- id: JIS B 6010:1977
+  type: JIS
+  primary: true
+docnumber: B6010
+date:
+- type: issued
+  value: '1977-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 工作機械の回転数及び送りについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本工作機械工業会
+ics:
+- code: 25.080.01
+  text: Machine tools in general
+structuredidentifier:
+  project_number: B6010
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: JISX4158-2005
+title:
+- content: ＸＭＬ名前空間
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Namespaces in XML
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4158%3A2005
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04158_000_000_2005_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4158:2005
+  type: JIS
+  primary: true
+docnumber: X4158
+date:
+- type: issued
+  value: '2005-10-20'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＸＭＬ名前空間を規定。ＸＭＬ名前空間はＸＭＬ文書の中で使用する要素及び属性の名前を修飾するための単純な方法を提供する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X4158
+  type: JIS
+ext:
+  schema-version: v0.0.1

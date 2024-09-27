@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5724-1991
+title:
+- content: 開放型システム間相互接続―ファイルの転送，アクセス及び管理（ＦＴＡＭ）―第４部　ファイルプロトコル仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information processing systems -- Open Systems Interconnection -- File
+    Transfer, Access and Management -- Part 4: File protocol specification'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5724%3A1991
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05724_000_000_1991_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5724:1991
+  type: JIS
+  primary: true
+docnumber: X5724
+date:
+- type: issued
+  value: '1991-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: "（ａ）内部ファイルサービスを支援する基本プロトコル　（ｂ）外部ファイルサービスを支援する誤り回復プロトコル　（ｃ）ファイルプロトコル制御情報を運ぶために必要な抽象構文の定義　（ｄ）このプロトコルの実装者が従うべき適合性の要件　の４つの主要部分から構成。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5724
+  type: JIS
+ext:
+  schema-version: v0.0.1

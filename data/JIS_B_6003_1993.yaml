@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISB6003-1993
+title:
+- content: 工作機械―振動測定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Machine tools -- Test methods for vibration
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6003%3A1993
+  type: src
+type: standard
+docid:
+- id: JIS B 6003:1993
+  type: JIS
+  primary: true
+docnumber: B6003
+date:
+- type: issued
+  value: '1993-03-31'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 旋盤，ボール盤，フライス盤及び研削盤の振動測定方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本工作機械工業会
+ics:
+- code: '17.160'
+  text: Vibrations, shock and vibration measurements
+- code: 25.080.01
+  text: Machine tools in general
+structuredidentifier:
+  project_number: B6003
+  type: JIS
+ext:
+  schema-version: v0.0.1

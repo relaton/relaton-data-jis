@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISC2320-1999
+title:
+- content: 電気絶縁油
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electrical insulating oils
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2320%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02320_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02320_000_000_1999_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 2320:1999
+  type: JIS
+  primary: true
+docnumber: C2320
+date:
+- type: issued
+  value: '1999-05-31'
+- type: confirmed
+  value: '2004-06-20'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　石油学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　石油学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 油入コンデンサ，油入ケーブル，油入変圧器，油入遮断器などに用いる未使用の電気絶縁油について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　石油学会
+ics:
+- code: 29.040.10
+  text: Insulating oils
+structuredidentifier:
+  project_number: C2320
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISF0416-2003
+title:
+- content: 船用コンピュータ及び周辺機器―船内環境適用基準
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Marine computers and their peripherals -- Environmental conditions criteria
+    in ships
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0416%3A2003
+  type: src
+type: standard
+docid:
+- id: JIS F 0416:2003
+  type: JIS
+  primary: true
+docnumber: F0416
+date:
+- type: issued
+  value: '2003-10-01'
+- type: confirmed
+  value: '2023-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 船舶に搭載する法規及び船級規則が適用されない制御及び監視用コンピュータ及びその周辺機器が，機能を十分発揮できるようにすることを目的として，その機器の重要度，使用条件区分及び環境試験の方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 35.240.60
+  text: IT applications in transport
+- code: 47.020.70
+  text: Navigation and control equipment
+structuredidentifier:
+  project_number: F0416
+  type: JIS
+ext:
+  schema-version: v0.0.1

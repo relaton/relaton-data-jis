@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISA8421-1994
+title:
+- content: ローダの用語と仕様書様式
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Terminology and standard form of specifications of loaders
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8421%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS A 8421:1994
+  type: JIS
+  primary: true
+docnumber: A8421
+date:
+- type: issued
+  value: '1994-03-31'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本建設機械化協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本建設機械化協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 土工作業などに使用する自走式のクローラローダ及びホイールローダの用語と，仕様書の様式及び記入要領について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本建設機械化協会
+ics:
+- code: 01.040.53
+  text: Materials handling equipment (Vocabularies)
+- code: '53.100'
+  text: Earth-moving machinery
+structuredidentifier:
+  project_number: A8421
+  type: JIS
+ext:
+  schema-version: v0.0.1

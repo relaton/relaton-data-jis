@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISE4042-1999
+title:
+- content: 電気機関車の組立後の試験通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for the test methods of electric locomotives on completion
+    of construction
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+4042%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_04042_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS E 4042:1999
+  type: JIS
+  primary: true
+docnumber: E4042
+date:
+- type: issued
+  value: '1999-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道車輌工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道車輌工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 車上で制御される回転電動機の動力をもち，車輪によって機械的に案内，支持される電気機関車の試験方法を規定。試験方法は，直流若しくは交流，又は交直両用いずれかの外部電源から給電される機関車に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄道車輌工業会
+ics:
+- code: 45.060.10
+  text: Tractive stock
+structuredidentifier:
+  project_number: E4042
+  type: JIS
+ext:
+  schema-version: v0.0.1

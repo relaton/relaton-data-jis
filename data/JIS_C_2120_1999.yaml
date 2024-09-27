@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISC2120-1999
+title:
+- content: 電気絶縁用ワニスクロス類試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Testing method of varnished cloths and tapes for electrical insulation
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2120%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02120_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 2120:1999
+  type: JIS
+  primary: true
+docnumber: C2120
+date:
+- type: issued
+  value: '1999-11-30'
+contributor:
+- organization:
+    name:
+    - content: 電気機能材料工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 電気機能材料工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ワニスクロス類の試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 電気機能材料工業会
+ics:
+- code: 29.035.60
+  text: Varnished fabrics
+structuredidentifier:
+  project_number: C2120
+  type: JIS
+ext:
+  schema-version: v0.0.1

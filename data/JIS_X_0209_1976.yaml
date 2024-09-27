@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX0209-1976
+title:
+- content: 情報交換用機能キャラクタの図形表現
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Graphical representations of control characters for information interchange
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0209%3A1976
+  type: src
+type: standard
+docid:
+- id: JIS X 0209:1976
+  type: JIS
+  primary: true
+docnumber: X0209
+date:
+- type: issued
+  value: '1976-01-05'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 機能キャラクタを含む情報交換用符号系列について，監視や診断をするために機能キャラクタを印字する場合又は文字表示装置の画面上に図形表示する場合の記号表現及び略号表現について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X0209
+  type: JIS
+ext:
+  schema-version: v0.0.1

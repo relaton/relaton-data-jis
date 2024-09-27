@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISC2550-2000
+title:
+- content: 電磁鋼帯試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Test methods for magnetic steel sheet and strip
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2550%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02550_000_000_2000_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02550_000_000_2000_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 2550:2000
+  type: JIS
+  primary: true
+docnumber: C2550
+date:
+- type: issued
+  value: '2000-03-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 方向性及び無方向性電磁鋼帯の寸法測定，切断かえり測定，平たん度測定，巻ぐせ測定，横曲がり測定，内部応力測定，商用周波及び可聴周波における交流磁化特性試験・鉄損試験・皮相電力試験，直流磁化特性試験，占積率試験，層間抵抗試験，引張試験並びに繰返し曲げ試験における試料及び試験の方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '29.030'
+  text: Magnetic materials
+structuredidentifier:
+  project_number: C2550
+  type: JIS
+ext:
+  schema-version: v0.0.1

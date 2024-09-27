@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: JISZ8461-2001
+title:
+- content: 標準物質を用いた校正（検量線が直線の場合）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Linear calibration using reference materials
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8461%3A2001
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08461_000_000_2001_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 8461:2001
+  type: JIS
+  primary: true
+docnumber: Z8461
+date:
+- type: issued
+  value: '2001-05-31'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 測定システムを校正（検量線作成）し，”校正（検量線作成）”した測定システムを統計的に管理された状態に維持するために必要な一般的原理について概説し，次の測定値の可変性に関連する二つの仮定のいずれか一つに基づく直線で表される校正関数（検量線）の推定；校正関数（検量線）の直線性の仮定と，測定値の可変性に関する仮定のチェック；ある新規，かつ，未知の量に関して校正関数（検量線）によって得られた測定値を変換することによる，その量の値の推定を行うための基本的方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 03.120.30
+  text: Application of statistical methods
+- code: '17.020'
+  text: Metrology and measurement in general
+structuredidentifier:
+  project_number: Z8461
+  type: JIS
+ext:
+  schema-version: v0.0.1

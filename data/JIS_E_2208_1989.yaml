@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISE2208-1989
+title:
+- content: 電車線路用引留金具
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Anchor fittings for overhead contact system of electric railway
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+2208%3A1989
+  type: src
+type: standard
+docid:
+- id: JIS E 2208:1989
+  type: JIS
+  primary: true
+docnumber: E2208
+date:
+- type: issued
+  value: '1989-04-01'
+contributor:
+- organization:
+    name:
+    - content: 電車線工業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 電車線工業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電車線路のき電線及び架空電車線に使用する引留金具について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 電車線工業協会
+ics:
+- code: '29.280'
+  text: Electric traction equipment
+- code: '45.080'
+  text: Rails and railway components
+structuredidentifier:
+  project_number: E2208
+  type: JIS
+ext:
+  schema-version: v0.0.1

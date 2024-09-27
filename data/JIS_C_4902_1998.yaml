@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISC4902-1998
+title:
+- content: 高圧及び特別高圧進相コンデンサ及び附属機器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: High voltage power capacitors and attached apparatus
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4902%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04902_000_000_1998_j_pr11_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 4902:1998
+  type: JIS
+  primary: true
+docnumber: C4902
+date:
+- type: issued
+  value: '1998-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 力率改善，電圧調整などの目的で，送配電系統の交流６００Ｖを超える回路で負荷と並列に接続して使用する高圧及び特別高圧進相コンデンサ及び附属機器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電気学会
+ics:
+- code: 31.060.70
+  text: Power capacitors
+structuredidentifier:
+  project_number: C4902
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISS2043-2001
+title:
+- content: ガラスコップ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glass tumblers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2043%3A2001
+  type: src
+type: standard
+docid:
+- id: JIS S 2043:2001
+  type: JIS
+  primary: true
+docnumber: S2043
+date:
+- type: issued
+  value: '2001-03-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本硝子製品工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本硝子製品工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ソーダ石灰ガラス製コップについて規定。柄付き及び台付きのものを除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本硝子製品工業会
+ics:
+- code: 81.040.30
+  text: Glass products
+- code: 97.040.60
+  text: Cookware, cutlery and flatware
+structuredidentifier:
+  project_number: S2043
+  type: JIS
+ext:
+  schema-version: v0.0.1

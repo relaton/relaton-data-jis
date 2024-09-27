@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.9
+id: JISC0452-1-2004
+title:
+- content: 電気及び関連分野―工業用システム，設備及び装置，並びに工業製品―構造化原理及び参照指定―第１部：基本原則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Industrial systems, installations and equipment and industrial products
+    -- Structuring principles and reference designations -- Part 1: Basic rules'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0452-1%3A2004
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00452_001_000_2004_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 0452-1:2004
+  type: JIS
+  primary: true
+docnumber: C0452
+date:
+- type: issued
+  value: '2004-12-20'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: システムに関する情報の構造及びシステム自体の構造を記述する一般原則について規定。これらの原理に基づき，あらゆるシステムの“オブジェクト”にも明確な“参照指定”を与えるような原則及び指針を示している。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 01.100.01
+  text: Technical drawings in general
+- code: '01.110'
+  text: Technical product documentation
+- code: '29.020'
+  text: Electrical engineering in general
+structuredidentifier:
+  project_number: C0452
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISC60068-2-42-1993
+title:
+- content: 環境試験方法―電気・電子―接点及び接続部の二酸化硫黄試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Basic environmental testing procedures Part 2: Tests Test Kc: Sulphur
+    dioxide test for contacts and connections'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-42%3A1993
+  type: src
+type: standard
+docid:
+- id: JIS C 60068-2-42:1993
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  value: '1993-11-30'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 二酸化硫黄によって汚染された大気による接点及び接続部の腐食効果を評価するための加速的試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本電子部品信頼性センター
+ics:
+- code: '19.040'
+  text: Environmental testing
+- code: '19.080'
+  text: Electrical and electronic testing
+structuredidentifier:
+  project_number: C60068
+  type: JIS
+ext:
+  schema-version: v0.0.1

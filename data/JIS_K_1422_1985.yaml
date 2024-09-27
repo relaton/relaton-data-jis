@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISK1422-1985
+title:
+- content: 四塩化炭素
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Carbon tetrachloride
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+1422%3A1985
+  type: src
+type: standard
+docid:
+- id: JIS K 1422:1985
+  type: JIS
+  primary: true
+docnumber: K1422
+date:
+- type: issued
+  value: '1985-07-31'
+contributor:
+- organization:
+    name:
+    - content: 四塩化炭素協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 四塩化炭素協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 工業薬品としての四塩化炭素について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 四塩化炭素協会
+ics:
+- code: 71.060.99
+  text: Other inorganic chemicals
+structuredidentifier:
+  project_number: K1422
+  type: JIS
+ext:
+  schema-version: v0.0.1

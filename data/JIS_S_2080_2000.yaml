@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISS2080-2000
+title:
+- content: 燃焼機器用排気筒
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Exhaust pipes for burning appliances
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2080%3A2000
+  type: src
+type: standard
+docid:
+- id: JIS S 2080:2000
+  type: JIS
+  primary: true
+docnumber: S2080
+date:
+- type: issued
+  value: '2000-09-30'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本ガス機器検査協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本ガス機器検査協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 石油又はガスを燃料とする一般家庭用の燃焼機器に接続する金属製の排気筒で，呼びΦ６０からΦ２００のものについて規定。強制給排気式及び強制給排気形の燃焼機器に接続される給排気筒及びＯリングを使用する排気筒を除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本ガス機器検査協会
+ics:
+- code: 27.060.01
+  text: Burners and boilers in general
+structuredidentifier:
+  project_number: S2080
+  type: JIS
+ext:
+  schema-version: v0.0.1

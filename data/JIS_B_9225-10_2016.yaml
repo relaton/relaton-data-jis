@@ -1,0 +1,94 @@
+---
+schema-version: v1.2.9
+id: JISB9225-10-2016
+title:
+- content: 農業機械―シリアル制御及び通信データ・ネットワーク―第１０部：タスクコントローラ及び管理情報システムデータ交換
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Tractors and machinery for agriculture and forestry -- Serial control
+    and communications data network -- Part 10: Task controller and management information
+    system data interchange'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9225-10%3A2016
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09225_010_000_2016_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 9225-10:2016
+  type: JIS
+  primary: true
+docnumber: B9225
+date:
+- type: issued
+  value: '2016-03-22'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本農業機械工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本農業機械工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 農業用トラクタと，直装，半直装，けん（牽）引，又は自走作業機とのシリアルデータネットワークの制御及び通信について規定。タスクコントローラと電子制御ユニットとの間の通信に，必要なサービス及び要求を定義するタスクコントローラアプリケーション層について規定。ほ（圃）場管理コンピュータと通信するためのデータの書式，制御のために必要な計算方法，及び制御ファンクションに送信するためのメッセージの書式についても規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本農業機械工業会"
+ics:
+- code: 35.240.99
+  text: IT applications in other fields
+- code: 65.060.01
+  text: Agricultural machines and equipment in general
+structuredidentifier:
+  project_number: B9225
+  type: JIS
+ext:
+  schema-version: v0.0.1

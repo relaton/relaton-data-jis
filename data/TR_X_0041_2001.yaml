@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: TRX0041-2001
+title:
+- content: ユニバーサルディスクフォーマット（ＵＤＦ）に基づくファイルシステムの応用プログラムインタフェース
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Application Program Interface for UDF based File Systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0041%3A2001
+  type: src
+type: standard
+docid:
+- id: TR X 0041:2001
+  type: JIS
+  primary: true
+docnumber: X0041
+date:
+- type: issued
+  value: '2001-07-01'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＴＲ　Ｘ　００３５：２０００及びＴＲ　Ｘ　００４０：２００１に適合するファイルを対象とし，そのファイルに対する書込み及び読出しの操作を行うための応用プログラムインタフェス（ＡＰＩ）を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: '35.040'
+  text: Information coding
+- code: 35.220.21
+  text: Magnetic disks
+structuredidentifier:
+  project_number: X0041
+  type: JIS
+ext:
+  schema-version: v0.0.1

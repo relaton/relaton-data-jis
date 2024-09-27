@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISD4230-1998
+title:
+- content: 自動車用タイヤ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Automobile tyres
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+4230%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_04230_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_04230_000_000_1998_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS D 4230:1998
+  type: JIS
+  primary: true
+docnumber: D4230
+date:
+- type: issued
+  value: '1998-01-31'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本自動車タイヤ協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本自動車タイヤ協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 新品の自動車用タイヤについて規定。二輪自動車用タイヤ，農業機械用タイヤ，産業車両用タイヤ及び設計車両用タイヤには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本自動車タイヤ協会
+ics:
+- code: 83.160.10
+  text: Road vehicle tyres
+structuredidentifier:
+  project_number: D4230
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISB9042-1991
+title:
+- content: 家庭用ミシンモータ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electric motors for household sewing machines
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9042%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS B 9042:1991
+  type: JIS
+  primary: true
+docnumber: B9042
+date:
+- type: issued
+  value: '1991-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 定格入力１００Ｗ以下の直巻整流子電動機を使用した家庭用ミシンモータ及びこれに附属する速度調整用コントローラについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '61.080'
+  text: Sewing machines and other equipment for the clothing industry
+structuredidentifier:
+  project_number: B9042
+  type: JIS
+ext:
+  schema-version: v0.0.1

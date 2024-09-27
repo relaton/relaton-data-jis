@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: TRX0018-1999
+title:
+- content: ソフトウェアライフサイクルプロセス　―　構成管理
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Software life cycle processes -- Configuration
+    management
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0018%3A1999
+  type: src
+type: standard
+docid:
+- id: TR X 0018:1999
+  type: JIS
+  primary: true
+docnumber: X0018
+date:
+- type: issued
+  value: '1999-10-31'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: コンピュータソフトウェアの開発，保守及び運用に関する構成管理を実行するための要求事項を定める。ＪＩＳ　Ｘ　０１６０で規定される構成管理（ＣＭ）プロセスに基づいている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X0018
+  type: JIS
+ext:
+  schema-version: v0.0.1

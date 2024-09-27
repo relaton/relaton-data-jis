@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISC5401-1991
+title:
+- content: 電子機器用コネクタ通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules of connectors for use in electronic equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5401%3A1991
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05401_000_000_1991_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 5401:1991
+  type: JIS
+  primary: true
+docnumber: C5401
+date:
+- type: issued
+  value: '1991-08-01'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器に用いるコネクタの共通的事項並びに電子機器用コネクタの品種別通則及び電子機器用コネクタの個別規格に規定すべき事項の基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 31.220.10
+  text: Plug-and-socket devices. Connectors
+structuredidentifier:
+  project_number: C5401
+  type: JIS
+ext:
+  schema-version: v0.0.1

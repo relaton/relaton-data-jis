@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5702-1991
+title:
+- content: 開放型システム間相互接続―アソシエーション制御サービス要素のプロトコル仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information processing systems -- Open Systems Interconnection -- Protocol
+    specification for the Association Control Service Element
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5702%3A1991
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05702_000_000_1991_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5702:1991
+  type: JIS
+  primary: true
+docnumber: X5702
+date:
+- type: issued
+  value: '1991-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 規定する手順は，開放型システム間相互接続環境において相互接続を要求するシステム間の通信に適用。（ａ）応用エンティティ間の，応用アソシエーション制御にかかわる情報転送の手順（ｂ）ＡＣＳＥ　ＡＰＤＵを表現するための抽出構文　の事項を規定。ＡＣＳＥ手順を（ａ）プレゼンテーションサービスによる同位ＡＣＳＥプロトコル機械間の相互動作（ｂ）ＡＣＳＥプロトコル機械械とそのサービス利用者の間の相互動作　を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5702
+  type: JIS
+ext:
+  schema-version: v0.0.1

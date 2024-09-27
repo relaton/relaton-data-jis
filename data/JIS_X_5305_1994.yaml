@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.9
+id: JISX5305-1994
+title:
+- content: コネクションレス型ネットワークプロトコル（ＪＩＳ　Ｘ　５３０４）とともに使用するための終端システムと中間システムとの間の経路選択情報交換プロトコル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information processing systems -- Telecommunications and information exchange
+    between systems -- End system to Intermediate system routeing exchange protocol
+    for use in conjunction with the Protocol for providing the connectionless-mode
+    network service (ISO 8473)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5305%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05305_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5305:1994
+  type: JIS
+  primary: true
+docnumber: X5305
+date:
+- type: issued
+  value: '1994-01-01'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 終端システム及び中間システムにおいてＪＩＳ　Ｘ　５３０４の動作をするネットワーク層エンティティが経路選択情報を維持するために使用するプロトコルを規定。このプロトコルは，コネクションレス型の下位サービスが提供されることを前提とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.30
+  text: Network layer
+structuredidentifier:
+  project_number: X5305
+  type: JIS
+ext:
+  schema-version: v0.0.1

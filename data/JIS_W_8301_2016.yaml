@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISW8301-2016
+title:
+- content: 航空標識の色
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Aeronautical ground light and surface marking colours
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+8301%3A2016
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_w_08301_000_000_2016_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS W 8301:2016
+  type: JIS
+  primary: true
+docnumber: W8301
+date:
+- type: issued
+  value: '2016-12-14'
+- type: confirmed
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　照明学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　照明学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 航空機の航行の安全及び航空機の航行に起因する障害の防止を図るために用いる航空灯火の光色並びに昼間障害標識，飛行場標識施設及び誘導案内灯に使用する標識の物体色について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　照明学会
+ics:
+- code: '49.100'
+  text: Ground service and maintenance equipment
+structuredidentifier:
+  project_number: W8301
+  type: JIS
+ext:
+  schema-version: v0.0.1

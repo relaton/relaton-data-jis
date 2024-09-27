@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX4214-2002
+title:
+- content: コンピュータグラフィクス―図形記述情報の格納・転送用のメタファイル（ＣＧＭ）―第４部：可読テキスト符号化
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Computer graphics -- Metafile for the storage
+    and transfer of picture description information -- Part 4: Clear text encoding'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4214%3A2002
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04214_000_000_2002_j_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4214:2002
+  type: JIS
+  primary: true
+docnumber: X4214
+date:
+- type: issued
+  value: '2002-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＣＧＭの可読テキスト符号化を規定。ＪＩＳ　Ｘ　４２１１で規定する各々の要素に対して，符号化を規定。許容される省略形を規定。メタファイルの全体的構成及びコメントを各所に入れる方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.140'
+  text: Computer graphics
+structuredidentifier:
+  project_number: X4214
+  type: JIS
+ext:
+  schema-version: v0.0.1

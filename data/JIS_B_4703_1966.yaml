@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISB4703-1966
+title:
+- content: 鉄工やすり
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Files
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+4703%3A1966
+  type: src
+type: standard
+docid:
+- id: JIS B 4703:1966
+  type: JIS
+  primary: true
+docnumber: B4703
+date:
+- type: issued
+  value: '1966-08-31'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 全日本ヤスリ工業組合連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 全日本ヤスリ工業組合連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 金属を手作業で仕上げるときに使用する鉄工ヤスリについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 全日本ヤスリ工業組合連合会
+ics:
+- code: 25.100.60
+  text: Files
+structuredidentifier:
+  project_number: B4703
+  type: JIS
+ext:
+  schema-version: v0.0.1

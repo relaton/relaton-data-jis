@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISB9714-2006
+title:
+- content: 機械類の安全性―予期しない起動の防止
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Safety of machinery -- Prevention of unexpected start-up
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9714%3A2006
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09714_000_000_2006_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09714_000_000_2006_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 9714:2006
+  type: JIS
+  primary: true
+docnumber: B9714
+date:
+- type: issued
+  value: '2006-12-01'
+- type: confirmed
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本機械工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本機械工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 危険区域内で作業を行うことがあるが，このときの安全確保のために予期しない起動の発生を防止するために必要な設計に組み込むべき手段を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本機械工業連合会
+ics:
+- code: '13.110'
+  text: Safety of machinery
+structuredidentifier:
+  project_number: B9714
+  type: JIS
+ext:
+  schema-version: v0.0.1

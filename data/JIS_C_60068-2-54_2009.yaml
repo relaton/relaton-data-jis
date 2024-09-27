@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISC60068-2-54-2009
+title:
+- content: 環境試験方法―電気・電子―はんだ付け性試験方法（平衡法）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Environmental testing -- Part 2-54: Tests -- Test Ta: Solderability testing
+    of electronic components by the wetting balance method'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-54%3A2009
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_054_2009_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_054_2009_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 60068-2-54:2009
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  value: '2009-07-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 任意の形状をした部品端子のはんだ付け性の試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '19.040'
+  text: Environmental testing
+- code: '19.080'
+  text: Electrical and electronic testing
+- code: 25.160.50
+  text: Brazing and soldering
+- code: '31.020'
+  text: Electronic components in general
+structuredidentifier:
+  project_number: C60068
+  type: JIS
+ext:
+  schema-version: v0.0.1

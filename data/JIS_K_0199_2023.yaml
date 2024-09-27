@@ -1,0 +1,87 @@
+---
+schema-version: v1.2.9
+id: JISK0199-2023
+title:
+- content: 異なる顕微測定装置間における同一箇所分析のための位置合わせ手順
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Guideline for alignment procedure for identical location analysis between
+    different microscopic measuring instruments
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0199%3A2023
+  type: src
+type: standard
+docid:
+- id: JIS K 0199:2023
+  type: JIS
+  primary: true
+docnumber: K0199
+date:
+- type: issued
+  value: '2023-01-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本分析機器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本分析機器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 複数の異なる顕微測定装置で同一試料を測定する際の，試料の同一箇所を分析するための手順について規定。基準点となるアライメントマーカーが刻まれた試料ホルダーを，複数の異なる顕微測定装置で共通に用いて，同一試料の微視的領域の同一箇所を分析するために必要な手順を分析担当者に対して示すことを目的とする。ここで，顕微測定装置とは，電子顕微鏡，光学顕微鏡，走査型プローブ顕微鏡など顕微観察機能をもつ測定装置をいう。ただし，試料移動ステージの位置座標が読み取れず，アライメントマーカーを基にした分析箇所の番地指定ができない顕微測定装置には適用しない。また，二次元平面上の位置合わせに適用するものとし，三次元の位置合わせには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本分析機器工業会"
+ics:
+- code: 71.040.40
+  text: Chemical analysis
+structuredidentifier:
+  project_number: K0199
+  type: JIS
+ext:
+  schema-version: v0.0.1

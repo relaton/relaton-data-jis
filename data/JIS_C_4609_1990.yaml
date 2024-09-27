@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISC4609-1990
+title:
+- content: 高圧受電用地絡方向継電装置
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Directional ground relay set for 6.6 kV consumer
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4609%3A1990
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04609_000_000_1990_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04609_000_000_1990_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 4609:1990
+  type: JIS
+  primary: true
+docnumber: C4609
+date:
+- type: issued
+  value: '1990-06-30'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 零相交流器，零相基準入力装置及び地絡方向継電器の組合せからなる一線地絡電流が３０Ａ未満の主として６．６ＫＶ高圧需要家の充電点に設置される地絡方向継電装置について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: 29.120.50
+  text: Fuses and other overcurrent protection devices
+structuredidentifier:
+  project_number: C4609
+  type: JIS
+ext:
+  schema-version: v0.0.1

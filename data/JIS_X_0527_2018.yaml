@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISX0527-2018
+title:
+- content: 自動認識及びデータ取得技術―バーコードプリンタ及びバーコードリーダの性能評価仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Automatic identification and data capture techniques -- Bar code printer
+    and bar code reader performance testing
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0527%3A2018
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00527_000_000_2018_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0527:2018
+  type: JIS
+  primary: true
+docnumber: X0527
+date:
+- type: issued
+  value: '2018-03-20'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本自動認識システム協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本自動認識システム協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: バーコードシステムで用いる熱転写式プリンタ，消耗品及びバーコードリーダ（読取方式は問わない。）の性能評価仕様について規定。また，評価項目によって，性能のランクも規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本自動認識システム協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X0527
+  type: JIS
+ext:
+  schema-version: v0.0.1

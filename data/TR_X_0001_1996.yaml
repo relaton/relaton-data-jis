@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: TRX0001-1996
+title:
+- content: 情報交換のための非逐次記録高密度光ディスク（ＤＶＤなど）のボリューム構造及びファイル構造
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Volume and file structure of high-density optical disks (Digital Video
+    Disk, etc.) using non-sequential recording for information interchange
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0001%3A1996
+  type: src
+type: standard
+docid:
+- id: TR X 0001:1996
+  type: JIS
+  primary: true
+docnumber: X0001
+date:
+- type: issued
+  value: '1996-10-10'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ディジタルビデオディスク（ＤＶＤ）などの高密度光ディスクを用いての情報処理システム利用者間で情報交換を行うためのボリューム認識，起動ブロック認識，ボリューム構造及びファイル構造に関するファイルシステムの実装を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 35.220.30
+  text: Optical storage devices
+structuredidentifier:
+  project_number: X0001
+  type: JIS
+ext:
+  schema-version: v0.0.1

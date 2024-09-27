@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC1721-1976
+title:
+- content: 分流器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Shunts
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1721%3A1976
+  type: src
+type: standard
+docid:
+- id: JIS C 1721:1976
+  type: JIS
+  primary: true
+docnumber: C1721
+date:
+- type: issued
+  value: '1976-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 計器に外付けして使用する定格電流３０００Ａ以下の直流分流器について適用。定格電流５Ａ未満で，０．５級，１．０級のものには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
+structuredidentifier:
+  project_number: C1721
+  type: JIS
+ext:
+  schema-version: v0.0.1

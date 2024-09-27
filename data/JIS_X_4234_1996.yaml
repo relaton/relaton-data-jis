@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX4234-1996
+title:
+- content: コンピュータグラフィクス　―　対話型グラフィクスシステムＰＨＩＧＳ言語結合　―　第４部　Ｃ言語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Computer graphics -- Programmer''s Hierarchical
+    Interactive Graphics System (PHIGS) language bindings -- Part 4: C'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4234%3A1996
+  type: src
+type: standard
+docid:
+- id: JIS X 4234:1996
+  type: JIS
+  primary: true
+docnumber: X4234
+date:
+- type: issued
+  value: '1996-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 対話型グラフィクスＰＨＩＧＳ　第１部　機能記述（ＪＩＳ　Ｘ　４２２１）及び，第４部　ＰＨＩＧＳ　ＰＬＵＳ（ＪＩＳ　Ｘ　４２２４）は，グラフィクスシステムのプログラミング言語に依存しない中核を規定。プログラミング言語への統合は，ＰＨＩＧＳ及びＰＨＩＧＳＰＬＵＳはプログラミング言語固有の慣例に従属し，プログラミング言語個別に存在する言語依存部に深く関わっている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+- code: '35.140'
+  text: Computer graphics
+structuredidentifier:
+  project_number: X4234
+  type: JIS
+ext:
+  schema-version: v0.0.1

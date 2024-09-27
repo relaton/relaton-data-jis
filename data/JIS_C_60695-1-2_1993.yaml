@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISC60695-1-2-1993
+title:
+- content: 環境試験方法―電気・電子―耐火性試験（電気製品・電子製品の火災アセスメントに対する要求事項及び試験方法作成指針―電子部品）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Fire hazard testing Part 1: Guidance for the preparation of requirements
+    and test specifications for assessing fire hazard of electrotechnical products
+    Guidance for electronic components'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60695-1-2%3A1993
+  type: src
+type: standard
+docid:
+- id: JIS C 60695-1-2:1993
+  type: JIS
+  primary: true
+docnumber: C60695
+date:
+- type: issued
+  value: '1993-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子部品の耐火性試験は，次のように特徴づける。（１）電子部品は，種々の材料で作られており，少量の材料でも非常に複雑な構成となっているので，様々な相乗効果があり，一般に耐火性を予知できない。　（２）電子部品は，電気エネルギーを供給する役目を果たす。通常の動作では，発熱量は一般に小さいが火花を生じることがある。（例えば，リレー）。ただし，故障時又は異常状態で動作する場合，多量のエネルギーを熱として放出することがる。　（３）通常，広範囲な状況で機能するように，多種類の電子部品がそれぞれ目的をもって装置に組み込まれているので，代表的な火災状況を定義することはできない。火災を生じるおそれがある部品の場合は，実使用状況での調査を行い，火災評価に対する要求事項を規定する必要がある。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本電子部品信頼性センター
+ics:
+- code: '19.040'
+  text: Environmental testing
+- code: '19.080'
+  text: Electrical and electronic testing
+structuredidentifier:
+  project_number: C60695
+  type: JIS
+ext:
+  schema-version: v0.0.1

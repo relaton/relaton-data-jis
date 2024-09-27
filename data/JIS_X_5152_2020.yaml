@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISX5152-2020
+title:
+- content: 情報配線システムの計画及び施工
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Implementation and operation of customer premises cabling -- Planning and
+    Installation
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5152%3A2020
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05152_000_000_2020_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5152:2020
+  type: JIS
+  primary: true
+docnumber: X5152
+date:
+- type: issued
+  value: '2020-03-23'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 一般的なケーブル規格及び関連する文書をサポートするために，ケーブル配線及びケーブル接続インフラ（ケーブル配線，通路，スペース，接地及びボンディングを含む。）の計画，設置及び運用の要件について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電子情報技術産業協会"
+ics:
+- code: '35.200'
+  text: Interface and interconnection equipment
+structuredidentifier:
+  project_number: X5152
+  type: JIS
+ext:
+  schema-version: v0.0.1

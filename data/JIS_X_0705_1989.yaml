@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISX0705-1989
+title:
+- content: ドキュメンテーション用語（文献及びデータの収集，特定及び分析）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Documentation and information -- Vocabulary -- Acquisition, identification,
+    and analysis of documents and data
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0705%3A1989
+  type: src
+type: standard
+docid:
+- id: JIS X 0705:1989
+  type: JIS
+  primary: true
+docnumber: X0705
+date:
+- type: issued
+  value: '1990-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報科学技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報科学技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 図書館，文書館，索引・抄録サービス，情報科学，出版に関する情報管理の文献及びデータの収集，特定及び分析の用語及びその定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報科学技術協会
+ics:
+- code: 01.040.01
+  text: Generalities. Terminology. Standardization. Documentation (Vocabularies)
+- code: 01.140.20
+  text: Information sciences
+structuredidentifier:
+  project_number: X0705
+  type: JIS
+ext:
+  schema-version: v0.0.1

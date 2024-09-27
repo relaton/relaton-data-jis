@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC7506-1994
+title:
+- content: 自動車用電球
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Lamps for road vehicles
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7506%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS C 7506:1994
+  type: JIS
+  primary: true
+docnumber: C7506
+date:
+- type: issued
+  value: '1994-02-28'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電球工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電球工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 自動車などに使用する一般タングステン電球及びハロゲン電球について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電球工業会
+ics:
+- code: 29.140.20
+  text: Incandescent lamps
+structuredidentifier:
+  project_number: C7506
+  type: JIS
+ext:
+  schema-version: v0.0.1

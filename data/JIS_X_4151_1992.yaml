@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: JISX4151-1992
+title:
+- content: 文書記述言語ＳＧＭＬ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: SGML (Standard Generalized Markup Language)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4151%3A1992
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04151_000_000_1992_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4151:1992
+  type: JIS
+  primary: true
+docnumber: X4151
+date:
+- type: issued
+  value: '1992-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: １．文書記述言語ＳＧＭＬの抽出構文　２．抽出構文を特定の文字又は数値に結びつける規格参照具象構文及び各種の具象構文を定義するための基準　３．適合ＳＧＭＬ文書　４．適合ＳＧＭＬ文書の処理能力及びその文書中のマークの誤りを認識する能力による適合ＳＧＭＬシステム　５．この規格で規定しないデータ（画像，図形又は書式付きの文）を適合ＳＧＭＬ文書の中に含める方法　以上の事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X4151
+  type: JIS
+ext:
+  schema-version: v0.0.1

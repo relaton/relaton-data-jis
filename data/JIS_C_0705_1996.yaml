@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISC0705-1996
+title:
+- content: 外部リード線付制御機器の外部リード線の色別通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules of color identification for external lead wire of control
+    gear with external lead wire
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0705%3A1996
+  type: src
+type: standard
+docid:
+- id: JIS C 0705:1996
+  type: JIS
+  primary: true
+docnumber: C0705
+date:
+- type: issued
+  value: '1996-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 外部リード線付制御機器の外部リード線の色別について規定。複数のコイル又は接点及びそれらが組み合わされているもので，この規格により難しいものには適用しなくても良い。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気制御機器工業会
+ics:
+- code: 29.120.20
+  text: Connecting devices
+structuredidentifier:
+  project_number: C0705
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISB3602-1995
+title:
+- content: 工業自動化システム　―　製造メッセージ仕様　―　ロボット附帯規格
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Industrial automation systems -- Manufacturing message specification --
+    Part 3: Companion standard for robotics'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3602%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS B 3602:1995
+  type: JIS
+  primary: true
+docnumber: B3602
+date:
+- type: issued
+  value: '1995-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本ロボット工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本ロボット工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: "（ａ）ロボットのモデルを記述するとともに，ロボットの属性を仮想製造装置の属性へ写像する方法を記述する。（ｂ）ＭＭＳの附帯規格で規定されるロボットに特定のサービス及びプロトコルを，プロトコル要素の抽象構文記法で定義する。（ｃ）ロボットに特定の標準オブジェクトを定義する。（ｄ）基礎クラス及び拡張クラスからなる適合性クラスを記述する。　抽象構文でサーバとして機能するロボットのサービス及びプロトコルを定義。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本ロボット工業会
+ics:
+- code: 25.040.30
+  text: Industrial robots. Manipulators
+structuredidentifier:
+  project_number: B3602
+  type: JIS
+ext:
+  schema-version: v0.0.1

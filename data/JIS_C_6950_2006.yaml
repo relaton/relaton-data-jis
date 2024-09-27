@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: JISC6950-2006
+title:
+- content: 情報技術機器の安全性
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Safety of information technology equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6950%3A2006
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06950_000_000_2006_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 6950:2006
+  type: JIS
+  primary: true
+docnumber: C6950
+date:
+- type: issued
+  value: '2006-05-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 主電源又は電池で動作し，定格電圧が600Vを超えない事務用電気機器及び関連機器を含む情報技術機器に適用。　　
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　ビジネス機械・情報システム産業協会"
+ics:
+- code: '13.260'
+  text: Protection against electric shock.  Live working
+- code: '35.020'
+  text: Information technology (IT) in general
+structuredidentifier:
+  project_number: C6950
+  type: JIS
+ext:
+  schema-version: v0.0.1

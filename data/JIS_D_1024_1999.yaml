@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISD1024-1999
+title:
+- content: 自動車の加速時車外騒音試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Acoustics -- Measurement of noise emitted by accelerating road vehicles
+    -- Engineering method
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+1024%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS D 1024:1999
+  type: JIS
+  primary: true
+docnumber: D1024
+date:
+- type: issued
+  value: '1999-07-31'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 加速中の車両から放射される騒音を測定するための実用的方法について規定。測定方法は，できる限り車両の運転条件の再現性が得られる範囲で，簡便性の要求が満たされるように規定されている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　自動車技術会
+ics:
+- code: 17.140.30
+  text: Noise emitted by means of transport
+- code: '43.020'
+  text: Road vehicles in general
+structuredidentifier:
+  project_number: D1024
+  type: JIS
+ext:
+  schema-version: v0.0.1

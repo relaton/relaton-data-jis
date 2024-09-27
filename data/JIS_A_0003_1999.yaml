@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISA0003-1999
+title:
+- content: 建築公差
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Tolerances for building
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+0003%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS A 0003:1999
+  type: JIS
+  primary: true
+docnumber: A0003
+date:
+- type: issued
+  value: '1999-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本建築学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本建築学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 建築構成材及び建築構法の寸法仕様における公差を選定するための数値のシリーズについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本建築学会
+ics:
+- code: 91.010.30
+  text: Technical aspects
+- code: '91.200'
+  text: Construction technology
+structuredidentifier:
+  project_number: A0003
+  type: JIS
+ext:
+  schema-version: v0.0.1

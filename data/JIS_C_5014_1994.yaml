@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISC5014-1994
+title:
+- content: 多層プリント配線板
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Multilayer printed wiring boards
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5014%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05014_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05014_000_000_1994_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 5014:1994
+  type: JIS
+  primary: true
+docnumber: C5014
+date:
+- type: issued
+  value: '1994-02-28'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電子回路工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電子回路工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 電子機器に用いる多層プリント配線板について規定。ただし，多層フレキシブルプリント配線板，多層フレックスリジッドプリント配線板及びメタルコアプリント配線板には，適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電子回路工業会
+ics:
+- code: '31.180'
+  text: Printed circuits and boards
+structuredidentifier:
+  project_number: C5014
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX9008-1981
+title:
+- content: 光学式文字認識のための手書き文字（記号）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Handprinted symbols for optical character recognition
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9008%3A1981
+  type: src
+type: standard
+docid:
+- id: JIS X 9008:1981
+  type: JIS
+  primary: true
+docnumber: X9008
+date:
+- type: issued
+  value: '1981-08-31'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 光学式文字認識（ＯＣＲ）に使用する手書き記号の字形及びこれに関連する仕様を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '35.040'
+  text: Information coding
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
+structuredidentifier:
+  project_number: X9008
+  type: JIS
+ext:
+  schema-version: v0.0.1

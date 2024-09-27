@@ -1,0 +1,92 @@
+---
+schema-version: v1.2.9
+id: JISZ2333-2005
+title:
+- content: アンモニア漏れ試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Test method for leaks using ammonia gas
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2333%3A2005
+  type: src
+type: standard
+docid:
+- id: JIS Z 2333:2005
+  type: JIS
+  primary: true
+docnumber: Z2333
+date:
+- type: issued
+  value: '2005-02-20'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本非破壊検査協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本非破壊検査協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: タンク（一重壁，ニ重壁，燃料タンク），容器（加圧容器，真空容器），アンモニア収納容器（大容量冷凍システム，肥料貯蔵庫），部品（ラミネート仕様，裏打ち仕様，ニ重壁仕様），異種材料によるシール部（ガラス，金属），及びその他（複雑な配管系，フレキシブル・コンテナ）の試験体から漏れ出るアンモニアガスを検知剤で検知する，漏れ試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本非破壊検査協会"
+ics:
+- code: '19.100'
+  text: Non-destructive testing
+- code: 71.040.40
+  text: Chemical analysis
+structuredidentifier:
+  project_number: Z2333
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: JISX21841-2022
+title:
+- content: システム及びソフトウェア技術―システムオブシステムズの分類法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Systems and software engineering -- Taxonomy of systems of systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+21841%3A2022
+  type: src
+type: standard
+docid:
+- id: JIS X 21841:2022
+  type: JIS
+  primary: true
+docnumber: X21841
+date:
+- type: issued
+  value: '2022-08-22'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 利害関係者間の意思疎通を促進するために，システム　オブ　システムズ（ＳｏＳ）についての標準化した分類法について規定。また，どのような分類法であっても，理解及び意思疎通を助けるために，ＳｏＳにどのように適用するかを簡潔に示す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X21841
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX6195-2011
+title:
+- content: 情報処理用連続伝票
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Continuous forms for information processing
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6195%3A2011
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06195_000_000_2011_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6195:2011
+  type: JIS
+  primary: true
+docnumber: X6195
+date:
+- type: issued
+  value: '2011-05-20'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 計数形電子計算機及びこれに適合する情報処理装置用プリンタに用いる１パーツの上質紙で作られた連続伝票について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　ビジネス機械・情報システム産業協会
+ics:
+- code: 35.220.10
+  text: Paper cards and tapes
+structuredidentifier:
+  project_number: X6195
+  type: JIS
+ext:
+  schema-version: v0.0.1

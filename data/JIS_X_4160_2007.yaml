@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISX4160-2007
+title:
+- content: ＸＭＬパス言語（ＸＰａｔｈ）１．０
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: XML Path Language (XPath) Version 1.0
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4160%3A2007
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04160_000_000_2007_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4160:2007
+  type: JIS
+  primary: true
+docnumber: X4160
+date:
+- type: issued
+  value: '2007-05-20'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＸＭＬ文書の部分を番地付けするための言語であるＸＰａｔｈを規定。ＸＳＬＴ及びＸＰｏｉｎｔｅｒの両者によって用いられる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X4160
+  type: JIS
+ext:
+  schema-version: v0.0.1

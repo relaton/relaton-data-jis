@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISZ6010-1984
+title:
+- content: マイクロフィルムの濃度
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Density of silver-gelatin type microfilms for micrographics
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+6010%3A1984
+  type: src
+type: standard
+docid:
+- id: JIS Z 6010:1984
+  type: JIS
+  primary: true
+docnumber: Z6010
+date:
+- type: issued
+  value: '1984-07-31'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本画像情報マネジメント協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本画像情報マネジメント協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 撮影又は複製によって得られる第２世代までの処理済み銀・ゼラチンマイクロフィルムの濃度について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本画像情報マネジメント協会
+ics:
+- code: '37.080'
+  text: Document imaging applications
+structuredidentifier:
+  project_number: Z6010
+  type: JIS
+ext:
+  schema-version: v0.0.1

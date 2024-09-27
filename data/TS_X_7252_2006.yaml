@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: TSX7252-2006
+title:
+- content: ＯＷＬウェブオントロジ言語―手引
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: OWL Web Ontology Language -- Guide
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+X+7252%3A2006
+  type: src
+type: standard
+docid:
+- id: TS X 7252:2006
+  type: JIS
+  primary: true
+docnumber: X7252
+date:
+- type: issued
+  value: '2006-03-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: クラス及びクラスの特性を定義することによって，定義域を形式化する；個体を定義し，それらに関する特性を表明する；これらのクラス及び個体について，ＯＷＬ言語の形式意味論が許容する程度まで推論する　以上の使用法を提示する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-specification
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X7252
+  type: JIS
+ext:
+  schema-version: v0.0.1

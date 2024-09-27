@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: JISZ6019-2018
+title:
+- content: 磁気テープによるデジタル情報の長期保存方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Long-term preservation for digital information by magnetic tape
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+6019%3A2018
+  type: src
+type: standard
+docid:
+- id: JIS Z 6019:2018
+  type: JIS
+  primary: true
+docnumber: Z6019
+date:
+- type: issued
+  value: '2018-01-22'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 長期間にわたる記録保存及び大容量のデータ記録に適した特性をもつ磁気テープを用い，媒体移行，台帳移行及びアーカイブプラットフォーム移行を繰り返しながら，デジタル情報を長期保存するための方法について規定。データ及び磁気テープへのセキュリティは，この規格では規定しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電子情報技術産業協会"
+ics:
+- code: 35.220.22
+  text: Magnetic tapes
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: Z6019
+  type: JIS
+ext:
+  schema-version: v0.0.1

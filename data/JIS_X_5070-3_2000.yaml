@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5070-3-2000
+title:
+- content: セキュリティ技術―情報技術セキュリティの評価基準―第３部：セキュリティ保証要件
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Security techniques -- Evaluation criteria for
+    IT security -- Part 3: Security assurance requirements'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5070-3%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05070_003_000_2000_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5070-3:2000
+  type: JIS
+  primary: true
+docnumber: X5070
+date:
+- type: issued
+  value: '2000-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: この規格の保証要件を規定。保証の程度を判定するための尺度を定義する評価保証レベル（ＥＡＬ），保証レベルを構成する個々の保証コンポーネント，並びにプロテクションプロファイル（ＰＰ）及びセキュリティターゲット（ＳＴ）を評価するための基準を含む。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X5070
+  type: JIS
+ext:
+  schema-version: v0.0.1

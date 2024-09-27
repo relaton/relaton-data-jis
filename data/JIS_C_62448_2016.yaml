@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.9
+id: JISC62448-2016
+title:
+- content: マルチメディアのシステム及び機器―マルチメディアの電子出版及び電子書籍―電子出版のための共通フォーマット
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Multimedia systems and equipment -- Multimedia e-publishing and e-books
+    -- Generic format for e-publishing
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+62448%3A2016
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_62448_000_000_2016_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 62448:2016
+  type: JIS
+  primary: true
+docnumber: C62448
+date:
+- type: issued
+  value: '2016-03-22'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: データ編集者と出版者との間の電子書籍データ交換に用いられるマルチメディア電子出版のための共通フォーマットを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電子情報技術産業協会"
+ics:
+- code: 33.160.60
+  text: Multimedia systems and teleconferencing equipment
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: C62448
+  type: JIS
+ext:
+  schema-version: v0.0.1

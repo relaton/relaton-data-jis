@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5057-3-2003
+title:
+- content: セキュリティ技術―ハッシュ関数―第３部：専用ハッシュ関数
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Security techniques -- Hash-functions -- Part
+    3: Dedicated hash-functions'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5057-3%3A2003
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05057_003_000_2003_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5057-3:2003
+  type: JIS
+  primary: true
+docnumber: X5057
+date:
+- type: issued
+  value: '2003-02-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 専用ハッシュ関数，すなわち，ハッシュ関数として特別に設計されたものを規定。この規格のハッシュ関数は，ラウンド関数の繰返し使用に基づく。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X5057
+  type: JIS
+ext:
+  schema-version: v0.0.1

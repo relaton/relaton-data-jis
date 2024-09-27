@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.9
+id: JISX0507-2004
+title:
+- content: バーコードシンボル－ＥＡＮ／ＵＰＣ－基本仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Bar code symbology -- EAN/UPC -- Basic specification
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0507%3A2004
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00507_000_000_2004_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0507:2004
+  type: JIS
+  primary: true
+docnumber: X0507
+date:
+- type: issued
+  value: '2004-04-01'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　流通システム開発センター"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　流通システム開発センター"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＥＡＮ／ＵＰＣシンボル体系のデータキャラクタの符号化，シンボル形式，寸法，試験仕様及び参照復号アルゴリズムを含む要件について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　流通システム開発センター"
+ics:
+- code: 01.080.50
+  text: Graphical symbols for use on information technology and telecommunications
+    technical drawings and in relevant technical product documentation
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X0507
+  type: JIS
+ext:
+  schema-version: v0.0.1

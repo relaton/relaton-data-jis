@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.9
+id: JISC60068-2-29-1995
+title:
+- content: 環境試験方法―電気・電子―バンプ試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Basic environmental testing procedures Part 2: Tests Test Eb and guidance:
+    Bump'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-29%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_029_1995_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 60068-2-29:1995
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  value: '1995-03-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 輸送中又は使用中に繰返し衝撃を受ける部品，機器，その他の電気製品に適用。バンプ試験は，供試品の構造的完全さを満足する設計手段として，さらに，品質管理の手段として用いることができる。基本的には規定のピーク加速度及び作用時間の標準パルス波形の繰返し衝撃をバンプ試験機で供試品に加える試験である。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本電子部品信頼性センター
+ics:
+- code: '19.040'
+  text: Environmental testing
+- code: '19.080'
+  text: Electrical and electronic testing
+structuredidentifier:
+  project_number: C60068
+  type: JIS
+ext:
+  schema-version: v0.0.1

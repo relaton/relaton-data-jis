@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISK2190-2011
+title:
+- content: 燃料用エタノール
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Fuel Ethanol
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2190%3A2011
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02190_000_000_2011_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS K 2190:2011
+  type: JIS
+  primary: true
+docnumber: K2190
+date:
+- type: issued
+  value: '2011-11-21'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 石油連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 石油連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＪＩＳ　Ｋ　２２０２に規定する自動車ガソリン用の基材として用いる燃料用エタノール，及び基材として用いるエチルターシャリーブチルエーテル（ＥＴＢＥ）の原料とする燃料用エタノールについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 石油連盟
+ics:
+- code: 71.080.60
+  text: Alcohols. Ethers
+- code: 75.160.20
+  text: Liquid fuels
+structuredidentifier:
+  project_number: K2190
+  type: JIS
+ext:
+  schema-version: v0.0.1

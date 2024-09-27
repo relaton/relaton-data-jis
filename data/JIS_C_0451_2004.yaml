@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISC0451-2004
+title:
+- content: 電気及び関連分野―プラント，システム及び装置用の技術文書の分類及び指定
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Classification and designation of documents for plants, systems and equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0451%3A2004
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00451_000_000_2004_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 0451:2004
+  type: JIS
+  primary: true
+docnumber: C0451
+date:
+- type: issued
+  value: '2004-12-20'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 文書の分類及び指定に関する指針を与え，例えば，システム及び装置をもつプラントのような，大規模な設備に求められる構造化文書を作成するための基本的な基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 01.080.01
+  text: Graphical symbols in general
+- code: 01.080.30
+  text: Graphical symbols for use on mechanical engineering and construction drawings,
+    diagrams, plans, maps and in relevant technical product documentation
+structuredidentifier:
+  project_number: C0451
+  type: JIS
+ext:
+  schema-version: v0.0.1

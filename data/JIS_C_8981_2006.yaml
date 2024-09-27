@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISC8981-2006
+title:
+- content: 住宅用太陽光発電システム電気系安全設計標準
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Standards for safety design of electrical circuit in photovoltaic power
+    generating systems for residential use
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8981%3A2006
+  type: src
+type: standard
+docid:
+- id: JIS C 8981:2006
+  type: JIS
+  primary: true
+docnumber: C8981
+date:
+- type: issued
+  value: '2006-02-20'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 定格システム出力２０ｋＷ未満の系統連係（停電時などに一次的に自立運転可能なシステムも含む。）を行う住宅用太陽光発電システムの電気系に関し，システムとしての安全設計を主体に，各要素機器及びそれらの設置，接続配線などに必要な安全条件について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.160'
+  text: Solar energy engineering
+- code: '29.020'
+  text: Electrical engineering in general
+structuredidentifier:
+  project_number: C8981
+  type: JIS
+ext:
+  schema-version: v0.0.1

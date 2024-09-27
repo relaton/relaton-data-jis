@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISZ0663-2017
+title:
+- content: ＲＦＩＤのサプライチェーンへの適用―貨物コンテナ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Supply chain applications of RFID -- Freight containers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+0663%3A2017
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_00663_000_000_2017_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 0663:2017
+  type: JIS
+  primary: true
+docnumber: Z0663
+date:
+- type: issued
+  value: '2017-01-20'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本自動認識システム協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本自動認識システム協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 読取り及び書込みが可能な電子タグ技術（ＲＦＩＤ）を用い，サプライチェーン管理のために貨物コンテナと関連付けられた貨物出荷専用タグ（積荷目録タグ）の適用方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本自動認識システム協会
+ics:
+- code: '55.020'
+  text: Packaging and distribution of goods in general
+- code: 55.180.10
+  text: General purpose containers
+structuredidentifier:
+  project_number: Z0663
+  type: JIS
+ext:
+  schema-version: v0.0.1

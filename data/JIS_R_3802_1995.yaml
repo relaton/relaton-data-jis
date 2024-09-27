@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISR3802-1995
+title:
+- content: ガラス製化学プラント用構成部品
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glass components for chemical plants
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+3802%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_r_03802_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS R 3802:1995
+  type: JIS
+  primary: true
+docnumber: R3802
+date:
+- type: issued
+  value: '1995-05-31'
+- type: confirmed
+  value: '2006-03-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本硝子製品工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本硝子製品工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 化学工業などに用いるガラス製装置及び配管のガラス製構成部品について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本硝子製品工業会
+ics:
+- code: 71.120.01
+  text: Equipment for the chemical industry in general
+- code: 81.040.30
+  text: Glass products
+structuredidentifier:
+  project_number: R3802
+  type: JIS
+ext:
+  schema-version: v0.0.1

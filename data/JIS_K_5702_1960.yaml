@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISK5702-1960
+title:
+- content: 新聞インキ試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Testing method for press ink
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5702%3A1960
+  type: src
+type: standard
+docid:
+- id: JIS K 5702:1960
+  type: JIS
+  primary: true
+docnumber: K5702
+date:
+- type: issued
+  value: '1972-08-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本新聞協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本新聞協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 新聞インキの試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本新聞協会
+ics:
+- code: '87.080'
+  text: Inks. Printing inks
+structuredidentifier:
+  project_number: K5702
+  type: JIS
+ext:
+  schema-version: v0.0.1

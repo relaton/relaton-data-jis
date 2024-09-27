@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISF7002-1992
+title:
+- content: 船用機関回転計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Ships -- Tachometer for engine
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+7002%3A1992
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_07002_000_000_1992_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS F 7002:1992
+  type: JIS
+  primary: true
+docnumber: F7002
+date:
+- type: issued
+  value: '1992-12-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 船の機関に使用する回転積算計及び回転速度計の種類及びその装備について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 47.020.20
+  text: Marine engines and propulsion systems
+structuredidentifier:
+  project_number: F7002
+  type: JIS
+ext:
+  schema-version: v0.0.1

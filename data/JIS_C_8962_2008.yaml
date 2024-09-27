@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.9
+id: JISC8962-2008
+title:
+- content: 小出力太陽光発電用パワーコンディショナの試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Testing procedure of power conditioner for small photovoltaic power generating
+    systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8962%3A2008
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08962_000_000_2008_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08962_000_000_2008_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8962:2008
+  type: JIS
+  primary: true
+docnumber: C8962
+date:
+- type: issued
+  value: '2008-02-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 定格出力１０Ｗ以上で１００Ｗ未満の場合及び定格出力１００Ｗ以上で２０ｋＷ未満の場合に該当する太陽光発電システム用パワーコンディショナのうち，一定交流出力電圧及び一定出力周波数の独立形パワーコンディショナ，直流定電圧出力のパワーコンディショナ並びに系統連系形パワーコンディショナの試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.160'
+  text: Solar energy engineering
+structuredidentifier:
+  project_number: C8962
+  type: JIS
+ext:
+  schema-version: v0.0.1

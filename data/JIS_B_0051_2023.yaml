@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISB0051-2023
+title:
+- content: 製品技術文書情報―形状を定義しないエッジ―寸法の指示方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Technical product documentation (TPD) -- Edges of undefined shape -- Indication
+    and dimensioning
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0051%3A2023
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00051_000_000_2023_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 0051:2023
+  type: JIS
+  primary: true
+docnumber: B0051
+date:
+- type: issued
+  value: '2023-03-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 技術製品がもつ，形状を定義しないエッジに対する寸法指示の規則及び寸法を規定。そのために使用する図示記号の形状及び寸法も規定。ただし，直方体の各頂点及び角すい体の頂点のように，三つ以上の平面が交わって形成される部分（コーナ）には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 01.040.01
+  text: Generalities. Terminology. Standardization. Documentation (Vocabularies)
+- code: 01.100.20
+  text: Mechanical engineering drawings
+structuredidentifier:
+  project_number: B0051
+  type: JIS
+ext:
+  schema-version: v0.0.1

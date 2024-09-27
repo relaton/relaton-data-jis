@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC2563-1995
+title:
+- content: 磁気ヘッド用フェライト磁心試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Measuring methods for ferrite cores for magnetic head
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2563%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS C 2563:1995
+  type: JIS
+  primary: true
+docnumber: C2563
+date:
+- type: issued
+  value: '1995-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: アナログ，ディジタルなどの磁気記録の書込み，読取り及び消去を行う磁気ヘッドに用いるフェライト磁心の性能の試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 35.220.20
+  text: Magnetic storage devices in general
+structuredidentifier:
+  project_number: C2563
+  type: JIS
+ext:
+  schema-version: v0.0.1

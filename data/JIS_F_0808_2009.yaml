@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISF0808-2009
+title:
+- content: 船用電気器具環境試験通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Ships and marine technology -- Electrical apparatus -- General requirements
+    for environmental test procedure
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0808%3A2009
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_00808_000_000_2009_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS F 0808:2009
+  type: JIS
+  primary: true
+docnumber: F0808
+date:
+- type: issued
+  value: '2009-10-01'
+- type: confirmed
+  value: '2020-10-26'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 船舶に搭載する電路器具，電気照明器具，電気信号装置，船内通信装置，計測装置など，及びこれらの装置の一部として使用する電気器具について，船内で想定される環境条件下での器具の信頼性を評価するための，均一性及び再現性がある環境にかかわる試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+structuredidentifier:
+  project_number: F0808
+  type: JIS
+ext:
+  schema-version: v0.0.1

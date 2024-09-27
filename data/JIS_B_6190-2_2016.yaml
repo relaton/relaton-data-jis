@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISB6190-2-2016
+title:
+- content: 工作機械試験方法通則―第２部：数値制御による位置決め精度試験
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Test code for machine tools -- Part 2: Determination of accuracy and repeatability
+    of positioning of numerically controlled axes'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6190-2%3A2016
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06190_002_000_2016_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 6190-2:2016
+  type: JIS
+  primary: true
+docnumber: B6190
+date:
+- type: issued
+  value: '2016-11-21'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 機上で各運動軸について独立に直接測定する数値制御工作機械運動軸の位置決め精度試験方法及び評価方法について規定。複数の運動軸を同時に制御する試験には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本工作機械工業会
+ics:
+- code: 25.040.20
+  text: Numerically controlled machines
+- code: 25.080.01
+  text: Machine tools in general
+structuredidentifier:
+  project_number: B6190
+  type: JIS
+ext:
+  schema-version: v0.0.1

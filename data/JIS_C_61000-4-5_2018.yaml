@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISC61000-4-5-2018
+title:
+- content: 電磁両立性―第４－５部：試験及び測定技術―サージイミュニティ試験
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Electromagnetic compatibility (EMC) -- Part 4-5: Testing and measurement
+    techniques -- Surge immunity test'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61000-4-5%3A2018
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61000_004_005_2018_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 61000-4-5:2018
+  type: JIS
+  primary: true
+docnumber: C61000
+date:
+- type: issued
+  value: '2018-03-20'
+- type: confirmed
+  value: '2022-06-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 電力系統における開閉及び雷の過渡現象による過電圧によって発生する単極性（正又は負）のサージに対する，イミュニティ要求事項及び試験方法について規定。これらの要求事項は，電気・電子装置に適用し，異なる環境及び設置状態に関係する幾つかの試験レベルの範囲を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電気学会"
+ics:
+- code: 33.100.20
+  text: Immunity
+structuredidentifier:
+  project_number: C61000
+  type: JIS
+ext:
+  schema-version: v0.0.1

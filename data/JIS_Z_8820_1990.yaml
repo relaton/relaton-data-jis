@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISZ8820-1990
+title:
+- content: 液相沈降法による粉体の粒子径分布測定方法通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for the determination of particle size distribution by sedimentation
+    in liquid
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8820%3A1990
+  type: src
+type: standard
+docid:
+- id: JIS Z 8820:1990
+  type: JIS
+  primary: true
+docnumber: Z8820
+date:
+- type: issued
+  value: '1990-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本粉体工業技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本粉体工業技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ストークス則に基づく液相沈降法のうち，均一分散法による粉体の粒子径分布測定方法の通則について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本粉体工業技術協会
+ics:
+- code: '19.120'
+  text: Particle size analysis. Sieving
+structuredidentifier:
+  project_number: Z8820
+  type: JIS
+ext:
+  schema-version: v0.0.1

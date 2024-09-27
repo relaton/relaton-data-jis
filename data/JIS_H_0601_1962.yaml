@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISH0601-1962
+title:
+- content: ゲルマニウムの抵抗率測定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Testing methods of resistivity for germanium
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+0601%3A1962
+  type: src
+type: standard
+docid:
+- id: JIS H 0601:1962
+  type: JIS
+  primary: true
+docnumber: H0601
+date:
+- type: issued
+  value: '1962-10-25'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　新金属協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　新金属協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 単結晶ゲルマニウムの抵抗率を測定する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　新金属協会
+ics:
+- code: '29.045'
+  text: Semiconducting materials
+- code: 77.120.99
+  text: Other non-ferrous metals and their alloys
+structuredidentifier:
+  project_number: H0601
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISG0202-2024
+title:
+- content: 鉄鋼用語（試験）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms used in iron and steel (Testing)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0202%3A2024
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00202_000_000_2024_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS G 0202:2024
+  type: JIS
+  primary: true
+docnumber: G0202
+date:
+- type: issued
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 圧延，鋳造又は鍛造された，主に鋼及びその製品の試験に関する用語及び定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄鋼連盟
+ics:
+- code: 01.040.77
+  text: Metallurgy (Vocabularies)
+- code: 77.140.01
+  text: Iron and steel products in general
+structuredidentifier:
+  project_number: G0202
+  type: JIS
+ext:
+  schema-version: v0.0.1

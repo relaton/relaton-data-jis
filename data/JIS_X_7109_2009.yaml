@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX7109-2009
+title:
+- content: 地理情報―応用スキーマのための規則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Geographic information -- Rules for application schema
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7109%3A2009
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07109_000_000_2009_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 7109:2009
+  type: JIS
+  primary: true
+docnumber: X7109
+date:
+- type: issued
+  value: '2009-02-01'
+- type: confirmed
+  value: '2023-10-25'
+contributor:
+- organization:
+    name:
+    - content: 公益財団法人　日本測量調査技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益財団法人　日本測量調査技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 地物を定義するための原理を含め，応用スキーマを作成し文書化するための規則を定義。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益財団法人　日本測量調査技術協会
+ics:
+- code: 35.240.70
+  text: IT applications in science
+structuredidentifier:
+  project_number: X7109
+  type: JIS
+ext:
+  schema-version: v0.0.1

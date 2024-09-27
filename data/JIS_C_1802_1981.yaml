@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC1802-1981
+title:
+- content: 工業用電子式自動平衡形記録計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electronic self-balancing recorders for industrial use
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1802%3A1981
+  type: src
+type: standard
+docid:
+- id: JIS C 1802:1981
+  type: JIS
+  primary: true
+docnumber: C1802
+date:
+- type: issued
+  value: '1981-03-23'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子式増幅器・平衝電動機又はこれらに準じるものを使用して帯状の記録紙に入力量に応じた測定量を記録する工業用電子式自動平衡形記録計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 25.040.40
+  text: Industrial process measurement and control
+structuredidentifier:
+  project_number: C1802
+  type: JIS
+ext:
+  schema-version: v0.0.1

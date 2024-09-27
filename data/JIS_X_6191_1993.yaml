@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX6191-1993
+title:
+- content: 情報交換用紙テープ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Unpunched paper tape for information interchange
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6191%3A1993
+  type: src
+type: standard
+docid:
+- id: JIS X 6191:1993
+  type: JIS
+  primary: true
+docnumber: X6191
+date:
+- type: issued
+  value: '1993-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 計数形電子計算機，データ通信装置及びこれに準ずる情報処理装置において，情報の記憶交換媒体として用いる情報交換用紙テープについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 35.220.10
+  text: Paper cards and tapes
+structuredidentifier:
+  project_number: X6191
+  type: JIS
+ext:
+  schema-version: v0.0.1

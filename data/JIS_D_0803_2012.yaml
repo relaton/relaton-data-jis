@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISD0803-2012
+title:
+- content: 高度道路交通システム―低速域周辺障害物警報（ＭＡＬＳＯ）―性能要件及びその試験手順
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Transport information and control systems -- Manoeuvring Aids for Low Speed
+    Operation (MALSO) -- Performance requirements and test procedures
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+0803%3A2012
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_00803_000_000_2012_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS D 0803:2012
+  type: JIS
+  primary: true
+docnumber: D0803
+date:
+- type: issued
+  value: '2012-02-20'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 運転者が装置に一般的に期待できる最小限度の機能要件，すなわち定義された（短い）検知距離内にある関連する障害物の存在の検出及び情報に関する要件について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　自動車技術会
+ics:
+- code: 43.040.15
+  text: Car informatics. On board computer systems
+structuredidentifier:
+  project_number: D0803
+  type: JIS
+ext:
+  schema-version: v0.0.1

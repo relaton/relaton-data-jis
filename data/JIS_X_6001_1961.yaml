@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISX6001-1961
+title:
+- content: 印刷電信機のけん盤配列及び符号
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Coding of characters for printing telegraph and their arrangement in teleprinter
+    keyboard
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6001%3A1961
+  type: src
+type: standard
+docid:
+- id: JIS X 6001:1961
+  type: JIS
+  primary: true
+docnumber: X6001
+date:
+- type: issued
+  value: '1974-01-16'
+contributor:
+- organization:
+    name:
+    - content: 財団法人　社会経済生産性本部
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 財団法人　社会経済生産性本部
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 和欧文両用の印刷電信機のケン盤配列および符号について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 財団法人　社会経済生産性本部
+ics:
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
+structuredidentifier:
+  project_number: X6001
+  type: JIS
+ext:
+  schema-version: v0.0.1

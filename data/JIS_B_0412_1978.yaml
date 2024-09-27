@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISB0412-1978
+title:
+- content: 鋳鋼品普通許容差
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Permissible deviations in dimensions without tolerance indication for steel
+    castings
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0412%3A1978
+  type: src
+type: standard
+docid:
+- id: JIS B 0412:1978
+  type: JIS
+  primary: true
+docnumber: B0412
+date:
+- type: issued
+  value: '1978-12-28'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鋳鍛鋼会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鋳鍛鋼会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 砂型による鋳鋼品の長さ及び肉厚の鋳放し寸法の普通許容差について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鋳鍛鋼会
+ics:
+- code: 17.040.10
+  text: Limits and fits
+- code: 77.140.80
+  text: Iron and steel castings
+structuredidentifier:
+  project_number: B0412
+  type: JIS
+ext:
+  schema-version: v0.0.1

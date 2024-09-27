@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISC8222-2021
+title:
+- content: 住宅及び類似設備用漏電遮断器―過電流保護装置付き（ＲＣＢＯｓ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Residual current operated circuit-breakers with integral overcurrent protection
+    for household and similar uses (RCBOs)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8222%3A2021
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08222_000_000_2021_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8222:2021
+  type: JIS
+  primary: true
+docnumber: C8222
+date:
+- type: issued
+  value: '2021-03-22'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 電源電圧依存形のもの及び電源電圧非依存形のものを含めて，定格電圧が交流４４０　Ｖ以下（線間）又は交流３００　Ｖ以下（対地間），定格電流１５０　Ａ以下で定格周波数が５０　Ｈｚ，６０　Ｈｚ又は５０／６０　Ｈｚで，定格短絡容量が２５　ｋＡ以下の住宅及び類似設備用の過電流保護付き漏電遮断器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電機工業会"
+ics:
+- code: 29.120.50
+  text: Fuses and other overcurrent protection devices
+structuredidentifier:
+  project_number: C8222
+  type: JIS
+ext:
+  schema-version: v0.0.1

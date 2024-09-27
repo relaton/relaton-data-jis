@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISC3110-2019
+title:
+- content: 鋼心アルミニウムより線
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Aluminium conductors steel reinforced
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3110%3A2019
+  type: src
+type: standard
+docid:
+- id: JIS C 3110:2019
+  type: JIS
+  primary: true
+docnumber: C3110
+date:
+- type: issued
+  value: '2019-03-20'
+- type: confirmed
+  value: '2023-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電線工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電線工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 主として架空送電線，架空配電線及びちょう架兼用き電線に使用する鋼心アルミニウムより線について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電線工業会
+ics:
+- code: 29.060.10
+  text: Wires
+structuredidentifier:
+  project_number: C3110
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISS3106-1994
+title:
+- content: 家庭用除湿剤
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Dehumidifying agent for home use
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3106%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_03106_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS S 3106:1994
+  type: JIS
+  primary: true
+docnumber: S3106
+date:
+- type: issued
+  value: '1994-06-30'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 独立行政法人　製品評価技術基盤機構
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 独立行政法人　製品評価技術基盤機構
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 一般家庭の押入れ，たんすなど比較的狭い空間において除湿を目的として使用するもので，除湿を行うための吸湿剤の成分に塩化カルシウム，酸化カルシウム，塩化マグネシウム及びシリカゲルを使用した家庭用除湿剤について規定。商品の包装用のもの並びに食品及び人体に使用するものを除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 独立行政法人　製品評価技術基盤機構
+ics:
+- code: 71.060.20
+  text: Oxides
+- code: '97.180'
+  text: Miscellaneous domestic and commercial equipment
+structuredidentifier:
+  project_number: S3106
+  type: JIS
+ext:
+  schema-version: v0.0.1

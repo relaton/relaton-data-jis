@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISC0950-2021
+title:
+- content: 電気・電子機器の特定の化学物質の含有表示方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: The marking for presence of the specific chemical substances for electrical
+    and electronic equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0950%3A2021
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00950_000_000_2021_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00950_000_000_2021_e_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 0950:2021
+  type: JIS
+  primary: true
+docnumber: C0950
+date:
+- type: issued
+  value: '2021-03-22'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 電気・電子機器の特定の化学物質の含有表示方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '29.020'
+  text: Electrical engineering in general
+- code: '71.040'
+  text: Analytical chemistry
+structuredidentifier:
+  project_number: C0950
+  type: JIS
+ext:
+  schema-version: v0.0.1

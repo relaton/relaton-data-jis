@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISF8008-2016
+title:
+- content: 船用電気照明器具通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Ships and marine technology -- General requirements for electric lighting
+    fittings
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8008%3A2016
+  type: src
+type: standard
+docid:
+- id: JIS F 8008:2016
+  type: JIS
+  primary: true
+docnumber: F8008
+date:
+- type: issued
+  value: '2016-11-01'
+- type: confirmed
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 船で使用する電源電圧２５０Ｖ以下の白熱電球，蛍光ランプ（ハロゲン電球・電球形蛍光ランプを含む。），放電ランプ及びＬＥＤを光源とする照明器具（以下，器具という。）の一般要求事項について規定。防爆形の器具には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 29.140.40
+  text: Luminaires
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+structuredidentifier:
+  project_number: F8008
+  type: JIS
+ext:
+  schema-version: v0.0.1

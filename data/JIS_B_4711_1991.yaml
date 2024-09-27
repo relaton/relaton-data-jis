@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISB4711-1991
+title:
+- content: 木工機械用回転かんな胴
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Cutter blocks for wood planing
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+4711%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS B 4711:1991
+  type: JIS
+  primary: true
+docnumber: B4711
+date:
+- type: issued
+  value: '1991-02-28'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本木工機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本木工機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 平かんな刃を使用する木工機械用回転かんな胴について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本木工機械工業会
+ics:
+- code: 79.120.10
+  text: Woodworking machines
+structuredidentifier:
+  project_number: B4711
+  type: JIS
+ext:
+  schema-version: v0.0.1

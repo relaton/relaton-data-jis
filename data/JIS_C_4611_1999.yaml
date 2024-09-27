@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISC4611-1999
+title:
+- content: 限流ヒューズ付高圧交流負荷開閉器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: High-voltage alternating current switch-fuse combinations
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4611%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04611_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 4611:1999
+  type: JIS
+  primary: true
+docnumber: C4611
+date:
+- type: issued
+  value: '1999-07-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 周波数５０Ｈｚ又は６０Ｈｚ，三相交流電路で使用する，定格電圧１ｋＶを超え５２ｋＶ未満の，限流ヒューズ付高圧交流負荷開閉器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: 29.120.40
+  text: Switches
+structuredidentifier:
+  project_number: C4611
+  type: JIS
+ext:
+  schema-version: v0.0.1

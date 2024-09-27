@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISC6112-1996
+title:
+- content: 中・高速光伝送リンク用送・受信モジュール通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules of transmitting and/or receiving modules for middle and high
+    speed fiber optic transmission
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6112%3A1996
+  type: src
+type: standard
+docid:
+- id: JIS C 6112:1996
+  type: JIS
+  primary: true
+docnumber: C6112
+date:
+- type: issued
+  value: '1996-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: １０Ｍｂ／ｓを超える一定の伝送速度のディジタル信号を光ファイバを介して伝送するための，少なくとも波形再生及び波形整形機能をもつ中・高速光伝送リンク用送・受信モジュールの用語，記号，分類，最大定格，性能などの一般的な共通事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　光産業技術振興協会
+ics:
+- code: 33.180.20
+  text: Fibre optic interconnecting devices
+structuredidentifier:
+  project_number: C6112
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX0805-1998
+title:
+- content: 書誌データ要素台帳　―　第３部　情報検索
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information and documentation -- Bibliographic data element directory
+    -- Part 3: Information retrieval applications'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0805%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS X 0805:1998
+  type: JIS
+  primary: true
+docnumber: X0805
+date:
+- type: issued
+  value: '1998-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 情報検索システムでのデータ交換に必要とされるデータ要素を規定。データ交換は，端末対計算機又は計算機対計算機で行われる。情報検索トランザクションで使用されるメッセージ及びその要素も示す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X0805
+  type: JIS
+ext:
+  schema-version: v0.0.1

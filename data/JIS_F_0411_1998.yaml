@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISF0411-1998
+title:
+- content: 船用機関遠隔制御盤の外形寸法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Outline dimensions of marine engine control consoles
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0411%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS F 0411:1998
+  type: JIS
+  primary: true
+docnumber: F0411
+date:
+- type: issued
+  value: '1998-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 船に装備する制御盤のうち，機関の制御，監視及び警報用に使用する遠隔制御盤の形状及び寸法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 47.020.70
+  text: Navigation and control equipment
+structuredidentifier:
+  project_number: F0411
+  type: JIS
+ext:
+  schema-version: v0.0.1

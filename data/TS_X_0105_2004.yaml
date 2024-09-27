@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: TSX0105-2004
+title:
+- content: 光学式文字認識のための手書き文字（漢字）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Handprinted KANJI characters for optical character recognition
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+X+0105%3A2004
+  type: src
+type: standard
+docid:
+- id: TS X 0105:2004
+  type: JIS
+  primary: true
+docnumber: X0105
+date:
+- type: issued
+  value: '2004-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 光学式文字認識（ＯＣＲ）に使用する手書き漢字の字形及び一般的な記入要領を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-specification
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '01.075'
+  text: Character symbols
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X0105
+  type: JIS
+ext:
+  schema-version: v0.0.1

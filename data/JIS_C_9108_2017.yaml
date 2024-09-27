@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISC9108-2017
+title:
+- content: 電気掃除機
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electric vacuum cleaners
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9108%3A2017
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09108_000_000_2017_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09108_000_000_2017_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 9108:2017
+  type: JIS
+  primary: true
+docnumber: C9108
+date:
+- type: issued
+  value: '2017-08-21'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 電動機で運転する送風機の背圧を利用した定格消費電力が１００～１　５００Ｗの家庭用電気掃除機について規定。送風用電動機と機械的に接続する方式の回転ブラシをもつ掃除機；充電式掃除機及び業務用掃除機；床用吸込具が掃除機本体に直付けの掃除機で床用吸込具又はその通路が分離できないもの；配管工事を必要とする掃除機には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '97.080'
+  text: Cleaning appliances
+structuredidentifier:
+  project_number: C9108
+  type: JIS
+ext:
+  schema-version: v0.0.1

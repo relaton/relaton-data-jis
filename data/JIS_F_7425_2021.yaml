@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISF7425-2021
+title:
+- content: 船用鋳鉄弁
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Shipbuilding -- Cast iron valves
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+7425%3A2021
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_07425_000_000_2021_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS F 7425:2021
+  type: JIS
+  primary: true
+docnumber: F7425
+date:
+- type: issued
+  value: '2021-01-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 船の蒸気，清水，海水，油，空気管系などに用いる鋳鉄弁について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 23.060.01
+  text: Valves in general
+- code: 47.020.30
+  text: Piping systems
+structuredidentifier:
+  project_number: F7425
+  type: JIS
+ext:
+  schema-version: v0.0.1

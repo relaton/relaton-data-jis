@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISE4019-1999
+title:
+- content: 特殊鉄道車両用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Specified railway (guideway system) car -- Vocabulary
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+4019%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS E 4019:1999
+  type: JIS
+  primary: true
+docnumber: E4019
+date:
+- type: issued
+  value: '1999-09-30'
+- type: confirmed
+  value: '2019-11-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道車輌工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道車輌工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 特殊鉄道のうち，懸垂式鉄道及びこ（跨）座式鉄道並びに案内軌条式鉄道の特殊鉄道車両に関して用いる用語について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄道車輌工業会
+ics:
+- code: 01.040.45
+  text: Railway engineering (Vocabularies)
+- code: 45.060.01
+  text: Railway rolling stock in general
+structuredidentifier:
+  project_number: E4019
+  type: JIS
+ext:
+  schema-version: v0.0.1

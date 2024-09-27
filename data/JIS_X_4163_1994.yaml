@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISX4163-1994
+title:
+- content: フォント情報交換　第３部　グリフ形状表現
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Font information interchange -- Part 3: Glyph
+    shape representation'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4163%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04163_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4163:1994
+  type: JIS
+  primary: true
+docnumber: X4163
+date:
+- type: issued
+  value: '1994-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: フォント資源の体系を規定するとともに，情報処理システム間でのフォント交換の様式を規定。一般的な電子文書交換においてフォント参照を行うために必要な体系及び様式にも規定。グリフ形状表現の体系及び交換様式を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　ビジネス機械・情報システム産業協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X4163
+  type: JIS
+ext:
+  schema-version: v0.0.1

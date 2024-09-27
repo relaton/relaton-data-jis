@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5056-5-2002
+title:
+- content: セキュリティ技術―エンティティ認証―第５部：ゼロ知識技術を用いる機構
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Security techniques -- Entity authentication
+    -- Part 5: Mechanisms using zero knowledge techniques'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5056-5%3A2002
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05056_005_000_2002_j_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5056-5:2002
+  type: JIS
+  primary: true
+docnumber: X5056
+date:
+- type: issued
+  value: '2002-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ゼロ知識技術を用いる三つの認証機構を規定。規定するすべての機構は片方認証である。これらの機構は，ゼロ知識の原理を用いて構成される。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X5056
+  type: JIS
+ext:
+  schema-version: v0.0.1

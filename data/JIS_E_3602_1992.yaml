@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISE3602-1992
+title:
+- content: 信号ボンド
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Signal bonds
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+3602%3A1992
+  type: src
+type: standard
+docid:
+- id: JIS E 3602:1992
+  type: JIS
+  primary: true
+docnumber: E3602
+date:
+- type: issued
+  value: '1992-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 鉄道信号保安装置用としてレールの電気的接続に用いる信号ボンドについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄道電気技術協会
+ics:
+- code: '45.080'
+  text: Rails and railway components
+structuredidentifier:
+  project_number: E3602
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISW8302-1976
+title:
+- content: 飛行場照明用電球
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Lamps for airport and airway lighting
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+8302%3A1976
+  type: src
+type: standard
+docid:
+- id: JIS W 8302:1976
+  type: JIS
+  primary: true
+docnumber: W8302
+date:
+- type: issued
+  value: '1976-08-10'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電球工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電球工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 飛行場における各種照明及び航空路照明用のタングステン電球について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電球工業会
+ics:
+- code: 29.140.20
+  text: Incandescent lamps
+- code: '49.100'
+  text: Ground service and maintenance equipment
+structuredidentifier:
+  project_number: W8302
+  type: JIS
+ext:
+  schema-version: v0.0.1

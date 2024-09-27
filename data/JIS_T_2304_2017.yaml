@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JIST2304-2017
+title:
+- content: 医療機器ソフトウェア―ソフトウェアライフサイクルプロセス
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Medical device software -- Software life cycle processes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+2304%3A2017
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_02304_000_000_2017_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS T 2304:2017
+  type: JIS
+  primary: true
+docnumber: T2304
+date:
+- type: issued
+  value: '2017-03-01'
+- type: confirmed
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ソフトウェアそれ自体が医療機器である場合，又はソフトウェアが完成品である医療機器に組み込まれているか若しくは不可欠な部分となっている場合の，医療機器ソフトウェアの開発及び保守について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 11.040.01
+  text: Medical equipment in general
+- code: 35.240.80
+  text: IT applications in health care technology
+structuredidentifier:
+  project_number: T2304
+  type: JIS
+ext:
+  schema-version: v0.0.1

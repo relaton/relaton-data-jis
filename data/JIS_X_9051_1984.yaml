@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISX9051-1984
+title:
+- content: 表示装置用１６ドット字形
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 16-dots matrix character patterns for display devices
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9051%3A1984
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09051_000_000_1984_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 9051:1984
+  type: JIS
+  primary: true
+docnumber: X9051
+date:
+- type: issued
+  value: '1984-11-30'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 表示装置に使用する１６ドット字形について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '31.120'
+  text: Electronic display devices
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
+structuredidentifier:
+  project_number: X9051
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISB3600-2004
+title:
+- content: 工業自動化システム―製造メッセージ仕様―サービス定義
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Industrial automation systems -- Manufacturing Message Specification --
+    Part 1: Service definition'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3600%3A2004
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03600_000_000_2004_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 3600:2004
+  type: JIS
+  primary: true
+docnumber: B3600
+date:
+- type: issued
+  value: '2004-02-20'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　製造科学技術センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　製造科学技術センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: コンピュータ統合生産システム（ＣＩＭ）環境におけるプログラマブルな装置間のメッセージのやりとりを支援するために設計された応用層の規格として，製造メッセージ仕様（ＭＭＳ）のサービス定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　製造科学技術センター
+ics:
+- code: 25.040.40
+  text: Industrial process measurement and control
+structuredidentifier:
+  project_number: B3600
+  type: JIS
+ext:
+  schema-version: v0.0.1

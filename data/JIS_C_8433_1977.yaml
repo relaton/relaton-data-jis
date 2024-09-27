@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISC8433-1977
+title:
+- content: コネクタ（硬質ビニル電線管用）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Connectors for unplasticized polyvinyl chloride (UPVC) conduit
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8433%3A1977
+  type: src
+type: standard
+docid:
+- id: JIS C 8433:1977
+  type: JIS
+  primary: true
+docnumber: C8433
+date:
+- type: issued
+  value: '1977-10-31'
+contributor:
+- organization:
+    name:
+    - content: 塩化ビニル管・継手協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 塩化ビニル管・継手協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｃ　８４３０に規定する硬質ビニル電線管の接続に使用するコネクタについて規定。この規格に規定しない事項は，ＪＩＳ　Ｃ　８４３１による。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 塩化ビニル管・継手協会
+ics:
+- code: 29.120.10
+  text: Conduits for electrical purposes
+- code: 29.120.20
+  text: Connecting devices
+structuredidentifier:
+  project_number: C8433
+  type: JIS
+ext:
+  schema-version: v0.0.1

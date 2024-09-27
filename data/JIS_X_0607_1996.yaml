@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.9
+id: JISX0607-1996
+title:
+- content: 非逐次記録を用いる追記形及び書換形の情報交換用媒体のボリューム及びファイルの構造
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Volume and file structure of write-once and rewritable
+    media using non-sequential recording for information interchange
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0607%3A1996
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00607_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0607:1996
+  type: JIS
+  primary: true
+docnumber: X0607
+date:
+- type: issued
+  value: '1996-03-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 情報処理システム利用者間での媒体による情報交換のためのボリューム認識，起動ブロック認識，ボリューム構造，ファイル構造及びレコード構造に関するフォーマット及び関連システム要件を規定。媒体への記録は，どのような順序でもセクタを記録可能とする方法で行わなければならない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　光産業技術振興協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X0607
+  type: JIS
+ext:
+  schema-version: v0.0.1

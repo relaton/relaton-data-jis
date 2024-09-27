@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISX0811-2002
+title:
+- content: 電子的文献交換（ＧＥＤＩ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: GEDI -- Generic Electronic Document Interchange
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0811%3A2002
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00811_000_000_2002_j_pr11_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0811:2002
+  type: JIS
+  primary: true
+docnumber: X0811
+date:
+- type: issued
+  value: '2002-02-28'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 計算機システム間の電子的文献複写物の交換書式を規定。書式は，依頼機関，提供側及び文献書式の情報並びに関連する書誌情報を示す。ＧＥＤＩヘッダの定義を含む。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 01.140.20
+  text: Information sciences
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X0811
+  type: JIS
+ext:
+  schema-version: v0.0.1

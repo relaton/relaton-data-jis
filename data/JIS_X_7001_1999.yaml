@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX7001-1999
+title:
+- content: 標準電子取引参照モデル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Open-edi reference model
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7001%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07001_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 7001:1999
+  type: JIS
+  primary: true
+docnumber: X7001
+date:
+- type: issued
+  value: '1999-04-30'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 既存規格の統合化，及び標準電子取引を介して組織間での相互活動を定める規格の今後の開発を調整する枠組みを規定し,それらの規格への参照方法を与える。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: 35.240.60
+  text: IT applications in transport
+structuredidentifier:
+  project_number: X7001
+  type: JIS
+ext:
+  schema-version: v0.0.1

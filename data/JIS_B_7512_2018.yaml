@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISB7512-2018
+title:
+- content: 鋼製巻尺
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Steel tape measures
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7512%3A2018
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07512_000_000_2018_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 7512:2018
+  type: JIS
+  primary: true
+docnumber: B7512
+date:
+- type: issued
+  value: '2018-02-20'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 呼び寸法が０．５ｍ～２００ｍの鋼製の巻尺について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本計量機器工業連合会
+ics:
+- code: 17.040.01
+  text: Linear and angular measurements in general
+structuredidentifier:
+  project_number: B7512
+  type: JIS
+ext:
+  schema-version: v0.0.1

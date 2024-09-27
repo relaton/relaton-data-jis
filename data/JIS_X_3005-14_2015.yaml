@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISX3005-14-2015
+title:
+- content: データベース言語ＳＱＬ　第１４部：ＸＭＬ関連仕様（ＳＱＬ／ＸＭＬ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Database languages -- SQL -- Part 14: XML-Related
+    Specifications (SQL/XML)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3005-14%3A2015
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03005_014_000_2015_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 3005-14:2015
+  type: JIS
+  primary: true
+docnumber: X3005
+date:
+- type: issued
+  value: '2015-12-21'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: データベース言語ＳＱＬをＸＭＬと一緒に用いる方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3005
+  type: JIS
+ext:
+  schema-version: v0.0.1

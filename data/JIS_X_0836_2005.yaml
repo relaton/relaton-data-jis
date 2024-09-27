@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: JISX0836-2005
+title:
+- content: ダブリンコアメタデータ基本記述要素集合
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: The Dublin Core metadata element set
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0836%3A2005
+  type: src
+type: standard
+docid:
+- id: JIS X 0836:2005
+  type: JIS
+  primary: true
+docnumber: X0836
+date:
+- type: issued
+  value: '2005-07-20'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ダブリンコアメタデータ基本記述要素集合（Ｄｕｂｌｉｎ　Ｃｏｒｅ　Ｍｅｔａｄａｔａ　ｅｌｅｍｅｎｔ　ｓｅｔ）は，領域横断的情報資源記述のための標準である。情報資源を識別可能なあらゆるものと定義する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X0836
+  type: JIS
+ext:
+  schema-version: v0.0.1

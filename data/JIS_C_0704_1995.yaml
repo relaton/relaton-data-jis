@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISC0704-1995
+title:
+- content: 制御機器の絶縁距離・絶縁抵抗及び耐電圧
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Insulation test for control gear
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0704%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00704_000_000_1995_j_pr20_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00704_000_000_1995_e_pr20_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 0704:1995
+  type: JIS
+  primary: true
+docnumber: C0704
+date:
+- type: issued
+  value: '1995-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 周波数５０Ｈｚ若しくは６０Ｈｚの交流１０００Ｖ以下，又は１５００Ｖ以下の電路で使用される制御機器の絶縁距離，絶縁抵抗及び耐電圧について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気制御機器工業会
+ics:
+- code: 29.130.01
+  text: Switchgear and controlgear in general
+structuredidentifier:
+  project_number: C0704
+  type: JIS
+ext:
+  schema-version: v0.0.1

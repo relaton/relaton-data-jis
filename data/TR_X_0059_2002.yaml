@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: TRX0059-2002
+title:
+- content: ＸＳＬＴライブラリ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: XSLT Library
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0059%3A2002
+  type: src
+type: standard
+docid:
+- id: TR X 0059:2002
+  type: JIS
+  primary: true
+docnumber: X0059
+date:
+- type: issued
+  value: '2002-09-01'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＸＭＬ文書に対する変換処理を共有する手段としてのＸＳＬＴライブラリを規定。変換対象のＸＭＬ文書における文書構造要素はＸＰａｔｈによって制限し，変換先はＨＴＭＬ文書とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X0059
+  type: JIS
+ext:
+  schema-version: v0.0.1

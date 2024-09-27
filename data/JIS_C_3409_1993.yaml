@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISC3409-1993
+title:
+- content: 自動車雑音防止用高圧抵抗電線
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: High-voltage resistance cables for automobile
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3409%3A1993
+  type: src
+type: standard
+docid:
+- id: JIS C 3409:1993
+  type: JIS
+  primary: true
+docnumber: C3409
+date:
+- type: issued
+  value: '1993-05-31'
+- type: confirmed
+  value: '2008-10-01'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 自動車の点火装置から高周波雑音電波が発生するのを防止するために用いる炭素系抵抗体を導体とした高圧電線について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　自動車技術会
+ics:
+- code: 29.060.10
+  text: Wires
+- code: 43.040.10
+  text: Electrical and electronic equipment
+structuredidentifier:
+  project_number: C3409
+  type: JIS
+ext:
+  schema-version: v0.0.1

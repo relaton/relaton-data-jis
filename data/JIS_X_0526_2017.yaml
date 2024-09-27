@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISX0526-2017
+title:
+- content: 情報技術―自動認識及びデータ取得技術―バーコードシンボル印刷品質の評価仕様―二次元シンボル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Automatic identification and data capture techniques
+    -- Bar code symbol print quality test specification -- Two-dimensional symbols
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0526%3A2017
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00526_000_000_2017_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0526:2017
+  type: JIS
+  primary: true
+docnumber: X0526
+date:
+- type: issued
+  value: '2017-03-21'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動認識システム協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動認識システム協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 二次元バーコードシンボル固有の属性を測定するための二つの方法を規定。それぞれの測定値の評価及びグレード付けの方法，並びにシンボル品質を総合的に評価する方法を規定。参照復号アルゴリズムを規定している二次元シンボル体系に適用するが，この二つの方法が部分的に又は全体的に，それ以外の類似のシンボル体系にも適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本自動認識システム協会"
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X0526
+  type: JIS
+ext:
+  schema-version: v0.0.1

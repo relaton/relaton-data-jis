@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISC4412-1-2014
+title:
+- content: 低圧蓄電システムの安全要求事項―第１部：一般要求事項
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Safety requirements for electric energy storage equipment -- Part 1: General
+    requirements'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4412-1%3A2014
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04412_001_000_2014_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 4412-1:2014
+  type: JIS
+  primary: true
+docnumber: C4412
+date:
+- type: issued
+  value: '2014-04-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 低圧蓄電システムの装置としての安全性について規定。系統連系保護機能に関する要求事項は，この規格では規定しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '29.220'
+  text: Galvanic cells and batteries
+structuredidentifier:
+  project_number: C4412
+  type: JIS
+ext:
+  schema-version: v0.0.1

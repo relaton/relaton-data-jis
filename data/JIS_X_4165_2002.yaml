@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISX4165-2002
+title:
+- content: フォント関連識別子の登録手続き
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Procedures for registration of font-related identifiers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4165%3A2002
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04165_000_000_2002_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4165:2002
+  type: JIS
+  primary: true
+docnumber: X4165
+date:
+- type: issued
+  value: '2002-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: フォント関連オブジェクトを識別する識別子の登録簿を作成し，保守し，公開する際に登録機関が遵守する手続きを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X4165
+  type: JIS
+ext:
+  schema-version: v0.0.1

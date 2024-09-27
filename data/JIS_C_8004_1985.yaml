@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISC8004-1985
+title:
+- content: 防爆携帯電灯通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Hand lanterns for explosive atmospheres
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8004%3A1985
+  type: src
+type: standard
+docid:
+- id: JIS C 8004:1985
+  type: JIS
+  primary: true
+docnumber: C8004
+date:
+- type: issued
+  value: '1985-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本照明器具工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本照明器具工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｃ　０９０３に定めるガス蒸気危険場所（１種場所及び２種場所）で使用する耐圧防爆構造の携帯電灯（探見灯形，キャップランプ形及び手提げ形のもの。）について規定。炭鉱用及び船用の器具を除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本照明器具工業会
+ics:
+- code: 29.140.99
+  text: Other standards related to lamps
+- code: 29.260.20
+  text: Electrical apparatus for explosive atmospheres
+structuredidentifier:
+  project_number: C8004
+  type: JIS
+ext:
+  schema-version: v0.0.1

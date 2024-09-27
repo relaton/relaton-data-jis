@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX5106-1991
+title:
+- content: ハイレベルデータリンク制御手順の手順クラス
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information processing systems -- Data communication -- High-level data
+    link control procedures -- Consolidation of classes of procedures
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5106%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS X 5106:1991
+  type: JIS
+  primary: true
+docnumber: X5106
+date:
+- type: issued
+  value: '1991-08-01'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 同期データ伝送のためのＨＤＬＣ不平衡手順クラス及びＨＤＬＣ平衡手順クラスを規定。平衡動作は，データリンクの両側において等しい制御を要求する環境での使用を想定している。動作要求は，ＨＤＬＣアーキテクチャ全体に従って定められる。手順は，ＪＩＳ　Ｘ　５１０４に規定するＨＤＬＣフレーム構成及びＪＩＳ　Ｘ　５１０５に規定する手順要素を使用する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.20
+  text: Data link layer
+structuredidentifier:
+  project_number: X5106
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,92 @@
+---
+schema-version: v1.2.9
+id: JISZ4330-2008
+title:
+- content: γ線検出形水モニタ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Monitors for gamma emitting radionuclides in water
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4330%3A2008
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04330_000_000_2008_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 4330:2008
+  type: JIS
+  primary: true
+docnumber: Z4330
+date:
+- type: issued
+  value: '2008-01-20'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 放射線防護を目的として，施設の排水系などにおける水中のγ線放出核種の放射能濃度を測定し，指示値が警報設定値を超えたとき警報を発生するγ線検出形水モニタについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電気計測器工業会"
+ics:
+- code: '13.280'
+  text: Radiation protection
+- code: '17.240'
+  text: Radiation measurements
+structuredidentifier:
+  project_number: Z4330
+  type: JIS
+ext:
+  schema-version: v0.0.1

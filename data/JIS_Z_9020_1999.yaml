@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISZ9020-1999
+title:
+- content: 管理図―一般指針
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Control Charts -- General guide and introduction
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9020%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09020_000_000_1999_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 9020:1999
+  type: JIS
+  primary: true
+docnumber: Z9020
+date:
+- type: issued
+  value: '1999-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 管理図によるアプローチの要点及び考え方を示す。またシューハート管理図に関連する管理図，工程の合否を判定する管理図，及びオンラインでの予測を重視した管理図を含めた多種多様な管理図について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 03.120.30
+  text: Application of statistical methods
+structuredidentifier:
+  project_number: Z9020
+  type: JIS
+ext:
+  schema-version: v0.0.1

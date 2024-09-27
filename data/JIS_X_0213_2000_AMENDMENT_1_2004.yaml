@@ -1,0 +1,87 @@
+---
+schema-version: v1.2.9
+id: JISX0213-2000/AMENDMENT1-2004
+title:
+- content: ７ビット及び８ビットの２バイト情報交換用符号化拡張漢字集合（追補１）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 7-bit and 8-bit double byte coded extended KANJI sets for information interchange
+    (Amendment 1)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0213%3A2000%2FAMENDMENT+1%3A2004
+  type: src
+type: standard
+docid:
+- id: JIS X 0213:2000/AMENDMENT 1:2004
+  type: JIS
+  primary: true
+docnumber: X0213
+date:
+- type: issued
+  value: '2004-02-20'
+- type: confirmed
+  value: '2008-10-01'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＪＩＳ　Ｘ　０２０８で規定する６８７９文字の符号化幹事集合を拡張し，ＪＩＳ　Ｘ　０２０８と同時に運用する４３５４文字を含め１１２３３の図形文字とそれらのビット組合せとの対応を規定。第４水準漢字集合を除く８７９７文字からなる符号化漢字集合と第４水準漢字集合の２４３６文字からなる符号化漢字集合との二つの符号化漢字集合を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: amendment
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X0213
+  type: JIS
+ext:
+  schema-version: v0.0.1

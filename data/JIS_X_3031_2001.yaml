@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX3031-2001
+title:
+- content: 移植可能なオペレーティングシステムのインタフェース（ＰＯＳＩＸ）―第２部：シェル及びユーティリティ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Portable Operating System Interface (POSIX)
+    -- Part 2: Shell and Utilities'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3031%3A2001
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03031_000_000_2001_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 3031:2001
+  type: JIS
+  primary: true
+docnumber: X3031
+date:
+- type: issued
+  value: '2001-02-28'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 応用プログラムのために，コマンド解釈系（“シェル”），システムサービス及び共通ユーティリティプログラムに対するソースコードレベルの標準インタフェースを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3031
+  type: JIS
+ext:
+  schema-version: v0.0.1

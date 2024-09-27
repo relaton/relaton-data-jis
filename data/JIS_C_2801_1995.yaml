@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISC2801-1995
+title:
+- content: 整流子片
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Commutator bars
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2801%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02801_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02801_000_000_1995_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 2801:1995
+  type: JIS
+  primary: true
+docnumber: C2801
+date:
+- type: issued
+  value: '1995-01-31'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: "一般社団法人　日本電機工業会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般社団法人　日本電機工業会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 電気機器の整流子に用いる整流子片について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般社団法人　日本電機工業会                                                \r\n                                                                                            一般社団法人　電気学会"
+ics:
+- code: 29.160.10
+  text: Components for rotating machines
+structuredidentifier:
+  project_number: C2801
+  type: JIS
+ext:
+  schema-version: v0.0.1

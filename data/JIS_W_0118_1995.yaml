@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISW0118-1995
+title:
+- content: 飛行力学―概念，量及び記号―第８部：航空機の動的挙動の解析に使用する概念及び量
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Flight dynamics -- Concepts, quantities and symbols -- Part 8: Concepts
+    and quantities used in the study of the dynamic behaviour of the aircraft'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+0118%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS W 0118:1995
+  type: JIS
+  primary: true
+docnumber: W0118
+date:
+- type: issued
+  value: '1995-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 航空機の運動の形態及びそれらの基本的な動特性を特徴づける概念及び量を規定。航空機は，一定質量及び慣性をもった剛体であると仮定する。それぞれの航空機の特有の動特性を変えてしまうような系統は装備しない状態とする。ただし，殆どの定義は，航空機を質量及び慣性が変化する弾性体をした場合にも適用。この規格で定義した一般概念は，大気圏内の飛行状態に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本航空宇宙工業会
+ics:
+- code: '01.060'
+  text: Quantities and units
+- code: '49.020'
+  text: Aircraft and space vehicles in general
+structuredidentifier:
+  project_number: W0118
+  type: JIS
+ext:
+  schema-version: v0.0.1

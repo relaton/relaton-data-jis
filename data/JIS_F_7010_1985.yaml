@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISF7010-1985
+title:
+- content: 燃料油ブレンダの装備基準
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Application of fuel oil blending system
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+7010%3A1985
+  type: src
+type: standard
+docid:
+- id: JIS F 7010:1985
+  type: JIS
+  primary: true
+docnumber: F7010
+date:
+- type: issued
+  value: '1985-12-31'
+contributor:
+- organization:
+    name:
+    - content: 財団法人　日本船舶標準協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 財団法人　日本船舶標準協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 船用の発電機用ディーゼル機関に供給する燃料油ブレンダの装備基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 財団法人　日本船舶標準協会
+ics:
+- code: 47.020.20
+  text: Marine engines and propulsion systems
+- code: 75.160.20
+  text: Liquid fuels
+structuredidentifier:
+  project_number: F7010
+  type: JIS
+ext:
+  schema-version: v0.0.1

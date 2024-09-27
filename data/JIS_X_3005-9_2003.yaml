@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX3005-9-2003
+title:
+- content: データベース言語ＳＱＬ　第９部：外部データ管理（ＳＱＬ／ＭＥＤ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Database languages -- SQL-- Part 9: Management
+    of External Data (SQL/MED)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3005-9%3A2003
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03005_009_000_2003_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 3005-9:2003
+  type: JIS
+  primary: true
+docnumber: X3005
+date:
+- type: issued
+  value: '2003-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 外部データおお（覆）い及びデータリンク型を利用して，外部データの管理を提供するためのデータベース言語ＳＱＬの拡張を定義。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3005
+  type: JIS
+ext:
+  schema-version: v0.0.1

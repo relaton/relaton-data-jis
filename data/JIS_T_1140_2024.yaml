@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JIST1140-2024
+title:
+- content: 電子体温計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Clinical electrical thermometers with maximum device
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1140%3A2024
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_01140_000_000_2024_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS T 1140:2024
+  type: JIS
+  primary: true
+docnumber: T1140
+date:
+- type: issued
+  value: '2024-02-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 最高温度保持機能をもち，内部電源によって作動し，熱伝導の作動原理に基づく感温素子を用いて測定した，人の体温をデジタル表示する電子体温計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本計量機器工業連合会
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+structuredidentifier:
+  project_number: T1140
+  type: JIS
+ext:
+  schema-version: v0.0.1

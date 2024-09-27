@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX4002-1987
+title:
+- content: 日本語文書交換用ファイル仕様（事務用グラフ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: File specification for Japanese documents interchange (business graph type)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4002%3A1987
+  type: src
+type: standard
+docid:
+- id: JIS X 4002:1987
+  type: JIS
+  primary: true
+docnumber: X4002
+date:
+- type: issued
+  value: '1987-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 日本語ワードプロッセサ又は同等の能力をもつ情報処理機器の相互間でフレキシブルディスクカートリッジを用いて，文字及び事務用グラフを基本とする日本語文書の交換を行う場合の文書ファイルの仕様について規定。（１）文書ファイルの構成　（２）文書ファイルを構成する情報の種類及び形式　（３）使用する文字符号（図形文字，制御文字）の種類及び機能　（４）ブロックデータ部の構成　（５）ブロックデータ部を構成する情報　の各事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X4002
+  type: JIS
+ext:
+  schema-version: v0.0.1

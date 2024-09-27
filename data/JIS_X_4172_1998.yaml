@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISX4172-1998
+title:
+- content: ＳＧＭＬ公開テキスト所有者識別子
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- SGML support facilities -- Registration procedures
+    for public text owner identifiers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4172%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04172_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4172:1998
+  type: JIS
+  primary: true
+docnumber: X4172
+date:
+- type: issued
+  value: '1998-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　４１５１に適合する公開テキストの所有者に対する，一意の所有者接頭部の割当てに適用。割当てを行う手続きを規定し，所有者接頭部から登録済み所有者名を構成する方法を規定。標準機関及びその他の組織による所有者接頭部の自己割当ての手続きをも規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　ビジネス機械・情報システム産業協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X4172
+  type: JIS
+ext:
+  schema-version: v0.0.1

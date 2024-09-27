@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISA7801-1994
+title:
+- content: 木造建築物防火用セメントモルタル塗工法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Method of plastering of cement mortar for fire protection
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+7801%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS A 7801:1994
+  type: JIS
+  primary: true
+docnumber: A7801
+date:
+- type: issued
+  value: '1994-12-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本建築学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本建築学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 下地を使用する木造建築物の防火構造用セメントモルタル塗の工法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本建築学会
+ics:
+- code: 13.220.20
+  text: Fire protection
+- code: 91.100.10
+  text: Cement. Gypsum. Lime. Mortar
+structuredidentifier:
+  project_number: A7801
+  type: JIS
+ext:
+  schema-version: v0.0.1

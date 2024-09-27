@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISB6614-1989
+title:
+- content: ショットブラスト
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Shotblast
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6614%3A1989
+  type: src
+type: standard
+docid:
+- id: JIS B 6614:1989
+  type: JIS
+  primary: true
+docnumber: B6614
+date:
+- type: issued
+  value: '1989-05-31'
+contributor:
+- organization:
+    name:
+    - content: 日本鋳造機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本鋳造機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 鋳物製品の研掃工程に用いる遠心式ショット投射装置を装備したショットブラストについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本鋳造機械工業会
+ics:
+- code: 25.220.10
+  text: Surface preparation
+structuredidentifier:
+  project_number: B6614
+  type: JIS
+ext:
+  schema-version: v0.0.1

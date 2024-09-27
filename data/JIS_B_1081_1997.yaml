@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISB1081-1997
+title:
+- content: ねじ部品―引張疲労試験―試験方法及び結果の評価
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Threaded fasteners -- Axial load fatigue testing -- Test methods and evaluation
+    of results
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1081%3A1997
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01081_000_000_1997_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01081_000_000_1997_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 1081:1997
+  type: JIS
+  primary: true
+docnumber: B1081
+date:
+- type: issued
+  value: '1997-01-31'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本ねじ研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本ねじ研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: ねじ部品の引張疲労試験を実施するための条件及び結果の評価のための推奨事項について規定。他に合意がなければ，試験は部分片振り（引張り）の形式で，室温で実施され，作用する負荷はねじ部品の軸線と同軸である。被締結部材のコンプライアンスがねじのひずみに及ぼす影響は考慮に入れない。この方法によって，ねじ部品の疲労強度を決定できる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本ねじ研究協会
+ics:
+- code: 21.040.01
+  text: Screw threads in general
+structuredidentifier:
+  project_number: B1081
+  type: JIS
+ext:
+  schema-version: v0.0.1

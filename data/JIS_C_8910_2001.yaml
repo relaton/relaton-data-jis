@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISC8910-2001
+title:
+- content: 一次基準太陽電池セル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Primary reference solar cells
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8910%3A2001
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08910_000_000_2001_j_pr11_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08910_000_000_2001_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8910:2001
+  type: JIS
+  primary: true
+docnumber: C8910
+date:
+- type: issued
+  value: '2001-12-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 平面・非集光形の電力発電を目的とする地上用結晶系・アモルファス太陽電池セル，及び地上用結晶系・アモルファス太陽電池モジュールの出力測定に用いる二次基準結晶系・アモルファス太陽電池セルを校正するために用いる一次基準太陽電池セルについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.160'
+  text: Solar energy engineering
+- code: 29.220.99
+  text: Other cells and batteries
+structuredidentifier:
+  project_number: C8910
+  type: JIS
+ext:
+  schema-version: v0.0.1

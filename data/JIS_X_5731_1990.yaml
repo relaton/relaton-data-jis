@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX5731-1990
+title:
+- content: 開放型システム間相互接続　―　ディレクトリ　―　第１部　概念，モデル及びサービスの概要
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information processing systems -- Open systems interconnection -- The
+    directory -- Part 1: Ooverview of concepts,  models and service'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5731%3A1990
+  type: src
+type: standard
+docid:
+- id: JIS X 5731:1990
+  type: JIS
+  primary: true
+docnumber: X5731
+date:
+- type: issued
+  value: '1990-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ディトレクリは，ＯＳＩの応用，管理プロセス，その他の層エンティティ及び電気通信サービスに必要なディレクトリ機能を提供。例えば，ディレクトリは，利用者がオブジェクトを適切な名前で参照できる分かりやすい名前付けの機能を提供。（しかし，すべてのオブジェクトが利用者に親しみやすい名前である必要はない。）更に，オブジェクトとその場所の動的な結合を可能とするような名前とアドレスとの対応付けの機能を提供。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.01
+  text: Open systems interconnection in general
+structuredidentifier:
+  project_number: X5731
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISB3700-105-1998
+title:
+- content: 産業オートメーションシステム及びその統合―製品データの表現及び交換―第１０５部：統合アプリケーションリソース：機構の運動学
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Industrial automation systems and integration -- Product data representation
+    and exchange -- Part 105: Integrated application resource: Kinematics'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3700-105%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03700_105_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 3700-105:1998
+  type: JIS
+  primary: true
+docnumber: B3700
+date:
+- type: issued
+  value: '1998-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 機械製品を機構の運動学的見地から表現するためのリソース構図を規定。リンクと呼ばれる剛体物体間の運動学的関係の定義；機構の運動学的構造を表す位相の表現；離散化された位置及び姿勢の並びとして記述される運動学的運動の定義；運動学解析の入力及び結果の表現　
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本情報経済社会推進協会
+ics:
+- code: 25.040.40
+  text: Industrial process measurement and control
+structuredidentifier:
+  project_number: B3700
+  type: JIS
+ext:
+  schema-version: v0.0.1

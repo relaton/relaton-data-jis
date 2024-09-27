@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISF8422-2003
+title:
+- content: 船用防爆天井灯
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Shipbuilding -- Flameproof ceiling lights
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8422%3A2003
+  type: src
+type: standard
+docid:
+- id: JIS F 8422:2003
+  type: JIS
+  primary: true
+docnumber: F8422
+date:
+- type: issued
+  value: '2003-12-20'
+- type: confirmed
+  value: '2023-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 船舶及び海洋構造物において，空気中に可燃性ガス又は可燃性液体の蒸気が引火・爆発するおそれがある濃度で存在する可能性がある場所で使用する電圧２５０Ｖ以下の白熱電球を光源とする耐圧防爆構造の天井灯について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: '13.230'
+  text: Explosion protection
+- code: 29.260.20
+  text: Electrical apparatus for explosive atmospheres
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+structuredidentifier:
+  project_number: F8422
+  type: JIS
+ext:
+  schema-version: v0.0.1

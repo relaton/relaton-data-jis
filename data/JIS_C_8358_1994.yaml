@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISC8358-1994
+title:
+- content: 電気器具用差込接続器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Appliance couplers for domestic and similar use
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8358%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08358_000_000_1994_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8358:1994
+  type: JIS
+  primary: true
+docnumber: C8358
+date:
+- type: issued
+  value: '1994-05-31'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本配線システム工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本配線システム工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 周波数５０Ｈｚ又は６０Ｈｚの交流２５０Ｖ以下の電路において，家庭，事務所などで使用する電気機械器具と電源コードとの接続に用いる定格電流１５Ａ以下の電気器具用差込接続器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本配線システム工業会
+ics:
+- code: 29.120.20
+  text: Connecting devices
+structuredidentifier:
+  project_number: C8358
+  type: JIS
+ext:
+  schema-version: v0.0.1

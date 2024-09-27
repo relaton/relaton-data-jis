@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISZ8762-1995
+title:
+- content: 絞り機構による流量測定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Measurement of fluid flow by means of orifice plates, nozzles and venturi
+    tubes inserted in circular cross-section conduits running full
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8762%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS Z 8762:1995
+  type: JIS
+  primary: true
+docnumber: Z8762
+date:
+- type: issued
+  value: '1995-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 管路の直径が５０～１２００ｍｍの円形管路内に満たした状態で流れる流体の流量を，絞り機構を用いて測定する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 17.120.10
+  text: Flow in closed conduits
+structuredidentifier:
+  project_number: Z8762
+  type: JIS
+ext:
+  schema-version: v0.0.1

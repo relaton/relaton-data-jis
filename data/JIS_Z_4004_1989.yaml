@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISZ4004-1989
+title:
+- content: 医用放射線機器図記号
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Graphical symbols for medical radiological equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4004%3A1989
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04004_000_000_1989_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04004_000_000_1989_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 4004:1989
+  type: JIS
+  primary: true
+docnumber: Z4004
+date:
+- type: issued
+  value: '1990-01-31'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本画像医療システム工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本画像医療システム工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 医用放射線機器及びその附属品の外部及び内部に表示する図記号について規定。ここに規定した図記号を，回路図，配線図，ブロック図などに使用してもよい。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本画像医療システム工業会
+ics:
+- code: 01.080.20
+  text: Graphical symbols for use on specific equipment
+- code: 11.040.50
+  text: Radiographic equipment
+structuredidentifier:
+  project_number: Z4004
+  type: JIS
+ext:
+  schema-version: v0.0.1

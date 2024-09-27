@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISB9013-1992
+title:
+- content: 家庭用ミシンテーブル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Table for household sewing machines
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9013%3A1992
+  type: src
+type: standard
+docid:
+- id: JIS B 9013:1992
+  type: JIS
+  primary: true
+docnumber: B9013
+date:
+- type: issued
+  value: '1992-05-31'
+contributor:
+- organization:
+    name:
+    - content: 日本ミシンテーブル工業組合
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本ミシンテーブル工業組合
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 家庭用ミシンに使用するテーブルについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本ミシンテーブル工業組合
+ics:
+- code: '61.080'
+  text: Sewing machines and other equipment for the clothing industry
+structuredidentifier:
+  project_number: B9013
+  type: JIS
+ext:
+  schema-version: v0.0.1

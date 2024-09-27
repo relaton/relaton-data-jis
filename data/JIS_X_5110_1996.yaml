@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISX5110-1996
+title:
+- content: ＩＳＤＮ基本アクセスインタフェースの参照点Ｓ及び参照点Ｔにおけるインタフェースコネクタ及びコンタクト配列
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Telecommunications and information exchange between
+    systems -- Interface connector and contact assignments for ISDN Basic Access Interface
+    located at reference points S and T
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5110%3A1996
+  type: src
+type: standard
+docid:
+- id: JIS X 5110:1996
+  type: JIS
+  primary: true
+docnumber: X5110
+date:
+- type: issued
+  value: '1996-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: サービス総合ディジタル網（ＩＳＤＮ）基本アクセス構成の物理的インタフェースに用いる８極コネクタ（プラグ及びジャック）並びに極及びコンタクトの配列について規定。これらの物理的インタフェースは，ＴＥ（端末装置）とＮＴ（網終端装置）との間及びＮＴ１とＮＴ２との間の参照点Ｓ及び参照点Ｔに位置するものとし，ＩＴＵ－Ｔ勧告Ｉ．４３０に適合しなければならない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.10
+  text: Physical layer
+structuredidentifier:
+  project_number: X5110
+  type: JIS
+ext:
+  schema-version: v0.0.1

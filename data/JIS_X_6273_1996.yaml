@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISX6273-1996
+title:
+- content: １３０ｍｍ／１．３ＧＢ光ディスクカートリッジ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Data interchange on 130 mm optical disk cartridges
+    -- Capacity: 1.3 gigabytes per cartridge'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6273%3A1996
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06273_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6273:1996
+  type: JIS
+  primary: true
+docnumber: X6273
+date:
+- type: issued
+  value: '1996-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 適用試験の条件；光ディスクカートリッジの使用環境及び保存環境；データ処理システム間の機械的互換性を保証するための光ディスクカートリッジの機械的，物理的及び寸法に関する特性；トラックとセクタの物理的な配置，エラー訂正符号及び使用される変調方式を含むディスク上のエンボスデータ及びユーザ記録データのフォーマット；ディスクのエンボスデータの特性　の事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　光産業技術振興協会
+ics:
+- code: 35.220.30
+  text: Optical storage devices
+structuredidentifier:
+  project_number: X6273
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISB6313-1974
+title:
+- content: 数値制御工作機械用せん孔テープ可変ブロックフォーマット（輪郭制御用及び輪郭位置決め制御用）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Punched tape variable block format for contouring and contouring/positioning
+    numerically controlled machine tools
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6313%3A1974
+  type: src
+type: standard
+docid:
+- id: JIS B 6313:1974
+  type: JIS
+  primary: true
+docnumber: B6313
+date:
+- type: issued
+  value: '1974-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本機械学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本機械学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 輪郭制御工作機械用及び輪郭・位置決め制御工作機械用せん孔テープのＨＴとアドレスキャラクタのいずれか一方又はその両方を持った可変ブロックフォーマットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本機械学会
+ics:
+- code: 25.040.20
+  text: Numerically controlled machines
+structuredidentifier:
+  project_number: B6313
+  type: JIS
+ext:
+  schema-version: v0.0.1

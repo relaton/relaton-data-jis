@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISF9605-2006
+title:
+- content: 船舶及び海洋技術―真船首方位信号伝達装置
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Ships and marine technology -- Transmitting heading devices (THDs)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+9605%3A2006
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_09605_000_000_2006_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS F 9605:2006
+  type: JIS
+  primary: true
+docnumber: F9605
+date:
+- type: issued
+  value: '2006-08-10'
+- type: confirmed
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: SOLAS条約1974年(改正)第V章で要求される真船首方位信号伝達装置としてのジャイロ原理，地磁気原理，GNSS原理に対する原理ごとの構造，性能及び試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 47.020.70
+  text: Navigation and control equipment
+structuredidentifier:
+  project_number: F9605
+  type: JIS
+ext:
+  schema-version: v0.0.1

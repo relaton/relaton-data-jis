@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISX6004-1986
+title:
+- content: 仮名漢字変換形日本文入力装置用けん盤配列
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Basic keyboard layout for Japanese text processing using kana-kanji translation
+    method
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6004%3A1986
+  type: src
+type: standard
+docid:
+- id: JIS X 6004:1986
+  type: JIS
+  primary: true
+docnumber: X6004
+date:
+- type: issued
+  value: '1986-02-01'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子工業振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子工業振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 仮名漢字変換形日本文入力装置で使用する両手操作形けん盤配列について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子工業振興協会
+ics:
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
+structuredidentifier:
+  project_number: X6004
+  type: JIS
+ext:
+  schema-version: v0.0.1

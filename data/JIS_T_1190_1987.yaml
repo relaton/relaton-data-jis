@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JIST1190-1987
+title:
+- content: 重心動揺計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Stabilometers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1190%3A1987
+  type: src
+type: standard
+docid:
+- id: JIS T 1190:1987
+  type: JIS
+  primary: true
+docnumber: T1190
+date:
+- type: issued
+  value: '1987-02-28'
+- type: confirmed
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本めまい平衡医学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本めまい平衡医学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 患者の直立姿勢時における足底圧の垂直作用力を変換器で検出し，足圧中心動揺を電気信号変化として出力する重心動揺計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本めまい平衡医学会
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+structuredidentifier:
+  project_number: T1190
+  type: JIS
+ext:
+  schema-version: v0.0.1

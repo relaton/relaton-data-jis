@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISC6830-1998
+title:
+- content: 光ファイバコード
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Optical fiber cords
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6830%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS C 6830:1998
+  type: JIS
+  primary: true
+docnumber: C6830
+date:
+- type: issued
+  value: '1998-02-28'
+- type: confirmed
+  value: '2023-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 光伝送機器の接続，内部配線などに使用する，単心又は２心の光ファイバ心線上に抗張力体を配し，塩化ビニル樹脂を主体としたコンパウンドなどのプラスチックをシースとした光ファイバコードについて規定。全プラスチックマルチモード光ファイバ素線を用いた光ファイバコード及びテープ形光ファイバ心線を用いた光ファイアコードには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　光産業技術振興協会
+ics:
+- code: 33.180.10
+  text: Fibres and cables
+structuredidentifier:
+  project_number: C6830
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISB7901-1998
+title:
+- content: 測量機器　―　レベル　―　屋外における性能測定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Geodetic instruments -- Levels -- Field procedures for determining accuracy
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7901%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS B 7901:1998
+  type: JIS
+  primary: true
+docnumber: B7901
+date:
+- type: issued
+  value: '1998-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本測量機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本測量機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 屋外において，測量に用いるレベルの１ｋｍ往復に相当する水準測量の標準偏差を求めるための測定方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本測量機器工業会
+ics:
+- code: 17.180.30
+  text: Optical measuring instruments
+- code: '37.020'
+  text: Optical equipment
+structuredidentifier:
+  project_number: B7901
+  type: JIS
+ext:
+  schema-version: v0.0.1

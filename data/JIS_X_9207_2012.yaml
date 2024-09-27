@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISX9207-2012
+title:
+- content: 画像技術における色管理―体系，プロファイル書式及びデータ構造―第１部：ＩＣＣ．１：２０１０
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Image technology colour management -- Architecture, profile format and
+    data structure -- Part 1: Based on ICC.1:2010'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9207%3A2012
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09207_000_000_2012_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 9207:2012
+  type: JIS
+  primary: true
+docnumber: X9207
+date:
+- type: issued
+  value: '2012-06-20'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本印刷産業機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本印刷産業機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 色のプロファイル（特性記述）書式を規定し，それが動作する体系を示す。必要な基準色空間及びデータ（構造）タグも規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本印刷産業機械工業会
+ics:
+- code: 37.100.99
+  text: Other standards related to graphic technology
+structuredidentifier:
+  project_number: X9207
+  type: JIS
+ext:
+  schema-version: v0.0.1

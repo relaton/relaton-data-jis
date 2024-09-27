@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.9
+id: JISW7205-1987
+title:
+- content: 航空機内時分割コマンドレスポンス多重データバス
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Aircraft internal time division command/response multiplex data bus
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+7205%3A1987
+  type: src
+type: standard
+docid:
+- id: JIS W 7205:1987
+  type: JIS
+  primary: true
+docnumber: W7205
+date:
+- type: issued
+  value: '1987-02-01'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 航空機におけるディジタル形コマンドレスポンス時分割多重化（データバス）技法に対する要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本航空宇宙工業会
+structuredidentifier:
+  project_number: W7205
+  type: JIS
+ext:
+  schema-version: v0.0.1

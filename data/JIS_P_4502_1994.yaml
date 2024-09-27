@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISP4502-1994
+title:
+- content: 連続伝票用原紙
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Base paper of continuous business form
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+4502%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS P 4502:1994
+  type: JIS
+  primary: true
+docnumber: P4502
+date:
+- type: issued
+  value: '1994-07-31'
+contributor:
+- organization:
+    name:
+    - content: 日本製紙連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本製紙連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 連続伝票用原紙の巻取紙について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本製紙連合会
+ics:
+- code: '85.080'
+  text: Paper products
+structuredidentifier:
+  project_number: P4502
+  type: JIS
+ext:
+  schema-version: v0.0.1

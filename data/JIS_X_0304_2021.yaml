@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISX0304-2021
+title:
+- content: 国名コード
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Codes for the representation of names of countries
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0304%3A2021
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00304_000_000_2021_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0304:2021
+  type: JIS
+  primary: true
+docnumber: X0304
+date:
+- type: issued
+  value: '2021-03-22'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報科学技術協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報科学技術協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 現時点での国名の表現をコード形式で要求する全ての業務に利用できることを意図した国際コードについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報科学技術協会"
+ics:
+- code: 01.140.30
+  text: Documents in administration, commerce and industry
+structuredidentifier:
+  project_number: X0304
+  type: JIS
+ext:
+  schema-version: v0.0.1

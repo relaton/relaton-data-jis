@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.9
+id: TSC0055-2011
+title:
+- content: 太陽光発電システム―パワーコンディショナ―電磁両立性試験及び測定技術
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electromagnetic compatibility (EMC) testing and measurement techniques
+    for powerconditioners of Photovoltaic generating system
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+C+0055%3A2011
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_ts_c_00055_000_000_2011_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: TS C 0055:2011
+  type: JIS
+  primary: true
+docnumber: C0055
+date:
+- type: issued
+  value: '2011-05-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 該当する太陽光発電システム用パワーコンディショナのうち，一定交流出力電圧及び一定出力周波数の独立形パワーコンディショナ，直流定電圧出力の独立形パワーコンディショナ並びに系統連系形パワーコンディショナのＥＭＣ要求事項，試験方法及び要求性能レベルについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-specification
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.160'
+  text: Solar energy engineering
+- code: 33.100.01
+  text: Electromagnetic compatibility in general
+structuredidentifier:
+  project_number: C0055
+  type: JIS
+ext:
+  schema-version: v0.0.1

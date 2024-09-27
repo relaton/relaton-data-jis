@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISX5059-2-1999
+title:
+- content: セキュリティ技術―否認防止―第２部：対称暗号技術を用いる機構
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Security techniques -- Non-repudiation -- Part
+    2: Mechanisms using symmetric techniques'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5059-2%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05059_002_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5059-2:1999
+  type: JIS
+  primary: true
+docnumber: X5059
+date:
+- type: issued
+  value: '2000-02-29'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 否認防止サービスに使用可能な一般的な構造，発信元の否認防止（ＮＲＯ）サービス，配達の否認防止（ＮＲＤ）サービス，差出しの否認防止（ＮＲＳ）サービス，及び輸送の否認防止（ＮＲＴ）サービスを提供するために使用可能な，通信に関する幾つかの特定の機構を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X5059
+  type: JIS
+ext:
+  schema-version: v0.0.1

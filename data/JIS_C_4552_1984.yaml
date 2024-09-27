@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC4552-1984
+title:
+- content: ソレノイド通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for solenoids (plunger type)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4552%3A1984
+  type: src
+type: standard
+docid:
+- id: JIS C 4552:1984
+  type: JIS
+  primary: true
+docnumber: C4552
+date:
+- type: issued
+  value: '1984-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 周波数５０Ｈｚ又は６０Ｈｚの単相交流２５０Ｖ以下及び直流１５０Ｖ以下の電路で，各種機構の操作に使用するソレノイドの共通事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気制御機器工業会
+ics:
+- code: 29.100.10
+  text: Magnetic components
+structuredidentifier:
+  project_number: C4552
+  type: JIS
+ext:
+  schema-version: v0.0.1

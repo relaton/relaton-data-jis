@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISX5402-1998
+title:
+- content: 私設総合サービス網―回線モードベアラサービス―交換機間信号手順プロトコル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Telecommunication and information exchange between
+    systems -- Private Integrated Services Network -- Circuit mode bearer services
+    -- Inter-exchange signalling procedures and protocol
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5402%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05402_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5402:1998
+  type: JIS
+  primary: true
+docnumber: X5402
+date:
+- type: issued
+  value: '1998-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 私設総合サービス網において，相互に接続されるＰＩＮＸ（私設総合サービス網交換機）の間のＱ参照点における，回線交換の呼制御を目的とする信号手順プロトコルについて規定。私設網第１信号方式の一部であって，私設総合サービス網のために規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.110'
+  text: Networking
+structuredidentifier:
+  project_number: X5402
+  type: JIS
+ext:
+  schema-version: v0.0.1

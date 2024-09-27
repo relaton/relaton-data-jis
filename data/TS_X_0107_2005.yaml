@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: TSX0107-2005
+title:
+- content: 多目的インターネットメール拡張（ＭＩＭＥ）―第５部：適合基準
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Multipurpose Internet Mail Extensions (MIME) -- Part 5: Conformance Criteria
+    and Examples'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+X+0107%3A2005
+  type: src
+type: standard
+docid:
+- id: TS X 0107:2005
+  type: JIS
+  primary: true
+docnumber: X0107
+date:
+- type: issued
+  value: '2005-05-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: インターネット公式プロトコル規定ＳＴＤ　１１であるＲＦＣ　８２２では，ＵＳ－ＡＳＣＩＩメッセージヘッダについて多くの詳細を規定したメッセージ表現プロトコルを定義しているが，メッセージ，すなわちメッセージ本体については，構造のないＵＳ－ＡＳＣＩＩだけとしている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-specification
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.110'
+  text: Networking
+structuredidentifier:
+  project_number: X0107
+  type: JIS
+ext:
+  schema-version: v0.0.1

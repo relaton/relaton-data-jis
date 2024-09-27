@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISK0095-1999
+title:
+- content: 排ガス試料採取方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Methods for sampling of flue gas
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0095%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00095_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00095_000_000_1999_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS K 0095:1999
+  type: JIS
+  primary: true
+docnumber: K0095
+date:
+- type: issued
+  value: '2000-01-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　産業環境管理協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　産業環境管理協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 煙道，煙突，ダクトに排出される排ガス中の特定ガス状成分を分析するための試料ガス吸引採取方式及び試料ガス非吸引採取方式について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　産業環境管理協会
+ics:
+- code: 13.040.40
+  text: Stationary source emissions
+- code: 71.040.40
+  text: Chemical analysis
+structuredidentifier:
+  project_number: K0095
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISD1026-1987
+title:
+- content: 停車中の自動車の車外騒音試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Measurement of noise emitted by stationary road vehicles
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+1026%3A1987
+  type: src
+type: standard
+docid:
+- id: JIS D 1026:1987
+  type: JIS
+  primary: true
+docnumber: D1026
+date:
+- type: issued
+  value: '1987-06-30'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 道路沿いなどで容易に得られる程度の音響特性をもつ試験場所において停車中の自動車が発生する車外騒音の試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　自動車技術会
+ics:
+- code: 17.140.30
+  text: Noise emitted by means of transport
+- code: '43.020'
+  text: Road vehicles in general
+structuredidentifier:
+  project_number: D1026
+  type: JIS
+ext:
+  schema-version: v0.0.1

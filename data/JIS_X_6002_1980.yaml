@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISX6002-1980
+title:
+- content: 情報処理系けん盤配列
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Keyboard layout for information processing using the JIS 7 bit coded character
+    set
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6002%3A1980
+  type: src
+type: standard
+docid:
+- id: JIS X 6002:1980
+  type: JIS
+  primary: true
+docnumber: X6002
+date:
+- type: issued
+  value: '1980-04-30'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: ＪＩＳ　Ｘ　０２０１の英字・片仮名用７単位符号を用いる両手操作形情報処理系けん盤配列について規定。けん盤上のキーの相対的な配置に関する規格であり，キー間隔，けん盤の傾斜，キートップと間隔バーの形状，寸法のような物理的要因については対象外。キー上面の表示方法についても規定しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電子情報技術産業協会"
+ics:
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
+structuredidentifier:
+  project_number: X6002
+  type: JIS
+ext:
+  schema-version: v0.0.1

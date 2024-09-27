@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISA5313-1995
+title:
+- content: 道路橋用プレストレストコンクリート橋げた
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Prestressed concrete girders for road bridges
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5313%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS A 5313:1995
+  type: JIS
+  primary: true
+docnumber: A5313
+date:
+- type: issued
+  value: '1995-03-01'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　プレストレスト・コンクリート建設業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　プレストレスト・コンクリート建設業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 道路橋に用いるプレテンション方式によって製造するプレストレストコンクリート橋げたについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　プレストレスト・コンクリート建設業協会
+ics:
+- code: 91.100.30
+  text: Concrete and concrete products
+- code: '93.040'
+  text: Bridge construction
+structuredidentifier:
+  project_number: A5313
+  type: JIS
+ext:
+  schema-version: v0.0.1

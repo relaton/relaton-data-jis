@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISB0634-2017
+title:
+- content: 製品の幾何特性仕様（ＧＰＳ）―フィルタ処理―線形の輪郭曲線フィルタ：ガウシアンフィルタ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Geometrical product specifications (GPS)  -- Filtration -- Linear profile
+    filters: Gaussian filters'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0634%3A2017
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00634_000_000_2017_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 0634:2017
+  type: JIS
+  primary: true
+docnumber: B0634
+date:
+- type: issued
+  value: '2017-01-20'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 輪郭曲線測定のためのガウシアンフィルタの特性について規定。特に，輪郭曲線に含まれる長波長成分及び短波長成分を分離する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 17.040.20
+  text: Properties of surfaces
+structuredidentifier:
+  project_number: B0634
+  type: JIS
+ext:
+  schema-version: v0.0.1

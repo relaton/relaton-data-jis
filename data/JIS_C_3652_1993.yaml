@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISC3652-1993
+title:
+- content: 電力用フラットケーブルの施工方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Installation methods of power flat conductor cables
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3652%3A1993
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03652_000_000_1993_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 3652:1993
+  type: JIS
+  primary: true
+docnumber: C3652
+date:
+- type: issued
+  value: '1993-09-30'
+- type: confirmed
+  value: '2023-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電気設備学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電気設備学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 使用電圧が交流３００Ｖ以下の低圧屋内配線分岐回路であって，事務室，展示場，店舗などの場所におけるカーペットなどの下に布設する電力用フラットケーブルの施工方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電気設備学会
+ics:
+- code: 29.240.20
+  text: Power transmission and distribution lines
+structuredidentifier:
+  project_number: C3652
+  type: JIS
+ext:
+  schema-version: v0.0.1

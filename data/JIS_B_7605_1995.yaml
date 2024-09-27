@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISB7605-1995
+title:
+- content: 家庭用体重計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Domestic personal weighing instruments
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7605%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS B 7605:1995
+  type: JIS
+  primary: true
+docnumber: B7605
+date:
+- type: issued
+  value: '1995-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ひょう量が５ｋｇを超えるはかりであって，一般家庭において，人の体重を測定するために用いるはかりについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本計量機器工業連合会
+ics:
+- code: '17.100'
+  text: Measurement of force, weight and pressure
+structuredidentifier:
+  project_number: B7605
+  type: JIS
+ext:
+  schema-version: v0.0.1

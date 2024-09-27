@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISB8573-2011
+title:
+- content: 量器用尺付タンク　取引又は証明用
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Road tankers with volume scale level gauging
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8573%3A2011
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08573_000_000_2011_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8573:2011
+  type: JIS
+  primary: true
+docnumber: B8573
+date:
+- type: issued
+  value: '2011-11-21'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本計量機器工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 道路上を移動する車両に取り付けられた液体製品輸送用タンクのうち，量器用尺を備えた液体製品輸送用タンクについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本計量機器工業連合会
+ics:
+- code: '17.060'
+  text: Measurement of volume, mass, density, viscosity
+- code: 43.080.10
+  text: Trucks and trailers
+structuredidentifier:
+  project_number: B8573
+  type: JIS
+ext:
+  schema-version: v0.0.1

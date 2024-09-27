@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC1021-1969
+title:
+- content: 標準電池
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Standard cells
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1021%3A1969
+  type: src
+type: standard
+docid:
+- id: JIS C 1021:1969
+  type: JIS
+  primary: true
+docnumber: C1021
+date:
+- type: issued
+  value: '1974-11-01'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 水銀を正極，重量比で１０％のカドミウムを含むアマルガムを負極，硫酸第一水銀を減極剤とし，０．０３～０．０５Ｎの硫酸酸性硫酸カドミウム溶液を電解液とするカドミウム標準電池について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 29.220.01
+  text: Galvanic cells and batteries in general
+structuredidentifier:
+  project_number: C1021
+  type: JIS
+ext:
+  schema-version: v0.0.1

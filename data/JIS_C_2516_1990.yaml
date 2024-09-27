@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISC2516-1990
+title:
+- content: ポット形フェライト磁心
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Pot-cores made of ferromagnetic oxide
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2516%3A1990
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02516_000_000_1990_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02516_000_000_1990_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 2516:1990
+  type: JIS
+  primary: true
+docnumber: C2516
+date:
+- type: issued
+  value: '1990-11-30'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: コイル及び変成器に使用するポット形フェライト磁心のＰＲ形，ＲＭ形及びＥＰ形について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '29.030'
+  text: Magnetic materials
+structuredidentifier:
+  project_number: C2516
+  type: JIS
+ext:
+  schema-version: v0.0.1

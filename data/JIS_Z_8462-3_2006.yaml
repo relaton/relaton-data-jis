@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISZ8462-3-2006
+title:
+- content: 測定方法の検出能力―第３部：検量線がない場合に応答変数の限界値を求める方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Capability of detection -- Part 3: Methodology for determination of the
+    critical value for the response variable when no calibration data are used'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8462-3%3A2006
+  type: src
+type: standard
+docid:
+- id: JIS Z 8462-3:2006
+  type: JIS
+  primary: true
+docnumber: Z8462
+date:
+- type: issued
+  value: '2006-01-20'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 合理的に予想されるほとんどの目的に適合し，正味の状態変数の値がゼロになるように選ばれた参照状態に対し，その参照状態で繰り返し測定して得た測定値の平均値及び標準偏差から，応答変数の限界値について推定する方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 03.120.30
+  text: Application of statistical methods
+- code: '17.020'
+  text: Metrology and measurement in general
+structuredidentifier:
+  project_number: Z8462
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISC8201-2-2-2021
+title:
+- content: 低圧開閉装置及び制御装置―第２－２部：漏電遮断器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Low-voltage switchgear and controlgear -- Part 2-2: Circuit-breakers incorporating
+    residual current protection'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8201-2-2%3A2021
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08201_002_002_2021_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8201-2-2:2021
+  type: JIS
+  primary: true
+docnumber: C8201
+date:
+- type: issued
+  value: '2021-09-21'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 主接点を接続する回路の定格電圧が交流１　０００　Ｖ以下で，定格周波数が５０　Ｈｚ及び６０　　Ｈｚの漏電保護機能をもつ回路遮断器の安全性について規定。また，漏電電流を検出し，その測定値と設定値とを比較し，測定値が設定値を超えたとき，回路を遮断する装置に適用する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電機工業会"
+ics:
+- code: 29.120.40
+  text: Switches
+- code: 29.130.20
+  text: Low voltage switchgear and controlgear
+structuredidentifier:
+  project_number: C8201
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISC60068-2-41-1995
+title:
+- content: 環境試験方法―電気・電子―高温・減圧複合試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Environmental testing Part 2: Tests, Test Z/BM: Combined dry heat/low
+    air pressure tests'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-41%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS C 60068-2-41:1995
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  value: '1995-07-31'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 発熱のない供試品及び発熱のある供試品の両者に適用する高温［急激又は緩やかな温度変化を伴う。］及び減圧を複合した試験方法について規定。試験の目的は，部品，機器又は他の製品を高温及び減圧を同時複合した状態で貯蔵したり，使用することができる能力を判定することである。複合試験は，通常，複合環境の影響が，単一の環境で供試品を試験しても現れない場合だけに適用することが望ましい。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '19.040'
+  text: Environmental testing
+- code: '19.080'
+  text: Electrical and electronic testing
+structuredidentifier:
+  project_number: C60068
+  type: JIS
+ext:
+  schema-version: v0.0.1

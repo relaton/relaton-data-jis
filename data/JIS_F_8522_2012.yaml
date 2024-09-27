@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISF8522-2012
+title:
+- content: 電気式ラダーアングルインジケータ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Ships and marine technology -- Electric rudder angle indicators
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8522%3A2012
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_08522_000_000_2012_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS F 8522:2012
+  type: JIS
+  primary: true
+docnumber: F8522
+date:
+- type: issued
+  value: '2012-03-01'
+- type: confirmed
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＳＯＬＡＳ　１９７４（２０００年改正）のＶ章，第１９規則，２．５．４条による，かじ（舵）の回転角度及び回転方向を指示する電気式ラダーアングルインジケータについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+- code: 47.020.70
+  text: Navigation and control equipment
+structuredidentifier:
+  project_number: F8522
+  type: JIS
+ext:
+  schema-version: v0.0.1

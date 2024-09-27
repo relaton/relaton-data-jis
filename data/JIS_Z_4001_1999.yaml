@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISZ4001-1999
+title:
+- content: 原子力用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms used in nuclear energy
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4001%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04001_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 4001:1999
+  type: JIS
+  primary: true
+docnumber: Z4001
+date:
+- type: issued
+  value: '1999-05-31'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本原子力学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本原子力学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 工業などで用いる原子力に関する用語とその定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本原子力学会
+ics:
+- code: 01.040.27
+  text: Energy and heat transfer engineering (Vocabularies)
+- code: 27.120.01
+  text: Nuclear energy in general
+structuredidentifier:
+  project_number: Z4001
+  type: JIS
+ext:
+  schema-version: v0.0.1

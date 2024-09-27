@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JIST0102-2011
+title:
+- content: 福祉関連機器用語［支援機器部門］
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms used in assistive products for persons with disabilities
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0102%3A2011
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00102_000_000_2011_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00102_000_000_2011_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS T 0102:2011
+  type: JIS
+  primary: true
+docnumber: T0102
+date:
+- type: issued
+  value: '2011-03-22'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本福祉用具・生活支援用具協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本福祉用具・生活支援用具協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 主に身体に機能障害のある障害者及び障害児，高齢者，在宅療養者などのための支援機器に関する主な用語とその定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本福祉用具・生活支援用具協会
+ics:
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
+- code: 11.180.01
+  text: Aids for disabled and handicapped persons in general
+structuredidentifier:
+  project_number: T0102
+  type: JIS
+ext:
+  schema-version: v0.0.1

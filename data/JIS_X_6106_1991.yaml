@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX6106-1991
+title:
+- content: １２．７ｍｍ幅，情報交換用磁気テープのセルフローディングカートリッジ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Self-loading cartridges for 12.7 mm wide magnetic tape
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6106%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS X 6106:1991
+  type: JIS
+  primary: true
+docnumber: X6106
+date:
+- type: issued
+  value: '1991-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　６１０１に規定する２７形情報交換用磁気テープに使用するセルフローティングカートリッジについて規定。自動装着機能をもったテープ装置間での互換性を確保するために最低限必要な寸法・機能の要求事項について規定。ただし，公差を規定していないものの値については，推奨値とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 35.220.22
+  text: Magnetic tapes
+structuredidentifier:
+  project_number: X6106
+  type: JIS
+ext:
+  schema-version: v0.0.1

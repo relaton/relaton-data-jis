@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISX5151-2018
+title:
+- content: 光情報配線試験
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Implementation and operation of customer premises
+    cabling -- Part 3: Testing of optical fibre cabling'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5151%3A2018
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05151_000_000_2018_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5151:2018
+  type: JIS
+  primary: true
+docnumber: X5151
+date:
+- type: issued
+  value: '2018-03-20'
+- type: confirmed
+  value: '2022-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＪＩＳ　Ｘ　５１５０，ＩＳＯ／ＩＥＣ　２４７６４，ＩＳＯ／ＩＥＣ　２４７０２，ＩＳＯ／ＩＥＣ　１５０１８などの構内情報配線システム規格に従って設計及び敷設された光ファイバ配線の調査及び試験の体系及び方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '35.200'
+  text: Interface and interconnection equipment
+structuredidentifier:
+  project_number: X5151
+  type: JIS
+ext:
+  schema-version: v0.0.1

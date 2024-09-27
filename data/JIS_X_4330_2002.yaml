@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX4330-2002
+title:
+- content: 動画信号及び付随する音響信号のはん用符号化―第７部：先進的音響符号化
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Generic coding of moving pictures and associated
+    audio information -- Part 7: Advanced Audio Coding (AAC)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4330%3A2002
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04330_000_000_2002_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4330:2002
+  type: JIS
+  primary: true
+docnumber: X4330
+date:
+- type: issued
+  value: '2002-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＭＰＥＧ－１音響との逆方向互換性を放棄することによって，逆方向互換性を維持したままでは達成困難な高音質を提供。多チャネル符号化であるＭＰＥＧ－２先進的音響符号化について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X4330
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISX7011-8-1999
+title:
+- content: 行政，商業及び輸送のための電子データ交換（ＥＤＩＦＡＣＴ）―業務レベル構文規則―第８部：ＥＤＩ関連データ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Electronic data interchange for administration, commerce and transport
+    (EDIFACT) -- Application level syntax rules (Syntax version number:4) -- Part
+    8: Associated data in EDI'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7011-8%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS X 7011-8:1999
+  type: JIS
+  primary: true
+docnumber: X7011
+date:
+- type: issued
+  value: '1999-06-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　７０１１群は，電子計算機応用システム相互間で交換されるＥＤＩ関連データの構文規則を規定。バッチ又は対話形ＥＤＩＦＡＣＴメッセージのどちらでも転送できないデータを転送する方式を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本情報経済社会推進協会
+ics:
+- code: 35.240.60
+  text: IT applications in transport
+structuredidentifier:
+  project_number: X7011
+  type: JIS
+ext:
+  schema-version: v0.0.1

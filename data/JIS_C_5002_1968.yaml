@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC5002-1968
+title:
+- content: 電子機器用部品の環境分類
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Environmental requirements for electronic components
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5002%3A1968
+  type: src
+type: standard
+docid:
+- id: JIS C 5002:1968
+  type: JIS
+  primary: true
+docnumber: C5002
+date:
+- type: issued
+  value: '1976-03-10'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器用部品が遭遇する環境条件の分類について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子機械工業会
+ics:
+- code: '31.020'
+  text: Electronic components in general
+structuredidentifier:
+  project_number: C5002
+  type: JIS
+ext:
+  schema-version: v0.0.1

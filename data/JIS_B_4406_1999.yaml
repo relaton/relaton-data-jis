@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISB4406-1999
+title:
+- content: シェルリーマ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Reamers -- Shell reamers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+4406%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS B 4406:1999
+  type: JIS
+  primary: true
+docnumber: B4406
+date:
+- type: issued
+  value: '1999-11-30'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本機械工具工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本機械工具工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 直径が１９．９ｍｍを超え１０１．６ｍｍ以下のシェルリーマについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本機械工具工業会
+ics:
+- code: 25.100.30
+  text: Drills, countersinks, reamers
+structuredidentifier:
+  project_number: B4406
+  type: JIS
+ext:
+  schema-version: v0.0.1

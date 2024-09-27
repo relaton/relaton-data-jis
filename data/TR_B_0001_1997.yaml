@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.9
+id: TRB0001-1997
+title:
+- content: 産業用マニピュレーティングロボット　―　ＥＭＣ（電磁的両立性）試験方法と試験評価基準　―　指針
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Manipulating industrial robots -- EMC test methods and performance evaluation
+    criteria -- Guidelines
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+B+0001%3A1997
+  type: src
+type: standard
+docid:
+- id: TR B 0001:1997
+  type: JIS
+  primary: true
+docnumber: B0001
+date:
+- type: issued
+  value: '1997-11-20'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電磁妨害が産業用マニピュレーティングロボットの性能に与える影響を試験するために，既存のＥＭＣ国際規格を適用する上での手引き書である。１．産業用ロボットを通常の動作環境に置いて作業させるときに適切な試験手順を規定。２．試験結果の評価の手引きを提供することを目的。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 25.040.30
+  text: Industrial robots. Manipulators
+- code: 33.100.10
+  text: Emission
+- code: 33.100.20
+  text: Immunity
+structuredidentifier:
+  project_number: B0001
+  type: JIS
+ext:
+  schema-version: v0.0.1

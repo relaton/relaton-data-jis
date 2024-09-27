@@ -1,0 +1,87 @@
+---
+schema-version: v1.2.9
+id: JISC8202-2-2013
+title:
+- content: 低圧開閉装置及び制御装置―コントローラ―装置間インタフェース（ＣＤＩ）―第２部：アクチュエータ・センサ・インタフェース（ＡＳ－ｉ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Low-voltage switchgear and controlgear -- Controller device interfaces
+    (CDIs) -- Part 2: Actuator sensor interface (AS-i)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8202-2%3A2013
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08202_002_000_2013_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8202-2:2013
+  type: JIS
+  primary: true
+docnumber: C8202
+date:
+- type: issued
+  value: '2013-11-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 規定する通信インタフェースによって構成部品を相互運用できるシステムを確立するために，一つの制御装置と複数の開閉機器との間の情報伝達方式について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電機工業会"
+ics:
+- code: 29.130.20
+  text: Low voltage switchgear and controlgear
+- code: '35.200'
+  text: Interface and interconnection equipment
+structuredidentifier:
+  project_number: C8202
+  type: JIS
+ext:
+  schema-version: v0.0.1

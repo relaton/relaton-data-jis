@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISF3426-1990
+title:
+- content: 船用鋼帯木製滑車
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Ships' internal-bound blocks
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+3426%3A1990
+  type: src
+type: standard
+docid:
+- id: JIS F 3426:1990
+  type: JIS
+  primary: true
+docnumber: F3426
+date:
+- type: issued
+  value: '1990-09-30'
+- type: confirmed
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 船に用いる鋼帯木製滑車について規定。フック付きのものは，救命艇に用いる滑車には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 47.020.40
+  text: Lifting and cargo handling equipment
+structuredidentifier:
+  project_number: F3426
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX7112-2006
+title:
+- content: 地理情報―地理識別子による空間参照
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Geographic information -- Spatial referencing by geographic identifiers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7112%3A2006
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07112_000_000_2006_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 7112:2006
+  type: JIS
+  primary: true
+docnumber: X7112
+date:
+- type: issued
+  value: '2006-03-25'
+- type: confirmed
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - content: 公益財団法人　日本測量調査技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益財団法人　日本測量調査技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 地理識別子の基づく空間参照のための概念スキーマを規定。地理識別子を用いた空間参照の一般モデルを確立し，空間参照系の構成要素を定義するとともに，地名辞典の重要な構成要素を定義。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益財団法人　日本測量調査技術協会
+ics:
+- code: 35.240.70
+  text: IT applications in science
+structuredidentifier:
+  project_number: X7112
+  type: JIS
+ext:
+  schema-version: v0.0.1

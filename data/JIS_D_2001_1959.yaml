@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISD2001-1959
+title:
+- content: 自動車用インボリュートスプライン
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Involute spline for automobiles
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+2001%3A1959
+  type: src
+type: standard
+docid:
+- id: JIS D 2001:1959
+  type: JIS
+  primary: true
+docnumber: D2001
+date:
+- type: issued
+  value: '1977-12-10'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: インボリュート曲線を歯の側面の形状にもつネジレのないインボリュートスプラインで，自動車の機構とくに動力伝達を行う軸と穴の結合のために用いるものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　自動車技術会
+ics:
+- code: '21.200'
+  text: Gears
+- code: 43.040.50
+  text: Transmissions, suspensions
+structuredidentifier:
+  project_number: D2001
+  type: JIS
+ext:
+  schema-version: v0.0.1

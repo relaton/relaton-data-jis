@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JIST1202-1998
+title:
+- content: 心電計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electrocardiographs
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1202%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS T 1202:1998
+  type: JIS
+  primary: true
+docnumber: T1202
+date:
+- type: issued
+  value: '1999-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 心臓活動電位を記録するための臨床診断用心電計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+structuredidentifier:
+  project_number: T1202
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.9
+id: JISX6304-2000
+title:
+- content: 外部端子付きＩＣカード　―　電気信号及び伝送プロトコル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Identification cards -- Integrated circuit(s) cards with contacts -- Part
+    3: Electronic signals and transmission protocols'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6304%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06304_000_000_2000_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6304:2000
+  type: JIS
+  primary: true
+docnumber: X6304
+date:
+- type: issued
+  value: '2000-03-31'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 電力，信号構成及びＩＣカードと端末機などの接続装置との間の情報交換について規定。信号の速度，電圧値，電流値，パリティ規約，動作手順，伝送機構及びＩＣカードによる通信も含まれる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ＩＣカードシステム利用促進協議会"
+ics:
+- code: 35.240.15
+  text: Identification cards. Chip cards. Biometrics
+structuredidentifier:
+  project_number: X6304
+  type: JIS
+ext:
+  schema-version: v0.0.1

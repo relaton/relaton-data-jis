@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC4907-1991
+title:
+- content: 二相サーボモータ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Two-phase servomotors
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4907%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS C 4907:1991
+  type: JIS
+  primary: true
+docnumber: C4907
+date:
+- type: issued
+  value: '1991-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 周波数５０Ｈｚ又は６０Ｈｚ，出力１０Ｗ以下の全閉自冷形の，工業用の二相サーボモータについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気制御機器工業会
+ics:
+- code: 29.160.30
+  text: Motors
+structuredidentifier:
+  project_number: C4907
+  type: JIS
+ext:
+  schema-version: v0.0.1

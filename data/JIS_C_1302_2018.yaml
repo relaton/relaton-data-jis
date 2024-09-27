@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.9
+id: JISC1302-2018
+title:
+- content: 絶縁抵抗計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Insulation resistance testers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1302%3A2018
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01302_000_000_2018_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01302_000_000_2018_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 1302:2018
+  type: JIS
+  primary: true
+docnumber: C1302
+date:
+- type: issued
+  value: '2018-02-20'
+- type: confirmed
+  value: '2022-06-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 電池を内蔵する定格測定電圧１　０００Ｖ以下で，測定対象として次のａ）～ｅ）［ａ）低電圧配電路の絶縁測定　交流１　０００Ｖ及び直流１　５００Ｖ以下の配電系統で，電源が切断されている電路及び機器の絶縁測定；ｂ）機器，器具，部品などの絶縁測定；ｃ）高電圧設備の絶縁測定；ｄ）発電状態にある太陽電池アレイのＰ－Ｎ端子間を短絡する方法での絶縁測定；ｅ）発電状態にある太陽電池アレイのＰ－Ｎ端子間を短絡しない方法での絶縁測定］に用いる絶縁抵抗計であって可搬なものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電気計測器工業会"
+ics:
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
+- code: 29.080.01
+  text: Electrical insulation in general
+- code: 29.240.01
+  text: Power transmission and distribution networks in general
+structuredidentifier:
+  project_number: C1302
+  type: JIS
+ext:
+  schema-version: v0.0.1

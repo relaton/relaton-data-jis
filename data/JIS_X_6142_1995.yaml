@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISX6142-1995
+title:
+- content: ８ｍｍ幅，ヘリカル走査記録，情報交換用磁気テープカートリッジ，デュアルアジマス様式
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 8 mm wide magnetic tape cartridge dual azimuth format for information interchange
+    -- Helical scan recording
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6142%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06142_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6142:1995
+  type: JIS
+  primary: true
+docnumber: X6142
+date:
+- type: issued
+  value: '1995-10-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 電子計算機，関連周辺端末機器などの機器及びシステム間で情報交換用に用いる８ｍｍ幅，ヘリカル走査記録，磁気テープカートリッジの物理的特性及び磁気的特性について規定。ＪＩＳ　Ｘ　０６０１とともに，テープカートリッジを媒体として情報交換に使用できるように磁気テープカートリッジの記録信号の品質，フォーマット及び記録様式を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 35.220.23
+  text: Cassettes and cartridges for magnetic tapes
+structuredidentifier:
+  project_number: X6142
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISA0151-1961
+title:
+- content: 建具記号
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Symbols for windows and doors
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+0151%3A1961
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_00151_000_000_1961_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS A 0151:1961
+  type: JIS
+  primary: true
+docnumber: A0151
+date:
+- type: issued
+  value: '1961-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本建築学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本建築学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 建具の材料種類別，開閉方法別，構成種類別の表示記号および整理番号の表示方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本建築学会
+ics:
+- code: 01.080.20
+  text: Graphical symbols for use on specific equipment
+- code: 91.060.50
+  text: Doors and windows
+structuredidentifier:
+  project_number: A0151
+  type: JIS
+ext:
+  schema-version: v0.0.1

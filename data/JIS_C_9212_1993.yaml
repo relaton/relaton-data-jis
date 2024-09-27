@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISC9212-1993
+title:
+- content: 電気がま及び電子ジャー
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electric rice-cookers and electric rice-warmers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9212%3A1993
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09212_000_000_1993_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 9212:1993
+  type: JIS
+  primary: true
+docnumber: C9212
+date:
+- type: issued
+  value: '1993-02-28'
+- type: confirmed
+  value: '2003-09-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 最大容量３．６Ｌ以下で定格消費電力２ｋＷ以下の，主に家庭用の電気がま，ジャー兼用電気がま及び最大保温容量３．６Ｌ以下で定格消費電力１００Ｗ以下の家庭用の電子ジャーについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: 97.040.20
+  text: Cooking ranges, working tables, ovens and similar appliances
+structuredidentifier:
+  project_number: C9212
+  type: JIS
+ext:
+  schema-version: v0.0.1

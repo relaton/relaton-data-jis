@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISC0060-1993
+title:
+- content: 環境試験方法　―　電気・電子　―　グローワイヤ（赤熱棒押付け）試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Fire hazard testing, Part 2: Test methods, Section 1: Glow-wire test and
+    guidance'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0060%3A1993
+  type: src
+type: standard
+docid:
+- id: JIS C 0060:1993
+  type: JIS
+  primary: true
+docnumber: C0060
+date:
+- type: issued
+  value: '1993-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: シミュレーション技術を用いて火災を予測するために，赤熱素子又は過不荷の抵抗器のような熱源によって短時間生じるおそれがある熱応力をシミュレートするために行うグローワイヤ試験について規定。電気製品・電子製品，サブアセンブリ及び部品，並びに固体電気絶縁物その他の可燃物に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本電子部品信頼性センター
+ics:
+- code: '19.040'
+  text: Environmental testing
+- code: '19.080'
+  text: Electrical and electronic testing
+structuredidentifier:
+  project_number: C0060
+  type: JIS
+ext:
+  schema-version: v0.0.1

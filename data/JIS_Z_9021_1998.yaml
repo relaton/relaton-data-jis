@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISZ9021-1998
+title:
+- content: シューハート管理図
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Shewhart control charts
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9021%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09021_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09021_000_000_1998_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 9021:1998
+  type: JIS
+  primary: true
+docnumber: Z9021
+date:
+- type: issued
+  value: '1998-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 工程の統計的管理の方法としてのシューハート管理図の使い方と理解のための指針を規定。シューハート管理図を用いた統計的工程管理法の取扱いに限られる。警戒限界線の使い方，傾向パターンの分析，工程能力といったシューハートのアプローチに関連する幾つかの追加情報も簡単に記す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 03.120.30
+  text: Application of statistical methods
+structuredidentifier:
+  project_number: Z9021
+  type: JIS
+ext:
+  schema-version: v0.0.1

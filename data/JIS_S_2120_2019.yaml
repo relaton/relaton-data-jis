@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISS2120-2019
+title:
+- content: ガス栓
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Gas valves
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2120%3A2019
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02120_000_000_2019_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS S 2120:2019
+  type: JIS
+  primary: true
+docnumber: S2120
+date:
+- type: issued
+  value: '2019-04-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本ガス機器検査協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本ガス機器検査協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 圧力１５ｋＰａ以下の都市ガス又は液化石油ガスの，主に一般家庭用の低圧配管に使用するガス栓について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本ガス機器検査協会
+ics:
+- code: 23.100.50
+  text: Control components
+- code: 91.140.40
+  text: Gas supply systems
+structuredidentifier:
+  project_number: S2120
+  type: JIS
+ext:
+  schema-version: v0.0.1

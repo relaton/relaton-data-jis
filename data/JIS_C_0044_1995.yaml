@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISC0044-1995
+title:
+- content: 環境試験方法　―　電気・電子　―　自然落下試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Environmental testing Part 2: Tests. Test Ed: Free fall'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0044%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS C 0044:1995
+  type: JIS
+  primary: true
+docnumber: C0044
+date:
+- type: issued
+  value: '1995-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 輸送中，取扱中又は修理中の作業で落としやすい供試品に適用する自然落下試験について規定。落下試験は，二つの方法に分けられる。第一の方法は，通常，包装していない状態の供試品が取扱中に生じる落下を再現することである。この試験では，供試品を規定の姿勢で，規定の高さから規定の面に２回落とす。第二の方法は，通常，使用中コードに取り付けられているコネクタ又は小さな遠隔制御機器（リモートコントローラ）のような製品に，繰り返し生じる落下を再現することである。この試験では，例えば，回転する箱を使用して，規定の高さから規定の面に供試品を繰り返し落下させる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本電子部品信頼性センター
+ics:
+- code: '19.040'
+  text: Environmental testing
+- code: '19.080'
+  text: Electrical and electronic testing
+structuredidentifier:
+  project_number: C0044
+  type: JIS
+ext:
+  schema-version: v0.0.1

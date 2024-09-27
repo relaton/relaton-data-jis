@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISC2255-2015
+title:
+- content: フレキシブルマイカ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Flexible mica materials
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2255%3A2015
+  type: src
+type: standard
+docid:
+- id: JIS C 2255:2015
+  type: JIS
+  primary: true
+docnumber: C2255
+date:
+- type: issued
+  value: '2015-03-20'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: はがしマイカ又は集成マイカ，接着剤及び必要に応じて補強材（ガラスクロス又はポリエステルフィルム）から構成し，常温で巻いたり，包んだりすることができる，十分に柔らかいマイカ製品について規定。ドライマイカ及びプリプレグマイカ製品には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 29.035.99
+  text: Other insulating materials
+- code: '73.080'
+  text: Non-metalliferous minerals
+structuredidentifier:
+  project_number: C2255
+  type: JIS
+ext:
+  schema-version: v0.0.1

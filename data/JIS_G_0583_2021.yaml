@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISG0583-2021
+title:
+- content: 鋼管の自動渦電流探傷検査方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Automated eddy current examination of steel pipes and tubes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0583%3A2021
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00583_000_000_2021_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00583_000_000_2021_e_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS G 0583:2021
+  type: JIS
+  primary: true
+docnumber: G0583
+date:
+- type: issued
+  value: '2021-04-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 継目無鋼管及び溶接鋼管（サブマージアーク溶接鋼管を除く。）のきずの自動渦電流探傷検査方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄鋼連盟
+ics:
+- code: 23.040.10
+  text: Iron and steel pipes
+- code: 77.040.20
+  text: Non-destructive testing of metals
+- code: 77.140.75
+  text: Steel pipes and tubes for specific use
+structuredidentifier:
+  project_number: G0583
+  type: JIS
+ext:
+  schema-version: v0.0.1

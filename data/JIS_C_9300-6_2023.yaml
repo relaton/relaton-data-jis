@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISC9300-6-2023
+title:
+- content: アーク溶接装置―第６部：限定使用率アーク溶接装置
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Arc welding equipment -- Part 6: Limited duty equipment'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9300-6%3A2023
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09300_006_000_2023_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 9300-6:2023
+  type: JIS
+  primary: true
+docnumber: C9300
+date:
+- type: issued
+  value: '2023-01-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 非専門家が使用するために設計した，アーク溶接及びプラズマ切断電源，並びに補助装置 の，安全要求事項，性能要求事項及び電磁両立性（ＥＭＣ）要求事項について規定。これらの溶接装置は，単相の定格入力電圧が１００　Ｖの場合は入力電流２０　Ａ以下，定格入力電圧が２００　Ｖの場合は入力電流３０　Ａ以下の商用低電圧配電系統に接続する装置，及び出力７．５　ｋＶＡ以下のエンジン駆動式溶接電源を対象としている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本溶接協会"
+ics:
+- code: 25.160.30
+  text: Welding equipment
+structuredidentifier:
+  project_number: C9300
+  type: JIS
+ext:
+  schema-version: v0.0.1

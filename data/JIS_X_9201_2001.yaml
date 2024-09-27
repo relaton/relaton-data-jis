@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISX9201-2001
+title:
+- content: 高精細カラーディジタル標準画像（ＣＭＹＫ／ＳＣＩＤ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Graphic technology -- Prepress digital data exchange -- CMYK standard colour
+    image data (CMYK/SCID)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9201%3A2001
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09201_000_000_2001_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 9201:2001
+  type: JIS
+  primary: true
+docnumber: X9201
+date:
+- type: issued
+  value: '2001-09-30'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 符号化，変換，圧縮及び復元を含む画像処理，フィルム記録又は印刷の過程における画質変化を評価するための一群の標準カラー画像を表現する数値データを規定。標準カラー画像は，８ビットＣＭＹＫのディジタルデータに符号化されている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+- code: 37.100.99
+  text: Other standards related to graphic technology
+structuredidentifier:
+  project_number: X9201
+  type: JIS
+ext:
+  schema-version: v0.0.1

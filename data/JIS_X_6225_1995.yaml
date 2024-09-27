@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISX6225-1995
+title:
+- content: ９０ｍｍフレキシブルディスクカートリッジのトラックフォーマット―１５　９１６磁束反転／ｒａｄ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Track format for 90 mm flexible disk cartridges -- 15 916 ftprad
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6225%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS X 6225:1995
+  type: JIS
+  primary: true
+docnumber: X6225
+date:
+- type: issued
+  value: '1995-05-31'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＪＩＳ　Ｘ　６２２３に規定する磁束反転密度１５９１６磁束反転／ｒａｄ，トラック密度５．３トラック／ｍｍのフレキシブルディスクカートリッジに情報を記録する際のトラックフォーマットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 35.220.21
+  text: Magnetic disks
+structuredidentifier:
+  project_number: X6225
+  type: JIS
+ext:
+  schema-version: v0.0.1

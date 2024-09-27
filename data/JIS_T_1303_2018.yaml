@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JIST1303-2018
+title:
+- content: 分べん（娩）監視装置
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Fetal monitors
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1303%3A2018
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_01303_000_000_2018_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_01303_000_000_2018_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS T 1303:2018
+  type: JIS
+  primary: true
+docnumber: T1303
+date:
+- type: issued
+  value: '2018-10-01'
+- type: confirmed
+  value: '2023-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 胎児情報及び妊産婦情報を得る目的で超音波ドプラ法による胎児心拍数曲線と外測法による陣痛曲線とを連続的に記録紙上に記録できる分べん（娩）監視装置について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+structuredidentifier:
+  project_number: T1303
+  type: JIS
+ext:
+  schema-version: v0.0.1

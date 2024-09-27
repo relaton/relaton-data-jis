@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISB1011-1987
+title:
+- content: センタ穴
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Centre holes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1011%3A1987
+  type: src
+type: standard
+docid:
+- id: JIS B 1011:1987
+  type: JIS
+  primary: true
+docnumber: B1011
+date:
+- type: issued
+  value: '1987-10-31'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本機械学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本機械学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 機械加工，測定及び検査に用いるセンタ穴について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本機械学会
+ics:
+- code: 21.040.01
+  text: Screw threads in general
+structuredidentifier:
+  project_number: B1011
+  type: JIS
+ext:
+  schema-version: v0.0.1

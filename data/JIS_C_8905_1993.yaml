@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISC8905-1993
+title:
+- content: 独立形太陽光発電システム通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for stand-alone photovoltaic power generating system
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8905%3A1993
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08905_000_000_1993_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8905:1993
+  type: JIS
+  primary: true
+docnumber: C8905
+date:
+- type: issued
+  value: '1993-08-31'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: システム出力１００Ｗ以上の場合：ａ）標準太陽電池アレイ開放電圧　７５０Ｖ以下　ｂ）システム出力電圧　直流７５０Ｖ以下，又は交流６００Ｖ以下とシステム出力が１０Ｗ以上で，１００Ｗ未満の場合：ａ）標準太陽電池アレイ開放　３０Ｖ以上　７５０Ｖ以下　ｂ）システム出力電圧：直流３００Ｖ以上　７５０Ｖ以下，又は交流３０Ｖ以上　６００Ｖ以下に該当する独立形太陽光発電システムについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.160'
+  text: Solar energy engineering
+structuredidentifier:
+  project_number: C8905
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISB8940-1978
+title:
+- content: 立体自動倉庫システム設計通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General design rules for automatic highrised warehouse
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8940%3A1978
+  type: src
+type: standard
+docid:
+- id: JIS B 8940:1978
+  type: JIS
+  primary: true
+docnumber: B8940
+date:
+- type: issued
+  value: '1978-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本産業機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本産業機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 鉄骨構造のラック及びスタッカクレーンで構成され，包装単位で取り扱う貨物のうち，パレットを包装単位とした貨物を取り扱う立体自動倉庫について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本産業機械工業会
+ics:
+- code: '53.080'
+  text: Storage equipment
+structuredidentifier:
+  project_number: B8940
+  type: JIS
+ext:
+  schema-version: v0.0.1

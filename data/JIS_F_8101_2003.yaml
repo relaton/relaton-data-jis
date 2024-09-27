@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISF8101-2003
+title:
+- content: 船用鉛蓄電池
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Lead-acid marine batteries
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8101%3A2003
+  type: src
+type: standard
+docid:
+- id: JIS F 8101:2003
+  type: JIS
+  primary: true
+docnumber: F8101
+date:
+- type: issued
+  value: '2003-10-20'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電池工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電池工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 船で，通信，灯火，非常用，エンジン始動用などの電源に使用する鉛蓄電池について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電池工業会
+ics:
+- code: 29.220.20
+  text: Acid secondary cells and batteries
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+structuredidentifier:
+  project_number: F8101
+  type: JIS
+ext:
+  schema-version: v0.0.1

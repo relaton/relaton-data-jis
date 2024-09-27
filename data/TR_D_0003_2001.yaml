@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: TRD0003-2001
+title:
+- content: ＩＴＳ車載システムアーキテクチャ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: ITS On-board system architecture
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+D+0003%3A2001
+  type: src
+type: standard
+docid:
+- id: TR D 0003:2001
+  type: JIS
+  primary: true
+docnumber: D0003
+date:
+- type: issued
+  value: '2001-12-01'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 多くのＩＴＳ関係者が参照することによる関係システム間の連携及び整合を目指すためのシステムアーキテクチャを記述，規定したものであり，ＩＴＳサービスを実現する車載システムの設計，開発などに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 03.220.20
+  text: Road transport
+- code: 35.240.60
+  text: IT applications in transport
+structuredidentifier:
+  project_number: D0003
+  type: JIS
+ext:
+  schema-version: v0.0.1

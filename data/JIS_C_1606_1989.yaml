@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC1606-1989
+title:
+- content: シース測温抵抗体
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Metal sheathed resistance thermometer sensors
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1606%3A1989
+  type: src
+type: standard
+docid:
+- id: JIS C 1606:1989
+  type: JIS
+  primary: true
+docnumber: C1606
+date:
+- type: issued
+  value: '1989-02-15'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 温度測定に使用するシース白金測温抵抗体で，０℃における抵抗値が１００Ωのものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 17.200.10
+  text: Heat. Calorimetry
+structuredidentifier:
+  project_number: C1606
+  type: JIS
+ext:
+  schema-version: v0.0.1

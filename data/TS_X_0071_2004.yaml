@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: TSX0071-2004
+title:
+- content: 多目的インターネットメール拡張（ＭＩＭＥ）　第３部：非ＡＳＣＩＩテキストへのメッセージヘッダ拡張
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Multipurpose Internet Mail Extensions (MIME) Part Three: Message Header
+    Extensions for Non-ASCII Text'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+X+0071%3A2004
+  type: src
+type: standard
+docid:
+- id: TS X 0071:2004
+  type: JIS
+  primary: true
+docnumber: X0071
+date:
+- type: issued
+  value: '2004-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 多目的インターネットメール拡張又はＭＩＭＥと総称され，ＵＳ－ＡＳＣＩＩ以外の文字集合でのテキストのメッセージ本体；非テキストのメッセージ本体のための異なるフォーマットの拡張集合；マルチパートメッセージ本体；ＵＳ－ＡＳＣＩＩ以外の文字集合でのテキストのヘッダ情報を可能とするために，メッセージのフォーマットを再定義する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-specification
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.110'
+  text: Networking
+structuredidentifier:
+  project_number: X0071
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISC3701-1994
+title:
+- content: 特別高圧架線金具
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Casting clamps for power line use
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3701%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03701_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 3701:1994
+  type: JIS
+  primary: true
+docnumber: C3701
+date:
+- type: issued
+  value: '1994-02-28'
+contributor:
+- organization:
+    name:
+    - content: 電気事業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 電気事業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 特別高圧架空電線路に使用する特別高圧架線金具のうち，ボルト締付形クランプについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 電気事業連合会
+ics:
+- code: 29.240.20
+  text: Power transmission and distribution lines
+structuredidentifier:
+  project_number: C3701
+  type: JIS
+ext:
+  schema-version: v0.0.1

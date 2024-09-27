@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JIST5901-2005
+title:
+- content: 歯科用ハンドピースの寸法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Dimension for dental handpiece
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+5901%3A2005
+  type: src
+type: standard
+docid:
+- id: JIS T 5901:2005
+  type: JIS
+  primary: true
+docnumber: T5901
+date:
+- type: issued
+  value: '2005-03-25'
+- type: confirmed
+  value: '2019-10-25'
+contributor:
+- organization:
+    name:
+    - content: 日本歯科器械工業協同組合
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本歯科器械工業協同組合
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 歯科用のストレートハンドピース及びギアードアングルハンドピースの寸法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本歯科器械工業協同組合
+ics:
+- code: 11.060.20
+  text: Dental equipment
+structuredidentifier:
+  project_number: T5901
+  type: JIS
+ext:
+  schema-version: v0.0.1

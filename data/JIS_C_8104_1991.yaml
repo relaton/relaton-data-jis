@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC8104-1991
+title:
+- content: 携帯電灯
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Hand lanterns
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8104%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS C 8104:1991
+  type: JIS
+  primary: true
+docnumber: C8104
+date:
+- type: issued
+  value: '1991-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電池工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電池工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 懐中電灯・強力ライト・自動車用非常信号灯・常備灯・ポケットライトなどの乾電池式及び充電式携帯電灯について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電池工業会
+ics:
+- code: 29.140.99
+  text: Other standards related to lamps
+structuredidentifier:
+  project_number: C8104
+  type: JIS
+ext:
+  schema-version: v0.0.1

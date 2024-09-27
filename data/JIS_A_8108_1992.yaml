@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISA8108-1992
+title:
+- content: 建設機械用稼働記録計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Working recorders for construction machinery
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8108%3A1992
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_08108_000_000_1992_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS A 8108:1992
+  type: JIS
+  primary: true
+docnumber: A8108
+date:
+- type: issued
+  value: '1992-11-30'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本建設機械施工協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本建設機械施工協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 建設機械の実稼働時間及び実作業に連動するスイッチの開閉を自動的に記録するとともに，作業内容などの区分，手動スイッチの開閉などが記録できる建設機械用稼動記録計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本建設機械施工協会
+ics:
+- code: '91.220'
+  text: Construction equipment
+structuredidentifier:
+  project_number: A8108
+  type: JIS
+ext:
+  schema-version: v0.0.1

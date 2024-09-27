@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISB0191-1986
+title:
+- content: 日本語ワードプロセッサ用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms relating to word processor for Japanese characters
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0191%3A1986
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00191_000_000_1986_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 0191:1986
+  type: JIS
+  primary: true
+docnumber: B0191
+date:
+- type: issued
+  value: '1986-06-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 日本語ワードプロセッサに関して用いる用語について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　ビジネス機械・情報システム産業協会
+ics:
+- code: 01.040.35
+  text: Information technology (Vocabularies)
+- code: '35.260'
+  text: Office machines
+structuredidentifier:
+  project_number: B0191
+  type: JIS
+ext:
+  schema-version: v0.0.1

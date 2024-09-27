@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC6007-1969
+title:
+- content: 電子機器の環境分類
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Environmental requirements for electronic equipments
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6007%3A1969
+  type: src
+type: standard
+docid:
+- id: JIS C 6007:1969
+  type: JIS
+  primary: true
+docnumber: C6007
+date:
+- type: issued
+  value: '1977-08-25'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器が遭遇する環境条件の分類について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子機械工業会
+ics:
+- code: '31.020'
+  text: Electronic components in general
+structuredidentifier:
+  project_number: C6007
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC9626-1992
+title:
+- content: 携帯電気丸のこ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Portable electric circular saws
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9626%3A1992
+  type: src
+type: standard
+docid:
+- id: JIS C 9626:1992
+  type: JIS
+  primary: true
+docnumber: C9626
+date:
+- type: issued
+  value: '1992-03-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電動機内蔵形の定格周波数５０Ｈｚ／６０Ｈｚ共用の単相交流で，手に持って使用する木工用携帯電気丸のこについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: 25.140.20
+  text: Electric tools
+structuredidentifier:
+  project_number: C9626
+  type: JIS
+ext:
+  schema-version: v0.0.1

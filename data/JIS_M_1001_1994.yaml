@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISM1001-1994
+title:
+- content: 鉱量計算基準
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Rules for estimation of ore reserves
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+1001%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_m_01001_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS M 1001:1994
+  type: JIS
+  primary: true
+docnumber: M1001
+date:
+- type: issued
+  value: '1994-09-30'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 日本鉱業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本鉱業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 石炭，石油，天然ガス及び石灰石以外の鉱床の鉱量計算について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本鉱業協会
+ics:
+- code: '73.020'
+  text: Mining and quarrying
+structuredidentifier:
+  project_number: M1001
+  type: JIS
+ext:
+  schema-version: v0.0.1

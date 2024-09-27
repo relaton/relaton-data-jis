@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISF8011-1990
+title:
+- content: 船用電気図記号（動力関係）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Graphical symbols for electrical apparatus (power) for marine engineering
+    drawings
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8011%3A1990
+  type: src
+type: standard
+docid:
+- id: JIS F 8011:1990
+  type: JIS
+  primary: true
+docnumber: F8011
+date:
+- type: issued
+  value: '1990-03-31'
+contributor:
+- organization:
+    name:
+    - content: 財団法人　日本船舶標準協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 財団法人　日本船舶標準協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 船内における電気機器の取付け位置，相互の系統などを示す図面に使用する図記号のうち，動力関係について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 財団法人　日本船舶標準協会
+ics:
+- code: 01.080.20
+  text: Graphical symbols for use on specific equipment
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+structuredidentifier:
+  project_number: F8011
+  type: JIS
+ext:
+  schema-version: v0.0.1

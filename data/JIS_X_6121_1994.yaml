@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX6121-1994
+title:
+- content: 情報交換用磁気カセットテープ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Magnetic tape cassette for information interchange
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6121%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS X 6121:1994
+  type: JIS
+  primary: true
+docnumber: X6121
+date:
+- type: issued
+  value: '1994-04-30'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 計数形電子計算機及び類似の機械相互間において交換する情報の記憶媒体として用いる３．８１ｍｍ幅磁気カセットテープについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 35.220.23
+  text: Cassettes and cartridges for magnetic tapes
+structuredidentifier:
+  project_number: X6121
+  type: JIS
+ext:
+  schema-version: v0.0.1

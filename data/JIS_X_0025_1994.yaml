@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX0025-1994
+title:
+- content: 情報処理用語―ローカルエリアネットワーク
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms used in information processing -- Local area networks
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0025%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS X 0025:1994
+  type: JIS
+  primary: true
+docnumber: X0025
+date:
+- type: issued
+  value: '1994-03-31'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 情報処理におけるローカルエリアネットワークに関する用語，定義及び対応英語について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: 01.040.35
+  text: Information technology (Vocabularies)
+- code: '35.110'
+  text: Networking
+structuredidentifier:
+  project_number: X0025
+  type: JIS
+ext:
+  schema-version: v0.0.1

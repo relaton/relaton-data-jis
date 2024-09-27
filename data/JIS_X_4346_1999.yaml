@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISX4346-1999
+title:
+- content: 情報処理技術―マルチメディア・ハイパメディア情報符号化―第６部：拡張対話型応用
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Coding of multimedia and hypermedia information
+    -- Part 6: Support for enhanced interactive applications'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4346%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04346_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4346:1999
+  type: JIS
+  primary: true
+docnumber: X4346
+date:
+- type: issued
+  value: '1999-12-31'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 拡張対話型マルチメディア応用を交換する際の最終形式符号化表現及び意味を規定。応用は，計算機能（データ処理），拡張された通信機能（サーバ，ローカルデバイスなどの外部環境とのやりとり）などを総合することによって，ＪＩＳ　Ｘ　４３４５によって実現される応用を拡張する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X4346
+  type: JIS
+ext:
+  schema-version: v0.0.1

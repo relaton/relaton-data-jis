@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISF0076-2004
+title:
+- content: 船舶システムの安全設計評価に関する指針
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Shipbuilding -- Guidelines of safety design and assessment for ship systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0076%3A2004
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_00076_000_000_2004_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS F 0076:2004
+  type: JIS
+  primary: true
+docnumber: F0076
+date:
+- type: issued
+  value: '2004-12-20'
+- type: confirmed
+  value: '2020-10-26'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ５．に示す船舶運航のライフサイクルを通した継続的な安全上の評価を行うために６．１に示す船舶システム，又はそれを構成するサブシステムの設計，製造，運用及び保守管理に関する安全性を評価する一般的な方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: '13.100'
+  text: Occupational safety. Industrial hygiene
+- code: '47.020'
+  text: Shipbuilding and marine structures in general
+structuredidentifier:
+  project_number: F0076
+  type: JIS
+ext:
+  schema-version: v0.0.1

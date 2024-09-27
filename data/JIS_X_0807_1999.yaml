@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISX0807-1999
+title:
+- content: 電子文献の引用法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Bibliographic references of electronic documents or parts there of
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0807%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00807_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0807:1999
+  type: JIS
+  primary: true
+docnumber: X0807
+date:
+- type: issued
+  value: '1999-11-30'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 電子文献を引用する場合の構成要素について規定。引用の記載順序を規定し，引用の対象である電子文献から得た情報の記録及びその表記を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 01.140.20
+  text: Information sciences
+structuredidentifier:
+  project_number: X0807
+  type: JIS
+ext:
+  schema-version: v0.0.1

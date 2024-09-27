@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISZ6002-1979
+title:
+- content: 文書用マイクロフィッシュのヘッダー
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Headers for microfiche of monographs and serials
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+6002%3A1979
+  type: src
+type: standard
+docid:
+- id: JIS Z 6002:1979
+  type: JIS
+  primary: true
+docnumber: Z6002
+date:
+- type: issued
+  value: '1979-11-01'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報科学技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報科学技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 文書などの情報の配布及び交換を目的として使用する６０フレームフォーマット（６０Ｆ）及び９８フレームフォーマット（９８Ｆ）のＡ６判マイクロフィッシュのヘッダー，書誌情報フレーム及び完結表示フレームについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報科学技術協会
+ics:
+- code: '37.080'
+  text: Document imaging applications
+structuredidentifier:
+  project_number: Z6002
+  type: JIS
+ext:
+  schema-version: v0.0.1

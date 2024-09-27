@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISC5750-4-3-2021
+title:
+- content: ディペンダビリティマネジメント―第４－３部：システム信頼性のための解析技法―故障モード・影響解析（ＦＭＥＡ及びＦＭＥＣＡ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Dependability management -- Part 4-3: Analysis techniques for system reliability
+    -- Failure modes and effects analysis (FMEA and FMECA)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5750-4-3%3A2021
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05750_004_003_2021_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 5750-4-3:2021
+  type: JIS
+  primary: true
+docnumber: C5750
+date:
+- type: issued
+  value: '2021-08-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 故障モード・影響解析（ＦＭＥＡ）を，故障モード・影響及び致命度解析（ＦＭＥＣＡ）も含めて，どのように計画，実施，文書化及び維持するかについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 03.120.01
+  text: Quality in general
+- code: 03.120.30
+  text: Application of statistical methods
+- code: '21.020'
+  text: Characteristics and design of machines, apparatus, equipment
+structuredidentifier:
+  project_number: C5750
+  type: JIS
+ext:
+  schema-version: v0.0.1

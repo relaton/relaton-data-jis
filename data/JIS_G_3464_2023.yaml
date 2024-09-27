@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISG3464-2023
+title:
+- content: 低温熱交換器用鋼管
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Steel heat exchanger tubes for low temperature service
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3464%3A2023
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03464_000_000_2023_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03464_000_000_2023_e_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS G 3464:2023
+  type: JIS
+  primary: true
+docnumber: G3464
+date:
+- type: issued
+  value: '2023-12-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 氷点以下の特に低い温度で管の内外で熱の授受のために使用する鋼管，例えば，熱交換器管，コンデンサ管などについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄鋼連盟
+ics:
+- code: 27.060.30
+  text: Boilers and heat exchangers
+- code: 77.140.10
+  text: Heat-treatable steels
+- code: 77.140.75
+  text: Steel pipes and tubes for specific use
+structuredidentifier:
+  project_number: G3464
+  type: JIS
+ext:
+  schema-version: v0.0.1

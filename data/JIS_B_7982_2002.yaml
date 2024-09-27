@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISB7982-2002
+title:
+- content: 排ガス中の窒素酸化物自動計測システム及び自動計測器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Automated measuring systems and analyzers for nitrogen oxides in flue gas
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7982%3A2002
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07982_000_000_2002_j_ed10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07982_000_000_2002_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 7982:2002
+  type: JIS
+  primary: true
+docnumber: B7982
+date:
+- type: issued
+  value: '2002-04-30'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 固定発生源の排ガス中の一酸化窒素，二酸化窒素又は窒素酸化物濃度を連続的に測定するための自動計測システム及び自動計測器のうち，試料ガス吸引採取方式（Ｅｘｔｒａｃｔｉｖｅ　ｍｅｔｈｏｄ）のものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 13.040.40
+  text: Stationary source emissions
+- code: 71.040.40
+  text: Chemical analysis
+structuredidentifier:
+  project_number: B7982
+  type: JIS
+ext:
+  schema-version: v0.0.1

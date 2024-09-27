@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISX9102-1981
+title:
+- content: ＰＯＳシステム用クレジットカードの光学式文字認識のための印字仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Printing specifications for optical character recognition of POS systems-credit
+    cards
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9102%3A1981
+  type: src
+type: standard
+docid:
+- id: JIS X 9102:1981
+  type: JIS
+  primary: true
+docnumber: X9102
+date:
+- type: issued
+  value: '1981-12-28'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　流通システム開発センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　流通システム開発センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＰＯＳ（Ｐｏｉｎｔ　ｏｆ　Ｓａｌｅ）システムに使用する光学式文字認識用クレジットカードの形状・寸法，ＯＣＲ文字及び印字仕様について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　流通システム開発センター
+ics:
+- code: '35.040'
+  text: Information coding
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
+structuredidentifier:
+  project_number: X9102
+  type: JIS
+ext:
+  schema-version: v0.0.1

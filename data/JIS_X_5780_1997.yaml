@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5780-1997
+title:
+- content: 開放型システム間相互接続　―　システム管理　―　利用計測機能
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Open Systems Interconnection -- Systems Management:
+    Usage metering function for accounting purposes'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5780%3A1997
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05780_000_000_1997_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5780:1997
+  type: JIS
+  primary: true
+docnumber: X5780
+date:
+- type: issued
+  value: '1997-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: システム管理機能を定義し，応用プロセスがＪＩＳ　Ｘ　５００６で定義されたシステム管理を目的として相互動作を行うために，集中又は分散する管理環境において使用することができるようにする。利用計測機能を定義しており，サービス定義及びはん（汎）用定義を含んでいる。この機能は，ＪＩＳ　Ｘ　５００３で規定された応用層に位置し，ＪＩＳ　Ｘ　５２７０が提供するモデルに従って定義。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5780
+  type: JIS
+ext:
+  schema-version: v0.0.1

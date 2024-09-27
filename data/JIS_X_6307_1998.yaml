@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISX6307-1998
+title:
+- content: 外部端子付きＩＣカード　―　共通データ要素
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Identification cards -- Integrated circuit(s) cards with contacts -- Part
+    6: Interindustry data elements'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6307%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS X 6307:1998
+  type: JIS
+  primary: true
+docnumber: X6307
+date:
+- type: issued
+  value: '1998-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本ＩＣカードシステム利用促進協議会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本ＩＣカードシステム利用促進協議会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＩＣカードを基盤として共通に交換される，合成データ要素を含む各種データ要素を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本ＩＣカードシステム利用促進協議会
+ics:
+- code: 35.240.15
+  text: Identification cards. Chip cards. Biometrics
+structuredidentifier:
+  project_number: X6307
+  type: JIS
+ext:
+  schema-version: v0.0.1

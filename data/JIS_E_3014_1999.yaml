@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISE3014-1999
+title:
+- content: 鉄道信号保安部品―振動試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Parts for railway signal -- Vibration test methods
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+3014%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS E 3014:1999
+  type: JIS
+  primary: true
+docnumber: E3014
+date:
+- type: issued
+  value: '1999-09-30'
+- type: confirmed
+  value: '2019-11-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 鉄道の信号保安設備の信号機，リレー架，器具箱，動力転てつ機，レールなどに取り付ける機器及び部品について，振動台に取り付けて行う一般的な振動試験方法について規定。車両に搭載する信号保安部品には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄道電気技術協会
+ics:
+- code: '45.080'
+  text: Rails and railway components
+structuredidentifier:
+  project_number: E3014
+  type: JIS
+ext:
+  schema-version: v0.0.1

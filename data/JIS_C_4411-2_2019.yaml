@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.9
+id: JISC4411-2-2019
+title:
+- content: 無停電電源装置（ＵＰＳ）―第２部：電磁両立性（ＥＭＣ）要求事項
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Uninterruptible power systems (UPS) -- Part 2: Electromagnetic compatibility
+    (EMC) requirements'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4411-2%3A2019
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04411_002_000_2019_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 4411-2:2019
+  type: JIS
+  primary: true
+docnumber: C4411
+date:
+- type: issued
+  value: '2019-03-20'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 電磁両立性（ＥＭＣ）に関する形式試験の製品規格であり，可動形，据置形，組込形，プラグ接続形及び恒久接続形の無停電電源装置（ＵＰＳ）について規定。住宅環境，商業環境，軽工業環境又は工業環境のいずれかの低電圧配電網に接続する，エネルギー蓄積装置を含む，直流１　５００Ｖ又は交流１　０００Ｖ以下のポートに出力電圧を発生させるＵＰＳについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電機工業会"
+ics:
+- code: '29.200'
+  text: Rectifiers. Converters. Stabilized power supply
+- code: 29.240.01
+  text: Power transmission and distribution networks in general
+- code: 33.100.01
+  text: Electromagnetic compatibility in general
+structuredidentifier:
+  project_number: C4411
+  type: JIS
+ext:
+  schema-version: v0.0.1

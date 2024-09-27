@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISX3030-1994
+title:
+- content: 移植可能なオペレーティングシステムのインタフェース（ＰＯＳＩＸ）　第１部　応用プログラム向けのインタフェース（ＡＰＩ）［プログラム言語Ｃ］
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Portable Operating System Interface (POSIX)
+    -- Part 1: System Application Program Interface (API) (C Language)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3030%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03030_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 3030:1994
+  type: JIS
+  primary: true
+docnumber: X3030
+date:
+- type: issued
+  value: '1994-02-28'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 原始プログラム段階で移植性がある応用プログラムお作成を可能にするために，標準的なオペレーティングシステムのインタフェース及び環境を規定。読者として，応用プログラムの開発者及びシステムの実装者を想定している。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3030
+  type: JIS
+ext:
+  schema-version: v0.0.1

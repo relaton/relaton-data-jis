@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISA0150-1999
+title:
+- content: 建築製図通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Drawing office practice for architecture and building (General rules)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+0150%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS A 0150:1999
+  type: JIS
+  primary: true
+docnumber: A0150
+date:
+- type: issued
+  value: '1999-07-31'
+- type: confirmed
+  value: '2019-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本建築学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本建築学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 建築及び建築構成材の製図に，共通，かつ，基本的な事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本建築学会
+ics:
+- code: 01.100.30
+  text: Construction drawings
+structuredidentifier:
+  project_number: A0150
+  type: JIS
+ext:
+  schema-version: v0.0.1

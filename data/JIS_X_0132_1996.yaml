@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX0132-1996
+title:
+- content: ＣＡＳＥツールの評価及び選択のための指針
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Guideline for the evaluation and selection of
+    CASE tools
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0132%3A1996
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00132_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0132:1996
+  type: JIS
+  primary: true
+docnumber: X0132
+date:
+- type: issued
+  value: '1996-12-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ソフトウェア技術に関するライフサイクルの一部分，又はすべてにわたり，ＣＡＳＥツールの評価及び選択を扱う。ＣＡＳＥツールを評価し，幾つかの候補から最適なＣＡＳＥツールを選択するために適用されるプロセス及びアクティビティを規定。これらのプロセスは，はん（汎）用的であり，採用する組織は，その組織の必要性に見合うように，これらを修整しなければならない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X0132
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: TRC0012-1999
+title:
+- content: 電磁両立性　第２部：環境　第１節：環境の説明　―　一般電気供給系統における低周波伝導性の妨害及び信号の電磁環境
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Electromagnetic compatibility (EMC) Part 2: Environment Section 1: Description
+    of the environment -- Electromagnetic environment for low-frequency conducted
+    disturbances and signalling in public power supply systems'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0012%3A1999
+  type: src
+type: standard
+docid:
+- id: TR C 0012:1999
+  type: JIS
+  primary: true
+docnumber: C0012
+date:
+- type: issued
+  value: '2000-08-31'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 最高１０ｋＨｚまでの周波数範囲の伝導性の妨害を扱うが，電力線搬送信号システムについては最高周波数を拡張して扱う。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 33.100.01
+  text: Electromagnetic compatibility in general
+structuredidentifier:
+  project_number: C0012
+  type: JIS
+ext:
+  schema-version: v0.0.1

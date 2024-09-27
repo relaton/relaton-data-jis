@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISC3406-1993
+title:
+- content: 自動車用低圧電線
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Low-voltage cables for automobiles
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3406%3A1993
+  type: src
+type: standard
+docid:
+- id: JIS C 3406:1993
+  type: JIS
+  primary: true
+docnumber: C3406
+date:
+- type: issued
+  value: '1993-05-31'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 自動車に使用するビニル絶縁低圧電線について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　自動車技術会
+ics:
+- code: 29.060.10
+  text: Wires
+- code: 43.040.10
+  text: Electrical and electronic equipment
+structuredidentifier:
+  project_number: C3406
+  type: JIS
+ext:
+  schema-version: v0.0.1

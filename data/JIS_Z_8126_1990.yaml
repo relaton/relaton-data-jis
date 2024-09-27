@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISZ8126-1990
+title:
+- content: 真空用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Vacuum technology -- Vocabulary
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8126%3A1990
+  type: src
+type: standard
+docid:
+- id: JIS Z 8126:1990
+  type: JIS
+  primary: true
+docnumber: Z8126
+date:
+- type: issued
+  value: '1990-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本真空協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本真空協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 真空技術・真空工業に関する用語について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本真空協会
+ics:
+- code: 01.040.23
+  text: Fluid systems and components for general use (Vocabularies)
+- code: '23.160'
+  text: Vacuum technology
+structuredidentifier:
+  project_number: Z8126
+  type: JIS
+ext:
+  schema-version: v0.0.1

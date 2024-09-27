@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISX4051-2004
+title:
+- content: 日本語文書の組版方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Formatting rules for Japanese documents
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4051%3A2004
+  type: src
+type: standard
+docid:
+- id: JIS X 4051:2004
+  type: JIS
+  primary: true
+docnumber: X4051
+date:
+- type: issued
+  value: '2004-03-20'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＪＩＳ　Ｘ　０２０１，ＪＩＳ　Ｘ　０２０８，ＪＩＳ　Ｘ　０２１２，ＪＩＳ　Ｘ　０２１３及びＪＩＳ　Ｘ　０２２１－１に規定される図形文字を対象とする文字を基本として用いた日本語文書の行，版面及びページについての基本的な組版方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+- code: 37.100.01
+  text: Graphic technology in general
+structuredidentifier:
+  project_number: X4051
+  type: JIS
+ext:
+  schema-version: v0.0.1

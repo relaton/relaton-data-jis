@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISF9800-1994
+title:
+- content: 船用発電装置のパワーマネージメントシステム
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Power management system for marine generating plants
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+9800%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS F 9800:1994
+  type: JIS
+  primary: true
+docnumber: F9800
+date:
+- type: issued
+  value: '1994-08-31'
+- type: confirmed
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 機関区域の無人化に必要な設備がある船に，装備する発電装置に用いるいつ（溢）流制御，運転台数制御及び田井容量補機始動ブロック制御の各機能をもつパワーマネージメントシステムの仕様について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+structuredidentifier:
+  project_number: F9800
+  type: JIS
+ext:
+  schema-version: v0.0.1

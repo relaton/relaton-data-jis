@@ -1,0 +1,92 @@
+---
+schema-version: v1.2.9
+id: JISE5010-2015
+title:
+- content: 鉄道車両―交流避雷器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Rolling stock -- AC surge arresters
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5010%3A2015
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05010_000_000_2015_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS E 5010:2015
+  type: JIS
+  primary: true
+docnumber: E5010
+date:
+- type: issued
+  value: '2015-01-20'
+- type: confirmed
+  value: '2019-11-25'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 電車線標準電圧２０ｋＶ及び２５ｋＶ用の交流又は交直流電気車に搭載する磁器がい（碍）管などを絶縁容器に使用した交流避雷器について規定。避雷器は，酸化亜鉛素子を特性要素として使用した酸化亜鉛形（ギャップレス）避雷器に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本鉄道車輌工業会"
+ics:
+- code: 29.240.30
+  text: Control equipment for electric power systems
+- code: '45.040'
+  text: Materials and components for railway engineering
+structuredidentifier:
+  project_number: E5010
+  type: JIS
+ext:
+  schema-version: v0.0.1

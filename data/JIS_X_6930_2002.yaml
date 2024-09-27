@@ -1,0 +1,87 @@
+---
+schema-version: v1.2.9
+id: JISX6930-2002
+title:
+- content: 情報技術―事務機器―ハードコピー出力の画質属性測定―２値単色のテキスト及びグラフィック画像
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Office equipment -- Measurement of image quality
+    attributes for hardcopy output -- Binary monochrome text and graphic images
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6930%3A2002
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06930_000_000_2002_j_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6930:2002
+  type: JIS
+  primary: true
+docnumber: X6930
+date:
+- type: issued
+  value: '2002-08-31'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ハードコピー装置から出力された画像の品質を評価するために，装置から独立した画像属性，測定方法及び解析手順を規定。インパクトプリンタ，ノンインパクトプリンタ及び複写機による２値単色のテキスト並びにグラフィック画像からなる文書に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　ビジネス機械・情報システム産業協会"
+ics:
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
+- code: 37.100.10
+  text: Reproduction equipment
+structuredidentifier:
+  project_number: X6930
+  type: JIS
+ext:
+  schema-version: v0.0.1

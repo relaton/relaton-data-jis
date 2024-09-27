@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISC1400-21-2005
+title:
+- content: 風力発電システム―第２１部：系統連系風車の電力品質特性の測定及び評価
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Wind turbine generator systems -- Part 21: Measurement and assessment
+    of power quality characteristics of grid connected wind turbines'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1400-21%3A2005
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01400_021_000_2005_j_ed11_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 1400-21:2005
+  type: JIS
+  primary: true
+docnumber: C1400
+date:
+- type: issued
+  value: '2005-11-20'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 系統連系される風車の電力品質の特性を決定する量的な定義及び仕様；特性を定量化する測定手順；複数設置の場合を含め，特定サイトに設置されるとき，風車タイプに依存する電力品質の評価を含めて，電力品質要件の遵守評価するための手順　の事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.180'
+  text: Wind turbine energy systems
+structuredidentifier:
+  project_number: C1400
+  type: JIS
+ext:
+  schema-version: v0.0.1

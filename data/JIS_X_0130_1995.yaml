@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX0130-1995
+title:
+- content: 木構造図用データ交換言語ＤＸＬ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- DXL: Diagram exchange language for tree-structured
+    charts'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0130%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00130_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0130:1995
+  type: JIS
+  primary: true
+docnumber: X0130
+date:
+- type: issued
+  value: '1995-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 木構造図用のＣＡＳＥツールのデータ交換言語ＤＸＬについて，（１）ＤＸＬの表現方法　（２）ＤＸＬの構文規則　（３）規格に対する準拠性　ＤＸＬの適用対象としている木構造図の範囲は，ＪＩＳ　Ｘ　０１２８に準拠したプログラム構成要素をもつ図，及びそれを基にさらに詳細定義されたプログラム構成要素をもつ図とする。　の各事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X0130
+  type: JIS
+ext:
+  schema-version: v0.0.1

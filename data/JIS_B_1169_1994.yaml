@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISB1169-1994
+title:
+- content: アイナット
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Eyenuts
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1169%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS B 1169:1994
+  type: JIS
+  primary: true
+docnumber: B1169
+date:
+- type: issued
+  value: '1994-03-31'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本ねじ研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本ねじ研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 機械器具類のつり上げなど一般の荷役に用いるアイナットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本ねじ研究協会
+ics:
+- code: 21.060.20
+  text: Nuts
+structuredidentifier:
+  project_number: B1169
+  type: JIS
+ext:
+  schema-version: v0.0.1

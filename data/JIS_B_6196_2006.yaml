@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISB6196-2006
+title:
+- content: 工作機械―対角位置決め精度試験方法通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Test code for machine tools -- Determination of positioning accuracy on
+    body and face diagonals (Diagonal displacement tests)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6196%3A2006
+  type: src
+type: standard
+docid:
+- id: JIS B 6196:2006
+  type: JIS
+  primary: true
+docnumber: B6196
+date:
+- type: issued
+  value: '2006-08-20'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: X，Y及びZ軸の内の２軸又は３軸を同時制御することによって，数値制御工作機械の加工空間内の直方体の対角線に沿って行う位置決めの精度試験について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本工作機械工業会"
+ics:
+- code: 25.080.01
+  text: Machine tools in general
+structuredidentifier:
+  project_number: B6196
+  type: JIS
+ext:
+  schema-version: v0.0.1

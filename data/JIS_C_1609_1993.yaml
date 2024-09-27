@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC1609-1993
+title:
+- content: 照度計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Illuminance meters
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1609%3A1993
+  type: src
+type: standard
+docid:
+- id: JIS C 1609:1993
+  type: JIS
+  primary: true
+docnumber: C1609
+date:
+- type: issued
+  value: '1993-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　照明学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　照明学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 周囲温度－１０～４０℃で使用でき，昼光などの自然の光及び一般照明用光源（白熱電球，蛍光ランプ，ＨＩＤランプ）の光が平面に入射するときの照度（平面照度）を測定する光電素子を用いた指針形及びディジタル形照度計について規定。なお，水中照度計及びその他特殊用途の照度計についてもできるだけこの規格を準用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　照明学会
+ics:
+- code: 17.180.30
+  text: Optical measuring instruments
+structuredidentifier:
+  project_number: C1609
+  type: JIS
+ext:
+  schema-version: v0.0.1

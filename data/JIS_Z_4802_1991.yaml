@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISZ4802-1991
+title:
+- content: Ｘ線防護手袋
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: X-ray protective gloves
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4802%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS Z 4802:1991
+  type: JIS
+  primary: true
+docnumber: Z4802
+date:
+- type: issued
+  value: '1991-08-01'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　日本放射線技術学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　日本放射線技術学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 管電圧１５０ｋＶ以下のＸ線で診断を行う場合に，個人が体外から受ける迷Ｘ線の量を低減させるために着用するＸ線防護手袋について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　日本放射線技術学会
+ics:
+- code: '13.280'
+  text: Radiation protection
+structuredidentifier:
+  project_number: Z4802
+  type: JIS
+ext:
+  schema-version: v0.0.1

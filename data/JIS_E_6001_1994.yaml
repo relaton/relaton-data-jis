@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISE6001-1994
+title:
+- content: 直流電車―線番記号
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: DC electric railcar -- Wire code & symbol
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+6001%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS E 6001:1994
+  type: JIS
+  primary: true
+docnumber: E6001
+date:
+- type: issued
+  value: '1994-08-31'
+- type: confirmed
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道車輌工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道車輌工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 直流電車の電気回路の接続図に用いる線番記号について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄道車輌工業会
+ics:
+- code: 45.060.10
+  text: Tractive stock
+structuredidentifier:
+  project_number: E6001
+  type: JIS
+ext:
+  schema-version: v0.0.1

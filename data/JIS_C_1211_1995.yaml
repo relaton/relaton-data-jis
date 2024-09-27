@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISC1211-1995
+title:
+- content: 電力量計（単独計器）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Alternating-current watt-hour meters (for direct connection)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1211%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01211_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01211_000_000_1995_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 1211:1995
+  type: JIS
+  primary: true
+docnumber: C1211
+date:
+- type: issued
+  value: '1995-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 単相２線式，単相３線式，三相３線式及び三相４線式回路において，計器用変成器と組み合わせないで単独に使用する普通電力量計（ＩＩＩ形１素子単独計器及びＩＩＩ形多素子単独計器）について規定。なお，この規格で規定する事項のほかは，ＪＩＳ　Ｃ　１２１０による。また，付加装置を備えた計器では，その電力量計部分に対し，付加装置を付加した状態の下で，この規格を適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
+structuredidentifier:
+  project_number: C1211
+  type: JIS
+ext:
+  schema-version: v0.0.1

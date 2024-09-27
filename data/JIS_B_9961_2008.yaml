@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISB9961-2008
+title:
+- content: 機械類の安全性―安全関連の電気・電子・プログラマブル電子制御システムの機能安全
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Safety of machinery -- Functional safety of safety-related electrical,
+    electronic and programmable electronic control systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9961%3A2008
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09961_000_000_2008_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 9961:2008
+  type: JIS
+  primary: true
+docnumber: B9961
+date:
+- type: issued
+  value: '2008-06-01'
+- type: confirmed
+  value: '2013-11-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本機械工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本機械工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 機械の安全関連電気制御システムの設計，統合及び妥当性確認のための要求事項及び推奨事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本機械工業連合会
+ics:
+- code: '13.110'
+  text: Safety of machinery
+- code: 25.040.99
+  text: Other industrial automation systems
+- code: '29.020'
+  text: Electrical engineering in general
+structuredidentifier:
+  project_number: B9961
+  type: JIS
+ext:
+  schema-version: v0.0.1

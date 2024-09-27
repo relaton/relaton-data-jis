@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISS3016-1995
+title:
+- content: 歯ブラシ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Tooth brushes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3016%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS S 3016:1995
+  type: JIS
+  primary: true
+docnumber: S3016
+date:
+- type: issued
+  value: '1995-04-30'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 全日本ブラシ工業協同組合
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 全日本ブラシ工業協同組合
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 日常生活で用いる，植毛された歯ブラシについて規定。電動式のもの及び一時的に使用するものは除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 全日本ブラシ工業協同組合
+ics:
+- code: '97.170'
+  text: Body care equipment
+structuredidentifier:
+  project_number: S3016
+  type: JIS
+ext:
+  schema-version: v0.0.1

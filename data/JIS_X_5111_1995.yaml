@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISX5111-1995
+title:
+- content: ２６極コネクタのかん（嵌）合寸法及び接点番号割付け
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Telecommunications and information exchange between
+    systems -- 26-pole interface connector mateability dimensions and contact number
+    assignments
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5111%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05111_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5111:1995
+  type: JIS
+  primary: true
+docnumber: X5111
+date:
+- type: issued
+  value: '1995-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: データ端末装置（ＤＴＥ）とデータ回線終端末装置（ＤＣＥ）との間のインタフェースに用いる２６極コメクタを，かん（嵌）合寸法及び接点番号配置を含ねて規定。インタフェースの機能特性がＩＴＵ－Ｔ　勧告　Ｖ．２４の１００シリーズに，電気的特性がＩＴＵ－Ｔ勧告のＶ．１０．Ｖ．１１又はＶ．２８に適合する場合に適用することができる。並列データ伝送のモデムには適用することができない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.200'
+  text: Interface and interconnection equipment
+structuredidentifier:
+  project_number: X5111
+  type: JIS
+ext:
+  schema-version: v0.0.1

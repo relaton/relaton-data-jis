@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISF0419-2004
+title:
+- content: 船橋当直者警報及び転送システム
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Bridge navigational watch alarm and transfer system
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0419%3A2004
+  type: src
+type: standard
+docid:
+- id: JIS F 0419:2004
+  type: JIS
+  primary: true
+docnumber: F0419
+date:
+- type: issued
+  value: '2004-12-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 大洋航海時に通常の運転条件下で一人当直が可能な船橋において，船舶の安全運航のため当直者の状態を定時間隔で確認するシステムと，船橋当直者がその任務を遂行できなくなった場合，又は支援を必要とすると判断した場合に，船長及び他の航海士に船橋機器の警報及び警告を通報するシステムについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: '13.320'
+  text: Alarm and warning systems
+- code: 47.020.70
+  text: Navigation and control equipment
+structuredidentifier:
+  project_number: F0419
+  type: JIS
+ext:
+  schema-version: v0.0.1

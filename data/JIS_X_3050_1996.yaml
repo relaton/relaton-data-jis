@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX3050-1996
+title:
+- content: 可搬共通ツール環境ＰＣＴＥ　第１部：抽象仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Portable Common Tool Environment (PCTE) -- Part
+    1: Abstract specification'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3050%3A1996
+  type: src
+type: standard
+docid:
+- id: JIS X 3050:1996
+  type: JIS
+  primary: true
+docnumber: X3050
+date:
+- type: issued
+  value: '1996-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＰＣＴＥを抽象的に，すなわちプログラミング言語に依存しない用語で規定。この規格に適合する実装すべてが満たすべきインタフェースを，抽象的な操作仕様の集合として規定。加えてそのパラメタ及び結果の型も規定。この抽象仕様は，複数の言語結合（ｂｉｎｄｉｎｇ）標準仕様，すなわち標準のプログラミング言語でそのインタフェースを表現したものによって具体化される。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3050
+  type: JIS
+ext:
+  schema-version: v0.0.1

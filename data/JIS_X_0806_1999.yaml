@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISX0806-1999
+title:
+- content: 情報検索（Ｚ３９．５０）応用サービス定義及びプロトコル仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information and documentation -- Information retrieval (Z39.50) -- Application
+    service definition and protocol specification
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0806%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00806_000_000_1999_j_pr11_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0806:1999
+  type: JIS
+  primary: true
+docnumber: X0806
+date:
+- type: issued
+  value: '1999-04-30'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 情報検索応用サービスを示し，情報検索応用のプロトコルを規定。サービス定義は，応用の中で実現されるサービスを示し,そのサービスは，Ｚ３９．５０プロトコルの中で順次仕様化される。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X0806
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.9
+id: JISX3013-2001
+title:
+- content: プログラム言語Ｐｒｏｌｏｇ―第１部：基本部
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Programming languages -- Prolog -- Part 1: General
+    core'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3013%3A2001
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03013_000_000_2001_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 3013:2001
+  type: JIS
+  primary: true
+docnumber: X3013
+date:
+- type: issued
+  value: '2001-05-31'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ａ）Ｐｒｏｌｏｇテキストの表現　ｂ）Ｐｒｏｌｏｇ言語の構文及び制約　ｃ）Ｐｒｏｌｏｇテキストを解釈するための意味規則　ｄ）Ｐｒｏｌｏｇが処理する入力データの表現　ｅ）Ｐｒｏｌｏｇが生成する出力の表現　ｆ）適合Ｐｒｏｌｏｇ処理系に対する制約及び限界の事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3013
+  type: JIS
+ext:
+  schema-version: v0.0.1

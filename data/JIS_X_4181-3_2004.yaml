@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISX4181-3-2004
+title:
+- content: メタデータ登録簿（ＭＤＲ）－第３部：登録簿メタモデル及び基本属性
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Metadata registries (MDR) -- Part 3: Registry
+    metamodel and basic attributes'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4181-3%3A2004
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04181_003_000_2004_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4181-3:2004
+  type: JIS
+  primary: true
+docnumber: X4181
+date:
+- type: issued
+  value: '2004-10-20'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: メタデータ登録簿（Ｍｅｔａｄａｔａ　Ｒｅｇｉｓｔｒｙ）の構造について規定。メタデータ項目を記述するのに必要な基本属性及び完備したメタデータ登録簿が適合していない状況で使用してもよい基本属性を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X4181
+  type: JIS
+ext:
+  schema-version: v0.0.1

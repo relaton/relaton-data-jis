@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISB6194-1997
+title:
+- content: 工作機械　―　数値制御による円運動精度試験方法通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Machine tool -- Test code for circular movement of numerically controlled
+    machine tools
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6194%3A1997
+  type: src
+type: standard
+docid:
+- id: JIS B 6194:1997
+  type: JIS
+  primary: true
+docnumber: B6194
+date:
+- type: issued
+  value: '1997-06-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本工作機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 数値制御工作機械の二つの直進運動軸を同時に制御して円運動させたときの精度試験方法及び評価方法について規定。規定する試験は，ＪＩＳ　Ｂ　６１９１に規定する測定器又は精度がそれと同等以上と認められる測定器を使用して行う。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本工作機械工業会
+ics:
+- code: 25.040.20
+  text: Numerically controlled machines
+structuredidentifier:
+  project_number: B6194
+  type: JIS
+ext:
+  schema-version: v0.0.1

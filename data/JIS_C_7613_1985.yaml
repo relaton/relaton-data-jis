@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISC7613-1985
+title:
+- content: 測光標準用電球の測光方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Photometric measurements on incandescent lamps used for photometric standards
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7613%3A1985
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_07613_000_000_1985_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 7613:1985
+  type: JIS
+  primary: true
+docnumber: C7613
+date:
+- type: issued
+  value: '1985-11-20'
+- type: confirmed
+  value: '2006-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　照明学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　照明学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 一般の電球の光度，全光束又は分布温度の試験に標準として使用するための測光標準用電球の光度，全光束又は分布温度を，それぞれ光度，全光束又は分布温度が既知の電球と比較して測定する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　照明学会
+ics:
+- code: 29.140.01
+  text: Lamps in general
+structuredidentifier:
+  project_number: C7613
+  type: JIS
+ext:
+  schema-version: v0.0.1

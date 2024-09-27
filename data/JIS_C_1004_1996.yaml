@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC1004-1996
+title:
+- content: 電気測定器の安全性
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Safety requirements for electrical measurement equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1004%3A1996
+  type: src
+type: standard
+docid:
+- id: JIS C 1004:1996
+  type: JIS
+  primary: true
+docnumber: C1004
+date:
+- type: issued
+  value: '1996-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: １．４の環境条件下で使用する専門家用，産業プロセス及び教育用の，ａ）電気的測定及び試験機器；ｂ）研究室用電気機器；ｃ）研究室用電気機器と共に用いる附属品　で定義される機器及びコンピュータデバイスを含む電気機器に対する一般的安全性要求事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
+structuredidentifier:
+  project_number: C1004
+  type: JIS
+ext:
+  schema-version: v0.0.1

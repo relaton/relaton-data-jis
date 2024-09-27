@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC8954-2006
+title:
+- content: 太陽電池アレイ用電気回路設計標準
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Design guide on electrical circuits for photovoltaic arrays
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8954%3A2006
+  type: src
+type: standard
+docid:
+- id: JIS C 8954:2006
+  type: JIS
+  primary: true
+docnumber: C8954
+date:
+- type: issued
+  value: '2006-02-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 地上又は構造物に設置する系統連係用太陽電池アレイで，標準太陽電池アレイ開放電圧が３０Ｖ以上７５０Ｖ以下，かつ，標準太陽電池アレイ出力が１００Ｗ以上のアレイ電気回路の一般的な設計標準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.160'
+  text: Solar energy engineering
+structuredidentifier:
+  project_number: C8954
+  type: JIS
+ext:
+  schema-version: v0.0.1

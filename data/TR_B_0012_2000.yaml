@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: TRB0012-2000
+title:
+- content: 自律分散プロトコル仕様書
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Specifications for Autonomous Decentralized Protocol
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+B+0012%3A2000
+  type: src
+type: standard
+docid:
+- id: TR B 0012:2000
+  type: JIS
+  primary: true
+docnumber: B0012
+date:
+- type: issued
+  value: '2000-11-30'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 自律分散の概念に基づいた通信プロトコル（自律分散プロトコル）について，１）下位層がＴＣＰ，ＵＤＰ／ＩＰ，およびイーサネットであることを前提とした自律分散プロトコルについて規定。　２）プロトコルの機能を規定。　３）プロトコルデータ単位の符号化を規定。　４）この仕様に適合する実装のための機能要求条件を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 03.100.50
+  text: Production. Production management
+- code: 35.240.50
+  text: IT applications in industry
+structuredidentifier:
+  project_number: B0012
+  type: JIS
+ext:
+  schema-version: v0.0.1

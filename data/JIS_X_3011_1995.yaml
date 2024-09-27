@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX3011-1995
+title:
+- content: プログラム言語ＭＵＭＰＳ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Programming language MUMPS
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3011%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03011_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 3011:1995
+  type: JIS
+  primary: true
+docnumber: X3011
+date:
+- type: issued
+  value: '1995-04-30'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: プラグラム言語ＭＵＭＰＳを規定する二つの章からなる。１．では，第１　部全体を通じて使う静的構文に対する超言語を規定。２．では，言語の静的構文及び全体の意味を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3011
+  type: JIS
+ext:
+  schema-version: v0.0.1

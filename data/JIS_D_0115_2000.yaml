@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISD0115-2000
+title:
+- content: 電気自動車用語（充電器）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms relating to electric vehicles (Chargers)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+0115%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_00115_000_000_2000_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS D 0115:2000
+  type: JIS
+  primary: true
+docnumber: D0115
+date:
+- type: issued
+  value: '2000-07-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本自動車研究所
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本自動車研究所
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 電気自動車の充電器（ただし，車両，電動機・制御装置及び電池に関するものを除く。）に関する用語について規定。ＪＩＳ　Ｄ　０１０１に規定する産業車両は除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本自動車研究所
+ics:
+- code: '43.120'
+  text: Electric road vehicles
+structuredidentifier:
+  project_number: D0115
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX7011-1-1999
+title:
+- content: 行政，商業及び輸送のための電子データ交換（ＥＤＩＦＡＣＴ）―業務レベル構文規則―第１部：共通構文規則及び共通構文用ディレクトリ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Electronic data interchange for administration, commerce and transport
+    (EDIFACT) -- Application level syntax rules (Syntax version number:4) -- Part
+    1: Syntax rules common to all parts, together with syntax service directories
+    for each of the parts'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7011-1%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07011_001_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 7011-1:1999
+  type: JIS
+  primary: true
+docnumber: X7011
+date:
+- type: issued
+  value: '1999-06-30'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: コンピュータ業務システム相互間で交される，バッチ及び対話形メッセージ構成に共通な構文規則について規定。ＪＩＳ　Ｘ　７０１１群の全体に対する定義及び構文ディレクトリを含む。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本情報経済社会推進協会
+ics:
+- code: 35.240.60
+  text: IT applications in transport
+structuredidentifier:
+  project_number: X7011
+  type: JIS
+ext:
+  schema-version: v0.0.1

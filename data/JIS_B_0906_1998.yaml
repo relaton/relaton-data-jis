@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISB0906-1998
+title:
+- content: 機械振動―非回転部分における機械振動の測定と評価―一般的指針
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Mechanical vibration -- Evaluation of machine vibration by measurements
+    on non-rotating parts -- General guidelines
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0906%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00906_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00906_000_000_1998_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 0906:1998
+  type: JIS
+  primary: true
+docnumber: B0906
+date:
+- type: issued
+  value: '1998-02-28'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本機械学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本機械学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 完成した機械の非回転部分，また適用できる場合には非往復部分での振動の測定と評価に関する一般的な条件と手順を規定するもので，振動の大きさと振動変化によって表された一般的な評価基準として，運転監視と受入試験に適用。結合された他方の機械への影響を最小にし，かつ，機械の信頼性，安全性及び長期運転を確保することを目的。運転制限値の設定についても規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本機械学会
+ics:
+- code: '17.160'
+  text: Vibrations, shock and vibration measurements
+structuredidentifier:
+  project_number: B0906
+  type: JIS
+ext:
+  schema-version: v0.0.1

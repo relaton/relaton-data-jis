@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISZ8842-1998
+title:
+- content: 粉体計装機器記号
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Instrumentation symbols for powder processes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8842%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS Z 8842:1998
+  type: JIS
+  primary: true
+docnumber: Z8842
+date:
+- type: issued
+  value: '1998-03-31'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本粉体工業技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本粉体工業技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 粉体処理のエンジニアリングフローシートなどの図面において，粉体計装機器を表示するための記号について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本粉体工業技術協会
+ics:
+- code: 01.080.20
+  text: Graphical symbols for use on specific equipment
+- code: 71.120.99
+  text: Other equipment for the chemical industry
+structuredidentifier:
+  project_number: Z8842
+  type: JIS
+ext:
+  schema-version: v0.0.1

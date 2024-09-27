@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: TRB63074-2022
+title:
+- content: 機械類の安全性―安全関連制御システムの機能安全に関するセキュリティ側面
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Safety of machinery -- Security aspects related to functional safety of
+    safety-related control systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+B+63074%3A2022
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_tr_b_63074_000_000_2022_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: TR B 63074:2022
+  type: JIS
+  primary: true
+docnumber: B63074
+date:
+- type: issued
+  value: '2022-03-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本機械工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本機械工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 安全関連制御システム（ＳＣＳ）が実施し実現する機能安全に影響を与え，機械を安全に運転することを維持する能力の喪失につながる，セキュリティ脅威及びぜい弱性において，ＩＥＣ　６２４４３（規格群）の使用に関する指針を示す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本機械工業連合会
+ics:
+- code: '13.110'
+  text: Safety of machinery
+- code: '29.020'
+  text: Electrical engineering in general
+structuredidentifier:
+  project_number: B63074
+  type: JIS
+ext:
+  schema-version: v0.0.1

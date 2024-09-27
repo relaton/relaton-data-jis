@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISK1531-2003
+title:
+- content: メラミン
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Melamine
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+1531%3A2003
+  type: src
+type: standard
+docid:
+- id: JIS K 1531:2003
+  type: JIS
+  primary: true
+docnumber: K1531
+date:
+- type: issued
+  value: '2003-02-20'
+contributor:
+- organization:
+    name:
+    - content: メラミン工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: メラミン工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 工業用のメラミンについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: メラミン工業会
+ics:
+- code: 71.080.30
+  text: Organic nitrogen compounds
+- code: 83.080.10
+  text: Thermosetting materials
+structuredidentifier:
+  project_number: K1531
+  type: JIS
+ext:
+  schema-version: v0.0.1

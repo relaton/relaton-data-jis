@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISX5112-1999
+title:
+- content: ５０極コネクタのかん（嵌）合寸法及び接点番号割付け
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Telecommunications and information exchange between
+    systems -- 50-pole interface connector mateability dimensions and contact number
+    assignments
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5112%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS X 5112:1999
+  type: JIS
+  primary: true
+docnumber: X5112
+date:
+- type: issued
+  value: '1999-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: データ端末装置（ＤＴＥ）とデータ回線終端装置（ＤＣＥ）との間のインタフェースに用いる５０極コネクタを，かん（嵌）合寸法及び接点番号配置を含めて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.10
+  text: Physical layer
+structuredidentifier:
+  project_number: X5112
+  type: JIS
+ext:
+  schema-version: v0.0.1

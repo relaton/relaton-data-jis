@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC4525-1992
+title:
+- content: 光電スイッチ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Photoelectric switches
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4525%3A1992
+  type: src
+type: standard
+docid:
+- id: JIS C 4525:1992
+  type: JIS
+  primary: true
+docnumber: C4525
+date:
+- type: issued
+  value: '1992-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気制御機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電圧が交流２５０Ｖ以下（周波数が５０Ｈｚ又は６０Ｈｚ）又は直流６０Ｖ以下の工業用制御回路に使用する光電スイッチについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気制御機器工業会
+ics:
+- code: 31.220.20
+  text: Switches
+structuredidentifier:
+  project_number: C4525
+  type: JIS
+ext:
+  schema-version: v0.0.1

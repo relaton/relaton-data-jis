@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC6310-1986
+title:
+- content: 低周波治療器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Low frequency therapy equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6310%3A1986
+  type: src
+type: standard
+docid:
+- id: JIS C 6310:1986
+  type: JIS
+  primary: true
+docnumber: C6310
+date:
+- type: issued
+  value: '1986-02-01'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 皮膚の表面に電極を装着して，低周波電流を人体に通じて治療することを目的とする医用の低周波治療器について規定。内部電源形の治療器は除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 11.040.60
+  text: Therapy equipment
+structuredidentifier:
+  project_number: C6310
+  type: JIS
+ext:
+  schema-version: v0.0.1

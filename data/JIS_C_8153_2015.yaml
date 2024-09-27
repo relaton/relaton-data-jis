@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.9
+id: JISC8153-2015
+title:
+- content: ＬＥＤモジュール用制御装置―性能要求事項
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: DC or AC supplied electronic control gear for LED modules -- Performance
+    requirements
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8153%3A2015
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08153_000_000_2015_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8153:2015
+  type: JIS
+  primary: true
+docnumber: C8153
+date:
+- type: issued
+  value: '2015-10-20'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＪＩＳ　Ｃ　８１５４に規定する制御装置を含まないＬＥＤモジュールと組み合わせて動作させる定格入力電圧が直流２５０Ｖ以下，及び交流１　０００Ｖ以下の５０Ｈｚ又は６０Ｈｚの交流電源で使用し，出力電圧が直流又は電源周波数を含む交流であるＬＥＤモジュール用制御装置の性能要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本照明工業会"
+ics:
+- code: 29.140.99
+  text: Other standards related to lamps
+- code: 31.080.99
+  text: Other semiconductor devices
+structuredidentifier:
+  project_number: C8153
+  type: JIS
+ext:
+  schema-version: v0.0.1

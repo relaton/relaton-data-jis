@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.9
+id: JISC3666-2-2023
+title:
+- content: ケーブルの燃焼時発生ガス測定方法―第２部：ｐＨ測定による酸性度及び導電率の測定
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Test on gases evolved during combustion of materials from cables -- Part
+    2: Determination of acidity (by pH measurement) and conductivity'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3666-2%3A2023
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03666_002_000_2023_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 3666-2:2023
+  type: JIS
+  primary: true
+docnumber: C3666
+date:
+- type: issued
+  value: '2023-08-21'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電線工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電線工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 電気ケーブル又は光ファイバケーブル構成材料の燃焼時における発生ガスの潜在的腐食性を，燃焼中に発生するガスを通した水溶液の酸性度（ｐＨ値）及び導電率を測定することによって求める方法について規定。この規格の加熱（燃焼）手順は，ＩＥＣ　６０７５４－３と同じである。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電線工業会"
+ics:
+- code: 13.220.40
+  text: Ignitability and burning behaviour of materials and products
+- code: '29.020'
+  text: Electrical engineering in general
+- code: 29.060.20
+  text: Cables
+structuredidentifier:
+  project_number: C3666
+  type: JIS
+ext:
+  schema-version: v0.0.1

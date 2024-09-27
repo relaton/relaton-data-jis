@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISK2208-2000
+title:
+- content: 石油アスファルト乳剤
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Asphalt emulsion
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2208%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02208_000_000_2000_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02208_000_000_2000_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS K 2208:2000
+  type: JIS
+  primary: true
+docnumber: K2208
+date:
+- type: issued
+  value: '2000-08-31'
+- type: confirmed
+  value: '2006-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本アスファルト乳剤協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本アスファルト乳剤協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 道路舗装，護岸防水，のり（法）面保護などに用いる石油アスファルト乳剤について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本アスファルト乳剤協会
+ics:
+- code: '75.140'
+  text: Waxes, bituminous materials and other petroleum products
+- code: 93.080.20
+  text: Road construction materials
+structuredidentifier:
+  project_number: K2208
+  type: JIS
+ext:
+  schema-version: v0.0.1

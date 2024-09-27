@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: TSC0058-2014
+title:
+- content: 電磁両立性―限度値―２ｋＨｚを超え９ｋＨｚ以下の周波数帯における電流エミッション限度値
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electromagnetic compatibility (EMC) -- Limits -- Limits for current emissions
+    in frequency band of over 2 kHz up to 9 kHz
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+C+0058%3A2014
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_ts_c_00058_000_000_2014_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: TS C 0058:2014
+  type: JIS
+  primary: true
+docnumber: C0058
+date:
+- type: issued
+  value: '2014-11-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 商用電源系統に流入する２ｋＨｚを超え９ｋＨｚ以下の周波数の電流エミッションの限度値及び判定方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-specification
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電気学会
+ics:
+- code: 33.100.10
+  text: Emission
+structuredidentifier:
+  project_number: C0058
+  type: JIS
+ext:
+  schema-version: v0.0.1

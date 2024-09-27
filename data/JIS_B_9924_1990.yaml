@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISB9924-1990
+title:
+- content: 表面付着粒子計数器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Surface particle counters
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9924%3A1990
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09924_000_000_1990_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09924_000_000_1990_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 9924:1990
+  type: JIS
+  primary: true
+docnumber: B9924
+date:
+- type: issued
+  value: '1990-06-30'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　日本空気清浄協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　日本空気清浄協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 鏡面状平面基板上に付着した粒子状汚染物質の粒径及び個数を光学的に測定する表面付着計数器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　日本空気清浄協会
+ics:
+- code: '19.120'
+  text: Particle size analysis. Sieving
+structuredidentifier:
+  project_number: B9924
+  type: JIS
+ext:
+  schema-version: v0.0.1

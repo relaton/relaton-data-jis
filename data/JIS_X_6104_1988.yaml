@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX6104-1988
+title:
+- content: 位相変調（ＰＥ）方式による１２．７ｍｍ幅，９トラック，６３ｃｐｍｍ，情報交換用磁気テープの情報記録様式
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 9-Track, 12.7 mm wide magnetic tape for information interchange -- Format
+    and recording, using phase encoding at 63 cpmm
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6104%3A1988
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06104_000_000_1988_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6104:1988
+  type: JIS
+  primary: true
+docnumber: X6104
+date:
+- type: issued
+  value: '1989-01-31'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 計数形電子計算機及び類似の機械相互間において，情報交換に用いられる磁気テープの情報記録様式のうち，位相変調方式を用い，データ密度６３ｃｐｍｍ，トラック数９個のものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 35.220.22
+  text: Magnetic tapes
+structuredidentifier:
+  project_number: X6104
+  type: JIS
+ext:
+  schema-version: v0.0.1

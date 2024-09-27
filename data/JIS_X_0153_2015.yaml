@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISX0153-2015
+title:
+- content: システム及びソフトウェア技術―利用者用文書類の設計者及び作成者のための要求事項
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Systems and software engineering -- Requirements for designers and developers
+    of user documentation
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0153%3A2015
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00153_000_000_2015_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0153:2015
+  type: JIS
+  primary: true
+docnumber: X0153
+date:
+- type: issued
+  value: '2015-03-20'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 一貫性があり，完全で，正確で，かつ，使用可能な文書類について規定することによって，ソフトウェア利用者の利便を図る。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X0153
+  type: JIS
+ext:
+  schema-version: v0.0.1

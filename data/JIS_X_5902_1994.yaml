@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5902-1994
+title:
+- content: 情報資源辞書システムサービスインタフェース
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Information Resource Dictionary System (IRDS)
+    Services Interface
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5902%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05902_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5902:1994
+  type: JIS
+  primary: true
+docnumber: X5902
+date:
+- type: issued
+  value: '1994-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 情報資源辞書システムのサービスインタフェースについて規定。一連のＩＲＤＳ規格は，企業の情報資源を記述し，管理可能な形で使用するソフトウェアツールを規定。ＩＲＤ定義水準で保持されるデータ構造及びその内容の一部並びにＩＲＤ水準で保持されるデータ構造を定義。双方の水準での，データの保持及び賢作のために提供されるサービスについても定義。一連のＩＲＤＳ規格については，ＩＳＯ／ＩＥＣ　１００２７による。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X5902
+  type: JIS
+ext:
+  schema-version: v0.0.1

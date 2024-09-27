@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISW1920-1995
+title:
+- content: 航空機―補機の駆動結合部及び取付パッド
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Aircraft -- Accessory drives and mounting pads
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+1920%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_w_01920_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS W 1920:1995
+  type: JIS
+  primary: true
+docnumber: W1920
+date:
+- type: issued
+  value: '1995-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 運用中の航空機のエンジン／ギアボックスから補機を取り外せるようにしたインボリュートスプライン駆動軸付き迅速着脱式結合の設計基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本航空宇宙工業会
+ics:
+- code: '49.050'
+  text: Aerospace engines and propulsion systems
+structuredidentifier:
+  project_number: W1920
+  type: JIS
+ext:
+  schema-version: v0.0.1

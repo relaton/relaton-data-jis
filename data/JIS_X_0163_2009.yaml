@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISX0163-2009
+title:
+- content: 情報技術―ソフトウェア技術環境サービス
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information Technology -- Software Engineering Environment Services
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0163%3A2009
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00163_000_000_2009_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0163:2009
+  type: JIS
+  primary: true
+docnumber: X0163
+date:
+- type: issued
+  value: '2009-05-20'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＪＩＳ　Ｘ　０１６０：２００７で規定する，すべてのソフトウェアライフサイクルプロセスに対応するＳＥＥサービスの説明を提供。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X0163
+  type: JIS
+ext:
+  schema-version: v0.0.1

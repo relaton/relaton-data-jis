@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISB8303-1990
+title:
+- content: ボイラ給水用遠心ポンプの試験及び検査方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Testing methods for boiler feed pumps
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8303%3A1990
+  type: src
+type: standard
+docid:
+- id: JIS B 8303:1990
+  type: JIS
+  primary: true
+docnumber: B8303
+date:
+- type: issued
+  value: '1990-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本産業機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本産業機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ボイラ給水用（原子炉給水ポンプなどの高温高圧用ポンプも含む。）遠心ポンプを工場において試験する場合の方法について規定。なお，ポンプの範囲は，原則としてポンプ吸込フランジ及び吐出しフランジの断面で区切られた部分とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本産業機械工業会
+ics:
+- code: '23.080'
+  text: Pumps
+- code: 27.060.30
+  text: Boilers and heat exchangers
+structuredidentifier:
+  project_number: B8303
+  type: JIS
+ext:
+  schema-version: v0.0.1

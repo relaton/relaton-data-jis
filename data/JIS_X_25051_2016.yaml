@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.9
+id: JISX25051-2016
+title:
+- content: システム及びソフトウェア製品の品質要求及び評価（ＳＱｕａＲＥ）―既製ソフトウェア製品（ＲＵＳＰ）に対する品質要求事項及び試験に対する指示
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Software engineering -- Systems and software Quality Requirements and Evaluation
+    (SQuaRE) -- Requirements for quality of Ready to Use Software Product (RUSP) and
+    instructions for testing
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+25051%3A2016
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_25051_000_000_2016_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 25051:2016
+  type: JIS
+  primary: true
+docnumber: X25051
+date:
+- type: issued
+  value: '2016-03-22'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　コンピュータソフトウェア協会
+        \                                               \r\n                                                                                            一般社団法人　ソフトウェア協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　コンピュータソフトウェア協会
+        \                                               \r\n                                                                                            一般社団法人　ソフトウェア協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 既製ソフトウェア製品（ＲＵＳＰ）の品質要求事項；既製ソフトウェア製品（ＲＵＳＰ）の試験のための試験文書類の要求事項。これには，試験計画書，試験説明及び試験結果を含む。；既製ソフトウェア製品（ＲＵＳＰ）の適合性評価への指示を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　コンピュータソフトウェア協会
+      \                                               \r\n                                                                                            一般社団法人　ソフトウェア協会"
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X25051
+  type: JIS
+ext:
+  schema-version: v0.0.1

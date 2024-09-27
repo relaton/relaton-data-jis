@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISX4347-2002
+title:
+- content: ＭＨＥＧ－５日本プロファイル規定及び適合性試験法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: MHEG-5 japan profile and conformance testing
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4347%3A2002
+  type: src
+type: standard
+docid:
+- id: JIS X 4347:2002
+  type: JIS
+  primary: true
+docnumber: X4347
+date:
+- type: issued
+  value: '2002-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　４３４５（ＩＳＯ／ＩＥＣ　１３５２２－５）に基づいたマルチメディア・ハイパメディア情報の相互運用性を保証するため，ＪＩＳ　Ｘ　４３４５に関するプロファイルを規定するとともに，適合性試験のための試験仕様及び標準データを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X4347
+  type: JIS
+ext:
+  schema-version: v0.0.1

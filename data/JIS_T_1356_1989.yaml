@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JIST1356-1989
+title:
+- content: 体外式心臓ペースメーカ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: External cardiac pacemaker
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1356%3A1989
+  type: src
+type: standard
+docid:
+- id: JIS T 1356:1989
+  type: JIS
+  primary: true
+docnumber: T1356
+date:
+- type: issued
+  value: '1989-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 心筋に接触する電極を用いて心臓に電気刺激を与えることによって不整脈を補正し，患者に装着して携帯させたり，ベットサイドなどに設置して使用する内部電源によって動作する体外式心臓ペースメーカのペースメーカ本体について規定。ただし，誘導形ペースメーカは除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 11.040.40
+  text: Implants for surgery, prosthetics and orthotics
+structuredidentifier:
+  project_number: T1356
+  type: JIS
+ext:
+  schema-version: v0.0.1

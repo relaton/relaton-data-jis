@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISK1351-1993
+title:
+- content: 酢酸
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Acetic acid
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+1351%3A1993
+  type: src
+type: standard
+docid:
+- id: JIS K 1351:1993
+  type: JIS
+  primary: true
+docnumber: K1351
+date:
+- type: issued
+  value: '1993-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本化学工業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本化学工業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 工業用の酢酸について規定。氷酢酸ともいう。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本化学工業協会
+ics:
+- code: 71.080.50
+  text: Anhydrides
+structuredidentifier:
+  project_number: K1351
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX0206-1977
+title:
+- content: 情報交換用符号の磁気カセットテープ上での表現
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Implementation of code for information interchange on magnetic tape cassette
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0206%3A1977
+  type: src
+type: standard
+docid:
+- id: JIS X 0206:1977
+  type: JIS
+  primary: true
+docnumber: X0206
+date:
+- type: issued
+  value: '1977-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ７単位及び８単位の情報交換用符号を，情報交換用磁気カセットテープ上に表現する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: 35.220.23
+  text: Cassettes and cartridges for magnetic tapes
+structuredidentifier:
+  project_number: X0206
+  type: JIS
+ext:
+  schema-version: v0.0.1

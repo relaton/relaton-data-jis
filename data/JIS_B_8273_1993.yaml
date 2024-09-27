@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISB8273-1993
+title:
+- content: 圧力容器のボルト締めフランジ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Bolted flange for pressure vessels
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8273%3A1993
+  type: src
+type: standard
+docid:
+- id: JIS B 8273:1993
+  type: JIS
+  primary: true
+docnumber: B8273
+date:
+- type: issued
+  value: '1993-06-30'
+contributor:
+- organization:
+    name:
+    - content: 高圧ガス保安協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 高圧ガス保安協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ボルト締めされるフランジの応力計算法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 高圧ガス保安協会
+ics:
+- code: 23.020.30
+  text: Pressure vessels
+structuredidentifier:
+  project_number: B8273
+  type: JIS
+ext:
+  schema-version: v0.0.1

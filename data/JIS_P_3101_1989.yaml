@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISP3101-1989
+title:
+- content: 印刷用紙
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Printing papers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+3101%3A1989
+  type: src
+type: standard
+docid:
+- id: JIS P 3101:1989
+  type: JIS
+  primary: true
+docnumber: P3101
+date:
+- type: issued
+  value: '1989-05-31'
+contributor:
+- organization:
+    name:
+    - content: 日本製紙連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本製紙連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 書籍・雑誌などに使用する印刷用紙について規定。コーテッドペーパーを除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本製紙連合会
+ics:
+- code: 37.100.20
+  text: Materials for graphic technology
+structuredidentifier:
+  project_number: P3101
+  type: JIS
+ext:
+  schema-version: v0.0.1

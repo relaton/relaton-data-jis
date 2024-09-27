@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC8326-1988
+title:
+- content: 低圧箱開閉器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Low-voltage enclosed switches (AC 600 V and below)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8326%3A1988
+  type: src
+type: standard
+docid:
+- id: JIS C 8326:1988
+  type: JIS
+  primary: true
+docnumber: C8326
+date:
+- type: issued
+  value: '1989-01-31'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本配線器具工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本配線器具工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 周波数５０Ｈｚ又は６０Ｈｚの交流６００Ｖ以下の屋内電路に使用するヒューズ付き及びヒューズなしの箱開閉器で，定格電流が６００Ａ以下及び定格容量が１５ｋＷ以下のものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本配線器具工業会
+ics:
+- code: 29.130.20
+  text: Low voltage switchgear and controlgear
+structuredidentifier:
+  project_number: C8326
+  type: JIS
+ext:
+  schema-version: v0.0.1

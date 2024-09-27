@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISB6312-1976
+title:
+- content: 数値制御工作機械せん孔テープ用可変ブロックフォーマット（位置決め及び直線切削制御用）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Punched tape variable block format for positioning and straight-cut numerically
+    controlled machine tools
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6312%3A1976
+  type: src
+type: standard
+docid:
+- id: JIS B 6312:1976
+  type: JIS
+  primary: true
+docnumber: B6312
+date:
+- type: issued
+  value: '1976-07-15'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 位置決め及び直線切削数値制御工作機械用せん孔テープのＨＴ，アドレス又はＨＴとアドレスをもった可変ブロックフォーマットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: 25.040.20
+  text: Numerically controlled machines
+structuredidentifier:
+  project_number: B6312
+  type: JIS
+ext:
+  schema-version: v0.0.1

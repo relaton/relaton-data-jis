@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISC0450-2004
+title:
+- content: 電気及び関連分野―信号指定及び接続指定
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Designations for signals and connections
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0450%3A2004
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00450_000_000_2004_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 0450:2004
+  type: JIS
+  primary: true
+docnumber: C0450
+date:
+- type: issued
+  value: '2004-12-20'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 電気及びその関連分野の信号及び接続を識別する指定並びに名称の組合せに関する規則について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '29.020'
+  text: Electrical engineering in general
+structuredidentifier:
+  project_number: C0450
+  type: JIS
+ext:
+  schema-version: v0.0.1

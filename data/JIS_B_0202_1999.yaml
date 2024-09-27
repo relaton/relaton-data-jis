@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISB0202-1999
+title:
+- content: 管用平行ねじ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Parallel pipe threads
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0202%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS B 0202:1999
+  type: JIS
+  primary: true
+docnumber: B0202
+date:
+- type: issued
+  value: '1999-04-30'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 日本金属継手協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本金属継手協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 管用平行ねじについて規定。管，管用部品，液体機器などの接合において機械的結合を目的とするねじに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本金属継手協会
+ics:
+- code: 21.040.30
+  text: Special screw threads
+structuredidentifier:
+  project_number: B0202
+  type: JIS
+ext:
+  schema-version: v0.0.1

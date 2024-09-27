@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISC8366-2006
+title:
+- content: ライティングダクト
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Lighting busways
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8366%3A2006
+  type: src
+type: standard
+docid:
+- id: JIS C 8366:2006
+  type: JIS
+  primary: true
+docnumber: C8366
+date:
+- type: issued
+  value: '2006-07-20'
+- type: confirmed
+  value: '2011-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 照明器具及び／又は小形電気機械器具へ電気を供給する，交流電圧３００Ｖ以下，定格電流３０Ａ以下のクラスⅠライティングダクト，クラスⅠⅠⅠライティングダクト及び共用電源ライティングダクト並びにそれらの附属品について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本照明工業会"
+ics:
+- code: 29.120.10
+  text: Conduits for electrical purposes
+structuredidentifier:
+  project_number: C8366
+  type: JIS
+ext:
+  schema-version: v0.0.1

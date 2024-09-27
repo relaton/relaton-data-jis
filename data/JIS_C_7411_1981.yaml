@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC7411-1981
+title:
+- content: 信頼性保証モノリシック演算増幅器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Reliability assured monolithic operational amplifiers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7411%3A1981
+  type: src
+type: standard
+docid:
+- id: JIS C 7411:1981
+  type: JIS
+  primary: true
+docnumber: C7411
+date:
+- type: issued
+  value: '1981-02-28'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器に用いるモノリシック演算増幅器のうち，信頼性保証が要求されるものに適用し，信頼性保証の要求事項及び個別規格の様式などについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本電子部品信頼性センター
+ics:
+- code: 33.160.10
+  text: Amplifiers
+structuredidentifier:
+  project_number: C7411
+  type: JIS
+ext:
+  schema-version: v0.0.1

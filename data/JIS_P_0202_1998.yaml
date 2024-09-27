@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISP0202-1998
+title:
+- content: 紙の原紙寸法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Sizes of paper
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+0202%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS P 0202:1998
+  type: JIS
+  primary: true
+docnumber: P0202
+date:
+- type: issued
+  value: '1998-10-31'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: 日本製紙連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本製紙連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 紙の原紙寸法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本製紙連合会
+ics:
+- code: '85.060'
+  text: Paper and board
+structuredidentifier:
+  project_number: P0202
+  type: JIS
+ext:
+  schema-version: v0.0.1

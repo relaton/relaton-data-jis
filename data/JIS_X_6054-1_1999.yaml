@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX6054-1-1999
+title:
+- content: 電子楽器ディジタルインタフェース（ＭＩＤＩ）―第１部：総則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Musical Instrument Digital Interface (MIDI) -- Part 1: Overview'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6054-1%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS X 6054-1:1999
+  type: JIS
+  primary: true
+docnumber: X6054
+date:
+- type: issued
+  value: '1999-04-30'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　音楽電子事業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　音楽電子事業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 電子楽器における情報交換のために，ハードウェア（送受信回路）及びソフトウェア（データフォーマット）を規定。ライブパフォーマンスの情報伝達手段のほか，レコーディングスタジオ，オーディオ及びビデオ制作，作曲などのマルチメディア分野にも利用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　音楽電子事業協会
+ics:
+- code: 35.240.99
+  text: IT applications in other fields
+- code: 97.200.20
+  text: Musical instruments
+structuredidentifier:
+  project_number: X6054
+  type: JIS
+ext:
+  schema-version: v0.0.1

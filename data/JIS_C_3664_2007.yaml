@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISC3664-2007
+title:
+- content: 絶縁ケーブルの導体
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Conductors of insulated cables
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3664%3A2007
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03664_000_000_2007_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 3664:2007
+  type: JIS
+  primary: true
+docnumber: C3664
+date:
+- type: issued
+  value: '2007-07-20'
+- type: confirmed
+  value: '2022-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電線工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電線工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 広範な種類の電力ケーブル及び可とうコードの公称断面積が０．５ｍｍ＊２～２　５００ｍｍ＊２の素線構成及び導体の特性について規定。導体は固定配線用ケーブル用の銅線，アルミニウム線及びアルミニウム合金線の単線及びより線並びに可とう銅導体について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電線工業会
+ics:
+- code: 29.060.20
+  text: Cables
+structuredidentifier:
+  project_number: C3664
+  type: JIS
+ext:
+  schema-version: v0.0.1

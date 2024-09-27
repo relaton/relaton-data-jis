@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5704-1995
+title:
+- content: 開放型システム間相互接続　―　コミットメント，並行処理及び回復サービス要素のサービス定義
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Open Systems Interconnection -- Service definition
+    for the commitment, concurrency and recovery service element
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5704%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05704_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5704:1995
+  type: JIS
+  primary: true
+docnumber: X5704
+date:
+- type: issued
+  value: '1995-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: コミットメント，並行処理及び回復の機能を要求する他の仕様から引用。分散型適用業務の中の複数の応用エンティティ起動の処理が，原子動作を構成する必要があるときはいつも引用。原子動作で関係する二つの応用エンティティ起動を調整する単一のアソシエーションで使用するサービスを定義。原子動作を構成する応用エンティティ起動の決定は，適用範囲外とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5704
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISX3001-2-2002
+title:
+- content: プログラム言語Ｆｏｒｔｒａｎ―第２部：可変長文字列
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Programming languages -- Fortran -- Part 2:
+    Varying length character strings'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3001-2%3A2002
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03001_002_000_2002_j_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 3001-2:2002
+  type: JIS
+  primary: true
+docnumber: X3001
+date:
+- type: issued
+  value: '2002-06-30'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: Ｆｏｒｔｒａｎで用いられる，動的に可変な長さをもつ文字列の操作方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3001
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISX0122-1986
+title:
+- content: ２値論理素子図記号
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Graphical symbols for binary logic elements
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0122%3A1986
+  type: src
+type: standard
+docid:
+- id: JIS X 0122:1986
+  type: JIS
+  primary: true
+docnumber: X0122
+date:
+- type: issued
+  value: '1986-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ２値論理機能を表す図記号とその用法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電気学会
+ics:
+- code: 01.080.20
+  text: Graphical symbols for use on specific equipment
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X0122
+  type: JIS
+ext:
+  schema-version: v0.0.1

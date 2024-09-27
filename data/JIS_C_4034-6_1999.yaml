@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISC4034-6-1999
+title:
+- content: 回転電気機械―第６部：冷却方式による分類
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Rotating electrical machines -- Part 6: Methods of cooling (IC code)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4034-6%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS C 4034-6:1999
+  type: JIS
+  primary: true
+docnumber: C4034
+date:
+- type: issued
+  value: '1999-05-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 回転電気機械の冷却方式の分類及びその表示形式について規定。冷却方式は，冷媒の通路，冷媒の種類及び冷媒の送り方の組合せによって分類され，“ＩＣ”の文字の後にそれらを表す数字と文字を組み合わせたもので表示される。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電気学会
+ics:
+- code: 29.160.01
+  text: Rotating machinery in general
+structuredidentifier:
+  project_number: C4034
+  type: JIS
+ext:
+  schema-version: v0.0.1

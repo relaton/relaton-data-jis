@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISF8830-1984
+title:
+- content: 小形船外給電箱
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Marine shore connection boxes (small type)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8830%3A1984
+  type: src
+type: standard
+docid:
+- id: JIS F 8830:1984
+  type: JIS
+  primary: true
+docnumber: F8830
+date:
+- type: issued
+  value: '1985-01-31'
+contributor:
+- organization:
+    name:
+    - content: 財団法人　日本船舶標準協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 財団法人　日本船舶標準協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 船外の電源から船内に給電するために用いる，１００Ａ以下で船外電線と船内電線とを接続するのに用いる小形船外給電箱について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 財団法人　日本船舶標準協会
+ics:
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+structuredidentifier:
+  project_number: F8830
+  type: JIS
+ext:
+  schema-version: v0.0.1

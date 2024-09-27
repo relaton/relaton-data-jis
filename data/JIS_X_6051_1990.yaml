@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISX6051-1990
+title:
+- content: 小形計算機システムインタフェース（ＳＣＳＩ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Small Computer System Interface (SCSI)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6051%3A1990
+  type: src
+type: standard
+docid:
+- id: JIS X 6051:1990
+  type: JIS
+  primary: true
+docnumber: X6051
+date:
+- type: issued
+  value: '1990-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 小型計算機システムにおいて，周辺装置を接続するために用いる入出力インタフェースの電気的，機械的特性並びに一般に利用される周辺装置に対するコマンドセットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.200'
+  text: Interface and interconnection equipment
+structuredidentifier:
+  project_number: X6051
+  type: JIS
+ext:
+  schema-version: v0.0.1

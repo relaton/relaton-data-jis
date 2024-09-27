@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISX0204-1969
+title:
+- content: 情報交換用符号の磁気テープ上での表現
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Implementation of code for information interchange on magnetic tape
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0204%3A1969
+  type: src
+type: standard
+docid:
+- id: JIS X 0204:1969
+  type: JIS
+  primary: true
+docnumber: X0204
+date:
+- type: issued
+  value: '1969-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　０２０１を磁気テープ上に表現する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: 35.220.22
+  text: Magnetic tapes
+structuredidentifier:
+  project_number: X0204
+  type: JIS
+ext:
+  schema-version: v0.0.1

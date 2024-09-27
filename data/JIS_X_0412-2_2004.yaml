@@ -1,0 +1,92 @@
+---
+schema-version: v1.2.9
+id: JISX0412-2-2004
+title:
+- content: 言語名コード－第２部：３文字コード
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Code for the representation of names of languages -- Part 2: Alpha-3 code'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0412-2%3A2004
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00412_002_000_2004_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00412_002_000_2004_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0412-2:2004
+  type: JIS
+  primary: true
+docnumber: X0412
+date:
+- type: issued
+  value: '2004-03-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 言語名を示す３個のラテン文字からなる言語識別子を含む言語名コードについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 01.140.20
+  text: Information sciences
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X0412
+  type: JIS
+ext:
+  schema-version: v0.0.1

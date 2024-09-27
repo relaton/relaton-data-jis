@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.9
+id: JISC1503-1969
+title:
+- content: 簡易騒音計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Sound level meters (simple type)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1503%3A1969
+  type: src
+type: standard
+docid:
+- id: JIS C 1503:1969
+  type: JIS
+  primary: true
+docnumber: C1503
+date:
+- type: issued
+  value: '1976-05-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本音響学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本音響学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 騒音レベルの大略の値を指示させて予備的調査などに使用する小形の簡易騒音計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本音響学会
+structuredidentifier:
+  project_number: C1503
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX4231-1997
+title:
+- content: コンピュータグラフィクス　―　対話型グラフィクスシステムＰＨＩＧＳ言語結合　―　第１部　ＦＯＲＴＲＡＮ言語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Computer graphics -- Programmer''s Hierarchical
+    Interactive Graphics Systems (PHIGS) Language bindings -- Part 1: FORTRAN'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4231%3A1997
+  type: src
+type: standard
+docid:
+- id: JIS X 4231:1997
+  type: JIS
+  primary: true
+docnumber: X4231
+date:
+- type: issued
+  value: '1997-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 対話型グラフィクスシステムＰＨＩＧＳ第１部　機能記述（ＪＩＳ　Ｘ　４２２１）は，グラフィクスシステムのプログラミング言語に依存しない中核を規定。プログラミング言語への統合に関しては，ＰＨＩＧＳは対象となるプログラミング言語固有の慣例に従属し，プログラミング言語個々に存在する言語依存部に深くかかわっている。ＰＨＩＧＳのＦＯＲＴＲＡＮプログラミング言語依存部について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+- code: '35.140'
+  text: Computer graphics
+structuredidentifier:
+  project_number: X4231
+  type: JIS
+ext:
+  schema-version: v0.0.1

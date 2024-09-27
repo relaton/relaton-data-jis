@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISF8081-2022
+title:
+- content: 船用電気設備及び電子機器―電磁両立性（ＥＭＣ）―金属製船体の船舶
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electrical and electronic installations in ships -- Electromagnetic compatibility
+    (EMC) -- Ships with a metallic hull
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8081%3A2022
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_08081_000_000_2022_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS F 8081:2022
+  type: JIS
+  primary: true
+docnumber: F8081
+date:
+- type: issued
+  value: '2022-03-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 金属製船体の船舶の電気設備及び電子機器の電磁両立性（ＥＭＣ）に関するエミッション及びイミュニティ並びに性能基準に対する最低要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 33.100.10
+  text: Emission
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+structuredidentifier:
+  project_number: F8081
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISA1405-1998
+title:
+- content: 音響―インピーダンス管による吸音率及びインピーダンスの測定―定在波比法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Acoustics -- Determination of sound absorption coefficient and impedance
+    in impedance tubes -- Method using standing wave ratio
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1405%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS A 1405:1998
+  type: JIS
+  primary: true
+docnumber: A1405
+date:
+- type: issued
+  value: '1999-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　建材試験センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　建材試験センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 材料又は物体の吸音率，反射係数及び表面インビーダンス又は表面アドミッタンスの算出方法について規定。値は，入射正弦平面波と試験体から反射する平面波との合成によって生じる管内平面波の定在波パターンの測定によって，垂直入射音に対して算出される。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　建材試験センター
+ics:
+- code: 17.140.01
+  text: Acoustic measurements and noise abatement in general
+- code: 91.100.01
+  text: Construction materials in general
+structuredidentifier:
+  project_number: A1405
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISZ1513-2000
+title:
+- content: ジュート袋
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Jute bags
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1513%3A2000
+  type: src
+type: standard
+docid:
+- id: JIS Z 1513:2000
+  type: JIS
+  primary: true
+docnumber: Z1513
+date:
+- type: issued
+  value: '2000-10-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 日本麻紡績協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本麻紡績協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 穀物包装容器として用いるジュート袋について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本麻紡績協会
+ics:
+- code: '55.080'
+  text: Sacks. Bags
+- code: 65.060.99
+  text: Other agricultural machines and equipment
+structuredidentifier:
+  project_number: Z1513
+  type: JIS
+ext:
+  schema-version: v0.0.1

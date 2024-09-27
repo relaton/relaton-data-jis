@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISX6331-1998
+title:
+- content: 光メモリカード―直線記録方式―論理データ構造
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Identification cards -- Optical memory cards -- Linear recording method
+    -- Part 4: Logical data structures'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6331%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06331_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6331:1998
+  type: JIS
+  primary: true
+docnumber: X6331
+date:
+- type: issued
+  value: '1998-08-31'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 光メモリカードにおいて直線記録方式を使用するシステム間の互換性及び相互交換を可能にするための論理構造を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　光産業技術振興協会
+ics:
+- code: 35.240.15
+  text: Identification cards. Chip cards. Biometrics
+structuredidentifier:
+  project_number: X6331
+  type: JIS
+ext:
+  schema-version: v0.0.1

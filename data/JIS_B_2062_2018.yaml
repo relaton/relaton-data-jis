@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISB2062-2018
+title:
+- content: 水配管用仕切弁
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Sluice valves for ordinary water piping
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2062%3A2018
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02062_000_000_2018_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02062_000_000_2018_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 2062:2018
+  type: JIS
+  primary: true
+docnumber: B2062
+date:
+- type: issued
+  value: '2018-03-20'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本バルブ工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本バルブ工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 呼び圧力７．５Ｋの水配管（農業用水道，工業用水道など）に使用する仕切弁について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本バルブ工業会
+ics:
+- code: 23.060.30
+  text: Gate valves
+- code: 91.140.60
+  text: Water supply systems
+structuredidentifier:
+  project_number: B2062
+  type: JIS
+ext:
+  schema-version: v0.0.1

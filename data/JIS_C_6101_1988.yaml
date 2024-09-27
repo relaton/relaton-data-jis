@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC6101-1988
+title:
+- content: テレビジョン受信機試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Measuring methods of receivers for television broadcast transmissions
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6101%3A1988
+  type: src
+type: standard
+docid:
+- id: JIS C 6101:1988
+  type: JIS
+  primary: true
+docnumber: C6101
+date:
+- type: issued
+  value: '1988-11-30'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: テレビジョン放送及びテレビジョン音声多重放送を受信するテレビジョン放送受信機の性能を比較評価するための標準試験方法について規定。ただし，試験に当っては，必要に応じて試験項目を取捨選択してもよい。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子機械工業会
+ics:
+- code: 33.160.20
+  text: Radio receivers
+structuredidentifier:
+  project_number: C6101
+  type: JIS
+ext:
+  schema-version: v0.0.1

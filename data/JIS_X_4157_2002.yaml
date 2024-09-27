@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISX4157-2002
+title:
+- content: ＳＧＭＬ応用―トピックマップ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: SGML Applications -- Topic Maps
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4157%3A2002
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04157_000_000_2002_j_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4157:2002
+  type: JIS
+  primary: true
+docnumber: X4157
+date:
+- type: issued
+  value: '2002-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: トピックマップの文脈にだけ適用。トピックマップは，情報オブジェクト集合の複数の並行的なビューを可能とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X4157
+  type: JIS
+ext:
+  schema-version: v0.0.1

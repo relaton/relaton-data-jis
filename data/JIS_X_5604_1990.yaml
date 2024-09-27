@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5604-1990
+title:
+- content: 開放型システム間相互接続の抽象構文記法１（ＡＳＮ．１）の基本符号化規則仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information processing systems -- Open Systems Interconnection -- Specification
+    of Basic Encoding Rules for Abstract Syntax Notation One (ASN.1)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5604%3A1990
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05604_000_000_1990_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5604:1990
+  type: JIS
+  primary: true
+docnumber: X5604
+date:
+- type: issued
+  value: '1990-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 基本符号化規則について規定。基本符号化規則は，ＪＩＳ　Ｘ　５６０３で規定されたＡＳＮ．１記法で定義された型の値に対する転送構文を得るために使用する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.60
+  text: Presentation layer
+structuredidentifier:
+  project_number: X5604
+  type: JIS
+ext:
+  schema-version: v0.0.1

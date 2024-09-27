@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISB9526-1990
+title:
+- content: ページプリンタ用テストパターン
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Test pattern for page printers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9526%3A1990
+  type: src
+type: standard
+docid:
+- id: JIS B 9526:1990
+  type: JIS
+  primary: true
+docnumber: B9526
+date:
+- type: issued
+  value: '1990-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 最低１ページを１フレームとして出力するページプリンタについて使用者が行う画像品質評価試験に用いるテストパターンについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　ビジネス機械・情報システム産業協会
+ics:
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
+structuredidentifier:
+  project_number: B9526
+  type: JIS
+ext:
+  schema-version: v0.0.1

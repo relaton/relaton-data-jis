@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISD1070-1998
+title:
+- content: 乗用車―定常円旋回試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Passenger cars -- Steady state circular test procedure
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+1070%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS D 1070:1998
+  type: JIS
+  primary: true
+docnumber: D1070
+date:
+- type: issued
+  value: '1998-07-31'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 乗用車の定常円旋回性能を，半径一定の円又は円弧上を一定車速で走行し，かつ段階的に車速を上げることによって評価するためのオープンループ試験方法について規定。ＪＩＳ　Ｄ　０１０１で定義される乗用車に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　自動車技術会
+ics:
+- code: '43.020'
+  text: Road vehicles in general
+- code: '43.100'
+  text: Passenger cars. Caravans and light trailers
+structuredidentifier:
+  project_number: D1070
+  type: JIS
+ext:
+  schema-version: v0.0.1

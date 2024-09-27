@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: JISX4052-2000
+title:
+- content: 日本語文書の組版指定交換形式
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Exchange format for Japanese documents with composition markup
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4052%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04052_000_000_2000_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4052:2000
+  type: JIS
+  primary: true
+docnumber: X4052
+date:
+- type: issued
+  value: '2000-11-30'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 組版指定付き日本語文書の交換形式を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.20
+  text: IT applications in office work
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X4052
+  type: JIS
+ext:
+  schema-version: v0.0.1

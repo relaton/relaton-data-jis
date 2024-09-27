@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISE3702-1974
+title:
+- content: 踏切警報機用使用中止表示器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Out of order indicators for level crossing signal
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+3702%3A1974
+  type: src
+type: standard
+docid:
+- id: JIS E 3702:1974
+  type: JIS
+  primary: true
+docnumber: E3702
+date:
+- type: issued
+  value: '1974-12-26'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 踏切警報機の機能を中止する場合に用いる表示器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄道電気技術協会
+ics:
+- code: '45.080'
+  text: Rails and railway components
+structuredidentifier:
+  project_number: E3702
+  type: JIS
+ext:
+  schema-version: v0.0.1

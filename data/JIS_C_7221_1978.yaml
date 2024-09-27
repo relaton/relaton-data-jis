@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC7221-1978
+title:
+- content: 信頼性保証小信号ダイオード
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Reliability assured small signal diodes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7221%3A1978
+  type: src
+type: standard
+docid:
+- id: JIS C 7221:1978
+  type: JIS
+  primary: true
+docnumber: C7221
+date:
+- type: issued
+  value: '1978-06-30'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器に使用される小信号ダイオードのうち，信頼性保証が要求されるものに適用し，信頼性保証の要求事項，個別規格の様式などについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子機械工業会
+ics:
+- code: 31.080.10
+  text: Diodes
+structuredidentifier:
+  project_number: C7221
+  type: JIS
+ext:
+  schema-version: v0.0.1

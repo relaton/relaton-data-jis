@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISX5204-1999
+title:
+- content: システム間の通信及び情報交換―ハイレベルデータリンク制御手順―Ｘ．２５　ＬＡＰＢ互換ＤＴＥのデータリンク手順の記述
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Telecommunications and information exchange between
+    systems -- High-level data link control procedures -- Description of the X.25
+    LAPB-compatible DTE data link procedures
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5204%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05204_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5204:1999
+  type: JIS
+  primary: true
+docnumber: X5204
+date:
+- type: issued
+  value: '1999-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　５２０３及びＪＩＳ　Ｘ　５１０７に規定されたＨＤＬＣの応用を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.20
+  text: Data link layer
+structuredidentifier:
+  project_number: X5204
+  type: JIS
+ext:
+  schema-version: v0.0.1

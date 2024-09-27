@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISB2005-2-1-2019
+title:
+- content: 工業プロセス用調節弁―第２部：流れの容量―第１節：取付け状態における流れのサイジング式
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Industrial-process control valves -- Part 2-1: Flow capacity -- Sizing
+    equations for fluid flow under installed conditions'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2005-2-1%3A2019
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02005_002_001_2019_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 2005-2-1:2019
+  type: JIS
+  primary: true
+docnumber: B2005
+date:
+- type: issued
+  value: '2019-03-20'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本バルブ工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本バルブ工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 調節弁を流れる圧縮性流体及び非圧縮性流体の流れを予測する式について規定。これらの式は，非ニュートン流体，混合流体，スラリー及び固液輸送系については適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本バルブ工業会
+ics:
+- code: 23.060.40
+  text: Pressure regulators
+- code: 25.040.40
+  text: Industrial process measurement and control
+structuredidentifier:
+  project_number: B2005
+  type: JIS
+ext:
+  schema-version: v0.0.1

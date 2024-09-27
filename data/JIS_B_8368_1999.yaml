@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISB8368-1999
+title:
+- content: 空気圧シリンダ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Pneumatic cylinders
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8368%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS B 8368:1999
+  type: JIS
+  primary: true
+docnumber: B8368
+date:
+- type: issued
+  value: '1999-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本フルードパワー工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本フルードパワー工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 機械設備に使用される空気圧システムの中の要素機器の一つである空気圧シリンダについて規定。シリンダとはピストンにはシール機構をもち，複動又は単動運動を行うもの。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本フルードパワー工業会
+ics:
+- code: 23.100.20
+  text: Cylinders
+structuredidentifier:
+  project_number: B8368
+  type: JIS
+ext:
+  schema-version: v0.0.1

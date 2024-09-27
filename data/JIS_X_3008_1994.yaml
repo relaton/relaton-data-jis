@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX3008-1994
+title:
+- content: プログラム言語Ｐａｓｃａｌ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Programming language Pascal
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3008%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03008_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 3008:1994
+  type: JIS
+  primary: true
+docnumber: X3008
+date:
+- type: issued
+  value: '1994-09-30'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: プログラム言語Ｐａｓｃａｌの処理系及び規格準拠プログラムに対する要求事項を規定するこｔによって，Ｐａｓｃａｌの構文規則及び意味規則を定める。処理系及びプログラムの，規格に対する準拠の仕方に，それぞれ２水準を置く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3008
+  type: JIS
+ext:
+  schema-version: v0.0.1

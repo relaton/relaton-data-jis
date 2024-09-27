@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISC1082-2-1999
+title:
+- content: 電気技術文書―第２部：機能図
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Preparation of documents used in electrotechnology -- Part 2: Function-oriented
+    diagrams'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1082-2%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01082_002_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 1082-2:1999
+  type: JIS
+  primary: true
+docnumber: C1082
+date:
+- type: issued
+  value: '1999-07-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 電気技術で用いる文書の作成のうち，全体図，機能図及び回路図のような機能図についての基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '29.020'
+  text: Electrical engineering in general
+structuredidentifier:
+  project_number: C1082
+  type: JIS
+ext:
+  schema-version: v0.0.1

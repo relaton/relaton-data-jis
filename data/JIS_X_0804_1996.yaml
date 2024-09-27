@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX0804-1996
+title:
+- content: 情報交換用電子原稿の記述様式
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information and documentation -- Electronic manuscript preparation and
+    markup
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0804%3A1996
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00804_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0804:1996
+  type: JIS
+  primary: true
+docnumber: X0804
+date:
+- type: issued
+  value: '1996-06-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　４１５１に適合する４種類の文書型定義及び付加的な機能を規定。図書，論文及び逐次刊行物の生成及び交換のための文書体系を提供することを目的とする。（ａ）文書型定義及び文書実現値に用いる構文を定義するＳＧＭＬ宣言　（ｂ）次の文書クラスのための文書型定義　（ｉ）図書　（ｉｉ）論文　（ｉｉｉ）論文を集めた逐次刊行物　（ｃ）他のＳＧＭＬ応用によって埋め込まれた数式のための文書型定義　について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X0804
+  type: JIS
+ext:
+  schema-version: v0.0.1

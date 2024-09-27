@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISX3005-2-2015
+title:
+- content: データベース言語ＳＱＬ　第２部：基本機能（ＳＱＬ／Ｆｏｕｎｄａｔｉｏｎ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Database languages -- SQL -- Part 2: Foundation
+    (SQL/Foundation)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3005-2%3A2015
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03005_002_000_2015_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 3005-2:2015
+  type: JIS
+  primary: true
+docnumber: X3005
+date:
+- type: issued
+  value: '2015-06-22'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＳＱＬデータのデータ構造及び基本操作を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3005
+  type: JIS
+ext:
+  schema-version: v0.0.1

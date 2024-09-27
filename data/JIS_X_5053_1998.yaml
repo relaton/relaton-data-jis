@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISX5053-1998
+title:
+- content: セキュリティ技術―ｎビットブロック暗号の利用モード
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Security techniques -- Modes of operation for
+    an n-bit block cipher
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5053%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05053_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5053:1998
+  type: JIS
+  primary: true
+docnumber: X5053
+date:
+- type: issued
+  value: '1998-11-30'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ｎビットブロック暗号のための四つの利用モードを規定。ｎビットブロック暗号の応用（例えば，伝送データの保護，格納データの保護，認証など）において，各利用モードの仕様及びパラメタの値等の有用な参考を提供。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X5053
+  type: JIS
+ext:
+  schema-version: v0.0.1

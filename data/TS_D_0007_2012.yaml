@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: TSD0007-2012
+title:
+- content: 電気自動車用急速充電の基本機能
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Basic function of quick charger for the electric vehicle
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+D+0007%3A2012
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_ts_d_00007_000_000_2012_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_ts_d_00007_000_000_2012_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: TS D 0007:2012
+  type: JIS
+  primary: true
+docnumber: D0007
+date:
+- type: issued
+  value: '2012-09-20'
+contributor:
+- organization:
+    name:
+    - content: "チャデモ協議会                                                \r\n                                                                                            一般社団法人　チャデモ協議会"
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "チャデモ協議会                                                \r\n                                                                                            一般社団法人　チャデモ協議会"
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電気自動車と充電器との間で適切な急速充電を実現するために，電気自動車及び充電器の設計に盛り込むべき仕様について，その基本機能を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-specification
+editorialgroup:
+  technical_committee:
+  - name: "チャデモ協議会                                                \r\n                                                                                            一般社団法人　チャデモ協議会"
+ics:
+- code: '43.120'
+  text: Electric road vehicles
+structuredidentifier:
+  project_number: D0007
+  type: JIS
+ext:
+  schema-version: v0.0.1

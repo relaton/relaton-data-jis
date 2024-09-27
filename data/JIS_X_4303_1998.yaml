@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX4303-1998
+title:
+- content: 連続階調静止画像のディジタル圧縮及び符号処理―第３部　拡張
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Digital compression and coding of continuous-tone
+    still images : Extensions'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4303%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04303_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4303:1998
+  type: JIS
+  primary: true
+docnumber: X4303
+date:
+- type: issued
+  value: '1998-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 連続階調　―　白黒又はカラー　―　のディジタル静止画像に適用。圧縮された画像の使用を必要とする広い範囲に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X4303
+  type: JIS
+ext:
+  schema-version: v0.0.1

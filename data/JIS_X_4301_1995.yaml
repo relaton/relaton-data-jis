@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISX4301-1995
+title:
+- content: 連続階調静止画像のディジタル圧縮及び符号処理―第１部　要件及び指針
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Digital compression and coding of continuous-tone still images: Requirement
+    and guidelines'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4301%3A1995
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04301_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4301:1995
+  type: JIS
+  primary: true
+docnumber: X4301
+date:
+- type: issued
+  value: '1995-01-31'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 連続階調，単色又はカラーのディジタル静止画データに適用。圧縮画像データを必要とする多様な応用に適用できるが，２値画像データには適用できない。（１）原画像データから圧縮画像データへの変換処理　（２）圧縮画像データから再生画像データへの変換処理　（３）これらの処理を実装する際の指針　（４）圧縮画像データの符号化表現　の各事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 33.160.01
+  text: Audio, video and audiovisual systems in general
+structuredidentifier:
+  project_number: X4301
+  type: JIS
+ext:
+  schema-version: v0.0.1

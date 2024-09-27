@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISB7955-1995
+title:
+- content: 大気中の塩素自動計測器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Continuous analyzers for chlorine in ambient air
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7955%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS B 7955:1995
+  type: JIS
+  primary: true
+docnumber: B7955
+date:
+- type: issued
+  value: '1995-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 大気中の塩素の濃度を連続的に測定するための自動計測器のうち，吸光光度法に基づくものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 13.040.20
+  text: Ambient atmospheres
+- code: 71.040.40
+  text: Chemical analysis
+structuredidentifier:
+  project_number: B7955
+  type: JIS
+ext:
+  schema-version: v0.0.1

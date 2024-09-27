@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISC5003-1974
+title:
+- content: 電子部品の故障率試験方法通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General test procedure of failure rate for electronic components
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5003%3A1974
+  type: src
+type: standard
+docid:
+- id: JIS C 5003:1974
+  type: JIS
+  primary: true
+docnumber: C5003
+date:
+- type: issued
+  value: '1974-07-31'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 本質的に同一設計で連続的に製造され，確立した品質管理によって生産される電子部品であって，原則として期待される寿命期間中，一定の故障率を合理的に仮定できる部品について適用し，計数１回抜取検査方式によって，部品の故障率水準の初期判定，維持，拡張の原則，測定間隔，試料数，試験時間，得られた結果の処理などの手順について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: '31.020'
+  text: Electronic components in general
+structuredidentifier:
+  project_number: C5003
+  type: JIS
+ext:
+  schema-version: v0.0.1

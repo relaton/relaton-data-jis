@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISX5212-2015
+title:
+- content: 近距離通信用インタフェース及びプロトコル２（ＮＦＣＩＰ－２）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Telecommunications and information exchange between
+    systems -- Near Field Communication Interface and Protocol -2 (NFCIP-2)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5212%3A2015
+  type: src
+type: standard
+docid:
+- id: JIS X 5212:2015
+  type: JIS
+  primary: true
+docnumber: X5212
+date:
+- type: issued
+  value: '2015-03-20'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＪＩＳ　Ｘ　６３２２規格群又はＪＩＳ　Ｘ　６３２３規格群に従うＩＣカード読取り機能をＪＩＳ　Ｘ　５２１１と合わせて実装するデバイスのために，ＮＦＣ通信モード，ＰＩＣＣ通信モード，ＰＣＤ通信モード及びＶＣＤ通信モードの四つの通信モードのうちの選択された一つに入る方法を規定。これらの通信モードの仕様は規定しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+ics:
+- code: 35.100.20
+  text: Data link layer
+structuredidentifier:
+  project_number: X5212
+  type: JIS
+ext:
+  schema-version: v0.0.1

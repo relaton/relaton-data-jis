@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISB8001-1990
+title:
+- content: 往復動内燃機関の構造に関する呼び方及び用語の定義
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Vocabulary and designation for construction of reciprocating internal combustion
+    engines
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8001%3A1990
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08001_000_000_1990_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8001:1990
+  type: JIS
+  primary: true
+docnumber: B8001
+date:
+- type: issued
+  value: '1990-06-30'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 日本内燃機関連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本内燃機関連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 自動車用及び航空機用を除くすべての往復動内燃機関の回転方向，シリンダ，列及びシリンダヘッドに設ける弁の呼び方，並びに機関における右勝手・左勝手及び本体各面の定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本内燃機関連合会
+ics:
+- code: 01.040.27
+  text: Energy and heat transfer engineering (Vocabularies)
+- code: '27.020'
+  text: Internal combustion engines
+structuredidentifier:
+  project_number: B8001
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISX7136-2012
+title:
+- content: 地理情報―地理マーク付け言語（ＧＭＬ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Geographic information -- Geography Markup Language (GML)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7136%3A2012
+  type: src
+type: standard
+docid:
+- id: JIS X 7136:2012
+  type: JIS
+  primary: true
+docnumber: X7136
+date:
+- type: issued
+  value: '2012-02-01'
+- type: confirmed
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - content: 公益財団法人　日本測量調査技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益財団法人　日本測量調査技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 機能・特徴（ＸＭＬで地理情報の伝送及び格納を行うための地理空間応用スキーマの記述を行う，開放型の中立的な枠組みを提供する。；ＧＭＬの枠組みの中で記述できる適切な部分集合をサポートするプロファイルを許す。；専門領域及び情報コミュニティのための地理空間応用スキーマの記述を可能とする。；互いに関連する地理応用スキーマ及びデータ集合の生成及び維持を可能とする。；応用スキーマ及びデータ集合の格納及び伝送を可能とする。；地理応用スキーマ及びそれに従う情報を共用する組織の能力を増大させる。）をもつＸＭＬ　Ｓｃｈｅｍａの構文規則，仕組み及び仕様を定義。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益財団法人　日本測量調査技術協会
+ics:
+- code: 35.240.70
+  text: IT applications in science
+structuredidentifier:
+  project_number: X7136
+  type: JIS
+ext:
+  schema-version: v0.0.1

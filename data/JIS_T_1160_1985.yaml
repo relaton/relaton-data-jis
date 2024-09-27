@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JIST1160-1985
+title:
+- content: 眼振計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electronystagmographs
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1160%3A1985
+  type: src
+type: standard
+docid:
+- id: JIS T 1160:1985
+  type: JIS
+  primary: true
+docnumber: T1160
+date:
+- type: issued
+  value: '1985-12-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 眼振及び眼球運動を，眼球静止電位の体表分布の電位変化として，増幅記録するための臨床診断用直記式眼振計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 11.040.70
+  text: Ophthalmic equipment
+structuredidentifier:
+  project_number: T1160
+  type: JIS
+ext:
+  schema-version: v0.0.1

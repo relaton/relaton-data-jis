@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISB7983-1994
+title:
+- content: 排ガス中の酸素自動計測器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Continuous analyzers for oxygen in flue gas
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7983%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07983_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07983_000_000_1994_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 7983:1994
+  type: JIS
+  primary: true
+docnumber: B7983
+date:
+- type: issued
+  value: '1994-08-31'
+- type: confirmed
+  value: '1999-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 燃焼管理を目的として排ガス中の酸素を連続的に測定するための自動計測器並びに公害計測における基準酸素濃度換算及び排ガス量算出を目的として，排ガス中の酸素を連続的に測定するための計測器のうち，酸素の常磁性を利用する磁気式（磁気風方式及び磁気力方式）及び酸素の電気化学的酸化還元反応を利用する電気化学式（ジルコニア方式及び電極方式）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 13.040.40
+  text: Stationary source emissions
+- code: 71.060.20
+  text: Oxides
+structuredidentifier:
+  project_number: B7983
+  type: JIS
+ext:
+  schema-version: v0.0.1

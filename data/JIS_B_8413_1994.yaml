@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISB8413-1994
+title:
+- content: 温水ボイラ用温度制限器及び温度調節器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Temperature limiters and thermostats for hot water boilers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8413%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08413_000_000_1994_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8413:1994
+  type: JIS
+  primary: true
+docnumber: B8413
+date:
+- type: issued
+  value: '1994-09-30'
+contributor:
+- organization:
+    name:
+    - content: 日本暖房機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本暖房機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 温水ボイラ，石油小形給水機及び温水用熱交換器の過熱防止を目的とする温度制限器及び温水温度制御を目的とする温度調節器について規定。ボイラ本体などに感温部を挿入して温水温度を検出するものに限る。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本暖房機器工業会
+ics:
+- code: 27.060.30
+  text: Boilers and heat exchangers
+structuredidentifier:
+  project_number: B8413
+  type: JIS
+ext:
+  schema-version: v0.0.1

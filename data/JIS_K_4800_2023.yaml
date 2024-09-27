@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: JISK4800-2023
+title:
+- content: 火薬用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Technical terms for explosives
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+4800%3A2023
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_04800_000_000_2023_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS K 4800:2023
+  type: JIS
+  primary: true
+docnumber: K4800
+date:
+- type: issued
+  value: '2023-01-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本火薬工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本火薬工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 火薬関係で用いる主な用語とその定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本火薬工業会"
+ics:
+- code: 01.040.71
+  text: Chemical technology (Vocabularies)
+- code: 71.100.30
+  text: Explosives. Pyrotechnics and fireworks
+structuredidentifier:
+  project_number: K4800
+  type: JIS
+ext:
+  schema-version: v0.0.1

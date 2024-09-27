@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: TRC0014-1999
+title:
+- content: 電磁両立性　第３部：限度値　第５節：定格電圧が１６Ａ超過の機器に対する低圧電源系統における電圧変動とフリッカの限度値
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Electromagnetic compatibility (EMC) Part 3: Limits Section 5: Limitation
+    of voltage fluctuations and flicker in low-voltage power supply systems for equipment
+    with rated current greater than 16 A'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0014%3A1999
+  type: src
+type: standard
+docid:
+- id: TR C 0014:1999
+  type: JIS
+  primary: true
+docnumber: C0014
+date:
+- type: issued
+  value: '2000-09-30'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 一般低圧配電系統に接続するもので，定格電流が一相当り１６Ａを超えるか，又は，それ以下であっても電気事業者の同意を必要とする電気電子装置に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 33.100.01
+  text: Electromagnetic compatibility in general
+structuredidentifier:
+  project_number: C0014
+  type: JIS
+ext:
+  schema-version: v0.0.1

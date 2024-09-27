@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISX9206-1-2000
+title:
+- content: 印刷工程管理のためのデータベース構造モデル及び制御パラメタの符号化―第１部：構造モデル及びデータベース記述書式
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Database architecture model and control parameter coding for process control
+    and workflow Part 1: Architecture model and database format'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9206-1%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09206_001_000_2000_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 9206-1:2000
+  type: JIS
+  primary: true
+docnumber: X9206
+date:
+- type: issued
+  value: '2000-10-31'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 印刷関連産業において，ワークフロー表現及び工程制御を目的とした構造モデル，データベース記述書式及び制御パラメタを規定。構造モデル及びデータベース記述書式を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+- code: 37.100.01
+  text: Graphic technology in general
+structuredidentifier:
+  project_number: X9206
+  type: JIS
+ext:
+  schema-version: v0.0.1

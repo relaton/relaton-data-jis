@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC5101-1995
+title:
+- content: 電子機器用固定コンデンサ通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules of fixed capacitors for use in electronic equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5101%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS C 5101:1995
+  type: JIS
+  primary: true
+docnumber: C5101
+date:
+- type: issued
+  value: '1995-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器に用いる固定コンデンサの品目別通則であり，コンデンサの電子機器用固定コンデンサの品種別通則及び電子機器用固定コンデンサの個別規格に規定する事項の基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 31.060.10
+  text: Fixed capacitors
+structuredidentifier:
+  project_number: C5101
+  type: JIS
+ext:
+  schema-version: v0.0.1

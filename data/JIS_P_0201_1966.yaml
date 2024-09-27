@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISP0201-1966
+title:
+- content: 連続伝票用紙の寸法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Sizes of continuous business forms
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+0201%3A1966
+  type: src
+type: standard
+docid:
+- id: JIS P 0201:1966
+  type: JIS
+  primary: true
+docnumber: P0201
+date:
+- type: issued
+  value: '1966-09-01'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 印刷工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 印刷工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 連続伝票用紙の横および縦の寸法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 印刷工業会
+ics:
+- code: '85.080'
+  text: Paper products
+structuredidentifier:
+  project_number: P0201
+  type: JIS
+ext:
+  schema-version: v0.0.1

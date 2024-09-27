@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: TRX0010-2000
+title:
+- content: 日本語組版のＤＳＳＳＬライブラリ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: DSSSL Library for Japanese Compositions
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0010%3A2000
+  type: src
+type: standard
+docid:
+- id: TR X 0010:2000
+  type: JIS
+  primary: true
+docnumber: X0010
+date:
+- type: issued
+  value: '2000-09-30'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 標準一般化マーク付け言語ＳＧＭＬ（ＪＩＳ　Ｘ　４１５１又はＩＳＯ　８８７９）又は拡張可能なマーク付け言語ＸＭＬ（ＴＲ　Ｘ　０００８）で記述された日本語構造化文書に対して，ＤＳＳＳＬ（ＪＩＳ　Ｘ　４１５３）を用いてフォーマット指定を行う場合に用いるＤＳＳＳＬライブラリを提供。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+structuredidentifier:
+  project_number: X0010
+  type: JIS
+ext:
+  schema-version: v0.0.1

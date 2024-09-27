@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISS8505-1981
+title:
+- content: 木琴
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Xylophones
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+8505%3A1981
+  type: src
+type: standard
+docid:
+- id: JIS S 8505:1981
+  type: JIS
+  primary: true
+docnumber: S8505
+date:
+- type: issued
+  value: '1981-04-10'
+contributor:
+- organization:
+    name:
+    - content: 全国楽器協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 全国楽器協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: １５幹音以上の音域をもつ木琴について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 全国楽器協会
+ics:
+- code: 97.200.20
+  text: Musical instruments
+structuredidentifier:
+  project_number: S8505
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.9
+id: JISS2091-2013
+title:
+- content: 家庭用燃焼機器用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Gas and kerosene appliances for domestic use, and their accessories --
+    Glossary
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2091%3A2013
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02091_000_000_2013_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS S 2091:2013
+  type: JIS
+  primary: true
+docnumber: S2091
+date:
+- type: issued
+  value: '2013-01-21'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本ガス機器検査協会                                                \r\n
+        \                                                                                           一般財団法人　日本燃焼機器検査協会"
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本ガス機器検査協会                                                \r\n
+        \                                                                                           一般財団法人　日本燃焼機器検査協会"
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 気体燃料及び液体燃料を使用する燃焼機器のうち，主として一般家庭用の燃焼機器に関する用語及びその定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本ガス機器検査協会                                                \r\n                                                                                            一般財団法人　日本燃焼機器検査協会"
+ics:
+- code: 01.040.97
+  text: Domestic and commercial equipment. Entertainment. Sports (Vocabularies)
+- code: 97.100.20
+  text: Gas heaters
+- code: 97.100.40
+  text: Liquid fuel heaters
+structuredidentifier:
+  project_number: S2091
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.9
+id: JISX5055-2-2003
+title:
+- content: セキュリティ技術―メッセージ認証符号（ＭＡＣｓ）―第２部：専用ハッシュ関数を用いる機構
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Security techniques -- Message Authentication
+    Codes (MACs) -- Part 2: Mechanisms using a dedicated hash-function'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5055-2%3A2003
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05055_002_000_2003_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05055_002_000_2003_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5055-2:2003
+  type: JIS
+  primary: true
+docnumber: X5055
+date:
+- type: issued
+  value: '2003-09-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ｎビットを出力するハッシュ関数（又はそのラウンド関数）及び秘密かぎを用いてｍビットのＭＡＣを計算する３種類のＭＡＣアルゴリズムを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X5055
+  type: JIS
+ext:
+  schema-version: v0.0.1

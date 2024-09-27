@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISC8961-2008
+title:
+- content: 太陽光発電用パワーコンディショナの効率測定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Measuring procedure of power conditioner efficiency for photovoltaic systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8961%3A2008
+  type: src
+type: standard
+docid:
+- id: JIS C 8961:2008
+  type: JIS
+  primary: true
+docnumber: C8961
+date:
+- type: issued
+  value: '2008-02-20'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 太陽光発電システム用パワーコンディショナのうち一定交流出力電圧，一定出力周波数の独立形パワーコンディショナ，直流定電圧出力の独立形パワーコンディショナ及び系統連系形パワーコンディショナの効率測定方法について規定。効率は電気的な変換を対象とし，発生する熱の利用などは範囲外とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.160'
+  text: Solar energy engineering
+structuredidentifier:
+  project_number: C8961
+  type: JIS
+ext:
+  schema-version: v0.0.1

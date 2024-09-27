@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISE1508-1978
+title:
+- content: 軌道用軌間ゲージ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Track gauges
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+1508%3A1978
+  type: src
+type: standard
+docid:
+- id: JIS E 1508:1978
+  type: JIS
+  primary: true
+docnumber: E1508
+date:
+- type: issued
+  value: '1978-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道施設協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道施設協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 軌道の軌間及びバックゲージを測定する軌道用ゲージについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄道施設協会
+ics:
+- code: '45.080'
+  text: Rails and railway components
+structuredidentifier:
+  project_number: E1508
+  type: JIS
+ext:
+  schema-version: v0.0.1

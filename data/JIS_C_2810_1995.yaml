@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISC2810-1995
+title:
+- content: 屋内配線用電線コネクタ通則―分離不能形
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules on non-separable type wire connectors for interior wiring
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2810%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS C 2810:1995
+  type: JIS
+  primary: true
+docnumber: C2810
+date:
+- type: issued
+  value: '1995-02-28'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電気設備学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電気設備学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: ６００Ｖ以下の一般屋内配線及び屋側配線において，銅線又はアルミニウム線の接続に使用する圧着，圧縮，など機械的接続による分離不能形電線コネクタについて規定。電線コネクタに適用する電線の範囲は，単線では直径１．０～３．２ｍｍ（アルミ線を除く。），より線及び可とうより線では公称断面積０．７５～１０００ｍｍ×２（１４ｍｍ×２以下のアルミ線を除く。）とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電気設備学会
+ics:
+- code: 29.120.20
+  text: Connecting devices
+structuredidentifier:
+  project_number: C2810
+  type: JIS
+ext:
+  schema-version: v0.0.1

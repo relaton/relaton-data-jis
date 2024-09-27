@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC7311-1980
+title:
+- content: 信頼性保証ＴＴＬ正論理ＮＡＮＤゲート集積回路
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Reliability assured ttl, positive nand gates, integrated circuits
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7311%3A1980
+  type: src
+type: standard
+docid:
+- id: JIS C 7311:1980
+  type: JIS
+  primary: true
+docnumber: C7311
+date:
+- type: issued
+  value: '1980-04-30'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器に用いるＴＴＬ正理論ＮＡＮＤゲート集積回路のうち，信頼性保証が要求されるデバイスタイプについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子機械工業会
+ics:
+- code: '31.200'
+  text: Integrated circuits. Microelectronics
+structuredidentifier:
+  project_number: C7311
+  type: JIS
+ext:
+  schema-version: v0.0.1

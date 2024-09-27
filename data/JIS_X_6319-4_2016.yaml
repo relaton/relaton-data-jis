@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.9
+id: JISX6319-4-2016
+title:
+- content: ＩＣカード実装仕様―第４部：高速処理用近接型ＩＣカード
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Specification of implementation for integrated circuit(s) cards -- Part
+    4: High speed proximity cards'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6319-4%3A2016
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06319_004_000_2016_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06319_004_000_2016_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6319-4:2016
+  type: JIS
+  primary: true
+docnumber: X6319
+date:
+- type: issued
+  value: '2016-03-22'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
+        \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
+        \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 高速化機能をもつ非接触（外部端子のない）近接型ＩＣカードの物理的特性，電波インタフェース，伝送プロトコル，ファイル構造，コマンドなどについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ＩＣカードシステム利用促進協議会
+      \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+ics:
+- code: 35.240.15
+  text: Identification cards. Chip cards. Biometrics
+structuredidentifier:
+  project_number: X6319
+  type: JIS
+ext:
+  schema-version: v0.0.1

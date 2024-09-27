@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX4326-1998
+title:
+- content: 動画信号及び付随する音響信号のはん用符号化―第２部　動画
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Generic coding of moving pictures and associated
+    audio information: Video'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4326%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04326_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4326:1998
+  type: JIS
+  primary: true
+docnumber: X4326
+date:
+- type: issued
+  value: '1998-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ディジタル記録媒体及びディジタル動画通信のための画像情報の符号化表現及びその復号処理について規定。符号化表現は，一定ビット速度伝送，可変ビット速度伝送，ランダムアクセス，チャネル移動，可変性復号及びビット流編集に適用。高速順方向再生，高速逆方向再生，スローモーション，一時停止，静止画像などの特別な機能にも適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X4326
+  type: JIS
+ext:
+  schema-version: v0.0.1

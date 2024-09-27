@@ -1,0 +1,92 @@
+---
+schema-version: v1.2.9
+id: JISB8121-2023
+title:
+- content: コージェネレーション用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Terms and definitions of cogeneration
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8121%3A2023
+  type: src
+type: standard
+docid:
+- id: JIS B 8121:2023
+  type: JIS
+  primary: true
+docnumber: B8121
+date:
+- type: issued
+  value: '2023-09-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　コージェネレーション・エネルギー高度利用センター"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　コージェネレーション・エネルギー高度利用センター"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: コージェネレーションに関して用いる用語のうち，システム一般，環境，計画及び運用，運転制御，構成装置などに関する主な用語について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　コージェネレーション・エネルギー高度利用センター"
+ics:
+- code: 01.040.27
+  text: Energy and heat transfer engineering (Vocabularies)
+- code: 01.040.29
+  text: Electrical engineering (Vocabularies)
+- code: '27.010'
+  text: Energy and heat transfer engineering in general
+- code: 29.160.40
+  text: Generating sets
+structuredidentifier:
+  project_number: B8121
+  type: JIS
+ext:
+  schema-version: v0.0.1

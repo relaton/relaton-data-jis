@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC5700-1974
+title:
+- content: 信頼性保証電子部品通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for reliability assured electronic components
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5700%3A1974
+  type: src
+type: standard
+docid:
+- id: JIS C 5700:1974
+  type: JIS
+  primary: true
+docnumber: C5700
+date:
+- type: issued
+  value: '1974-08-20'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子部品のうち，信頼性保証が要求される部品について信頼性保証プログラム，認証試験，品質保証検査，定期的認証維持試験，故障率などの共通的必要事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: 03.120.01
+  text: Quality in general
+structuredidentifier:
+  project_number: C5700
+  type: JIS
+ext:
+  schema-version: v0.0.1

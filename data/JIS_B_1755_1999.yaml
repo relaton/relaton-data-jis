@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JISB1755-1999
+title:
+- content: 平歯車及びはすば歯車の負荷容量計算方法―材料の強度及び品質
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Calculation of load capacity of spur and helical gears -- Strength and
+    quality of materials
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1755%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01755_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 1755:1999
+  type: JIS
+  primary: true
+docnumber: B1755
+date:
+- type: issued
+  value: '1999-06-30'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本歯車工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本歯車工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 接触応力及び歯元応力についての許容応力値の限界並びに材料品質と熱処理に関する要求事項について規定。すべての歯車装置，基準ラック形状，歯形寸法，設計などに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本歯車工業会
+ics:
+- code: '21.200'
+  text: Gears
+structuredidentifier:
+  project_number: B1755
+  type: JIS
+ext:
+  schema-version: v0.0.1

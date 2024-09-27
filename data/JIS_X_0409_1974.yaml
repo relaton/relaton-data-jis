@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.9
+id: JISX0409-1974
+title:
+- content: 続柄コード
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Code for family relationship
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0409%3A1974
+  type: src
+type: standard
+docid:
+- id: JIS X 0409:1974
+  type: JIS
+  primary: true
+docnumber: X0409
+date:
+- type: issued
+  value: '1974-03-01'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: データ処理機械を用いて機械と機械，機械と人との間で情報を交換する場合の続柄コードについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本情報経済社会推進協会
+structuredidentifier:
+  project_number: X0409
+  type: JIS
+ext:
+  schema-version: v0.0.1

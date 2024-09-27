@@ -1,0 +1,87 @@
+---
+schema-version: v1.2.9
+id: JISX5059-3-1999
+title:
+- content: セキュリティ技術―否認防止―第３部：非対称暗号技術を用いる機構
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Security techniques -- Non-repudiation -- Part
+    3: Mechanisms using asymmetric techniques'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5059-3%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS X 5059-3:1999
+  type: JIS
+  primary: true
+docnumber: X5059
+date:
+- type: issued
+  value: '2000-02-29'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 非対称暗号技術を用いる，通信に関する幾つかの特定の否認防止サービスのための機構を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X5059
+  type: JIS
+ext:
+  schema-version: v0.0.1

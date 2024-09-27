@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISX0610-2006
+title:
+- content: ＤＶＤ-再生専用ディスクのボリューム構造及びファイル構造
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Volume and file structure of DVD read-only Disc
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0610%3A2006
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00610_000_000_2006_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0610:2006
+  type: JIS
+  primary: true
+docnumber: X0610
+date:
+- type: issued
+  value: '2006-03-25'
+- type: confirmed
+  value: '2015-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＤＶＤ－再生専用ディスク用のボリューム構造及びファイル構造として，ブリッジフォーマットを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　光産業技術振興協会
+ics:
+- code: '35.040'
+  text: Information coding
+- code: 35.220.21
+  text: Magnetic disks
+structuredidentifier:
+  project_number: X0610
+  type: JIS
+ext:
+  schema-version: v0.0.1

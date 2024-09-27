@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISE3301-1980
+title:
+- content: 転てつ器標識
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Point indicators
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+3301%3A1980
+  type: src
+type: standard
+docid:
+- id: JIS E 3301:1980
+  type: JIS
+  primary: true
+docnumber: E3301
+date:
+- type: issued
+  value: '1980-02-29'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道電気技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 鉄道信号用の転てつ器標識について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄道電気技術協会
+ics:
+- code: '45.080'
+  text: Rails and railway components
+structuredidentifier:
+  project_number: E3301
+  type: JIS
+ext:
+  schema-version: v0.0.1

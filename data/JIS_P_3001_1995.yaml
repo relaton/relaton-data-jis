@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISP3001-1995
+title:
+- content: 新聞巻取紙
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Newsprints
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+3001%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS P 3001:1995
+  type: JIS
+  primary: true
+docnumber: P3001
+date:
+- type: issued
+  value: '1995-06-30'
+contributor:
+- organization:
+    name:
+    - content: 日本製紙連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本製紙連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: とっ版輪転式新聞印刷に使用する新聞巻取紙について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本製紙連合会
+ics:
+- code: 37.100.20
+  text: Materials for graphic technology
+- code: '85.080'
+  text: Paper products
+structuredidentifier:
+  project_number: P3001
+  type: JIS
+ext:
+  schema-version: v0.0.1

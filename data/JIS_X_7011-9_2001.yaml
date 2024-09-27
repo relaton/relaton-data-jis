@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISX7011-9-2001
+title:
+- content: 行政，商業及び輸送のための電子データ交換（ＥＤＩＦＡＣＴ）―業務レベル構文規則―第９部：セキュリティのためのかぎ及び証明証管理メッセージ（メッセージ種別―ＫＥＹＭＡＮ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Electronic data interchange for administration, commerce and transport
+    (EDIFACT) -- Application level syntax rules (Syntax version number:4) -- Part
+    9: Security key and certificate management message (message type -- KEYMAN)'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7011-9%3A2001
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07011_009_000_2001_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 7011-9:2001
+  type: JIS
+  primary: true
+docnumber: X7011
+date:
+- type: issued
+  value: '2001-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＥＤＩＦＡＣＴにおけるセキュリティのための，かぎ（鍵）及び証明証管理メッセージ（ＫＥＹＭＡＮ）を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本情報経済社会推進協会
+ics:
+- code: '35.040'
+  text: Information coding
+- code: 35.240.60
+  text: IT applications in transport
+structuredidentifier:
+  project_number: X7011
+  type: JIS
+ext:
+  schema-version: v0.0.1

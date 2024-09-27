@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISC5912-2006
+title:
+- content: 波長スイッチ通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules of wavelength switches
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5912%3A2006
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05912_000_000_2006_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 5912:2006
+  type: JIS
+  primary: true
+docnumber: C5912
+date:
+- type: issued
+  value: '2006-03-25'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　光産業技術振興協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 光ファイバを用いた光伝送に使用する波長スイッチの通則であり，用語，分類などの一般的な共通事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　光産業技術振興協会
+ics:
+- code: 33.180.20
+  text: Fibre optic interconnecting devices
+structuredidentifier:
+  project_number: C5912
+  type: JIS
+ext:
+  schema-version: v0.0.1

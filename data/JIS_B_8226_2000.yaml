@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISB8226-2000
+title:
+- content: 破裂板式安全装置
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Bursting discs and bursting disc assemblies
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8226%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08226_000_000_2000_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8226:2000
+  type: JIS
+  primary: true
+docnumber: B8226
+date:
+- type: issued
+  value: '2000-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本高圧力技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本高圧力技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 圧力容器，配管系，ダクトなどの密閉された装置が過剰圧力又は負圧などによって破損することを防止するために設ける，破裂板，ホルダ，バキュームサポートなどの附属書で構成された安全装置について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本高圧力技術協会
+ics:
+- code: '13.240'
+  text: Protection against excessive pressure
+structuredidentifier:
+  project_number: B8226
+  type: JIS
+ext:
+  schema-version: v0.0.1

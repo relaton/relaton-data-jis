@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISK5703-1958
+title:
+- content: 新聞インキ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Press ink
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5703%3A1958
+  type: src
+type: standard
+docid:
+- id: JIS K 5703:1958
+  type: JIS
+  primary: true
+docnumber: K5703
+date:
+- type: issued
+  value: '1974-08-15'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本新聞協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本新聞協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 新聞印刷用インキについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本新聞協会
+ics:
+- code: '87.080'
+  text: Inks. Printing inks
+structuredidentifier:
+  project_number: K5703
+  type: JIS
+ext:
+  schema-version: v0.0.1

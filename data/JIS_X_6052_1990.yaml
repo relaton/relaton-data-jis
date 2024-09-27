@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISX6052-1990
+title:
+- content: フレキシブルディスクカートリッジ装置のインタフェース
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Interface between flexible disk cartridge drives and their host controllers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6052%3A1990
+  type: src
+type: standard
+docid:
+- id: JIS X 6052:1990
+  type: JIS
+  primary: true
+docnumber: X6052
+date:
+- type: issued
+  value: '1990-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　６２０１及びＪＩＳ　Ｘ　６２１１に規定するフレキシブルディスクカートリッジを使用するフレキシブルディスクカートリッジ装置と制御装置と接続するのに必要な機能的，電気的（物理的信号を含む。）及び機械的仕様について規定。機能レベルに通じた使用者が，フレキシブルディスク装置と制御装置を容易に接続できるようにすることが目的。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.220.21
+  text: Magnetic disks
+structuredidentifier:
+  project_number: X6052
+  type: JIS
+ext:
+  schema-version: v0.0.1

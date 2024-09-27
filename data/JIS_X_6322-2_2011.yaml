@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISX6322-2-2011
+title:
+- content: 識別カード―非接触（外部端子なし）ＩＣカード―近接型―第２部：電力伝送及び信号インタフェース
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Identification cards -- Contactless integrated circuit cards -- Proximity
+    cards -- Part 2: Radio frequency power and signal interface'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6322-2%3A2011
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06322_002_000_2011_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6322-2:2011
+  type: JIS
+  primary: true
+docnumber: X6322
+date:
+- type: issued
+  value: '2011-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
+        \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
+        \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 近接型カード又は同様な動作をする対象物（ＰＩＣＣ）とその結合装置（ＰＣＤ）との間の電力伝送及び双方向通信に必要な磁界の特性について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ＩＣカードシステム利用促進協議会
+      \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+ics:
+- code: 35.240.15
+  text: Identification cards. Chip cards. Biometrics
+structuredidentifier:
+  project_number: X6322
+  type: JIS
+ext:
+  schema-version: v0.0.1

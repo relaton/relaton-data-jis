@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: JISB8463-2022
+title:
+- content: 除じん（塵）型床面清掃ロボット
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Floor vacuum cleaner robots
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8463%3A2022
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08463_000_000_2022_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8463:2022
+  type: JIS
+  primary: true
+docnumber: B8463
+date:
+- type: issued
+  value: '2022-03-22'
+contributor:
+- organization:
+    name:
+    - content: 日本ビルメンロボット協議会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本ビルメンロボット協議会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 除じん（塵）型床面清掃ロボットのうち，全ての特徴をもつ清掃ロボットにおける，性能要求事項，安全要求事項，試験方法及び検査方法について規定。ただし，家庭用の清掃ロボットには適用しない。屋内の水平かつ平たん（坦）な床を清掃する清掃ロボット；二次電池で駆動する清掃ロボット；水平かつ平たんな床において，電源停止状態で転倒しない静的安定な機構をもつ清掃ロボット；自己位置認識，経路計画，走行制御などによって自律的に経路を設定し，移動する清掃ロボット；作業用マニピュレータをもたない清掃ロボット
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本ビルメンロボット協議会
+ics:
+- code: 25.040.30
+  text: Industrial robots. Manipulators
+structuredidentifier:
+  project_number: B8463
+  type: JIS
+ext:
+  schema-version: v0.0.1

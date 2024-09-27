@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISF9012-2002
+title:
+- content: 離着桟操船援助システム
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Ship's berthing control system
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+9012%3A2002
+  type: src
+type: standard
+docid:
+- id: JIS F 9012:2002
+  type: JIS
+  primary: true
+docnumber: F9012
+date:
+- type: issued
+  value: '2002-05-31'
+- type: confirmed
+  value: '2022-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 離着桟操船援助システムを設計する場合の一般的事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: '13.200'
+  text: Accident and disaster control
+- code: 35.240.60
+  text: IT applications in transport
+- code: 47.020.70
+  text: Navigation and control equipment
+structuredidentifier:
+  project_number: F9012
+  type: JIS
+ext:
+  schema-version: v0.0.1

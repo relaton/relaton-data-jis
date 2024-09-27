@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC4004-1992
+title:
+- content: 回転電気機械通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for rotating electrical machines
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4004%3A1992
+  type: src
+type: standard
+docid:
+- id: JIS C 4004:1992
+  type: JIS
+  primary: true
+docnumber: C4004
+date:
+- type: issued
+  value: '1992-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 各種の回転電気機械に共通な一般標準事項について規定。回転機とは，回転部分をもち，電磁誘導作用に基づき，電力（無効電力を含む。）の発生，変換若しくは変圧を行い，又は電力を受けて，機械動力を発生する電気機械をいう。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電気学会
+ics:
+- code: 29.160.01
+  text: Rotating machinery in general
+structuredidentifier:
+  project_number: C4004
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISX4062-1998
+title:
+- content: 仮名漢字変換辞書交換形式
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Format for information interchange for dictionaries of Japanese input method
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4062%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04062_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 4062:1998
+  type: JIS
+  primary: true
+docnumber: X4062
+date:
+- type: issued
+  value: '1998-06-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 仮名漢字変換において，日本語の通常の書き言葉に用いられる単語の交換形式を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X4062
+  type: JIS
+ext:
+  schema-version: v0.0.1

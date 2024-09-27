@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISZ3851-1992
+title:
+- content: マイクロソルダリング技術検定における試験方法及び判定基準
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Standard qualification procedure for micro soldering technique
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3851%3A1992
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03851_000_000_1992_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 3851:1992
+  type: JIS
+  primary: true
+docnumber: Z3851
+date:
+- type: issued
+  value: '1992-11-30'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本溶接協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本溶接協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: すず－鉛系はんだを用いて電気機器，電子機器，通信機器，それら部品の組立などを対象としたマイクロソルダリング（微細はんだ付）の技術検定における試験方法及びその判定基準について規定。自動機によるマイクロソルダリングは除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本溶接協会
+ics:
+- code: 25.160.50
+  text: Brazing and soldering
+structuredidentifier:
+  project_number: Z3851
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISR3701-1990
+title:
+- content: Ｘ線防護用鉛ガラス
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Lead glass for X-ray protection
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+3701%3A1990
+  type: src
+type: standard
+docid:
+- id: JIS R 3701:1990
+  type: JIS
+  primary: true
+docnumber: R3701
+date:
+- type: issued
+  value: '1990-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本画像医療システム工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本画像医療システム工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: Ｘ線防護のために用いるＸ線防護用鉛ガラスについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本画像医療システム工業会
+ics:
+- code: '13.280'
+  text: Radiation protection
+- code: 81.040.30
+  text: Glass products
+structuredidentifier:
+  project_number: R3701
+  type: JIS
+ext:
+  schema-version: v0.0.1

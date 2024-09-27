@@ -1,0 +1,96 @@
+---
+schema-version: v1.2.9
+id: JISD5301-2019
+title:
+- content: 始動用鉛蓄電池
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Lead-acid starter batteries
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+5301%3A2019
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_05301_000_000_2019_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_05301_000_000_2019_e_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS D 5301:2019
+  type: JIS
+  primary: true
+docnumber: D5301
+date:
+- type: issued
+  value: '2019-03-20'
+- type: confirmed
+  value: '2023-06-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電池工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電池工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 自動車などの内燃機関の始動，点灯，点火などに使用する公称電圧が１２Ｖの鉛蓄電池について規定。鉄道車両，二輪自動車，電気自動車などの駆動用の鉛蓄電池及び制御弁式鉛蓄電池には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電池工業会"
+ics:
+- code: 29.220.20
+  text: Acid secondary cells and batteries
+- code: 43.060.50
+  text: Electrical and electronic equipment. Control systems
+structuredidentifier:
+  project_number: D5301
+  type: JIS
+ext:
+  schema-version: v0.0.1

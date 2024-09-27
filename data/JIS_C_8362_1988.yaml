@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.9
+id: JISC8362-1988
+title:
+- content: オールカバースイッチ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Enclosed switches (ac 250 v and below)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8362%3A1988
+  type: src
+type: standard
+docid:
+- id: JIS C 8362:1988
+  type: JIS
+  primary: true
+docnumber: C8362
+date:
+- type: issued
+  value: '1989-01-31'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本配線器具工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本配線器具工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 周波数５０Ｈｚ又は６０Ｈｚの交流２５０Ｖ以下の電路において使用するつめ付ヒューズ付き及びヒューズなしのオールカバースイッチで定格電流が１００Ａ以下及び定格容量が３．７ｋＷ以下のものについて規定。ただし制御回路専用に使用するもの及び防水形，防爆形など特殊保護構造のものは含まない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本配線器具工業会
+structuredidentifier:
+  project_number: C8362
+  type: JIS
+ext:
+  schema-version: v0.0.1

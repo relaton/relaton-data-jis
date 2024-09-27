@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISZ4820-2002
+title:
+- content: グローブボックス気密試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Test method for leakage of glove boxes
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4820%3A2002
+  type: src
+type: standard
+docid:
+- id: JIS Z 4820:2002
+  type: JIS
+  primary: true
+docnumber: Z4820
+date:
+- type: issued
+  value: '2002-04-30'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　日本保安用品協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　日本保安用品協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 放射性同位元素取扱施設，核燃料施設などで，放射性物質を取り扱うグローブボックスの気密試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　日本保安用品協会
+ics:
+- code: '13.280'
+  text: Radiation protection
+- code: 27.120.30
+  text: Fissile materials and nuclear fuel technology
+structuredidentifier:
+  project_number: Z4820
+  type: JIS
+ext:
+  schema-version: v0.0.1

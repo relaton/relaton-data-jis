@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISS2351-1994
+title:
+- content: 炭酸飲料用ガラスびん
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Carbonated beverage bottles
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2351%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS S 2351:1994
+  type: JIS
+  primary: true
+docnumber: S2351
+date:
+- type: issued
+  value: '1994-06-30'
+contributor:
+- organization:
+    name:
+    - content: 日本ガラスびん協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本ガラスびん協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 内容物の圧力が２０℃で，０．４９ＭＰａ（ゲージ圧）以下の炭酸飲料用の回収使用を目的とするガラスびんで未使用のものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本ガラスびん協会
+ics:
+- code: '55.100'
+  text: Bottles. Pots. Jars
+structuredidentifier:
+  project_number: S2351
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: TRX0086-2003
+title:
+- content: 顔認証システムの精度評価方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Evaluation Method for Accuracy of Face Authentication Systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0086%3A2003
+  type: src
+type: standard
+docid:
+- id: TR X 0086:2003
+  type: JIS
+  primary: true
+docnumber: X0086
+date:
+- type: issued
+  value: '2003-04-01'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 顔認証システムとは，「あらかじめ登録した顔の登録データと，ユーザが登録者であることを主張して新たに入力された顔を比較し，顔が一致したか否かを判定する照合アルゴリズムされた顔を比較し，当該ユーザが登録された人物の内の誰かを判定する識別アルゴリズム，識別装置，個人識別システム」とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: '13.310'
+  text: Protection against crime
+- code: 35.240.99
+  text: IT applications in other fields
+structuredidentifier:
+  project_number: X0086
+  type: JIS
+ext:
+  schema-version: v0.0.1

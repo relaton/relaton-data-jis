@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISX7778-2001
+title:
+- content: 音響―情報技術装置の表示騒音放射値
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Acoustics -- Declared noise emission values of computer and business equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7778%3A2001
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07778_000_000_2001_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 7778:2001
+  type: JIS
+  primary: true
+docnumber: X7778
+date:
+- type: issued
+  value: '2001-05-31'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 情報技術装置に適用。表示騒音放射値を算出するための方法；製造業者によってユーザ向けに提供される技術文書内で与えられるべき騒音に関する情報及び製品情報；製造業者によって提供された表示騒音放射値を検証するための方法の事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　ビジネス機械・情報システム産業協会
+ics:
+- code: 17.140.20
+  text: Noise emitted by machines and equipment
+- code: '35.020'
+  text: Information technology (IT) in general
+structuredidentifier:
+  project_number: X7778
+  type: JIS
+ext:
+  schema-version: v0.0.1

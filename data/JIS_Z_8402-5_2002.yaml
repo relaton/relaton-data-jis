@@ -1,0 +1,96 @@
+---
+schema-version: v1.2.9
+id: JISZ8402-5-2002
+title:
+- content: 測定方法及び測定結果の精確さ（真度及び精度）―第５部：標準測定方法の精度を求めるための代替法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Accuracy (trueness and precision) of measurement methods and results --
+    Part 5: Alternative methods for the determination of the precision of a standard
+    measurement method'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8402-5%3A2002
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08402_005_000_2002_j_ed11_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08402_005_000_2002_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 8402-5:2002
+  type: JIS
+  primary: true
+docnumber: Z8402
+date:
+- type: issued
+  value: '2002-07-31'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 標準測定方法の併行標準偏差及び再現標準偏差を求めるための基本的方法に対する代替方法，すなわち水準分割計画及び不均質物質に関する計画の詳細；計算からデータを除外するための外れ値の検定を行うことなく精度評価実験の結果を解析するロバストな方法，特にその詳細な適用方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 03.120.30
+  text: Application of statistical methods
+- code: '17.020'
+  text: Metrology and measurement in general
+structuredidentifier:
+  project_number: Z8402
+  type: JIS
+ext:
+  schema-version: v0.0.1

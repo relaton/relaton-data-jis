@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5109-2000
+title:
+- content: 開放型システム間相互接続―コネクション型トランスポートプロトコル仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Open Systems Interconnection -- Protocol for
+    Providing the connection-mode transport service
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5109%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05109_000_000_2000_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5109:2000
+  type: JIS
+  primary: true
+docnumber: X5109
+date:
+- type: issued
+  value: '2000-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ａ）コネクション型ネットワークサービス上で動作する手順の五つのプロトコルクラス　１）クラス０　単純ラクス；２）クラス１　基本誤り回復クラス；３）クラス２　多重化クラス；４）クラス３　誤り回復多重化クラス；４５）クラス４　誤り検出回復クラス　ｂ）コネクションレス型ネットワークサービス上で動作する手順の一つのプロトコルクラス（クラス４）　ｃ）トランスポートエンティティによって使われる手順のクラスを折衝する方法　ｄ）データ及び制御情報の伝送に使われるトランスポーチプロトコルデータ単位（ＴＰＤＵ）の構造及び符号か方法　の事項を規定。　
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.40
+  text: Transport layer
+structuredidentifier:
+  project_number: X5109
+  type: JIS
+ext:
+  schema-version: v0.0.1

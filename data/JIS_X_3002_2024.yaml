@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISX3002-2024
+title:
+- content: 電子計算機プログラム言語ＣＯＢＯＬ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Programming languages, their environments and
+    system software interfaces -- Programming language COBOL
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3002%3A2024
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03002_000_000_2024_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 3002:2024
+  type: JIS
+  primary: true
+docnumber: X3002
+date:
+- type: issued
+  value: '2024-04-22'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＣＯＢＯＬの構文及びその意味について規定。目的は，ＣＯＢＯＬプログラムを各種のデータ処理システム上で使用できるように，プログラムの高度な機種独立性を促進することにある。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+structuredidentifier:
+  project_number: X3002
+  type: JIS
+ext:
+  schema-version: v0.0.1

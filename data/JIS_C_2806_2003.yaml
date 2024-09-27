@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISC2806-2003
+title:
+- content: 銅線用裸圧着スリーブ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Non-insulated crimp-type sleeves for copper conductors
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2806%3A2003
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02806_000_000_2003_j_ed12_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 2806:2003
+  type: JIS
+  primary: true
+docnumber: C2806
+date:
+- type: issued
+  value: '2003-06-20'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 機器用配線及び屋内配線に使用する軟銅のより線又は単線の電線相互を接続するために，ＪＩＳ　Ｃ　９７１１に規定する接続工具又は裸圧着スリーブの製造業者が指定する接続工具を用いて，その電線相互を圧着接続する裸圧着スリーブについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: 29.120.20
+  text: Connecting devices
+structuredidentifier:
+  project_number: C2806
+  type: JIS
+ext:
+  schema-version: v0.0.1

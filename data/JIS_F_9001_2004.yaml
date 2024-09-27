@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISF9001-2004
+title:
+- content: 船内総合情報システム設計通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Shipbuilding -- Integrated information systems -- General specifications
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+9001%3A2004
+  type: src
+type: standard
+docid:
+- id: JIS F 9001:2004
+  type: JIS
+  primary: true
+docnumber: F9001
+date:
+- type: issued
+  value: '2004-12-10'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 船内総合情報システム（少人数で運航する船舶の経済的，かつ，安全な運航に寄与することを目的に，船内（外）の必要とするすべての情報を集中し，これらに適切な処理を加え，表示装置などを用いて乗組員に適格な状況ができる情報を迅速に伝達するシステム）を設計する場合の一般事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 47.020.70
+  text: Navigation and control equipment
+structuredidentifier:
+  project_number: F9001
+  type: JIS
+ext:
+  schema-version: v0.0.1

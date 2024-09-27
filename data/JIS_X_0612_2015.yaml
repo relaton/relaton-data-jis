@@ -1,0 +1,92 @@
+---
+schema-version: v1.2.9
+id: JISX0612-2015
+title:
+- content: ユニバーサルディスクフォーマット（ＵＤＦ）１．５０
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Universal Disk Format (UDF) 1.50
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0612%3A2015
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00612_000_000_2015_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0612:2015
+  type: JIS
+  primary: true
+docnumber: X0612
+date:
+- type: issued
+  value: '2015-11-20'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＪＩＳ　Ｘ　０６０７規格類（ＪＩＳ　Ｘ　０６０７：２００１，ＩＳＯ／ＩＥＣ　１３３４６－２，ＩＳＯ／ＩＥＣ　１３３４６－３，ＩＳＯ／ＩＥＣ　１３３４６－４及びＩＳＯ／ＩＥＣ　１３３４６－５）の部分集合として，ＵＤＦ　１．５０を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　光産業技術振興協会"
+ics:
+- code: 35.220.21
+  text: Magnetic disks
+- code: 35.220.30
+  text: Optical storage devices
+structuredidentifier:
+  project_number: X0612
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: JISC8109-2016
+title:
+- content: ネオン変圧器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Luminous-tube transformers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8109%3A2016
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08109_000_000_2016_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8109:2016
+  type: JIS
+  primary: true
+docnumber: C8109
+date:
+- type: issued
+  value: '2016-11-21'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ５０Ｈｚ又は６０Ｈｚで１　０００Ｖ以下の交流電源で用い，１　０００Ｖを超え，１５　０００Ｖ以下の定格無負荷出力電圧を管形冷陰極放電ランプに供給し，安定させる入出力巻線が分離された独立形又は機器組込形の単相変圧器（以下，変圧器という。）について規定。低圧及び高圧のナトリウム灯，高圧の水銀灯，ハロゲンランプ，キセノンランプ，熱陰極管形蛍光灯，コピー機用特殊ランプなどのランプ用又は管用の変圧器には適用しない。単巻変圧器及び電子式変換装置には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 29.140.30
+  text: Fluorescent lamps. Discharge lamps
+structuredidentifier:
+  project_number: C8109
+  type: JIS
+ext:
+  schema-version: v0.0.1

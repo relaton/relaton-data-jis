@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISD1044-2001
+title:
+- content: 二輪自動車―ガソリン機関排出ガス測定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Powered two-wheeled vehicles -- Measurement method of exhaust (tail pipe)
+    gases from spark ignition engines
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+1044%3A2001
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01044_000_000_2001_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01044_000_000_2001_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS D 1044:2001
+  type: JIS
+  primary: true
+docnumber: D1044
+date:
+- type: issued
+  value: '2001-02-28'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ガソリンを燃料とする火花点火エンジンを搭載した二輪自動車（原動機付自転車，二輪自動車及び側車付二輪自動車を指す。）がモード運転又はアイドリング運転を行ったときに発生する排気ガスを，分析計を用い，空気で薄めた試料を採取して測定する希釈測定法及び排気管から直接試料を採取して測定する直接測定法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　自動車技術会"
+ics:
+- code: 13.040.50
+  text: Transport exhaust emissions
+- code: '43.140'
+  text: Motorcycles and mopeds
+structuredidentifier:
+  project_number: D1044
+  type: JIS
+ext:
+  schema-version: v0.0.1

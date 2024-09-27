@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISF8013-1991
+title:
+- content: 船用電気図記号―通信，計測，航海及び無線関係
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Graphical symbols for electrical apparatus for marine use engineering drawings
+    -- Communication, instrumentation, navigation and radio
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8013%3A1991
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_08013_000_000_1991_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS F 8013:1991
+  type: JIS
+  primary: true
+docnumber: F8013
+date:
+- type: issued
+  value: '1991-10-31'
+- type: confirmed
+  value: '2022-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 船内における電気機器の取付位置，相互の系統などを示す図面に使用する図記号のうち，通信機器，計測装置，航海装置などについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 01.080.20
+  text: Graphical symbols for use on specific equipment
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+structuredidentifier:
+  project_number: F8013
+  type: JIS
+ext:
+  schema-version: v0.0.1

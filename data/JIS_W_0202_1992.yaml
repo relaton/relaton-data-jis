@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISW0202-1992
+title:
+- content: 航空機用対気速度計―差圧表
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Airspeed indicators -- Table of differential pressure
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+0202%3A1992
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_w_00202_000_000_1992_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS W 0202:1992
+  type: JIS
+  primary: true
+docnumber: W0202
+date:
+- type: issued
+  value: '1992-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本航空宇宙工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 対気速度１７００ｋｍ／ｈ及び１０００ｋｔまで全圧のと静圧との差圧について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本航空宇宙工業会
+ics:
+- code: '49.090'
+  text: On-board equipment and instruments
+structuredidentifier:
+  project_number: W0202
+  type: JIS
+ext:
+  schema-version: v0.0.1

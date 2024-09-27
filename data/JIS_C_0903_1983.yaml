@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC0903-1983
+title:
+- content: 一般用電気機器の防爆構造通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electrical apparatus for explosive atmospheres in general industry
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0903%3A1983
+  type: src
+type: standard
+docid:
+- id: JIS C 0903:1983
+  type: JIS
+  primary: true
+docnumber: C0903
+date:
+- type: issued
+  value: '1983-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ガス蒸気危険場所に単独又は他の機械，装置の一部として使用する電気機械及び電気器具の防爆構造について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: 29.260.20
+  text: Electrical apparatus for explosive atmospheres
+structuredidentifier:
+  project_number: C0903
+  type: JIS
+ext:
+  schema-version: v0.0.1

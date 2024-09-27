@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISX5731-8-2003
+title:
+- content: 開放型システム間相互接続―ディレクトリ―第８部　認証の枠組み
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Open Systems Interconnection -- The Directory:
+    Public-key and attribute certificate frameworks'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5731-8%3A2003
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05731_008_000_2003_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5731-8:2003
+  type: JIS
+  primary: true
+docnumber: X5731
+date:
+- type: issued
+  value: '2003-10-20'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会　情報規格調査会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会　情報規格調査会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 認証及びその他のセキリュティサービスの領域におけるセキュリティ要件を，十分なサービスの基礎である枠組み一式の提供を通して取り扱う。ａ）公開かぎ証明書の枠組み　ｂ）属性証明書の枠組み　ｃ）認証サービスの枠組みを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会　情報規格調査会"
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5731
+  type: JIS
+ext:
+  schema-version: v0.0.1

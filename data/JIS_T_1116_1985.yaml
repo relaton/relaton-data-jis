@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JIST1116-1985
+title:
+- content: 臨床用観血式血圧計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Direct blood-pressure meters for clinical use
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1116%3A1985
+  type: src
+type: standard
+docid:
+- id: JIS T 1116:1985
+  type: JIS
+  primary: true
+docnumber: T1116
+date:
+- type: issued
+  value: '1985-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 心臓カテーテル，せん（穿）刺針などを用い，血液に直接に接する液体を介して心臓及び血管系の内圧を体外に導き，電気信号に変換し，指示又は記録する観血式血圧計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+structuredidentifier:
+  project_number: T1116
+  type: JIS
+ext:
+  schema-version: v0.0.1

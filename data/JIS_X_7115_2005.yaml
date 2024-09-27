@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX7115-2005
+title:
+- content: 地理情報－メタデータ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Geographic information -- Metadata
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7115%3A2005
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07115_000_000_2005_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 7115:2005
+  type: JIS
+  primary: true
+docnumber: X7115
+date:
+- type: issued
+  value: '2005-04-01'
+- type: confirmed
+  value: '2011-10-25'
+contributor:
+- organization:
+    name:
+    - content: 公益財団法人　日本測量調査技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益財団法人　日本測量調査技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 地理情報及びサービスの記述のための必要となるスキーマ，ディジタル地理データの識別，範囲，品質，空間及び時間スキーマ，空間参照並びに配布について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益財団法人　日本測量調査技術協会
+ics:
+- code: 35.240.70
+  text: IT applications in science
+structuredidentifier:
+  project_number: X7115
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5731-10-2004
+title:
+- content: 開放型システム間相互接続－ディレクトリ－第１０部　システム管理を利用したディレクトリの管理
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Open Systems Interconnection -- The Directory
+    -- Part 10: Use of systems management for administration of the Directory'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5731-10%3A2004
+  type: src
+type: standard
+docid:
+- id: JIS X 5731-10:2004
+  type: JIS
+  primary: true
+docnumber: X5731
+date:
+- type: issued
+  value: '2004-11-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ディレクトリ管理の要件を規定し，これらの要件について分析し，開放型システム間相互接続（ＯＳＩ）システム管理サービス（及び，プロトコル）によって実現される部分，ディレクトリサービス（及び，プロトコル）によって実現される部分及び局所的に実現される部分に整理する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5731
+  type: JIS
+ext:
+  schema-version: v0.0.1

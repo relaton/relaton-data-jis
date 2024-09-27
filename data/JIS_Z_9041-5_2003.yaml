@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISZ9041-5-2003
+title:
+- content: データの統計的な解釈方法―第５部：メディアン―推定及び信頼区間
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Statistical interpretation of data -- Part 5: Median -- Estimation and
+    confidence intervals'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9041-5%3A2003
+  type: src
+type: standard
+docid:
+- id: JIS Z 9041-5:2003
+  type: JIS
+  primary: true
+docnumber: Z9041
+date:
+- type: issued
+  value: '2003-03-20'
+- type: confirmed
+  value: '2022-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 母集団から採取したサンプルサイズｎのランダムサンプルに基づき，母集団が連続確率分布の場合のメディアンに関する点推定値と信頼区間を求める方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 03.120.30
+  text: Application of statistical methods
+structuredidentifier:
+  project_number: Z9041
+  type: JIS
+ext:
+  schema-version: v0.0.1

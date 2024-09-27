@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISA4006-1994
+title:
+- content: 温水ボイラ用シスターン
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Cisterns for hot-water boiler
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+4006%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS A 4006:1994
+  type: JIS
+  primary: true
+docnumber: A4006
+date:
+- type: issued
+  value: '1994-08-31'
+contributor:
+- organization:
+    name:
+    - content: 日本暖房機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本暖房機器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 給湯，飲料水用又は暖房に使用される温水ボイラ及び貯湯槽など（間接加熱器を含む。）に対して所定の水頭圧以下に保ち温水の膨張，収縮を吸収し，かつ温水の使用量に応じ自動的に給水を行うために公営水道などの給水管と温水ボイラ又は貯湯そうの中間に設けられる開方式温水ボイラ用シスターンについて規定。温水ボイラなどの機器に内蔵されたシスターンについては適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本暖房機器工業会
+ics:
+- code: 27.060.30
+  text: Boilers and heat exchangers
+structuredidentifier:
+  project_number: A4006
+  type: JIS
+ext:
+  schema-version: v0.0.1

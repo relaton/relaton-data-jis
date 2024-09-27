@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISZ8906-1977
+title:
+- content: 機械彫刻用標準書体（ひらがな）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Standard type of letters used in mechanical engraving (Hiragana characters)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8906%3A1977
+  type: src
+type: standard
+docid:
+- id: JIS Z 8906:1977
+  type: JIS
+  primary: true
+docnumber: Z8906
+date:
+- type: issued
+  value: '1977-12-30'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 全国工業彫刻連絡協議会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 全国工業彫刻連絡協議会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 彫刻盤によって彫刻するひらがなを，小形に彫刻するときの標準書体について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 全国工業彫刻連絡協議会
+ics:
+- code: 01.140.10
+  text: Writing and transliteration
+structuredidentifier:
+  project_number: Z8906
+  type: JIS
+ext:
+  schema-version: v0.0.1

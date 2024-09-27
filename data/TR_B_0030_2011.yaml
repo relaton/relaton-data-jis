@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: TRB0030-2011
+title:
+- content: 機械類の安全性―安全関連通信システムの使用指針
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Safety of machinery -- Guidelines for the use of communication systems
+    in safety-related applications
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+B+0030%3A2011
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_tr_b_00030_000_000_2011_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: TR B 0030:2011
+  type: JIS
+  primary: true
+docnumber: B0030
+date:
+- type: issued
+  value: '2011-08-01'
+contributor:
+- organization:
+    name:
+    - content: "一般社団法人　日本機械工業連合会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般社団法人　日本機械工業連合会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 機械の安全機能を実現するため安全関連データ通信時に使用する閉鎖形シリアル・デジタル通信システム（いわゆる，フィールドバス）の使用方法について述べる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: "一般社団法人　日本機械工業連合会                                                \r\n                                                                                            一般社団法人　日本電気制御機器工業会"
+ics:
+- code: '13.110'
+  text: Safety of machinery
+- code: '29.020'
+  text: Electrical engineering in general
+- code: '35.100'
+  text: Open systems interconnection (OSI)
+structuredidentifier:
+  project_number: B0030
+  type: JIS
+ext:
+  schema-version: v0.0.1

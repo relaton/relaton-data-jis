@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC9701-1992
+title:
+- content: 乾電池式ブザー
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Dry battery type buzzers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9701%3A1992
+  type: src
+type: standard
+docid:
+- id: JIS C 9701:1992
+  type: JIS
+  primary: true
+docnumber: C9701
+date:
+- type: issued
+  value: '1992-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電池工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電池工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 乾電池を電源として用い，電磁的に振動板を振動させて信号音を発生する乾電池式ブザーについて規定。交直両用のものを除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電池工業会
+ics:
+- code: '97.190'
+  text: Equipment for children
+structuredidentifier:
+  project_number: C9701
+  type: JIS
+ext:
+  schema-version: v0.0.1

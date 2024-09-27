@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: JISC0446-1999
+title:
+- content: 色又は数字による電線の識別
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Identification of conductors by colours or numerals
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0446%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS C 0446:1999
+  type: JIS
+  primary: true
+docnumber: C0446
+date:
+- type: issued
+  value: '1999-11-30'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: ケーブルの絶縁線心，配線に用いる絶縁電線及び機器内で識別を必要とする個々の絶縁電線と裸線を色又は数字によって識別する場合に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '29.020'
+  text: Electrical engineering in general
+- code: 29.060.10
+  text: Wires
+structuredidentifier:
+  project_number: C0446
+  type: JIS
+ext:
+  schema-version: v0.0.1

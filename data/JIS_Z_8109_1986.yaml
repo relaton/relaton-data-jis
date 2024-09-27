@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISZ8109-1986
+title:
+- content: 音響用語（聴覚・音声・音楽）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of acoustical terms (HearingSpeechMusic)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8109%3A1986
+  type: src
+type: standard
+docid:
+- id: JIS Z 8109:1986
+  type: JIS
+  primary: true
+docnumber: Z8109
+date:
+- type: issued
+  value: '1986-02-28'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本音響学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本音響学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 聴覚・音声・音楽に関する用語について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本音響学会
+ics:
+- code: 01.040.17
+  text: Metrology and measurement. Physical phenomena (Vocabularies)
+- code: 17.140.01
+  text: Acoustic measurements and noise abatement in general
+structuredidentifier:
+  project_number: Z8109
+  type: JIS
+ext:
+  schema-version: v0.0.1

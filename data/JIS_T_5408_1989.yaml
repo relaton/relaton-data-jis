@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JIST5408-1989
+title:
+- content: 歯科用骨やすり
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Dental bone files
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+5408%3A1989
+  type: src
+type: standard
+docid:
+- id: JIS T 5408:1989
+  type: JIS
+  primary: true
+docnumber: T5408
+date:
+- type: issued
+  value: '1989-12-31'
+contributor:
+- organization:
+    name:
+    - content: 日本歯科器械工業協同組合
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本歯科器械工業協同組合
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 歯科用骨やすりについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本歯科器械工業協同組合
+ics:
+- code: 11.060.20
+  text: Dental equipment
+structuredidentifier:
+  project_number: T5408
+  type: JIS
+ext:
+  schema-version: v0.0.1

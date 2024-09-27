@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX0404-1987
+title:
+- content: 職業分類コード
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Occupation classification code
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0404%3A1987
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00404_000_000_1987_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0404:1987
+  type: JIS
+  primary: true
+docnumber: X0404
+date:
+- type: issued
+  value: '1987-07-31'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: ''
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: データ処理機械を用いて，機械と機械との間及び機械と人との間で情報を交換する場合の職業分類コードについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: ''
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X0404
+  type: JIS
+ext:
+  schema-version: v0.0.1

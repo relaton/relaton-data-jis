@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISC5130-1995
+title:
+- content: 電子機器用固定磁器コンデンサ通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules of fixed ceramic capacitors for use in electronic equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5130%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS C 5130:1995
+  type: JIS
+  primary: true
+docnumber: C5130
+date:
+- type: issued
+  value: '1995-04-30'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器に用いる固定磁器コンデンサの品種別通則であり，形名，定格，外観，構造，寸法，表示，材料，性能及び個別規格に規定する事項の基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子機械工業会
+ics:
+- code: 31.060.10
+  text: Fixed capacitors
+- code: 31.060.20
+  text: Ceramic and mica capacitors
+structuredidentifier:
+  project_number: C5130
+  type: JIS
+ext:
+  schema-version: v0.0.1

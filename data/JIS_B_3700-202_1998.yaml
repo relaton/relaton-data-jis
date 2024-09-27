@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISB3700-202-1998
+title:
+- content: 産業オートメーションシステム及びその統合―製品データの表現及び交換―第２０２部：アプリケーションプロトコル：製品形状と関連した製図
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Industrial automation systems and integration -- Product data representation
+    and exchange -- Part 202: Application protocol: Associative draughting'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3700-202%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03700_202_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 3700-202:1998
+  type: JIS
+  primary: true
+docnumber: B3700
+date:
+- type: issued
+  value: '1998-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 製品形状と関連したセイズについて，その範囲及び情報要件に必要な統合リソースの使い方を規定。計算機が解釈可能な図面情報及びそれと関連付けられた製品定義データの組織間における交換に対して適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本情報経済社会推進協会
+ics:
+- code: 25.040.40
+  text: Industrial process measurement and control
+structuredidentifier:
+  project_number: B3700
+  type: JIS
+ext:
+  schema-version: v0.0.1

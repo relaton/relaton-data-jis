@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC9204-1976
+title:
+- content: 電気裁縫こて
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Japanese style electric irons
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9204%3A1976
+  type: src
+type: standard
+docid:
+- id: JIS C 9204:1976
+  type: JIS
+  primary: true
+docnumber: C9204
+date:
+- type: issued
+  value: '1976-12-28'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 単相交流で定格電圧３００Ｖ以下，定格消費電力が２００Ｗ以下の家庭用電気裁縫こてについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '97.060'
+  text: Laundry appliances
+structuredidentifier:
+  project_number: C9204
+  type: JIS
+ext:
+  schema-version: v0.0.1

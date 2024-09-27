@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISA1409-1998
+title:
+- content: 残響室法吸音率の測定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Method for measurement of sound absorption coefficients in a reverberation
+    room
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1409%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01409_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS A 1409:1998
+  type: JIS
+  primary: true
+docnumber: A1409
+date:
+- type: issued
+  value: '1999-04-30'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　建材試験センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　建材試験センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 残響室内に設置した，壁・天井仕上げとして用いられる音響材料の吸音率，又は家具，人，吸音体などの物体を対称とする等価吸音面積の測定方法を規定。共鳴特性の鋭い共鳴器の吸音率特性の測定は意図していない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　建材試験センター
+ics:
+- code: 17.140.01
+  text: Acoustic measurements and noise abatement in general
+- code: 91.120.20
+  text: Acoustics in building. Sound insulation
+structuredidentifier:
+  project_number: A1409
+  type: JIS
+ext:
+  schema-version: v0.0.1

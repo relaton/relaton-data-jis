@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.9
+id: JISB0011-1-1998
+title:
+- content: 製図―配管の簡略図示方法―第１部：通則及び正投影図
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Technical drawings -- Simplified representation of pipelines -- Part 1:
+    General rules and orthogonal representation'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0011-1%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00011_001_000_1998_j_pr20_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00011_001_000_1998_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 0011-1:1998
+  type: JIS
+  primary: true
+docnumber: B0011
+date:
+- type: issued
+  value: '1998-02-28'
+- type: confirmed
+  value: '2023-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: すべての材料製のあらゆる種類の管及び配管〔剛体及び可とう（撓）体〕を表すための簡略図の作成について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 01.100.01
+  text: Technical drawings in general
+- code: 23.040.01
+  text: Pipeline components and pipelines in general
+structuredidentifier:
+  project_number: B0011
+  type: JIS
+ext:
+  schema-version: v0.0.1

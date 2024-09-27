@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISB9707-2002
+title:
+- content: 機械類の安全性―危険区域に上肢が到達することを防止するための安全距離
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Safety of machinery -- Safety distances to prevent danger zones being reached
+    by the upper limbs
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9707%3A2002
+  type: src
+type: standard
+docid:
+- id: JIS B 9707:2002
+  type: JIS
+  primary: true
+docnumber: B9707
+date:
+- type: issued
+  value: '2002-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本機械工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本機械工業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ３歳以上の人の上肢が機械類の危険区域に到達することを防止するための安全距離の値を定める。適切な安全が距離だけで達成できる場合，その距離が適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本機械工業連合会
+ics:
+- code: '13.110'
+  text: Safety of machinery
+- code: '13.180'
+  text: Ergonomics
+structuredidentifier:
+  project_number: B9707
+  type: JIS
+ext:
+  schema-version: v0.0.1

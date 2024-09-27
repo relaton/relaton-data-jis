@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISC0508-3-2014
+title:
+- content: 電気・電子・プログラマブル電子安全関連系の機能安全―第３部：ソフトウェア要求事項
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Functional safety of electrical/electronic/programmable electronic safety-related
+    systems -- Part 3: Software requirements'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0508-3%3A2014
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00508_003_000_2014_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 0508-3:2014
+  type: JIS
+  primary: true
+docnumber: C0508
+date:
+- type: issued
+  value: '2014-02-20'
+- type: confirmed
+  value: '2023-06-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＪＩＳ　Ｃ　０５０８－１及びＪＩＳ　Ｃ　０５０８－２の適用範囲内で，安全関連系の一部を形成するソフトウェアか，又は安全関連系を開発するために使用するソフトウェアに適用。これらのソフトウェアを，安全関連系ソフトウェアという（オペレーティングシステム，システムソフトウェア，通信ネットワーク内のソフトウェア，ヒューマン－コンピュータインタフェース機能及びファームウェア，並びにアプリケーションプログラムを含む）。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電気計測器工業会"
+ics:
+- code: 25.040.40
+  text: Industrial process measurement and control
+structuredidentifier:
+  project_number: C0508
+  type: JIS
+ext:
+  schema-version: v0.0.1

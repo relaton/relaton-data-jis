@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISK0803-1995
+title:
+- content: 溶存酸素自動計測器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Continuous dissolved oxygen analyzer
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0803%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS K 0803:1995
+  type: JIS
+  primary: true
+docnumber: K0803
+date:
+- type: issued
+  value: '1995-08-31'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電気計測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 河川，湖沼，海域などを含む公共用水域及び工場・事業所，下水処理施設などにおける０～３５℃の水中の溶存酸素の濃度を連続的に測定するための自動計測器のうち，電磁法に基づくものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電気計測器工業会
+ics:
+- code: 71.060.10
+  text: Chemical elements
+structuredidentifier:
+  project_number: K0803
+  type: JIS
+ext:
+  schema-version: v0.0.1

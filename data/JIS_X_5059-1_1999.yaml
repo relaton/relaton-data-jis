@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISX5059-1-1999
+title:
+- content: セキュリティ技術―否認防止―第１部：総論
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Security techniques -- Non-repudiation -- Part
+    1: General'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5059-1%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05059_001_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5059-1:1999
+  type: JIS
+  primary: true
+docnumber: X5059
+date:
+- type: issued
+  value: '2000-02-29'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 否認防止サービスの目的は，主張された行動又は事象が発生したか否かの紛争を解決するために，その事象又は行動に関する証拠を生成し，収集し，管理し，利用可能にし，有効性を確認することである。暗号技術に基づく証拠を提供する否認防止機構のためのモデルを規定。最初に，様々な否認防止サービスに汎用的な否認防止機構を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X5059
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISS3024-2017
+title:
+- content: 石油小形給湯機
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Oil burning water heaters for domestic use
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3024%3A2017
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_03024_000_000_2017_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS S 3024:2017
+  type: JIS
+  primary: true
+docnumber: S3024
+date:
+- type: issued
+  value: '2017-02-20'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本燃焼機器検査協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本燃焼機器検査協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 灯油，軽油又は重油を燃料とし，燃料消費量が７０ｋＷ以下で，熱交換器容量が３０Ｌ以下の主として給湯に用いる石油小形給湯機について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本燃焼機器検査協会
+ics:
+- code: 27.060.30
+  text: Boilers and heat exchangers
+- code: 91.140.65
+  text: Water heating equipment
+- code: 97.100.40
+  text: Liquid fuel heaters
+structuredidentifier:
+  project_number: S3024
+  type: JIS
+ext:
+  schema-version: v0.0.1

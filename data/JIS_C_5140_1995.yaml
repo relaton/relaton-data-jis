@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC5140-1995
+title:
+- content: 電子機器用固定電解コンデンサ通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules of fixed electrolytic capacitors for use in electronic equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5140%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS C 5140:1995
+  type: JIS
+  primary: true
+docnumber: C5140
+date:
+- type: issued
+  value: '1995-04-30'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器に用いる有極性固定電解コンデンサの品種別通則であり，コンデンサの形名，定格，材料，構造，寸法，表示，性能及び個別規格に規定する事項の基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子機械工業会
+ics:
+- code: 31.060.40
+  text: Tantalum electrolytic capacitors
+structuredidentifier:
+  project_number: C5140
+  type: JIS
+ext:
+  schema-version: v0.0.1

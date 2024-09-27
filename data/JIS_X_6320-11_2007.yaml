@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISX6320-11-2007
+title:
+- content: ＩＣカード―第１１部：バイオメトリクスを用いた本人確認
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Identification cards -- Integrated circuit cards -- Part 11: Personal
+    verification through biometric methods'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6320-11%3A2007
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06320_011_000_2007_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6320-11:2007
+  type: JIS
+  primary: true
+docnumber: X6320
+date:
+- type: issued
+  value: '2007-09-20'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＩＣカード内のバイオメトリック情報を用いた本人確認で使用される，セキュリティ関連の産業間共通コマンドについて規定。バイオメトリック参照データの運搬媒体及び個人のバイオメトリック照合（カード内マッチング）を実行する機器としてカードを使用するための，データ構造及びデータ利用方式を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　ビジネス機械・情報システム産業協会"
+ics:
+- code: 35.240.15
+  text: Identification cards. Chip cards. Biometrics
+structuredidentifier:
+  project_number: X6320
+  type: JIS
+ext:
+  schema-version: v0.0.1

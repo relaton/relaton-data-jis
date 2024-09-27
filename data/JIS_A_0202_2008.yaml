@@ -1,0 +1,96 @@
+---
+schema-version: v1.2.9
+id: JISA0202-2008
+title:
+- content: 断熱用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Thermal insulation -- Vocabulary
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+0202%3A2008
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_00202_000_000_2008_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS A 0202:2008
+  type: JIS
+  primary: true
+docnumber: A0202
+date:
+- type: issued
+  value: '2008-03-20'
+- type: confirmed
+  value: '2022-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本保温保冷工業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本保温保冷工業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 建築及び工業用設備の断熱に関する物理量，断熱材に関する主な用語及びその定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本保温保冷工業協会"
+ics:
+- code: 01.040.27
+  text: Energy and heat transfer engineering (Vocabularies)
+- code: 01.040.91
+  text: Construction materials and building (Vocabularies)
+- code: '27.220'
+  text: Heat recovery. Thermal insulation
+- code: 91.120.10
+  text: Thermal insulation of buildings
+structuredidentifier:
+  project_number: A0202
+  type: JIS
+ext:
+  schema-version: v0.0.1

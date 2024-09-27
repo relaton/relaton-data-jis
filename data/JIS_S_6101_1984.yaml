@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.9
+id: JISS6101-1984
+title:
+- content: 黒板通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for chalkboards
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+6101%3A1984
+  type: src
+type: standard
+docid:
+- id: JIS S 6101:1984
+  type: JIS
+  primary: true
+docnumber: S6101
+date:
+- type: issued
+  value: '1984-12-28'
+contributor:
+- organization:
+    name:
+    - content: 全国黒板工業連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 全国黒板工業連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 黒板の共通事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 全国黒板工業連盟
+ics:
+- code: 35.260.20
+structuredidentifier:
+  project_number: S6101
+  type: JIS
+ext:
+  schema-version: v0.0.1

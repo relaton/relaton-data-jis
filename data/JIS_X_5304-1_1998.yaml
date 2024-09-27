@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5304-1-1998
+title:
+- content: 開放型システム間相互接続―コネクションレス型ネットワークプロトコル―第１部：プロトコル仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Protocol for providing the connectionless-mode
+    network service -- Part 1: Protocol specification'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5304-1%3A1998
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05304_001_000_1998_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5304-1:1998
+  type: JIS
+  primary: true
+docnumber: X5304
+date:
+- type: issued
+  value: '1998-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　５３０２で規定されたコネクションレス型ネットワークサービスを提供し，同時に必要なネットワーク層管理機能を実現するために使用するプロトコルを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.30
+  text: Network layer
+structuredidentifier:
+  project_number: X5304
+  type: JIS
+ext:
+  schema-version: v0.0.1

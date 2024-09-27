@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISK1321-1994
+title:
+- content: 硫酸
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Sulfuric acid
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+1321%3A1994
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_01321_000_000_1994_j_pr20_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS K 1321:1994
+  type: JIS
+  primary: true
+docnumber: K1321
+date:
+- type: issued
+  value: '1994-05-31'
+contributor:
+- organization:
+    name:
+    - content: 硫酸協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 硫酸協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 工業用の硫酸について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 硫酸協会
+ics:
+- code: 71.060.30
+  text: Acids
+structuredidentifier:
+  project_number: K1321
+  type: JIS
+ext:
+  schema-version: v0.0.1

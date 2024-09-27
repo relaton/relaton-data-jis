@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: JISX0171-2020
+title:
+- content: システム及びソフトウェア技術―ライフサイクルにおける情報項目の内容（ドキュメンテーション）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Systems and software engineering -- Content of life-cycle information items
+    (documentation)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0171%3A2020
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00171_000_000_2020_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0171:2020
+  type: JIS
+  primary: true
+docnumber: X0171
+date:
+- type: issued
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 全ての対象となるシステムライフサイクル及びソフトウェアライフサイクル，並びにサービスマネジメントにおける情報項目（文書類）の目的及び内容について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X0171
+  type: JIS
+ext:
+  schema-version: v0.0.1

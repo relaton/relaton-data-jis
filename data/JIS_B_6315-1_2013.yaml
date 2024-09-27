@@ -1,0 +1,92 @@
+---
+schema-version: v1.2.9
+id: JISB6315-1-2013
+title:
+- content: 産業オートメーションシステム及びその統合―機械の数値制御―プログラムフォーマット及びアドレスワードの定義―第１部：位置決め，直進運動及び輪郭制御システム用データフォーマット
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Automation systems and integration -- Numerical control of machines --
+    Program format and definitions of address words -- Part 1: Data format for positioning,
+    liner motion and contouring control systems'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6315-1%3A2013
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06315_001_000_2013_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 6315-1:2013
+  type: JIS
+  primary: true
+docnumber: B6315
+date:
+- type: issued
+  value: '2013-05-20'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 機械の数値制御に用いる位置決め，直進運動及び輪郭制御システム用データフォーマットの必要条件について規定し，推奨事項についても示す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本工作機械工業会"
+ics:
+- code: 25.040.20
+  text: Numerically controlled machines
+structuredidentifier:
+  project_number: B6315
+  type: JIS
+ext:
+  schema-version: v0.0.1

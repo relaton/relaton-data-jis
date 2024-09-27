@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX5732-1993
+title:
+- content: 開放型システム間相互接続　―　ディレクトリ　―　第２部　モデル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Open systems interconnection -- The directory
+    -- Part 2: Models'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5732%3A1993
+  type: src
+type: standard
+docid:
+- id: JIS X 5732:1993
+  type: JIS
+  primary: true
+docnumber: X5732
+date:
+- type: issued
+  value: '1993-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 定義するモデルは，ディレクトリの種々の局面を定義するＪＩＳ　Ｘ　５７３１及びＪＩＳ　Ｘ　５７３３～５７３８で用いる概念及ぎ用語の枠組みを示す。機能モデル及び組織モデルは，ディレクトリを機能的及ぎ管理的に分散する方法を定義。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5732
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISC9601-1990
+title:
+- content: 扇風機
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Electric fans
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9601%3A1990
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09601_000_000_1990_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09601_000_000_1990_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 9601:1990
+  type: JIS
+  primary: true
+docnumber: C9601
+date:
+- type: issued
+  value: '1990-10-31'
+- type: confirmed
+  value: '2006-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 羽根の直径が２０ｃｍ以上４０ｃｍ以下の，一般家庭で使用される卓上用，座敷用，壁掛用，床上用又は天井用首振り形及び特殊形の扇風機のうち，誘導電動機によって駆動される軸流形の羽根をもったものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '23.120'
+  text: Ventilators. Fans. Air-conditioners
+structuredidentifier:
+  project_number: C9601
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISG3112-2020
+title:
+- content: 鉄筋コンクリート用棒鋼
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Steel bars for concrete reinforcement
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3112%3A2020
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03112_000_000_2020_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03112_000_000_2020_e_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS G 3112:2020
+  type: JIS
+  primary: true
+docnumber: G3112
+date:
+- type: issued
+  value: '2020-04-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: コンクリート補強に使用する，熱間圧延によって製造された丸鋼及び異形棒鋼について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄鋼連盟
+ics:
+- code: 77.140.15
+  text: Steels for reinforcement of concrete
+- code: 91.080.40
+  text: Concrete structures
+structuredidentifier:
+  project_number: G3112
+  type: JIS
+ext:
+  schema-version: v0.0.1

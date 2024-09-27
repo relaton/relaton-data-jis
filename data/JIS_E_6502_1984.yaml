@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISE6502-1984
+title:
+- content: 鉄道車両用戸閉めスイッチ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Door close switches for railway rolling stock
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+6502%3A1984
+  type: src
+type: standard
+docid:
+- id: JIS E 6502:1984
+  type: JIS
+  primary: true
+docnumber: E6502
+date:
+- type: issued
+  value: '1984-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道車輌工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道車輌工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 鉄道車両に用いる戸閉めスイッチについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄道車輌工業会
+ics:
+- code: 45.060.10
+  text: Tractive stock
+structuredidentifier:
+  project_number: E6502
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: JISX5260-1-1999
+title:
+- content: ローカルエリアネットワーク及びメトロポリタンエリアネットワーク―共通仕様―第１部：媒体アクセス制御（ＭＡＣ）サービス定義
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Telecommunications and information exchange
+    between systems -- Local and metropolitan area networks -- Common specifications
+    -- Part 1: Medium Access Control (MAC) service definition'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5260-1%3A1999
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05260_001_000_1999_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5260-1:1999
+  type: JIS
+  primary: true
+docnumber: X5260
+date:
+- type: issued
+  value: '1999-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: サービスの基本動作及び事象；個々の基本動作及び事象と関連したパラメタ，並びにパラメタのもつ形式；動作と事象との相互関係及び正常シーケンス　の抽象的な観点で，ローカルエリアネットワーク体系にある媒体アクセス制御サービスを定義。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.110'
+  text: Networking
+structuredidentifier:
+  project_number: X5260
+  type: JIS
+ext:
+  schema-version: v0.0.1

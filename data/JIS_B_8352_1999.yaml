@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISB8352-1999
+title:
+- content: 油圧用歯車ポンプ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Gear pumps for hydraulic use
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8352%3A1999
+  type: src
+type: standard
+docid:
+- id: JIS B 8352:1999
+  type: JIS
+  primary: true
+docnumber: B8352
+date:
+- type: issued
+  value: '1999-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本フルードパワー工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本フルードパワー工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 諸機械の油圧システムに使用する油圧用の外接及び内接歯車ポンプについて規定。航空機など特殊なものに使用されるものは除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本フルードパワー工業会
+ics:
+- code: 23.100.10
+  text: Pumps and motors
+structuredidentifier:
+  project_number: B8352
+  type: JIS
+ext:
+  schema-version: v0.0.1

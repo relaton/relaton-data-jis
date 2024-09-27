@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISF8412-1998
+title:
+- content: カーゴランプ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Cargo lights
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8412%3A1998
+  type: src
+type: standard
+docid:
+- id: JIS F 8412:1998
+  type: JIS
+  primary: true
+docnumber: F8412
+date:
+- type: issued
+  value: '1998-09-30'
+contributor:
+- organization:
+    name:
+    - content: 財団法人　日本船舶標準協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 財団法人　日本船舶標準協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 船で用いる電源電圧２５０Ｖ以下の白熱電球を光源とするカーゴランプについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 財団法人　日本船舶標準協会
+ics:
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+structuredidentifier:
+  project_number: F8412
+  type: JIS
+ext:
+  schema-version: v0.0.1

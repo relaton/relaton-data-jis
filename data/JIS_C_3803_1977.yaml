@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISC3803-1977
+title:
+- content: がいし及びブッシング用語
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms for insulator and bushing
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3803%3A1977
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03803_000_000_1977_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 3803:1977
+  type: JIS
+  primary: true
+docnumber: C3803
+date:
+- type: issued
+  value: '1977-06-30'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電気学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 鉱工業において用いるがいし及びブッシングに関する用語，その読み方及び意味について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電気学会
+ics:
+- code: 01.040.29
+  text: Electrical engineering (Vocabularies)
+- code: 29.080.01
+  text: Electrical insulation in general
+structuredidentifier:
+  project_number: C3803
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: JISA1219-2023
+title:
+- content: 標準貫入試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Method for standard penetration test
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1219%3A2023
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01219_000_000_2023_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS A 1219:2023
+  type: JIS
+  primary: true
+docnumber: A1219
+date:
+- type: issued
+  value: '2023-03-13'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　地盤工学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　地盤工学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ＳＰＴサンプラーを地盤内に動的貫入することによって地盤の硬軟及び締まり具合の判定，並びに土層構成を把握するための試料を採取する試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　地盤工学会"
+ics:
+- code: 13.080.20
+  text: Physical properties of soils
+- code: '93.020'
+  text: Earthworks. Excavations. Foundation construction. Underground works
+structuredidentifier:
+  project_number: A1219
+  type: JIS
+ext:
+  schema-version: v0.0.1

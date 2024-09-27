@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC8351-1985
+title:
+- content: フロアダクト
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Underfloor ducts (steel)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8351%3A1985
+  type: src
+type: standard
+docid:
+- id: JIS C 8351:1985
+  type: JIS
+  primary: true
+docnumber: C8351
+date:
+- type: issued
+  value: '1985-04-30'
+contributor:
+- organization:
+    name:
+    - content: 全国金属製電線管附属品工業組合
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 全国金属製電線管附属品工業組合
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電気配線で電線を保護するのに用いる鋼製のフロアダクトについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 全国金属製電線管附属品工業組合
+ics:
+- code: 29.120.10
+  text: Conduits for electrical purposes
+structuredidentifier:
+  project_number: C8351
+  type: JIS
+ext:
+  schema-version: v0.0.1

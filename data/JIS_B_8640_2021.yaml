@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: JISB8640-2021
+title:
+- content: 空気式低風速放射空調吹出ユニット
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Low-velocity radiant heating and cooling air supply unit
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8640%3A2021
+  type: src
+type: standard
+docid:
+- id: JIS B 8640:2021
+  type: JIS
+  primary: true
+docnumber: B8640
+date:
+- type: issued
+  value: '2021-03-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 空調機からの冷却空気及び加熱空気を低風速で吹き出しながら，その温度を利用して熱の放射をもたらす空気式低風速放射空調吹出ユニットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '23.120'
+  text: Ventilators. Fans. Air-conditioners
+- code: 91.140.30
+  text: Ventilation and air-conditioning systems
+structuredidentifier:
+  project_number: B8640
+  type: JIS
+ext:
+  schema-version: v0.0.1

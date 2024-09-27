@@ -1,0 +1,94 @@
+---
+schema-version: v1.2.9
+id: JISE6401-2004
+title:
+- content: 鉄道車両用抵抗器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Power resistors for rolling stock
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+6401%3A2004
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_06401_000_000_2004_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS E 6401:2004
+  type: JIS
+  primary: true
+docnumber: E6401
+date:
+- type: issued
+  value: '2004-07-01'
+- type: confirmed
+  value: '2019-11-25'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 鉄道車両の主回路及び高圧補助回路に使用するすべての電力形抵抗器（例えば，ブレーキ用，暖房用，スナバ及びフィルタ用）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本鉄道車輌工業会"
+ics:
+- code: 29.130.10
+  text: High voltage switchgear and controlgear
+- code: '29.280'
+  text: Electric traction equipment
+- code: 45.060.10
+  text: Tractive stock
+structuredidentifier:
+  project_number: E6401
+  type: JIS
+ext:
+  schema-version: v0.0.1

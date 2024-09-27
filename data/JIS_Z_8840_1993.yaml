@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISZ8840-1993
+title:
+- content: 粉体機器―図記号
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Powder processing machinery and equipment -- Graphical symbols
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8840%3A1993
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08840_000_000_1993_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 8840:1993
+  type: JIS
+  primary: true
+docnumber: Z8840
+date:
+- type: issued
+  value: '1993-03-31'
+- type: confirmed
+  value: '2019-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本粉体工業技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本粉体工業技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 粉体処理のプロセスフローシート，エンジニアリングフローシートなどの図面において，粉体機器を表示するための図記号について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本粉体工業技術協会
+ics:
+- code: 01.080.20
+  text: Graphical symbols for use on specific equipment
+- code: 71.120.99
+  text: Other equipment for the chemical industry
+structuredidentifier:
+  project_number: Z8840
+  type: JIS
+ext:
+  schema-version: v0.0.1

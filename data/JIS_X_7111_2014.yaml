@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISX7111-2014
+title:
+- content: 地理情報―座標による空間参照
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Geographic information -- Spatial referencing by coordinates
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7111%3A2014
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07111_000_000_2014_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 7111:2014
+  type: JIS
+  primary: true
+docnumber: X7111
+date:
+- type: issued
+  value: '2014-03-01'
+- type: confirmed
+  value: '2023-10-25'
+contributor:
+- organization:
+    name:
+    - content: 公益財団法人　日本測量調査技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益財団法人　日本測量調査技術協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 座標による空間参照の記述についての概念スキーマを規定。時空間統合参照系への拡張を含め，一次元，二次元及び三次元の空間座標参照系を定義するために必要な最低限のデータを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益財団法人　日本測量調査技術協会
+ics:
+- code: 35.240.70
+  text: IT applications in science
+structuredidentifier:
+  project_number: X7111
+  type: JIS
+ext:
+  schema-version: v0.0.1

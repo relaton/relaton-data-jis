@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISX5253-1994
+title:
+- content: ローカルエリアネットワーク　―　トークンパッシングバスアクセス方式及び物理層仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information processing systems Local Area Network Token-passing bus access
+    method and physical layer specifications
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5253%3A1994
+  type: src
+type: standard
+docid:
+- id: JIS X 5253:1994
+  type: JIS
+  primary: true
+docnumber: X5253
+date:
+- type: issued
+  value: '1994-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: トークンパッシングバスアクセス方式を用いたローカルエリアネットワークにおいて，局の互換性のある相互接続を目的として，１．伝送媒体の電気的特性及び／又は光学的特性並びに物理的特性　２．使用する電気的又は光学的な信号化の方法　３．送信するフレーム形式　４．フレームを受信した局の動作　５．媒体アクセス制御副層とその上に位置する論理リンク制御副層との間の概上のインタフェースで提供されるサービスについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: '35.110'
+  text: Networking
+structuredidentifier:
+  project_number: X5253
+  type: JIS
+ext:
+  schema-version: v0.0.1

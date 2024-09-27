@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISH2114-1983
+title:
+- content: 銅粉
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Copper powder
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+2114%3A1983
+  type: src
+type: standard
+docid:
+- id: JIS H 2114:1983
+  type: JIS
+  primary: true
+docnumber: H2114
+date:
+- type: issued
+  value: '1983-12-27'
+contributor:
+- organization:
+    name:
+    - content: 日本粉末冶金工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本粉末冶金工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 粉末や（冶）金用電解銅粉について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本粉末冶金工業会
+ics:
+- code: 77.120.30
+  text: Copper and copper alloys
+- code: '77.160'
+  text: Powder metallurgy
+structuredidentifier:
+  project_number: H2114
+  type: JIS
+ext:
+  schema-version: v0.0.1

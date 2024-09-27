@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: JIST0063-2020
+title:
+- content: 医療機器規格における安全側面の開発及び導入の指針
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Guide to the development and inclusion of aspects of safety in standards
+    for medical devices
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0063%3A2020
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00063_000_000_2020_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS T 0063:2020
+  type: JIS
+  primary: true
+docnumber: T0063
+date:
+- type: issued
+  value: '2020-10-01'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本医療機器産業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本医療機器産業連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 確立されたリスクマネジメントの概念及び方法論に基づいて，医療機器規格の作成者が規格に安全側面を導入する際の要求事項及び推奨事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本医療機器産業連合会
+ics:
+- code: '01.120'
+  text: Standardization. General rules
+- code: 11.040.01
+  text: Medical equipment in general
+structuredidentifier:
+  project_number: T0063
+  type: JIS
+ext:
+  schema-version: v0.0.1

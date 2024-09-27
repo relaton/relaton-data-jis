@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISA8952-1995
+title:
+- content: 建築工事用シート
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Fabric sheets for construction shelters
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8952%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS A 8952:1995
+  type: JIS
+  primary: true
+docnumber: A8952
+date:
+- type: issued
+  value: '1995-02-01'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 日本テントシート工業組合連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 日本テントシート工業組合連合会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 繊維製の織編生地を主材として作った帆布製シート及び網地製シートによる建築工事用シートについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 日本テントシート工業組合連合会
+ics:
+- code: 83.140.10
+  text: Films and sheets
+- code: 91.120.30
+  text: Waterproofing
+structuredidentifier:
+  project_number: A8952
+  type: JIS
+ext:
+  schema-version: v0.0.1

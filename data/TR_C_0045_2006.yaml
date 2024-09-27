@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: TRC0045-2006
+title:
+- content: 小形風車を安全に導入するための手引き
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Safety Manual for Installing Small Wind Turbines
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0045%3A2006
+  type: src
+type: standard
+docid:
+- id: TR C 0045:2006
+  type: JIS
+  primary: true
+docnumber: C0045
+date:
+- type: issued
+  value: '2006-03-25'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 小形風車を安全に導入，運用及び管理することができるよう，その手法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: technical-report
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '27.180'
+  text: Wind turbine energy systems
+- code: '29.020'
+  text: Electrical engineering in general
+structuredidentifier:
+  project_number: C0045
+  type: JIS
+ext:
+  schema-version: v0.0.1

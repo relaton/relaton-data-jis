@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISB8346-1991
+title:
+- content: 送風機及び圧縮機―騒音レベル測定方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Fans, blowers and compressors -- Determination of A-weighted sound pressure
+    level
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8346%3A1991
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08346_000_000_1991_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08346_000_000_1991_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8346:1991
+  type: JIS
+  primary: true
+docnumber: B8346
+date:
+- type: issued
+  value: '1991-09-30'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　ターボ機械協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　ターボ機械協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: あらゆる形式の送風機・圧縮機が放射される定常的な騒音の騒音レベルを測定する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　ターボ機械協会
+ics:
+- code: 17.140.20
+  text: Noise emitted by machines and equipment
+structuredidentifier:
+  project_number: B8346
+  type: JIS
+ext:
+  schema-version: v0.0.1

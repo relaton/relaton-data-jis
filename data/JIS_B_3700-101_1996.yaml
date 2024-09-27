@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISB3700-101-1996
+title:
+- content: 産業オートメーションシステム及びその統合―製品データの表現及び交換―第１０１部：統合アプリケーションリソース：製図
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Industrial automation systems and integration -- Product data representation
+    and exchange -- Part 101: Integrated application resources: Draughting'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3700-101%3A1996
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03700_101_000_1996_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 3700-101:1996
+  type: JIS
+  primary: true
+docnumber: B3700
+date:
+- type: issued
+  value: '1996-12-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 製図情報を表現するためのリソース構成要素を規定。範囲は，図面及び図面シートの定義・記述・管理に関する情報；基本的な製図注記及びそれらの集合体に製品又は図面の解釈に関する事実・要件の記述のために，より一般的な注記を付けたもの；寸法測定情報の記述に使用する製図注記　とする
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本情報経済社会推進協会
+ics:
+- code: 25.040.40
+  text: Industrial process measurement and control
+structuredidentifier:
+  project_number: B3700
+  type: JIS
+ext:
+  schema-version: v0.0.1

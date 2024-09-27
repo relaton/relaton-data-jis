@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISF2025-2021
+title:
+- content: ケーブルクレンチ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Shipbuilding -- Cable clenchies
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+2025%3A2021
+  type: src
+type: standard
+docid:
+- id: JIS F 2025:2021
+  type: JIS
+  primary: true
+docnumber: F2025
+date:
+- type: issued
+  value: '2021-01-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: アンカーチェーンをチェーンロッカ内に根止めするために用いるケーブルクレンチについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 47.020.50
+  text: Deck equipment and installations
+structuredidentifier:
+  project_number: F2025
+  type: JIS
+ext:
+  schema-version: v0.0.1

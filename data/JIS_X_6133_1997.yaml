@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.9
+id: JISX6133-1997
+title:
+- content: 情報交換用データ圧縮　埋め込み辞書での適応符号化―ＤＣＬＺアルゴリズム
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Data compression for information interchange
+    -- Adaptive coding with embedded dictionary -- DCLZ algorithm
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6133%3A1997
+  type: src
+type: standard
+docid:
+- id: JIS X 6133:1997
+  type: JIS
+  primary: true
+docnumber: X6133
+date:
+- type: issued
+  value: '1997-02-28'
+- type: confirmed
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: ８ビット法による符号化情報の表現に必要なビット数を削減するロスレス圧縮アルゴリズムについて規定。このアルゴリズムは，ＤＣＬＺ（ＬｅｍｐｅｌとＺｉｖによるデータ圧縮）と呼称する。圧縮時に用いる辞書をリセットし，凍結する方法については規定しない。このアルゴリズムは，情報交換媒体に記録するときに特に有効であるが，用途はこれに限定しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X6133
+  type: JIS
+ext:
+  schema-version: v0.0.1

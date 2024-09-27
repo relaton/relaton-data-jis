@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISM7001-1989
+title:
+- content: 鉱山保安警標
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Signs of mine safety
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+7001%3A1989
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_m_07001_000_000_1989_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS M 7001:1989
+  type: JIS
+  primary: true
+docnumber: M7001
+date:
+- type: issued
+  value: '1989-06-30'
+- type: confirmed
+  value: '2020-10-20'
+contributor:
+- organization:
+    name:
+    - content: 公益社団法人　日本保安用品協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　日本保安用品協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 鉱山の保安を確保するため，坑内及び坑外に掲げる鉱山保安警標について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 公益社団法人　日本保安用品協会
+ics:
+- code: 01.080.20
+  text: Graphical symbols for use on specific equipment
+- code: '73.020'
+  text: Mining and quarrying
+structuredidentifier:
+  project_number: M7001
+  type: JIS
+ext:
+  schema-version: v0.0.1

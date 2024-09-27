@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC7225-1982
+title:
+- content: 信頼性保証整流ダイオード（中・大電流）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Reliability assured rectifier diodes (medium and high current)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7225%3A1982
+  type: src
+type: standard
+docid:
+- id: JIS C 7225:1982
+  type: JIS
+  primary: true
+docnumber: C7225
+date:
+- type: issued
+  value: '1982-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電力用機器及び電子機器に用いる整流ダイオード（中・大電流）のうち，信頼性保証が要求されるものに適用し，信頼性保証の要求事項，個別規格の様式などについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本電子部品信頼性センター
+ics:
+- code: 31.080.10
+  text: Diodes
+structuredidentifier:
+  project_number: C7225
+  type: JIS
+ext:
+  schema-version: v0.0.1

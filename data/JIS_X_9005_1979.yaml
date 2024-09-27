@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISX9005-1979
+title:
+- content: 光学式文字認識のための手書き文字（片仮名）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Handprinted Katakana characters for optical character recognition
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9005%3A1979
+  type: src
+type: standard
+docid:
+- id: JIS X 9005:1979
+  type: JIS
+  primary: true
+docnumber: X9005
+date:
+- type: issued
+  value: '1979-11-30'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 光学式文字認識（ＯＣＲ）に使用する手書き片仮名文字の字形及びこれに関連する仕様を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: '35.040'
+  text: Information coding
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
+structuredidentifier:
+  project_number: X9005
+  type: JIS
+ext:
+  schema-version: v0.0.1

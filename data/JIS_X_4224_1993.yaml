@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISX4224-1993
+title:
+- content: コンピュータグラフィクス　―　対話型グラフィクスシステムＰＨＩＧＳ　―　第４部　光の効果及び曲面に関する機能記述（ＰＨＩＧＳ　ＰＬＵＳ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information processing systems -- Computer graphics -- Programmer''s Hierarchical
+    Interactive Graphics System (PHIGS) -- Part 4: Plus Lumiere und Surfaces, PHIGS
+    PLUS'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4224%3A1993
+  type: src
+type: standard
+docid:
+- id: JIS X 4224:1993
+  type: JIS
+  primary: true
+docnumber: X4224
+date:
+- type: issued
+  value: '1993-11-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 対話型グラフィクスシステムＰＨＩＧＳを拡張した機能を規定。この拡張した機能は，３次元物体の描画を制御するための，拡張した出力基本要素及び拡張した機能を含み，照射処理及び陰付け処理を必要とする分野における応用プログラムの基本的な要求を満たすことを目的とする。この拡張した機能は，ＰＨＩＧＳの機能記述（ＪＩＳ　Ｘ　４２２１）で規定する機能との共存を前提としている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.140'
+  text: Computer graphics
+structuredidentifier:
+  project_number: X4224
+  type: JIS
+ext:
+  schema-version: v0.0.1

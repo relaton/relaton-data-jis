@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JIST1031-1991
+title:
+- content: 医用電気機器の警報通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules for alarms of medical equipment
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1031%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS T 1031:1991
+  type: JIS
+  primary: true
+docnumber: T1031
+date:
+- type: issued
+  value: '1991-05-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 患者監視，診断及び治療の目的で使用する医用電気機器（機器のシステムを含む。）が，使用中に患者及び操作者の生命に直接悪影響を及ぼす緊急状態，又はこれに準じる状態になったとき，医療従事者に速やかに情報を伝えるため，機器が備えなければならない警報とその表示について規定。医用放射線機器には適用しない。個別規格の規定と相違があるときは，個別規格の規定が優先する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 11.040.01
+  text: Medical equipment in general
+structuredidentifier:
+  project_number: T1031
+  type: JIS
+ext:
+  schema-version: v0.0.1

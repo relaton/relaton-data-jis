@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISC8001-1991
+title:
+- content: 防爆照明器具通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Luminaires for explosive atmospheres
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8001%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS C 8001:1991
+  type: JIS
+  primary: true
+docnumber: C8001
+date:
+- type: issued
+  value: '1991-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本照明器具工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本照明器具工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｃ　０９０３に定めるガス蒸気危険場所（１種場所及び２種場所）で，単独に設置し，又はほかの機械，装置の一部として使用する防爆構造の照明器具〔定着灯（電池内蔵照明器具を含む。）及び移動灯。〕について規定。炭鉱用及び船用の器具を除く。この規格に定めていない防爆構造に関する事項については，ＪＩＳ　Ｃ　０９０３による。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本照明器具工業会
+ics:
+- code: 29.140.40
+  text: Luminaires
+- code: 29.260.20
+  text: Electrical apparatus for explosive atmospheres
+structuredidentifier:
+  project_number: C8001
+  type: JIS
+ext:
+  schema-version: v0.0.1

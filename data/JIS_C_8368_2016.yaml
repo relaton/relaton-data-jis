@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: JISC8368-2016
+title:
+- content: 電流制限器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Current limiters
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8368%3A2016
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08368_000_000_2016_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8368:2016
+  type: JIS
+  primary: true
+docnumber: C8368
+date:
+- type: issued
+  value: '2016-09-20'
+- type: confirmed
+  value: '2021-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 屋内用で，周波数５０Ｈｚ若しくは６０Ｈｚ専用又は５０Ｈｚ・６０Ｈｚ共用の，交流２２０Ｖ以下の電路において素子にヒューズなどの消耗品を使用しないで反復使用できる，従量契約需要家用のアンペア制用の電流制限器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電気協会"
+ics:
+- code: 29.120.50
+  text: Fuses and other overcurrent protection devices
+structuredidentifier:
+  project_number: C8368
+  type: JIS
+ext:
+  schema-version: v0.0.1

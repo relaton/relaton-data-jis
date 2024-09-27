@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISB7305-1989
+title:
+- content: 自記温度計
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Thermographs
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7305%3A1989
+  type: src
+type: standard
+docid:
+- id: JIS B 7305:1989
+  type: JIS
+  primary: true
+docnumber: B7305
+date:
+- type: issued
+  value: '1989-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　気象測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　気象測器工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 感温部を基台の側面にもち温度を円筒上に記録する形式の自記温度計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　気象測器工業会
+ics:
+- code: 17.200.20
+  text: Temperature-measuring instruments
+structuredidentifier:
+  project_number: B7305
+  type: JIS
+ext:
+  schema-version: v0.0.1

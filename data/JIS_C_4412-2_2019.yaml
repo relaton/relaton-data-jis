@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISC4412-2-2019
+title:
+- content: 低圧蓄電システムの安全要求事項―第２部：分離形パワーコンディショナの特定要求事項
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Safety requirements for electric energy storage equipment -- Part 2: Particular
+    requirements for Separation type power conditioner'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4412-2%3A2019
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04412_002_000_2019_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 4412-2:2019
+  type: JIS
+  primary: true
+docnumber: C4412
+date:
+- type: issued
+  value: '2019-03-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 系統連系方式の低圧蓄電システムにおいて，蓄電池及びパワーコンディショナが別きょう体で分離された，交流出力電圧６００Ｖ以下又は直流入出力電圧７５０Ｖ以下のパワーコンディショナの安全要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: '29.220'
+  text: Galvanic cells and batteries
+structuredidentifier:
+  project_number: C4412
+  type: JIS
+ext:
+  schema-version: v0.0.1

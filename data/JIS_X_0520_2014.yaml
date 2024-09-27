@@ -1,0 +1,94 @@
+---
+schema-version: v1.2.9
+id: JISX0520-2014
+title:
+- content: 自動認識及びデータ取得技術―バーコードシンボル印刷品質の評価仕様―一次元シンボル
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Automatic identification and data capture techniques -- Bar code print
+    quality test specification -- Linear symbols
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0520%3A2014
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00520_000_000_2014_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0520:2014
+  type: JIS
+  primary: true
+docnumber: X0520
+date:
+- type: issued
+  value: '2014-11-20'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 印刷又は印字された一次元シンボルの特性を詳細に測定する方法を規定し，それぞれの測定値を評価する方法及びシンボル品質を総合的に評価する方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電子情報技術産業協会"
+ics:
+- code: 01.080.50
+  text: Graphical symbols for use on information technology and telecommunications
+    technical drawings and in relevant technical product documentation
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X0520
+  type: JIS
+ext:
+  schema-version: v0.0.1

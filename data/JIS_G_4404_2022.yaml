@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: JISG4404-2022
+title:
+- content: 合金工具鋼鋼材
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Alloy tool steels
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+4404%3A2022
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_04404_000_000_2022_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_04404_000_000_2022_e_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS G 4404:2022
+  type: JIS
+  primary: true
+docnumber: G4404
+date:
+- type: issued
+  value: '2022-05-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 熱間圧延又は熱間鍛造によって製造される合金工具鋼鋼材について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄鋼連盟
+ics:
+- code: 25.100.01
+  text: Cutting tools in general
+- code: 77.140.35
+  text: Tool steels
+structuredidentifier:
+  project_number: G4404
+  type: JIS
+ext:
+  schema-version: v0.0.1

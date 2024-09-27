@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX5020-1991
+title:
+- content: 開放型システム間相互接続　―　適合性試験の方法及び枠組み　―　第１部　一般概念
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- OSI conformance testing methodology and framework
+    -- Part 1: General concepts'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5020%3A1991
+  type: src
+type: standard
+docid:
+- id: JIS X 5020:1991
+  type: JIS
+  primary: true
+docnumber: X5020
+date:
+- type: issued
+  value: '1991-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＯＳＩ＊プロトコル規格＊を実装していると称する製品のＯＳＩ＊プロトコル規格＊に対する適合性を試験するはん（汎）用的な方法論を規定。この方法論は，特定のＯＳＩ＊プロトコルとの組合せの範囲で転送構文規格＊に対する適合性の試験にも適用できる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.01
+  text: Open systems interconnection in general
+structuredidentifier:
+  project_number: X5020
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: JISX9205-2005
+title:
+- content: 電子製版画像データ交換用タグ付きファイルフォーマット（ＴＩＦＦ／ＩＴ）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Graphic technology -- Prepress digital data exchange -- Tag image file
+    format for image technology (TIFF/IT)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9205%3A2005
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09205_000_000_2005_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 9205:2005
+  type: JIS
+  primary: true
+docnumber: X9205
+date:
+- type: issued
+  value: '2005-11-20'
+- type: confirmed
+  value: '2020-06-22'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 製版用電子データ交換のための伝達媒体に依存しないタグ付き画像ファイルフォーマットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+- code: 37.100.99
+  text: Other standards related to graphic technology
+structuredidentifier:
+  project_number: X9205
+  type: JIS
+ext:
+  schema-version: v0.0.1

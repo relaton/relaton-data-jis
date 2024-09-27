@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: JISC2808-1993
+title:
+- content: 医用接地センタボディー及び医用接地端子
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Hospital grade earth centerbodies and terminals
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2808%3A1993
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02808_000_000_1993_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 2808:1993
+  type: JIS
+  primary: true
+docnumber: C2808
+date:
+- type: issued
+  value: '1993-05-31'
+- type: confirmed
+  value: '2003-09-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電気設備学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電気設備学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 病院，診療所における感電防止対策に用いる医用接地センタの主要部分を構成する医用接地センタボディー及び医用接地端子について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電気設備学会
+ics:
+- code: 29.120.20
+  text: Connecting devices
+structuredidentifier:
+  project_number: C2808
+  type: JIS
+ext:
+  schema-version: v0.0.1

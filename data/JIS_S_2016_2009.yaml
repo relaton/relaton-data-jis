@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: JISS2016-2009
+title:
+- content: 石油こんろ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Oil burning cooking stoves
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2016%3A2009
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02016_000_000_2009_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS S 2016:2009
+  type: JIS
+  primary: true
+docnumber: S2016
+date:
+- type: issued
+  value: '2009-03-20'
+- type: confirmed
+  value: '2013-10-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本燃焼機器検査協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本燃焼機器検査協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 灯油を燃料とし，燃料消費量が６ｋＷ以下の石油こんろについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本燃焼機器検査協会
+ics:
+- code: 97.040.20
+  text: Cooking ranges, working tables, ovens and similar appliances
+- code: 97.100.40
+  text: Liquid fuel heaters
+structuredidentifier:
+  project_number: S2016
+  type: JIS
+ext:
+  schema-version: v0.0.1

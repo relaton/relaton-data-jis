@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: JISE5004-2000
+title:
+- content: 電気車　―　制御機器　―　試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Control equipment for electric rolling stock -- Test methods
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5004%3A2000
+  type: src
+type: standard
+docid:
+- id: JIS E 5004:2000
+  type: JIS
+  primary: true
+docnumber: E5004
+date:
+- type: issued
+  value: '2000-10-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道車輌工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄道車輌工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電気車に用いる制御機器の試験方法について規定。回転機器，主変圧器，リアクトル及び電力変換装置は除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄道車輌工業会
+ics:
+- code: '29.280'
+  text: Electric traction equipment
+- code: 45.060.01
+  text: Railway rolling stock in general
+structuredidentifier:
+  project_number: E5004
+  type: JIS
+ext:
+  schema-version: v0.0.1

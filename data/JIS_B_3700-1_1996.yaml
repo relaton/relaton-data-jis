@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: JISB3700-1-1996
+title:
+- content: 産業オートメーションシステム及びその統合―製品データの表現及び交換―第１部：概要及び基本原理
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Industrial automation systems and integration -- Product data representation
+    and exchange -- Part 1: Overview and fundamental principles'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3700-1%3A1996
+  type: src
+type: standard
+docid:
+- id: JIS B 3700-1:1996
+  type: JIS
+  primary: true
+docnumber: B3700
+date:
+- type: issued
+  value: '1996-03-01'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本情報経済社会推進協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 製品データの表現及び交換を規定する規格群の概要を規定。製品情報の表現，並びに製品データの交換を可能とするために必要な機構及び定義を規定。この交換は，製品の設計，製造，使用，保守及び最終的な破棄を含め，製品のライフサイクルのすべてに関係する異なる計算機システム間及び環境間で行われる。適用範囲は，構成部品及び組立品を含めた製品情報の表現。－蓄積，転送，アクセス及び保管を含めた製品データの交換。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本情報経済社会推進協会
+ics:
+- code: 25.040.01
+  text: Industrial automation systems in general
+structuredidentifier:
+  project_number: B3700
+  type: JIS
+ext:
+  schema-version: v0.0.1

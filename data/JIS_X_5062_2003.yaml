@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5062-2003
+title:
+- content: セキュリティ技術―ディジタル署名技術の応用を支援するためのＴＴＰサービス仕様
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Information technology -- Security techniques -- Specification of TTP Services
+    to support the Application of Digital Signatures
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5062%3A2003
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05062_000_000_2003_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5062:2003
+  type: JIS
+  primary: true
+docnumber: X5062
+date:
+- type: issued
+  value: '2003-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 文書の創作の否認防止を目的としたディジタル署名技術の応用を支援するために必要とされるＴＴＰ（Ｔｒｕｓｔｅｄ　Ｔｈｉｒｄ　Ｐａｒｔｙ：信頼できる第三者機関）サービスを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: '35.040'
+  text: Information coding
+structuredidentifier:
+  project_number: X5062
+  type: JIS
+ext:
+  schema-version: v0.0.1

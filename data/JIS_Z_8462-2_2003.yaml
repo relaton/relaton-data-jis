@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.9
+id: JISZ8462-2-2003
+title:
+- content: 測定方法の検出能力―第２部：検量線が直線である場合の方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Capability of detection -- Part 2: Methodology in the linear calibration
+    case'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8462-2%3A2003
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08462_002_000_2003_j_ed11_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08462_002_000_2003_e_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 8462-2:2003
+  type: JIS
+  primary: true
+docnumber: Z8462
+date:
+- type: issued
+  value: '2003-03-20'
+- type: confirmed
+  value: '2022-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- content: 正味状態変数の限界値，応答変数の限界値及び検出可能な最小正味状態変数値を推定するための実験を計画する；校正関数（検量線）が直線であり，応答変数の標準偏差が一定の場合又は正味状態変数と直線関係にある場合に，実験データから正味状態変数の限界値，応答変数の限界値，及び検出可能な最小正味状態変数値を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 03.120.30
+  text: Application of statistical methods
+- code: '17.020'
+  text: Metrology and measurement in general
+structuredidentifier:
+  project_number: Z8462
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISX6202-1991
+title:
+- content: ２００ｍｍフレキシブルディスクカートリッジのトラックフォーマット
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Track format for 200 mm flexible disk cartridges
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6202%3A1991
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06202_000_000_1991_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06202_000_000_1991_e_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 6202:1991
+  type: JIS
+  primary: true
+docnumber: X6202
+date:
+- type: issued
+  value: '1991-01-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　６２０１に規定する情報交換用フレキシブルディスクカートリッジに情報を記録する際の，トラックフォーマットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 35.220.21
+  text: Magnetic disks
+structuredidentifier:
+  project_number: X6202
+  type: JIS
+ext:
+  schema-version: v0.0.1

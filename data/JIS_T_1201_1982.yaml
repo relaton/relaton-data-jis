@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JIST1201-1982
+title:
+- content: オージオメータ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Diagnostic audiometers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1201%3A1982
+  type: src
+type: standard
+docid:
+- id: JIS T 1201:1982
+  type: JIS
+  primary: true
+docnumber: T1201
+date:
+- type: issued
+  value: '1982-09-10'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本音響学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本音響学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 医科において，純音を用いて個人の聴力を測定するオージオメータについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本音響学会
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+structuredidentifier:
+  project_number: T1201
+  type: JIS
+ext:
+  schema-version: v0.0.1

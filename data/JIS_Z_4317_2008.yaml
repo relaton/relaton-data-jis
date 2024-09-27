@@ -1,0 +1,92 @@
+---
+schema-version: v1.2.9
+id: JISZ4317-2008
+title:
+- content: 放射性希ガスモニタ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Radioactive noble gas monitors
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4317%3A2008
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04317_000_000_2008_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 4317:2008
+  type: JIS
+  primary: true
+docnumber: Z4317
+date:
+- type: issued
+  value: '2008-07-20'
+- type: confirmed
+  value: '2023-10-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 原子力施設及び放射線施設において放射線防護のために，施設における作業環境の希ガス放射能濃度の測定；施設から環境中に放出される空気中の希ガス放射能濃度の測定の目的によって空気中の希ガス（ラドンガスは除く。）の放射能濃度を連続的に測定し，指示値が設定値を超えたときに警報を発生する放射性希ガスモニタについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電気計測器工業会"
+ics:
+- code: '13.280'
+  text: Radiation protection
+- code: '17.240'
+  text: Radiation measurements
+structuredidentifier:
+  project_number: Z4317
+  type: JIS
+ext:
+  schema-version: v0.0.1

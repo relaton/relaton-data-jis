@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISX5779-1996
+title:
+- content: 開放型システム間相互接続―システム管理―アクセス制御のためのオブジェクト及び属性
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Open Systems Interconnection -- Systems Management:
+    Objects and attributes for access control'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5779%3A1996
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05779_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5779:1996
+  type: JIS
+  primary: true
+docnumber: X5779
+date:
+- type: issued
+  value: '1996-07-31'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: ＯＳＩ管理のサービス及びプロトコルを利用する適用業務のためのアクセス制御の提供に適用。（１）ＯＳＩ管理のサービス及びプロトコルを利用する適用業務のためのアクセス制御の提供に関する利用者要件（２）ＯＳＩ管理のサービス及びプロトコルを利用する管理適用業務のための，ＩＴＵ－Ｔ　Ｒｅｃ．Ｘ．８１２（ＩＳＯ／ＩＥＣ　１０１８１－３）で規定されるアクセス制御の一般モデルの解釈及び適用
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本規格協会
+ics:
+- code: 35.100.70
+  text: Application layer
+structuredidentifier:
+  project_number: X5779
+  type: JIS
+ext:
+  schema-version: v0.0.1

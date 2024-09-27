@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: JISC0022-1987
+title:
+- content: 環境試験方法（電気・電子）高温高湿（定常）試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Basic environmental testing procedures Part 2: Tests, Test Ca: Damp heat,
+    steady state'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0022%3A1987
+  type: src
+type: standard
+docid:
+- id: JIS C 0022:1987
+  type: JIS
+  primary: true
+docnumber: C0022
+date:
+- type: issued
+  value: '1987-09-30'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本電子部品信頼性センター
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 部品，機器又はその他の製品を高い相対湿度の状態で使用又は貯蔵することができる能力を調べることを目的とした高温高湿（定常）試験について規定。規定の時間，一定温度における高い湿度の影響を調べることを意図。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本電子部品信頼性センター
+ics:
+- code: '19.040'
+  text: Environmental testing
+- code: '19.080'
+  text: Electrical and electronic testing
+structuredidentifier:
+  project_number: C0022
+  type: JIS
+ext:
+  schema-version: v0.0.1

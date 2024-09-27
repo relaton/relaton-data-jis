@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.9
+id: JISX0012-1990
+title:
+- content: 情報処理用語（データ媒体，記憶装置及び関連装置）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Glossary of terms used in information processing (Data Media, Storage and
+    Related Equipment)
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0012%3A1990
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00012_000_000_1990_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0012:1990
+  type: JIS
+  primary: true
+docnumber: X0012
+date:
+- type: issued
+  value: '1990-04-30'
+- type: confirmed
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　情報処理学会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 情報処理におけるデータ媒体，記憶装置及び関連装置に関する用語とその読み方，意味及び対応英語について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　情報処理学会
+ics:
+- code: 01.040.35
+  text: Information technology (Vocabularies)
+- code: 35.220.01
+  text: Data storage devices in general
+structuredidentifier:
+  project_number: X0012
+  type: JIS
+ext:
+  schema-version: v0.0.1

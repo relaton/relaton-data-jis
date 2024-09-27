@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: JISB0125-1984
+title:
+- content: 油圧及び空気圧用図記号
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Graphic symbols for fluid power systems
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0125%3A1984
+  type: src
+type: standard
+docid:
+- id: JIS B 0125:1984
+  type: JIS
+  primary: true
+docnumber: B0125
+date:
+- type: issued
+  value: '1984-08-31'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本フルードパワー工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本フルードパワー工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 油圧及び空気圧機器並びに装置の機能を表示するための図記号について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本フルードパワー工業会
+ics:
+- code: 01.080.20
+  text: Graphical symbols for use on specific equipment
+- code: 23.100.01
+  text: Fluid power systems in general
+- code: '23.140'
+  text: Compressors and pneumatic machines
+structuredidentifier:
+  project_number: B0125
+  type: JIS
+ext:
+  schema-version: v0.0.1

@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.9
+id: JISB3402-2000
+title:
+- content: ＣＡＤ機械製図
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Drawing practices for mechanical engineering by CAD
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3402%3A2000
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03402_000_000_2000_j_pr10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 3402:2000
+  type: JIS
+  primary: true
+docnumber: B3402
+date:
+- type: issued
+  value: '2001-02-28'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本設計工学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本設計工学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+abstract:
+- content: 機械工業の分野においてＣＡＤによって行う製図について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　日本設計工学会"
+ics:
+- code: 01.100.01
+  text: Technical drawings in general
+- code: 35.240.10
+  text: Computer-aided design (CAD)
+structuredidentifier:
+  project_number: B3402
+  type: JIS
+ext:
+  schema-version: v0.0.1

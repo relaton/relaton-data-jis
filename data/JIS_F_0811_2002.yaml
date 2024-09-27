@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: JISF0811-2002
+title:
+- content: 舟艇―電気機器―周囲の可燃性ガスへの引火防止
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Small craft -- Electrical devices -- Protection against ignition of surrounding
+    flammable gases
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0811%3A2002
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_00811_000_000_2002_j_ed10_i4.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS F 0811:2002
+  type: JIS
+  primary: true
+docnumber: F0811
+date:
+- type: issued
+  value: '2002-05-31'
+- type: confirmed
+  value: '2022-10-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本船舶技術研究協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 舟艇で使用する電気機器が周囲の可燃性ガスに引火させずに爆発環境下で作動できるようにするための試験方法及び設計要件について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般財団法人　日本船舶技術研究協会
+ics:
+- code: 13.220.20
+  text: Fire protection
+- code: 47.020.60
+  text: Electrical equipment of ships and  of marine structures
+- code: '47.080'
+  text: Small craft
+structuredidentifier:
+  project_number: F0811
+  type: JIS
+ext:
+  schema-version: v0.0.1

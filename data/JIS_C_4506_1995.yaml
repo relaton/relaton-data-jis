@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC4506-1995
+title:
+- content: 単相電動機操作用小形スイッチ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Small switches for single-phase motors
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4506%3A1995
+  type: src
+type: standard
+docid:
+- id: JIS C 4506:1995
+  type: JIS
+  primary: true
+docnumber: C4506
+date:
+- type: issued
+  value: '1995-04-30'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 交流２５０Ｖ以下の電路で，主に家庭において使用される単相電動機応用小形機器に取り付ける定格容量７５０Ｗ以下の気中形の手動式の単相電動機操作用小形スイッチについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本電機工業会
+ics:
+- code: 29.120.40
+  text: Switches
+structuredidentifier:
+  project_number: C4506
+  type: JIS
+ext:
+  schema-version: v0.0.1

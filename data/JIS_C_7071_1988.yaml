@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC7071-1988
+title:
+- content: 液晶表示パネル通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rule of liquid crystal display panel
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7071%3A1988
+  type: src
+type: standard
+docid:
+- id: JIS C 7071:1988
+  type: JIS
+  primary: true
+docnumber: C7071
+date:
+- type: issued
+  value: '1988-08-31'
+contributor:
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 社団法人　日本電子機械工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 電子機器などの表示に用いるスタティック駆動の液晶表示パネルの共通的要求事項，個別規格の様式などについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 社団法人　日本電子機械工業会
+ics:
+- code: '31.120'
+  text: Electronic display devices
+structuredidentifier:
+  project_number: C7071
+  type: JIS
+ext:
+  schema-version: v0.0.1

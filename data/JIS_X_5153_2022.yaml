@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: JISX5153-2022
+title:
+- content: 平衡配線設備―エンド　ツーエンドリンク，モジュラプラグ終端リンク及びダイレクトアタッチ配線設備の測定
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Information technology -- Implementation and operation of customer premises
+    cabling -- Part 4: Measurement of end-to-end (E2E) links, modular plug terminated
+    links (MPTLs) and direct attach cabling'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5153%3A2022
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05153_000_000_2022_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 5153:2022
+  type: JIS
+  primary: true
+docnumber: X5153
+date:
+- type: issued
+  value: '2022-12-20'
+contributor:
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: 次（ークラスＤ，クラスＥ及びクラスＥＡのエンド　ツーエンド（Ｅ２Ｅ）リンク；ークラスＤ，クラスＥ，クラスＥＡ，クラスＦ，クラスＦＡ，クラスＩ及びクラスＩＩのモジュラプラグ終端リンク（ＭＰＴＬ）；ークラスＤ，クラスＥ，クラスＥＡ，クラスＦ，クラス不ＦＡ，クラスＩ及びクラスＩＩのダイレクトアタッチ配線設備）の２対平衡配線設備及び４対平衡配線設備の測定方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電子情報技術産業協会"
+ics:
+- code: '35.200'
+  text: Interface and interconnection equipment
+structuredidentifier:
+  project_number: X5153
+  type: JIS
+ext:
+  schema-version: v0.0.1

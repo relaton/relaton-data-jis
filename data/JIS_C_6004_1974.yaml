@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.9
+id: JISC6004-1974
+title:
+- content: 放送聴取用受信機中間周波数
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Intermediate frequency of radio receiver for broadcast
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6004%3A1974
+  type: src
+type: standard
+docid:
+- id: JIS C 6004:1974
+  type: JIS
+  primary: true
+docnumber: C6004
+date:
+- type: issued
+  value: '1974-09-01'
+contributor:
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　電子情報技術産業協会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+abstract:
+- content: 放送聴取用受信機の中間周波数について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　電子情報技術産業協会
+ics:
+- code: 33.060.20
+  text: Receiving and transmitting equipment
+structuredidentifier:
+  project_number: C6004
+  type: JIS
+ext:
+  schema-version: v0.0.1
