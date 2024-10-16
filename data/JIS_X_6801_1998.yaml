@@ -17,8 +17,6 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6801%3A1998
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06801_000_000_1998_j_pr10_i4.pdf
-  type: pdf
 type: standard
 docid:
 - id: JIS X 6801:1998
@@ -53,13 +51,6 @@ language:
 - ja
 script:
 - Jpan
-abstract:
-- content: 高性能，高信頼なシステムバスであるＳＴｂｕｓの論理仕様を規定。ＳＴｂｕｓは高速クロックに同期した転送方式と，バスの無効保管時間を削減しバスを効率良く使用できるスプリット転送方式を採用。次の内容を規定：システムバス信号の規定；バスオペレーションの種別と転送プロトコル；コピーバックキャッシュのコヒーレンシ制御機能（共有メモリの内容と各プロセッサの内の個別メモリの内容との整合性を保証する機能）；パリティチェック機能や信号の２重化構成による障害検出機能
-  language:
-  - ja
-  script:
-  - Jpan
-  format: text/plain
 docstatus:
   stage:
     value: valid

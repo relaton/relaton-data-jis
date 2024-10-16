@@ -51,13 +51,6 @@ language:
 - ja
 script:
 - Jpan
-abstract:
-- content: クレーンの風荷重に関するもの。風荷重の計算は，単純化した計算方法で行うよう規定。風は，あらゆる方向から水平に，一定の速度で吹き，クレーンの構造部分には静的な荷重として作用するものとする。
-  language:
-  - ja
-  script:
-  - Jpan
-  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -64,13 +64,6 @@ language:
 - ja
 script:
 - Jpan
-abstract:
-- content: ＪＩＳ　Ｘ　６３２２規格群又はＪＩＳ　Ｘ　６３２３規格群に従うＩＣカード読取り機能をＪＩＳ　Ｘ　５２１１と合わせて実装するデバイスのために，ＮＦＣ通信モード，ＰＩＣＣ通信モード，ＰＣＤ通信モード及びＶＣＤ通信モードの四つの通信モードのうちの選択された一つに入る方法を規定。これらの通信モードの仕様は規定しない。
-  language:
-  - ja
-  script:
-  - Jpan
-  format: text/plain
 docstatus:
   stage:
     value: valid

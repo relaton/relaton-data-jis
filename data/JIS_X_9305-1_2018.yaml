@@ -64,13 +64,6 @@ language:
 - ja
 script:
 - Jpan
-abstract:
-- content: 基本的な音声命令のための枠組及び一般指針を定義。自然言語処理技術による文の認識は含まない。
-  language:
-  - ja
-  script:
-  - Jpan
-  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -64,13 +64,6 @@ language:
 - ja
 script:
 - Jpan
-abstract:
-- content: エンジンファミリに含める機関の決定，及びファミリのペアレントエンジンの選定に適用するための変数（パラメータ）を規定。道路での使用を目的として設計された自動車用機関を除いた移動式，可搬式及び定置式の往復動内燃機関（オフロード機関［ｏｆｆ－ｒｏａｄ　ｅｎｇｉｎｅｓ］）に適用。農業機械，道路機械，土工機械，産業用トラック，発電セットなどの用途の機関に適用。
-  language:
-  - ja
-  script:
-  - Jpan
-  format: text/plain
 docstatus:
   stage:
     value: valid
