@@ -1,38 +1,36 @@
 ---
 schema-version: v1.2.9
-id: JISB0134-2015
+id: JISB7281-2024
 title:
-- content: ロボット及びロボティックデバイス―用語
+- content: 眼鏡光学－眼鏡フレーム－寸法測定方式及び用語
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: Robots and robotic devices -- Vocabulary
+- content: Ophthalmic optics-Spectacle frames-Measuring system and vocabulary
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0134%3A2015
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7281%3A2024
   type: src
 type: standard
 docid:
-- id: JIS B 0134:2015
+- id: JIS B 7281:2024
   type: JIS
   primary: true
-docnumber: B0134
+docnumber: B7281
 date:
 - type: issued
-  value: '2015-03-20'
-- type: confirmed
-  value: '2019-10-21'
+  value: '2024-10-21'
 contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本ロボット工業会"
+        \                                                                                           福井県眼鏡工業組合"
       language:
       - ja
       script:
@@ -47,7 +45,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本ロボット工業会"
+        \                                                                                           福井県眼鏡工業組合"
       language:
       - ja
       script:
@@ -70,14 +68,12 @@ doctype:
   type: japanese-industrial-standard
 editorialgroup:
   technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ロボット工業会"
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            福井県眼鏡工業組合"
 ics:
-- code: 01.040.25
-  text: Manufacturing engineering (Vocabularies)
-- code: 25.040.30
-  text: Industrial robots. Manipulators
+- code: 11.040.70
+  text: Ophthalmic equipment
 structuredidentifier:
-  project_number: B0134
+  project_number: B7281
   type: JIS
 ext:
   schema-version: v0.0.1
