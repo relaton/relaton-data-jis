@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -56,6 +70,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ＳＱＬサーバモジュール中で，永続データベース言語ルーチンを宣言及び保守するためのデータベース言語の構文及び意味を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

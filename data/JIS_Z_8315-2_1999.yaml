@@ -42,6 +42,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -63,6 +77,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ＪＩＳ　Ｚ　８３１３－１，ＪＩＳ　Ｚ　８３１５－１，ＪＩＳ　Ｚ　８３１６，ＪＩＳ　Ｚ　８３１７及びＩＳＯ　３４６１－２に規定された一般規則に従って，すべての技術分野であらゆる種類の製図に対して正投影法を行う場合の基本的な規則を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

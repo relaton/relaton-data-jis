@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1612%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01612_000_000_2023_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01612_000_000_2023_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 1612:2023
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2023-08-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 標的の放射輝度を測定し，温度に換算して表示する工業用放射温度計のうち，狭帯域放射温度計（単色放射温度計）及び広帯域放射温度計（部分放射温度計）に関する仕様書及び／又は取扱説明書に記載する用語及び数値の表し方並びに仕様書に表す性能（特性）を再現するための試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

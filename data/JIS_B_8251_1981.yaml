@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 社団法人　軽金属溶接構造協会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 液化天然ガスを貯蔵する地上貯そうのうち，アルミニウム合金製の内そうをもつ二重かく（殻）平底球面屋根付円筒立形貯そうの構造の一般原則について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+3305%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_03305_000_000_2020_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 3305:2020
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2020-04-27'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 建築・土木構造物に関する規準類の作成，並びにその設計及びアセスメントに関する意思決定のための，リスク情報及び信頼性情報の基礎に関する一般的な原則について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

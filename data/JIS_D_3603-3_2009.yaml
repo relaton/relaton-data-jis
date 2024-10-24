@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+3603-3%3A2009
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_03603_003_000_2009_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS D 3603-3:2009
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 公益社団法人　自動車技術会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ディーゼル機関に用いる端面フランジ取付け式燃料噴射ポンプ（回転形，分配形式及び列形燃料噴射ポンプ）を機関に取り付けるために，取付け互換性上必要な，フランジの寸法に関する要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8713%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08713_000_000_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS M 8713:2021
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2021-07-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本鉄鋼連盟
@@ -50,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 高炉の還元帯を模した条件下で還元を行うことによって天然鉄鉱石塊鉱石及び塊成鉱（焼成ペレット及び焼結鉱）の被還元性を還元率で評価する試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2247-5%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02247_005_000_2022_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 2247-5:2022
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2022-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 公益社団法人　自動車技術会
@@ -50,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｋ　２２４７－１に規定する窒素酸化物（ＮＯｘ）還元剤ＡＵＳ　３２の給水インタフェースについて規定する。この規格は，選択還元式触媒（ＳＣＲ）技術を用いたディーゼル機関を搭載する自動車に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

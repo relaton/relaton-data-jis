@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8472%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08472_000_000_2005_j_ed13_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08472_000_000_2005_e_ed20_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8472:2005
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +83,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 照明器具に電源を供給する２以上の極を備え，照明器具用ライティングダクトについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

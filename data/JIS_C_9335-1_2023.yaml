@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9335-1%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09335_001_000_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 9335-1:2023
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2023-03-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -60,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 家庭用及びこれに類する電気機器で，バッテリ駆動機器その他の直流駆動機器を含み，定格電圧が単相機器の場合には２５０　V以下，その他の機器の場合には４８０　V以下のものの安全性について規定。通常，家庭で用いない機器でも，店舗，軽工業及び農場において一般人が用いる機器のような，一般大衆への危険源となる機器にも，この規格を適用する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

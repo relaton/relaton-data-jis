@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 財団法人　化学技術戦略推進機構
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 定められた条件下でのプラスチックのシャルピー衝撃強さを試験する方法について規定。多くの種類の試験片のタイプを規定。試験片タイプやノッチタイプは，材料規格に規定。試験方法は，定められた固有な衝撃条件のもとで試験片の挙動及び規定された試験片のぜい（脆）性又はじん（靱）性を評価する目的で使用。ＩＳＯ　１８０より広い範囲に適用し，層間せん断破壊を示す材料やその環境要因の影響を受ける材料により適している。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+7201-4%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_07201_004_000_2020_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 7201-4:2020
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: "麻酔器用呼吸システム，人工呼吸器用呼吸システム，加湿器又はネブライザに使用する呼吸セット及び呼吸管の基本的な要求事項について規定。特別な目的をもつ呼吸セット及び呼吸管［例１\t特別なコンプライアンス，圧力又は呼吸頻度を必要とする人工呼吸器；例２\t高頻度人工呼吸（ＨＦＯＶ），又は高頻度ジェットベンチレーション（ＨＦＪＶ）；例３\t新生児人工呼吸のための特殊なコネクタを装備する呼吸セット及び呼吸管］には適用しない（例参照）。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

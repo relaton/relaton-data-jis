@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 全国鞄工業組合連合会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 中学校生徒，高等学校生徒及び大学学生が使用する手さげかばんの標準寸法及び質量について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

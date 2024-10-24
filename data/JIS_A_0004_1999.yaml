@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本建築学会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: モデュラーコーディネーションの目的を規定し，建築物の寸法を決める際並びに構成材，設備部品，集成部品の位置設定及びそれらの寸法設定を行う際に適用される一般原則について規定。モデュラーコーディネーションは，あらゆるタイプの建築物の設計，あらゆるタイプの建築構成材の設計及び生産並びに建築物の建設に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

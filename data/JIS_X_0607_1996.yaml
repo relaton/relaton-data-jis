@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0607%3A1996
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00607_000_000_1996_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0607:1996
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '1996-03-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　光産業技術振興協会
@@ -50,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 情報処理システム利用者間での媒体による情報交換のためのボリューム認識，起動ブロック認識，ボリューム構造，ファイル構造及びレコード構造に関するフォーマット及び関連システム要件を規定。媒体への記録は，どのような順序でもセクタを記録可能とする方法で行わなければならない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

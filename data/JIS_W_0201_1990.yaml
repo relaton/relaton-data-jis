@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+0201%3A1990
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_w_00201_000_000_1990_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS W 0201:1990
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1990-07-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本航空宇宙工業会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＩＳＯ標準大気の特性について規定し，飛行体及びその構成部品の試験結果を同じ条件で表するため，並びに計器の開発及び校正の分野での統一化を進めるために，飛行体の計算及び設計に使用することを意図する。また，地球物理的及び気象学的観測から得たデ－タ処理に，この規格を使用することを推奨する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

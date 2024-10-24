@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本化学工業協会
       language:
       - ja
@@ -53,6 +67,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ふるい分けによって粒状又は粉末状の化学製品のふるい残分及び粒子径分布を試験するための一般的な方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -42,6 +42,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -63,6 +77,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 規則正しい形状をもつ形体及び不規則な形状をもつ形体の位置を決めるための位置度公差表示方式の原則について規定。穴，ボルト，植込みボルト又はピン，平行側面をもつ溝，キー及びキー溝などような規則正しい形状をもつ形体の場合だけについて示す。位置度公差方式は，点，直線又は平面に適用。線が直線ではない場合，及び面が平面ではない場合には，輪郭度公差方式を用いる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

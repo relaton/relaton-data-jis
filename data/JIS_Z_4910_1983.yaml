@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本画像医療システム工業会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: Ｘ線照射により被検者の体内で発生する散乱Ｘ線が，Ｘ線受像面に入射する量を減少させることにより，Ｘ線像のコントラストを改善する目的で，ＪＩＳ　Ｚ　４７０１に規定された医用Ｘ線装置に使用する散乱Ｘ線除去用グリッドについて規定。直線グリッドについてだけ適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

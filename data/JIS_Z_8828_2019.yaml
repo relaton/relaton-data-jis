@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8828%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08828_000_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8828:2019
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 主に液中に分散したサブミクロンの粒子，エマルション又は気泡の平均流体力学径及び粒子径分布の測定に動的光散乱（ＤＬＳ）法を用いる方法について規定。ＤＬＳ法は，準弾性光散乱（ＱＥＬＳ）法又は光子相関（ＰＣＳ）法とも呼ばれる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

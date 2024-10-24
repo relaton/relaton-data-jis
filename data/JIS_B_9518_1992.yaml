@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　ビジネス機械・情報システム産業協会
       language:
       - ja
@@ -51,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 金銭登録機などに用いる記録紙及び領収紙の巻紙について規定。感圧紙，感熱紙及び光学的文字読取り機用用紙には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

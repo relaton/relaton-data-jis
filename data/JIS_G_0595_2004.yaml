@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0595%3A2004
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00595_000_000_2004_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 0595:2004
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ステンレス鋼の外観上重要な，表面さびの発生程度を標準写真を用いて定量的に評価する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

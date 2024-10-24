@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8050%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08050_000_000_2005_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08050_000_000_2005_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 8050:2005
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2020-10-26'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +84,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 衣服にかぎ裂及び引裂によって許容限度を超える被害が及ぶか，又はバリアの完全性が失われる結果，衣服着用者に危険が及ぶ可能性のある状況下で使用する防護服の材料に対し，突刺及び動的引裂に対する抵抗性の試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

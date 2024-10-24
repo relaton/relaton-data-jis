@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　日本船舶技術研究協会
       language:
       - ja
@@ -51,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 船舶及び海洋構造物において，空気中に可燃性ガス又は可燃性液体の蒸気が引火・爆発するおそれがある濃度で存在する可能性がある場所で使用する電圧２５０Ｖ以下の白熱電球を光源とする耐圧防爆構造の天井灯について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

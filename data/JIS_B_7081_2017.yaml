@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           日本光学工業協会"
       language:
@@ -64,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 積分球を備えた分光光度計を用いて光学表面における可視光領域を含む紫外線から近赤外線領域の前方散乱光の分光測定方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

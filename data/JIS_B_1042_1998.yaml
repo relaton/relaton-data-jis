@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1042%3A1998
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01042_000_000_1998_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 1042:1998
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本ねじ研究協会
@@ -53,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ナットの各種表面欠陥に対する許容限界について規定。ねじ部品規格に規定がない場合，又は受渡当事者間の協定がない場合には，ねじの呼び径５～３９ｍｍ；部品等級Ａ及びＢ；ＪＩＳ　Ｂ　１０５２の附属書１及び附属書２によるすべての強度区分のナットに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

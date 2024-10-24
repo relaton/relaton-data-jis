@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 銅安定化ニオブ・チタン合金複合超電導線の直流臨界電流試験・標準化方法の規定条件を定めるために実施した試験のデータをまとめたもの。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

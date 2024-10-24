@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4501%3A1977
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04501_000_000_1977_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 4501:1977
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1977-03-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｃ　０９０１に規定する差込接続装置のうち，キャブタイヤケーブル間又は機器とキャブタイヤケーブルとの間の接続に用いる交流定格電圧６００Ｖ以下の連続定格の防爆形差込接続器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

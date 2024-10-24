@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+1021%3A2012
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_01021_000_000_2012_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS F 1021:2012
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本船舶技術研究協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 舟艇の通常の使用状態で，乗員に対して舟艇内で占有する場所から舷外への落水予防，乗員が落水した場合の再乗艇に対する安全装置及び設備に関する設計，構造及び強度要件について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

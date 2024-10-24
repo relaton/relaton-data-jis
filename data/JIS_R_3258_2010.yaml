@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "国立研究開発法人　産業技術総合研究所                                                \r\n
         \                                                                                           ガラス産業連合会"
       language:
@@ -53,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ガラス（二酸化けい素，酸化ほう素，酸化アルミニウム，酸化カルシウム，酸化ナトリウムなどの無機酸化物を主成分としたもの）中の微量のカドミウム，クロム及び鉛の定量方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

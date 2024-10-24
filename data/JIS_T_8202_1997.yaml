@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 公益社団法人　日本保安用品協会
       language:
       - ja
@@ -51,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 事務所，工場，地下街などの自然換気及び人工換気における空気流の速さを測定し，風速値を指示する一般用風速計について規定。気象用，航空機・船舶用，鉱山防爆用など，他に規格が制定されている風速計を除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

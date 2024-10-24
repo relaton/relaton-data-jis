@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "独立行政法人　製品評価技術基盤機構                                                \r\n
         \                                                                                           国立研究開発法人　産業技術総合研究所"
       language:
@@ -53,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ステンレス鋼，コバルトクロム合金，チタン材料などの金属系生体材料の素材レベルでの疲労試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

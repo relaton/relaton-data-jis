@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+2553%3A1992
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_r_02553_000_000_1992_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS R 2553:1992
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2003-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 耐火物技術協会
@@ -54,6 +70,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: キャスタブル耐火物及び軽量キャスタブル耐火物の養生後，乾燥後及び焼成後の曲げ強さ並びに圧縮強さの試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

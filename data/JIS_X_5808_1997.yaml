@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -56,6 +70,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ＥＤＩメッセージ通信に関する全般的なシステム及びサービスを定義。メッセージ通信処理システム及びサービスのその他の事項は，ＭＨＳの規格群の他の規格による。メッセージ通信処理システム及びサービスを定義するこの規格の構成は，ＪＩＳ　Ｘ　５８０１の表１による。ＭＨＳ上の公衆サービスは，公衆サービスのためのＭＨＳへのアクセス及びＭＨＳからのアクセスと同様に，ＩＴＵ－Ｔ勧告Ｆ．４００シリーズに定義されている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

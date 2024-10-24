@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 社団法人　日本鋳物工業会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 砂型（精密鋳型及びこれに準ずるものを除く。）によるねずみ鋳鉄品及び球状黒鉛鋳鉄品の長さ及び肉厚の鋳放し寸法の普通許容差について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

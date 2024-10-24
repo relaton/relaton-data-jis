@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1231%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01231_000_000_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 1231:2023
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2023-03-13'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 地盤材料から溶出する化学物質の溶出特性を求めるための上向流カラム通水試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

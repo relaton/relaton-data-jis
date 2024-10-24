@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8283-2-1%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08283_002_001_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8283-2-1:2021
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2021-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -60,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 家庭ミシン用の特殊な機器用カプラで，定格電圧250 V以下，定格電流3.0 A以下の交流専用のミシン用カプラについて規定。ミシン用カプラは制御部品又はミシン動作用の回路によって2個以上の極（コンタクト又はピン）があってもよく，また，接地極（コンタクト又はピン）はあってもなくてもよい。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

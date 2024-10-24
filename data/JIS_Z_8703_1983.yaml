@@ -42,6 +42,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -63,6 +77,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 鉱工業における試験を実施する場所の温度，湿度及び気圧に関する標準状態について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

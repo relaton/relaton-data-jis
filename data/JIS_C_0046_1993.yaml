@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　日本電子部品信頼性センター
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 家庭用電化製品，電気附属品（アクセサリー），その他これらに類するものの供試品の試験を目的としている。スプリングで動作するハンマがついている手持ち式試験器を使用して，供試品に衝撃エネルギーで表した衝撃を指定の方向に，規定の回数加えることを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

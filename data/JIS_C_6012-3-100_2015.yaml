@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6012-3-100%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06012_003_100_2015_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 6012-3-100:2015
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -53,6 +69,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ４８２．６ｍｍ（１９ｉｎ）シリーズのフロントパネル，サブラック，シャシ，ラック及びキャビネットの基本寸法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2135%3A2011
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02135_000_000_2011_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02135_000_000_2011_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 2135:2011
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2021-06-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +84,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 電気絶縁材料の高電圧小電流アーク放電による破損，特に，材料表面近傍で発生する損傷の耐久性を概略的に把握するための試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　日本船舶技術研究協会
       language:
       - ja
@@ -51,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 船舶における５００Ｖ以下の非接地式交流配電系統及び２４Ｖ以下の非接地式直流配電系統に用いられる絶縁監視装置の性能，構造及び装備方法の設計基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

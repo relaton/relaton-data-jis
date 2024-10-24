@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6935-2%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06935_002_000_1999_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 6935-2:1999
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 日本プラスチック工業連盟
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 試験片の調製及びふっ素ポリマー熱可塑性プラスチックの試験方法について規定。試験結果は，分類，材料仕様，又はその両方の基本に使用する。ディスパージョン，又は型成形，押出成形，その他用途に使用する粉末状のふっ素ポリマーのホモポリマー及び各種のコポリマーの表示特性及びその他特性を測定する試験条件について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5600-1-1%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_05600_001_001_1999_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 5600-1-1:1999
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本塗料工業会
@@ -54,6 +70,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 塗料及びその関連製品の試料採取方法及び試験を取り扱う一連の規格の一つ。塗料及び塗膜の品質を評価する際の，試験の一般試験条件及び一般試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

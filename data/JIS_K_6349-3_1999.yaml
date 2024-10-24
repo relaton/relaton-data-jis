@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本ゴム工業会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 鉱物性作動油又は水成系作動油を用いる液圧装置及び液圧回路に，－４０℃から＋１００℃までの温度範囲で使用する鋼線補強ゴムホースについて規定。薬物性流体及びエステル系作動油を用いるホースを除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

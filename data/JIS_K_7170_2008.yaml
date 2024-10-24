@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7170%3A2008
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07170_000_000_2008_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 7170:2008
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: プラスチックの設計に用いるデータの取得及び提示の指針について規定。データの要求事項には，充てん材入プラスチック，非充てんプラスチック，短繊維強化材料及び長繊維強化材料に関する設計が含まれる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

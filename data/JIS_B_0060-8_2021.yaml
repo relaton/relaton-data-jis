@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -60,6 +74,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｂ　００６０－１に基づき，一般機械，精密機械，電気機械などの工業分野で用いる３ＤＡモデル（３Ｄ ａｎｎｏｔａｔｅｄ　ｍｏｄｅｌ：三次元製品情報付加モデル）における非表示要求事項の指示方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

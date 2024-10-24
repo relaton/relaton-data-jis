@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+4220%3A2009
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_04220_000_000_2009_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_04220_000_000_2009_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS D 4220:2009
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 公益社団法人　自動車技術会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 自動車用ホイールの取付方式及び形状・寸法について規定。二輪自動車，産業車両，建設車両及び農業機械用ホイールには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

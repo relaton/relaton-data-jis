@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2350%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02350_000_000_2020_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS S 2350:2020
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 液体を充填したときに入味線が見えるソーダ石灰ガラス製のびんであって，液体をある一定の入味線高さまで充填したときに，容量が呼び容量と同じ値となる容量表示付きガラス製びんについて規定。また，特殊容器に商品を入れる場合の入味線高さについても規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -42,6 +42,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -61,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｘ　０２０１，ＪＩＳ　Ｘ　０２０８，ＪＩＳ　Ｘ　０２１２，ＪＩＳ　Ｘ　０２１３及びＪＩＳ　Ｘ　０２２１－１に規定される図形文字を対象とする文字を基本として用いた日本語文書の行，版面及びページについての基本的な組版方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

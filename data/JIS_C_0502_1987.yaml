@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　電気設備学会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 周波数５０Ｈｚもしくは６０Ｈｚの交流６００Ｖ以下又は直流７５０Ｖ以下の屋内電路使用される開閉器，遮断器，ヒューズなどの低圧用配線器具の標準使用状態について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

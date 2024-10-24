@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+62282-3-300%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_62282_003_300_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 62282-3-300:2019
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｃ　６２２８２－３－１００に適合する屋外式及び屋内式の定置用燃料電池発電システムを設置する場合に必要な安全要件について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

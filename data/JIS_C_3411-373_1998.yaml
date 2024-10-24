@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本電線工業会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 船用可とう同軸ケーブルの標準仕様及び要求特性について規定。船用可とう同軸ケーブルは，高周波信号がアースに対し非対称である場合に高周波信号機器に使用。無線設備及びレーダー設備の相互接続に用いる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

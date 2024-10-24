@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 写真感光材料工業会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 一般写真撮影用カメラに使用する直接ポジカラープリント撮影材料のＩＳＯスピードの求め方について規定。カメラの中で直接露光した後，カメラの内部又はカメラの外で処理をする拡散転写カラープリント材料及び在来のカラープリント材料に適用。複写又は複製に使用する材料には，適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

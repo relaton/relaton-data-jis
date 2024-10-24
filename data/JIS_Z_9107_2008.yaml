@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9107%3A2008
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09107_000_000_2008_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 9107:2008
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 安全標識の色材，予想される使用環境，主な構造材，照明方法，取付方法，光沢などの諸条件にかかわる分類方式に基づき，それぞれに要求される性能基準及び試験方法について規定。受渡当事者間の製品引渡しの時点において，製品説明書及び試験報告書を添付することについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

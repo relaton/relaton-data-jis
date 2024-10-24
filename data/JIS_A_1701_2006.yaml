@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　日本建築設備・昇降機センター
       language:
       - ja
@@ -51,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 建築基準法に基づく遊戯施設の安全について検査するための検査項目，検査器具，及び検査方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

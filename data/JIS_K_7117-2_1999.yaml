@@ -33,6 +33,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 日本プラスチック工業連盟
       language:
       - ja
@@ -53,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ポリマー分散液を含め，液状樹脂又は乳濁状若しくは分散状の樹脂の粘度を，標準的な形状の回転粘度計を用い，定せん断速度で測定する方法の一般原理について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

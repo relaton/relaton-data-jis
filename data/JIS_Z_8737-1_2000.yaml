@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8737-1%3A2000
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08737_001_000_2000_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8737-1:2000
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本音響学会
@@ -53,6 +69,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 反射面上の準自由音場において，機械及び装置近傍の作業位置及び他の指定位置における放射音圧レベルを測定する一つの方法について規定。作業位置とは，オペレータによって専有される場所を指す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

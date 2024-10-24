@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6335%3A1986
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06335_000_000_1986_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06335_000_000_1986_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 6335:1986
@@ -28,6 +32,20 @@ date:
 - type: issued
   value: '1986-12-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本工作機械工業会
@@ -46,6 +64,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: センタ間の距離３０００ｍｍ以下の数値制御円筒研削盤及び万能研削盤の運転性能，剛性，機械精度及び工作精度に関する試験及び検査方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

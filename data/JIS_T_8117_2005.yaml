@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           公益社団法人　日本保安用品協会"
       language:
@@ -65,6 +79,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 酸，アルカリ，有機薬品，その他の気体及び液体又は粒子状の有害化学物質を取り扱う作業に従事するときに着用し，化学物質の透過及び／又は浸透の防止を目的として使用する長靴について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

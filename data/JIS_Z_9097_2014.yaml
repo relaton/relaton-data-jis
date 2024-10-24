@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9097%3A2014
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09097_000_000_2014_j_ed10_web.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 9097:2014
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 公益社団法人　日本保安用品協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 津波が発生したときに備え，人々が安全な場所へ避難する際に利用する津波避難誘導標識システムについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

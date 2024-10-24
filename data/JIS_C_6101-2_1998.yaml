@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6101-2%3A1998
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06101_002_000_1998_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 6101-2:1998
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-06-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: モノラル方式及び音声多重方式用受信機の音声チャネルの一般的試験方法を規定。性能の測定法を扱い，仕様に有益な特性を列記。これらの特性のために統一した試験方法を規定することによって，各機器の比較が可能。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

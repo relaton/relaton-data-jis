@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7215%3A1986
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07215_000_000_1986_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07215_000_000_1986_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 7215:1986
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　化学研究評価機構
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: プラスチックのデュロメータＡ硬さ及びＤ硬さを測定する方法について規定。デュロメータ硬さの範囲は，Ａ硬さ及びＤ硬さともおよそ２０～９０とする。プラスチックフィルム，テープ及びフォームプラスチックには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

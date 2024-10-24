@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7116%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07116_000_000_1999_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 7116:1999
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 日本プラスチック工業連盟
@@ -54,6 +70,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 前処理，温度及び湿度が規定された条件のもとで，標準試験片によるプラスチックの曲げクリープの試験方法について規定。二つの自由端をもったはりに，単純支持する支点間の中央に負荷する（３点曲げ）場合にだけにこの試験方法を適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

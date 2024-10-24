@@ -19,6 +19,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+1701-2%3A2016
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_r_01701_002_000_2016_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_r_01701_002_000_2016_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS R 1701-2:2016
@@ -31,6 +35,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -69,6 +87,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 光触媒を建築材料及びその他の製品の表面に担持させた光触媒材料の空気浄化性能のうち，気体のアセトアルデヒド（ＣＨ３ＣＨＯ）の除去性能を試験する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5381-312%3A2016
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05381_312_000_2016_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5381-312:2016
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 公称システム電圧が交流１　０００Ｖ（実効値）又は直流１　５００Ｖ以下の通信網，信号網及び低圧配電システムの過電圧保護に用いる二つ又は三つの電極をもつガス入り放電管（GDT）の特徴及び適用回路について情報を提供し，GDTの選定及び適用基準を規定。完成品であるサージ防護デバイスについては規定しない。GDTの特性及びサージ防護デバイスの耐量との正確な協調が非常に厳しい電子機器内に使用するGDT全体の要求事項も規定しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

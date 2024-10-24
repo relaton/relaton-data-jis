@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0597%3A2017
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00597_000_000_2017_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00597_000_000_2017_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 0597:2017
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: ステンレス協会
@@ -54,6 +72,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 大気環境におけるステンレス鋼の腐食挙動を評価する促進腐食試験方法について規定。腐食試験で使用する装置も規定。この腐食試験には，塩分付着条件，及び絶対湿度一定下における乾燥・湿潤条件を含む。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

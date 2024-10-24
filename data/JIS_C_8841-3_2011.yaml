@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8841-3%3A2011
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08841_003_000_2011_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08841_003_000_2011_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8841-3:2011
@@ -28,6 +32,20 @@ date:
 - type: issued
   value: '2011-03-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -46,6 +64,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ａ）固体酸化物形燃料電池；ｂ）定格送電出力１０ｋＷ未満；ｃ）直流出力，交流出力又は直流・交流両用出力；ｄ）交流出力の場合２２０Ｖ以下；ｅ）系統連系運転，自立運転又は独立運転；ｆ）気体燃料（都市ガス，液化石油ガスなど），液体燃料（灯油など）又は水素；ｇ）燃料ガスが通る部分の最高使用圧力が０．１ＭＰａ未満。ただし，液体燃料が通る部分は１．０ＭＰａ未満；ｈ）パッケージに収納した定置用の発電専用システム又はコージェネレーションシステム；に該当する定置用の小形固体酸化物形燃料電池システムの性能試験方法及び環境試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本ホームヘルス機器協会"
       language:
@@ -61,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 病院及び診療所以外で使用する家庭用光線治療器で，単相機器の場合は，定格電圧が１００　Ｖで作動し，内部電源機器の場合は，電源電圧が安全特別低電圧（ＳＥＬＶ）で作動する次の機器（－　家庭用赤外線治療器；－　家庭用炭素弧光灯治療器；－　家庭用紫外線治療器　）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

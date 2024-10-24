@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7087%3A1996
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07087_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07087_000_000_1996_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 7087:1996
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　化学研究評価機構
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 炭素繊維強化プラスチック（ＣＦＲＰ）の一般的な引張クリープ試験方法として一定の試験雰囲気下で，試験片に長時間一定の引張荷重を加えて，試験片の引張クリープ伸びの測定及び／又は試験開始から試験片が破壊若くはある規定された引張とクリープひずみに逹するまでの時間の測定を行う方法について規定。負荷方向と繊維の軸とを一致させて行う一方向ＣＦＲＰの引張クリープ伸びを測定する試験方法には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

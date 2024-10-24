@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+2321%3A2006
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_02321_000_000_2006_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS F 2321:2006
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本船舶技術研究協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 船上で使用する鋼製風雨密小形ハッチの互換性を確保するために，その主要寸法，附属金物の位置と数，材料及び製品の品質について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

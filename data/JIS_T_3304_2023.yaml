@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
       language:
@@ -61,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: カテーテルの留置又は麻酔薬若しくは鎮痛薬の投与に用いる鋭利な先端をもつ滅菌済みの器具で，そのまま直ちに使用できる単回使用の脊髄くも膜下・硬膜外針について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

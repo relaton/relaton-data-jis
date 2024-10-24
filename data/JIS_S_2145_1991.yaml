@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2145%3A1991
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02145_000_000_1991_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02145_000_000_1991_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS S 2145:1991
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '1997-02-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本ガス機器検査協会                                                \r\n
@@ -55,6 +73,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 圧力３．２４ｋＰａ｛３３０ｍｍＨ２Ｏ｝以下の液化石油ガス又は都市ガスを使用する固定形ガス燃焼機器と，ガス栓とを接続するために用いるガス用金属フレキシブルホースについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

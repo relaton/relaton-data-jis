@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8125-5%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08125_005_000_2010_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08125_005_000_2010_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 8125-5:2010
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2020-10-26'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +84,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 手持ちチェーンソーによる切断に対する脚半の抵抗性の評価を行うための試験方法及び要求性能について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

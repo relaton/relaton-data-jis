@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2706%3A2013
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02706_000_000_2013_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02706_000_000_2013_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 2706:2013
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2013-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -57,6 +75,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 単体及び組み合わせて複数枚使用する鋼製皿ばねについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

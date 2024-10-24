@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -56,6 +70,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ａ）品質についてのいくつかの主要な概念，及びそれらの間の相違並びに相互関係を明確にし，ｂ）品質管理及び品質保証に関するＪＩＳ　Ｚ　９９００シリーズの規格を選択し，使用する際の手引を与える。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

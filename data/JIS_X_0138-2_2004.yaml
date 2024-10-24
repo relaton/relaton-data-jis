@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0138-2%3A2004
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00138_002_000_2004_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0138-2:2004
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＣＤＩＦ転送構文規格を規定。SYNTAX.1のための特定の交換符号化を規定していない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

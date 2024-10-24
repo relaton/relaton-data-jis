@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -56,6 +70,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 符号上の制約を受けることのないハイレベルデータリンク制御（ＨＤＬＣ）手順を用いるデータ通信システムにおけるフレーム構成について規定。フレームの各要素の相対的位置，フレーム区切りシーケンスのビット構成，フレーム内におけるビットパターンの独立性を実現するために用いる機構を規定。２種類のフレーム検査シーケンス，アドレス部の拡張方法，及びアドレスの用法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　光産業技術振興協会
       language:
       - ja
@@ -51,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 光伝送機器の接続，内部配線などに使用する，単心又は２心の光ファイバ心線上に抗張力体を配し，塩化ビニル樹脂を主体としたコンパウンドなどのプラスチックをシースとした光ファイバコードについて規定。全プラスチックマルチモード光ファイバ素線を用いた光ファイバコード及びテープ形光ファイバ心線を用いた光ファイアコードには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           日本筆記具工業会"
       language:
@@ -61,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: プラスチック製，ガラス製，金属製などの容器の中にインキを含ませた吸収体を入れ，これらに繊維製，プラスチック製などのペン先を取り付けたマーキングペンについて規定。ただし，水性マーキングペンのうち，筆ペンについては除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

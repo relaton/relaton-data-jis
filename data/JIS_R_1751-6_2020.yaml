@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+1751-6%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_r_01751_006_000_2020_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS R 1751-6:2020
@@ -29,6 +31,20 @@ date:
 - type: issued
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 可視光応答形光触媒を主に板材，壁紙などの建築材料の表面に担持させた光触媒材料の空気清浄化性能のうち，ＪＩＳ　Ａ　１９０１に規定する小形チャンバーを用いて，室内環境などが可視光照射されている条件での，ホルムアルデヒド除去性能を試験する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　光産業技術振興協会
       language:
       - ja
@@ -52,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＩＳＯ／ＩＥＣ　１１６９４－１，ＩＳＯ／ＩＥＣ　１１６９４－２，ＩＳＯ／ＩＥＣ　１１６９４－３及びＩＳＯ／ＩＥＣ　１１６９４－４で規定される光メモリカードの直線記録方式で情報を記録する際の情報交換用データ様式について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　電子情報技術産業協会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　６１０１に規定する２７形情報交換用磁気テープに使用するセルフローティングカートリッジについて規定。自動装着機能をもったテープ装置間での互換性を確保するために最低限必要な寸法・機能の要求事項について規定。ただし，公差を規定していないものの値については，推奨値とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

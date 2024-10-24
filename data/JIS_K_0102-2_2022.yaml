@@ -19,6 +19,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0102-2%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00102_002_000_2022_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00102_002_000_2022_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0102-2:2022
@@ -29,6 +33,20 @@ date:
 - type: issued
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　産業環境管理協会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 工業用水の試験方法，及び工場（事業所を含む。）からの排水の試験方法のうち，陰イオン類，アンモニウムイオン，有機体窒素，全窒素及び全りんの試験方法について規定。個別試験項目において適用対象を規定していない場合は，その試験は工業用水及び工場排水の両方に適用する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

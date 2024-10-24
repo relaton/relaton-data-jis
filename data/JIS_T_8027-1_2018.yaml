@@ -33,6 +33,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           公益社団法人　日本保安用品協会"
       language:
@@ -67,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 加熱シリンダーによる押圧熱伝達を測定するための試験方法について規定。また，高温物体との接触からの防護を目的とする防護服（防護手袋を含む）及びその構成材料に適用し，１００℃～５００℃の接触温度範囲に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

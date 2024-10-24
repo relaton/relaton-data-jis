@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6305-2%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06305_002_000_2020_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 6305-2:2020
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2020-12-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: この規格を含むＪＩＳ　Ｘ　６３０５（規格群）は，ＪＩＳ　Ｘ　６３０１に基づく識別カードの特性評価試験方法を規定しており，各試験方法は，一つ以上の基本規格と相互に参照される。基本規格とは，例えば，ＪＩＳ　Ｘ　６３０１，ＩＤカードを使ったアプリケーションで利用する情報記憶技術を規定する規格である。ＪＩＳ　Ｘ　６３０１に基づく識別カードの磁気ストライプ技術に特有な試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

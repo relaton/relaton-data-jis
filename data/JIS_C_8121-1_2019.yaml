@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8121-1%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08121_001_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8121-1:2019
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 照明器具などに組み込むことを意図した様々なタイプのランプソケット（例えば，附属書Ａに記載する受金をもつ，一般照明用光源，映写用電球，投光照明用ランプ及び街路照明用ランプを装着するランプソケット）の一般要求事項及びこれらのランプソケットに装着したランプの安全な使用を確認するための試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

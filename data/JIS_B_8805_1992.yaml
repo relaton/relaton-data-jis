@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8805%3A1992
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08805_000_000_1992_j_pr12_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08805_000_000_1992_e_pr20_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8805:1992
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本産業機械工業会
@@ -54,6 +72,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ばら物を運搬するために用いるＪＩＳ　Ｂ　８８０３，ＪＩＳ　Ｂ　８８１４に規定するベルトコンベヤ用ローラ及びベルトコンベヤ用プーリを用いた定置式ゴムベルトコベヤの全抵抗力，複合摩擦係数，所要動力，ベルト張力，運搬量及び運搬物の積載断面積の各計算式について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

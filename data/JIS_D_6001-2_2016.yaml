@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+6001-2%3A2016
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_06001_002_000_2016_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS D 6001-2:2016
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2021-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +81,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｄ　６２０１に定義された，ティルトしない垂直なマストをもつフォークリフトトラック［ａ）　運転者の位置が路面から１　２００ｍｍを超えて上昇するオーダピッキングトラック；ｂ）　路面から１　２００ｍｍを超える高さに荷を揚げたまま走行するよう設計されたラテラルスタッキングトラック及び三方向スタッキングトラック］のための，ＪＩＳ　Ｄ　６００１－１に加えて要求される安全要求事項及び検証について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

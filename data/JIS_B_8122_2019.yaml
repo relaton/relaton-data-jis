@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8122%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08122_000_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8122:2019
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ディーゼルエンジン，ガスエンジン及びガスタービンを原動機として，電力と熱とを併給するコージェネレーションシステムの性能試験方法について規定。ほかの日本工業規格及び／又は国際規格によって既に試験されている原動機，発電機，排熱回収装置など，機器単体については，この規格を適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0211%3A1994
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00211_000_000_1994_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0211:1994
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｘ　０２０２に基づく７ビット符号，拡張７ビット符号，８ビット符号及び拡張８ビット符号中で用いる制御機能及びその符号化表現を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

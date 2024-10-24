@@ -40,6 +40,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -55,6 +69,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 交流ブリッジなどを用いて，無機物及び有機物を導電率滴定により容量分析を行う一般的方法について規定。導電率測定法及び交流電源として１０ｋＨｚ以上の周波数を用いる高周波滴定法は含まない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

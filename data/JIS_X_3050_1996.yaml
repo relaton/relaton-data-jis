@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -56,6 +70,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ＰＣＴＥを抽象的に，すなわちプログラミング言語に依存しない用語で規定。この規格に適合する実装すべてが満たすべきインタフェースを，抽象的な操作仕様の集合として規定。加えてそのパラメタ及び結果の型も規定。この抽象仕様は，複数の言語結合（ｂｉｎｄｉｎｇ）標準仕様，すなわち標準のプログラミング言語でそのインタフェースを表現したものによって具体化される。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

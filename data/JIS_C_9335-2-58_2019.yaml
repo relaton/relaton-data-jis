@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9335-2-58%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09335_002_058_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 9335-2-58:2019
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2019-12-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -60,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 定格電圧が１相と中性点との間に接続される単相機器の場合は２５０Ｖ以下，その他の機器の場合は４８０Ｖ以下の，家庭用を意図しない業務用のトレイ，食器，グラス，刃物及び類似の物品を洗浄する食器洗浄機及び類似の機器の安全性について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

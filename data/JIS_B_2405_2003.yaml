@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2405%3A2003
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02405_000_000_2003_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02405_000_000_2003_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 2405:2003
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2003-11-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 一般に使用するメカニカルシールの性能，構造，寸法，取付機器の精度，性能試験及び表示に関する事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

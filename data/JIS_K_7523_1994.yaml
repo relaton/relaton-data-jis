@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 写真感光材料工業会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ネガ－ポジ又はリバーサル方式の一般写真用黒白及びカラーシート写真印画紙の公称寸法及び裁断寸法とその許容差について規定。シート印画紙の直方性と各辺の直線性の検査方法についての規定及び包装の表示規則を定めている。「一般写真用」とは，アマチュア用，コマーシャル用及びポートレート用写真に使用される印画紙をいい，複写用，写真植字用，製版などに使用される特定用途の印画紙を除く。メートル単位を優先する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

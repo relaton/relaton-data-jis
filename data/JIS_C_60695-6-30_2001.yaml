@@ -20,6 +20,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60695-6-30%3A2001
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60695_006_030_2001_j_ed10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60695_006_030_2001_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 60695-6-30:2001
@@ -30,6 +34,20 @@ date:
 - type: issued
   value: '2001-11-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -58,6 +76,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 電気電子製品に用いる材料について，パイロット炎を用いるか又は用いないで，放射熱源に対し垂直にさらした材料からの煙の特定光学密度測定における装置，校正手順及び基本的な試験手順について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

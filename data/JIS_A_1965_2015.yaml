@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1965%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01965_000_000_2015_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 1965:2015
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　建材試験センター
@@ -53,6 +69,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 室内空気中の揮発性有機化合物（ＶＯＣ）を定量する方法並びに放散試験チャンバー及び放散試験セルなどを用いて室内で使用される建築製品又は材料及び他の製品から放散されるＶＯＣを定量するためにサンプリングした空気中のＶＯＣを定量する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

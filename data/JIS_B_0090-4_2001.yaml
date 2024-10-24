@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           日本光学工業協会"
       language:
@@ -64,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 製造及び検査に用いられる製図における光学素子に対する設計上並びに機能上の要求事項の表記について規定。光学素子の不均一性及び脈理の許容量の設定方法を表示する約束を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

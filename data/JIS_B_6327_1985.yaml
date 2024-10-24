@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6327%3A1985
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06327_000_000_1985_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06327_000_000_1985_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 6327:1985
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本工作機械工業会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 数値制御プロセッサの入力であるパートプログラムを記述するための言語について規定。数値制御プロセッサは，パートプログラムを処理して，特定の数値制御装置に依存しない標準的な形態の工具経路情報や機械の諸機能に対する指令情報などを含むＣＬＤＡＴＡを作成し，このＣＬＤＡＴＡから特定の数値制御装置に依存する数値制御用の情報を出力する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

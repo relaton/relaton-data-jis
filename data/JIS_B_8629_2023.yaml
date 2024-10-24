@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8629%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08629_000_000_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8629:2023
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: "冷凍設備などから冷媒を回収し，回収容器へ充填するための附属品（回収容器を含む。）を含めた装置について規定し，次［ａ)\tガス圧縮方式であり，圧縮機入口における冷媒がガス状態の回収装置；ｂ）回収装置内において取り扱われる冷媒の範囲が温度３５　℃において圧力が０．２　ＭＰａ（この規格において，指示のない圧力は全てゲージ圧力とする。）以上５．０　ＭＰａ以下の回収装置；ｃ）冷媒として不活性ガス及び特定不活性ガスであるフルオロカーボン（可燃性ガスを除く。）を扱う回収装置；ｄ）内容積の合計が１２０　Ｌ以下の回収装置；ｅ）圧縮機の電動機の定格出力が，１　５００　Ｗ以下の回収装置］の全ての要件を満足するものに適用。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

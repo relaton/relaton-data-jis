@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8101%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08101_000_000_2020_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08101_000_000_2020_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 8101:2020
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2020-03-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 製造業，鉱業，建設業，貨物取扱業，林業，水産業などの事業場において，着用者の足を保護するための靴の要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

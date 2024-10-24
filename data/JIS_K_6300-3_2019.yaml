@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6300-3%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06300_003_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 6300-3:2019
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 平行板圧縮方式によって原料ゴム及び未加硫ゴム（配合ゴム）の可塑度並びに天然ゴム（原料ゴム）の可塑度残留指数（ＰＲＩ）の求め方について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

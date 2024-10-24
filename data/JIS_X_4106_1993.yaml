@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4106%3A1993
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04106_000_000_1993_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 4106:1993
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '1993-08-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　４１０１，ＪＩＳ　Ｘ　４１０２，ＪＩＳ　Ｘ　４１０４，ＪＩＳ　Ｘ　４１０５，ＪＩＳ　Ｘ　４１０６，ＪＩＳ　Ｘ　４１０７，ＪＩＳ　Ｘ　４１０８の一連の規格は，文書の交換を促進することを目的とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

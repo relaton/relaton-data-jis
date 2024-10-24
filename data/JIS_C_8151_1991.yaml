@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本電気制御機器工業会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 交流６００Ｖ以下（周波数５０Ｈｚ又は６０Ｈｚ）又は直流２５０Ｖ以下の電路に使用する工業用表示灯について規定。表示灯とは，照光部，光源（電球又は発光ダイオード）及びこれらを保持する支持体などで構成され，光源の点灯・減灯によって回路の状態を表示することを目的としたもので，制御盤，配電盤に取り付つけて使用するものをいう。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　日本船舶技術研究協会
       language:
       - ja
@@ -51,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 船内の公称電圧６９０Ｖ以下，周波数５０Ｈｚ又は６０Ｈｚの交流回路及び公称電圧２２０Ｖ以下の直流回路に使用する定格電流２５０Ａ以下の防水形プラグ及び防水形ソケットアウトレットの一般的要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

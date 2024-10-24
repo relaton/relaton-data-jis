@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1757-1%3A2012
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01757_001_000_2012_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01757_001_000_2012_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 1757-1:2012
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +84,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 歯車形の基準器を用いて歯車の歯形（インボリュート），歯すじ，ピッチ及び歯溝の振れの測定に使用する測定機の評価方法について規定。歯溝の振れについては，直接歯溝の振れを測定する機械に加えて，歯面の割出し誤差から歯溝の振れを計算する機械についても適用。測定機の測定不確かさを見積る方法も規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

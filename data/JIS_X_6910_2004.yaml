@@ -19,6 +19,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6910%3A2004
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06910_000_000_2004_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06910_000_000_2004_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 6910:2004
@@ -31,6 +35,20 @@ date:
 - type: confirmed
   value: '2019-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -67,6 +85,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 購入者及び使用者が自分の要求に合った複写機・複合機を選択しやすくするために，異なった機種間の複写機，複合機の性能を比較できるように，複写機・複合機の仕様書に記載すべき最小限の情報について規定。関連する試験方法についても規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

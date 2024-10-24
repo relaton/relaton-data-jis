@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Y+5101%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_y_05101_000_000_2022_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Y 5101:2022
@@ -29,6 +31,20 @@ date:
 - type: issued
   value: '2022-03-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｙ　３７１６０：２０２２に基づいて，火力発電インフラの質の維持・向上を図ることを目指す電力会社及び独立系発電事業者に適用し，営業運転期間中の火力発電インフラの質のパフォーマンス，並びに質の高い運用活動及び管理活動の要求事項に対する達成度の基準及びその成熟度の評価について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

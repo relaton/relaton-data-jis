@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+81001-5-1%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_81001_005_001_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 81001-5-1:2023
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2023-02-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -50,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＩＥＣ　６２４４３－４－１への適合をサポートするために必要な，ヘルスソフトウェアの開発及び保守のライフサイクルの要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

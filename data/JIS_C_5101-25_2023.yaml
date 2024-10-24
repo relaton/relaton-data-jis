@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5101-25%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05101_025_000_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5101-25:2023
@@ -29,6 +31,20 @@ date:
 - type: issued
   value: '2023-11-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 主に電子機器で用いる直流（ＤＣ）用途を対象とする導電性高分子固体電解質をもった表面実装固定アルミニウム電解コンデンサについて規定。固体（ＭｎＯ２）電解質をもった表面実装用固定アルミニウム電解表面実装コンデンサには，ＪＩＳ　Ｃ　５１０１－１８がある。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

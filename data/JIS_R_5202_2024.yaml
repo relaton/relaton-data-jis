@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+5202%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_r_05202_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS R 5202:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-05-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　セメント協会
@@ -49,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: セメントの湿式方法による化学分析方法について規定。セメントとは，ＪＩＳ　Ｒ　５２１０に規定するポルトランドセメント，ＪＩＳ　Ｒ　５２１１に規定する高炉セメント，ＪＩＳ　Ｒ　５２１２に規定するシリカセメント，ＪＩＳ　Ｒ　５２１３に規定するフライアッシュセメント及びＪＩＳ　Ｒ　５２１４に規定するエコセメントを示す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

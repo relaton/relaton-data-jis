@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+6601%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_06601_000_000_2022_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 6601:2022
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2022-10-03'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 歯科鋳造用鋳型として用いる歯科鋳造用石こう（膏）系埋没材について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

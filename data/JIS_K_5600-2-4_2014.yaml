@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本塗料工業会"
       language:
@@ -66,6 +80,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: パテ製品のような高粘度の試料を除く，塗料，ワニス及びその関連製品の密度を，ピクノメータを用いて測定する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0526%3A2017
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00526_000_000_2017_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0526:2017
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 二次元バーコードシンボル固有の属性を測定するための二つの方法を規定。それぞれの測定値の評価及びグレード付けの方法，並びにシンボル品質を総合的に評価する方法を規定。参照復号アルゴリズムを規定している二次元シンボル体系に適用するが，この二つの方法が部分的に又は全体的に，それ以外の類似のシンボル体系にも適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

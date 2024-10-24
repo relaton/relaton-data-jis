@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0505%3A2012
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00505_000_000_2012_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0505:2012
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: インタリーブド２オブ５として知られるバーコードシンボル体系の要件を定める。インタリーブド２オブ５のシンボル体系の特徴，データキャラクタの符号化，寸法，許容誤差，復号アルゴリズム，及びシンボル体系識別子を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

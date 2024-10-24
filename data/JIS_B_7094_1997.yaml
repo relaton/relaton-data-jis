@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　カメラ映像機器工業会
       language:
       - ja
@@ -53,6 +67,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 写真レンズの焦点距離の測定方法について規定。物空間及び／又は像空間の媒質が，空気以外のレンズ及びアナモフィックレンズには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

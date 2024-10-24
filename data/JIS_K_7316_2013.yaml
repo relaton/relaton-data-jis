@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7316%3A2013
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07316_000_000_2013_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 7316:2013
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: プラスチックのスクラッチ特性の求め方について規定。この方法は，規定の形状をした硬い器具を，試験片表面に接触させ，規定の力及び速度で，移動させて，スクラッチを付ける方法について規定。規定の条件下で，規定のタイプの試験片のスクラッチ挙動を調査し，試験片に生じたスクラッチの種類を分類する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

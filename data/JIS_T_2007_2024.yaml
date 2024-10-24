@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本ホームヘルス機器協会"
       language:
@@ -61,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 病院及び診療所以外で使用する家庭用永久磁石磁気治療器について規定。ただし，頭部に使用することを意図した機器は除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

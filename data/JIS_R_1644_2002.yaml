@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+1644%3A2002
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_r_01644_000_000_2002_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS R 1644:2002
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本ファインセラミックス協会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 構造材料，機械部品などの耐熱高強度材料として使用される，二次元の直交異方性体と考えられる長繊維強化セラミックス複合材料の常温における弾性率試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　繊維評価技術協議会"
       language:
@@ -62,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 繊維製品中に混用されている繊維の混用率を求める試験方法として，解じょ試験について規定。この試験方法は，繊維種類の異なる糸で組織し，編成し又は構成している繊維製品であって，糸にほぐすことによって繊維種類別に分類できるものの混用率の算定に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

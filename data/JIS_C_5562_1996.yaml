@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5562%3A1996
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05562_000_000_1996_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5562:1996
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本記録メディア工業会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 未録音及び録音済磁気録音テープと，それに付随して使用するリール・ツー・リール，カセット，カートリッジなどの録音再生システムの寸法及び機械的，電気的要求事項に適用。録音の互換性を保証するために必要な測定方法及び必要許容範囲を含む。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

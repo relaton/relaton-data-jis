@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
       language:
@@ -62,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 磁気セクター型又は四重極型の二次イオン質量分析法を用いたシリコン内のボロンの深さ方向分布測定の方法，及び触針式段差計又は光干渉計を用いた深さ軸校正の方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

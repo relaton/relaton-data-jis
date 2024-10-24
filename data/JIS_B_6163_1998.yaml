@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本工作機器工業会
       language:
       - ja
@@ -52,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: モールステーパスリーブ及びモールステーパシャンクソケットの形状・寸法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 公益社団法人　自動車技術会
       language:
       - ja
@@ -52,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ディーゼル機関用燃料インジェクタに関する，幾つかの試験を行うための手動レバー操作試験及びセッティングの装置について，最小限の要求事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

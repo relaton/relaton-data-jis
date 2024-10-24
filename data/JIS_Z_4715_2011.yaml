@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4715%3A2011
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04715_000_000_2011_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 4715:2011
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2011-08-01'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -58,6 +74,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 製造業者及び販売業者が，人への医療行為における放射線治療計画作成に使用する；操作者が入力する，又は直接他の装置からデータを取り込む；データを再評価できるように印刷形式で出力する又は他の装置へ直接出力する；さらに；正常な使用のため，適切な資格をもつ者又は有資格者の監督の下で，訓練を受け必要な技能を修得した操作者によって使用する；取扱説明書の記載内容に従って保守する；技術仕様書に指定している環境条件及び電源条件で使用すること；を意図されたもの；のようなＲＴＰＳの設計，製造及び据付け業務を行うときに，適合させなければならない安全要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

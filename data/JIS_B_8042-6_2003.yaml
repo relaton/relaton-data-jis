@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8042-6%3A2003
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08042_006_000_2003_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8042-6:2003
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ガスタービン及び関連補機又はコンバインドサイクルプラントを購入者が製造業者から調達しよとするときに必要な，技術的な情報に関する基準となる指針について規定。非助燃コンバインドサイクルだけに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

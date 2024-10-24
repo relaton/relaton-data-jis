@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8904-8%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08904_008_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8904-8:2019
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 直線性のある太陽電池及び直線性のない太陽電池の両方について，その分光感度特性を測定するための要求事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

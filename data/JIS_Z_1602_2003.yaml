@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1602%3A2003
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_01602_000_000_2003_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 1602:2003
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 油脂・石油・塗料・化学薬品・食料品などの非危険物及び液体又は固体の危険物の輸送並びに貯蔵容器として，一般に用いられる金属板製１８リットル缶について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

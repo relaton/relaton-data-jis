@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+6001%3A2007
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_06001_000_000_2007_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 6001:2007
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 国際間の情報交換，マイクロ出版などのために用いられる被写資料用及び計算機出力用のＡ６判マイクロフィッシュについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本塗料工業会
       language:
       - ja
@@ -54,6 +68,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 標準的な条件下で円筒形マンドレルにより折り曲げられた場合の，塗料，ワニス及びそれらの関連製品の塗膜の割れ及び／又は金属基板からのはがれの抵抗性を確認するための経験的な試験手順を記載。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

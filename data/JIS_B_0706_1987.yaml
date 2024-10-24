@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本鍛造協会
       language:
       - ja
@@ -53,6 +67,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 型鍛造による普通鋼及び特殊鋼の熱間・温間鍛造品の断面形状変化部及び平面形状変化部の角（かど）の丸み及び隅（すみ）の丸みの値について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

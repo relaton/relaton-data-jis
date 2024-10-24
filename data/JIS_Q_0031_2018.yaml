@@ -43,6 +43,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -62,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 標準物質生産者が標準物質に添付する，明瞭で簡潔な文書の作成を支援することを意図している。この規格はまた，標準物質の容器に貼付するラベルの最小限の要求事項を含む。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

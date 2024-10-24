@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+1613%3A1996
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01613_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01613_000_000_1996_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS D 1613:1996
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '1996-01-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本自動車部品工業会
@@ -45,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ガソリンを燃料とする一般の自動車に用いる気化器の性能試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

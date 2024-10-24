@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0152%3A2014
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00152_000_000_2014_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0152:2014
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　表面化学分析技術国際標準化委員会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 単色化していないＡｌ　Ｘ線，Ｍｇ　Ｘ線又は単色化したＡｌ　Ｘ線を用いたＸ線光電子分光器の強度目盛の繰返し性，再現性及び一定性を評価する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

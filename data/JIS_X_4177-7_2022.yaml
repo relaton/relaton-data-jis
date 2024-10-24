@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4177-7%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04177_007_000_2022_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 4177-7:2022
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2022-08-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 文字レパートリ記述言語（ＣＲＥＰＤＬ）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4242%3A2002
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04242_000_000_2002_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 4242:2002
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2004-06-01'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ネットワーク用画像形式［Ｐｏｒｔａｂｌｅ　Ｎｅｔｗｏｒｋ　Ｇｒａｐｈｉｃｓ，ＰＮＧ（ピングと発音）］を規定。ＰＮＧは，インターネット上で，コンピュータグラフィクス画像を可逆的に圧縮した形で交換するデータ流及びファイル形式とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

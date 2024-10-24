@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0602%3A1982
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00602_000_000_1982_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0602:1982
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1982-04-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　情報処理学会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 情報交換用媒体として使用する磁気カセットテープのラベルとファイル構成について規定。（１）　基本システム（２）　簡易システム（３）　拡張システムの三つのシステムに分けて規定。ＪＩＳ　Ｘ　６１２２で規定している３．８１ｍｍ磁気カセットテープに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

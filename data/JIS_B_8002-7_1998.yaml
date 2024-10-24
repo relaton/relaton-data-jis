@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 日本内燃機関連合会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｂ　８００２－１による往復動内燃機関の軸出力の呼び方の種類の表示を簡略にし，その情報を伝達する必要がある場合に使用する「出力コード」について規定。例えば，機関の銘板に表示する出力の呼び方に使用。航空機を駆動する機関を除いた，すべての機関に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

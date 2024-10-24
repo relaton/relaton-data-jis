@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本溶接協会
       language:
       - ja
@@ -53,6 +67,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 被覆アーク溶接，ガスシールドアーク溶接及びセルフシールドアーク溶接による炭素鋼，低合金鋼及びステンレス鋼の溶接部に発生する高温割れを調べるＣ形ジグ拘束突合せ溶接割れ試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

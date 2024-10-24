@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5202%3A1997
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05202_000_000_1997_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 5202:1997
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '1997-07-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: "（１）一つのセションエンティティから同位エンティティに，データ及び制御情報を転送するための単一プロトコル手順　（２）セションエンティティによって使用される機能単位を選択する方法　（３）データ及び制御情報の転送において使用されるセションプロトコルデータ単位の構造及び符号化　の事項について規定。（１）セションプロトコルデータ単位の交換による同位セションエンティティ間の相互動作（２）セションサービスプリミティブの交換による同じシステムでのセションエンティティセションサービス利用者との相互動作（３）トランスポートサービスプリミティブの交換によるセションエンティティとトランスポートサービス提供者との相互動作　の観点から手順を規定。これらの手順は，ＯＳＩ基本参照モデルのセション層に使用して，開放型システムの環境で相互接続しようとするシステム間の通信に適用。この手順を実装するシステムの適合性を証明するための試験手順は，含まない。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

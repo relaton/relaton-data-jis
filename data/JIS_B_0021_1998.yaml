@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0021%3A1998
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00021_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00021_000_000_1998_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 0021:1998
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -64,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 加工物の幾何学的な定義に必要なすべての事項を含み，幾何公差表示方式に対する基礎事項と必要な基本的事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

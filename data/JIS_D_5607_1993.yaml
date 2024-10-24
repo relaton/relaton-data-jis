@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本自動車部品工業会
       language:
       - ja
@@ -53,6 +67,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 自動車に用いる運行記録計について規定。運行記録計とは，運行距離を自動的に記録し，運行時間を表示又は記録できる装置をいう。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

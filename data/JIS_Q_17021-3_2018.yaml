@@ -44,6 +44,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -63,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 品質マネジメントシステム（ＱＭＳ）の審査及び認証プロセスに関与する要員に関する追加の力量要求事項を規定し，ＪＩＳ　Ｑ　１７０２１－１の要求事項を補足する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

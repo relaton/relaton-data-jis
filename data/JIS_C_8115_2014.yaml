@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本照明工業会"
       language:
@@ -65,6 +79,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 主として家庭で用いる，入力電圧が交流１００Ｖの，電源に差込みプラグ，引掛シーリングローゼットなどによって容易に接続できる，ＬＥＤ光源及び／又は蛍光ランプを光源とする照明器具について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

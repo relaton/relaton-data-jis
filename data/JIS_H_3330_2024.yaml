@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本銅センター"
       language:
@@ -63,6 +77,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 使用圧力１．０　ＭＰａ以下の給水，給湯，排水及び空調用冷温水の配管に用いる，外面に樹脂を被覆した被覆銅管について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

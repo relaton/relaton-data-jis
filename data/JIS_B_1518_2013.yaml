@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1518%3A2013
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01518_000_000_2013_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01518_000_000_2013_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 1518:2013
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本ベアリング工業会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ＪＩＳ　Ｂ　１５１１に規定する軸受関連の規格によって設計し，ＪＩＳ　Ｇ　４８０５に規定している鋼材又はこれと同等の品質が得られる合金鋼を最適な硬さに焼入れし，製造した転がり軸受の基本動定格荷重及び定格寿命の計算方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

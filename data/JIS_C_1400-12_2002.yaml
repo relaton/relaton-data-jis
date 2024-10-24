@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1400-12%3A2002
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01400_012_000_2002_j_ed11_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 1400-12:2002
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2002-04-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -46,6 +62,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 単一の風力発電システム（ＷＴＧＳ）の出力性能特性を測定する手順を規定。かつ，電力系統に接続されるすべての形式及び規模のＷＴＧＳの試験に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

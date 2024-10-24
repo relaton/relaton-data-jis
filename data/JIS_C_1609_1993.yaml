@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　照明学会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 周囲温度－１０～４０℃で使用でき，昼光などの自然の光及び一般照明用光源（白熱電球，蛍光ランプ，ＨＩＤランプ）の光が平面に入射するときの照度（平面照度）を測定する光電素子を用いた指針形及びディジタル形照度計について規定。なお，水中照度計及びその他特殊用途の照度計についてもできるだけこの規格を準用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

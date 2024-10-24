@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+C+0059%3A2016
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_ts_c_00059_000_000_2016_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: TS C 0059:2016
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2016-09-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -46,6 +62,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｂ　８６１５－１，ＪＩＳ　Ｂ　８６１５－２及びＪＩＳ　Ｂ　８６１５－３に規定されているエアコンディショナ及びヒートポンプの冷房能力試験・暖房能力試験における測定の不確かさの評価の実用的な指針として定めたもの。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

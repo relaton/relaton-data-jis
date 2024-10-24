@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5750-3-4%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05750_003_004_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5750-3-4:2023
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2023-08-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -60,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 総合信頼性の要求事項の達成をアシュアランスする手段の一覧を示すとともに，総合信頼性の要求事項を規定し，その要求事項を仕様にまとめるための指針について示す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

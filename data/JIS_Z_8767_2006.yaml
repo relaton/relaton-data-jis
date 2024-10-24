@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8767%3A2006
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08767_000_000_2006_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8767:2006
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "国立研究開発法人　産業技術総合研究所                                                \r\n
@@ -53,6 +69,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 臨界ベンチュリノズル（ＣＦＶＮ）を用い，設備を流れる気体の質量流量を求めるときの，CFVNの形状及び使用方法（設備への設置及び動作条件）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

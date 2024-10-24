@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本人間工学会
       language:
       - ja
@@ -52,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＶＤＴを用いるオフィス作業についての人間工学上の一連の要求事項，利用者の作業のアプローチ指針，現在発行されているもの及び準備されているものの一連の規格の概要，規格の使用方法の指針並びに規格適合性の報告方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

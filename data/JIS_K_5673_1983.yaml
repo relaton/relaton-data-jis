@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5673%3A1983
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_05673_000_000_1983_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 5673:1983
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1983-07-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本塗料工業会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 工場・鉱山・学校・病院・劇場などの事業場，道路，船舶，航空保安施設などにおける災害を防止する目的で使用する安全色彩用螢光塗料について規定。螢光塗料は，有機螢光顔料とアクリル樹脂ワニスなどを原料として作った液状のもの。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7757%3A1995
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07757_000_000_1995_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 7757:1995
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "日本試験機工業会                                                \r\n                                                                                            一般社団法人　日本試験機工業会"
@@ -53,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 高分子系材料の加圧空気による耐熱老化性を評価するために用いる，試験槽の容積が０．６＊３以下の強制循環式空気加熱老化試験機について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

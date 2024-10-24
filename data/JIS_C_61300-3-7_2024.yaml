@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61300-3-7%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61300_003_007_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 61300-3-7:2024
@@ -29,6 +31,20 @@ date:
 - type: issued
   value: '2024-02-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 光通信に用いるシングルモード光ファイバ用光受動部品の光損失及び反射減衰量の波長依存性を測定する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

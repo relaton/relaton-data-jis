@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "国立研究開発法人　産業技術総合研究所                                                \r\n
         \                                                                                           公益財団法人　共用品推進機構"
       language:
@@ -55,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 高齢者及び障害のある人を含む全ての人のアクセシビリティーを向上させる目的で，消費生活用製品における凸点及び凸バーの表示方法及び設計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

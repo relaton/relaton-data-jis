@@ -33,6 +33,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本電気計測器工業会
       language:
       - ja
@@ -55,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: アナログ表示のオーム計，インピーダンス計及びコンダクタンス計の直動式指示電気計器に適用。抵抗率計（比抵抗計），通電状態で使用する絶縁抵抗計又は導電率計（比導電率計）には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

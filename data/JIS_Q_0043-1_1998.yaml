@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+0043-1%3A1998
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_q_00043_001_000_1998_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_q_00043_001_000_1998_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Q 0043-1:1998
@@ -28,6 +32,20 @@ date:
 - type: issued
   value: '1998-12-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +74,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 試験所間比較には幾つかの用途があり，それらの設計及び実行には多様性があるが，試験所間比較を企画・調整する際に考慮すべき基本的な原則を規定することができる。それらの原則を明確にし，技能試験スキーマの企画・調整及び実行において考慮すべき要因を示す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

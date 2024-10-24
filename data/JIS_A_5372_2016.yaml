@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5372%3A2016
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05372_000_000_2016_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 5372:2016
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 鉄筋コンクリート製のプレキャストコンクリート製品について規定。日本工業規格が別途定められている建築用コンクリート製品，及び視覚障害者誘導用コンクリート製品には，この規格は適用しない。鉄筋コンクリート構造とすることを意図しない施工上の安全確保などを目的として，鋼材などを用いている製品には，適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

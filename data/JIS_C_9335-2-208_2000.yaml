@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般財団法人　電気安全環境研究所"
       language:
@@ -58,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 家庭用及び類似の目的の定格電圧が２５０Ｖ以下のペルチエ素子を利用し，冷却又は加熱・保温する機能をもつ機器の安全性について規定。通常，家庭で使用しない機器であっても，店舗，軽工業及び農場において，一般の人が使用する場合に危険要因となる機器も適用範囲。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

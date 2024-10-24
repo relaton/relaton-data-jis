@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7607%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07607_000_000_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 7607:2021
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2021-03-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -59,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 個別の物体の質量又はばら状の物体の一塊の質量を計量する自動はかりのうち，自動重量選別機，質量ラベル貼付機及び計量値付け機であって，検査目量の数が１００以上のものに対する性能要件及び試験方法について規定。自動捕捉式はかりの計量要件及び技術要件を評価するための統一的な基準及び試験方法を提供することを意図している。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

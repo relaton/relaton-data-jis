@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3101%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03101_000_000_2024_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03101_000_000_2024_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 3101:2024
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2024-02-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本鉄鋼連盟
@@ -51,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 橋梁，船舶，車両その他の構造物に用いる一般構造用の熱間圧延鋼材，及び熱間押出形鋼について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0464%3A2009
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00464_000_000_2009_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0464:2009
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 生物化学的測定研究会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 産業活動によって生じるポリクロロビフェニル製剤によって汚染された廃油，排水，汚泥，土壌，底質などに含まれるＰＣＢを免疫測定によって定量する方法の通則について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

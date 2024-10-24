@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5720%3A1995
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05720_000_000_1995_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 5720:1995
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '1995-04-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 開放型システム間相互接続の基本参照モデル（ＩＳＯ／ＩＥＣ　７４９８－１参照）で規定されたＯＳＩ応用層の詳細を規定。現存する及び今後の応用層規格の開発を調整するための枠組みを提供する。応用層規格によって参照されることを目的として規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0616%3A1996
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00616_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00616_000_000_1996_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 0616:1996
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: テーパ比１／３～１／５００，円すい長さ６ｍｍを超え６３０ｍｍ以下で，ＪＩＳ　Ｂ　０６１４で規定している円すい直径公差による方法に従って公差を指定した，円すい部品に適用する円すいはめあい方式について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

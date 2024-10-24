@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           公益社団法人　日本包装技術協会"
       language:
@@ -66,6 +80,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 法規に定められた危険な物質及び調製物を入れた包装のうち，日常生活において人が直接触れるものに対し，危険の凸警告表示に関する要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

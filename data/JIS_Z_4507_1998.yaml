@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4507%3A1998
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04507_000_000_1998_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 4507:1998
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本原子力学会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 材料の表面が放射性物質によって汚染されるおそれのある表面の除染のしやすさの試験及び評価の方法に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6735%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06735_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 6735:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-03-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 押出成形した一般用，耐候用及び耐摩耗用向けのポリカーボネート（ＰＣ）製の板（平板及び型板）及び波板について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

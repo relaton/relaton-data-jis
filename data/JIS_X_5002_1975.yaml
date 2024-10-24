@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5002%3A1975
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05002_000_000_1975_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05002_000_000_1975_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 5002:1975
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　情報処理学会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ＪＩＳ　Ｘ　０２０１に規定された伝送制御キャラクタを用い，データ伝送回線を経由して，データ端末装置又はデータ処理装置の相互間において行われるデータ伝送制御手順について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -33,6 +33,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　電子情報技術産業協会
       language:
       - ja
@@ -55,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 電子機器用コネクタを結合したときに導通するように設計されたコネクタのハウジング（シェル）間の抵抗を測定するための試験方法について規定。類似の部品に用いてもよい。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

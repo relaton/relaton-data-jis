@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本機械学会
       language:
       - ja
@@ -54,6 +68,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 機械の振動シビアリティの測定器に関する要求事項について規定。一つの機械の振動の激しさを他の機械と比較する場合，測定器の不正確さがある範囲を超えないようにすることを目的とする。適合する測定器は，ＪＩＳ　Ｂ　０９０６（ＩＳＯ　２３７２）に定められた測定を行うのに適しており，”回転機械及び往復動機械の振動シビアリティ測定器”と呼ぶ。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

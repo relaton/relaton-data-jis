@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+62656-1%3A2017
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_62656_001_000_2017_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 62656-1:2017
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: "“データパーセル”として製品オントロジーを定義，送信及び登録するために使用する一群のスプレッドシートの論理構造について規定。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

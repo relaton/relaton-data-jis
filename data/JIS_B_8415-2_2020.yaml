@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8415-2%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08415_002_000_2020_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08415_002_000_2020_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8415-2:2020
@@ -28,6 +32,20 @@ date:
 - type: issued
   value: '2020-03-23'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ＪＩＳ　Ｂ　８４１５－１を適用する工業用燃焼炉及び関連装置の一部である燃焼及び燃料取扱システムの安全要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

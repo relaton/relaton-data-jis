@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般社団法人　日本非破壊検査協会                                                \r\n
         \                                                                                           写真感光材料工業会"
       language:
@@ -54,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 工業用放射線フィルムにおけるフィルムシステムクラスの定義並びに階調度及び粒状度の求め方について規定。工業用放射線試験（非破壊試験）のために，鉛はく（箔）スクリーンと組み合わせて使用するフィルムシステムに適用し，ＩＳＯ　５５７９などの国際規格の要求を満たす画質を達成することを目的とする。蛍光スクリーンと組み合わせて使用するフィルムシステムについては規定しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

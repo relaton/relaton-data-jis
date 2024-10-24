@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1585-1%3A2017
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01585_001_000_2017_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 1585-1:2017
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 外径が２５０ｍｍ以下の一体つば付き薄肉半割り軸受及び外径が５００ｍｍ以下のつばなし薄肉半割り軸受の公差，設計及び検査方法について規定。寸法は，半割り軸受では多種多様な設計が行われるので規定しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

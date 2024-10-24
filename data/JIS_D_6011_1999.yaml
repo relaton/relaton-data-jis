@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+6011%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_06011_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_06011_000_000_1999_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS D 6011:1999
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '1999-05-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本産業車両協会
@@ -45,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 定格荷重５００００ｋｇ以下のカウンタバランスフォークリフト；定格荷重５０００ｋｇ以下のリーチフォークリフト及びストラドルフォークリフト；定格荷重１００００ｋｇ以下のサイドフォークリフト；定格荷重５０００ｋｇオーダピッキングトラック；定格荷重５０００ｋｇ以下のパレットスタッキングトラック及びプラットフォームスタッキングトラック　の安定度及び安定度試験について規定。自由に動くような荷をつり下げて運ぶ装置（アタッチメント）を取り付けたフォークリフトには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

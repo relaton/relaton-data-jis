@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2390-2%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02390_002_000_2019_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 2390-2:2019
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 油入コンデンサ，油入ケーブル，油入変圧器，油入遮断器，その他の油入電気機器に絶縁媒体，及び／又は熱交換媒体として用いる未使用天然エステル（植物油）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

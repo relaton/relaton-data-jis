@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8572-2%3A2011
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08572_002_000_2011_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8572-2:2011
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本計量機器工業連合会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 主に小売用として燃料油（灯油，軽油及び重油）の輸送及び配達用のタンクローリーに取り付けられ，ポンプによって排出される口径２５ｍｍ以下の計量システムについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

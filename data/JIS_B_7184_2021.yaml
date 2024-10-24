@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7184%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07184_000_000_2021_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07184_000_000_2021_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 7184:2021
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2021-03-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 投影レンズ，スクリーン，照明装置，精密十字動テーブル及びこれらを保持する本体からなり，被測定物の光学像を直接スクリーンに拡大投影することによって，長さ，角度及び輪郭を測定する測定投影機について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

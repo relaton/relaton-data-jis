@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本ゴム工業会
       language:
       - ja
@@ -52,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 標準状態で液体の石油製品を輸送する船と陸上間で，－２０℃～＋８０℃の温度で使用する送吸油用ゴムホースについて規定。金属フレキシブル管を内面に入れたホースや海上用のホースには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

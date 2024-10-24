@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　日本電子部品信頼性センター
       language:
       - ja
@@ -54,6 +68,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 接点及び接続部に使用される銀及び銀合金の腐食の効果を評価するための加速的試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

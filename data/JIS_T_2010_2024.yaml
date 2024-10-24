@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本ホームヘルス機器協会"
       language:
@@ -61,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 病院及び診療所以外で使用する，水又は約１　％の塩化ナトリウム溶液（生理食塩水）を吸入液に使用する家庭用吸入器で，単相機器の場合は，定格電圧が１００　Ｖで作動し，内部電源機器の場合は，電源電圧が安全特別低電圧（ＳＥＬＶ）で作動する次の機器（－　家庭用超音波吸入器；－　家庭用電動式吸入器；－　家庭用電熱式吸入器）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

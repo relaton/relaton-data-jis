@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本照明工業会"
       language:
@@ -66,6 +80,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 入力電圧が２５０Ｖ以下の白熱電球，蛍光ランプ及びその他の放電ランプを使用した，庭園のような場所に用いる台座付移動灯器具及び花壇のような場所に用いる移動灯器具に対する安全性要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0701%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00701_000_000_2005_j_ed11_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0701:2005
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 情報及びドキュメンテーション分野における用語及び定義について規定。コミュニケーションを確保するため，該当する概念を選択して定義を付し，用語を与えて，その間の相違を明らかにすることを目的としている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

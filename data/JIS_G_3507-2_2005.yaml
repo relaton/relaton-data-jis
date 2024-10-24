@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3507-2%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03507_002_000_2005_j_ed20_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03507_002_000_2005_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 3507-2:2005
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 線材製品協会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ボルト，ナット，リベット，小ねじ，タッピンねじなどのねじ類及び各種部品を冷間圧造によって製造する場合に使用する冷間圧造用炭素鋼線について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

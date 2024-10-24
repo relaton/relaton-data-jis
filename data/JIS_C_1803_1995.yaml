@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1803%3A1995
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01803_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01803_000_000_1995_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 1803:1995
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2021-06-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電気計測器工業会
@@ -54,6 +72,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 工業プロセス計測制御機器全般にわたる基本的な性能の表し方について規定。特定の機器についてその性能の表し方を定めた規格がある場合は，その規格による。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

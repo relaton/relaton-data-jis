@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8159-2%3A2013
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08159_002_000_2013_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08159_002_000_2013_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8159-2:2013
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2023-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +84,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ＬＥＤ制御装置を内蔵しない，ＧＸ１６ｔ－５口金付直管ＬＥＤランプの性能要求事項について規定。蛍光ランプの関連規格（ＪＩＳ　Ｃ　７６１７－１，ＪＩＳ　Ｃ　７６１８－１など）で規定する口金を用い，かつ，制御装置を内蔵した直管ＬＥＤランプには，適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

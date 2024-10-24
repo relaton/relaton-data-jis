@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+4422%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04422_000_000_2024_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04422_000_000_2024_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 4422:2024
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2024-05-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 洗浄に使用する水道水又はこれと同等の水質のものを電気で加温し，主に家庭で使用する温水洗浄装置及び暖房便座をもつ温水洗浄便座について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

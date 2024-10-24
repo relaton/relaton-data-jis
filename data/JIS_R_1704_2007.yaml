@@ -33,6 +33,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本ファインセラミックス協会
       language:
       - ja
@@ -53,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 光触媒機能を利用して，水中の汚染物質を分解して浄化することを目的とした光触媒を，成形又は材料表面に付着させた光触媒材料の水質浄化性能試験方法について規定。可視光応答形光触媒には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

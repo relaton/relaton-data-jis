@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1271-1%3A2011
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01271_001_000_2011_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 1271-1:2011
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-06-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電気計測器工業会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 一般に使用される精密電力量計及び普通電力量計の精度をもつ電力量計であって，交流回路において使用する電子式電力量計及び電流合成方式の多回路を総合計量する電子式電力量計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

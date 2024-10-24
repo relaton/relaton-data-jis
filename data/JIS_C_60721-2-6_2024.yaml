@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60721-2-6%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60721_002_006_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 60721-2-6:2024
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2024-09-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -60,6 +76,15 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: |-
+    この規格は，地震動と衝撃とに関連して自然界に現れる環境条件について規定する。
+    その目的は，地震の特性評価のための幾つかの基本的な性質及び強度を，保管及び使用の間に，製品がばく露されやすい厳しさの基礎的情報として定義することである。与えられている加速度は，地表面の状態だけを対象としている。構造に関連する条件に言及しているが，一般の場合の説明に限定している。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           紙パルプ技術協会"
       language:
@@ -64,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: パルプ，紙及び板紙中の，全塩素及び有機結合塩素の測定方法について規定。すべての種類のパルプ，紙及び板紙に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

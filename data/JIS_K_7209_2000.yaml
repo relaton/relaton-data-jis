@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           日本プラスチック工業連盟"
       language:
@@ -63,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 平板状又は曲がった形状の固形材料について，厚さ方向の水分吸収特性の求め方について規定。正確に定めた寸法をもつプラスチック試験片を，液に浸せきしたり，状態調節した浸潤空気にさらす場合に，吸収した水分量を測定する手順について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

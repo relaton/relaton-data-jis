@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+7612%3A1993
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_m_07612_000_000_1993_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS M 7612:1993
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本産業機械工業会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 定格出力５５ｋＷ以下の交流誘導電動機を内装した軸流形局部扇風機であって，鉱山，土木・建設地下工事現場，その他局部的に換気を必要とする所に使用する扇風機について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

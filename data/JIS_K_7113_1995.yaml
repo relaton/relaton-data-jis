@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7113%3A1995
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07113_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07113_000_000_1995_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 7113:1995
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '1995-06-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 財団法人　化学技術戦略推進機構
@@ -45,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: プラスチック及び強化プラスチックの一般的な引張試験方法について規定。プラスチック管，棒，フィルム，テープ及びプラスチックフォームには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

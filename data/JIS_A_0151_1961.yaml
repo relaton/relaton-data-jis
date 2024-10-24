@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+0151%3A1961
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_00151_000_000_1961_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 0151:1961
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1961-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本建築学会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 建具の材料種類別，開閉方法別，構成種類別の表示記号および整理番号の表示方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

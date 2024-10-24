@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5011%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05011_000_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS E 5011:2019
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 主電動機，電力変換装置，ソフトウェアを含む制御装置，主変圧器，入力フィルタ，ブレーキ抵抗器，主遮断器，冷却装置，センサ，接触器など構成機器で構成する主回路システムの組合せ試験方法について規定。集電装置，機械ブレーキシステム及び歯車装置は，この規格の適用から除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

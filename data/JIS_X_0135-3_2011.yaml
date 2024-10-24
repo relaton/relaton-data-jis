@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0135-3%3A2011
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00135_003_000_2011_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0135-3:2011
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 機能領域に関する；機能領域の特性；利用者機能要件（ＦＵＲ）の特性を用いた機能領域の決定手順；ＦＳＭ手法の特定の機能領域への適用可能度合いの判定手順；について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

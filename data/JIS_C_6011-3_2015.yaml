@@ -33,6 +33,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　電子情報技術産業協会
       language:
       - ja
@@ -53,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ３０ＭＨｚ～３　０００ＭＨｚの周波数範囲における，キャビネット及びサブラック単体の電磁シールド性能試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

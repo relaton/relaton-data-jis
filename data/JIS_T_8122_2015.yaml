@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8122%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08122_000_000_2015_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 8122:2015
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-10-26'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 生物学的危険物質への暴露又は接触の危険から作業者を防護するための防護服について規定。化学物質，電離放射線，放射性物質による汚染及び熱的（高温，低温）危険有害性については適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

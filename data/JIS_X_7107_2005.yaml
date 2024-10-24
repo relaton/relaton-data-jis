@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7107%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07107_000_000_2005_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 7107:2005
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 公益財団法人　日本測量調査技術協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 地物（ｆｅａｔｕｒｅ）の空間特性を記述するための概念スキーマと，これらのスキーマに合致する空間演算の集合について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -43,6 +43,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -62,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 抵抗器，ヒューズ，リレー，接触器，変圧器，回転機などのような電気機器の端子の識別及び表示に対して適用。識別指定された電線端末の識別にも適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4752-1%3A2001
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04752_001_000_2001_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 4752-1:2001
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: Ｘ線の発生，伝搬作用及び検出，並びに放射線情報の処理，表示及び保存を行うための，診断用Ｘ線設備の構成機器及び単位機器に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

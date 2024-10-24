@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本電機工業会
       language:
       - ja
@@ -49,6 +63,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 地上に設置する太陽光発電システムに用いる平面・非集光形の薄膜太陽電池モジュールの性能，構造及び試験方法について規定。アモルファスシリコン技術を主体として規定しているが，ほかの薄膜PVモジュールに適用可能である。ただし，有機太陽電池には，適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

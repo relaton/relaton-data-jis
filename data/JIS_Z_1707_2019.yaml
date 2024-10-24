@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1707%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_01707_000_000_2019_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 1707:2019
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 食品包装に用いる単層プラスチックフィルム及び複層プラスチックフィルムの一般的な共通事項について規定。複層プラスチックフィルムについては，紙・金属はく（箔）を構成層とするフィルムには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

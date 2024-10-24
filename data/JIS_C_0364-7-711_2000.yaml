@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　電気設備学会
       language:
       - ja
@@ -52,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 特別要求事項は，ＪＩＳ　Ｃ　０３６４（ＩＥＣ　６０３６４）の第１部から第６部と関連して，展示会，ショー及びスタンド（移動形及び携帯形の展示物及び機器を含む。）における仮設の電気設備に対して，使用者を保護するために適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

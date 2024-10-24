@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Y+50007%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_y_50007_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Y 50007:2024
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2024-03-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -60,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: エネルギーサービス事業の提供に際してエネルギーサービス事業者又は関係当局に対して推奨する指針を示す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

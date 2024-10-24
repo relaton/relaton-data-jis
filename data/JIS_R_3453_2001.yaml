@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+3453%3A2001
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_r_03453_000_000_2001_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS R 3453:2001
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2001-02-28'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　JATI協会
@@ -51,6 +67,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ジョイントシートについて規定。ジョイントシートの用途は，水，油，空気，水蒸気などを輸送する管又は機器のガスケットとして使用する。形態は，繊維，ゴム，加硫剤及び各種充てん剤を混和し，ち密で均等なシート状に加熱圧縮したもの。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

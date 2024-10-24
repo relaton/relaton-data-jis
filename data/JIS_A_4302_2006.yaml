@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+4302%3A2006
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04302_000_000_2006_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04302_000_000_2006_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 4302:2006
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2021-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本建築設備・昇降機センター
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 建築物，工作物などに設置したエレベーター（段差解消機及びいす式階段昇降機を含む。），エスカレーター（動く歩道を含む。）及び小荷物専用昇降機の安全について検査するための検査項目，検査器具，検査方法及び判定基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

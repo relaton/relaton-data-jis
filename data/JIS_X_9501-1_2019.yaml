@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9501-1%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09501_001_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 9501-1:2019
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: クラウドサービスレベル合意書（Ｓｅｒｖｉｃｅ　Ｌｅｖｅｌ　Ａｇｒｅｅｍｅｎｔ。以下，ＳＬＡという。）に利用可能な，一連の共通クラウドＳＬＡビルディングブロック（概念，用語，定義及びコンテキスト）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

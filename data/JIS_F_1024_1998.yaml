@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　日本船舶技術研究協会
       language:
       - ja
@@ -51,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 長さ２４ｍ以下の舟艇に使用される，ステアリングホイルから船外機，船内機及び船内外機の操だ装置の結合点までの油圧操だ装置とその構成要素の要件，試験方法，オーナ用及び据付者用マニュアルについて規定。ステアリングホイルからステアリングアームへの接続金具までを含める。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3650%3A1993
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03650_000_000_1993_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 3650:1993
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電気設備学会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ６００Ｖ以下の低圧屋内配線において，公称断面積が１４ｍｍ×２以下のケーブルをコンクリートに直接埋設する工法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

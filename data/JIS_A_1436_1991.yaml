@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1436%3A1991
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01436_000_000_1991_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 1436:1991
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2001-02-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　建材試験センター
@@ -54,6 +70,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 建築物等の保護・仕上げなどの目的で屋根でスラブ，壁，床等に接着して用いるシート状材料又は塗布して用いる液状材料の硬化物の，下地不連続部に生じるムーブメントによる疲労に対する抵抗性を評価するための試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

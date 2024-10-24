@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -47,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 日本工業規格，国際規格及び技術報告の文書交換のための規格事務局ＳＧＭＬ応用，すなわち必要要素，共通識別子，属性及びそれらの構造を定義。形式的なＳＧＭＬ文書型定義を附属書Ａに示す。文書中の規定は，作業原案；委員会原案；規格原案；規格；技術報告；標準プロファイルを対象とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

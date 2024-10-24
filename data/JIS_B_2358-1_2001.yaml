@@ -33,6 +33,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本フルードパワー工業会"
       language:
@@ -65,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＩＳＯ　１１９２６－２及びＩＳＯ　１１９２６－３で規定された，継手端部を接続するためのユニファイねじポートについて規定。最高使用圧力は，サイズ，材質などによって異なる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

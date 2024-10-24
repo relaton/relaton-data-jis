@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8701%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08701_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08701_000_000_1999_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8701:1999
@@ -28,6 +32,20 @@ date:
 - type: issued
   value: '1999-06-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本色彩学会
@@ -46,6 +64,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ２度視野に基づくＸＹＺ表色系及び１０度視野に基づくＸ１０Ｙ１０Ｚ１０表色系によって色を表示する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

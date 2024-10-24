@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本非破壊検査協会"
       language:
@@ -64,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 浸透探傷試験及び磁粉探傷試験を行う場合の照度及びＡ領域紫外線の放射照度並びにそれらの測定に関する最小要求事項を含めた，主に目視による観察条件について規定。青色光源については適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

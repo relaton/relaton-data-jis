@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本電気計測器工業会"
       language:
@@ -64,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｃ　６１３２６－１の適用範囲に加えて，製造業者が指定する，操作上及び／又は機能上の理由によって電磁両立性（ＥＭＣ）防護を施せない，（装置の内部及び／又は外部に）試験及び測定用の回路がある装置の，より詳細な試験配置，動作条件及び性能評価基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

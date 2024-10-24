@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5600-4-5%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_05600_004_005_1999_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 5600-4-5:1999
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本塗料工業会
@@ -54,6 +70,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 塗膜の色座標の測定する方法について規定。正常な色覚で見た場合に，均等な一つの色（すなわち，単色）に見える塗膜だけに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

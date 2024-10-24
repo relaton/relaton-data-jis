@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8147-2-8%3A2011
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08147_002_008_2011_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8147-2-8:2011
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｃ　７６１７－２及びＪＩＳ　Ｃ　７６１８－２に規定する蛍光ランプ並びにＪＩＳ　Ｃ　７６０５に規定する殺菌用低圧水銀放電管に用いる，５０Ｈｚ又は６０Ｈｚの１　０００Ｖ以下の交流電源で使用する，定格二次電圧が１　０００Ｖ以下の抵抗形を除く安定器の個別安全要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般社団法人　情報科学技術協会                                                \r\n
         \                                                                                           社団法人　日本画像情報マネジメント協会"
       language:
@@ -47,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: １６ｍｍマイクロフィルムの画像検索システムに用いるドキュメントマーク（ブリップ）について規定。このフィルムの縮率は，１：２０から１：５０までの範囲とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+7301%3A1998
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_07301_000_000_1998_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 7301:1998
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1998-11-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 線材製品協会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 一般用として最も普通に用いられるワイヤロープについて規定。ワイヤロープは，ストランドの数とストランドを構成する外層素線の数によってクラス分けされる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

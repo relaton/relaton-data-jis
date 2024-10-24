@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8762-1%3A2007
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08762_001_000_2007_j_ed11_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8762-1:2007
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +81,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 用語及び記号の定義，並びに閉管路を満たして流れる流体の流量を測定するために挿入する絞り機構（オリフィス，ノズル及びベンチュリ管）を用いて，流量を測定する方法及び計算法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

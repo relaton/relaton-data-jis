@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9335-2-32%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09335_002_032_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 9335-2-32:2023
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2023-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 定格電圧が単相機器の場合には２５０　Ｖ以下，その他の機器の場合には４８０　Ｖ以下の家庭用及びこれに類する電気マッサージ器の安全性について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3700-101%3A1996
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03700_101_000_1996_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 3700-101:1996
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '1996-12-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本情報経済社会推進協会
@@ -46,6 +62,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 製図情報を表現するためのリソース構成要素を規定。範囲は，図面及び図面シートの定義・記述・管理に関する情報；基本的な製図注記及びそれらの集合体に製品又は図面の解釈に関する事実・要件の記述のために，より一般的な注記を付けたもの；寸法測定情報の記述に使用する製図注記　とする
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

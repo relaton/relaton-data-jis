@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 非共振強制振動法による動的粘弾性特性の温度依存性依存曲線から，プラスチックのガラス転移温度の求め方について規定。求め方は，従来の熱測定（ＤＴＡ曲線やＤＳＣ曲線）では決定し難い，結晶性高分子プラスチックから成るブレンド及び繊維強化プラスチックについてもソクテイ可能であり，また，品質管理などの工程管理用にも適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

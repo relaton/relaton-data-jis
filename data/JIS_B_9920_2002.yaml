@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9920%3A2002
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09920_000_000_2002_j_ed20_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09920_000_000_2002_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 9920:2002
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2002-09-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -57,6 +75,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: クリーンルーム及びこれに関連する制御された環境（クリーンルーム施設）における空気清浄度の浮遊微粒子濃度によるクラス分類及びその評価法について規定。分類は，粒径０．１μｍから５μｍの範囲における粒径以上の累積個数濃度によって行う。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

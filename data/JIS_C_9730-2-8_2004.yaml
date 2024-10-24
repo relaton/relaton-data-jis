@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9730-2-8%3A2004
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09730_002_008_2004_j_ed12_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 9730-2-8:2004
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +81,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 暖房，空気調節及びこれに類する用途を含む，家庭用及び類似の機器の中で，又は機器上で，又は機器とともに使用する電動式ウォーターバルブに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

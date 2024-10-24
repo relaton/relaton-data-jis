@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 拡張可能なマーク付け言語ＸＭＬ（ｅＸｔｅｎｓｉｂｌｅ　Ｍａｒｋｕｐ　Ｌａｎｇｕａｇｅ）は，ＸＭＬ文書というデータオブジェクトのクラスを規定し，ＸＭＬ文書を処理するプログラムの動作の一部を規定。ＸＭＬは，ＳＧＭＬ（ＩＳＯ　８８７９）の制限したサブセットとする。ＸＭＬ文書は，必ずＳＧＭＬ規格に適合する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

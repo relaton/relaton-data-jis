@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 対象となる血管パターン認証システムとは，「あらかじめ登録した血管パターンの登録データと，ユーザが登録者であることを主張してあらたに入力する血管パターンを比較し，両血管パターンの類似度ないし，距離を算出するアルゴリズム，又は照合装置及び血管パターンは一致したか否かを判定するシステム」とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

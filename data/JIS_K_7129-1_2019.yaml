@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7129-1%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07129_001_000_2019_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 7129-1:2019
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: エンボスなどのない表面が平滑な，プラスチックフィルム，プラスチックシート及びプラスチックを含む多層材料の感湿センサ法による水蒸気透過度の求め方について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

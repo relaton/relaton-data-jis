@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+80601-2-60%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_80601_002_060_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 80601-2-60:2021
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2021-06-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 歯科器械（歯科用制御装置，歯科患者用椅子，歯科用ハンドピース，歯科用照明器など）の基礎安全及び基本性能について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

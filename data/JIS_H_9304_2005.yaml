@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本溶射協会"
       language:
@@ -57,6 +71,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 被溶射品に対し，耐摩耗性，耐食性，耐熱性などを付与する目的で自溶合金を溶射溶融するときの作業標準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

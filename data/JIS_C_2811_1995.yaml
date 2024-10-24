@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2811%3A1995
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02811_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02811_000_000_1995_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 2811:1995
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '1995-08-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電気制御機器工業会
@@ -45,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 交流６００Ｖ（周波数５０Ｈｚ又は６０Ｈｚ）以下又は直流６００Ｖ以下の電路で使用する工業用端子台について規定。端子台とは，電線の接続，分岐又は中継を目的として，電線接続部をもつ導電金具と，それを保持する絶縁体を組み合わせたもので，電気制御機器，制御盤，配電盤などの内部に使用するものをいう。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

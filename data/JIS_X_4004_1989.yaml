@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4004%3A1989
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04004_000_000_1989_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04004_000_000_1989_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 4004:1989
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -54,6 +72,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 日本語ワードプロセッサ又はこれと同等の機能をもつ情報処理機器相互間でフレキシブルディスクカートリッジを用いて，文字及び二値図形を基本とする日本語文書の交換を行う場合の文書ファイルの仕様について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

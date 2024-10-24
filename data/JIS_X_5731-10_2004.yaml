@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　情報処理学会"
       language:
@@ -58,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ディレクトリ管理の要件を規定し，これらの要件について分析し，開放型システム間相互接続（ＯＳＩ）システム管理サービス（及び，プロトコル）によって実現される部分，ディレクトリサービス（及び，プロトコル）によって実現される部分及び局所的に実現される部分に整理する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

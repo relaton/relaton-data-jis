@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9252%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09252_000_000_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 9252:2023
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2023-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本情報経済社会推進協会
@@ -49,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＰＩＩの収集及び処理について，オンラインにおけるプライバシーに関する通知の内容及び構成並びにＰＩＩ主体に同意を求めるプロセスを方向付ける管理策について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

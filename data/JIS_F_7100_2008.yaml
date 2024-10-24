@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+7100%3A2008
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_07100_000_000_2008_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS F 7100:2008
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2022-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本船舶技術研究協会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 機関区域可燃性装置からの可燃性油の漏えいが発火源となる火災を防止するために必要な取るべき対策について規定。設計者，造船所要員，機関区域要員，船主，操作者及びメンテナンス要員に対して意図されている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

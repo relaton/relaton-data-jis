@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0150%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_01504_001_000_2000_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0150:2020
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2020-07-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 亜鉛及び／又はアルミニウム基材料からなる金属めっきの厚さ，単位面積当たりの付着量，及び化学組成の定量のためのグロー放電発光分光分析方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

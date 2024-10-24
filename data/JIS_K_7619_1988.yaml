@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 写真感光材料工業会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: シート状，ロール状又はストリップ状で供給される処理済み又は未処理の写真フィルムのカール特性の測定方法及びその表示方法について規定。方法Ａ，Ｂ及びＣの３種類の測定方法を規定。方法Ａは，試料を垂直に保持した場合，方法Ｂ及びＣは，試料を水平に保持した場合のカールの測定方法である。試料の構造や大きさに違いがあるため比較はできない。いずれの方法の処理中又は乾燥中の写真フィルムのカール特性の測定には適用できない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

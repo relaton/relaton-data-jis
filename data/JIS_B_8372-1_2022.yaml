@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8372-1%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08372_001_000_2022_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8372-1:2022
@@ -29,6 +31,20 @@ date:
 - type: issued
   value: '2022-02-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 空気圧用減圧弁及びフィルタ付減圧弁の供給者の文書に表示する主要特性を規定し，また，製品表示に対する要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

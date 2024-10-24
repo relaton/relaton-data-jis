@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0430-72-40%3A2000
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00430_072_040_2000_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0430-72-40:2000
@@ -29,6 +31,20 @@ date:
 - type: issued
   value: '2000-10-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　産業環境管理協会
@@ -47,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 複数の試験管中の液体培地中で培養し，最確数（ＭＰＮ）法によって大腸菌群，耐高温性大腸菌群及び推定大腸菌（Ｅｓｃｈｅｒｉｃｈｉａ　ｃｏｌｉ）の検出試験方法と菌数の計数方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

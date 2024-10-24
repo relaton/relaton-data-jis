@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+S+0003%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_ts_s_00003_000_000_2010_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: TS S 0003:2010
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2010-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本ガス石油機器工業会
@@ -46,6 +62,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ガス又は石油を燃料とする，一般家庭用の給湯機器の標準使用モードを用いた熱効率測定法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

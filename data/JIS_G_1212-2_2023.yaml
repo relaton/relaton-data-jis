@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本鉄鋼連盟
       language:
       - ja
@@ -50,6 +64,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 鉄及び鋼中のけい素定量方法のうち，硫酸アンモニウム鉄（ＩＩ）還元モリブドけい酸青吸光光度法について規定。この方法は，けい素含有率（質量分率）０．０１　％以上１　％以下の定量に適用する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

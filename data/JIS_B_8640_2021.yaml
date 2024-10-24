@@ -40,6 +40,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -59,6 +73,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 空調機からの冷却空気及び加熱空気を低風速で吹き出しながら，その温度を利用して熱の放射をもたらす空気式低風速放射空調吹出ユニットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0090-10%3A2007
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00090_010_000_2007_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 0090-10:2007
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 光学素子及び接合部品の寸法，許容できる偏差及び材料欠陥についての，表形式による表示の書式について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

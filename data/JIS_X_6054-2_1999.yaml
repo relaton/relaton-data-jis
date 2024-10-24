@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6054-2%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06054_002_000_1999_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 6054-2:1999
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　音楽電子事業協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 電子楽器における情報交換のためのソフトウェア（データフォーマット及びプロトコル）を規定。ライブパフォーマンスの情報伝達手段のほか，レコーディングスタジオ，オーディオ及びビデオ制作，作曲などのマルチメディア分野にも利用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

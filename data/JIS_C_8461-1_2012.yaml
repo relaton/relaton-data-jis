@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8461-1%3A2012
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08461_001_000_2012_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08461_001_000_2012_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8461-1:2012
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2017-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電気設備学会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 交流１　０００Ｖ及び／又は直流１　５００Ｖ以下の電気設備又は通信設備内の絶縁電線及び／又はケーブルを保護し，管理するための電線管及び電線管附属品を含む電線管システムの要求事項及び試験の共通的・一般的事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

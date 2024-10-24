@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           日本歯科器械工業協同組合
         \                                               \r\n                                                                                            公益社団法人　日本歯科医師会"
@@ -65,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 歯科用ユニットで作動（運転）する歯科用根管長測定器，又は他の歯科用制御装置で作動（運転）する主に卓上形の歯科用根管長測定器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

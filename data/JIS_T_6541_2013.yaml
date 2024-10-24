@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           日本歯科材料工業協同組合"
       language:
@@ -63,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 手術後に口くう（腔）内にとど（留）まる歯科用インプラント及びその既製部品の技術文書に対する要求事項について規定。歯科用インプラントシステムのうち，口くう内にとどまらない器具及び他の部品には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

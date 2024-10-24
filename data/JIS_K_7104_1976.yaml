@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 財団法人　化学技術戦略推進機構
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: プラスチック成形品などの表面の粗さ及び成形用金型の表面の粗さを比較するために必要な比較片，粗さ用スチールゲージ並びにこれらを用いて表面の粗さを比較する方法及び表面の粗さを記号によって表す方法について規定。カレンダー加工及び押出しによる成形品は除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

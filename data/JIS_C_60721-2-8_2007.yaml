@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60721-2-8%3A2007
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60721_002_008_2007_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 60721-2-8:2007
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2007-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 建物内において固定使用されている電気・電子製品が，火災の発生，成長及び広がりの間にさらされる環境条件の基本的な性質，特性値及びその内容について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

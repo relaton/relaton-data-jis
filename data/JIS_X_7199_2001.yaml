@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7199%3A2001
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07199_000_000_2001_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 7199:2001
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2001-08-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本情報経済社会推進協会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 地理空間データを電子計算機（携帯情報端末を含む。）で利用し，インターネット上でＷｅｂ技術を用いて自由に，容易に，かつ，手軽に記録，蓄積及び交換するために，単純な地理空間データを符号化してＸＭＬ文書とするための，ＸＭＬに基づく実用的な符号化法（Ｇ－ＸＭＬ）を具体的に規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

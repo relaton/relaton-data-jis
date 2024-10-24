@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 電子ビームを信号励起源として使用するオージェ電子分光法（Ａｕｇｅｒ　Ｅｌｅｃｔｒｏｎ　Ｓｐｅｃｔｒｏｓｃｏｐｙ：ＡＥＳ）において，マトリックス効果を補正して試料表面組成の定量分析を行うために必要となる，背面散乱補正係数の計算方法について記述。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

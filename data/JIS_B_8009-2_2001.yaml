@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8009-2%3A2001
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08009_002_000_2001_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8009-2:2001
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 交流発電装置の用途で使用する往復動内燃機関の主要な特性について規定。陸上及び海上用途の往復動内燃機関によって駆動する交流発電装置に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0604%3A1986
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00604_000_000_1986_j_pr20_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00604_000_000_1986_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0604:1986
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '1986-11-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　情報処理学会
@@ -45,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 多様な形と構造をもつデータを，計算機システム間で情報交換するためのレコード及びファイルに関し，媒体に依存しない一般的構造及びその記述方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

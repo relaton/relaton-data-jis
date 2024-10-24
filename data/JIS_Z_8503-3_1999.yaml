@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8503-3%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08503_003_000_1999_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8503-3:1999
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本人間工学会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: コントロールルームの配置計画に関する人間工学的原則について規定。コントロールルームの配置計画，ワークステーションの配置，ワークステーション外視覚表示器の使い方，及びコントロールルーム保守に関する要求事項，推奨事項及び指針を含む。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

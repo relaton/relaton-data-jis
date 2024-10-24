@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9207%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09207_000_000_2021_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09207_000_000_2021_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 9207:2021
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2021-12-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 段差，段差又は間隙のある部分に設置し，手動車椅子又は電動車椅子が通行可能なようにするために両端で荷重を支える可搬形スロープについて規定。ただし，爪などで固定するスロープは除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

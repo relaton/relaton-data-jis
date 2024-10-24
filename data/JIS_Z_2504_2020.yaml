@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           日本粉末冶金工業会"
       language:
@@ -63,6 +77,14 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 漏斗を用いて金属粉の見掛密度を測定する方法について規定。この方法は，漏斗角60°で直径2.5 mmのオリフィスから自然に流れ出す金属粉に適用する。ただし，漏斗角60°で直径2.5
+    mmのオリフィスから流れ出ない場合は，漏斗角30°で直径2.5 mmのオリフィス又は漏斗角60°で直径5.0 mmのオリフィスを用いてもよい。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

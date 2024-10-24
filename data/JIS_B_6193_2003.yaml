@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6193%3A2003
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06193_000_000_2003_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 6193:2003
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2003-02-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -57,6 +73,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 環境温度変動誤差（ＥＴＶＥ）試験；主軸の回転による熱変形；直進軸の運動による熱変形の３種類の試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

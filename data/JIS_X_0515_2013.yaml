@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0515%3A2013
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00515_000_000_2013_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0515:2013
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 仕様［受渡当事者間でデータを伝えるために，輸送単位に貼付する一次元シンボル及び二次元シンボルを含むラベルを設計するときの，最小限の必要事項；固有の輸送単位識別子（ライセンスプレート）による輸送単位の貨物追跡可能な手段；一次元シンボル，二次元シンボル又は目視可能形式で表示するデータのラベル上の書式の指針；バーコードシンボル体系の選択に関する特定な推奨の提供，バーコード密度のクラス及び品質要件の指定；ラベル貼付位置，サイズ，自由記述文及び任意な特有図形の挿入についての推奨事項；ラベル素材の選択に関するガイドライン］について規定。段ボール表面へのダイレクトプリントには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般財団法人　光産業技術振興協会"
       language:
@@ -62,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 光伝送用部品及びクロージャの使用中に起こり得る，光ファイバクランプ部における，クランプ強度の軸方向引張りに対する耐久性の試験方法について規定。光部品に取り付ける光ファイバは，光ファイバ素線，光ファイバ心線，光ファイバコード及び光ファイバケーブル含む。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

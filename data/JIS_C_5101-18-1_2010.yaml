@@ -19,6 +19,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5101-18-1%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05101_018_001_2010_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05101_018_001_2010_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5101-18-1:2010
@@ -31,6 +35,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -67,6 +85,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ＪＩＳ　Ｃ　５１０１－１８を品種別通則とするブランク個別規格で，主に電子機器用の直流回路に用いる表面実装用固定アルミニウム固体（ＭｎＯ２）電解コンデンサの評価水準EZについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

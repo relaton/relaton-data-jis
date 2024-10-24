@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2811%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02811_000_000_2021_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02811_000_000_2021_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 2811:2021
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2021-03-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -61,6 +79,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 老人ホーム，病院，学校など，多数の者が使用し又は利用し，かつ，その維持管理について，環境衛生上特に配慮が必要な環境で使用される“繰返し除菌”の加工を施した製品の表面における細菌に対する繰返し除菌効果の試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

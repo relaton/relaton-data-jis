@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9273%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09273_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 9273:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-02-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本福祉用具・生活支援用具協会
@@ -49,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 手動車椅子に装着し，人力でけん引する装置に関する要求事項及びその試験方法について規定。この規格でいう手動車椅子には，簡易形電動装置を搭載した車椅子も含む。けん引装置が装着される車椅子については，この規格の適用範囲に含まない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

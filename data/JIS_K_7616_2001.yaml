@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7616%3A2001
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07616_000_000_2001_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 7616:2001
@@ -29,6 +31,20 @@ date:
 - type: issued
   value: '2001-04-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -59,6 +75,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 現像処理済み写真感光材料中の残留チオ硫酸塩などのよう素・アミロース法，メチレンブルー法及び硫化銀法による試験方法について規定。ハロゲン化銀，ゼラチン写真感光材料に現像，定着及び最終水洗を行って得た写真に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

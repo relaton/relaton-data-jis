@@ -19,6 +19,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+8682-1%3A2013
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_h_08682_001_000_2013_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_h_08682_001_000_2013_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS H 8682-1:2013
@@ -31,6 +35,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -67,6 +85,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: アルミニウム及びアルミニウム合金の製品に施した厚さ５μｍを超える平滑な陽極酸化皮膜の表面を研磨紙で摩擦（往復運動）することによって，耐摩耗性などの摩耗特性を試験する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

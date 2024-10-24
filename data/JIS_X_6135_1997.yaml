@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6135%3A1997
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06135_000_000_1997_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 6135:1997
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 情報交換に用いる１２．７ｍｍ幅，３６トラックの磁気テープカートリッジの物理的特性及び磁気的特性について規定。ＪＩＳ　Ｘ　０６０１とともに，テープカートリッジを媒体として情報交換に使用できるように磁気テープカートリッジの記録信号の品質，フォーマット及び記録様式を規定。２種類のカートリッジを規定。一つは，カートリッジシステムテープ（ＣＳＴ）と呼称し，もう一つは，拡張容量カートリッジシステムテープ（ＥＣＣＳＴ）と呼称する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5724%3A1991
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05724_000_000_1991_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 5724:1991
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '1991-09-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: "（ａ）内部ファイルサービスを支援する基本プロトコル　（ｂ）外部ファイルサービスを支援する誤り回復プロトコル　（ｃ）ファイルプロトコル制御情報を運ぶために必要な抽象構文の定義　（ｄ）このプロトコルの実装者が従うべき適合性の要件　の４つの主要部分から構成。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

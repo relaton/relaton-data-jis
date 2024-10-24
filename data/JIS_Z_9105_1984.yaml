@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 公益社団法人　日本保安用品協会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 工場，鉱山，建設作業所，その他の事業所及び屋外において，夜間又は暗所における災害防止を目的として使用するために，ＪＩＳ　Ｚ　９１０７に規定する安全標識板，ＪＩＳ　Ｍ　７００１に規定する鉱山保安警標などに再帰反射加工を施した反射安全標識板について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

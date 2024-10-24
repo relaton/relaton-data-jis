@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6775-1%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06775_001_000_2005_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06775_001_000_2005_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 6775-1:2005
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -68,6 +86,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 都市ガス及び液化石油ガスの供給に使用する，ＪＩＳ　Ｋ　６７７４に適合するポリエチレン管及びＪＩＳ　Ｋ　６７７５－２に適合するスピゴット継手との融着接合に用いるヒートフュージョン継手の物理的性質，継手材料の一般的性質，継手の寸法，及び性能について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

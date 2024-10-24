@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8147-2-1%3A2011
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08147_002_001_2011_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8147-2-1:2011
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: １００ｋＶ以下の始動パルスを発生させる始動装置のうち，ＪＩＳ　Ｃ　７６０１，ＪＩＳ　Ｃ　７６０４，ＪＩＳ　Ｃ　７６１０，ＪＩＳ　Ｃ　７６１７－１，ＪＩＳ　Ｃ　７６１７－２，ＪＩＳ　Ｃ　７６１８－１，ＪＩＳ　Ｃ　７６１８－２，ＪＩＳ　Ｃ　７６２１，ＪＩＳ　Ｃ　７６２３，ＪＩＳ　Ｃ　８１４７－２－８及びＪＩＳ　Ｃ　８１４７－２－９で扱うランプ，安定器と組み合わせて，５０Ｈｚ又は６０Ｈｚの１　０００Ｖ以下の交流電源で用いる蛍光ランプ，その他の放電ランプ用の始動装置（グロースタータ以外のスタータ及びイグナイタ）の個別安全要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

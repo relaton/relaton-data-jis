@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8502-1%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08502_001_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8502-1:2024
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2024-03-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 精神的ストレス及び精神的負担，そして精神的負担の短期的な及び長期的な結果並びに肯定的な及び否定的な結果についての精神的作業負荷の分野の用語について規定。また，関連するこれらの概念間の関係を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

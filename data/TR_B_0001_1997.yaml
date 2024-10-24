@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 電磁妨害が産業用マニピュレーティングロボットの性能に与える影響を試験するために，既存のＥＭＣ国際規格を適用する上での手引き書である。１．産業用ロボットを通常の動作環境に置いて作業させるときに適切な試験手順を規定。２．試験結果の評価の手引きを提供することを目的。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

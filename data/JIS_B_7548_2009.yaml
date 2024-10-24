@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7548%3A2009
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07548_000_000_2009_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07548_000_000_2009_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 7548:2009
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本計量機器工業連合会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 日本国内で取引又は証明に使用する酒精度浮ひょうのうち，温度１５℃での酒精と水との混合液中の酒精の濃度が，０体積百分率～１００体積百分率で一定の範囲の濃度を体積百分率で表す目盛が付されたものであって，目量が０．１体積百分率，０．２体積百分率及び０．５体積百分率の浮ひょうについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

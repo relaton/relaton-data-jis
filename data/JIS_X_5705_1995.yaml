@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5705%3A1995
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05705_000_000_1995_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 5705:1995
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '1995-08-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　５７０４で規定されたＣＣＲサービスを引用することによって，間接的にこの規格を引用し，この規格で規定する手順を起動して外的効果をもたらす。ＣＣＲサービスがＪＩＳ　Ｘ　５２０１で規定されているセションアクティビティ管理サービスを直接的又は間接的に利用しない場合に，この規格を適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

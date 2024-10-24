@@ -19,6 +19,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5600-7-7%3A2008
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_05600_007_007_2008_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_05600_007_007_2008_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 5600-7-7:2008
@@ -31,6 +35,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -67,6 +85,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 光源としてキセノンアークランプを用いた促進試験装置内で，水及び水蒸気の作用を含めて，促進耐候性試験又は促進耐光性試験によって，塗膜を暴露する方法について規定。；試験の最も重要な要因及び暴露装置の条件を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

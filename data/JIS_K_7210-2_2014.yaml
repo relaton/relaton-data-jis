@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7210-2%3A2014
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07210_002_000_2014_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 7210-2:2014
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -67,6 +83,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 測定中に試料が受ける時間－温度の履歴及び／又は水分に対して，レオロジー特性が，極めて敏感である熱可塑性材料のメルトボリュームフローレイト（ＭＶＲ）及びメルトマスフローレイト（ＭＦＲ）の求め方の手順について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8411%3A1989
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08411_000_000_1989_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8411:1989
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　省エネルギーセンター
@@ -53,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 固体，液体及び気体燃料を使用する工業用燃焼設備に使用される排熱回収装置で，伝熱面が金属で構成される空気予熱器の性能を試験する方法について規定。（１）空気予熱器の形式は，換熱式とする。（２）熱源流体は，燃料を燃焼させた場合に生成する排ガス成分だけで構成され，ダスト，腐食成分が外部から混入していないものとする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

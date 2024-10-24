@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8901%3A2006
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08901_000_000_2006_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8901:2006
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 集じん装置，エアフィルタなどの集じん試験，各種計測器の機能試験，摩耗試験などに用いる試験用粉体及び光散乱式自動粒子計数器などの校正，超高性能エアフィルタの粒子捕集率試験，大気中の浮遊粒子状物質自動計測器の校正などに用いる試験用粒子について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6322-3%3A2011
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06322_003_000_2011_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 6322-3:2011
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2011-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -60,6 +76,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ＰＣＤの発生する動作磁界にある近接型カード又は同様な動作をする対象物（ＰＩＣＣ）のポーリング；初期化処理中におけるＰＣＤとＰＩＣＣとの間の通信に使用するバイトフォーマット，フレーム及びタイミング；初期リクエストコマンド及びリクエスト応答の内容；複数のＰＩＣＣの中から一つのＰＩＣＣを検出し通信する方法（衝突防止）；ＰＣＤとＰＩＣＣとの間の初期化通信に必要なパラメタ；目的のアプリケーションに対応した一つのＰＩＣＣを複数のＰＩＣＣの中から簡単に早く選択する方法（任意選択）；について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

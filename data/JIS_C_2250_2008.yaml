@@ -42,6 +42,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -63,6 +77,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: はがしマイカ又は集成マイカを主な材料とする，マイカ製品に関する用語及びその定義並びに一般要求事項及び供給の状態について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

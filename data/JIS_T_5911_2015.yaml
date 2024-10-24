@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+5911%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_05911_000_000_2015_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 5911:2015
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2015-04-01'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -60,6 +76,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 圧電タイプ，電わい（歪）タイプ及び磁わい（歪）タイプの超音波スケーラを含めて，歯科用ユニットで作動（運転）する電動スケーラ及びスケーラチップ，又は他の歯科用制御装置で作動（運転）する主に卓上形の電動スケーラ及びスケーラチップについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5381-331%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05381_331_000_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5381-331:2021
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 交流１　０００　Ｖ又は直流１　５００　Ｖ以下の電源線路，通信回線及び信号回線に適用する金属酸化物バリスタの要求性能及び試験方法について規定。ＭＯＶは，過渡過電圧から装置，人又はその両方を防護するために用いられている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

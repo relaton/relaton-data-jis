@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5101-15-3%3A1998
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05101_015_003_1998_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5101-15-3:1998
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -55,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ＪＩＳ　Ｃ　５１０１－１５を品種別通則とするブランク個別規格で，焼結形固定タンタル固体電解コンデンサ　評価水準Ｅについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

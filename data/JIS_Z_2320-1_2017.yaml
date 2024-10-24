@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2320-1%3A2017
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02320_001_000_2017_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02320_001_000_2017_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 2320-1:2017
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +84,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 強磁性体の磁粉探傷試験のための一般的な通則について規定。試験体表面の処理，磁化方法，検出媒体への要求事項及び適用方法，並びに結果の記録及びその解釈を含むが，判定基準については規定しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

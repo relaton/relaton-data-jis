@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0103%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00103_000_000_2005_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 0103:2005
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 話し言葉及び文字表現によるコミュニケーションが困難な高齢者，障害のある人などが，絵記号を利用して自分の意思及び要求を相手に的確に伝え，正しく理解されることを支援するために必要とされる基本的な絵記号及びそれらの作図方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

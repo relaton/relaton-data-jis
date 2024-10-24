@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 写真感光材料工業会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: シート形態で使用されるネガ・ポジ又はリバーサル方式の，一般撮影用黒白及びカラー写真シートフィルムの公称寸法及び裁断寸法の目標値とその許容差について規定。シートフィルムの直方性と各辺の直線性の確認方法及び包装に表示すべき項目を規定。「一般撮影用」とは，複写，写真植字又は製版などの特殊用途を除いた，アマチュア写真用，コマーシャル写真用及びポートレート写真用の意味である。メートル単位系を優先する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

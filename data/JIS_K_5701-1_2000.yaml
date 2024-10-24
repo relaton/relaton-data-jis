@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5701-1%3A2000
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_05701_001_000_2000_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 5701-1:2000
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 印刷インキ工業会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 平版印刷に用いられるインキ，展色試料及び印刷物を試験する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

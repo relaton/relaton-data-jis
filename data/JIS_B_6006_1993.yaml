@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本工作機器工業会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＩＳＯ　２３０－１に基づいて，ツーピースジョー自己求心チャックの互換寸法（互換性に関する寸法）及び静的精度試験，並びに適用に応じた許容値について規定。この規格は，チャックの回転精度及びトップジョー取付部分の精度についてだけ規定しており，釣合い良さ，その測定方法又は把握力の測定などの，動的な品質については適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

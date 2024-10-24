@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 日本プラスチック工業連盟
       language:
       - ja
@@ -52,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 成形用及び押出用可塑化ポリ塩化ビニル（ＰＶＣ－Ｐ）材料の試験片の作り方及び諸性質の求め方について規定。試験材料の取扱い及び成形前の試験材料と試験前の試験片の状態調節についての要求事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8102%3A2012
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08102_000_000_2012_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8102:2012
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 蒸気タービン及び蒸気タービン設備に関する事項（タービン室熱効率又は熱消費率；蒸気消費率又はタービン効率；定格出力又は最大主蒸気流量；調速機及び非常調速機の特性）の保証値を実証するため，発電用の過熱及び湿り蒸気タービンの試験の実施，並びに試験結果の計算に対して規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

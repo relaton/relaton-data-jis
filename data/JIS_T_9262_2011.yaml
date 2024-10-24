@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9262%3A2011
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09262_000_000_2011_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 9262:2011
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本福祉用具・生活支援用具協会
@@ -53,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 福祉用具として和式便器（段差のある両用便器も含む。）に装着することによって，和式便器を腰掛式便器として使用する和式洋式変換便座について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4213%3A2002
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04213_000_000_2002_j_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 4213:2002
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2002-08-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ＣＧＭの２進符号化を規定。ＪＩＳ　Ｘ　４２１１で規定した各々の要素に対して，データ型を用いて符号化を規定。これらのデータ型の各々に対して，ビット，オクテット及び語を用いた明示的表現を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

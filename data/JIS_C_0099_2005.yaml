@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0099%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00099_000_000_2005_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00099_000_000_2005_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 0099:2005
@@ -28,6 +32,20 @@ date:
 - type: issued
   value: '2005-03-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -46,6 +64,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: プリント配線板上に装着する表面実装部品（ＳＭＤ）の金属端子又は電極部に対して，鉛フリーソルダペーストを用いて，平衡法ではんだ付け性を評価する試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

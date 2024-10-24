@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4338%3A2006
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04338_000_000_2006_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 4338:2006
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 原子力施設，放射線施設などで使用される，α線放出核種及び最大エネルギー０．１５ＭｅＶ以上のβ線を放出するβ線放出核種による，手，足及び身体表面の汚染を測定するα線及び／又はβ線用ハンドフットモニタ及び体表面汚染モニタについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

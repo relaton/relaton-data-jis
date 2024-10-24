@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5260-1%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05260_001_000_1999_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 5260-1:1999
@@ -29,6 +31,20 @@ date:
 - type: issued
   value: '1999-10-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -57,6 +73,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: サービスの基本動作及び事象；個々の基本動作及び事象と関連したパラメタ，並びにパラメタのもつ形式；動作と事象との相互関係及び正常シーケンス　の抽象的な観点で，ローカルエリアネットワーク体系にある媒体アクセス制御サービスを定義。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

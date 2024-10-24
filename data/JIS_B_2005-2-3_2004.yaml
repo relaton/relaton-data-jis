@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2005-2-3%3A2004
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02005_002_003_2004_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 2005-2-3:2004
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本バルブ工業会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 工業プロセス用調節弁に適用し，ＪＩＳ　Ｂ　２００５－２－１の諸式に使用するａ）容量係数Ｃ；ｂ）継手を接続しない場合の調節弁の液体圧力回復係数ＦＬ；ｃ）継手を接続する場合の調節弁の液体圧力回復係数と配管形状係数との組合せ係数ＦＬＰ；ｄ）配管形状係数ＦＰ；ｅ）差圧比係数ｘ１とｘＴＰ；ｆ）バルブ形状修正係数Ｆｄ；ｇ）レイノルズ数係数ＦＲの変数を決定するための流れの容量の試験手順について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

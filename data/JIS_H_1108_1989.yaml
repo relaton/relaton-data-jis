@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+1108%3A1989
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_h_01108_000_000_1989_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS H 1108:1989
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1989-05-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 日本鉱業協会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｈ　２１０７に規定された鉛の定量方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

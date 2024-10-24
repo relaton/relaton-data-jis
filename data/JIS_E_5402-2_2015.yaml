@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5402-2%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05402_002_000_2015_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05402_002_000_2015_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS E 5402-2:2015
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +83,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 鉄道車両に用いるＪＩＳ　Ｅ　５４０２－１の表１及び表１Ａ，並びに箇条４に適合した圧延，鍛造又は鋳造製の普通鋼一体車輪の，ａ）　表3，表4及び表4Aに示す寸法要求；ｂ）表面粗さ；ｃ）残留静的不釣合いの事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

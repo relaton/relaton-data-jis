@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+1034-5%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_01034_005_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS F 1034-5:2019
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本船舶技術研究協会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｆ　００８１に基づく船体の長さ（ＬＨ）が２．５ｍ～２４ｍの単胴艇で繊維強化プラスチック（ＦＲＰ），アルミニウム，鋼，木材，その他ボート建造に適した材料によって建造された船体に関する設計圧力，設計応力及び材料寸法の決定要件について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

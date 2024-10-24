@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本自動車部品工業会"
       language:
@@ -65,6 +79,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 自動車の直流電気回路に用いる機械的接点をもつリレーについて規定。だたし，電子回路に内蔵されるリレー，可動鉄心ソレノイド，レギュレータなどは除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6190-1%3A2016
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06190_001_000_2016_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 6190-1:2016
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 無負荷又は準静的な条件で行う工作機械の幾何精度試験方法について規定。加工中に手で持って操作する可搬形の機械には適用しない。幾何学的な精度試験だけに適用し，運転試験（振動，運動部品の動きの滑らかさなど）又は特性試験（回転速度及び送り速度）には適用しない。加工力よりも明らかに慣性力が大きい高速運動の精度試験には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           全国生コンクリート工業組合連合会"
       language:
@@ -66,6 +80,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 主としてコンクリートの生産工程管理に適用するもので，練混ぜに使用するスラッジ水の濃度試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

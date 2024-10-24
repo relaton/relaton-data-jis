@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7505-2%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07505_002_000_2022_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 7505-2:2022
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2022-12-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "日本圧力計温度計工業会                                                \r\n                                                                                            一般社団法人　日本計量機器工業連合会"
@@ -50,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 計ることの可能な圧力が絶対圧力で0.1 MPa以上200.2 MPa以下，かつ，最小の目量が，計ることの可能な最大の圧力と最小の圧力との差の150分の1以上のアネロイド型圧力計について規定。日本国内で取引又は証明に使用するものについて適用する。ただし，蓄圧式消火器用の圧力計及びアネロイド型血圧計には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

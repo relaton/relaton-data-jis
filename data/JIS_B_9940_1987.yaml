@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本産業機械工業会
       language:
       - ja
@@ -53,6 +67,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 酸性又はアルカリ性廃水を最終放流するために適正なｐＨ（ｐＨの中性範囲）に調節する中和装置及び廃水中に含まれる溶存物質を析出する，又は後続する装置の前処理として任意のｐＨに調節するｐＨ調節装置の使用状態における性能を把握するために必要な試験項目及び試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61558-2-14%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61558_002_014_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 61558-2-14:2024
@@ -29,6 +31,20 @@ date:
 - type: issued
   value: '2024-02-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 一般用の可変変圧器及び一般用の可変変圧器を組み込んだ電源装置の安全性について規定。電子回路を組み込んだ変圧器もこの規格の対象とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

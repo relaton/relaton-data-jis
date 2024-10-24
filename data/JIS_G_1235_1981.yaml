@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+1235%3A1981
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_01235_000_000_1981_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 1235:1981
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1981-06-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本鉄鋼連盟
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 鉄及び鋼中のアンチモン定量方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

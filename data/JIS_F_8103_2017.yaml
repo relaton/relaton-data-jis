@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　日本船舶技術研究協会
       language:
       - ja
@@ -50,6 +64,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 総トン数２０ｔ未満の船舶，又は総トン数２０ｔ以上であってスポーツ若しくはレクリエーションの用だけに供する船体の長さが２４ｍ未満の船舶に装備するリチウム二次電池の単電池及び電池システム並びにそれらに接続する充放電システムの安全性要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

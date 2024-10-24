@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5621%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_05621_000_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 5621:2019
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2019-03-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: さび止め顔料に鉛系及びクロム系成分を使用しないで，一般的な環境下での鉄鋼製品などのさび止めに用いる一般用さび止めペイントについて規定。ＪＩＳ　Ｋ　５６７４に規定する鉛・クロムフリーさび止めペイントは除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

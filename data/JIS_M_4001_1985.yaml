@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+4001%3A1985
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_m_04001_000_000_1985_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS M 4001:1985
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本産業機械工業会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 選鉱作業，選炭作業及び砕石・砂利選別作業における操業系統の表示方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0130%3A2008
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00130_000_000_2008_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00130_000_000_2008_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0130:2008
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +83,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 電解質水溶液及び水（河川水，海水，雨水，蒸留水，脱イオン水など）の５μＳ／ｍ～２００Ｓ／ｍ（２５℃）の範囲の電気伝導率の測定方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 耐火物技術協会
       language:
       - ja
@@ -54,6 +68,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ち密質耐火れんがの残存寸法変化率の二つの測定方法について規定。カーボン含有製品には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

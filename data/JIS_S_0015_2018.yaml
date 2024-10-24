@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 国立研究開発法人　産業技術総合研究所
       language:
       - ja
@@ -53,6 +67,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 視覚又は聴覚の障害の有無にかかわらず，使用者が消費生活用製品を使用する際に，その操作又は状態を知らせる手段として用いられる音声案内について規定。火災警報装置における避難誘導音声など，法令などで規制されている音声案内又は音声放送，及び設備用，業務用，専門家用など，特定用途に限定される機器の音声案内又は音声放送には適用しない。音声案内機能と併せて使用される報知音も規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

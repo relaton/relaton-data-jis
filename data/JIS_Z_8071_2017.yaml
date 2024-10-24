@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8071%3A2017
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08071_000_000_2017_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8071:2017
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 公益財団法人　共用品推進機構
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 人々を対象とする製品，サービス，建築環境及びそれらの組合せに直接的又は間接的に関わる規格を作成する者が，その内容にアクセシビリティに関連する要求事項及び推奨事項を取り入れるための指針。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

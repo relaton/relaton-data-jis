@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0420-1%3A2016
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00420_001_000_2016_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00420_001_000_2016_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 0420-1:2016
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -64,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: "“円筒”及び“相対する平行二平面”の二つのサイズ形体の長さに関わるサイズに対する標準指定演算子並びに特別指定演算子について規定。これらの長さに関わるサイズのための指定条件及びその図示方法について規定。幾つかのサイズ特性の種類を明示するための一連のツールについて規定。“機能・用途”と“サイズ特性”との関連情報は規定しない。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

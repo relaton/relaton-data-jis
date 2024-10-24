@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0500%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00500_000_000_2020_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0500:2020
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2020-04-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 自動認識及びデータ取得（ＡＩＤＣ）技術における一般的な用語及び定義，並びにＡＩＤＣ技術の使用者及び専門家がコミュニケーションをとる場合に不可欠な用語について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

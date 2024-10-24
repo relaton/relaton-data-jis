@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+4604%3A1995
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_04604_000_000_1995_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_04604_000_000_1995_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS D 4604:1995
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2006-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +83,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 自動車による交通事故などの際に，乗員を傷害から防護し，又は傷害を軽減するために，自動車に取り付けて使用するシートベルトについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

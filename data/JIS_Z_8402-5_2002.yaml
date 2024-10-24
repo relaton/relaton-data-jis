@@ -19,6 +19,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8402-5%3A2002
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08402_005_000_2002_j_ed11_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08402_005_000_2002_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8402-5:2002
@@ -31,6 +35,20 @@ date:
 - type: confirmed
   value: '2021-06-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -65,6 +83,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 標準測定方法の併行標準偏差及び再現標準偏差を求めるための基本的方法に対する代替方法，すなわち水準分割計画及び不均質物質に関する計画の詳細；計算からデータを除外するための外れ値の検定を行うことなく精度評価実験の結果を解析するロバストな方法，特にその詳細な適用方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8222-2%3A2018
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08222_002_000_2018_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS M 8222-2:2018
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本鉄鋼連盟
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 鉄鉱石中のマグネシウム定量方法のうち，原子吸光分析法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

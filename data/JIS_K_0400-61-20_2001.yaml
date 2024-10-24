@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0400-61-20%3A2001
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00400_061_020_2001_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0400-61-20:2001
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2001-02-28'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -58,6 +74,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 地下水及び表層水中の，有機ひ素を含めたひ素，１～１０μｇ／Ｌ，の定量方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+9102%3A2002
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_09102_000_000_2002_j_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS F 9102:2002
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本船舶技術研究協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: １９７４　ＳＯＬＡＳ　第Ｖ章及び国際高速船の安全に関する国際規則（ＨＳＣコード）に要求される，操だ用。並びに方位測定用又はそれらのいずれかに供する船用電子磁気コンパスの，構造及び性能についての一般要件，形式検査及び個別検査について規定。規定する磁気コンパスは，通常，全長２４ｍ以上の船舶に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

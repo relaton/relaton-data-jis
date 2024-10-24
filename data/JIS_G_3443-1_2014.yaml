@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3443-1%3A2014
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03443_001_000_2014_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 3443-1:2014
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2014-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 主に上水道，下水道，工業用水道及び農業用水路に使用する塗覆装鋼管の直管について規定。通常，呼び径８０Ａ（外径８９．１ｍｍ）～呼び径３　０００Ａ（外径３　０４８．０ｍｍ）の管に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

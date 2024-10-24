@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7603%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07603_000_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 7603:2019
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2019-08-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -59,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ホッパーの形で荷重受け部を備えたホッパースケール（計量ホッパーに被計量物が供給された状態をゼロ点とし，排出した質量を計量値とする方式のものを除く。）に対する計量要件，技術要件及び試験方法について規定。次の構造の自動はかり［ａ）動きながら計量する自動はかり；ｂ）袋などの容器に充填する機能をもつ自動はかり；ｃ）複数の容器で各々計量したものを組み合わせて充填する機能をもつ自動はかり］には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

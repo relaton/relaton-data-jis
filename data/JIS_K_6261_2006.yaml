@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6261%3A2006
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06261_000_000_2006_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06261_000_000_2006_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 6261:2006
@@ -28,6 +32,20 @@ date:
 - type: issued
   value: '2006-03-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -58,6 +76,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 加硫ゴム及び熱可塑性ゴムの低温における特性である５０％衝撃ぜい化温度，衝撃ぜい化限界温度，ねじり剛性及び弾性回復温度を求める方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

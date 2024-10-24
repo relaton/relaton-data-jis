@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 社団法人　日本電子機械工業会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: テレビジョン受信機（放送受信選局部をもたないディスプレイ，モニタを含む。）とディジタル周辺機器とを，８ピンマルチコネクタによって接続する場合の電気的接続及び機械的接続を統一するため，受信機の入力信号の電気的特性並びに接続コネクタの種類，形状，寸法及び信号接続配列について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

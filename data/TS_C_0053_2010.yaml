@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　光産業技術振興協会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＴＳ　Ｃ　００５０に規定するＣＩＳ系太陽電池測定用ソーラシミュレータを用いて，発電を目的とする平面形・非集光形の地上用ＣＩＳ系太陽電池セル，地上用CIS系太陽電池サブモジュール及び地上用ＣＩＳ系太陽電池モジュールの出力電圧・出力電流の温度係数を測定及び算出する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　電気学会"
       language:
@@ -64,6 +78,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 電気・電子機器，電線，その他一般の電気絶縁用及びコンデンサの誘電体用として使用する電気用二軸配向ポリエチレンテレフタレートフィルムに対する要求事項について規定。この規格中に規定又は参照する事項の安全な実施の確保は，用いる人の責任である。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

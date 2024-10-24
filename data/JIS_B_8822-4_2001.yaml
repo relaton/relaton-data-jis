@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本クレーン協会
       language:
       - ja
@@ -51,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 予定寿命期間中のクレーンの運転サイクル数と負荷状態を基準とした荷重スペクトル係数を基準に，タワークレーン，移動式クレーン及び鉄道クレーンを除くジブクレーン及びその機械装置の分類及び等級について規定。ＪＩＳ　Ｂ　０１４６－１：２０００において定義されるジブクレーン及びその部品に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+4002%3A1989
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04002_000_000_1989_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04002_000_000_1989_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 4002:1989
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '1989-03-01'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 公益社団法人　空気調和・衛生工学会
@@ -45,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 建築物に使用する床排水トラップについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

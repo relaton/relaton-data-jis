@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+5909%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_05909_000_000_2005_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 5909:2005
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2005-03-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 日本歯科器械工業協同組合
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 歯科用ハンドピースに接続して使用される，歯科用低電圧マイクロモータについて規定。歯科用低電圧モータは，歯科用ユニットによって作動（運転）されるか，又は独立の制御装置で作動（運転）するストレート及びギヤードアングルハンドピースに使用される。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

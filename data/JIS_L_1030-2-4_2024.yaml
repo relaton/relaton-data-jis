@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　繊維評価技術協議会"
       language:
@@ -62,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 非繊維物質を除去した後の黄麻と動物繊維との２種混用品のそれぞれの繊維の混用率を，窒素含有量を決定することによって求める試験方法について規定。動物繊維は，ヘヤー又は羊毛のいずれか一つ，又は両者を混用したもののいずれでもよい。また，この方法は，窒素を含む仕上げ加工剤及び染料を用いた製品には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

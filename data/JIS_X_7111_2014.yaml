@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7111%3A2014
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07111_000_000_2014_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 7111:2014
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 公益財団法人　日本測量調査技術協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 座標による空間参照の記述についての概念スキーマを規定。時空間統合参照系への拡張を含め，一次元，二次元及び三次元の空間座標参照系を定義するために必要な最低限のデータを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

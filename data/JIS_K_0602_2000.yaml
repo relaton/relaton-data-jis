@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0602%3A2000
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00602_000_000_2000_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0602:2000
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2001-01-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -57,6 +73,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 化学製品又は試薬としての血清アルブミンの品質を決定するための定量方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

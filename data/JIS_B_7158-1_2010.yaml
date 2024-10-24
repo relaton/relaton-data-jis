@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           日本顕微鏡工業会"
       language:
@@ -63,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＰＬＡＮと表記した対物レンズの像面平たん（坦）性に関するプラン視野比の要求事項及び平たん性の表示方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

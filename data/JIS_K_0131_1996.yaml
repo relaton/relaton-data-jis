@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0131%3A1996
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00131_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00131_000_000_1996_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0131:1996
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本分析機器工業会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: Ｘ線回析装置を用いて回析Ｘ線を測定し，これによって物質の固定・定量，格子定数の精密測定，結晶化度の測定などを行う場合の一般的事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

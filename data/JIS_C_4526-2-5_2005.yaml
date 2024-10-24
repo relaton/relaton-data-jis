@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本電気制御機器工業会"
       language:
@@ -58,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 定格電圧が４４０Ｖ以下，定格電流が６３Ａ以下で，家庭用，又はこれに類する用途の機器及び他の装置の内部若しくは外郭に付けるか又はこれと共に使用され，手，足その他の人間の動作によって動かされる機器用切換セレクタについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

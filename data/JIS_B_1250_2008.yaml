@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本ねじ研究協会"
       language:
@@ -66,6 +80,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ねじの呼び径１～１５０ｍｍの一般用ボルト，小ねじ及びナットに用いる部品等級Ａ及びＣの平座金の基準寸法について規定。座金組込みねじ用の平座金に対しては，この規格による内径及び厚さを適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

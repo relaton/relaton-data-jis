@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6121-1%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06121_001_000_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 6121-1:2021
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2021-05-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 光増幅器（ＯＡ）及び光増幅器関連のアセンブリの通則について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

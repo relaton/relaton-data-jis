@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5260-3-1%3A2000
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05260_003_001_2000_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5260-3-1:2000
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｃ　５２６０－３を品種別通則とするブランク個別規格で，回転形精密級可変抵抗器　評価水準Ｅについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9700%3A2013
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09700_000_000_2013_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 9700:2013
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本機械工業連合会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 機械類の設計において安全性を達成するときに適用される基本用語及び方法論について規定。また，設計者がこの目的を達成することを支援するため，リスクアセスメント及びリスク低減の原則を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

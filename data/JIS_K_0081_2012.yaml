@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0081%3A2012
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00081_000_000_2012_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00081_000_000_2012_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0081:2012
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　産業環境管理協会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 石炭，廃棄物，バイオマスなどの燃焼によって，煙道，煙突，ダクトなどに排出されるガス（排ガス）に含まれる粒子状及びガス状ほう素を個別に採取分析し，合算することによって，排ガス中ほう素濃度を分析する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

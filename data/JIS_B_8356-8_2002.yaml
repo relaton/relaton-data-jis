@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8356-8%3A2002
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08356_008_000_2002_j_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8356-8:2002
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 連続的に試験粒子を投入する油圧フィルタのマルチパスろ過性能試験；集じん量，粒子除去特性及び圧力降下を評価する方法；粒径２５μｍ以下の粒子に関し，平均ろ過比（β値）が７５以上の性能をもち，更にフィルタ性能試験回路の油タンク内の最終質量汚染濃度が２００ｍｇ／ｌ未満である，油圧用フィルタエレメントに適用できる試験；ＩＳＯミディアムテストダスト及び附属書Ａによる，試験流体を使用する試験について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

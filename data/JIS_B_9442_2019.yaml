@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9442%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09442_000_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 9442:2019
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 次の（－３Ｄモデルの表面及び内部を問わず，形状，材料，色，接合強度などといったものづくりに必要な情報を立体の基本構成要素ごとに明確に定義している。；－３Ｄモデルの設計データに，解析結果データ，検査結果データなどを付与し，統合して流通させることで，これまで独立していた各工程の連携と柔軟な相互運用とを可能とする。）機能及び特徴を備えた３Ｄモデル用データフォーマットであるＦＡＶフォーマットの仕様について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

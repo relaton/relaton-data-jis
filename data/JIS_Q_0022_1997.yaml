@@ -40,6 +40,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -55,6 +69,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 分野を問わず，製品，プロセス又はサービスの規準文書への適合性を示すことが望ましい場合又は必要な場合における，供給者による適合の宣言に関する一般基準を規定。供給者は，この基準に従って自己の責任で規準文書に適合していることを宣言することができる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

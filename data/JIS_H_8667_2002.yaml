@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本溶射協会"
       language:
@@ -57,6 +71,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 部品，製品などに対し，耐摩耗性，耐薬品性，耐熱性，断熱性などを付与する目的で施すサーメット溶射皮膜の試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＸＭＬスキーマ言語のこの部分は，ＸＭＬスキーマの中で使用できるデータ型を示す。これらのデータ型は，＃ＰＣＤＡＴＡとして指定される要素内容，及びＤＴＤの中の多様な型の属性値に関して規定され得る。この規定が，〔ＸＳＬ〕〔ＲＤＦ　Ｓｃｈｅｍａ〕などの広範囲な他のＸＭＬ関連活動のために，ＸＭＬスキーマの文脈の外で利用できることを，この規定は意図している。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

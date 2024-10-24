@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1424-2%3A1998
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01424_002_000_1998_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 1424-2:1998
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2006-11-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　建材試験センター
@@ -53,6 +69,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ａ　１４２４－１で規定する給水器具発生音の実験室測定方法における試験装置及び試験方法によって，給水器具発生音を測定するときの給水栓及び混合水栓の取付方法並びに作動条件について規定。対象とする給水栓及び混合水栓：建築物（流し，洗面槽，浴槽など）又は建築物近傍（例えば，庭園用）における冷水及び温水の使用のために０．１～０．５ＭＰａの範囲の給水圧で設計されたもの。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

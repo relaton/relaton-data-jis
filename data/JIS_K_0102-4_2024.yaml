@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0102-4%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00102_004_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0102-4:2024
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2024-07-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　産業環境管理協会
@@ -50,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: この規格は，工業用水の試験方法，及び工場（事業所を含む。）からの排水の試験方法のうち，有機物の試験方法について規定する。個別試験項目において適用対象を規定していない場合は，その試験は工業用水及び工場排水の両方に適用する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

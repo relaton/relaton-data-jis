@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -53,6 +67,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 本質的に同一設計で連続的に製造され，確立した品質管理によって生産される電子部品であって，原則として期待される寿命期間中，一定の故障率を合理的に仮定できる部品について適用し，計数１回抜取検査方式によって，部品の故障率水準の初期判定，維持，拡張の原則，測定間隔，試料数，試験時間，得られた結果の処理などの手順について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

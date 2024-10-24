@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 写真感光材料工業会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 写真フィルム及び印画紙の製造時から現像処理時までの保存の方法について規定。未露光（生）及び露光済みのいずれの感光材料にも適用できるが，現像処理済みフィルム及び印画紙には適用できない。ネガフィルム，ポジフィルム，反転フィルム，印画紙などの黒白及びカラー感光材料には適用できる。ＩＳＯ　５４３で規定した安全写真フィルムに適用できる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

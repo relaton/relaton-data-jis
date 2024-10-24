@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+3243%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03243_000_000_2021_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03243_000_000_2021_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 3243:2021
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2021-03-01'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 経十二指腸的，経皮経肝的又は開腹術下に胆道［胆管（肝内胆管，肝外胆管），胆のう及び胆のう管並びに乳頭部］又はすい（膵）管に挿入し，排のう，排液，かん（灌）流，狭さく（窄）部位又は乳頭部の拡張，狭さく（窄）の予防，結石の破砕，把持回収，摘出，除去などの処置を行う胆道用チューブ及びカテーテル並びにこれら附属品について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

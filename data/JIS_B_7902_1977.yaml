@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 日本測量機器工業会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 水平目盛盤の最小読取値及びバーニヤ個数がそれぞれ３０″以下でバーニヤ２個（区分Ａ），３０″を超え６０″以下でバーニヤ２個（区分Ｂ）及び６０″を超えるもの又はバーニヤ１個（区分Ｃ）をもつトランシットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

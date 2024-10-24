@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -60,6 +74,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: エポキシ樹脂などの熱硬化性樹脂で微細・精密形状の製品を成形する金型に，離型性向上の目的で用いる含ふっ素化合物離型膜の離型性試験及び離型膜の耐久性試験について規定。なお，この規格は含ふっ素化合物を用いない離型膜に適用可能な場合がある。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

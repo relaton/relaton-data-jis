@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8456-1%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08456_001_000_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8456-1:2023
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2023-12-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｂ　８４４６－２：２０１６に規定する低出力装着型身体アシストロボットのうち，次の事項［ユーザの両大たい（腿）部にベルトなどで装着し，さらに，腰部，腹部，胸部，肩部その他にベルトなどで装着する。；ユーザの入力に従ったアシストトルクをユーザの大たい（腿）部及び体幹に作用させる。；ユーザの股関節及び／又は体幹を伸展する力，及び／又は屈曲を抑制する力をアシストする。；ユーザの動作（運動補助，姿勢保持及び／又は物体操作）をアシストする。］を満たすロボットについて規定。　
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

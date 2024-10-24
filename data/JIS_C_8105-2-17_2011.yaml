@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8105-2-17%3A2011
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08105_002_017_2011_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08105_002_017_2011_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8105-2-17:2011
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2015-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +84,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 電気光源を用いる屋内用及び屋外用の舞台照明，テレビ，映画，及び写真スタジオ用の照明器具（スポット照明用及び投光照明用投光器を含む。）であって，電源電圧が１　０００Ｖ以下で使用するものの要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

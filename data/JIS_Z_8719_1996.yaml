@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8719%3A1996
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08719_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08719_000_000_1996_e_pr20_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8719:1996
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本色彩学会
@@ -54,6 +72,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 基準となる光の下で，分光特性が異なるが，三刺激値が一致しているか，又はほぼ等しい試料対の条件等色度を，照明光を変えたときに三刺激値が一致しなくなる程度によって，評価する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

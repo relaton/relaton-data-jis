@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+0117-1%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_00117_001_000_2005_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS D 0117-1:2005
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 自動車及び一般内燃機関用（船舶用，定置機関用など）に使用されるフィルタ及びその構成部品の用語について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

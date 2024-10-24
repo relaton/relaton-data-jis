@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5308%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05308_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 5308:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-03-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 全国生コンクリート工業組合連合会
@@ -49,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 荷卸し地点まで配達されるレディーミクストコンクリートについて規定。ただし，この規格は，配達されてから後の運搬，打込み及び養生については適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

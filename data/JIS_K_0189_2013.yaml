@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0189%3A2013
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00189_000_000_2013_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0189:2013
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　表面化学分析技術国際標準化委員会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 電子プローブマイクロ分析（ＥＰＭＡ）を行う上で考慮しなければならない電子プローブ，波長分散X線分光器及び試料に関する測定パラメータの決定方法について規定。特に，プローブ電流，プローブ電流密度，不感時間，波長分解能，バックグラウンド，分析面積，分析深さ及び分析体積の決定のための手順についても規定。エネルギー分散Ｘ線分光器には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

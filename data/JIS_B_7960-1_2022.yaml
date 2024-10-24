@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本電気計測器工業会
       language:
       - ja
@@ -50,6 +64,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 日本国内において取引又は証明に用いるガラス電極式水素イオン濃度指示計と組み合わせて，溶液の水素イオン濃度を計量するガラス電極式水素イオン濃度検出器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

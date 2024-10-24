@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "独立行政法人　製品評価技術基盤機構                                                \r\n
         \                                                                                           国立研究開発法人　産業技術総合研究所"
       language:
@@ -47,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 高齢者を対象とした中等度温熱環境における温冷感，快適感などの温熱感覚を測定し，被験者からの主観申告により収集したデータを公表。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

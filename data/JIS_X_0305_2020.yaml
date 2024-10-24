@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0305%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00305_000_000_2020_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0305:2020
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 特定の発行者によって出版又は製作され，個別に販売され，広く提供される単行出版物の各製品形態又は版に対する，唯一の国際識別システムとしての国際標準図書番号（ＩＳＢＮ）の仕様を確立するためのものであり，ＩＳＢＮの構成，その付与及び使用の規則，ＩＳＢＮの付与に関連付けられるメタデータ並びにＩＳＢＮシステムの管理について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

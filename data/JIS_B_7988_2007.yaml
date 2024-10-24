@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7988%3A2007
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07988_000_000_2007_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07988_000_000_2007_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 7988:2007
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +83,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 工場及び事業所の各種製造の工程において，燃料，その他の物の燃焼に伴って，煙突，ダクトなどへ排出されるガス中の一酸化二窒素濃度を連続的に測定するための赤外線吸収方式に基づくもので，現場に設置して長期間連続測定を行う自動計測器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

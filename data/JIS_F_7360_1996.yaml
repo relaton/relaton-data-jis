@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+7360%3A1996
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_07360_000_000_1996_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS F 7360:1996
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1996-12-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本船舶技術研究協会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 海水及びビルジ管系に使用し，船底又は船側に直接取り付ける鋳鋼仕切弁について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

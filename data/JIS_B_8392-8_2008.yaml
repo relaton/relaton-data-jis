@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本フルードパワー工業会"
       language:
@@ -64,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 限定された最大粒子径の中で固体粒子の量として表示される，圧縮空気中の質量濃度による固体粒子含有量を決定する試験方法について規定。また，空気汚染物質の試験方法との整合を目的とした一連の規格の一つとしてサンプリング方法，質量濃度による固体粒子に関する評価，不確かさの考察及び清浄空気要因の試験報告について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

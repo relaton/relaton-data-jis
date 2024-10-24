@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+62271-200%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_62271_200_000_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 62271-200:2021
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2021-07-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 定格電圧が１　ｋＶを超え５２　ｋＶ以下で，定格周波数が６０　Ｈｚ以下の屋内用及び屋外設置用の金属閉鎖形スイッチギヤ及びコントロールギヤの組立品について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

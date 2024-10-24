@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+D+0007%3A2012
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_ts_d_00007_000_000_2012_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_ts_d_00007_000_000_2012_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: TS D 0007:2012
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2012-09-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "チャデモ協議会                                                \r\n                                                                                            一般社団法人　チャデモ協議会"
@@ -45,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 電気自動車と充電器との間で適切な急速充電を実現するために，電気自動車及び充電器の設計に盛り込むべき仕様について，その基本機能を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

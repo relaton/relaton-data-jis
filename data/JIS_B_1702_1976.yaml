@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本歯車工業会"
       language:
@@ -57,6 +71,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 正面モジュール０．２～２５，ピッチ円直径１．５～３２００ｍｍのインボリュート平歯車及びはずば歯車及びラックの精度について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

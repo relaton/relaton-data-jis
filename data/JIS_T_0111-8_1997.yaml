@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0111-8%3A1997
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00111_008_000_1997_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00111_008_000_1997_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 0111-8:1997
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本義肢装具学会
@@ -54,6 +72,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 一つの例外を除いて，単一の試験荷重によって複合負荷を得る単純化した静的及び繰返し負荷試験について規定。試験試料に生じる複合負荷は，歩行の立脚相中に生じる二つのピーク負荷にそれぞれ関連づけられるものである。下たい（腿）義足，ひざ（膝）離断義足，大たい（腿）義足に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

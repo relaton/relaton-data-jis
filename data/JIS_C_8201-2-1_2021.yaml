@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8201-2-1%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08201_002_001_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8201-2-1:2021
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2021-09-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 専門の教育を受けた人又は熟練者によって設置及び操作されることを意図した，定格使用電圧が交流１　０００　Ｖ以下又は直流１　５００　Ｖ以下の回路遮断器（配線用遮断器及びその他の遮断器）の安全性について規定。また，ヒューズ組込み形回路遮断器に対する追加要求事項を含む。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

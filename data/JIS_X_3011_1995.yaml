@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3011%3A1995
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03011_000_000_1995_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 3011:1995
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: プラグラム言語ＭＵＭＰＳを規定する二つの章からなる。１．では，第１　部全体を通じて使う静的構文に対する超言語を規定。２．では，言語の静的構文及び全体の意味を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

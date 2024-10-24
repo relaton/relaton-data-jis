@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7997-2%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07997_002_000_2020_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 7997-2:2020
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -60,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 排ガス中に光（入射光）を照射したとき，ダストによって光が減衰することを利用することによって，主に低濃度から高濃度領域までのダスト濃度を測定する光透過方式のダスト濃度自動計測器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

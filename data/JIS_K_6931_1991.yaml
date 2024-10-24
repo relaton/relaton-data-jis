@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6931%3A1991
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06931_000_000_1991_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 6931:1991
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2001-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　プラスチック循環利用協会
@@ -53,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 各種の再生プラスチック素材を用い，必要によって充てん材，強化材などを加えて成形した棒，板及びくいについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

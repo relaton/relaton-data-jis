@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3005-13%3A2007
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03005_013_000_2007_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 3005-13:2007
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2007-09-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: Ｊａｖａプログラム言語で書かれた静的メソッドをＳＱＬ呼出しルーチンとして呼び出す機能，及びＪａｖａプログラム言語で定義されたクラスをＳＱＬ利用者定義構造型として用いる機能を規定（Ｊａｖａは，Ｓｕｎ　Ｍｉｃｒｏｓｙｓｔｅｍｓ，Ｉｎｃの登録商標である。）。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

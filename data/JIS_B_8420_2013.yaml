@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8420%3A2013
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08420_000_000_2013_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8420:2013
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ａ）間接式抵抗加熱炉；ｂ）直接式抵抗加熱炉の安全に関する一般事項について規定。この規格の要求事項は，ＩＥＣ　６０５１９－３，ＩＥＣ　６０５１９－４，ＩＥＣ　６０５１９－８及びＩＥＣ　６０５１９－２１を適用する直接式抵抗加熱炉には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

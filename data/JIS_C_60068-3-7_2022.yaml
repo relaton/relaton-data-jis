@@ -42,6 +42,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -61,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 温度試験槽の有効空間内部の空気循環を考慮した条件下で，発熱がある供試品又は発熱がない供試品のいずれかを温度試験槽内に設置した場合に，温度試験槽がＪＩＳ　Ｃ　６００６８－２－１及びＪＩＳ　Ｃ　６００６８－２－２の環境試験手順に規定された要求事項に適合していることを確認する，均一かつ再現可能な方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

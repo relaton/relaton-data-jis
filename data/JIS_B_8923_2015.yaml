@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8923%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08923_000_000_2015_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8923:2015
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 主としてＪＩＳ　Ｂ　８９２０で規定するハンドトラック，ＪＩＳ　Ｂ　８９２４で規定するハンドリフトトラック，ＪＩＳ　Ｚ　０６１０で規定するボックスパレット，構内用運搬車及び産業用運搬機器の移動に用いる，人力での移動速度が４ｋｍ／ｈ　（１．１１ｍ／ｓ）　以下で使用するキャスタについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

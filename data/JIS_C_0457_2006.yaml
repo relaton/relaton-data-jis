@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0457%3A2006
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00457_000_000_2006_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 0457:2006
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 乾電池のような小さくて簡単な製品から，大規模電気工業設備のような大形又は高度に複雑な製品に至るまで，電気及び関連分野におけるあらゆる種類の製品にとって必要又は有用であるすべての種類の取扱説明に関する立案と定式化とについて，一般原則及び詳細な要求事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

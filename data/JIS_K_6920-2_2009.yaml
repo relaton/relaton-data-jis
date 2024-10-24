@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6920-2%3A2009
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06920_002_000_2009_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 6920-2:2009
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +82,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 成形用及び押出用ポリアミド材料（ＰＡ）の試験片の作製方法及び特性の求め方について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

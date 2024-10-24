@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8601%3A1954
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08601_000_000_1954_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8601:1954
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -63,6 +79,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 工業標準化・設計などにおいて数値を定める場合に，選定の基準として用いる標準数について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

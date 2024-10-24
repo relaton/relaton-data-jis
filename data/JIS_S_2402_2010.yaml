@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "国立研究開発法人　産業技術総合研究所                                                \r\n
         \                                                                                           日本陶磁器産業振興協会
         \                                               \r\n                                                                                            岐阜県セラミックス研究所"
@@ -57,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 強化磁器食器のふち（縁）部の衝撃強度の試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

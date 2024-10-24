@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 公益財団法人　日本測量調査技術協会
       language:
       - ja
@@ -51,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 機能・特徴（ＸＭＬで地理情報の伝送及び格納を行うための地理空間応用スキーマの記述を行う，開放型の中立的な枠組みを提供する。；ＧＭＬの枠組みの中で記述できる適切な部分集合をサポートするプロファイルを許す。；専門領域及び情報コミュニティのための地理空間応用スキーマの記述を可能とする。；互いに関連する地理応用スキーマ及びデータ集合の生成及び維持を可能とする。；応用スキーマ及びデータ集合の格納及び伝送を可能とする。；地理応用スキーマ及びそれに従う情報を共用する組織の能力を増大させる。）をもつＸＭＬ　Ｓｃｈｅｍａの構文規則，仕組み及び仕様を定義。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

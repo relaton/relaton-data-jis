@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0090%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_00090_000_000_1999_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS F 0090:1999
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本船舶技術研究協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 船舶及び海洋構造物並びにこれらに搭載される機器に取り付ける安全標識について規定。安全標識の目的，安全標識に使用する用語・記号・色の規定，安全標識の設計（様式・材料），取付場所・取付方法などについての指針を含んでいる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

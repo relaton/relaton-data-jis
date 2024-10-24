@@ -23,6 +23,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3660-4-1%3A2011
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03660_004_001_2011_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 3660-4-1:2011
@@ -33,6 +35,20 @@ date:
 - type: issued
   value: '2011-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電線工業会
@@ -51,6 +67,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 船舶及び海上設備を含む配電及び通信設備に使用する電気・光ケーブルの絶縁体及びシース材料の試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

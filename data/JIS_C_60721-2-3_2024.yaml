@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -60,6 +74,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: この規格は，自然環境に現れる様々な気圧の値の選択について示す。この規格は，保管，輸送及び使用中に様々な気圧にさらされる可能性がある製品への適用のために，適切な気圧の厳しさを選択する際の背景資料の一部として用いることを意図している。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

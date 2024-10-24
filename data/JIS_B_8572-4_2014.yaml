@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8572-4%3A2014
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08572_004_000_2014_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8572-4:2014
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本計量機器工業連合会
@@ -53,6 +69,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 配管の経路の途中などに固定して燃料油（揮発油，灯油，軽油及び重油）の体積を計量する口径５０ｍｍ以下の定置燃料油メーター，大型車載燃料油メーター及び簡易燃料油メーターのうち，使用最大流量が６０Ｌ／ｈ（１Ｌ／ｍｉｎ）超えのものについて規定。粘度が０．１Ｐａ・ｓを超え，又は温度が－２０℃未満，若しくは５０℃を超える燃料油を除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

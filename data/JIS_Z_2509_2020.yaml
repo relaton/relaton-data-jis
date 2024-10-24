@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2509%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02509_000_000_2020_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 2509:2020
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 試験粉（金属粉）の成形及び焼結に伴う寸法変化を，同一条件で処理した標準粉末の寸法変化とともに測定する方法について規定。ただし，超硬合金用を除いた金属粉の，加工に伴う三つのタイプの寸法変化の測定に適用する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6949%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06949_000_000_2015_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 6949:2015
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "国立研究開発法人　産業技術総合研究所                                                \r\n
@@ -56,6 +72,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 水系培養液，土壌，制御されたコンポスト又は嫌気的消化汚泥におけるプラスチック材料の好気的及び嫌気的究極生分解度の測定に用いる試験材料の調製方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

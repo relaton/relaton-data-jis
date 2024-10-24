@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+3262%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03262_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 3262:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-03-01'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: カテーテル及びガイドワイヤの配置及び操作を目的として身体に通すために用いる単回使用の血管用又は非血管用イントロデューサ針について規定。ただし，薬液注入及び排液に用いられるもの並びに直接の処置に用いられるものは除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

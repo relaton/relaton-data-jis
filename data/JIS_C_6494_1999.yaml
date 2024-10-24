@@ -33,6 +33,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本電子回路工業会
       language:
       - ja
@@ -55,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 耐燃性グレード（垂直難燃性）の多層プリント配線板用ガラス布基材ビスマレイミド／トリアジン／エポキシ樹脂銅張積層板の特性について，規格値を定める。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

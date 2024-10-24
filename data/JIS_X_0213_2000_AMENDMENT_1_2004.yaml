@@ -43,6 +43,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -62,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｘ　０２０８で規定する６８７９文字の符号化幹事集合を拡張し，ＪＩＳ　Ｘ　０２０８と同時に運用する４３５４文字を含め１１２３３の図形文字とそれらのビット組合せとの対応を規定。第４水準漢字集合を除く８７９７文字からなる符号化漢字集合と第４水準漢字集合の２４３６文字からなる符号化漢字集合との二つの符号化漢字集合を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

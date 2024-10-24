@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+T+0014%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_tr_t_00014_000_000_2010_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: TR T 0014:2010
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2010-02-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 技術研究組合　医療福祉機器研究所
@@ -46,6 +62,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 難治性角膜上皮疾患の治療を目的に，温度応答性培養皿を用いて自己の細胞から製造した，培養角膜上皮細胞シート及び培養口腔粘膜上皮細胞シートを，位相差顕微鏡などを用いて測定する方法などを取りまとめたものである。角膜上皮疾患の再生医療に活用できる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

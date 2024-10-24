@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3030%3A2009
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_03030_000_000_2009_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS S 3030:2009
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本燃焼機器検査協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 灯油，軽油又は重油を燃料とする石油燃焼機器の燃焼方式，給排気方式，用途別方式などの一般共通事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

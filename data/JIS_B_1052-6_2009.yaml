@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1052-6%3A2009
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01052_006_000_2009_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01052_006_000_2009_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 1052-6:2009
@@ -28,6 +32,20 @@ date:
 - type: issued
   value: '2009-11-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -58,6 +76,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 保証荷重値規定ナット（細目ねじ）を環境温度１０～３５℃の範囲内で試験をしたときの機械的性質について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

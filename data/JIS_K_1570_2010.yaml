@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+1570%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_01570_000_000_2010_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_01570_000_000_2010_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 1570:2010
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2010-09-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 木質材料に防腐性能及び防ぎ（蟻）性能をもたせるための木材保存剤であって，加圧注入処理によって用いるものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

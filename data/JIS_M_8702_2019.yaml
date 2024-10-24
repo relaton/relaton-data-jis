@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8702%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08702_000_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS M 8702:2019
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本鉄鋼連盟
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: "鉄鉱石のロットの化学成分，水分及び粒度分布並びにその他の物理特性（ＩＳＯ　３８５２の方法２のかさ密度を除く。）及び冶金特性を測定するため，搬送中のロットからの機械式サンプリング，手動式サンプリング及び試料調製における次の事項［ａ）\t基礎理論；ｂ）\tサンプリング及び試料調製の基本原則；ｃ）\tサンプリングシステムの設計，据付け及び操作の基本必要事項］について規定。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

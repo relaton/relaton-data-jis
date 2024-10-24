@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6912%3A2007
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06912_000_000_2007_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 6912:2007
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-06-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 再使用部品を使用する事務機器製品が新しい部品だけを使用する製品と同等の働きをすることを，本来の機器の製造業者又はその製造業者が認定した第三者が供給者宣言する場合に，“満たさなければならない要件”を定めた指針。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

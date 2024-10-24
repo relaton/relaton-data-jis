@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4607%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04607_000_000_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 4607:2023
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2023-03-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 公称電圧３．３　ｋＶ又は６．６　ｋＶ，周波数５０　Ｈｚ又は６０　Ｈｚで短絡電流１２．５　ｋＡ以下，定格電流６００　Ａ以下の手動操作式又は電気動力操作式の三相引外し形高圧交流負荷開閉器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

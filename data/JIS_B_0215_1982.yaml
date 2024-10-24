@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本ねじ研究協会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｂ　０２０５及びＪＩＳ　Ｂ　０２０７に規定するメートル並目ねじ及びメートル細目ねじの主として締付けに用いるものの公差方式について規定。ＪＩＳ　Ｂ　０２０９及びＪＩＳ　Ｂ　０２１１に規定する１級，２級及び３級のものには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

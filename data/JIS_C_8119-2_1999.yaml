@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本電球工業会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｃ　７６０４に規定の高圧水銀ランプ，ＪＩＳ　Ｃ　７６１０に規定の低圧ナトリウムランプ及び日本工業規格には規定されていない高圧ナトリウムランプ，メタルハライドランプを点灯する放電ランプ用安定器のうち，定格周波数５０Ｈｚ又は６０Ｈｚの１０００Ｖ以下の交流電源で定格二次電圧が１０００Ｖ以下の場所に使用されるものについての性能要求事項を規定。完成した安定器，リアクター，トランス及びコンデンサなどの構成部品についても適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

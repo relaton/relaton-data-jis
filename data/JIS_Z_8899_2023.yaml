@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8899%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08899_000_000_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8899:2023
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2023-07-19'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 粒子径分布における許容可能な不確かさをもつ球状多分散粒子状標準物質の特性要求事項，及びその値付けのための手順について規定。この標準物質の考えられる適用例の一つに，レーザ回折装置及び他の粒子径計測装置の信頼性試験がある。粒子径の多分散性及び関連する不確かさを記載している。多分散粒子では，粗大粒子径の僅かな変動は，積算分布に大きな変動を与える可能性がある。この規格には，様々な型式の粒子径計測装置の信頼性を試験するために使用されることを意図した粒子状標準物質の要求事項が記載されている。加工，均質性及び安定性評価，並びにこの規格で取り扱われていない認証書の作成のための要求事項は，ＪＩＳ　Ｑ　１７０３４に記載されている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

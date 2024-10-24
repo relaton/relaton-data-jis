@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: プログラマブルコントローラ及びその周辺装置[プログラミングツール（ＰＡＤＴ），テスト機器（ＴＥ）及びマンマシンインタフェース（ＭＭＩ）]に適用。オーバーボルテージカテゴリⅡ（ＩＥＣ　６０６６４）の低圧設備に使用される機器及び工業用プロセスの制御又は管理のための装置を対象。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

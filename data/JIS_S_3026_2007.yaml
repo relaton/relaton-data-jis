@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3026%3A2007
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_03026_000_000_2007_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS S 3026:2007
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本燃焼機器検査協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 灯油を油タンクからくみ上げ，くみ上げた灯油を石油燃焼機器に連続して１時間当たり３Ｌ以上に保って供給する石油燃焼機器用灯油供給器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

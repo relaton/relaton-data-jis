@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0060-5%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00060_005_000_2020_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 0060-5:2020
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｂ　００６０－１に基づき，一般機械，精密機械，電気機械などの工業分野で用いる３ＤＡモデル（３Ｄ　ａｎｎｏｔａｔｅｄ　ｍｏｄｅｌ：三次元製品情報付加モデル）の設計モデルに設定する表示要求事項の一つである幾何公差の指示方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

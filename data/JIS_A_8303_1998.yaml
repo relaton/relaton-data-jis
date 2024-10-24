@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本建設機械施工協会
       language:
       - ja
@@ -52,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ホイール式土工機械がエクイップメント及びアタッチメントを装着した状態で，平たん路面で回転するときに描かれる回転直径，回転半径，機械最外側回転直径，タイヤ最内側及び最外側の回転直径を求める方法について規定。操向可能な全てのホイール式土工機械について，使用する操向装置の形式に関係なく適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

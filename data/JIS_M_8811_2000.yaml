@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8811%3A2000
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08811_000_000_2000_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS M 8811:2000
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +81,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ロットの品質特性を決定するため，石炭類及びコークス類のサンプリング方法，試料調製方法，品位変動調査方法，精度チェック方法及び偏りテスト方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

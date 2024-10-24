@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　光産業技術振興協会
       language:
       - ja
@@ -52,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 現在商用化されている希土類が添加されたアクティブ光ディスクを使用した光ファイバ増幅器（ＯＦＡ）に適用。目的は，ＩＥＣ　６１２９１－１の３．に定義される光ファイバ増幅器の，ａ）増幅波長帯域外挿入損失　ｂ）増幅波長帯域外逆方向挿入損失　のパラメータについて，光フィルタを用いたパワーメータ測定方法による正確かつ信頼性のある測定を行うために必要な一定の条件を確立。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

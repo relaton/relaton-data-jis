@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2151%3A2004
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02151_000_000_2004_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02151_000_000_2004_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 2151:2004
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -67,6 +85,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 石炭コークス類の粒度試験方法，かさ密度試験方法，密度・気孔率試験方法，落下強度試験方法，回転強度試験方法，反応性試験方法，及び灰の溶融性試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

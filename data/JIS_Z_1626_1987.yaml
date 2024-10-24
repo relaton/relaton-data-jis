@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1626%3A1987
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_01626_000_000_1987_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_01626_000_000_1987_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 1626:1987
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '1987-04-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 社団法人　日本コンテナ協会
@@ -45,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 国際規格に従って製作され，試験された国際大形コンテナの取扱い方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＷＷＷは，元来，人間が使用するために構築された。ウェブ上のすべてを自動化することは非常に困難だが，ウェブが含む情報の量を考えると，手動で管理することはできない。ウェブに含まれるデータを記述するために，メタデータを使うことを提案。メタデータとは“データについてのデータ”とする。資源記述の枠組みは，メタデータを処理するための基盤とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

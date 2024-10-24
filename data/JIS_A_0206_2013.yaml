@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+0206%3A2013
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_00206_000_000_2013_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 0206:2013
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2018-10-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "国立研究開発法人　産業技術総合研究所                                                \r\n
@@ -56,6 +72,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 工学地質図に用いる記号群（記号，文字記号，色，模様などを含む。）及びその記述，表記及び表示法（用語を含む。），並びに主題属性を示す主題属性コード群（定義，記述，表記及び表示法を含む。）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6218%3A1990
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06218_000_000_1990_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 6218:1990
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本工作機械工業会
@@ -54,6 +70,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 使用できる丸コレットの口径部の最大直径が３２ｍｍ以下の主軸台移動単軸自動旋盤の運転性能に関する試験方法，並びに静的精度及び工作精度の検査方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

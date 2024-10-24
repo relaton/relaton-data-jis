@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+B+0034-1%3A2018
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_ts_b_00034_001_000_2018_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: TS B 0034-1:2018
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2018-02-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本計量機器工業連合会
@@ -50,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 粘度が０．１Ｐａ・ｓ以下及び温度が－２０℃以上５０℃以下の揮発油，灯油，軽油又は重油（以下，燃料油という。）を計量するシステムに適用。燃料油の小売用など１回ごとの計量値を表示する機構が５０Ｌ以下のものを除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 写真感光材料工業会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: １２０型及び２２０型ロールフィルムの寸法並びにこれらのロールフィルムに共通するスプールの寸法について規定。１２０型及び２２０型ロールフィルムの寸法とは，フィルム自体の寸法，１２０型ロールフィルム用裏紙の寸法，２２０型ロールフィルム用リーダー及びトレーラーの寸法，粘着テープの寸法並びにこれらの相互位置関係の寸法をいう。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

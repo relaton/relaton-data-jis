@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9210%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09210_000_000_2020_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09210_000_000_2020_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 9210:2020
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2020-09-23'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -61,6 +79,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 電動車椅子のうち，後方からスライドして乗車するものであって，座面昇降機構及び旋回機構を装備した屋内移動用の自操用座位変換形電動車椅子の安全施設及び使用上の情報に対する要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

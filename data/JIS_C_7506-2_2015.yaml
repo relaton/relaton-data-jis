@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7506-2%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_07506_002_000_2015_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 7506-2:2015
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 自動車用ヘッドランプ，フォグランプなどの照明灯及び信号灯に用いる，交換可能な白熱電球及びハロゲン電球，ディスチャージランプ並びにＬＥＤ光源を対象とし，口金接着強さ，寿命，光束維持率，耐振性，ガラス球強度，ガラス球変位及びこれらの試験方法について規定。灯具設計のガイダンスとして与えられる温度限界，最大サージ電圧及び電球の最大外郭寸法の情報についても規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

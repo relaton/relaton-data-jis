@@ -40,6 +40,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -55,6 +69,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 登録者を規定するためにあらかじめ登録してある虹彩の登録データと，ユーザが登録者であることを主張してあらたに入力した虹彩を比較し，両虹彩の類似度ないし距離を定量し，出力するアルゴリズム又は照合装置，及び虹彩が一致したか否かを判定する虹彩認証システムについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

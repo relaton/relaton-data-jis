@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5401-2%3A1998
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05401_002_000_1998_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05401_002_000_1998_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS E 5401-2:1998
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2022-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本鉄道車輌工業会
@@ -54,6 +72,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 種々の仕上げ程度におけるタイヤ，輪心及びタイヤ付車輪に関する寸法要求，表面粗さ及び許容可能な残留不釣合いを定め，加えて，タイヤ付車輪の製造上の要求事項について規定。ゴムなどを用いたタイヤ付特殊車輪（防音車輪，弾性車輪灯の特殊組立車輪）は除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

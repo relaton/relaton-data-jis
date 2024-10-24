@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0922%3A2007
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00922_000_000_2007_j_ed11_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 0922:2007
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 不特定多数の人が利用する施設・設備及び移動空間を視覚障害者が安全で，かつ，円滑に移動できるように，施設・設備及び移動空間の位置情報を提示する触知案内図の情報内容及び形状並びにその表示方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

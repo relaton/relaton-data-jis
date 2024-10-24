@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般社団法人　日本化学工業協会                                                \r\n
         \                                                                                           一般社団法人　日本ゴム工業会"
       language:
@@ -54,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 一般用として用いる送水用ゴムホース（ウォーターホース）で－２５℃～＋７０℃の使用温度範囲で最大２．５ＭＰａまで使用できる，３種類の繊維補強ゴムホースについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

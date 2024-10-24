@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0508-3%3A2014
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00508_003_000_2014_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 0508-3:2014
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｃ　０５０８－１及びＪＩＳ　Ｃ　０５０８－２の適用範囲内で，安全関連系の一部を形成するソフトウェアか，又は安全関連系を開発するために使用するソフトウェアに適用。これらのソフトウェアを，安全関連系ソフトウェアという（オペレーティングシステム，システムソフトウェア，通信ネットワーク内のソフトウェア，ヒューマン－コンピュータインタフェース機能及びファームウェア，並びにアプリケーションプログラムを含む）。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+4230%3A1998
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_04230_000_000_1998_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_04230_000_000_1998_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS D 4230:1998
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本自動車タイヤ協会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 新品の自動車用タイヤについて規定。二輪自動車用タイヤ，農業機械用タイヤ，産業車両用タイヤ及び設計車両用タイヤには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

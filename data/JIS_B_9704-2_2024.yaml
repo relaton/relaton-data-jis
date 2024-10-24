@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9704-2%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09704_002_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 9704-2:2024
@@ -29,6 +31,20 @@ date:
 - type: issued
   value: '2024-06-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本機械工業連合会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 安全関連システムの一部として特に人を検出することを目的とし，検知機能としてＡＯＰＤを用いるＥＳＰＥの設計，製造及び試験に対する要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

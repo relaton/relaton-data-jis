@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 写真感光材料工業会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: "（１）アンモニア現像タイプのジアゾ写真画像を有するセルロースエステル又はポリエステルを支持体とする安全写真フィルム　（２）画像層を透明支持体上に設けるか，又は画像形成用薬品を透明支持体の中に含浸させて作られる写真フィルム　（３）マイクロフィルム，ロールフィルム及びシートフィルム　の各項のすべてに当てはまる写真フィルムに適用。　"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

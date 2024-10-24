@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 文部科学省科学技術・学術政策局基盤政策課
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: データ処理システムにおける一次資料中に参照文献を記述する場合及び二次資料を作成する場合に参照した個々の雑誌（その他の逐次刊行物も含む。）の誌名の略記方法について規定。“一次資料”，“二次資料”及び“参照した雑誌”は，技術分野のものを示すが，和文又は欧文の別は問わない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

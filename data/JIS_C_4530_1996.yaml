@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4530%3A1996
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04530_000_000_1996_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04530_000_000_1996_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 4530:1996
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '1996-08-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電気制御機器工業会
@@ -45,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 周波数５０ＨＺ若しくは６０Ｈｚの交流又は直流で電圧２５０Ｖ以下，電流３０Ａ以下の電気回路において，電子機器及び工業用制御回路の信号伝送に用いるヒンジ形電磁リレーについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本冷凍空調工業会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 単体で取引きされ，冷媒配管を現地で行う呼び冷凍能力が７６７Ｗ｛６６０ｋｃａｌ／ｈ｝以上１１６２８Ｗ｛１００００ｋｃａｌ／ｈ｝未満の蒸気圧縮式冷凍装置の強制通風式空冷凝縮器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

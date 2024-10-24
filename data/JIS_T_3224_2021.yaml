@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
       language:
@@ -63,6 +77,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 医薬品中の微小異物，細菌及び真菌を除去するためのもので，そのまま直ちに使用でき，かつ，単回使用で使い捨ての滅菌済みシリンジフィルタについて規定。ただし，除去できる微小異物，細菌及び真菌の大きさ並びに菌種は，シリンジフィルタ膜の孔径によって異なる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

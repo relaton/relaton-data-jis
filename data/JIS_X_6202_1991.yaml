@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6202%3A1991
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06202_000_000_1991_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06202_000_000_1991_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 6202:1991
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '1991-01-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -45,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　６２０１に規定する情報交換用フレキシブルディスクカートリッジに情報を記録する際の，トラックフォーマットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

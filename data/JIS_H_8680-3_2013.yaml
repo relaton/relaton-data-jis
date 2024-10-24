@@ -33,6 +33,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　軽金属製品協会"
       language:
@@ -67,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: アルミニウム及びアルミニウム合金の製品に施した陽極酸化皮膜のスプリットビーム顕微鏡測定方法による非破壊での皮膜厚さ測定方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

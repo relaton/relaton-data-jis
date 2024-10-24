@@ -40,6 +40,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -55,6 +69,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ＯＷＬ　Ｌｉｔｅの言語記述を規定し，ＯＷＬ　ＤＬ及びＯＷＬ　Ｆｕｌｌの段階的な言語記述を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

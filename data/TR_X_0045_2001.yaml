@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ディレクトリ情報を保持するためのＭＩＭＥ内容型を定義。特定のディレクトリサービス又はプロトコルから独立とする。ｔｅｘｔ／ｄｉｒｅｃｔｏｒｙ内容型は，例えば，名前，電子メール用番地，ロゴなどの，様々なディレクトリ情報を保持するために定義。ｔｅｓｔ／ｄｉｒｅｃｔｏｒｙ内容型は，より複雑な状況を操作するためにｍｕｌｔｉｐａｒｔ／ｒｅｌａｔｅｄ内容型のルート本体部分として使うこともできる。特に，例えば，写真又は音といったＭＩＭＥ表現をもつ非テキスト情報が表現される場合に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

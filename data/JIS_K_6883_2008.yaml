@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           日本弗素樹脂工業会
         \                                               \r\n                                                                                            日本プラスチック工業連盟"
@@ -65,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: パーフロロアルコキシアルカン（ＰＦＡ）樹脂を，溶融押出成形して得られるＰＦＡチューブについて規定。この規格の基本性能に関する規定は，室温以外で用いる場合には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

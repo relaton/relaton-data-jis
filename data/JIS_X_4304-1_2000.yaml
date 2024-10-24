@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4304-1%3A2000
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04304_001_000_2000_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 4304-1:2000
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2000-06-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 連続階調―白黒又はカラー―ディジタル静止画像符号処理における，可逆（情報が保存される）及び準可逆（それぞれの標本値の再生誤差があらがじめ定められた範囲内に限定される）の圧縮方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

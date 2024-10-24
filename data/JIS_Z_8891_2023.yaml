@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8891%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08891_000_000_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8891:2023
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 小角X線散乱（ＳＡＸＳ）を１　ｎｍ～１００　ｎｍの粒子径範囲の平均粒子径の推定に適用するための方法を規定する。これは粒子間の相互作用と散乱とが無視できる希薄分散系に適用可能である。この規格では，幾つかのデータ解析方法，すなわち，ギニエ近似，モデルによるフィッティング，モンテカルロ法（MC法），間接フーリエ変換法（IFT法）及び期待値最大化法（EM法）について規定している。使用者によって適切な解析方法が選択され，報告書に明記されることを意図している。ギニエ近似は平均粒子径の推定値を与えるだけであるが，他の解析方法は粒子径分布に関する情報も与える。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-53%3A2014
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_053_2014_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 60068-2-53:2014
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 温度・湿度と振動・衝撃とを組み合わせた条件で実施する，装置又は部品に対する複合試験方法及びその指針について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

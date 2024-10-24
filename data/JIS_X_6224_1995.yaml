@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6224%3A1995
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06224_000_000_1995_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 6224:1995
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1995-05-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　６２２３に規定する磁束反転密度１３２６２磁束反転／ｒａｄ，トラック密度５．３トラック／ｍｍのフレキシブルディスクカートリッジに情報を記録する際のトラックフォーマットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

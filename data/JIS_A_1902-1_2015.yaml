@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1902-1%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01902_001_000_2015_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 1902-1:2015
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　建材試験センター
@@ -55,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 建築材料としてのボード類，壁紙及び床材から放散するＶＯＣ，ホルムアルデヒド及び他のカルボニル化合物の放散速度を小形チャンバー法によって測定する場合のサンプルの採取，保管，試験片の作製，試験条件など放散に影響する事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

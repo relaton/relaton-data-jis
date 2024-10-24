@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+0241%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_00241_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 0241:2024
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: この規格は，小包輸送に使用される断熱材料などによって温度制御することを意図した包装容器の保冷性能試験方法について規定する。ただし，この規格では，アクティブパッケージングシステムの保冷性能については適用しない。また，その他の理由のために規制を受ける製品（例えば，毒物，危険物，医薬品，医療器具など）の包装容器については，それらに関する規則が優先する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

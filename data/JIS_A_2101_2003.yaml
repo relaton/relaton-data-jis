@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+2101%3A2003
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_02101_000_000_2003_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_02101_000_000_2003_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 2101:2003
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2020-10-26'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +84,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 建築部位及び建築構成要素の熱抵抗及び熱貫流率の計算方法について規定。ドア，窓及びその他のガラスのはまった部分，地盤への熱移動を伴う部位並びに透気を意図した部位は対象から除外する。計算方法は，関係する材料及び製品の適切な熱伝導率設計値又は熱抵抗設計値に基づいている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4175%3A2003
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04175_000_000_2003_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 4175:2003
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2003-02-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -55,6 +71,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: マルチメディア対話型文書の交換規格又はＩＳＭＩＤと呼ばれるこの規格は，異種の対話型文書開発システム間及び対話型文書配布システム間でのマルチメディア対話型文書（ＭＩＤ）の交換を，共通交換言語を生成できる体系を提供することによって，容易にする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8906%3A2000
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08906_000_000_2000_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8906:2000
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -53,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 地上用太陽電池モジュールで構成された太陽光発電システムの性能表示に用いる，入射太陽エネルギーによる太陽電池アレイ出力電力量，パワーコンディショナ出力電力量などのエネルギーに関する運転特性の測定方法及び測定データを受渡当事者間で交換する場合のデータレコードとファイルの書式について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

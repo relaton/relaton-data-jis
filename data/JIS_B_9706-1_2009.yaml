@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9706-1%3A2009
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09706_001_000_2009_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09706_001_000_2009_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 9706-1:2009
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2024-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本機械工業連合会
@@ -54,6 +72,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 機械のＨＭＩにおいて，また，危険区域内にいる人に対して，安全関連情報を伝達するための視覚的手段，聴覚的手段及び触覚的手段に対する要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

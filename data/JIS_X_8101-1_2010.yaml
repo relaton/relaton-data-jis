@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+8101-1%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_08101_001_000_2010_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 8101-1:2010
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: バイオメトリックシステムの性能を，性能の予測，性能の比較，及び規定性能要求事項遵守の検証を含む目的のために，誤り率及びスループットの観点で試験するための一般原則を確立する。；バイオメトリックシステムの性能尺度；試験方法，データの記録，及び結果の報告に関する要求事項；不適切なデータ収集又は分析手順による偏りを回避する手助けをし，フィールド性能の効率のよい最良推定を行う手助けをし，かつ，試験結果の適用範囲の限界を明確にするために，試験実施規約（ｔｅｓｔ　ｐｒｏｔｏｃｏｌ）を開発し記述するための枠組みを提供することについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

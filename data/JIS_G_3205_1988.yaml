@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本鋳鍛鋼会
       language:
       - ja
@@ -54,6 +68,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 低温で使用される圧力容器及びその部品に用いる溶接性を考慮した炭素鋼及び合金鋼鍛鋼品について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

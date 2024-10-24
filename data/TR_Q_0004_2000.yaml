@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｑ　１４０４１の規定の幾つかについて，それらを満たしてＬＣＩを実施するための事例を提供。事例は，規格の規定を満たすことができる多くの事例のごく一部である。事例は，規格を適用するための唯一の方法ではなく，幾つかあるうちの一つ又は複数の方法を示していると理解すべきである。ＬＣＩ調査全体のごく一部だけを反映したものとみなすべきである。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

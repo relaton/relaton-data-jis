@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8704%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08704_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS M 8704:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-07-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本鉄鋼連盟
@@ -49,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: この規格は，輸入鉄鉱石の検収において，受け入れた鉄鉱石のロットの質量及び品質特性値の決定方法について規定する。この方法は，天然の鉄鉱石及び処理鉄鉱石に適用する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

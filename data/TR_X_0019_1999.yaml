@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 文書オブジェクトモデル（ＤＯＭ）は，ＨＴＭＬ文書及びＸＭＬ文書のためのアプリケーションプログラムインタフェース（ＡＰＩ）とする。文書の論理構造及び文書にアクセスし操作する方法を定義。ＤＯＭ規定では，”文書”という用語を広義の意味で使用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

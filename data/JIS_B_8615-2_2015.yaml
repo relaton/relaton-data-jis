@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8615-2%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08615_002_000_2015_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8615-2:2015
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2019-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 住宅用，商業用及び工業用の一体形及び分離形のエアコンディショナ及びヒートポンプにおいて，工場で製作し，電気で駆動し，かつ，機械的な圧縮機構を使用した，ダクト接続形空冷式エアコンディショナ及びダクト接続形空気対空気ヒートポンプの能力及び効率の定格を決定するための，標準条件及び試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

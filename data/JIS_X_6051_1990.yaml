@@ -40,6 +40,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -55,6 +69,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 小型計算機システムにおいて，周辺装置を接続するために用いる入出力インタフェースの電気的，機械的特性並びに一般に利用される周辺装置に対するコマンドセットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0701%3A1989
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_00701_000_000_1989_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS F 0701:1989
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本船舶技術研究協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 船用の照明器具及び配線器具，船内通信器具，航海計器などの船用電気器具の構造材料及び部品材料に用いるプラスチックの性能及び選定基準について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

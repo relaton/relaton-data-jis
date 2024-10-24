@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+7203%3A1989
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_07203_000_000_1989_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 7203:1989
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1989-09-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本医療機器工業会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 患者に投与するガス中の酸素濃度又は患者が呼出するガス中の酸素濃度を計測する医療用濃度計について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

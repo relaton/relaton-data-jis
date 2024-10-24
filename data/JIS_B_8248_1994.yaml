@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8248%3A1994
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08248_000_000_1994_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8248:1994
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1994-10-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本高圧力技術協会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 鋼材２層以上の層成部で構成された銅を持ち，大気圧を超える内圧を保持する円筒形多層圧力容器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

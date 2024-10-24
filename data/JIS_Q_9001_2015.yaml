@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+9001%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_q_09001_000_000_2015_j_ed30_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Q 9001:2015
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 次の場合［ａ）組織が，顧客要求事項及び適用される法令・規制要求事項を満たした製品及びサービスを一貫して提供する能力をもつことを実証する必要がある場合；ｂ）組織が，品質マネジメントシステムの改善のプロセスを含むシステムの効果的な適用，並びに顧客要求事項及び適用される法令・規制要求事項への適合の保証を通して，顧客満足の向上を目指す場合］の品質マネジメントシステムに関する要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

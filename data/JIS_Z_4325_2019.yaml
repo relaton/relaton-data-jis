@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4325%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04325_000_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 4325:2019
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 原子力施設及び放射線施設の敷地内，敷地境界，周辺地域などの野外で用いられ，５０ｋｅＶ～７ＭｅＶの環境γ線の空気吸収線量率，空気カーマ率又は周辺線量当量率を連続的に監視する，据置形，可搬形又は移動形の環境γ線モニタについて規定。事故時又は緊急時の線量率の監視に関わる特別な性能は，規定しない。熱ルミネセンス線量計，光刺激ルミネセンス線量計，ガラス線量計などの受動形線量計には適用しない。β線及び中性子の監視には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

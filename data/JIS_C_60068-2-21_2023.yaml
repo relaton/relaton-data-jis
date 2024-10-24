@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-21%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_021_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 60068-2-21:2023
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2023-11-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 通常の組立中又は取扱中においてストレスにさら（曝）されやすい，電気部品及び電子部品の端子又は取付用部品（3.1参照）及び表面実装用部品の端子強度試験及び部品本体の耐久性試験方法について規定。部品の特定の端子に適用する推奨試験方法を表1に示す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -43,6 +43,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -64,6 +78,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 供給者が日本工業規格への適合を証明する場合の自己適合宣言に対する一般要求事項について規定。適合性評価を意図する製品規格のＪＩＳを対象とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

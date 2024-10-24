@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+4100%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_h_04100_000_000_2022_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_h_04100_000_000_2022_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS H 4100:2022
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2022-12-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 押出加工したアルミニウム及びアルミニウム合金の形材について規定。ＪＩＳ　Ｈ　４０４０及びＪＩＳ　Ｈ　４０８０に規定する断面形状と異なるもの全てに適用。ただし，断面形状が四角形，長方形及び六角形の場合は，角の半径が指定されている形状に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

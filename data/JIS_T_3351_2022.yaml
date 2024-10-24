@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
       language:
@@ -61,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: カテーテル又は血管への直接せん（穿）刺による血圧測定及び脳脊髄液圧を測定する圧トランスデューサと輸液セットとを組み合わせて使用する，圧力モニタリング用チューブ及びその他の構成品について規定。ただし，この規格では，圧トランスデューサ及び輸液セットについては規定しない。その用途が血圧測定及び脳脊髄液圧測定を意図したものを対象としており，それら以外の生理学的な測定に用いられるものには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

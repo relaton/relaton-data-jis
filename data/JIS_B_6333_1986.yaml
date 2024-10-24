@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6333%3A1986
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06333_000_000_1986_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06333_000_000_1986_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 6333:1986
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本工作機械工業会
@@ -54,6 +72,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: テーブルのＸ軸方向の最大移動量１５００ｍｍ以下の数値制御ひざ形立フライス盤の運転性能，剛性，機械精度及び工作精度に関する試験及び検査方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

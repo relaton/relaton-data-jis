@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1283%3A1979
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01283_000_000_1979_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01283_000_000_1979_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 1283:1979
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '1979-02-28'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電気計測器工業会
@@ -45,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 三相３線式回路及び三相４線式回路において，計器用変成器と組み合わせて使用する発信装置付電力量計及び発信装置付無効電力量計から伝送されるパルスを受信して電力量，無効電力量及び最大需要電力を表示する分離形の表示装置及びこれらの多回路総合表示装置について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

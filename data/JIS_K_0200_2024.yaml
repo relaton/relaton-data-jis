@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0200%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00200_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0200:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-05-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本分析機器工業会
@@ -49,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 研究開発用及び産業用の計測分析装置並びにソフトウェアが，次のａ）～ｃ）を実施するときに具備するべきデータフォーマットの構造部分について規定。ａ）取得した計測分析データ，計測分析過程，試料情報，前処理工程及びログの記録　ｂ）取得した計測分析データの異なるシステム間での送受信　ｃ）計測分析過程の設計及び指示に関する情報の記載
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

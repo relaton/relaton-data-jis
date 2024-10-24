@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　電子情報技術産業協会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 患者監視，診断及び治療の目的で使用する医用電気機器（機器のシステムを含む。）が，使用中に患者及び操作者の生命に直接悪影響を及ぼす緊急状態，又はこれに準じる状態になったとき，医療従事者に速やかに情報を伝えるため，機器が備えなければならない警報とその表示について規定。医用放射線機器には適用しない。個別規格の規定と相違があるときは，個別規格の規定が優先する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

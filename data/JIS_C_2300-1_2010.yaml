@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2300-1%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02300_001_000_2010_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 2300-1:2010
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 電気用セルロース紙に関する定義，種類及び一般要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

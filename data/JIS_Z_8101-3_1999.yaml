@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8101-3%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08101_003_000_1999_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08101_003_000_1999_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8101-3:1999
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '1999-09-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -61,6 +79,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 実験計画法の分野で用いられ，日本工業規格を作成する際に用いられ得る用語を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

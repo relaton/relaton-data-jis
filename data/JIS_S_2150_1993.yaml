@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2150%3A1993
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02150_000_000_1993_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02150_000_000_1993_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS S 2150:1993
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2006-05-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本ガス機器検査協会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ガス圧力が３．３ＫＰａ｛３３０ｍｍＨ２Ｏ｝以下の液化石油ガス又は都市ガスを使用する燃焼機器に用いるガス燃焼機器用手動ガスバルブで，外径３５ｍｍ以下の器具ガス指管が接続されるものについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

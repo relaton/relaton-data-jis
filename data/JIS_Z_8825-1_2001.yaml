@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8825-1%3A2001
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08825_001_000_2001_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8825-1:2001
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2001-06-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本粉体工業技術協会
@@ -46,6 +62,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 粒子を含む二相系，例えば粉体，スプレー，エアロゾル，サスペンション，乳液及び液体中の気泡などの，光散乱パターンの解析による粒子径分布を測定するための指針を提供。適用可能範囲は，一般に０．１μｍ～３ｍｍ程度までである。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

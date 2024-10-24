@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8304%3A2009
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08304_000_000_2009_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08304_000_000_2009_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8304:2009
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +83,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 周波数５０Ｈｚ又は６０Ｈｚの交流３００Ｖ以下，２０Ａ以下の電路において，周囲温度４０℃以下で使用する，主に屋内，屋側などに取り付けて電灯又は小形電気機器を負荷とする屋内用小形スイッチ類について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

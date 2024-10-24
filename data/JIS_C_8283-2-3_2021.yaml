@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8283-2-3%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08283_002_003_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8283-2-3:2021
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2021-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -60,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: "　この規格は、家庭用及びこれに類する用途で使用する主電源用の電気機器への接続を目的とした、接地極（コンタクト又はピン）付又は接地極なしの、2極の機器用カプラ（水の浸入に対してIPX1以上の保護等級をもつ機器用カプラ）の一般要求事項について規定したものである"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

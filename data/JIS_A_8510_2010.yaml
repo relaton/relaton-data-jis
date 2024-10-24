@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8510%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_08510_000_000_2010_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 8510:2010
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-10-26'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本建設機械施工協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 路面清掃機械（散水車も含む。）に対する安全要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

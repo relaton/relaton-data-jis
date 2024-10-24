@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+B+0030%3A2011
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_tr_b_00030_000_000_2011_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: TR B 0030:2011
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2011-08-01'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般社団法人　日本機械工業連合会                                                \r\n
@@ -48,6 +64,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 機械の安全機能を実現するため安全関連データ通信時に使用する閉鎖形シリアル・デジタル通信システム（いわゆる，フィールドバス）の使用方法について述べる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

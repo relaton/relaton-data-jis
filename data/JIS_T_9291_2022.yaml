@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9291%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09291_000_000_2022_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09291_000_000_2022_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 9291:2022
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2022-03-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本福祉用具・生活支援用具協会
@@ -51,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 車椅子の評価に使用する質量２５　ｋｇ以上の試験用ダミーの要求事項について規定。試験用ダミーの全体重心の位置，試験用ダミーを構成する各セグメントの質量，及びセグメント同士を接続する回転部の位置を特定する計算式についても規定。各セグメントを支持する負荷パッドの特性についても規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

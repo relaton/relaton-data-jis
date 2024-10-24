@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＸＨＴＭＬの抽象モジュール化を規定し，ＸＭＬの文書型定義（ＤＴＤ）による抽象化の実装を規定。このモジュール化は，ＸＨＴＭＬをサブセット化し拡張するための手段，つまり，今後のプラットフォームに対するＸＨＴＭＬの支援への拡張に必要な機能を提供。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

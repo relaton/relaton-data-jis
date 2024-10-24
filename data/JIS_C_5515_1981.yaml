@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5515%3A1981
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05515_000_000_1981_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05515_000_000_1981_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5515:1981
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '1981-03-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本音響学会
@@ -45,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 標準コンデンサマイクロホン及びマイクロホンの前置増幅器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

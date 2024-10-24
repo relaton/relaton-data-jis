@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5201%3A1997
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05201_000_000_1997_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 5201:1997
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '1997-07-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 外部から見た開放型システム間相互接続（ＯＳＩ）のセション層のサービスを（１）サービスの基本的な動作と事象　（２）基本的な動作と事象に関係するパラメタデータ　（３）動作と事象の関係及びそれらの順序　を抽象的な方法で規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

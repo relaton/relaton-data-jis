@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0416%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00416_000_000_2023_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00416_000_000_2023_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 0416:2023
@@ -28,6 +32,20 @@ date:
 - type: issued
   value: '2023-12-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本鉄鋼連盟
@@ -52,6 +70,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ＪＩＳ　Ｇ　０２０３に定義されている形鋼，棒鋼，線材，鋼板（鋼帯及び平鋼を含む。）及び鋼管の各鋼材又は鋼片から採取する機械試験用供試材・試験片の識別表示，採取位置及び調製について規定。注文時に合意した受渡し条件又は製品規格に規定された受渡し条件がこの規格の規定と異なる場合は，通常，注文時に合意した受渡し条件又は製品規格に規定された受渡し条件を適用する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

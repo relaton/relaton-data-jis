@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0083%3A2017
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00083_000_000_2017_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0083:2017
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　産業環境管理協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 燃料及びその他の物の燃焼，金属の製錬・加工，理化学的処理などに伴って，煙道，煙突，ダクトなどから排出されるガス中の金属のうち，粒子状物質中のカドミウム，鉛，ニッケル，マンガン，バナジウム，クロム，ベリリウム，ひ素及びセレン並びにガス状物質中のひ素及びセレンを分析する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

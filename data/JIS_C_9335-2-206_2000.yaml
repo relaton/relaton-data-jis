@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般財団法人　電気安全環境研究所"
       language:
@@ -62,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 家庭用及び類似の食器，ふとん又は靴等を乾燥する目的の電気乾燥機の安全性について規定。定格電圧は，単相２５０Ｖ，三相４８０Ｖ以下である。通常は家庭用であるが，公衆に対する危険要因となる機器，例えば，船舶，店舗などにおいて，一般の人が使用する機器は適用範囲内。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

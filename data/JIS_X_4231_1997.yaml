@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -56,6 +70,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 対話型グラフィクスシステムＰＨＩＧＳ第１部　機能記述（ＪＩＳ　Ｘ　４２２１）は，グラフィクスシステムのプログラミング言語に依存しない中核を規定。プログラミング言語への統合に関しては，ＰＨＩＧＳは対象となるプログラミング言語固有の慣例に従属し，プログラミング言語個々に存在する言語依存部に深くかかわっている。ＰＨＩＧＳのＦＯＲＴＲＡＮプログラミング言語依存部について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

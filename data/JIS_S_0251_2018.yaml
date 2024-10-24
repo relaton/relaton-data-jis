@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本衛生材料工業連合会
         \                                               \r\n                                                                                            吸水性樹脂工業会"
@@ -67,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 尿吸収製品用ポリアクリル酸系吸水性樹脂について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

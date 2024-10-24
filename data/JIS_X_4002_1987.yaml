@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　電子情報技術産業協会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 日本語ワードプロッセサ又は同等の能力をもつ情報処理機器の相互間でフレキシブルディスクカートリッジを用いて，文字及び事務用グラフを基本とする日本語文書の交換を行う場合の文書ファイルの仕様について規定。（１）文書ファイルの構成　（２）文書ファイルを構成する情報の種類及び形式　（３）使用する文字符号（図形文字，制御文字）の種類及び機能　（４）ブロックデータ部の構成　（５）ブロックデータ部を構成する情報　の各事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

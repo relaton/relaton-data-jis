@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+L+1912%3A1997
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_l_01912_000_000_1997_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS L 1912:1997
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 日本不織布協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 医療の目的で使用される不織布に関する試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

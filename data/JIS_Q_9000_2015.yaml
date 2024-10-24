@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+9000%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_q_09000_000_000_2015_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Q 9000:2015
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 組織及び人（品質マネジメントシステムの実施を通して持続的成功を求める組織；要求事項に適合する製品及びサービスを一貫して提供するための組織の能力について，信頼感を得ようとする顧客；製品及びサービスの要求事項が満たされるという信頼感を，自らのサプライチェーンにおいて得ようとする組織；品質マネジメントで用いる用語の共通理解を通して，コミュニケーションを改善しようとする組織及び利害関係者；ＪＩＳ　Ｑ　９００１の要求事項に対する適合性評価を行う組織；品質マネジメントに関する教育・訓練，評価又は助言の提供者；関連する規格の作成者）に広く適用できる，品質マネジメントの基本概念及び原則について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

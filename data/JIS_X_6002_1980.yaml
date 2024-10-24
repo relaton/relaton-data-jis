@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　電子情報技術産業協会"
       language:
@@ -66,6 +80,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ＪＩＳ　Ｘ　０２０１の英字・片仮名用７単位符号を用いる両手操作形情報処理系けん盤配列について規定。けん盤上のキーの相対的な配置に関する規格であり，キー間隔，けん盤の傾斜，キートップと間隔バーの形状，寸法のような物理的要因については対象外。キー上面の表示方法についても規定しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

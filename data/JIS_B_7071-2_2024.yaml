@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7071-2%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07071_002_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 7071-2:2024
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,15 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: |-
+    この規格は，Vブロック法を用いて，365nm～24000nmの波長範囲で，3×10－5以内の精度で光学ガラスの屈折率を決定する方法について規定する。
+    この規格の開発において，光学ガラスだけを考慮しており，ガラス以外の材料に適用することも可能であるが，他の材料の場合には考慮されていない事項があり得る。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5005%3A1990
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05005_000_000_1990_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 5005:1990
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '1990-10-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: "（ａ）開放型システム間相互接続（ＯＳＩ）環境における対象となるもの（オブジェクト）の識別を行うための名前及びその位置付けを行うためのアドレスを使用する一般的な方法。（ｂ）基本参照モデルの階層構造における名前及びアドレスの使用方法　の各事項を規定。ＪＩＳ　Ｘ　５００３で規定する概念及び原理を拡張。システムへの実装のための仕様ではなく，実装の適合性を検証するための基準でもない。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

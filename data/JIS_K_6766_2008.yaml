@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6766%3A2008
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06766_000_000_2008_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06766_000_000_2008_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 6766:2008
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +83,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 海水，腐食性のある流体，土壌，浸透液，排水などに長期間触れている部分の防食を主な目的として，海洋構造物，化学装置の機器・配管類，橋りょう（梁）及び大形槽，導水路などの土木構造物・設備において，金属面及びコンクリート面の上に被覆された樹脂ライニングの完成皮膜の湿式（電気抵抗式）及び乾式（放電式）によるピンホール試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

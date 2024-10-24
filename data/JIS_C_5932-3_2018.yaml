@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5932-3%3A2018
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05932_003_000_2018_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5932-3:2018
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 屋内環境条件で光ファイバを用いた光伝送に使用する偏光無依存形光アイソレータの定格，光アイソレータが最低限満足する光学特性，耐環境性及び耐久性，表示，包装，並びに安全について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

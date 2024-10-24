@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 財団法人　化学技術戦略推進機構
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: プラスチックに関する用語の一定の方式による記号について規定。ここでは使用が確立した記号だけを規定するが，その目的は一つのプラスチック用語に二つ以上の記号が使用されることを防止するとともに，一つの記号が二つ以上の意味で解釈されるのを防止することにある。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

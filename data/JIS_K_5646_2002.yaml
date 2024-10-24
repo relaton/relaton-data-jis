@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本塗料工業会"
       language:
@@ -57,6 +71,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: カシュー樹脂エナメル塗装の際の下塗り又は中塗りに用いるカシュー樹脂下地塗料について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

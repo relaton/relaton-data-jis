@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5401-2%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05401_002_000_2005_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5401-2:2005
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 丸形コネクタに関する統一した規格，形式試験要求事項及び品質評価手順について規定。寸法及び特性に関するすべての試験方法及び試験順序，厳しさ及び推奨値の選択肢を含む。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0601-2-25%3A2014
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00601_002_025_2014_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 0601-2-25:2014
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ２０１．３．６３（医用電気機器）の定義又はＭＥシステムの一部として診断目的でＥＣＧレポートを記録する心電計の基礎安全及び基本性能について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

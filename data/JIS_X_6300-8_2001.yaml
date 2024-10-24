@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会"
       language:
@@ -58,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: カード用セキュリティプロトコル；セキュアメッセージング拡張機能：カード内のセキュリティ機能の記述も含め，カードのセキュリティ機能及びサービスへのカードのセキュリティ機構の写像；セキュリティ支援のためのデータ要素；カードに実装されたアルゴリズムの使用方法（ただし，アルゴリズム自身の詳細の規定はしない。）；認証書の使用方法；セキュリティの関連するコマンドの事項を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

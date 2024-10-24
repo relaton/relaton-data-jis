@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9015-0%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09015_000_000_1999_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09015_000_000_1999_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 9015-0:1999
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -64,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 合否判定抜取検査に使用する用語について説明し，いろいろな抜取検査スキームや抜取検査方式について説明し，抜取検査についての実務的助言を与え，また理論的観点からある程度議論する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

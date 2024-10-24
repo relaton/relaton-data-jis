@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9654%3A2017
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09654_000_000_2017_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 9654:2017
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2021-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本食品機械工業会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 水産加工機械及びその附属装置（以下，水産加工機械という。）に限定した特定の安全・衛生設計のための要求事項であり，ＪＩＳ　Ｂ　９６５０－１，ＪＩＳ　Ｂ　９６５０－２，ＪＩＳ　Ｂ　９７００及びＪＩＳ　Ｂ　９９６０－１に規定する要求事項の拡張が必要な事項について規定。家庭，レストランなどのちゅう（厨）房で使用する水産加工機械には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

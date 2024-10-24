@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           公益社団法人　日本保安用品協会"
       language:
@@ -63,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 硫化水素の発生のおそれがあるピット，マンホール，浄化槽，暗きょ（渠），地下室などの地下構造物及びタンク，管，溝，熱交換器などの地上構造物並びに船倉の内部，付随ガスとして硫化水素を含む温泉施設などにおいて，硫化水素濃度の測定及び監視，又は警報用として使用する硫化水素計について規定。なお，使用温度範囲が－１０℃～４０℃の硫化水素計に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

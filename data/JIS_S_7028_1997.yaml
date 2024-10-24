@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+7028%3A1997
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_07028_000_000_1997_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_07028_000_000_1997_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS S 7028:1997
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本スポーツ用品工業協会
@@ -54,6 +72,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ビンディング機構の組立，調整及び検査方法に関する手順について規定。上記の手順に関係するすべての個人及び団体を対照とし，特に，スポーツ関連の小売店を対照とする。少なくとも１点以上の構成部品を使用者が所有するアルペンスキーのスキー・ビンディング・ブーツ（Ｓ－Ｂ－Ｂ）システムに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

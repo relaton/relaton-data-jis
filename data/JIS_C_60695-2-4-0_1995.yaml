@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60695-2-4-0%3A1995
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60695_002_004_000_1995_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 60695-2-4-0:1995
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '1995-03-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 炎による試験方法の指針及び一連の試験用炎を作る試験装置並びに関連する確認試験に対する要求事項を示す。特定の炎を作るために必要な追加詳細情報は，一連の規格として制定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

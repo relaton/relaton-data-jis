@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　繊維評価技術協議会
       language:
       - ja
@@ -50,6 +64,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ０歳～１３歳未満の子どもが着用することを意図した全ての衣料に附属するひもに関する手引きを示す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

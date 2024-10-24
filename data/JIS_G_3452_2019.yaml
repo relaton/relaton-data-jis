@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3452%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03452_000_000_2019_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 3452:2019
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2019-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本鉄鋼連盟
@@ -51,6 +67,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 使用圧力の比較的低い蒸気，水（上水道用を除く。），油，ガス，空気などの配管に用いる炭素鋼鋼管について規定。外径１０．５ｍｍ～５０８．０ｍｍの管に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

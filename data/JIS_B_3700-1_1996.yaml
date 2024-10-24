@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　日本情報経済社会推進協会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 製品データの表現及び交換を規定する規格群の概要を規定。製品情報の表現，並びに製品データの交換を可能とするために必要な機構及び定義を規定。この交換は，製品の設計，製造，使用，保守及び最終的な破棄を含め，製品のライフサイクルのすべてに関係する異なる計算機システム間及び環境間で行われる。適用範囲は，構成部品及び組立品を含めた製品情報の表現。－蓄積，転送，アクセス及び保管を含めた製品データの交換。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

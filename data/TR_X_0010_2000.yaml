@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 標準一般化マーク付け言語ＳＧＭＬ（ＪＩＳ　Ｘ　４１５１又はＩＳＯ　８８７９）又は拡張可能なマーク付け言語ＸＭＬ（ＴＲ　Ｘ　０００８）で記述された日本語構造化文書に対して，ＤＳＳＳＬ（ＪＩＳ　Ｘ　４１５３）を用いてフォーマット指定を行う場合に用いるＤＳＳＳＬライブラリを提供。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

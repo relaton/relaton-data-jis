@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+27017%3A2016
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_q_27017_000_000_2016_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Q 27017:2016
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-06-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 次の事項（ＪＩＳ　Ｑ　２７００２に定める関係する管理策への追加の実施の手引；クラウドサービスに特に関係する追加の管理策及びその実施の手引）を提供することによって，クラウドサービスの提供及び利用に適用できる情報セキュリティ管理策のための指針を示す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8391-1%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08391_001_000_2010_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8391-1:2010
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 各種形式のエアドライヤについて試験報告書に記載が必要な性能データ及び該当する試験方法について規定。使用圧力５０ｋＰａ～１　６００ｋＰａで運転するドライヤを対象とし，；吸着式ドライヤ；膜式ドライヤ；冷凍式ドライヤ（冷却による乾燥を含む。）のものを含む。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 写真感光材料工業会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 製版用写真フィルムのシートフィルム及びロールフィルムの公称寸法及び裁断寸法とその許容差を規定。シートフィルムの形状及び巻心寸法とロールフィルムの巻き方並びに包装の表示を規定。製版用写真フィルムとは，印刷のための製版工程で使用するハロゲン化銀タイプの黒白写真フィルムであって，写真植字用フィルム，新聞紙面電送機（ファクシミリ）用フィルム及び電子色分解機（スキャナー）用フィルムは含まない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

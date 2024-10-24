@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+7903%3A2008
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_h_07903_000_000_2008_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS H 7903:2008
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　大阪科学技術センター
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 発熱密度の大きな電子素子の冷却用ヒートシンクなどに使用するポーラス金属材料の伝熱特性（有効熱伝導率，熱抵抗及び熱コンダクタンス）を，室温から４００Ｋまでの範囲で，一方向熱流定常比較法によって試験する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

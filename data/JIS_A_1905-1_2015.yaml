@@ -19,6 +19,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1905-1%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01905_001_000_2015_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01905_001_000_2015_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 1905-1:2015
@@ -31,6 +35,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　建材試験センター
@@ -55,6 +73,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ＪＩＳ　Ａ　１９０１に規定するチャンバーを用いて建築物の室内空気中のホルムアルデヒドについて吸着、分解などをすることによって、その汚染濃度を低減する性能をもつ建築材料の濃度低減性能試験法のうち、一定ホルムアルデヒド濃度供給法による吸着速度測定方法について規定。紫外線、可視光線の存在下において分解する触媒作用をもつ材料は、適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

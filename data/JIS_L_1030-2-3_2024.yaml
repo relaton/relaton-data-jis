@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+L+1030-2-3%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_l_01030_002_003_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS L 1030-2-3:2024
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2024-04-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 繊維製品中に混用されている繊維の混用率を求める試験方法として，溶解試験について規定。この試験方法は，通常，ＪＩＳ　Ｌ　１０３０－２－２に規定する解じょ試験が適用できない繊維製品に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

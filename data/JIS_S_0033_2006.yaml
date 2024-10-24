@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+0033%3A2006
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_00033_000_000_2006_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS S 0033:2006
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "独立行政法人　製品評価技術基盤機構                                                \r\n
@@ -55,6 +71,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 一般の視覚表示物に用いられる表面色について，ＪＩＳ　Ｚ　８１０２に示された無彩色を含む基本色の領域を，明所視及び薄明視並びに若年者層及び高齢者層の各条件において，ＪＩＳ　Ｚ　８７２１に規定された三属性による色の表示方法に従って示し，これらの基本色領域に基づいて，看板，標識などの視覚表示物の設計における識別性の高い色の組合せを作成する方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

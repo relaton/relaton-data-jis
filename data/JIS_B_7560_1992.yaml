@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7560%3A1992
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07560_000_000_1992_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 7560:1992
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本計量機器工業連合会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: タンクなどに収納されている液体の体積を求めるために液位を自動測定する計器の一般的要件について規定。測定原理の異なる個々のレベル計に関する個別要件は，附属書に規定する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4556%3A2009
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04556_000_000_2009_j_ed11_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04556_000_000_2009_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 4556:2009
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2009-12-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -57,6 +75,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 周波数が５０Ｈｚ及び／又は６０Ｈｚの交流２５０Ｖ以下，又は直流２５０Ｖ以下の工業用制御回路に使用する電子カウンタの要求事項及び試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

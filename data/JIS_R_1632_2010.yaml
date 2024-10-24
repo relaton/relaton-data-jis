@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+1632%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_r_01632_000_000_2010_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS R 1632:2010
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 大気中で行うファインセラミックスの３点曲げ及び４点曲げによる定荷重曲げ破断試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+9028%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_q_09028_000_000_2021_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_q_09028_000_000_2021_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Q 9028:2021
@@ -28,6 +32,20 @@ date:
 - type: issued
   value: '2021-08-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 品質管理の主要な活動の一つである小集団改善活動の実践に関して，小集団改善活動の基本的な考え方，及び小集団改善活動を組織的に推進する場合の指針を示す。組織の規模にかかわらず適用可能である。また，製造だけでなく，開発，営業，アフターサービス，管理間接などのあらゆる種類の職場に適用可能である。さらに，製造業だけでなく，サービス業を含めた様々な業種に適用可能である。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

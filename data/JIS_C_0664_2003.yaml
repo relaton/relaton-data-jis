@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0664%3A2003
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00664_000_000_2003_j_ed11_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 0664:2003
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2003-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電気設備学会
@@ -46,6 +62,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 低圧系統内機器の絶縁協調について規定。適用する機器は，定格周波数３０ｋＨｚ以下で，交流１０００Ｖ以下，又は直流１５００Ｖ以下の定格電圧で標高２０００ｍ以下で使用する機器とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

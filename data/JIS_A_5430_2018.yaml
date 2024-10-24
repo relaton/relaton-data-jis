@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5430%3A2018
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05430_000_000_2018_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 5430:2018
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2018-10-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 石綿以外の繊維で強化成形したスレート（波板及びボード），けい酸カルシウム板及びスラグせっこう板について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

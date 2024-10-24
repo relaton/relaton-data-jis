@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+4432%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_04432_000_000_1999_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 4432:1999
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本機械工具工業会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 呼び№１－６４ＵＮＣ～４－４ＵＮＣユニファイ並目ねじ及び呼び№０－８０ＵＮＦ～１　１／２－１２ＵＮＦユニファイ細目ねじのねじ立てに用いるユニファイねじ用ハンドタップ（ユニファイねじ用マシンタップ）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

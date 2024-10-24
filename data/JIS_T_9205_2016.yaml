@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9205%3A2016
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09205_000_000_2016_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09205_000_000_2016_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 9205:2016
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本福祉用具・生活支援用具協会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 主に医療施設で使用する手動及び電動によって，背部の角度，膝部の角度，高さ及び／又はボトム全体の傾斜が無段階に調節できる（調節機能）ベッドについて規定。医療機器として使用されるベッド，小児用ベッド，特殊機能ベッド及び在宅用電動介護用ベッドは除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

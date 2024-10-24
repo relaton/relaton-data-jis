@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　日本情報経済社会推進協会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　０２０１に規定する図形文字符号及びＪＩＳ　Ｘ　０２０８に規定する漢字符号を用いて情報処理及びデータ伝送を行うシステム間で情報交換に用いる制御文字の機能及び符号化表現について規定。情報交換を行う当事者間の了解のもとにこの規格で規定する制御文字の一部分を選択し，情報交換を行ってもよい。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60364-4-44%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60364_004_044_2022_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 60364-4-44:2022
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2022-03-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -60,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 特定の様々な理由によって生じる妨害電圧及び電磁妨害の事象中での電気設備の安全に関する要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

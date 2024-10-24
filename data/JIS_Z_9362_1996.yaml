@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9362%3A1996
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09362_000_000_1996_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 9362:1996
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '1996-09-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 品質システム審査登録業務を行っている第三者機関が，その業務の遂行に関して適格であり信頼できると承認されるために遵守すべき一般要求事項を規定。この規格に含まれる要求事項は，品質システムの審査登録を行うすべての機関に対する一般要求事項として記述。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

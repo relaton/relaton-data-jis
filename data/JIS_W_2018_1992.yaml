@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+2018%3A1992
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_w_02018_000_000_1992_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS W 2018:1992
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1992-08-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本航空宇宙工業会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 航空宇宙用金属とその合金の抵抗溶接のうち，スポット溶接及びシーム溶接作業に関する要求事項について規定。グループ１：アルミニウム及びマグネシウム　グループ２：鉄，ニッケル及びコバルト　グループ３：チタン　
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

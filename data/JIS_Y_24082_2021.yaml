@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Y+24082%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_y_24082_000_000_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Y 24082:2021
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2021-11-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -60,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 卓越した顧客体験を実現するエクセレントサービスを設計するための原則及び活動について規定。営利組織，公共サービス及び非営利団体といった，サービスを提供する全ての組織に適用することが可能である。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

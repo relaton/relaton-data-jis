@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般財団法人　電気安全環境研究所"
       language:
@@ -59,6 +73,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 暖房，空気調節，及びこれに類する用途の制御装置を含めて，家庭用及びこれに類する機器又はそれに関連して使用するための水流量及び空気流量検出制御装置に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

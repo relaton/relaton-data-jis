@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5017%3A1994
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05017_000_000_1994_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5017:1994
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電子回路工業会
@@ -53,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 電子機器に用いる片面及び両面フレキシブルプリント配線板について規定。なお，ここにいうフレキシブルプリント配線板とは，銅張積層板を使用し，サブトラクティブ法によって製造されたもので，ポルエステルフィルム又はプリイミドフィルムをベースとした片面フレキシブルプリント配線板，及びポリイミドフィルムをベースとした両面フレキシブルプリント配線板を対象とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

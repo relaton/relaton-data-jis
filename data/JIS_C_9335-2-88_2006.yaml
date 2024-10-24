@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9335-2-88%3A2006
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09335_002_088_2006_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 9335-2-88:2006
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -53,6 +69,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 定格電圧が，単相機器の場合は２５０V以下，その他の機器の場合は６００V以下の，蒸発又は霧化システム，水噴射，蒸気，その他によって作動する，家庭，商業及び軽工業用途（大形の独立商業機器を含む。）において暖房，換気又は空気調和システムと併用するように意図された電気加湿器の安全性について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

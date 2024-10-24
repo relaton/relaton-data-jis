@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0115%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00115_000_000_2020_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00115_000_000_2020_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0115:2020
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2020-08-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 分光光度計又は光電光度計を用い，波長範囲として２００　ｎｍ付近～1　１００　ｎｍ付近の，物質による光の透過，吸収又は反射を測定し，定量を行う場合の通則について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

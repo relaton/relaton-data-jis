@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 公益社団法人　日本表面真空学会
       language:
       - ja
@@ -52,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 蒸気噴射真空ポンプの排気速度の測定方法について規定。対象となるポンプは，拡散ポンプ；蒸気ジェット真空ポンプ；拡散エジェクタポンプ（分子流及び層流の両方の領域で動作し，拡散ポンプ又はエジェクタポンプの特性を兼備したもの。）の３種類の油及び水銀の蒸気噴射真空ポンプとする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+2004%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_02004_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 2004:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-01-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 病院及び診療所以外で使用する家庭用電解水生成器で，単相機器の場合は，定格電圧が１００　Ｖで作動し，内部電源機器の場合は，電源電圧が安全特別低電圧（ＳＥＬＶ）で作動する次の機器（－　貯槽式電解水生成器；－　連続式電解水生成器）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

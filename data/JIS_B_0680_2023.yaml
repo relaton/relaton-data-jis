@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -60,6 +74,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 製品の幾何特性及び寸法特性の仕様を規定するための基準温度及び標準基準温度の概念を定義し，標準基準温度の値を規定。幾何特性及び寸法特性の例としては，製品のサイズ，位置，姿勢（角度を含む。），形状，表面性状などがある。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

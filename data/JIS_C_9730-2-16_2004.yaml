@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           一般財団法人　電気安全環境研究所"
       language:
@@ -59,6 +73,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 一般家庭用及び類似の用途の機器内で，装置上で，又は装置に関連して使用されるフロート式自動電気水位作動制御装置に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61000-4-14%3A2004
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61000_004_014_2004_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 61000-4-14:2004
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2004-03-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -58,6 +74,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 電磁環境における電気機器及び／又は電子機器に対するイミュニティ試験について規定。一般配電系統及び産業用構内系統に接続される機器に関するイミュニティ試験を含む，伝導現象だけを対象にしている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

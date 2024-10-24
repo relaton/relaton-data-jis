@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           塩化ビニル管・継手協会
         \                                               \r\n                                                                                            日本プラスチック工業連盟"
@@ -68,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 埋設部で無圧の一般流体輸送配管に用いるリサイクル硬質ポリ塩化ビニル三層管について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

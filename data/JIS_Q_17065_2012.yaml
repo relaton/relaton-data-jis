@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+17065%3A2012
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_q_17065_000_000_2012_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Q 17065:2012
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2022-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 製品，プロセス及びサービスの認証機関に対する能力，一貫性のある運営及び公平性に関する要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

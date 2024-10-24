@@ -42,6 +42,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -57,6 +71,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: サービス総合ディジタル網（ＩＳＤＮ）基本アクセス構成の物理的インタフェースに用いる８極コネクタ（プラグ及びジャック）並びに極及びコンタクトの配列について規定。これらの物理的インタフェースは，ＴＥ（端末装置）とＮＴ（網終端装置）との間及びＮＴ１とＮＴ２との間の参照点Ｓ及び参照点Ｔに位置するものとし，ＩＴＵ－Ｔ勧告Ｉ．４３０に適合しなければならない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

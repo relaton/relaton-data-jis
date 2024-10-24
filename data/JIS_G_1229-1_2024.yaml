@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本鉄鋼連盟
       language:
       - ja
@@ -50,6 +64,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 鋼中の鉛定量方法のうち，硫化鉛沈殿分離モリブデン酸鉛重量法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

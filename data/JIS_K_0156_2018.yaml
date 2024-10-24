@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0156%3A2018
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00156_000_000_2018_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0156:2018
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: "デルタ多層標準物質を用いた，５０ｎｍ未満の浅い領域でのシリコンのＳＩＭＳ深さ方向分布分析における深さスケールの校正方法について規定。\tスパッタリング率が定常状態に達しない表面の遷移領域には適用できない。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

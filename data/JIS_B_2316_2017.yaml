@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2316%3A2017
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02316_000_000_2017_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02316_000_000_2017_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 2316:2017
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +83,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 主として圧力配管，高圧配管，高温配管，合金鋼配管，ステンレス鋼配管及び低温配管に差込み溶接によって取り付ける鋼製の継目無管継手について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

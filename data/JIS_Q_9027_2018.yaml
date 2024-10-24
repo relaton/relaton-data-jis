@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+9027%3A2018
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_q_09027_000_000_2018_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_q_09027_000_000_2018_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Q 9027:2018
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2022-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +84,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 品質管理の主要な活動である生産及び提供のプロセス保証に関して，その基本的な考え方及び進め方についての指針。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

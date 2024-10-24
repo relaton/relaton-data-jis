@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4324%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04324_000_000_1999_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 4324:1999
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '1999-09-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ビット流及び復号器がＪＩＳ　Ｘ　４３２１，ＪＩＳ　Ｘ　４３２２，ＪＩＳ　Ｘ　４３２３に規定する要件に合致するかどうかを検証する試験方法を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

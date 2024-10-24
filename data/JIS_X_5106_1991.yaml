@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -56,6 +70,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 同期データ伝送のためのＨＤＬＣ不平衡手順クラス及びＨＤＬＣ平衡手順クラスを規定。平衡動作は，データリンクの両側において等しい制御を要求する環境での使用を想定している。動作要求は，ＨＤＬＣアーキテクチャ全体に従って定められる。手順は，ＪＩＳ　Ｘ　５１０４に規定するＨＤＬＣフレーム構成及びＪＩＳ　Ｘ　５１０５に規定する手順要素を使用する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

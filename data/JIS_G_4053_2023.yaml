@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+4053%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_04053_000_000_2023_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_04053_000_000_2023_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 4053:2023
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2023-05-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本鉄鋼連盟
@@ -51,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 熱間圧延，熱間鍛造及び熱間押出によって製造する機械構造用合金鋼鋼材について規定。同一断面形状の鋼材に適用し，通常，更に鍛造，切削などの加工及び熱処理を施して使用される。ただし，鋼管にはこの規格を適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

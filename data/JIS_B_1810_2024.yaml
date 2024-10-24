@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1810%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01810_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 1810:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-07-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,16 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: |-
+    この規格は，JIS B 1801に規定する伝動用ローラチェーン及びブシュチェーンとスプロケットとで構成するチェーン伝動の選定指針について規定する。
+    なお，チェーン伝動の選定例を附属書Aに，チェーンの伝動能力の計算式を附属書Bにそれぞれ示す。
+    また，負荷の特性，雰囲気，保管の状態など様々な条件によっては，この規格が適用できないことがあるので，その場合には，チェーンの製造業者に確認する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

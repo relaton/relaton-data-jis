@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4752-3-4%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04752_003_004_2005_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 4752-3-4:2005
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 口内方撮影用Ｘ線受像器及び口外法撮影用Ｘ銭受像器を用いるＸ線装置（例えば，歯科用パノラマＸ線装置又は頭部規格撮影用Ｘ銭装置）に関する受入試験について規定。画質及び患者線量に影響を与える撮影画像システムに用いる歯科用Ｘ線装置の構成品に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

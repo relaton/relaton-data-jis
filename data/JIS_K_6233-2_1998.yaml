@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本ゴム工業会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ゴム中の全硫黄の定量に用いる過酸化ナトリウム融解法について規定。ゴム又はゴム製品中に存在する全硫黄の定量に適用でき，充てん剤として用いられる可能性がある硫酸バリウム中の硫黄も含まれる。ＮＲ．ＣＲ．ＳＢＲ，ＩＲ，ＩＩＲ，ＥＰＤＭ，ＮＢＲ及びエボナイトにも適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

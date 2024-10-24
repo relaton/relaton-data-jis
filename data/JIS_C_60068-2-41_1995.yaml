@@ -43,6 +43,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -64,6 +78,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 発熱のない供試品及び発熱のある供試品の両者に適用する高温［急激又は緩やかな温度変化を伴う。］及び減圧を複合した試験方法について規定。試験の目的は，部品，機器又は他の製品を高温及び減圧を同時複合した状態で貯蔵したり，使用することができる能力を判定することである。複合試験は，通常，複合環境の影響が，単一の環境で供試品を試験しても現れない場合だけに適用することが望ましい。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

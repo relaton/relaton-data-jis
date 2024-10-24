@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5750-3-2%3A2008
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05750_003_002_2008_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5750-3-2:2008
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2022-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: フィールドで動作しているアイテムの信頼性，保全性，アベイラビリティ及び保全支援能力に関するデータ収集のための指針について規定。データの収集及び表記に関する実用的な視点における一般事項について規定しており，データ解析及び結果の表記に関連する事項についても規定。；保全支援の方策を提供するものではない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+L+1903%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_l_01903_000_000_2022_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_l_01903_000_000_2022_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS L 1903:2022
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2022-09-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 羽毛製品に用いられる充填材料用羽毛の試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2032%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02032_000_000_2024_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02032_000_000_2024_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 2032:2024
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 機械装置，建築設備，水処理などの一般設備用配管に用いるウェハー形ゴムシートバタフライ弁の特性について規定。ただし，その他の規格の適用を受ける船用及び水道施設用のものには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

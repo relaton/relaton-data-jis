@@ -43,6 +43,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -64,6 +78,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 校正関数（検量線）が直線であり，かつ，残差標準偏差の値と正味状態変数の値との間に特定の関係がある，というＪＩＳ　Ｚ　８４６２－２の前提条件を仮定しない場合の測定方法の検出能力の評価について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

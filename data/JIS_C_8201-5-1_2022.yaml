@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8201-5-1%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08201_005_001_2022_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8201-5-1:2022
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 開閉制御装置及び制御装置の制御，信号，インターロックなどを目的とする制御回路機器及び開閉素子について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

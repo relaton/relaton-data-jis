@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6803%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06803_000_000_2015_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 6803:2015
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本溶接協会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 溶接・切断及びそれらの類似作業に用いる圧縮ガス，溶解アセチレンガス，液化石油ガス及び炭酸ガスに用いる容器用及び配管用の一段式圧力調整器及び二段式圧力調整器，並びに，圧縮ガス及び炭酸ガスに用いる容器用及び配管用の一段式流量計付き圧力調整器及び二段式流量計付き圧力調整器について規定。サイフォン式炭酸ガス圧力容器に取り付ける圧力調整器及び流量計付き圧力調整器には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

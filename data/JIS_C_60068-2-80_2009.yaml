@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-80%3A2009
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_080_2009_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_080_2009_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 60068-2-80:2009
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2023-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -64,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 混合モード振動試験方法について規定。不規則性振動に不規則性及び／又は規則性の振動が混合した振動（例えば，航空機，宇宙船などにおける輸送又は実際の環境に起因する振動）を受ける供試品について適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

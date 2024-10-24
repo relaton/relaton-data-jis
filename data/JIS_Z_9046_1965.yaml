@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -56,6 +70,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 二つの母集団の標準偏差がわかっている場合に，一方の母集団の母平均が，他方の母集団の母平均と差があるといえるかどうか（大きいといえるかどうか，または小さいといえるかどうか，のいずれか一方）を，それぞれの母集団（またはそれらをよく代表すると思われるロット）から得た測定値に基づいて検定する方法について規定（母集団の標準偏差既知片側検定）
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

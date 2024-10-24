@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 段階スタイルシート，水準２を定義（ＣＳＳ２）。ＣＳＳ２はスタイルシート言語であり，これによって，文書作成者及び利用者が，フォント，スペーシング，聴覚キューなどのスタイルを，ＨＴＭＬ文書，ＸＭＬアプリケーションなどの構造化文書に付加することができる。文書の内容から文書の表示スタイルを分離することによって，ＣＳＳ２はウェブ作成及びサイト保守を簡便化する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

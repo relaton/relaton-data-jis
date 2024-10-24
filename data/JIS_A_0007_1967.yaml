@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+0007%3A1967
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_00007_000_000_1967_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 0007:1967
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1967-10-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本建築学会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 一般建築用鉄わく壁構成材（外壁用，内壁用，外装用，内装用，耐力用，非耐力用など）の標準となるモデュール呼び寸法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

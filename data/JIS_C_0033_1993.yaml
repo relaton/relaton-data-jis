@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　日本電子部品信頼性センター
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 製品規格（例えば，部品又は装置の規格）を作成する際に，当該当製品の適用範囲に対する適切な試験及び試験の厳しさを選択するのに必要な情報を示す。耐湿試験の目的は，結露（凝縮）の有無にかかわらず，電気製品・電子製品の電気的及び機械的特性が，高い相対湿度の気象条件に耐える能力を判定することである。また湿度試験は，ある種の腐食作用に対する供試品の耐食性を点検するのに適用してもよい。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

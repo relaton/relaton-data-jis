@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-11%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_011_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 60068-2-11:2023
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2023-08-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -59,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 塩水噴霧環境における，電気・電子製品の部品，機器及び材料の耐食性を評価するための試験方法について規定。この試験は，防食の有無にかかわらず，塩水噴霧にさらされた金属材料の比較品質が維持されることの検証を目的とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

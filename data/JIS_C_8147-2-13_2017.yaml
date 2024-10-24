@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8147-2-13%3A2017
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08147_002_013_2017_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8147-2-13:2017
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: １　０００Ｖ以下の直流又は交流（５０Ｈｚ又は６０Ｈｚ）電源で，電源周波数と異なる周波数を含む出力周波数で使用するＬＥＤモジュール用制御装置の個別要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

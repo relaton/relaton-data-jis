@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本フルードパワー工業会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 最高使用温度１２０℃，圧力２５ＭＰａ｛２５０ｋｇｆ／ｃｍ×２｝以下の油圧配管系に使用する管継手のうち，鋼管を用いる最高使用圧力２５ＭＰａ｛２５０ｋｇｆ／ｃｍ×２｝のくい込み式管継手について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8269-2-1%3A2000
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08269_002_001_2000_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8269-2-1:2000
@@ -29,6 +31,20 @@ date:
 - type: issued
   value: '2000-10-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -47,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 専門家によって使用されるヒューズは，ＪＩＳ　Ｃ　８２６９－１，ＪＩＳ　Ｃ　８２６９－２のすべての条項にも適合しなければならない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

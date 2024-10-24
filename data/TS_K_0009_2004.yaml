@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 国立研究開発法人　産業技術総合研究所
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 酵母（Ｓａｃｃｈａｒｏｍｙｃｅｓ　ｃｅｒｅｖｉｓｉａｅ）に対する，地表水，地下水，用水及び排水の増殖抑制効果を測定するための試験方法について規定。沈殿を生じない程度の物質が溶解している溶液を試験する場合にも適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

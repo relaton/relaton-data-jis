@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7154-1%3A2002
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07154_001_000_2002_j_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 7154-1:2002
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -67,6 +83,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 熱硬化性樹脂成形材料の試験片を射出成形する際に従うべき通則について規定。再現性のある成形条件の確立に使う１タイプの試験片を作る際の金型設計の詳細を示す。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

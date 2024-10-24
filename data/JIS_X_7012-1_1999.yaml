@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7012-1%3A1999
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07012_001_000_1999_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 7012-1:1999
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本情報経済社会推進協会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 一般産業界での商業取引に伴うデータ交換，行政と産業界との間の各種データ交換など，政府機関，企業などの組織間で行われる一般的なデータ交換を，電子的に行うときに用いる電子データの構文規則について，構成要素を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

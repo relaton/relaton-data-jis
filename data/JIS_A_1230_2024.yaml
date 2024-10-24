@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1230%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01230_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 1230:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-06-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: コーンを地盤内へ連続的に動的貫入させることによって，ハンマーの打撃回数Ｎｄを動的貫入抵抗として地盤の硬軟及び締まり具合を判定する方法について規定。コーンを打ち込むために，規定の質量及び落下高さをもつハンマーを使用する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4752-2-5%3A2001
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04752_002_005_2001_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 4752-2-5:2001
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2001-06-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -58,6 +74,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 画像診断システム（ディジタルラジオグラフィー装置；ＤＳＡ装置；医用Ｘ線ＣＴ装置；磁気共鳴画像診断装置；超音波画像診断装置；核医学診断装置）に使われる，画像表示装置に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

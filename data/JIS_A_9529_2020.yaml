@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+9529%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_09529_000_000_2020_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_09529_000_000_2020_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 9529:2020
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2020-02-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本建材・住宅設備産業協会
@@ -51,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: シリカ粒子など又はグラスウールを芯材とする，建築物に使用する真空断熱材（ＶＩＰ）について規定。ただし，冷凍倉庫などの特殊な温湿度環境下で使用する真空断熱材，並びに住宅及び建築物の設備機器，配管などに使用する真空断熱材は除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

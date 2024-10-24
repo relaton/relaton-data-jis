@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -60,6 +74,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 排ガス中に光（入射光）を照射したとき，ダストによって散乱した光の強度を計測することによって，主に極低濃度から中濃度領域までのダスト濃度を測定する光散乱方式のダスト濃度自動計測器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

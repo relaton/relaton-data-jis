@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9212%3A1993
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09212_000_000_1993_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 9212:1993
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2003-09-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 最大容量３．６Ｌ以下で定格消費電力２ｋＷ以下の，主に家庭用の電気がま，ジャー兼用電気がま及び最大保温容量３．６Ｌ以下で定格消費電力１００Ｗ以下の家庭用の電子ジャーについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

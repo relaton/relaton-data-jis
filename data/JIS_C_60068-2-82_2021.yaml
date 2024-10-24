@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-82%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_082_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 60068-2-82:2021
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2021-02-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 電気・電子部品及びプレス抜き又は圧縮成形された機械部品（例えば，ジャンパー線，静電気保護シールド，機械的固定，圧入ピン，その他の電子機器の組立てに用いる機械部品）に，すず（錫）又はすず合金めっきした完成段階の表面仕上げのウィスカ成長傾向の試験について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

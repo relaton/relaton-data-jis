@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -56,6 +70,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 多目的インターネットメール拡張又はＭＩＭＥと総称され，ＵＳ－ＡＳＣＩＩ以外の文字集合でのテキストのメッセージ本体；非テキストのメッセージ本体のための異なるフォーマットの拡張集合；マルチパートメッセージ本体；ＵＳ－ＡＳＣＩＩ以外の文字集合でのテキストのヘッダ情報を可能とするために，メッセージのフォーマットを再定義する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

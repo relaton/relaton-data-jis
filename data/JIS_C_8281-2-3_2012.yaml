@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8281-2-3%3A2012
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08281_002_003_2012_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8281-2-3:2012
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 家庭用及びこれに類する用途の固定電気設備用の遅延スイッチで，定格電圧が４４０Ｖ以下，かつ，定格電流が６３Ａ以下の屋内用又は屋外用のもので，手又は遠隔操作によって動作するものに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

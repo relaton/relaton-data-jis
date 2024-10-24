@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8310%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08310_000_000_2010_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 8310:2010
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 工業分野で用いる図面を作成する場合（製図）の基本的事項及び総括的な製図体系について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7609%3A2008
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07609_000_000_2008_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 7609:2008
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 質量測定の信頼性を確保するための標準として，又ははかりとともに用いる，質量の公称値が１ｍｇから５　０００ｋｇまでの分銅について，精度等級（Ｅ１級，Ｅ２級，Ｆ１級，Ｆ２級，Ｍ１級，Ｍ１－２級，Ｍ２級，Ｍ２－３級及びＭ３級）に分けて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

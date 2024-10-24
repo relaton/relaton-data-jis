@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           紙パルプ技術協会"
       language:
@@ -63,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 紙，板紙及びパルプの拡散反射率係数の測定装置，及びその校正手順について規定。拡散反射率係数の測定は，ＩＳＯ白色度（拡散及び青色反射率係数），パルプの散乱係数，不透明度，白色度（ｗｈｉｔｅｎｅｓｓ），視感反射率係数，紙の色度座標，非繊維材料の固有反射率係数のような光学特性の評価のために行う。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8123%3A2018
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08123_000_000_2018_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 8123:2018
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 圧縮空気又は機械式手段で粒状物質を吹き付け，表面処理を行う研磨ブラスト作業用の防護服及び手の防護に関する最低限の要求事項及び試験方法について規定。なお，蒸気ブラスト作業，ジェットブラスト作業，及び火炎ブラスト作業には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

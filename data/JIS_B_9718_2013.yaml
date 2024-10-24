@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9718%3A2013
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09718_000_000_2013_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 9718:2013
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本機械工業連合会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 産業用及び非産業用双方の環境において，上肢及び下肢が機械類の危険区域に到達することを防止するために，保護構造物と危険区域との間に設ける適切な全距離Ｓｒの値を定める。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

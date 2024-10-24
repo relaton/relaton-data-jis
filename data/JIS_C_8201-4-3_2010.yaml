@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8201-4-3%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08201_004_003_2010_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8201-4-3:2010
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 交流電気回路のオン（ＯＮ）状態及びオフ（ＯＦＦ）状態の変化によって電気的な動作をする非モータ負荷用交流半導体制御器及び接触器について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

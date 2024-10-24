@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本工作機械工業会
       language:
       - ja
@@ -51,6 +65,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｂ　６１９１に基づいて，普通精度のはん（汎）用立て形内面ブローチ盤の静的精度の検査方法及び検査事項に対応する許容値について規定。機械各部及び座標軸の名称についても規定。機械の精度検査だけを取り扱い，通常，精度検査の前に行う機械の運転試験（振動，異常騒音，運転部品のステックスリップなど），又は機械の特性試験（送り速度）には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

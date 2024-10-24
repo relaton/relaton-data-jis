@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+3226-2%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03226_002_000_2023_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03226_002_000_2023_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 3226-2:2023
@@ -28,6 +32,20 @@ date:
 - type: issued
   value: '2023-07-01'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 単回使用の両頭針の滅菌済み注射針であって，ＪＩＳ　Ｔ　３２２６－１に適合する注射針を使用する医療用注入システムに用いる注射針について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

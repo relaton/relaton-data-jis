@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0601-2-37%3A2018
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00601_002_037_2018_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 0601-2-37:2018
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2023-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -53,6 +69,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 201.3.217に規定する超音波診断装置（以下，ME機器ともいう。）の基礎安全及び基本性能について規定する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

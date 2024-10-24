@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3608-2%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03608_002_000_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 3608-2:2023
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2023-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: アルミニウム及びアルミニウム合金に適用する摩擦かくはん（攪拌）接合の，品質要求事項，ＦＳＷ施工要領及びその適格性確認並びに接合要員の技量適格性確認について規定。摩擦かくはん点接合には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

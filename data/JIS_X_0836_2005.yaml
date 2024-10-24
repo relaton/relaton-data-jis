@@ -42,6 +42,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -61,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ダブリンコアメタデータ基本記述要素集合（Ｄｕｂｌｉｎ　Ｃｏｒｅ　Ｍｅｔａｄａｔａ　ｅｌｅｍｅｎｔ　ｓｅｔ）は，領域横断的情報資源記述のための標準である。情報資源を識別可能なあらゆるものと定義する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: Ｗｏｒｌｄ　Ｗｉｄｅ　Ｗｅｂの出版言語であるハイパテキストマーク付け言語（ＨＴＭＬ）の版４．０を定義。ＨＴＭＬの以前の版における，テキスト，マルチメディア及びハイパリンクの各機能に加えて。ＨＴＭＬ４．０は，より多くのマルチメディアオプション，スクリプト言語，スタイルシート，一層高度な印刷機能，及び障害をもつ利用者にとって更にアクセスしやすい文書をサポートする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

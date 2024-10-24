@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 一般電力系統に（高調波及び／又は次数高調波を発生する）大きなみずみ発生負荷を接続するための要求事項を決定するための基礎として用いられるべき原則の概要を述べたもの。最大の目的はすべての需要家に適切な電力品質サービスを確かなものにする技術的方策のためのガイダンスを提供。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 顔認証システムとは，「あらかじめ登録した顔の登録データと，ユーザが登録者であることを主張して新たに入力された顔を比較し，顔が一致したか否かを判定する照合アルゴリズムされた顔を比較し，当該ユーザが登録された人物の内の誰かを判定する識別アルゴリズム，識別装置，個人識別システム」とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

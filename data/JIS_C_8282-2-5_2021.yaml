@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8282-2-5%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08282_002_005_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8282-2-5:2021
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2021-03-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 定格電圧が５０　Ｖを超え４４０　Ｖ以下，定格電流が３２　Ａ以下の接地極付き又は接地極なしで，家庭用及びこれに類する用途の屋内用又は屋外用の交流アダプタについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

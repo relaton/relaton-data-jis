@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60721-2-4%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60721_002_004_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 60721-2-4:2024
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2024-09-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -60,6 +76,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: この規格は，日射地域を幾つかのタイプに分類する。製品に適用する日射の厳しさを適切な値に選定する場合に，基礎的な情報として使用することを意図している。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

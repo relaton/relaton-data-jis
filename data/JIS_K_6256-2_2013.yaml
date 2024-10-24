@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6256-2%3A2013
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06256_002_000_2013_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06256_002_000_2013_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 6256-2:2013
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +84,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 剛板に加硫ゴム又は熱可塑性ゴムを接着した複合体を９０°方向に剥離したときの剥離強さの求め方について規定。硬さ８５ＩＲＨＤ以上の加硫ゴム又は熱可塑性ゴムには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

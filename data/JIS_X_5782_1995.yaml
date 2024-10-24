@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5782%3A1995
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05782_000_000_1995_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 5782:1995
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '1995-10-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: 試験管理機能を規定。試験管理機能は，ＪＩＳ　Ｘ　５００６で規定されたシステム管理を目的とした情報交換を行うために，集中的又は非集中的な管理環境の中の応用プロセスが使用する一つのシステム管理機能を規定。ＪＩＳ　Ｘ　５００３で規定された応用層に位置し，ＪＩＳ　Ｘ　５７２０で提供されるモデルに従って定義。システム管理機能の役割は，ＪＩＳ　Ｘ　５７６３による。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+6111%3A2012
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_06111_000_000_2012_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS E 6111:2012
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2022-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 鉄道車両を駆動するＬＩＭで，一次側が車両の車体又は台車に搭載され，二次側は軌道に固定されて磁界だけによって一次側と結合する特別な構成のＬＩＭ（短一次形リニア誘導主電動機）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61340-2-2%3A2013
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61340_002_002_2013_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 61340-2-2:2013
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 物体と他の物体との間の接触，剥離，摩擦などによって発生する静電気電荷を評価するための静電気の帯電特性の測定方法について規定。この測定方法は，着火及び爆発の可能性がある環境には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

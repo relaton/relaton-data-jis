@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本電球工業会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｃ　７６０１及びＪＩＳ　Ｃ　７６０５に規定する，蛍光ランプ及び殺菌用低圧水銀放電管の点灯に使用する，定格入力電圧が交流（５０Ｈｚ専用，６０Ｈｚ専用及び５０Ｈｚ・６０Ｈｚ共用）の１０００Ｖ以下，及び定格二次電圧が１０００Ｖ以下の抵抗形を除く安定器について規定。完成した安定器及びリアクター，トランス，コンデンサなどの構成部品についても適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

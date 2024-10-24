@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-39%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_039_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 60068-2-39:2019
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 減圧下における温度条件及び温湿度の複合条件で実施する，電気・電子部品又は装置の環境試験方法及び指針について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

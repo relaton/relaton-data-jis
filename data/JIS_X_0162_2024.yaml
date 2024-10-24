@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0162%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00162_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0162:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-08-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,21 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: |-
+    この規格は，次を規定する。
+    －　JIS X 0170及びJIS X 0160に規定されている諸プロセスのリスクマネジメントの詳細を提供する。
+    －　JIS X 0170，JIS X 0160及びそれに関連する詳細規格の利用者に対し，システム及びソフトウェアエンジニアリングプロジェクトの適用状況の中でリスクマネジメントを行うための一般的な用語及び専門的な手引を提供する。
+    －　適合性を主張するためにリスクマネジメントプロセスの実施を通じて作成することが要求される情報項目を規定する。
+    －　情報項目に要求される内容を規定する。
+    －　リスクマネジメントの適用がJIS X 0170及び／又はJIS X 0160に適合するように，リスクマネジメントアクティビティを実施するプロジェクトチーム
+    －　JIS X 0171を使用したプロジェクトで，人工的なシステム，ソフトウェア集約型のシステム，ソフトウェア及びハードウェア製品，並びに組織又はプロジェクトの適用範囲，製品，方法論，規模，複雑さにかかわらずそれらのシステム及び製品に関連するサービスを取り扱っているプロジェクトチーム
+    －　JIS X 0171に適合するためにリスクマネジメントプロセスの適用中に開発された情報項目を作成するプロジェクトチーム
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

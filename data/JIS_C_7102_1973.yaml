@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7102%3A1973
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_07102_000_000_1973_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 7102:1973
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1973-09-29'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報通信学会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 電子管に用いる用語とその意味について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

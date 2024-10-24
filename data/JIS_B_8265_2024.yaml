@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8265%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08265_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8265:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-05-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -59,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 圧力容器の構造について規定。この規格を設計圧力３０　ＭＰａ以上の圧力容器に適用する場合は，高圧への適用に対する設計上の考慮を示す必要がある。この規格は，ＪＩＳ　Ｂ　８２６７と材料の許容引張応力などが異なる。ここで，圧力容器とは，圧力を保持する容器，圧力を発生する流体を内蔵する容器，又は外圧を保持する容器をいう。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3600%3A2004
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03600_000_000_2004_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 3600:2004
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　製造科学技術センター
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: コンピュータ統合生産システム（ＣＩＭ）環境におけるプログラマブルな装置間のメッセージのやりとりを支援するために設計された応用層の規格として，製造メッセージ仕様（ＭＭＳ）のサービス定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+1327%3A1992
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_01327_000_000_1992_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_01327_000_000_1992_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 1327:1992
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '1992-06-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 日本フェロアロイ協会
@@ -45,6 +63,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: フェロボロンのほう素，炭素，けい素及びアルミニウムの定量方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

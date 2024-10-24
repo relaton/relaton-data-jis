@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　流通システム開発センター
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＰＯＳ（ｐｏｉｎｔ　ｏｆ　ｓａｌｅ）システムに使用する光学式文字認識用値礼（ＯＣＲ　（ｏｐｔｉｃａｌ　ｃｈａｒａｃｔｅｒ　ｒｅｃｏｇｎｉｔｉｏｎ）値札）の（１）　ＯＣＲ値札の種類，形状，寸法及び用紙についての基本的仕様，（２）　印字に使用するＯＣＲ文字と印字位置についての基本的仕様，（３）　使用する用紙と印字した文字の光学的特性について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

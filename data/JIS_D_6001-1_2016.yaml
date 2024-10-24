@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+6001-1%3A2016
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_06001_001_000_2016_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS D 6001-1:2016
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2021-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｄ　６２０１に定義された，カウンタバランスフォークリフト；リーチフォークリフト；ストラドルフォークリフト；パレットスタッキングトラック；プラットフォームスタッキングトラック；１　２００ｍｍまで運転者の位置が上昇するオーダピッキングトラック；サイドフォークリフト；ラテラルスタッキングトラック及び三方向スタッキングトラック；バイディレクショナルトラック及びマルチディレクショナルトラック；ラフテレインフォークリフト；バッテリ，ディーゼルエンジン，ガソリンエンジン又は液化石油ガス（ＬＰＧ）エンジンを動力源とするフォークリフト形式のフォークリフトトラックのための安全要求事項及び検証について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

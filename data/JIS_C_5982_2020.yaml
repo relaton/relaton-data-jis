@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5982%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05982_000_000_2020_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 5982:2020
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ｃ　５９６２に基づく，プッシュプル締結方式及びプラグイン締結方式，並びにガイドピンで整列されるフェルール構造を備えたプラグ－アダプタ－プラグ組合せ，プラグ－レセプタクル組合せ及びプラグ－ソケット組合せによる，一般的にＭＰＯコネクタと呼ばれるＦ１３形多心光ファイバコネクタの，光コネクタの構造，形状及び寸法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

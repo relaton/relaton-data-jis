@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6010-2%3A1998
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06010_002_000_1998_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 6010-2:1998
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -53,6 +69,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: モジュール設計の装置及び設備を用いているすべての分野の電子機器に適用。工学的適合性に関する機械的インタフェイスの寸法適合性，例えば，プラグインユニット，プリント板，構成部品，器具，備品，室内空間，建築物などの２５ｍｍ基本の機器実装による機械的構造の部門規格を定義。産業用電子機器，情報技術，測定システム，通信システムなどの電子機器に使用されるあらゆる種類のキャビネット，ラック，サブラック及びシャシの整合寸法並びにピッチを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

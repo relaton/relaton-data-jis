@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0131%3A1995
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00131_000_000_1995_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0131:1995
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ここで定義する図表及び記号がソフトウェアの機能及び遷移を表現する上で役立つとともに，利用者間の意思の伝達を改善する上でも役立つという考え方に基づいている。適用領域は，ソフトウェアの要求分析及び設計における開発作業，意思の伝達，レビューなどである。次のソフトウェアの分野で役立つ。対話型のソフトウェア－画面上での機能及び遷移の表現の記述；データ通信ソフトウェア－通信プロトコル及び通信動作の記述
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+62282-4-102%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_62282_004_102_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 62282-4-102:2021
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2021-03-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -50,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 定格出力が直流１５０　Ｖ以下の屋内及び屋外用途の，燃料容器を車両内又は燃料電池発電システム内に恒久的に固定し，燃料として気体水素又はメタノールを改質せずに使用する電気式産業車両用燃料電池発電システムの性能試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

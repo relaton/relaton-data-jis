@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0183%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00183_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 0183:2024
@@ -29,6 +31,20 @@ date:
 - type: issued
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,14 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: この規格は，原子間力顕微鏡（AFM）を用いて軟質材料表面の力－距離曲線を測定し，ジョンソン－ケンドール－ロバーツ（JKR）理論に基づく2点法を用いた解析によって軟質材料の弾性率を決定する手順について規定する。この規格は，弾性率が100
+    kPa～1 GPaの範囲の軟質材料に適用する。空間分解能は，AFM探針と表面との接触半径に依存し，通常，約10 nm～20 nmである。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

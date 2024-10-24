@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6128%3A1994
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06128_000_000_1994_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 6128:1994
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1994-03-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 電子計算機，関連周辺端末機器などの機器及びシステム間で．記録密度１８９０ｆｔｐｍｍで情報交換する磁気テープカセットの構造，寸法，物理的特性，磁気的特性及び情報記録様式について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

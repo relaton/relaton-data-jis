@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+4801%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_04801_000_000_2022_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_04801_000_000_2022_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS S 4801:2022
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2022-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -61,6 +79,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: たばこライター，葉巻ライター，パイプライターなどのように，一般的にたばこライターと呼ばれる全ての火炎発生製品を対象とし，通常使用又は合理的に予測できる誤使用に関して，合理的な安全性を明確にするための要求事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

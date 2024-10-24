@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+8120%3A1998
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_p_08120_000_000_1998_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS P 8120:1998
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 紙パルプ技術協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 紙，板紙及びパルプ試料中の繊維組成の判別及びその定量に関する試験方法について規定。試験方法は，繊維の構造又は染色性に影響を与えないようにして離解又は脱色することが困難な，含浸加工した試料又は着色処理した試料には適さない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

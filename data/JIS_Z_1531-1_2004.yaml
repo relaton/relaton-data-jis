@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1531-1%3A2004
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_01531_001_000_2004_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 1531-1:2004
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 未充てんクラフト紙袋の寸法の記述，寸法の呼称及びこれらの寸法測定方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

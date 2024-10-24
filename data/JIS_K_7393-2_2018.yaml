@@ -33,6 +33,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           日本プラスチック工業連盟
         \                                               \r\n                                                                                            一般社団法人　プラスチック循環利用協会"
@@ -67,6 +81,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: プラスチック製容器包装等廃棄物から選別・再生された成形用，押出用などのポリプロピレン（ＰＰ）及びポリエチレン（ＰＥ）の混合リサイクル材の特性を測定するために使用する試験片の作製方法及び標準試験方法を規定。また，成形前の材料及び試験前の試験片の取扱い及び状態調節条件についても規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

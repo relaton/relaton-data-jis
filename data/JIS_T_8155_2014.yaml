@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8155%3A2014
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08155_000_000_2014_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 8155:2014
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 工場・鉱山などの事業場，火災現場，船舶，大気圧を超える環境，ずい道，その他において，酸素欠乏空気，人体に有害な粉じん，ガス，蒸気などを吸入するおそれがあるときに使用する空気呼吸器について規定。潜水用のものを除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

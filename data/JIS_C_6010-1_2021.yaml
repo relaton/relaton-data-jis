@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6010-1%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06010_001_000_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 6010-1:2021
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2021-09-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 機器の機械的な構造とモジュラーオーダーとの関連性について規定。それらは，様々な用途で用いられ機械的な互換性が求められる電気及び電子機器実装のための機械的構造（実装構造）において，インターフェイス寸法の決定に適用することが可能である。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

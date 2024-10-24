@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6955%3A2017
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06955_000_000_2017_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS K 6955:2017
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "国立研究開発法人　産業技術総合研究所                                                \r\n
@@ -57,6 +73,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 閉鎖呼吸計を用いた酸素の消費量又は発生した二酸化炭素量の測定によって，プラスチック材料の土壌中での好気的究極生分解度を求める方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

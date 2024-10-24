@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8105-3%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08105_003_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8105-3:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-02-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 電源電圧が１　０００　Ｖ以下で動作する電気光源（例えば，白熱電球，蛍光ランプ，その他の放電ランプ，ＬＥＤ光源などの電子発光体）を組み込んだ照明器具の性能要求事項及び環境に関する要求事項について規定。特に規定のない限り，この規格が適用する性能特性は，指定の手順で初期エージングが完了した新規製造時の照明器具の性能特性を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

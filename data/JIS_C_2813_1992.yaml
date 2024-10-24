@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2813%3A1992
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02813_000_000_1992_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02813_000_000_1992_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 2813:1992
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2008-10-01'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電気設備学会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ６００Ｖ以下の一般屋内配線及び屋側配線において，銅電線の接続に使用する差込形電線コネクタについて規定。コネクタに適用する電線の範囲は，単線では直径１．２～３．２ｍｍ，より線及び可とうようり線では公称断面積１．２５～３８ｍｍ×２とする。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

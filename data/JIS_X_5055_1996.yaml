@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -56,6 +70,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ｎビット暗合検査値を計算するために，鍵及びｎビットブロック暗合アルゴリズムを用いる手法を規定。この手法は，データが不正に変更されているか否かを検出するためのデータ完全性機構として使用できる。データ完全性機構の強度は，鍵の長さ及び機密性，暗合アルゴリズムの特性並びに検査値の長さｍに依存する。セキュリティの体系，処理又は応用のようなセキュリティサービスに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

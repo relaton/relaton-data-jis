@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7959%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07959_000_000_2022_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 7959:2022
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2022-05-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電気計測器工業会
@@ -49,6 +65,19 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: "日本国内において取引又は証明に用いるジルコニア式酸素濃度計，溶液導電率式二酸化硫黄濃度計，磁気式酸素濃度計，紫外線式二酸化硫黄濃度計，紫外線式窒素酸化物濃度計，非分散型赤外線式二酸化硫黄濃度計，非分散型赤外線式窒素酸化物濃度計，非分散型赤外線式一酸化炭素濃度計及び化学発光式窒素酸化物濃度計について規定。各濃度計が適用可能な濃度範囲を，a)～e)，h)及びi)に示す。ただし，f)及びg)は濃度範囲を定めない。a)\tジルコニア式酸素濃度計　計ることのできる最高の濃度が5
+    vol %以上かつ25 vol %以下b)\t溶液導電率式二酸化硫黄濃度計　計ることのできる最高の濃度が50 vol ppm以上c)\t磁気式酸素濃度計　計ることのできる最高の濃度が5
+    vol %以上かつ25 vol %以下d)\t紫外線式二酸化硫黄濃度計　計ることのできる最高の濃度が50 vol ppm以上e)\t紫外線式窒素酸化物濃度計　計ることのできる最高の濃度が25
+    vol ppm以上f)\t非分散型赤外線式二酸化硫黄濃度計g)\t非分散型赤外線式窒素酸化物濃度計h)\t非分散型赤外線式一酸化炭素濃度計　最小の目量が100
+    vol ppm未満のもの及び最小の目量が100 vol ppm以上200 vol ppm未満のものであって，計ることのできる最高の濃度が5 vol %未満i)\t化学発光式窒素酸化物濃度計　計ることのできる最高の濃度が25
+    vol ppm以上注記\tこの規格では，濃度単位として，“体積分率 %”・“体積分率ppm”と“vol %”・“vol ppm”とを使い分けている。すなわち，計量法で使用されている濃度単位を引用している場合は“vol
+    %”及び“vol ppm”を使用し，計量単位でないところは“体積分率%”及び“体積分率ppm”を使用している。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本建設機械施工協会
       language:
       - ja
@@ -52,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ＪＩＳ　Ａ　８３０８に規定された，クローラローダ，ホイールローダ及びバックホウローダのローダ部分の，定格積載質量を決定するための必要条件について規定。ローダの転倒荷重の一定の計算方法と計算を実証するための試験手順も与えられる。定格積載質量は，運転条件,静的前方転倒荷重及び油圧力による持上げ質量に基づく。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

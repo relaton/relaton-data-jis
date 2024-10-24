@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4752-2-9%3A2008
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04752_002_009_2008_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 4752-2-9:2008
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2023-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 診断用Ｘ線装置の様々な構成品の作動についての不変性試験方法について規定。また，ＪＩＳ　Ｚ　４７５２－１に規定する診断用Ｘ線装置の特性を維持するための試験方法についても規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

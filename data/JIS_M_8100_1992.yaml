@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8100%3A1992
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08100_000_000_1992_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08100_000_000_1992_e_pr20_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS M 8100:1992
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 日本鉱業協会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 粉塊混合物のロットについて，その化学成分，水分，粒度，物理特性及びその他の特性の平均値を決定するため（１）試料を採取する方法　（２）試験試料を調製する方法　（３）水分測定方法　（４）粒度測定方法　の方法の一般事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

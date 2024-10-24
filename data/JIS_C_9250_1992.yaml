@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9250%3A1992
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09250_000_000_1992_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09250_000_000_1992_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 9250:1992
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2002-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 周波数が２４５０ＭＨｚ帯の電磁波によって食品の加熱を行う定格高周波出力２ｋＷ以下の電子レンジ及びそれに付加装置をもつ電子レンジについて規定。ガスその他の熱源を併用する複合形のものは，適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

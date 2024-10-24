@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9991%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09991_000_000_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 9991:2023
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2023-05-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 自動車・自動二輪車を駐車又は搬送するための搬器をもち，利用者が自ら自動車・自動二輪車を入出庫する，機械式駐車設備の本質的安全設計方策，安全防護及び付加保護方策並びに使用上の情報に対する要求事項について規定。なお，この規格の安全要求事項は，通常使用に加え，調整・試運転作業及び保守・点検作業も対象としている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

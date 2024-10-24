@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般財団法人　化学研究評価機構
       language:
       - ja
@@ -52,6 +66,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 合成樹脂製食品用器具・容器包装及びそれに使用される原材料を販売，製造又は輸入する者が，製品等の安全性情報を事業者間で伝達するための項目について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

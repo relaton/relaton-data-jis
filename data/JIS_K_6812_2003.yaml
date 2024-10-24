@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           日本プラスチック工業連盟
         \                                               \r\n                                                                                            日本ポリエチレンパイプシステム協会"
@@ -68,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ポリオレフィン管，継手及びコンパウンド内の顔料又はカーボンブラックの粒子，凝集塊の大きさ及び分散を評価する二つの方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

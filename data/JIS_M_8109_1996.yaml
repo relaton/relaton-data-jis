@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8109%3A1996
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08109_000_000_1996_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS M 8109:1996
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2020-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 日本鉱業協会
@@ -52,6 +68,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: けい苦土ニッケル鉱石のロットについて，その成分及び水分の平均値を決定するため　（１）試料を採取する方法（２）水分試験試料及び成分試験試料を調製する方法（３）水分測定方法（４）水分及び乾量を決定する方法　の４方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

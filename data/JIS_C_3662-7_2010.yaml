@@ -19,6 +19,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3662-7%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03662_007_000_2010_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03662_007_000_2010_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 3662-7:2010
@@ -31,6 +35,20 @@ date:
 - type: confirmed
   value: '2015-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電線工業会
@@ -55,6 +73,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 定格電圧４５０／７５０Ｖ以下の塩化ビニル絶縁ケーブルのうち，定格電圧３００／５００Ｖの耐油性遮へい付き又は遮へいなしの２心以上の多心可とう制御用ビニル絶縁ケーブルについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1481-3%3A2014
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01481_003_000_2014_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01481_003_000_2014_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 1481-3:2014
@@ -30,6 +34,20 @@ date:
 - type: confirmed
   value: '2018-10-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -66,6 +84,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: Ｘ線回折分析方法によって，建材製品中のアスベスト含有率（質量分率）を定量する方法について規定。アスベストが不純物として含有するおそれのある天然鉱物及びそれを原料としてできた製品ついては，適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

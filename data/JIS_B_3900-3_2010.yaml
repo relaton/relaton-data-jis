@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3900-3%3A2010
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03900_003_000_2010_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 3900-3:2010
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -67,6 +83,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 製造用ソフトウェアのケイパビリティプロファイルの作成に使用するインタフェースサービス及びプロトコルについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

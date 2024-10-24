@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本電線工業会
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 公称電圧６６ｋＶ又は７７ｋＶの地中送電線路などに使用する電力ケーブルで，導体を油浸紙で絶縁し，鉛被を施して補強し，その上に防食層，保護物などを施した構造のものであって，ケーブル内油圧が常時０．３０ＭＰａ｛３．０６ｋｇｆ／ｃｍ＊２｝以下，過渡時０．６０ＭＰａ｛６．１２ｋｇｆ／ｃｍ＊２｝以下で使用する単心又は３心の鉛被ＯＦケーブルについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

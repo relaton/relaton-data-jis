@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4411-1%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04411_001_000_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 4411-1:2023
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2023-03-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 一般人が近付くことが制限されていない区域，又は立入制限区域に設置する，定周波数の交流出力電圧を供給し，交流入出力で電圧が１　１００　Ｖ以下，かつ，エネルギー蓄積装置との接続部の電圧が直流１　５００　Ｖ以下の，低圧配電系用の無停電電源装置（UＰＳ）について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+6244%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_r_06244_000_000_2022_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS R 6244:2022
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2022-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: といしの主な寸法許容差及び振れ公差について規定。ただし，ＪＩＳ　Ｒ　６２１５に規定するゴム切断といし及びＪＩＳ　Ｒ　６２１９に規定するマグネシア研削といしには適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

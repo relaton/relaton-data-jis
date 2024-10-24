@@ -31,6 +31,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: ''
       language:
       - ja
@@ -47,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 最高１０ｋＨｚまでの周波数範囲の伝導性妨害を扱うが，電力線搬送信号システムについては最高周波数を拡張して扱う。公称周波数５０Ｈｚ又は６０Ｈｚで，公称電圧が単層２４０Ｖ又は三相４１５Ｖまでの低電圧系統に適用する数値的な両立性レベルを規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

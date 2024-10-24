@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8345%3A1995
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08345_000_000_1995_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS B 8345:1995
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　ターボ機械協会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 空気以外のガス，又は吸込状態が常温，常圧と著しく異なる空気を扱う，圧力比約１．１以上の遠心，軸流及び斜流式のガス用ブロワ及び圧縮機の性能試験を，規定ガス又は試験ガスを用いて閉回路で行う試験及び検査方法について規定。特殊な情況のもと，又はこの規格の条件を満足しにくい圧縮機の試験では，受渡当事者間で協定を行い，この規格を適宜取捨補足のうえ適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

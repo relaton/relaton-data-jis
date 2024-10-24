@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+7605%3A2001
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_07605_000_000_2001_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 7605:2001
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2001-12-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: ステンレス協会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: 一般に４ｍｍを超え，１００ｍｍ以下の厚板；４ｍｍ以下の薄板；４ｍｍ以下の帯の寸法範囲で使用される熱間圧延又は冷間圧延したニッケル及びニッケル合金の厚板，薄板及び帯に関する要求を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1210%3A1979
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01210_000_000_1979_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01210_000_000_1979_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 1210:1979
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電気計測器工業会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 交流回路に使用する電力量計及び無効電気量計並びにこれらの計器と組み合わせて使用する分離形の電力量，無効電力量及び最大需要電力表示装置における一般的な共通事項について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

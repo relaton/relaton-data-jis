@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+4203%3A2018
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_h_04203_000_000_2018_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_h_04203_000_000_2018_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS H 4203:2018
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +83,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 押出加工及び引抜加工によって製造した，断面が円形，長方形，正方形，正六角形又は正八角形のマグネシウム合金棒及びマグネシウム合金線について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

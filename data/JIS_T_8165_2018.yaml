@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8165%3A2018
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08165_000_000_2018_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08165_000_000_2018_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 8165:2018
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2018-12-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 建設現場，土木工事現場，鉱山及び採石場，電柱，鉄塔などの電気通信線路の工事現場，製造現場，製造設備，建築物，構造物などの高所において，作業者の墜落による危険を防止する業務用の墜落制止用器具及び関連附属器具について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

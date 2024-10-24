@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4751-2-54%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04751_002_054_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 4751-2-54:2021
@@ -29,6 +31,20 @@ date:
 - type: issued
   value: '2021-05-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: この個別規格は，Ｘ線撮影画像及び間接Ｘ線透視画像を得ることを意図したＭＥ機器及びＭＥシステムの基礎安全及び基本性能について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

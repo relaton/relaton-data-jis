@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8980%3A2020
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08980_000_000_2020_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08980_000_000_2020_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8980:2020
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本電機工業会
@@ -53,6 +71,14 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 次のa) 定格出力が１０　Ｗ以上で１００Ｗ未満の場合［1） 直流入出力電圧が３０　Ｖ以上７５０　Ｖ以下；２）交流出力電圧が３０　Ｖ以上６００　Ｖ以下］及びｂ）定格出力が１００　Ｗ以上で５０　ｋＷ未満の場合［１）
+    直流入出力電圧が７５０　Ｖ以下；２） 交流出力電圧が６００　Ｖ以下］に該当する太陽光発電システム用のパワーコンディショナのうち，交流定電圧出力で，かつ，出力周波数が一定の独立形ＰＣＳ，直流定電圧出力の独立形ＰＣＳ及び系統連系形ＰＣＳの性能評価並びにこれらの試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

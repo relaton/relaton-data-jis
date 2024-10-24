@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6901%3A2003
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06901_000_000_2003_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 6901:2003
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2003-06-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -57,6 +73,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: カード及びカードを用いる周辺のシステムに関する用語及びその定義について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

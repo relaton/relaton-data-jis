@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+1328%3A1982
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_01328_000_000_1982_j_pr10_i4.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_01328_000_000_1982_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 1328:1982
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2004-03-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 日本フェロアロイ協会
@@ -53,6 +71,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: フェロニオブ中のニオブ，タンタル，炭素，けい素，りん，硫黄，すず及びアルミニウムの定量方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

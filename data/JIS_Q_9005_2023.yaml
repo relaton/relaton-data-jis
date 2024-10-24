@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+9005%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_q_09005_000_000_2023_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Q 9005:2023
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2023-02-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -59,6 +75,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 組織が顧客及び社会への価値提供に焦点を当てた事業運営，事業環境の変化への的確な対応及びもつべき能力を実装したマネジメントシステムの構築・運用に焦点を当てた，持続的成功を実現するための品質マネジメントシステムについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

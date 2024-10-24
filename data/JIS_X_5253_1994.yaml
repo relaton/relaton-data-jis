@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　情報処理学会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: トークンパッシングバスアクセス方式を用いたローカルエリアネットワークにおいて，局の互換性のある相互接続を目的として，１．伝送媒体の電気的特性及び／又は光学的特性並びに物理的特性　２．使用する電気的又は光学的な信号化の方法　３．送信するフレーム形式　４．フレームを受信した局の動作　５．媒体アクセス制御副層とその上に位置する論理リンク制御副層との間の概上のインタフェースで提供されるサービスについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

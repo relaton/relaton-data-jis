@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61300-1%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61300_001_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 61300-1:2024
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2024-07-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -62,6 +78,15 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: |-
+    この規格は，JIS C 61300-2及びJIS C 61300-3の規格群で規定されている相互接続デバイス，光受動部品，メカニカルスプライス，融着接続保護装置，光ファイバマネジメントシステム及び保護ハウジングに関する基本試験及び測定手順に関する通則について規定する。
+    この規格は，必要な試験項目，各試験における要求性能，該当する場合は試験の順序及び許容性能限界を定めた関連規格とともに，用いることを推奨する。この規格と関連規格との間で規定内容が一致しない場合は，関連規格の規定内容を優先する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

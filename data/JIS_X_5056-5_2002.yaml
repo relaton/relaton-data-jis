@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5056-5%3A2002
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05056_005_000_2002_j_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 5056-5:2002
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2002-08-31'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -56,6 +72,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ゼロ知識技術を用いる三つの認証機構を規定。規定するすべての機構は片方認証である。これらの機構は，ゼロ知識の原理を用いて構成される。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

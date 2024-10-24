@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+3633-2%3A2007
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_03633_002_000_2007_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS D 3633-2:2007
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2022-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 公益社団法人　自動車技術会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 噴射ポンプ製造業者の試験仕様に従ってある噴射ポンプを試験したときに，異なる試験装置を用いた場合にも，確実に同一の結果を得るために必要な要件及び特性だけを規定。試験装置の測定装置の正確度に対する要件のほか，燃料噴射ポンプへの試験油の供給及びその制御要件並びに燃料噴射ポンプから吐出される試験油の回収についての要件を規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

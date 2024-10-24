@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4761%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04761_000_000_2005_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04761_000_000_2005_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Z 4761:2005
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -65,6 +83,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 放射線治療中に照射する治療容積の位置を決定し，治療用放射線照射野の位置と大きさを確定できるように，放射線治療用放射線ビームを幾何学的にシミュレートする診断用X線装置を用いる放射線治療シミュレータに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

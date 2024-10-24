@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3241%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_03241_000_000_2022_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_s_03241_000_000_2022_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS S 3241:2022
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2022-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -63,6 +81,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ろ材を用いて水道水中の溶存物質，濁りなどを減少させる機能をもつ水処理器具のうち，主に家庭用に使用する浄水器について規定。ただし，ろ材として逆浸透膜（逆浸透膜モジュール）を使用した浄水器，及びサーバー形浄水器は除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

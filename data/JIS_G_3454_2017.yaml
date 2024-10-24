@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3454%3A2017
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03454_000_000_2017_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03454_000_000_2017_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS G 3454:2017
@@ -27,6 +31,20 @@ date:
 - type: issued
   value: '2017-08-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本鉄鋼連盟
@@ -51,6 +69,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: ３５０℃程度以下で使用する圧力配管に用いる炭素鋼鋼管について規定。高圧配管用炭素鋼鋼管には，適用しない。この規格は，外径１０．５ｍｍ（呼び径６Ａ又は１／８Ｂ）～６６０．４ｍｍ（呼び径６５０Ａ又は２６Ｂ）の管に適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

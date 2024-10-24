@@ -19,6 +19,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0135-2%3A2004
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00135_002_000_2004_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 0135-2:2004
@@ -31,6 +33,20 @@ date:
 - type: confirmed
   value: '2020-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般財団法人　日本規格協会
@@ -63,6 +79,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: ａ）ＪＩＳ　Ｘ　０１３５－１の各規定内容に対して，機能規模測定（ＦＳＭ）手法候補の適合性評価の枠組みを確立する。　ｂ）ＦＳＭ手法候補がＪＩＳ　Ｘ　０１３５－１の要求事項を満足するかを判断するための適合性評価プロセスを規定。ｃ）適合評価プロセスの再現性並びに適合性判定及び最終結果の一貫性を保証するために，適合性評価を実行するための要求事項を規定。　ｄ）適合性評価プロセスの成果物が，客観的であり，公平であり，一貫性があり，再現性があり，完全であり及び監査可能であることを保証することを目的。　ｅ）適合性評価チームの適格性を決定するための参考指針を提供。　ｆ）ＦＳＭ手法候補の適合性評価を支援するためのチェエクリストの例を提供。　ｇ）適合性評価報告書の記載例を提供，を行う。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

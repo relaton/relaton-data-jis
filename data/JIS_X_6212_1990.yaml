@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6212%3A1990
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06212_000_000_1990_e_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 6212:1990
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '1990-11-30'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　電子情報技術産業協会
@@ -45,6 +61,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: ＪＩＳ　Ｘ　６２１１に規定する１３０ｍｍフレキシブルディスクカートリッジに記録密度７９５８磁束反転／ｒａｄ，トラック密度１．９トラック／ｍｍ及び３．８トラック／ｍｍで情報を記録する際の，トラックフォーマットについて規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

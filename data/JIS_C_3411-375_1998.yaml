@@ -30,6 +30,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本電線工業会
       language:
       - ja
@@ -46,6 +60,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: その適正な機能が船舶の安全に必要と判断できる電話設備を含むあらゆる種類の計装及び通信設備の相互接続に用いる船用一般計装，制御及び通信用ケーブルについて適用。ケーブルは，交流又は直流６０Ｖ以下の系統に用いるものであるが，交流又は直流２５０Ｖまでにおける故障条件下でも確実に作動する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

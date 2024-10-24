@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+L+0213%3A1983
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_l_00213_000_000_1983_j_pr10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS L 0213:1983
@@ -29,6 +31,20 @@ date:
 - type: confirmed
   value: '2023-10-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　繊維評価技術協議会
@@ -51,6 +67,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 繊維用語のうち繊維雑品部門として用いる用語について規定。繊維雑品とは，最終製品及びその副資材として用いられる細幅織物，ひも類，ふさ，モールなどの繊維製品をいう。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

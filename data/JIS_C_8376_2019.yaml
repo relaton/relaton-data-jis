@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8376%3A2019
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08376_000_000_2019_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8376:2019
@@ -30,6 +32,20 @@ date:
 - type: confirmed
   value: '2024-10-21'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +80,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 定格１次電圧が１００Ｖ以上３００Ｖ以下，定格周波数が５０Ｈｚ又は６０Ｈｚの交流の電路に用いる定格容量が５００ＶＡ以下の次の小形単相変圧器［ベル用変圧器；表示器用変圧器；リモートコントロールリレー用変圧器］の安全性について規定。電気工事を必要としない差込プラグによって電源に接続する変圧器，及び機械器具に組み込む変圧器は除く。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

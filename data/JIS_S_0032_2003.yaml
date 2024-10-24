@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: "独立行政法人　製品評価技術基盤機構                                                \r\n
         \                                                                                           国立研究開発法人　産業技術総合研究所"
       language:
@@ -56,6 +70,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 若年者から高齢者までの任意の年齢の観測対象者（対象者）が，様々な環境下で平仮名，片仮名，アラビア数字，及び漢字の日本語文字の１文字を読むことのできる最小の文字サイズの推定方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

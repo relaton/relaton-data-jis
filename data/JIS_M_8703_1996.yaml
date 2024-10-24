@@ -29,6 +29,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本鉄鋼連盟
       language:
       - ja
@@ -45,6 +59,13 @@ contributor:
       - Jpan
   role:
   - type: publisher
+abstract:
+- content: コンサインメントの品質特性を決定するため，ＪＩＳ　Ｍ　８７０１又はＪＩＳ　Ｍ　８７０２によって鉄鉱石の１コンサインメントから採取した試料の，手動による試料調製のための，（ａ）基礎理論（ｂ）基本原則（ｃ）機器及び操作の基本的な必要事項　の項目について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

@@ -32,6 +32,20 @@ date:
 contributor:
 - organization:
     name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
     - content: 一般社団法人　日本電線工業会
       language:
       - ja
@@ -52,6 +66,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 電気試験方法で関連ケーブル規格に試験方法で規定されていない場合の電線，コード及びケーブルの試験方法の指針。電気試験は，シースのない電線，コード及びケーブル，４５０／７５０Ｖ以下のシースのあるコード及びケーブルコード及びケーブルの完成品から取り出した線心が適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

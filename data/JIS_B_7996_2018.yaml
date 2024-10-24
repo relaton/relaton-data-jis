@@ -41,6 +41,20 @@ contributor:
       script:
       - Latn
   role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
   - type: author
 - organization:
     name:
@@ -62,6 +76,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 工場及び事業所で使用する燃料その他からの燃焼に伴って排出される排ガス中のダスト濃度を，光散乱方式，光透過方式又は摩擦静電気検出方式によって，長期間かつ連続的に測定する自動計測器の性能評価方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

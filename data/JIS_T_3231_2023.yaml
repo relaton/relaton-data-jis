@@ -18,6 +18,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+3231%3A2023
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03231_000_000_2023_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03231_000_000_2023_e_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 3231:2023
@@ -28,6 +32,20 @@ date:
 - type: issued
   value: '2023-06-01'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -64,6 +82,13 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: 心肺バイパス外科手術中に，滅菌済みで単回使用の貯血槽として使用する体外循環ハードシェル心内血／静脈血リザーバシステム及びソフトバッグ静脈血リザーバについて規定。なお，ガス交換器，血液フィルタ，除泡器，血液ポンプなどの構成品をもつ多機能システムにおける貯血槽だけに適用。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

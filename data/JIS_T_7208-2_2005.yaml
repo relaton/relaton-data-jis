@@ -17,6 +17,10 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+7208-2%3A2005
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_07208_002_000_2005_j_ed10_ch.pdf
+  type: pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_07208_002_000_2005_e_ed10_i4.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS T 7208-2:2005
@@ -29,6 +33,20 @@ date:
 - type: confirmed
   value: '2024-10-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -67,6 +85,14 @@ language:
 script:
 - Jpan
 - Latn
+abstract:
+- content: "この規格は，口いん（咽）頭の吸引に用いる手動式医療用吸引器の安全及び性能に関する要求事項について規定する。この規格は，手，足，又は両方で作動させる機器（図
+    1を参照。）及び電気機器と一体化が可能な非電動式吸引器についても適用する。ただし，この規格は，電動式吸引器及び吸引源又は圧力源を動力とする吸引器並びに次のものには適用しない。［a)\t乗り物又は建造物の医療ガス配管設備（吸引／圧縮空気）及び壁コネクタb)\tカテーテルチューブ，ドレイン，キューレット及び吸引チップc)\tシリンジd)\t歯科用吸引器e)\t余剰ガス排除システムf)\t研究室(検査室)で使用される吸引器g)\t自己血輸血システムh)\t受動的排尿システムi)\t創部ドレナージ用閉鎖システムj)\t落差式胃液ドレナージk)\t口くう（腔）用粘液排除システムl)\t吸引容器が吸引ポンプの下流にある吸引器m)\t恒久的気管切開用吸引ユニットである旨表示した吸引器n)\tベンチュリ（産科用）吸引器o)\t新生児粘液排除システムp)\t採乳ポンプq)\t脂肪吸引r)\t子宮吸引s)\t胸くう（腔）ドレナージ］"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

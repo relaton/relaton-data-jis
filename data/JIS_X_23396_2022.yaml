@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+23396%3A2022
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_23396_000_000_2022_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS X 23396:2022
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2022-08-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: レビュー作業を支援するツールの能力について規定。レビューツールの評価及び選定は，一般的な評価選定プロセス及び評価特性を定義するＩＳＯ／ＩＥＣ２０７４１に従って実行する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

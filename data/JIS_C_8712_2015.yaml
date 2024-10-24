@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8712%3A2015
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08712_000_000_2015_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS C 8712:2015
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2015-06-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -58,6 +74,13 @@ contributor:
       - Latn
   role:
   - type: publisher
+abstract:
+- content: ポータブル機器用に使用する（ボタン形以外の）ニッケル・カドミウム蓄電池，ニッケル・水素蓄電池及びリチウム二次電池の単電池及び組電池の，通常使用時及び予見可能な誤使用時における安全な作動の要求事項及び試験方法について規定。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn

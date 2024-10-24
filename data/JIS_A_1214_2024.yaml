@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1214%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01214_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS A 1214:2024
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2024-06-25'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: 原位置の土の密度を砂置換法によって求める試験方法について規定。なお，この規格で規定する試験器具及び方法を用いて試験を行うことができる範囲は，原位置にて掘り取った土で確認された粒径の最大値が５３　ｍｍ以下の土に限る。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

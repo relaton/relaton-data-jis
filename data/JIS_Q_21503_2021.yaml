@@ -17,6 +17,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+21503%3A2021
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_q_21503_000_000_2021_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS Q 21503:2021
@@ -27,6 +29,20 @@ date:
 - type: issued
   value: '2021-01-20'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
@@ -61,6 +77,13 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: プログラムマネジメントに関する手引を示す。この規格は，公共又は民間，及び様々な規模又は分野を含む，あらゆる種類の組織，及び複雑さの観点からの多様なプログラムに適用可能である。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid

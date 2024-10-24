@@ -18,6 +18,8 @@ title:
 link:
 - content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8216%3A2024
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08216_000_000_2024_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
 - id: JIS M 8216:2024
@@ -28,6 +30,20 @@ date:
 - type: issued
   value: '2024-07-22'
 contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
 - organization:
     name:
     - content: 一般社団法人　日本鉄鋼連盟
@@ -50,6 +66,15 @@ language:
 - ja
 script:
 - Jpan
+abstract:
+- content: |-
+    この規格は，鉄鉱石中のりん定量方法について規定する。
+    この方法は，りん含有率（質量分率）0.002 %以上2 %以下の定量に適用する。なお，本体の方法は，りん含有率（質量分率）0.002 %以上1.0 %以下の定量に，附属書Aの方法は，りん含有率（質量分率）0.003 %以上2 %以下の定量に適用する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
 docstatus:
   stage:
     value: valid
