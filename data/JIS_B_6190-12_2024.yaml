@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.9
+id: JISB6190-12-2024
+title:
+- content: 工作機械試験方法通則－第12部：工作精度試験
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Test code for machine tools-Part 12: Accuracy of finished test pieces'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6190-12%3A2024
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06190_012_000_2024_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 6190-12:2024
+  type: JIS
+  primary: true
+docnumber: B6190
+date:
+- type: issued
+  value: '2024-11-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: |-
+    この規格は，高精度な工作物を加工するための工作精度試験方法，並びに直進軸及び回転軸の準静的な幾何誤差の影響及び同時制御される複数の軸の同期誤差の影響を評価するための工作精度試験方法について規定する。準静的な幾何誤差は，工作物の幾何誤差の主な原因となるが，動的な輪郭誤差など他の原因も大きく影響する場合がある。
+    この規格は，個々の工作機械に適用可能な工作物形状の例，加工誤差となり得る主な原因，測定すべき幾何特性及び測定器について記載する。各工作精度試験における加工誤差となる可能性のある原因を明らかにすることによって，工作機械の製造業者又は使用者が特定の加工用途における工作機械の性能評価のための適切な工作精度試験の選択指針を提供する。
+    単一の加工形体の幾何誤差を評価する工作精度試験を箇条5に記載し，複数の加工形体の幾何学的関係を評価する工作精度試験を箇条6に記載する。箇条7は，その他の目的のための工作精度試験，すなわち，短期工程能力を評価するための工作精度試験（7.2）及び熱影響評価のための工作精度試験（7.3）について記載する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本工作機械工業会"
+ics:
+- code: 25.080.01
+  text: Machine tools in general
+structuredidentifier:
+  project_number: B6190
+  type: JIS
+ext:
+  schema-version: v0.0.1

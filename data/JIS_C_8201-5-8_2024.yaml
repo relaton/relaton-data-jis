@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.9
+id: JISC8201-5-8-2024
+title:
+- content: 低圧開閉装置及び制御装置－第5-8部：制御回路機器及び開閉素子－3ポジションイネーブルスイッチ
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Low-voltage switchgear and controlgear-Part 5-8: Control circuit devices
+    and switching elements-Three-position enabling switches'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8201-5-8%3A2024
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08201_005_008_2024_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 8201-5-8:2024
+  type: JIS
+  primary: true
+docnumber: C8201
+date:
+- type: issued
+  value: '2024-11-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: "この規格は，3ポジションイネーブルスイッチ（以下，単に“スイッチ”という場合もある。）について規定する。\nこのスイッチは，次の信号を与えるイネーブル機器の部品として使用するものを対象としている。\na)\t操作をしてポジション2（図1参照）を保持している間は，機械の運転が別の起動制御によって可能となる。\nb)\t操作をしていないポジション1（図1参照），又はポジション3（図1参照）に操作したときは，次の制御となる。\n－\t停止指令が発信される。\n－\t機械の起動が不可能である。\n注記1\tイネーブル制御機能については，JIS
+    B 9960-1の9.2.3.9（イネーブル制御）に規定しているが，3ポジションイネーブルスイッチの適用は，JIS B 9960-1に規定されているイネーブル機器の部品に限定されていない。\n注記2\tこの規格では，イネーブル装置については適用対象としていない。\nこのスイッチは，定格電圧が交流250
+    V（50 Hz／60 Hz）以下又は直流300 V以下の回路に接続することを意図している。\n例\t3ポジションイネーブルスイッチを組み込んだ機器（附属書A参照）\n－\t押しボタン式のイネーブル機器\n－\tグリップ式のイネーブル機器\n－\t足踏み式のイネーブル機器\nこの規格は，次には適用しない。\n－\t例えば，水圧式，空圧式のような非電気的制御回路用の3ポジションイネーブルスイッチ\n－\t機械的な3ポジション構造をもたないイネーブルスイッチ\n－\t非常停止機器（JIS
+    C 8201-5-5参照）"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電気制御機器工業会"
+ics:
+- code: 29.130.20
+  text: Low voltage switchgear and controlgear
+structuredidentifier:
+  project_number: C8201
+  type: JIS
+ext:
+  schema-version: v0.0.1

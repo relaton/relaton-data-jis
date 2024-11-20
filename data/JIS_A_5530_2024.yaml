@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.9
+id: JISA5530-2024
+title:
+- content: 鋼管矢板
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Steel pipe sheet piles
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5530%3A2024
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05530_000_000_2024_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS A 5530:2024
+  type: JIS
+  primary: true
+docnumber: A5530
+date:
+- type: issued
+  value: '2024-11-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: "この規格は，土留め，締切り（水の浸入を防ぐことを目的とした囲い壁），構造物の基礎などに使用する鋼管矢板1)（鋼管本体に継手を取り付けたもの。以下，鋼管矢板という。）について規定する。\n注記\tこの規格は，通常，鋼管本体の外径500
+    mm～2?000 mmの鋼管矢板に適用されている（12.3参照）。\n注1)\t鋼管矢板は，使用条件又は本体構成によっては一部に継手が付かないものもある。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄鋼連盟
+ics:
+- code: 77.140.75
+  text: Steel pipes and tubes for specific use
+- code: '93.020'
+  text: Earthworks. Excavations. Foundation construction. Underground works
+- code: '93.140'
+  text: Construction of waterways, ports and dykes
+structuredidentifier:
+  project_number: A5530
+  type: JIS
+ext:
+  schema-version: v0.0.1

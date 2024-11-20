@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.9
+id: JISG3475-2024
+title:
+- content: 建築構造用炭素鋼鋼管
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Carbon steel tubes for building structure
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3475%3A2024
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03475_000_000_2024_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS G 3475:2024
+  type: JIS
+  primary: true
+docnumber: G3475
+date:
+- type: issued
+  value: '2024-11-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: "この規格は，主に建築構造物に用いる炭素鋼鋼管（以下，管という。）について規定する。\n注記1\t構造物の基礎ぐいには，JIS A 5525[1]がある。\n注記2\tこの規格は，通常，外径114.3
+    mm～1?000.0 mmの管に適用されている（9.1参照）。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄鋼連盟
+ics:
+- code: 77.140.75
+  text: Steel pipes and tubes for specific use
+- code: 91.080.13
+  text: Steel structures
+structuredidentifier:
+  project_number: G3475
+  type: JIS
+ext:
+  schema-version: v0.0.1

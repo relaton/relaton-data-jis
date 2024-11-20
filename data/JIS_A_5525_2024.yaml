@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.9
+id: JISA5525-2024
+title:
+- content: 鋼管ぐい
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Steel pipe piles
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5525%3A2024
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05525_000_000_2024_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS A 5525:2024
+  type: JIS
+  primary: true
+docnumber: A5525
+date:
+- type: issued
+  value: '2024-11-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本鉄鋼連盟
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: "この規格は，土木・建築などの構造物の基礎（地すべり抑止用のくいを含む。）に使用する溶接鋼管ぐい（以下，くいという。）について規定する。\nなお，本体に規定する項目のほかに，注文者があらかじめ製造業者との協定によって指定することができる突起付き素管の品質規定を附属書Aに示す。\n注記1\t地すべり抑止用の鋼管には，この規格のほかJIS
+    G 3444[1]及びJIS G 5201[2]が用いられている。\n注記2\tこの規格は，通常，外径318.5 mm～2?000 mmのくいに適用されている（11.2参照）。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: 一般社団法人　日本鉄鋼連盟
+ics:
+- code: 77.140.75
+  text: Steel pipes and tubes for specific use
+- code: 91.080.13
+  text: Steel structures
+- code: '93.020'
+  text: Earthworks. Excavations. Foundation construction. Underground works
+structuredidentifier:
+  project_number: A5525
+  type: JIS
+ext:
+  schema-version: v0.0.1

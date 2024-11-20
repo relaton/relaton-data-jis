@@ -1,0 +1,104 @@
+---
+schema-version: v1.2.9
+id: JISX0134-4-2024
+title:
+- content: システム及びソフトウェア技術－システム及びソフトウェアアシュアランス－第４部：ライフサイクルにおけるアシュアランス
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Systems and software engineering - Systems and software assurance - Part
+    4: Assurance in the life cycle'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0134-4%3A2024
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00134_004_000_2024_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS X 0134-4:2024
+  type: JIS
+  primary: true
+docnumber: X0134
+date:
+- type: issued
+  value: '2024-11-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: この規格は，選択された対象システムに関する主張のアシュアランスを，その主張を達成し，その達成を示すことによって行う際の手引及び推奨事項を提供する。手引及び推奨事項は，JIS
+    X 0170（ISO/IEC/IEEE 15288）に基づくシステムアシュアランスプロセスビュー，及び，JIS X 0160（ISO/IEC/IEEE 12207）に基づくソフトウェアアシュアランスプロセスビューの規定の中に与えられる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+doctype:
+  type: japanese-industrial-standard
+editorialgroup:
+  technical_committee:
+  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+ics:
+- code: '35.080'
+  text: Software
+structuredidentifier:
+  project_number: X0134
+  type: JIS
+ext:
+  schema-version: v0.0.1
