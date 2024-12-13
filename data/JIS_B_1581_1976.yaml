@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本粉末冶金工業会
-ics:
-- code: '21.100'
-  text: Bearings
-structuredidentifier:
-  project_number: B1581
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本粉末冶金工業会
+  ics:
+  - code: '21.100'
+    text: Bearings
+  structuredidentifier:
+    project_number: B1581
+    type: JIS

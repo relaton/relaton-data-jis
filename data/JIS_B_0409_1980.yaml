@@ -70,16 +70,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本ダイカスト協会
-ics:
-- code: 17.040.10
-  text: Limits and fits
-structuredidentifier:
-  project_number: B0409
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本ダイカスト協会
+  ics:
+  - code: 17.040.10
+    text: Limits and fits
+  structuredidentifier:
+    project_number: B0409
+    type: JIS

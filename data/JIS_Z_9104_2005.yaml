@@ -89,16 +89,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　日本保安用品協会"
-ics:
-- code: '13.100'
-  text: Occupational safety. Industrial hygiene
-structuredidentifier:
-  project_number: Z9104
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　日本保安用品協会"
+  ics:
+  - code: '13.100'
+    text: Occupational safety. Industrial hygiene
+  structuredidentifier:
+    project_number: Z9104
+    type: JIS

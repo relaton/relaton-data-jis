@@ -79,16 +79,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "全日本わた寝装品製造協同組合                                                \r\n                                                                                            日本ふとん製造協同組合"
-ics:
-- code: 59.080.30
-  text: Textile fabrics
-structuredidentifier:
-  project_number: L1097
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "全日本わた寝装品製造協同組合                                                \r\n                                                                                            日本ふとん製造協同組合"
+  ics:
+  - code: 59.080.30
+    text: Textile fabrics
+  structuredidentifier:
+    project_number: L1097
+    type: JIS

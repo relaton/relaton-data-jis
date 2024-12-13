@@ -94,18 +94,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            特定非営利活動法人　日本オゾン協会"
-ics:
-- code: 13.060.25
-  text: Water for industrial use
-- code: 13.060.30
-  text: Sewage water
-structuredidentifier:
-  project_number: B9946
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            特定非営利活動法人　日本オゾン協会"
+  ics:
+  - code: 13.060.25
+    text: Water for industrial use
+  - code: 13.060.30
+    text: Sewage water
+  structuredidentifier:
+    project_number: B9946
+    type: JIS

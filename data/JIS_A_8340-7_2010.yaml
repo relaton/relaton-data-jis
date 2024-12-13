@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本建設機械施工協会
-ics:
-- code: '13.100'
-  text: Occupational safety. Industrial hygiene
-- code: '53.100'
-  text: Earth-moving machinery
-structuredidentifier:
-  project_number: A8340
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本建設機械施工協会
+  ics:
+  - code: '13.100'
+    text: Occupational safety. Industrial hygiene
+  - code: '53.100'
+    text: Earth-moving machinery
+  structuredidentifier:
+    project_number: A8340
+    type: JIS

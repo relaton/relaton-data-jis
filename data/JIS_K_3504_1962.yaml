@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　日本油化学会
-ics:
-- code: 67.200.10
-  text: Animal and vegetable fats and oils
-- code: '75.080'
-  text: Petroleum products in general
-structuredidentifier:
-  project_number: K3504
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　日本油化学会
+  ics:
+  - code: 67.200.10
+    text: Animal and vegetable fats and oils
+  - code: '75.080'
+    text: Petroleum products in general
+  structuredidentifier:
+    project_number: K3504
+    type: JIS

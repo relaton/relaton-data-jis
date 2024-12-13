@@ -69,18 +69,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　日本セラミックス協会
-ics:
-- code: '73.080'
-  text: Non-metalliferous minerals
-- code: 81.060.10
-  text: Raw materials
-structuredidentifier:
-  project_number: M8852
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　日本セラミックス協会
+  ics:
+  - code: '73.080'
+    text: Non-metalliferous minerals
+  - code: 81.060.10
+    text: Raw materials
+  structuredidentifier:
+    project_number: M8852
+    type: JIS

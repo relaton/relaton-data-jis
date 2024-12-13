@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　日本分析化学会"
-ics:
-- code: 01.040.71
-  text: Chemical technology (Vocabularies)
-- code: 71.040.01
-  text: Analytical chemistry in general
-structuredidentifier:
-  project_number: K0212
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　日本分析化学会"
+  ics:
+  - code: 01.040.71
+    text: Chemical technology (Vocabularies)
+  - code: 71.040.01
+    text: Analytical chemistry in general
+  structuredidentifier:
+    project_number: K0212
+    type: JIS

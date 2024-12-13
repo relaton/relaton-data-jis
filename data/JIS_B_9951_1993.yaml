@@ -75,16 +75,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　化学工学会
-ics:
-- code: 71.100.20
-  text: Gases for industrial application
-structuredidentifier:
-  project_number: B9951
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　化学工学会
+  ics:
+  - code: 71.100.20
+    text: Gases for industrial application
+  structuredidentifier:
+    project_number: B9951
+    type: JIS

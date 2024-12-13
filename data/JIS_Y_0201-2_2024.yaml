@@ -75,16 +75,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益財団法人　共用品推進機構
-ics:
-- code: 03.080.99
-  text: Other services
-structuredidentifier:
-  project_number: Y0201
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益財団法人　共用品推進機構
+  ics:
+  - code: 03.080.99
+    text: Other services
+  structuredidentifier:
+    project_number: Y0201
+    type: JIS

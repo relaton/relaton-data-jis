@@ -70,16 +70,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: トイレットペーパーＪＩＳ普及会
-ics:
-- code: '85.080'
-  text: Paper products
-structuredidentifier:
-  project_number: P4501
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: トイレットペーパーＪＩＳ普及会
+  ics:
+  - code: '85.080'
+    text: Paper products
+  structuredidentifier:
+    project_number: P4501
+    type: JIS

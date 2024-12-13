@@ -88,18 +88,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本理学療法機器工業会"
-ics:
-- code: 11.040.60
-  text: Therapy equipment
-- code: '97.170'
-  text: Body care equipment
-structuredidentifier:
-  project_number: T0601
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本理学療法機器工業会"
+  ics:
+  - code: 11.040.60
+    text: Therapy equipment
+  - code: '97.170'
+    text: Body care equipment
+  structuredidentifier:
+    project_number: T0601
+    type: JIS

@@ -70,18 +70,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 91.080.30
-  text: Masonry
-- code: 91.100.30
-  text: Concrete and concrete products
-structuredidentifier:
-  project_number: A0011
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 91.080.30
+    text: Masonry
+  - code: 91.100.30
+    text: Concrete and concrete products
+  structuredidentifier:
+    project_number: A0011
+    type: JIS

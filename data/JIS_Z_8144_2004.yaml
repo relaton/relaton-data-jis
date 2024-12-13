@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本官能評価学会"
-ics:
-- code: 01.040.67
-  text: Food technology (Vocabularies)
-- code: '67.240'
-  text: Sensory analysis
-structuredidentifier:
-  project_number: Z8144
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本官能評価学会"
+  ics:
+  - code: 01.040.67
+    text: Food technology (Vocabularies)
+  - code: '67.240'
+    text: Sensory analysis
+  structuredidentifier:
+    project_number: Z8144
+    type: JIS

@@ -84,18 +84,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　自動車技術会"
-ics:
-- code: 03.220.20
-  text: Road transport
-- code: 35.240.60
-  text: IT applications in transport
-structuredidentifier:
-  project_number: D0804
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　自動車技術会"
+  ics:
+  - code: 03.220.20
+    text: Road transport
+  - code: 35.240.60
+    text: IT applications in transport
+  structuredidentifier:
+    project_number: D0804
+    type: JIS

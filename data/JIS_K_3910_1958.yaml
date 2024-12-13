@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '75.140'
-  text: Waxes, bituminous materials and other petroleum products
-structuredidentifier:
-  project_number: K3910
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '75.140'
+    text: Waxes, bituminous materials and other petroleum products
+  structuredidentifier:
+    project_number: K3910
+    type: JIS

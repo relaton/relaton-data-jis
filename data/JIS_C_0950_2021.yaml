@@ -80,18 +80,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　電子情報技術産業協会
-ics:
-- code: '29.020'
-  text: Electrical engineering in general
-- code: '71.040'
-  text: Analytical chemistry
-structuredidentifier:
-  project_number: C0950
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　電子情報技術産業協会
+  ics:
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: '71.040'
+    text: Analytical chemistry
+  structuredidentifier:
+    project_number: C0950
+    type: JIS

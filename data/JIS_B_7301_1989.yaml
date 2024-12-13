@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　気象測器工業会
-ics:
-- code: 39.040.20
-  text: Clocks
-structuredidentifier:
-  project_number: B7301
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　気象測器工業会
+  ics:
+  - code: 39.040.20
+    text: Clocks
+  structuredidentifier:
+    project_number: B7301
+    type: JIS

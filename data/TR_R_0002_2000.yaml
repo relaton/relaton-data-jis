@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 91.100.10
-  text: Cement. Gypsum. Lime. Mortar
-structuredidentifier:
-  project_number: R0002
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 91.100.10
+    text: Cement. Gypsum. Lime. Mortar
+  structuredidentifier:
+    project_number: R0002
+    type: JIS

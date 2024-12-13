@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 標準物質協議会
-ics:
-- code: 71.060.10
-  text: Chemical elements
-structuredidentifier:
-  project_number: K0512
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 標準物質協議会
+  ics:
+  - code: 71.060.10
+    text: Chemical elements
+  structuredidentifier:
+    project_number: K0512
+    type: JIS

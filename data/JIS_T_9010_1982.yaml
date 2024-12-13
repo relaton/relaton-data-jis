@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本ゴム協会
-ics:
-- code: 11.120.20
-  text: Wound dressings and compresses
-- code: 83.140.01
-  text: Rubber and plastics products in general
-structuredidentifier:
-  project_number: T9010
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本ゴム協会
+  ics:
+  - code: 11.120.20
+    text: Wound dressings and compresses
+  - code: 83.140.01
+    text: Rubber and plastics products in general
+  structuredidentifier:
+    project_number: T9010
+    type: JIS

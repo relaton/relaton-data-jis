@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 線材製品協会
-ics:
-- code: 77.140.25
-  text: Spring steels
-structuredidentifier:
-  project_number: G3561
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 線材製品協会
+  ics:
+  - code: 77.140.25
+    text: Spring steels
+  structuredidentifier:
+    project_number: G3561
+    type: JIS

@@ -88,19 +88,19 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 01.080.40
-  text: Graphical symbols for use on electrical and electronics engineering drawings,
-    diagrams, charts and in relevant technical product documentation
-- code: '31.020'
-  text: Electronic components in general
-structuredidentifier:
-  project_number: C0617
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 01.080.40
+    text: Graphical symbols for use on electrical and electronics engineering drawings,
+      diagrams, charts and in relevant technical product documentation
+  - code: '31.020'
+    text: Electronic components in general
+  structuredidentifier:
+    project_number: C0617
+    type: JIS

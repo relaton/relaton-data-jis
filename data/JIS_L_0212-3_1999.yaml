@@ -75,20 +75,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本ふとん製造協同組合
-ics:
-- code: 01.040.59
-  text: Textile and leather technology (Vocabularies)
-- code: 59.080.99
-  text: Other products of the textile industry
-- code: '97.160'
-  text: Home textiles. Linen
-structuredidentifier:
-  project_number: L0212
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本ふとん製造協同組合
+  ics:
+  - code: 01.040.59
+    text: Textile and leather technology (Vocabularies)
+  - code: 59.080.99
+    text: Other products of the textile industry
+  - code: '97.160'
+    text: Home textiles. Linen
+  structuredidentifier:
+    project_number: L0212
+    type: JIS

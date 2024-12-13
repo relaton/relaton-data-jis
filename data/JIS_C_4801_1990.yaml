@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　電気学会
-ics:
-- code: '29.180'
-  text: Transformers. Reactors
-- code: 31.060.70
-  text: Power capacitors
-structuredidentifier:
-  project_number: C4801
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　電気学会
+  ics:
+  - code: '29.180'
+    text: Transformers. Reactors
+  - code: 31.060.70
+    text: Power capacitors
+  structuredidentifier:
+    project_number: C4801
+    type: JIS

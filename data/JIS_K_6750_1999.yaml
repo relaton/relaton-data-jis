@@ -75,18 +75,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 可塑剤工業会
-ics:
-- code: 71.080.15
-  text: Aromatic hydrocarbons
-- code: 83.040.30
-  text: Auxiliary materials and additives for plastics
-structuredidentifier:
-  project_number: K6750
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 可塑剤工業会
+  ics:
+  - code: 71.080.15
+    text: Aromatic hydrocarbons
+  - code: 83.040.30
+    text: Auxiliary materials and additives for plastics
+  structuredidentifier:
+    project_number: K6750
+    type: JIS

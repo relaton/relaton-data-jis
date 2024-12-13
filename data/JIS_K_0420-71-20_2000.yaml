@@ -73,16 +73,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　産業環境管理協会
-ics:
-- code: 13.060.70
-  text: Examination of biological properties of water
-structuredidentifier:
-  project_number: K0420
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　産業環境管理協会
+  ics:
+  - code: 13.060.70
+    text: Examination of biological properties of water
+  structuredidentifier:
+    project_number: K0420
+    type: JIS

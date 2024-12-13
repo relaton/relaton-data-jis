@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　化学物質評価研究機構
-ics:
-- code: 71.040.30
-  text: Chemical reagents
-- code: 71.060.10
-  text: Chemical elements
-structuredidentifier:
-  project_number: K0010
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　化学物質評価研究機構
+  ics:
+  - code: 71.040.30
+    text: Chemical reagents
+  - code: 71.060.10
+    text: Chemical elements
+  structuredidentifier:
+    project_number: K0010
+    type: JIS

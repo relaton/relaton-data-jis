@@ -78,16 +78,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本鉄道技術協会
-ics:
-- code: 55.180.10
-  text: General purpose containers
-structuredidentifier:
-  project_number: Z1610
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本鉄道技術協会
+  ics:
+  - code: 55.180.10
+    text: General purpose containers
+  structuredidentifier:
+    project_number: Z1610
+    type: JIS

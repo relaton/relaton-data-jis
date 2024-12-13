@@ -77,20 +77,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 生物化学的測定研究会
-ics:
-- code: 13.060.50
-  text: Examination of water for chemical substances
-- code: 13.080.05
-  text: Examination of soils in general
-- code: 71.040.40
-  text: Chemical analysis
-structuredidentifier:
-  project_number: K0464
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 生物化学的測定研究会
+  ics:
+  - code: 13.060.50
+    text: Examination of water for chemical substances
+  - code: 13.080.05
+    text: Examination of soils in general
+  - code: 71.040.40
+    text: Chemical analysis
+  structuredidentifier:
+    project_number: K0464
+    type: JIS

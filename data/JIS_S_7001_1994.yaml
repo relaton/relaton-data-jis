@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 兵庫県釣針協同組合
-ics:
-- code: 97.220.40
-  text: Outdoor and water sports equipment
-structuredidentifier:
-  project_number: S7001
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 兵庫県釣針協同組合
+  ics:
+  - code: 97.220.40
+    text: Outdoor and water sports equipment
+  structuredidentifier:
+    project_number: S7001
+    type: JIS

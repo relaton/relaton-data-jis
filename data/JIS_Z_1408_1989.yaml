@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本ワイヤバウンドボックス工業会
-ics:
-- code: '55.160'
-  text: Cases. Boxes. Crates
-structuredidentifier:
-  project_number: Z1408
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本ワイヤバウンドボックス工業会
+  ics:
+  - code: '55.160'
+    text: Cases. Boxes. Crates
+  structuredidentifier:
+    project_number: Z1408
+    type: JIS

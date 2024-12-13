@@ -89,20 +89,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ゴム工業会"
-ics:
-- code: '67.250'
-  text: Materials and articles in contact with foodstuffs
-- code: 83.140.01
-  text: Rubber and plastics products in general
-- code: '97.190'
-  text: Equipment for children
-structuredidentifier:
-  project_number: T9106
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ゴム工業会"
+  ics:
+  - code: '67.250'
+    text: Materials and articles in contact with foodstuffs
+  - code: 83.140.01
+    text: Rubber and plastics products in general
+  - code: '97.190'
+    text: Equipment for children
+  structuredidentifier:
+    project_number: T9106
+    type: JIS

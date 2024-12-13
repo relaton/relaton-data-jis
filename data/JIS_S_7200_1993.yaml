@@ -75,16 +75,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 独立行政法人　製品評価技術基盤機構
-ics:
-- code: 97.220.01
-  text: Sports equipment and facilities in general
-structuredidentifier:
-  project_number: S7200
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 独立行政法人　製品評価技術基盤機構
+  ics:
+  - code: 97.220.01
+    text: Sports equipment and facilities in general
+  structuredidentifier:
+    project_number: S7200
+    type: JIS

@@ -69,20 +69,20 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: 株式会社新日石総研
-ics:
-- code: 13.030.10
-  text: Solid wastes
-- code: 13.030.50
-  text: Recycling
-- code: 75.160.20
-  text: Liquid fuels
-structuredidentifier:
-  project_number: Z0025
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: 株式会社新日石総研
+  ics:
+  - code: 13.030.10
+    text: Solid wastes
+  - code: 13.030.50
+    text: Recycling
+  - code: 75.160.20
+    text: Liquid fuels
+  structuredidentifier:
+    project_number: Z0025
+    type: JIS

@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本電線工業会
-ics:
-- code: 29.060.20
-  text: Cables
-structuredidentifier:
-  project_number: C3601
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本電線工業会
+  ics:
+  - code: 29.060.20
+    text: Cables
+  structuredidentifier:
+    project_number: C3601
+    type: JIS

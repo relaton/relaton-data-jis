@@ -79,16 +79,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　自動車技術会
-ics:
-- code: 43.040.10
-  text: Electrical and electronic equipment
-structuredidentifier:
-  project_number: D5814
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　自動車技術会
+  ics:
+  - code: 43.040.10
+    text: Electrical and electronic equipment
+  structuredidentifier:
+    project_number: D5814
+    type: JIS

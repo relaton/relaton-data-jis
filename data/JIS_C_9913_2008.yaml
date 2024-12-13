@@ -80,18 +80,19 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "独立行政法人　製品評価技術基盤機構                                                \r\n                                                                                            一般社団法人　電子情報技術産業協会"
-ics:
-- code: 13.020.99
-  text: Other standards related to environmental protection
-- code: '31.020'
-  text: Electronic components in general
-structuredidentifier:
-  project_number: C9913
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+  ics:
+  - code: 13.020.99
+    text: Other standards related to environmental protection
+  - code: '31.020'
+    text: Electronic components in general
+  structuredidentifier:
+    project_number: C9913
+    type: JIS

@@ -72,20 +72,20 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本電気計測器工業会
-ics:
-- code: '25.040'
-  text: Industrial automation systems
-- code: '35.100'
-  text: Open systems interconnection (OSI)
-- code: 35.240.50
-  text: IT applications in industry
-structuredidentifier:
-  project_number: B0031
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本電気計測器工業会
+  ics:
+  - code: '25.040'
+    text: Industrial automation systems
+  - code: '35.100'
+    text: Open systems interconnection (OSI)
+  - code: 35.240.50
+    text: IT applications in industry
+  structuredidentifier:
+    project_number: B0031
+    type: JIS

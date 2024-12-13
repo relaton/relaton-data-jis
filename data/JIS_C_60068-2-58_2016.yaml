@@ -89,20 +89,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電子情報技術産業協会"
-ics:
-- code: '19.040'
-  text: Environmental testing
-- code: 25.160.50
-  text: Brazing and soldering
-- code: '31.190'
-  text: Electronic component assemblies
-structuredidentifier:
-  project_number: C60068
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電子情報技術産業協会"
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  - code: 25.160.50
+    text: Brazing and soldering
+  - code: '31.190'
+    text: Electronic component assemblies
+  structuredidentifier:
+    project_number: C60068
+    type: JIS

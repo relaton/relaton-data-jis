@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本スポーツ用品工業協会
-ics:
-- code: 97.200.30
-  text: Camping equipment and camp-sites
-structuredidentifier:
-  project_number: L4904
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本スポーツ用品工業協会
+  ics:
+  - code: 97.200.30
+    text: Camping equipment and camp-sites
+  structuredidentifier:
+    project_number: L4904
+    type: JIS

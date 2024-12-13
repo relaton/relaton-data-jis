@@ -79,18 +79,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本ポリオレフィンフィルム工業組合
-ics:
-- code: 83.140.10
-  text: Films and sheets
-- code: 91.120.10
-  text: Thermal insulation of buildings
-structuredidentifier:
-  project_number: A6930
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本ポリオレフィンフィルム工業組合
+  ics:
+  - code: 83.140.10
+    text: Films and sheets
+  - code: 91.120.10
+    text: Thermal insulation of buildings
+  structuredidentifier:
+    project_number: A6930
+    type: JIS

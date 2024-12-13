@@ -80,18 +80,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本塗料工業会"
-ics:
-- code: '87.040'
-  text: Paints and varnishes
-- code: 91.060.30
-  text: Ceilings. Floors. Stairs
-structuredidentifier:
-  project_number: K5970
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本塗料工業会"
+  ics:
+  - code: '87.040'
+    text: Paints and varnishes
+  - code: 91.060.30
+    text: Ceilings. Floors. Stairs
+  structuredidentifier:
+    project_number: K5970
+    type: JIS

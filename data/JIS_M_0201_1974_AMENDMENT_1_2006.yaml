@@ -70,16 +70,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '73.120'
-  text: Equipment for processing of minerals
-structuredidentifier:
-  project_number: M0201
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '73.120'
+    text: Equipment for processing of minerals
+  structuredidentifier:
+    project_number: M0201
+    type: JIS

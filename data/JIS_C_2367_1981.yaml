@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 電気絶縁材料工業会
-ics:
-- code: 29.040.20
-  text: Insulating gases
-structuredidentifier:
-  project_number: C2367
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 電気絶縁材料工業会
+  ics:
+  - code: 29.040.20
+    text: Insulating gases
+  structuredidentifier:
+    project_number: C2367
+    type: JIS

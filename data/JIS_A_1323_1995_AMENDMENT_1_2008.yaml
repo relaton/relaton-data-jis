@@ -81,18 +81,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　建材試験センター"
-ics:
-- code: 13.220.40
-  text: Ignitability and burning behaviour of materials and products
-- code: '91.220'
-  text: Construction equipment
-structuredidentifier:
-  project_number: A1323
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　建材試験センター"
+  ics:
+  - code: 13.220.40
+    text: Ignitability and burning behaviour of materials and products
+  - code: '91.220'
+    text: Construction equipment
+  structuredidentifier:
+    project_number: A1323
+    type: JIS

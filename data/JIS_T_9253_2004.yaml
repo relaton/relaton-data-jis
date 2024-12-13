@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            全日本スクリーン・デジタル印刷協同組合連合会"
-ics:
-- code: 37.100.01
-  text: Graphic technology in general
-- code: '87.080'
-  text: Inks. Printing inks
-structuredidentifier:
-  project_number: T9253
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            全日本スクリーン・デジタル印刷協同組合連合会"
+  ics:
+  - code: 37.100.01
+    text: Graphic technology in general
+  - code: '87.080'
+    text: Inks. Printing inks
+  structuredidentifier:
+    project_number: T9253
+    type: JIS

@@ -91,19 +91,19 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            電気床暖房工業会
-      \                                               \r\n                                                                                            一般社団法人　日本電気床暖房工業会"
-ics:
-- code: 91.140.99
-  text: Other installations in buildings
-- code: 93.080.99
-  text: Other standards related to road engineering
-structuredidentifier:
-  project_number: C3651
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            電気床暖房工業会
+        \                                               \r\n                                                                                            一般社団法人　日本電気床暖房工業会"
+  ics:
+  - code: 91.140.99
+    text: Other installations in buildings
+  - code: 93.080.99
+    text: Other standards related to road engineering
+  structuredidentifier:
+    project_number: C3651
+    type: JIS

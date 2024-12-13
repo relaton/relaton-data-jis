@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            全国段ボール工業組合連合会"
-ics:
-- code: 01.040.85
-  text: Paper technology (Vocabularies)
-- code: '85.060'
-  text: Paper and board
-structuredidentifier:
-  project_number: Z0104
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            全国段ボール工業組合連合会"
+  ics:
+  - code: 01.040.85
+    text: Paper technology (Vocabularies)
+  - code: '85.060'
+    text: Paper and board
+  structuredidentifier:
+    project_number: Z0104
+    type: JIS

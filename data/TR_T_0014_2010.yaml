@@ -72,16 +72,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: 技術研究組合　医療福祉機器研究所
-ics:
-- code: 11.120.20
-  text: Wound dressings and compresses
-structuredidentifier:
-  project_number: T0014
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: 技術研究組合　医療福祉機器研究所
+  ics:
+  - code: 11.120.20
+    text: Wound dressings and compresses
+  structuredidentifier:
+    project_number: T0014
+    type: JIS

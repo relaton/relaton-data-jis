@@ -80,16 +80,17 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "独立行政法人　製品評価技術基盤機構                                                \r\n                                                                                            国立研究開発法人　産業技術総合研究所"
-ics:
-- code: 33.160.01
-  text: Audio, video and audiovisual systems in general
-structuredidentifier:
-  project_number: C5533
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+  ics:
+  - code: 33.160.01
+    text: Audio, video and audiovisual systems in general
+  structuredidentifier:
+    project_number: C5533
+    type: JIS

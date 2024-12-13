@@ -93,16 +93,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            ドラム缶工業会"
-ics:
-- code: '55.140'
-  text: Barrels. Drums. Canisters
-structuredidentifier:
-  project_number: Z1600
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            ドラム缶工業会"
+  ics:
+  - code: '55.140'
+    text: Barrels. Drums. Canisters
+  structuredidentifier:
+    project_number: Z1600
+    type: JIS

@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 塩化ビニル管・継手協会
-ics:
-- code: 29.120.10
-  text: Conduits for electrical purposes
-- code: 29.120.20
-  text: Connecting devices
-structuredidentifier:
-  project_number: C8433
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 塩化ビニル管・継手協会
+  ics:
+  - code: 29.120.10
+    text: Conduits for electrical purposes
+  - code: 29.120.20
+    text: Connecting devices
+  structuredidentifier:
+    project_number: C8433
+    type: JIS

@@ -69,15 +69,15 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　ケケン試験認証センター
-ics:
-- code: 59.080.60
-structuredidentifier:
-  project_number: L1023
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　ケケン試験認証センター
+  ics:
+  - code: 59.080.60
+  structuredidentifier:
+    project_number: L1023
+    type: JIS

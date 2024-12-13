@@ -72,18 +72,18 @@ contributor:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: '35.110'
-  text: Networking
-- code: 35.240.30
-  text: IT applications in information, documentation and publishing
-structuredidentifier:
-  project_number: X0074
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: '35.110'
+    text: Networking
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    project_number: X0074
+    type: JIS

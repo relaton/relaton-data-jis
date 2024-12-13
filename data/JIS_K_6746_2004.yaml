@@ -87,18 +87,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本プラスチック工業連盟"
-ics:
-- code: 25.160.20
-  text: Welding consumables
-- code: 83.140.99
-  text: Other rubber and plastics products
-structuredidentifier:
-  project_number: K6746
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本プラスチック工業連盟"
+  ics:
+  - code: 25.160.20
+    text: Welding consumables
+  - code: 83.140.99
+    text: Other rubber and plastics products
+  structuredidentifier:
+    project_number: K6746
+    type: JIS

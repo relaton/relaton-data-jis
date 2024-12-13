@@ -96,21 +96,21 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            塩化ビニル管・継手協会
-      \                                               \r\n                                                                                            日本プラスチック工業連盟"
-ics:
-- code: 23.040.45
-  text: Plastics fittings
-- code: 83.140.30
-  text: Plastics pipes and fittings for non fluid use
-- code: 91.140.60
-  text: Water supply systems
-structuredidentifier:
-  project_number: K6777
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            塩化ビニル管・継手協会
+        \                                               \r\n                                                                                            日本プラスチック工業連盟"
+  ics:
+  - code: 23.040.45
+    text: Plastics fittings
+  - code: 83.140.30
+    text: Plastics pipes and fittings for non fluid use
+  - code: 91.140.60
+    text: Water supply systems
+  structuredidentifier:
+    project_number: K6777
+    type: JIS

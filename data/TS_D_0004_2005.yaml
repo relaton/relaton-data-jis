@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本自動車研究所
-ics:
-- code: 43.060.40
-  text: Fuel systems
-structuredidentifier:
-  project_number: D0004
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本自動車研究所
+  ics:
+  - code: 43.060.40
+    text: Fuel systems
+  structuredidentifier:
+    project_number: D0004
+    type: JIS

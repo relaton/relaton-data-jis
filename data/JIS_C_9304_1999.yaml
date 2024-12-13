@@ -81,16 +81,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本溶接協会
-ics:
-- code: 25.160.20
-  text: Welding consumables
-structuredidentifier:
-  project_number: C9304
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本溶接協会
+  ics:
+  - code: 25.160.20
+    text: Welding consumables
+  structuredidentifier:
+    project_number: C9304
+    type: JIS

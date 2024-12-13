@@ -78,18 +78,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本窯業外装材協会"
-ics:
-- code: 91.060.10
-  text: Walls. Partitions. Façades
-- code: 91.100.25
-  text: Terracotta building products
-structuredidentifier:
-  project_number: A5422
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本窯業外装材協会"
+  ics:
+  - code: 91.060.10
+    text: Walls. Partitions. Façades
+  - code: 91.100.25
+    text: Terracotta building products
+  structuredidentifier:
+    project_number: A5422
+    type: JIS

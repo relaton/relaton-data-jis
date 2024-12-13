@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: '11.180'
-  text: Aids for disabled or handicapped persons
-- code: '61.020'
-  text: Clothes
-structuredidentifier:
-  project_number: S0023
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: '11.180'
+    text: Aids for disabled or handicapped persons
+  - code: '61.020'
+    text: Clothes
+  structuredidentifier:
+    project_number: S0023
+    type: JIS

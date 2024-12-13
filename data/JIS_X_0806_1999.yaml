@@ -88,16 +88,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 35.240.30
-  text: IT applications in information, documentation and publishing
-structuredidentifier:
-  project_number: X0806
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    project_number: X0806
+    type: JIS

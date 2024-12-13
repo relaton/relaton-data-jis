@@ -87,16 +87,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本ガラスビーズ協会"
-ics:
-- code: 81.040.30
-  text: Glass products
-structuredidentifier:
-  project_number: R3301
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本ガラスビーズ協会"
+  ics:
+  - code: 81.040.30
+    text: Glass products
+  structuredidentifier:
+    project_number: R3301
+    type: JIS

@@ -80,20 +80,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本鉄鋼連盟
-ics:
-- code: 03.100.30
-  text: Management of human resources
-- code: 77.040.20
-  text: Non-destructive testing of metals
-- code: 77.140.01
-  text: Iron and steel products in general
-structuredidentifier:
-  project_number: G0431
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本鉄鋼連盟
+  ics:
+  - code: 03.100.30
+    text: Management of human resources
+  - code: 77.040.20
+    text: Non-destructive testing of metals
+  - code: 77.140.01
+    text: Iron and steel products in general
+  structuredidentifier:
+    project_number: G0431
+    type: JIS

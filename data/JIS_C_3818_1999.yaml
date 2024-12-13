@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本電磁器協会
-ics:
-- code: 29.080.10
-  text: Insulators
-structuredidentifier:
-  project_number: C3818
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本電磁器協会
+  ics:
+  - code: 29.080.10
+    text: Insulators
+  structuredidentifier:
+    project_number: C3818
+    type: JIS

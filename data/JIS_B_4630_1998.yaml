@@ -81,16 +81,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 全国作業工具工業組合
-ics:
-- code: 25.140.30
-  text: Hand-operated tools
-structuredidentifier:
-  project_number: B4630
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 全国作業工具工業組合
+  ics:
+  - code: 25.140.30
+    text: Hand-operated tools
+  structuredidentifier:
+    project_number: B4630
+    type: JIS

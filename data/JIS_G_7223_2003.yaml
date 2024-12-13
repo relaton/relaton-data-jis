@@ -73,18 +73,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本鉄鋼連盟
-ics:
-- code: 23.040.10
-  text: Iron and steel pipes
-- code: 77.140.75
-  text: Steel pipes and tubes for specific use
-structuredidentifier:
-  project_number: G7223
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本鉄鋼連盟
+  ics:
+  - code: 23.040.10
+    text: Iron and steel pipes
+  - code: 77.140.75
+    text: Steel pipes and tubes for specific use
+  structuredidentifier:
+    project_number: G7223
+    type: JIS

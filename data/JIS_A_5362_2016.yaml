@@ -91,18 +91,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            特定非営利活動法人　コンクリート製品ＪＩＳ協議会"
-ics:
-- code: 91.100.30
-  text: Concrete and concrete products
-- code: 93.080.30
-  text: Road equipment and installations
-structuredidentifier:
-  project_number: A5362
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            特定非営利活動法人　コンクリート製品ＪＩＳ協議会"
+  ics:
+  - code: 91.100.30
+    text: Concrete and concrete products
+  - code: 93.080.30
+    text: Road equipment and installations
+  structuredidentifier:
+    project_number: A5362
+    type: JIS

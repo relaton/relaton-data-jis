@@ -91,18 +91,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　板硝子協会"
-ics:
-- code: 43.040.65
-  text: Glazing and wiper systems
-- code: 81.040.30
-  text: Glass products
-structuredidentifier:
-  project_number: R3212
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　板硝子協会"
+  ics:
+  - code: 43.040.65
+    text: Glazing and wiper systems
+  - code: 81.040.30
+    text: Glass products
+  structuredidentifier:
+    project_number: R3212
+    type: JIS

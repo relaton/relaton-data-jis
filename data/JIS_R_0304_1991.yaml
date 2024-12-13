@@ -81,20 +81,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　日本セラミックス協会
-ics:
-- code: 17.200.10
-  text: Heat. Calorimetry
-- code: 25.180.01
-  text: Industrial furnaces in general
-- code: '73.120'
-  text: Equipment for processing of minerals
-structuredidentifier:
-  project_number: R0304
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　日本セラミックス協会
+  ics:
+  - code: 17.200.10
+    text: Heat. Calorimetry
+  - code: 25.180.01
+    text: Industrial furnaces in general
+  - code: '73.120'
+    text: Equipment for processing of minerals
+  structuredidentifier:
+    project_number: R0304
+    type: JIS

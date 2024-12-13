@@ -72,20 +72,20 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本サッシ協会
-ics:
-- code: '13.120'
-  text: Domestic safety
-- code: 91.060.50
-  text: Doors and windows
-- code: '91.190'
-  text: Building accessories
-structuredidentifier:
-  project_number: A0027
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本サッシ協会
+  ics:
+  - code: '13.120'
+    text: Domestic safety
+  - code: 91.060.50
+    text: Doors and windows
+  - code: '91.190'
+    text: Building accessories
+  structuredidentifier:
+    project_number: A0027
+    type: JIS

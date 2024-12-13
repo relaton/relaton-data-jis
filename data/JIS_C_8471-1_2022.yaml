@@ -88,18 +88,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電気設備学会"
-ics:
-- code: 29.060.01
-  text: Electrical wires and cables in general
-- code: 29.120.01
-  text: Electrical accessories in general
-structuredidentifier:
-  project_number: C8471
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電気設備学会"
+  ics:
+  - code: 29.060.01
+    text: Electrical wires and cables in general
+  - code: 29.120.01
+    text: Electrical accessories in general
+  structuredidentifier:
+    project_number: C8471
+    type: JIS

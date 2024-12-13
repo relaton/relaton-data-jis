@@ -82,16 +82,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　ターボ機械協会
-ics:
-- code: 17.140.20
-  text: Noise emitted by machines and equipment
-structuredidentifier:
-  project_number: B8346
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　ターボ機械協会
+  ics:
+  - code: 17.140.20
+    text: Noise emitted by machines and equipment
+  structuredidentifier:
+    project_number: B8346
+    type: JIS

@@ -90,16 +90,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            特定非営利活動法人　精密科学技術ネットワーク"
-ics:
-- code: 25.040.01
-  text: Industrial automation systems in general
-structuredidentifier:
-  project_number: B3900
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            特定非営利活動法人　精密科学技術ネットワーク"
+  ics:
+  - code: 25.040.01
+    text: Industrial automation systems in general
+  structuredidentifier:
+    project_number: B3900
+    type: JIS

@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　電気設備学会
-ics:
-- code: 29.120.20
-  text: Connecting devices
-structuredidentifier:
-  project_number: C2810
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　電気設備学会
+  ics:
+  - code: 29.120.20
+    text: Connecting devices
+  structuredidentifier:
+    project_number: C2810
+    type: JIS

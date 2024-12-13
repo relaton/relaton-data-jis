@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本芳香族工業会
-ics:
-- code: 01.040.75
-  text: Petroleum and related technologies (Vocabularies)
-- code: '75.140'
-  text: Waxes, bituminous materials and other petroleum products
-structuredidentifier:
-  project_number: K2410
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本芳香族工業会
+  ics:
+  - code: 01.040.75
+    text: Petroleum and related technologies (Vocabularies)
+  - code: '75.140'
+    text: Waxes, bituminous materials and other petroleum products
+  structuredidentifier:
+    project_number: K2410
+    type: JIS

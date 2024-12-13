@@ -85,20 +85,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ホームヘルス機器協会"
-ics:
-- code: 11.040.60
-  text: Therapy equipment
-- code: '97.030'
-  text: Domestic electrical appliances in general
-- code: '97.180'
-  text: Miscellaneous domestic and commercial equipment
-structuredidentifier:
-  project_number: T2007
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ホームヘルス機器協会"
+  ics:
+  - code: 11.040.60
+    text: Therapy equipment
+  - code: '97.030'
+    text: Domestic electrical appliances in general
+  - code: '97.180'
+    text: Miscellaneous domestic and commercial equipment
+  structuredidentifier:
+    project_number: T2007
+    type: JIS

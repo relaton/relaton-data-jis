@@ -75,19 +75,19 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本船舶技術研究協会
-ics:
-- code: 01.080.30
-  text: Graphical symbols for use on mechanical engineering and construction drawings,
-    diagrams, plans, maps and in relevant technical product documentation
-- code: 47.020.90
-  text: Marine ventilation, air conditioning and heating systems
-structuredidentifier:
-  project_number: F0050
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本船舶技術研究協会
+  ics:
+  - code: 01.080.30
+    text: Graphical symbols for use on mechanical engineering and construction drawings,
+      diagrams, plans, maps and in relevant technical product documentation
+  - code: 47.020.90
+    text: Marine ventilation, air conditioning and heating systems
+  structuredidentifier:
+    project_number: F0050
+    type: JIS

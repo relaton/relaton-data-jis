@@ -69,13 +69,13 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本バルブ工業会
-structuredidentifier:
-  project_number: B2082
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本バルブ工業会
+  structuredidentifier:
+    project_number: B2082
+    type: JIS

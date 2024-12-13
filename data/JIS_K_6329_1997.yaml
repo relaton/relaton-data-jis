@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 更生タイヤ全国協議会
-ics:
-- code: 83.160.01
-  text: Tyres in general
-structuredidentifier:
-  project_number: K6329
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 更生タイヤ全国協議会
+  ics:
+  - code: 83.160.01
+    text: Tyres in general
+  structuredidentifier:
+    project_number: K6329
+    type: JIS

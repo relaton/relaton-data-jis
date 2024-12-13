@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 財団法人　化学品検査協会
-ics:
-- code: 13.040.40
-  text: Stationary source emissions
-- code: 71.040.40
-  text: Chemical analysis
-structuredidentifier:
-  project_number: K0097
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 財団法人　化学品検査協会
+  ics:
+  - code: 13.040.40
+    text: Stationary source emissions
+  - code: 71.040.40
+    text: Chemical analysis
+  structuredidentifier:
+    project_number: K0097
+    type: JIS

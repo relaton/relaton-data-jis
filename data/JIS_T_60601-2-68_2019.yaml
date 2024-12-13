@@ -92,16 +92,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本画像医療システム工業会"
-ics:
-- code: 11.040.60
-  text: Therapy equipment
-structuredidentifier:
-  project_number: T60601
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本画像医療システム工業会"
+  ics:
+  - code: 11.040.60
+    text: Therapy equipment
+  structuredidentifier:
+    project_number: T60601
+    type: JIS

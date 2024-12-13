@@ -66,18 +66,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本ガス機器検査協会
-ics:
-- code: 91.140.65
-  text: Water heating equipment
-- code: 97.100.20
-  text: Gas heaters
-structuredidentifier:
-  project_number: S2112
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本ガス機器検査協会
+  ics:
+  - code: 91.140.65
+    text: Water heating equipment
+  - code: 97.100.20
+    text: Gas heaters
+  structuredidentifier:
+    project_number: S2112
+    type: JIS

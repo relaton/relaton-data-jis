@@ -70,16 +70,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 耐火物技術協会
-ics:
-- code: '81.080'
-  text: Refractories
-structuredidentifier:
-  project_number: R2572
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 耐火物技術協会
+  ics:
+  - code: '81.080'
+    text: Refractories
+  structuredidentifier:
+    project_number: R2572
+    type: JIS

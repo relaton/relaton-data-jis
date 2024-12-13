@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本自動認識システム協会
-ics:
-- code: '55.020'
-  text: Packaging and distribution of goods in general
-- code: 55.180.10
-  text: General purpose containers
-structuredidentifier:
-  project_number: Z0663
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本自動認識システム協会
+  ics:
+  - code: '55.020'
+    text: Packaging and distribution of goods in general
+  - code: 55.180.10
+    text: General purpose containers
+  structuredidentifier:
+    project_number: Z0663
+    type: JIS

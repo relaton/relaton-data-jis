@@ -70,18 +70,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '73.040'
-  text: Coals
-- code: 75.160.10
-  text: Solid fuels
-structuredidentifier:
-  project_number: M8813
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '73.040'
+    text: Coals
+  - code: 75.160.10
+    text: Solid fuels
+  structuredidentifier:
+    project_number: M8813
+    type: JIS

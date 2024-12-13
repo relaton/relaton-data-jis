@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本電設工業協会
-ics:
-- code: 29.120.10
-  text: Conduits for electrical purposes
-structuredidentifier:
-  project_number: C8425
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本電設工業協会
+  ics:
+  - code: 29.120.10
+    text: Conduits for electrical purposes
+  structuredidentifier:
+    project_number: C8425
+    type: JIS

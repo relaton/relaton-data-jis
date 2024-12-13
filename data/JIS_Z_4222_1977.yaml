@@ -69,13 +69,13 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 社団法人　日本原子力産業会議
-structuredidentifier:
-  project_number: Z4222
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 社団法人　日本原子力産業会議
+  structuredidentifier:
+    project_number: Z4222
+    type: JIS

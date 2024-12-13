@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 社団法人　日本油空圧工業会
-ics:
-- code: 23.060.40
-  text: Pressure regulators
-structuredidentifier:
-  project_number: B8658
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 社団法人　日本油空圧工業会
+  ics:
+  - code: 23.060.40
+    text: Pressure regulators
+  structuredidentifier:
+    project_number: B8658
+    type: JIS

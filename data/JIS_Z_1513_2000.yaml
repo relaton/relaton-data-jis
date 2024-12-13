@@ -75,18 +75,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本麻紡績協会
-ics:
-- code: '55.080'
-  text: Sacks. Bags
-- code: 65.060.99
-  text: Other agricultural machines and equipment
-structuredidentifier:
-  project_number: Z1513
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本麻紡績協会
+  ics:
+  - code: '55.080'
+    text: Sacks. Bags
+  - code: 65.060.99
+    text: Other agricultural machines and equipment
+  structuredidentifier:
+    project_number: Z1513
+    type: JIS

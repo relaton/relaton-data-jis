@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本筆記具工業会"
-ics:
-- code: 01.100.40
-  text: Drawing equipment
-- code: '97.180'
-  text: Miscellaneous domestic and commercial equipment
-structuredidentifier:
-  project_number: S6013
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本筆記具工業会"
+  ics:
+  - code: 01.100.40
+    text: Drawing equipment
+  - code: '97.180'
+    text: Miscellaneous domestic and commercial equipment
+  structuredidentifier:
+    project_number: S6013
+    type: JIS

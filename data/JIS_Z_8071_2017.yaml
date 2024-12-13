@@ -77,20 +77,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益財団法人　共用品推進機構
-ics:
-- code: '01.120'
-  text: Standardization. General rules
-- code: 11.180.01
-  text: Aids for disabled and handicapped persons in general
-- code: '13.180'
-  text: Ergonomics
-structuredidentifier:
-  project_number: Z8071
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益財団法人　共用品推進機構
+  ics:
+  - code: '01.120'
+    text: Standardization. General rules
+  - code: 11.180.01
+    text: Aids for disabled and handicapped persons in general
+  - code: '13.180'
+    text: Ergonomics
+  structuredidentifier:
+    project_number: Z8071
+    type: JIS

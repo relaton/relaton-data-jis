@@ -69,15 +69,15 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 財団法人　社会経済生産性本部
-ics:
-- code: 35.260.10
-structuredidentifier:
-  project_number: B9509
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 財団法人　社会経済生産性本部
+  ics:
+  - code: 35.260.10
+  structuredidentifier:
+    project_number: B9509
+    type: JIS

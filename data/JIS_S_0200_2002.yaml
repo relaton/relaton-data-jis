@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 03.100.20
-  text: Trade. Commercial function. Marketing
-- code: 35.240.60
-  text: IT applications in transport
-structuredidentifier:
-  project_number: S0200
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 03.100.20
+    text: Trade. Commercial function. Marketing
+  - code: 35.240.60
+    text: IT applications in transport
+  structuredidentifier:
+    project_number: S0200
+    type: JIS

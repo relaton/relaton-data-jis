@@ -85,18 +85,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 13.220.99
-  text: Other standards related to protection against fire
-- code: '29.020'
-  text: Electrical engineering in general
-structuredidentifier:
-  project_number: C60695
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 13.220.99
+    text: Other standards related to protection against fire
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    project_number: C60695
+    type: JIS

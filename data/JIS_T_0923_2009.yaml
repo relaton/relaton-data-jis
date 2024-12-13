@@ -63,18 +63,18 @@ contributor:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益財団法人　共用品推進機構
-ics:
-- code: '13.120'
-  text: Domestic safety
-- code: '97.020'
-  text: Home economics in general
-structuredidentifier:
-  project_number: T0923
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益財団法人　共用品推進機構
+  ics:
+  - code: '13.120'
+    text: Domestic safety
+  - code: '97.020'
+    text: Home economics in general
+  structuredidentifier:
+    project_number: T0923
+    type: JIS

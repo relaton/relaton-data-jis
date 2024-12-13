@@ -68,16 +68,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本硝子製品工業会
-ics:
-- code: 71.040.20
-  text: Laboratory ware and related apparatus
-structuredidentifier:
-  project_number: R3503
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本硝子製品工業会
+  ics:
+  - code: 71.040.20
+    text: Laboratory ware and related apparatus
+  structuredidentifier:
+    project_number: R3503
+    type: JIS

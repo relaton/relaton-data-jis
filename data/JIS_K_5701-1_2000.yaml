@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 印刷インキ工業会
-ics:
-- code: '87.080'
-  text: Inks. Printing inks
-structuredidentifier:
-  project_number: K5701
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 印刷インキ工業会
+  ics:
+  - code: '87.080'
+    text: Inks. Printing inks
+  structuredidentifier:
+    project_number: K5701
+    type: JIS

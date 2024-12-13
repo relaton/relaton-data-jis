@@ -76,16 +76,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 75.160.10
-  text: Solid fuels
-structuredidentifier:
-  project_number: K2151
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 75.160.10
+    text: Solid fuels
+  structuredidentifier:
+    project_number: K2151
+    type: JIS

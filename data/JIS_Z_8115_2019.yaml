@@ -87,21 +87,21 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 01.040.03
-  text: Services. Company organization, management and quality. Administration. Transport.
-    Sociology. (Vocabularies)
-- code: 03.120.01
-  text: Quality in general
-- code: '21.020'
-  text: Characteristics and design of machines, apparatus, equipment
-structuredidentifier:
-  project_number: Z8115
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 01.040.03
+    text: Services. Company organization, management and quality. Administration.
+      Transport. Sociology. (Vocabularies)
+  - code: 03.120.01
+    text: Quality in general
+  - code: '21.020'
+    text: Characteristics and design of machines, apparatus, equipment
+  structuredidentifier:
+    project_number: Z8115
+    type: JIS

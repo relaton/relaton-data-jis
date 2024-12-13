@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本印刷産業機械工業会
-ics:
-- code: '85.100'
-  text: Equipment for the paper industry
-structuredidentifier:
-  project_number: B9603
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本印刷産業機械工業会
+  ics:
+  - code: '85.100'
+    text: Equipment for the paper industry
+  structuredidentifier:
+    project_number: B9603
+    type: JIS

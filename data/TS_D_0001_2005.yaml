@@ -69,21 +69,21 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　自動車技術会
-ics:
-- code: 01.040.03
-  text: Services. Company organization, management and quality. Administration. Transport.
-    Sociology. (Vocabularies)
-- code: 03.220.01
-  text: Transport in general
-- code: 35.240.60
-  text: IT applications in transport
-structuredidentifier:
-  project_number: D0001
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　自動車技術会
+  ics:
+  - code: 01.040.03
+    text: Services. Company organization, management and quality. Administration.
+      Transport. Sociology. (Vocabularies)
+  - code: 03.220.01
+    text: Transport in general
+  - code: 35.240.60
+    text: IT applications in transport
+  structuredidentifier:
+    project_number: D0001
+    type: JIS

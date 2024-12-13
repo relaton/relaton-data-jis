@@ -81,18 +81,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "日本化学繊維協会                                                \r\n                                                                                            一般社団法人　日本自動車タイヤ協会"
-ics:
-- code: 59.060.20
-  text: Man-made fibres
-- code: 83.160.01
-  text: Tyres in general
-structuredidentifier:
-  project_number: L1017
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "日本化学繊維協会                                                \r\n                                                                                            一般社団法人　日本自動車タイヤ協会"
+  ics:
+  - code: 59.060.20
+    text: Man-made fibres
+  - code: 83.160.01
+    text: Tyres in general
+  structuredidentifier:
+    project_number: L1017
+    type: JIS

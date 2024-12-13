@@ -81,16 +81,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　カメラ映像機器工業会
-ics:
-- code: 37.040.10
-  text: Photographic equipment. Projectors
-structuredidentifier:
-  project_number: B7097
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　カメラ映像機器工業会
+  ics:
+  - code: 37.040.10
+    text: Photographic equipment. Projectors
+  structuredidentifier:
+    project_number: B7097
+    type: JIS

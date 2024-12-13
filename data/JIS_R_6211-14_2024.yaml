@@ -92,16 +92,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            研削砥石工業会"
-ics:
-- code: 25.100.70
-  text: Abrasives
-structuredidentifier:
-  project_number: R6211
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            研削砥石工業会"
+  ics:
+  - code: 25.100.70
+    text: Abrasives
+  structuredidentifier:
+    project_number: R6211
+    type: JIS

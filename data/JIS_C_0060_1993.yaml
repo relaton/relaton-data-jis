@@ -70,18 +70,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本電子部品信頼性センター
-ics:
-- code: '19.040'
-  text: Environmental testing
-- code: '19.080'
-  text: Electrical and electronic testing
-structuredidentifier:
-  project_number: C0060
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本電子部品信頼性センター
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  - code: '19.080'
+    text: Electrical and electronic testing
+  structuredidentifier:
+    project_number: C0060
+    type: JIS

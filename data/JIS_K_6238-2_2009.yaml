@@ -88,16 +88,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ゴム工業会"
-ics:
-- code: 83.040.10
-  text: Latex and raw rubber
-structuredidentifier:
-  project_number: K6238
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ゴム工業会"
+  ics:
+  - code: 83.040.10
+    text: Latex and raw rubber
+  structuredidentifier:
+    project_number: K6238
+    type: JIS

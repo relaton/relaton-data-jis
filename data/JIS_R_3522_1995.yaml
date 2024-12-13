@@ -77,16 +77,17 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "公益社団法人　東京医薬品工業協会                                                \r\n                                                                                            大阪医薬品協会"
-ics:
-- code: '55.100'
-  text: Bottles. Pots. Jars
-structuredidentifier:
-  project_number: R3522
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "公益社団法人　東京医薬品工業協会                                                \r\n
+        \                                                                                           大阪医薬品協会"
+  ics:
+  - code: '55.100'
+    text: Bottles. Pots. Jars
+  structuredidentifier:
+    project_number: R3522
+    type: JIS

@@ -85,18 +85,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: '35.040'
-  text: Information coding
-- code: 37.100.01
-  text: Graphic technology in general
-structuredidentifier:
-  project_number: X4051
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: '35.040'
+    text: Information coding
+  - code: 37.100.01
+    text: Graphic technology in general
+  structuredidentifier:
+    project_number: X4051
+    type: JIS

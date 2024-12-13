@@ -69,18 +69,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　化学研究評価機構
-ics:
-- code: 13.030.50
-  text: Recycling
-- code: 75.160.10
-  text: Solid fuels
-structuredidentifier:
-  project_number: Z7302
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　化学研究評価機構
+  ics:
+  - code: 13.030.50
+    text: Recycling
+  - code: 75.160.10
+    text: Solid fuels
+  structuredidentifier:
+    project_number: Z7302
+    type: JIS

@@ -70,16 +70,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　照明学会
-ics:
-- code: 91.160.01
-  text: Lighting in general
-structuredidentifier:
-  project_number: Z9110
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　照明学会
+  ics:
+  - code: 91.160.01
+    text: Lighting in general
+  structuredidentifier:
+    project_number: Z9110
+    type: JIS

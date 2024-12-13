@@ -66,16 +66,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　建材試験センター
-ics:
-- code: 91.100.10
-  text: Cement. Gypsum. Lime. Mortar
-structuredidentifier:
-  project_number: A6902
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　建材試験センター
+  ics:
+  - code: 91.100.10
+    text: Cement. Gypsum. Lime. Mortar
+  structuredidentifier:
+    project_number: A6902
+    type: JIS

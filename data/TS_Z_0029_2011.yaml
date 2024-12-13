@@ -74,17 +74,17 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: "国立研究開発法人　産業技術総合研究所                                                \r\n
-      \                                                                                           一般社団法人　日本真空学会"
-ics:
-- code: '23.160'
-  text: Vacuum technology
-structuredidentifier:
-  project_number: Z0029
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: "国立研究開発法人　産業技術総合研究所                                                \r\n
+        \                                                                                           一般社団法人　日本真空学会"
+  ics:
+  - code: '23.160'
+    text: Vacuum technology
+  structuredidentifier:
+    project_number: Z0029
+    type: JIS

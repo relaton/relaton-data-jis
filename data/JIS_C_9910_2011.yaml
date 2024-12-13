@@ -85,18 +85,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電機工業会"
-ics:
-- code: '13.020'
-  text: Environmental protection
-- code: 43.040.10
-  text: Electrical and electronic equipment
-structuredidentifier:
-  project_number: C9910
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電機工業会"
+  ics:
+  - code: '13.020'
+    text: Environmental protection
+  - code: 43.040.10
+    text: Electrical and electronic equipment
+  structuredidentifier:
+    project_number: C9910
+    type: JIS

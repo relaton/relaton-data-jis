@@ -62,18 +62,18 @@ contributor:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　光産業技術振興協会
-ics:
-- code: '27.160'
-  text: Solar energy engineering
-- code: 29.220.99
-  text: Other cells and batteries
-structuredidentifier:
-  project_number: C8931
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　光産業技術振興協会
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  - code: 29.220.99
+    text: Other cells and batteries
+  structuredidentifier:
+    project_number: C8931
+    type: JIS

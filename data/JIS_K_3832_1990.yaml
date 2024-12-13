@@ -87,16 +87,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 71.120.99
-  text: Other equipment for the chemical industry
-structuredidentifier:
-  project_number: K3832
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 71.120.99
+    text: Other equipment for the chemical industry
+  structuredidentifier:
+    project_number: K3832
+    type: JIS

@@ -78,16 +78,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　建材試験センター
-ics:
-- code: 13.040.20
-  text: Ambient atmospheres
-structuredidentifier:
-  project_number: A1962
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　建材試験センター
+  ics:
+  - code: 13.040.20
+    text: Ambient atmospheres
+  structuredidentifier:
+    project_number: A1962
+    type: JIS

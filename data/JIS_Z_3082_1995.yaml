@@ -79,16 +79,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　軽金属溶接協会
-ics:
-- code: 25.160.40
-  text: Welded joints and welds
-structuredidentifier:
-  project_number: Z3082
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　軽金属溶接協会
+  ics:
+  - code: 25.160.40
+    text: Welded joints and welds
+  structuredidentifier:
+    project_number: Z3082
+    type: JIS

@@ -78,18 +78,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本ウエザリングテストセンター
-ics:
-- code: 13.040.20
-  text: Ambient atmospheres
-- code: '77.060'
-  text: Corrosion of metals
-structuredidentifier:
-  project_number: Z2383
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本ウエザリングテストセンター
+  ics:
+  - code: 13.040.20
+    text: Ambient atmospheres
+  - code: '77.060'
+    text: Corrosion of metals
+  structuredidentifier:
+    project_number: Z2383
+    type: JIS

@@ -81,18 +81,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本画像医療システム工業会
-ics:
-- code: 01.080.20
-  text: Graphical symbols for use on specific equipment
-- code: 11.040.50
-  text: Radiographic equipment
-structuredidentifier:
-  project_number: Z4004
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本画像医療システム工業会
+  ics:
+  - code: 01.080.20
+    text: Graphical symbols for use on specific equipment
+  - code: 11.040.50
+    text: Radiographic equipment
+  structuredidentifier:
+    project_number: Z4004
+    type: JIS

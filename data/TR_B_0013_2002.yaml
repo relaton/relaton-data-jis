@@ -69,20 +69,20 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '27.010'
-  text: Energy and heat transfer engineering in general
-- code: '27.040'
-  text: Gas and steam turbines. Steam engines
-- code: 29.160.40
-  text: Generating sets
-structuredidentifier:
-  project_number: B0013
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '27.010'
+    text: Energy and heat transfer engineering in general
+  - code: '27.040'
+    text: Gas and steam turbines. Steam engines
+  - code: 29.160.40
+    text: Generating sets
+  structuredidentifier:
+    project_number: B0013
+    type: JIS

@@ -84,16 +84,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 35.100.30
-  text: Network layer
-structuredidentifier:
-  project_number: X5305
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 35.100.30
+    text: Network layer
+  structuredidentifier:
+    project_number: X5305
+    type: JIS

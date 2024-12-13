@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本航空宇宙工業会
-ics:
-- code: 29.060.20
-  text: Cables
-- code: '49.060'
-  text: Aerospace electric equipment and systems
-structuredidentifier:
-  project_number: W7118
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本航空宇宙工業会
+  ics:
+  - code: 29.060.20
+    text: Cables
+  - code: '49.060'
+    text: Aerospace electric equipment and systems
+  structuredidentifier:
+    project_number: W7118
+    type: JIS

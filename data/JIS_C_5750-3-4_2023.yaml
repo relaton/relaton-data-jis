@@ -86,20 +86,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 03.100.40
-  text: Research and development
-- code: 03.120.01
-  text: Quality in general
-- code: '31.020'
-  text: Electronic components in general
-structuredidentifier:
-  project_number: C5750
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 03.100.40
+    text: Research and development
+  - code: 03.120.01
+    text: Quality in general
+  - code: '31.020'
+    text: Electronic components in general
+  structuredidentifier:
+    project_number: C5750
+    type: JIS

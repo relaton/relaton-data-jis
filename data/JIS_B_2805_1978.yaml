@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本ばね工業会
-ics:
-- code: 21.060.60
-  text: Rings, bushes, sleeves, collars
-structuredidentifier:
-  project_number: B2805
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本ばね工業会
+  ics:
+  - code: 21.060.60
+    text: Rings, bushes, sleeves, collars
+  structuredidentifier:
+    project_number: B2805
+    type: JIS

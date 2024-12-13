@@ -70,18 +70,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '11.100'
-  text: Laboratory medicine
-- code: '71.020'
-  text: Production in the chemical industry
-structuredidentifier:
-  project_number: Z0022
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '11.100'
+    text: Laboratory medicine
+  - code: '71.020'
+    text: Production in the chemical industry
+  structuredidentifier:
+    project_number: Z0022
+    type: JIS

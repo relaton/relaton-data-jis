@@ -81,16 +81,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本鉱業協会
-ics:
-- code: 77.120.60
-  text: Lead, zinc, tin and their alloys
-structuredidentifier:
-  project_number: H1141
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本鉱業協会
+  ics:
+  - code: 77.120.60
+    text: Lead, zinc, tin and their alloys
+  structuredidentifier:
+    project_number: H1141
+    type: JIS

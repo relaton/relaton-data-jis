@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本自動車車体工業会
-ics:
-- code: '27.200'
-  text: Refrigerating technology
-- code: '43.160'
-  text: Special purpose vehicles
-structuredidentifier:
-  project_number: D1701
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本自動車車体工業会
+  ics:
+  - code: '27.200'
+    text: Refrigerating technology
+  - code: '43.160'
+    text: Special purpose vehicles
+  structuredidentifier:
+    project_number: D1701
+    type: JIS

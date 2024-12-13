@@ -76,18 +76,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: '73.040'
-  text: Coals
-- code: 75.160.10
-  text: Solid fuels
-structuredidentifier:
-  project_number: M8812
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: '73.040'
+    text: Coals
+  - code: 75.160.10
+    text: Solid fuels
+  structuredidentifier:
+    project_number: M8812
+    type: JIS

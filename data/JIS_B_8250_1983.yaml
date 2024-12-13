@@ -71,17 +71,17 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "高圧ガス保安協会                                                \r\n                                                                                            高圧ガス容器工業会
-      \                                               \r\n                                                                                            一般社団法人　日本ボイラ協会"
-ics:
-- code: 23.020.30
-  text: Pressure vessels
-structuredidentifier:
-  project_number: B8250
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "高圧ガス保安協会                                                \r\n                                                                                            高圧ガス容器工業会
+        \                                               \r\n                                                                                            一般社団法人　日本ボイラ協会"
+  ics:
+  - code: 23.020.30
+    text: Pressure vessels
+  structuredidentifier:
+    project_number: B8250
+    type: JIS

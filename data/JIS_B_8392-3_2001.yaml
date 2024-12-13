@@ -87,20 +87,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本フルードパワー工業会"
-ics:
-- code: 23.100.01
-  text: Fluid power systems in general
-- code: 71.040.50
-  text: Physicochemical methods of analysis
-- code: 71.100.20
-  text: Gases for industrial application
-structuredidentifier:
-  project_number: B8392
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本フルードパワー工業会"
+  ics:
+  - code: 23.100.01
+    text: Fluid power systems in general
+  - code: 71.040.50
+    text: Physicochemical methods of analysis
+  - code: 71.100.20
+    text: Gases for industrial application
+  structuredidentifier:
+    project_number: B8392
+    type: JIS

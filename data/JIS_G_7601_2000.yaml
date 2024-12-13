@@ -71,18 +71,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: ステンレス協会
-ics:
-- code: 77.140.10
-  text: Heat-treatable steels
-- code: 77.140.20
-  text: Stainless steels
-structuredidentifier:
-  project_number: G7601
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: ステンレス協会
+  ics:
+  - code: 77.140.10
+    text: Heat-treatable steels
+  - code: 77.140.20
+    text: Stainless steels
+  structuredidentifier:
+    project_number: G7601
+    type: JIS

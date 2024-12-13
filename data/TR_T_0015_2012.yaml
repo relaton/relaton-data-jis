@@ -72,16 +72,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: 国立研究開発法人　産業技術総合研究所
-ics:
-- code: 11.040.50
-  text: Radiographic equipment
-structuredidentifier:
-  project_number: T0015
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: 国立研究開発法人　産業技術総合研究所
+  ics:
+  - code: 11.040.50
+    text: Radiographic equipment
+  structuredidentifier:
+    project_number: T0015
+    type: JIS

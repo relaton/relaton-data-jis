@@ -80,18 +80,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: '35.060'
-  text: Languages used in information technology
-- code: '35.140'
-  text: Computer graphics
-structuredidentifier:
-  project_number: X4231
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  - code: '35.140'
+    text: Computer graphics
+  structuredidentifier:
+    project_number: X4231
+    type: JIS

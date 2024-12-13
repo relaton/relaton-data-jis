@@ -88,18 +88,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 35.240.30
-  text: IT applications in information, documentation and publishing
-- code: 37.100.99
-  text: Other standards related to graphic technology
-structuredidentifier:
-  project_number: X9202
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  - code: 37.100.99
+    text: Other standards related to graphic technology
+  structuredidentifier:
+    project_number: X9202
+    type: JIS

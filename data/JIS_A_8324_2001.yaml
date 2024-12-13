@@ -88,20 +88,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本建設機械施工協会"
-ics:
-- code: '01.070'
-  text: Colour coding
-- code: 29.060.01
-  text: Electrical wires and cables in general
-- code: '53.100'
-  text: Earth-moving machinery
-structuredidentifier:
-  project_number: A8324
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本建設機械施工協会"
+  ics:
+  - code: '01.070'
+    text: Colour coding
+  - code: 29.060.01
+    text: Electrical wires and cables in general
+  - code: '53.100'
+    text: Earth-moving machinery
+  structuredidentifier:
+    project_number: A8324
+    type: JIS

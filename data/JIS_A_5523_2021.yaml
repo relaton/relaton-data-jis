@@ -79,20 +79,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本鉄鋼連盟
-ics:
-- code: 25.160.20
-  text: Welding consumables
-- code: 77.140.70
-  text: Steel profiles
-- code: 91.100.15
-  text: Mineral materials and products
-structuredidentifier:
-  project_number: A5523
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本鉄鋼連盟
+  ics:
+  - code: 25.160.20
+    text: Welding consumables
+  - code: 77.140.70
+    text: Steel profiles
+  - code: 91.100.15
+    text: Mineral materials and products
+  structuredidentifier:
+    project_number: A5523
+    type: JIS

@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 社団法人　日本電子機械工業会
-ics:
-- code: 31.060.10
-  text: Fixed capacitors
-- code: 31.060.20
-  text: Ceramic and mica capacitors
-structuredidentifier:
-  project_number: C5130
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 社団法人　日本電子機械工業会
+  ics:
+  - code: 31.060.10
+    text: Fixed capacitors
+  - code: 31.060.20
+    text: Ceramic and mica capacitors
+  structuredidentifier:
+    project_number: C5130
+    type: JIS

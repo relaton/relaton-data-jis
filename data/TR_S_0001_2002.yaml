@@ -70,18 +70,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 17.140.50
-  text: Electroacoustics
-- code: '97.020'
-  text: Home economics in general
-structuredidentifier:
-  project_number: S0001
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 17.140.50
+    text: Electroacoustics
+  - code: '97.020'
+    text: Home economics in general
+  structuredidentifier:
+    project_number: S0001
+    type: JIS

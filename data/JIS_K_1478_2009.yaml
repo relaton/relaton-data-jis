@@ -85,18 +85,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 71.100.80
-  text: Chemicals for purification of water
-- code: 71.100.99
-  text: Other products of the chemical industry
-structuredidentifier:
-  project_number: K1478
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 71.100.80
+    text: Chemicals for purification of water
+  - code: 71.100.99
+    text: Other products of the chemical industry
+  structuredidentifier:
+    project_number: K1478
+    type: JIS

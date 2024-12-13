@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　電気学会
-ics:
-- code: 01.080.20
-  text: Graphical symbols for use on specific equipment
-- code: '35.080'
-  text: Software
-structuredidentifier:
-  project_number: X0122
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　電気学会
+  ics:
+  - code: 01.080.20
+    text: Graphical symbols for use on specific equipment
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    project_number: X0122
+    type: JIS

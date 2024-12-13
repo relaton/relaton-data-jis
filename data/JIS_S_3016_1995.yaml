@@ -75,16 +75,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 全日本ブラシ工業協同組合
-ics:
-- code: '97.170'
-  text: Body care equipment
-structuredidentifier:
-  project_number: S3016
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 全日本ブラシ工業協同組合
+  ics:
+  - code: '97.170'
+    text: Body care equipment
+  structuredidentifier:
+    project_number: S3016
+    type: JIS

@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 石油化学工業協会
-ics:
-- code: 83.080.20
-  text: Thermoplastic materials
-structuredidentifier:
-  project_number: K6870
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 石油化学工業協会
+  ics:
+  - code: 83.080.20
+    text: Thermoplastic materials
+  structuredidentifier:
+    project_number: K6870
+    type: JIS

@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　電子情報技術産業協会
-ics:
-- code: '01.075'
-  text: Character symbols
-- code: '35.040'
-  text: Information coding
-structuredidentifier:
-  project_number: X0105
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　電子情報技術産業協会
+  ics:
+  - code: '01.075'
+    text: Character symbols
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    project_number: X0105
+    type: JIS

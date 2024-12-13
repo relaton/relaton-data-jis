@@ -79,18 +79,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本鉄鋼連盟
-ics:
-- code: 25.100.01
-  text: Cutting tools in general
-- code: 77.140.35
-  text: Tool steels
-structuredidentifier:
-  project_number: G4403
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本鉄鋼連盟
+  ics:
+  - code: 25.100.01
+    text: Cutting tools in general
+  - code: 77.140.35
+    text: Tool steels
+  structuredidentifier:
+    project_number: G4403
+    type: JIS

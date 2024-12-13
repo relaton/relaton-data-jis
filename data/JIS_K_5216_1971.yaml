@@ -81,16 +81,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            化成品工業協会"
-ics:
-- code: 87.060.10
-  text: Pigments and extenders
-structuredidentifier:
-  project_number: K5216
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            化成品工業協会"
+  ics:
+  - code: 87.060.10
+    text: Pigments and extenders
+  structuredidentifier:
+    project_number: K5216
+    type: JIS

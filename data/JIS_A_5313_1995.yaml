@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　プレストレスト・コンクリート建設業協会
-ics:
-- code: 91.100.30
-  text: Concrete and concrete products
-- code: '93.040'
-  text: Bridge construction
-structuredidentifier:
-  project_number: A5313
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　プレストレスト・コンクリート建設業協会
+  ics:
+  - code: 91.100.30
+    text: Concrete and concrete products
+  - code: '93.040'
+    text: Bridge construction
+  structuredidentifier:
+    project_number: A5313
+    type: JIS

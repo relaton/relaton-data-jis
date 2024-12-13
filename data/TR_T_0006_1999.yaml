@@ -70,18 +70,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '11.180'
-  text: Aids for disabled or handicapped persons
-- code: 93.080.30
-  text: Road equipment and installations
-structuredidentifier:
-  project_number: T0006
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '11.180'
+    text: Aids for disabled or handicapped persons
+  - code: 93.080.30
+    text: Road equipment and installations
+  structuredidentifier:
+    project_number: T0006
+    type: JIS

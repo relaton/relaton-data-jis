@@ -89,17 +89,17 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本カーペット工業組合"
-ics:
-- code: 01.040.59
-  text: Textile and leather technology (Vocabularies)
-- code: 59.080.60
-structuredidentifier:
-  project_number: L0212
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本カーペット工業組合"
+  ics:
+  - code: 01.040.59
+    text: Textile and leather technology (Vocabularies)
+  - code: 59.080.60
+  structuredidentifier:
+    project_number: L0212
+    type: JIS

@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本映画テレビ技術協会
-ics:
-- code: 37.060.20
-  text: Motion picture films. Cartridges
-structuredidentifier:
-  project_number: B7222
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本映画テレビ技術協会
+  ics:
+  - code: 37.060.20
+    text: Motion picture films. Cartridges
+  structuredidentifier:
+    project_number: B7222
+    type: JIS

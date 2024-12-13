@@ -87,18 +87,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本歯科器械工業協同組合"
-ics:
-- code: 11.060.20
-  text: Dental equipment
-- code: 11.060.25
-  text: Dental instruments
-structuredidentifier:
-  project_number: T5753
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本歯科器械工業協同組合"
+  ics:
+  - code: 11.060.20
+    text: Dental equipment
+  - code: 11.060.25
+    text: Dental instruments
+  structuredidentifier:
+    project_number: T5753
+    type: JIS

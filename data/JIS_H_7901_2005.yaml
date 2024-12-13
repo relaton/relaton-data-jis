@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　大阪科学技術センター
-ics:
-- code: 01.040.07
-  text: Natural and applied sciences (Vocabularies)
-- code: '07.080'
-  text: Biology. Botany. Zoology
-structuredidentifier:
-  project_number: H7901
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　大阪科学技術センター
+  ics:
+  - code: 01.040.07
+    text: Natural and applied sciences (Vocabularies)
+  - code: '07.080'
+    text: Biology. Botany. Zoology
+  structuredidentifier:
+    project_number: H7901
+    type: JIS

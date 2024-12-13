@@ -76,18 +76,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本潜熱蓄熱建材協会
-ics:
-- code: 91.100.01
-  text: Construction materials in general
-- code: 91.100.99
-  text: Other construction materials
-structuredidentifier:
-  project_number: A1489
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本潜熱蓄熱建材協会
+  ics:
+  - code: 91.100.01
+    text: Construction materials in general
+  - code: 91.100.99
+    text: Other construction materials
+  structuredidentifier:
+    project_number: A1489
+    type: JIS

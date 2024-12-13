@@ -69,13 +69,13 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本ガス石油機器工業会
-structuredidentifier:
-  project_number: S2128
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本ガス石油機器工業会
+  structuredidentifier:
+    project_number: S2128
+    type: JIS

@@ -71,13 +71,13 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般社団法人　日本電機工業会                                                \r\n                                                                                            電気絶縁材料工業会"
-structuredidentifier:
-  project_number: C2204
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般社団法人　日本電機工業会                                                \r\n                                                                                            電気絶縁材料工業会"
+  structuredidentifier:
+    project_number: C2204
+    type: JIS

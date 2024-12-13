@@ -70,20 +70,20 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　遠赤外線協会
-ics:
-- code: '29.045'
-  text: Semiconducting materials
-- code: 81.060.30
-  text: Advanced ceramics
-- code: 97.100.10
-  text: Electric heaters
-structuredidentifier:
-  project_number: R1801
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　遠赤外線協会
+  ics:
+  - code: '29.045'
+    text: Semiconducting materials
+  - code: 81.060.30
+    text: Advanced ceramics
+  - code: 97.100.10
+    text: Electric heaters
+  structuredidentifier:
+    project_number: R1801
+    type: JIS

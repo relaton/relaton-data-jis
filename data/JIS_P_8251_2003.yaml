@@ -90,18 +90,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            紙パルプ技術協会"
-ics:
-- code: '85.040'
-  text: Pulps
-- code: '85.060'
-  text: Paper and board
-structuredidentifier:
-  project_number: P8251
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            紙パルプ技術協会"
+  ics:
+  - code: '85.040'
+    text: Pulps
+  - code: '85.060'
+    text: Paper and board
+  structuredidentifier:
+    project_number: P8251
+    type: JIS

@@ -82,16 +82,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　大阪科学技術センター
-ics:
-- code: 77.040.20
-  text: Non-destructive testing of metals
-structuredidentifier:
-  project_number: Z2284
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　大阪科学技術センター
+  ics:
+  - code: 77.040.20
+    text: Non-destructive testing of metals
+  structuredidentifier:
+    project_number: Z2284
+    type: JIS

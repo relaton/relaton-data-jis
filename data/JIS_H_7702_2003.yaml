@@ -78,20 +78,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　大阪科学技術センター
-ics:
-- code: 43.040.60
-  text: Bodies and body components
-- code: 77.040.10
-  text: Mechanical testing of metals
-- code: 77.150.10
-  text: Aluminium products
-structuredidentifier:
-  project_number: H7702
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　大阪科学技術センター
+  ics:
+  - code: 43.040.60
+    text: Bodies and body components
+  - code: 77.040.10
+    text: Mechanical testing of metals
+  - code: 77.150.10
+    text: Aluminium products
+  structuredidentifier:
+    project_number: H7702
+    type: JIS

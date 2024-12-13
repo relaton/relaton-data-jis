@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本写真機工業会
-ics:
-- code: 37.040.10
-  text: Photographic equipment. Projectors
-structuredidentifier:
-  project_number: B7096
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本写真機工業会
+  ics:
+  - code: 37.040.10
+    text: Photographic equipment. Projectors
+  structuredidentifier:
+    project_number: B7096
+    type: JIS

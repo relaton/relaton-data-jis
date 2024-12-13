@@ -75,16 +75,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 耐火物技術協会
-ics:
-- code: 17.200.20
-  text: Temperature-measuring instruments
-structuredidentifier:
-  project_number: R8101
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 耐火物技術協会
+  ics:
+  - code: 17.200.20
+    text: Temperature-measuring instruments
+  structuredidentifier:
+    project_number: R8101
+    type: JIS

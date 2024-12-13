@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本ベアリング工業会
-ics:
-- code: 17.140.20
-  text: Noise emitted by machines and equipment
-- code: 21.100.20
-  text: Rolling bearings
-structuredidentifier:
-  project_number: B1548
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本ベアリング工業会
+  ics:
+  - code: 17.140.20
+    text: Noise emitted by machines and equipment
+  - code: 21.100.20
+    text: Rolling bearings
+  structuredidentifier:
+    project_number: B1548
+    type: JIS

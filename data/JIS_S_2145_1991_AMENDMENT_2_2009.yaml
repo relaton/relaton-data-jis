@@ -84,17 +84,17 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　日本ガス機器検査協会
-      \                                               \r\n                                                                                            一般社団法人　日本ガス石油機器工業会"
-ics:
-- code: 23.040.70
-  text: Hoses and hose assemblies
-structuredidentifier:
-  project_number: S2145
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　日本ガス機器検査協会
+        \                                               \r\n                                                                                            一般社団法人　日本ガス石油機器工業会"
+  ics:
+  - code: 23.040.70
+    text: Hoses and hose assemblies
+  structuredidentifier:
+    project_number: S2145
+    type: JIS

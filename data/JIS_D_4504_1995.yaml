@@ -75,18 +75,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　自動車技術会
-ics:
-- code: 43.080.10
-  text: Trucks and trailers
-- code: 43.080.20
-  text: Buses
-structuredidentifier:
-  project_number: D4504
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　自動車技術会
+  ics:
+  - code: 43.080.10
+    text: Trucks and trailers
+  - code: 43.080.20
+    text: Buses
+  structuredidentifier:
+    project_number: D4504
+    type: JIS

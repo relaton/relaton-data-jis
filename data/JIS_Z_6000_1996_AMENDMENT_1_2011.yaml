@@ -68,18 +68,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　日本文書情報マネジメント協会
-ics:
-- code: 01.040.37
-  text: Image technology (Vocabularies)
-- code: '37.080'
-  text: Document imaging applications
-structuredidentifier:
-  project_number: Z6000
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　日本文書情報マネジメント協会
+  ics:
+  - code: 01.040.37
+    text: Image technology (Vocabularies)
+  - code: '37.080'
+    text: Document imaging applications
+  structuredidentifier:
+    project_number: Z6000
+    type: JIS

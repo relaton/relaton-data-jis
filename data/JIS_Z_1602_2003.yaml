@@ -91,18 +91,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            全国１８リットル缶工業組合連合会"
-ics:
-- code: '55.120'
-  text: Cans. Tins. Tubes
-- code: 77.140.50
-  text: Flat steel products and semi-products
-structuredidentifier:
-  project_number: Z1602
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            全国１８リットル缶工業組合連合会"
+  ics:
+  - code: '55.120'
+    text: Cans. Tins. Tubes
+  - code: 77.140.50
+    text: Flat steel products and semi-products
+  structuredidentifier:
+    project_number: Z1602
+    type: JIS

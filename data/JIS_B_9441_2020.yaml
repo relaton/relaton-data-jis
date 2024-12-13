@@ -90,18 +90,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            技術研究組合次世代３Ｄ積層造形技術総合開発機構"
-ics:
-- code: 01.040.25
-  text: Manufacturing engineering (Vocabularies)
-- code: '25.030'
-  text: Additive manufacturing
-structuredidentifier:
-  project_number: B9441
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            技術研究組合次世代３Ｄ積層造形技術総合開発機構"
+  ics:
+  - code: 01.040.25
+    text: Manufacturing engineering (Vocabularies)
+  - code: '25.030'
+    text: Additive manufacturing
+  structuredidentifier:
+    project_number: B9441
+    type: JIS

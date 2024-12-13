@@ -87,20 +87,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 13.040.01
-  text: Air quality in general
-- code: 13.060.01
-  text: Water quality in general
-- code: 71.040.40
-  text: Chemical analysis
-structuredidentifier:
-  project_number: B7921
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 13.040.01
+    text: Air quality in general
+  - code: 13.060.01
+    text: Water quality in general
+  - code: 71.040.40
+    text: Chemical analysis
+  structuredidentifier:
+    project_number: B7921
+    type: JIS

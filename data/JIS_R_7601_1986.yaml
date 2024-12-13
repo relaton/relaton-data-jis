@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 財団法人　化学技術戦略推進機構
-ics:
-- code: 59.100.20
-  text: Carbon materials
-- code: 81.060.20
-  text: Ceramic products
-structuredidentifier:
-  project_number: R7601
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 財団法人　化学技術戦略推進機構
+  ics:
+  - code: 59.100.20
+    text: Carbon materials
+  - code: 81.060.20
+    text: Ceramic products
+  structuredidentifier:
+    project_number: R7601
+    type: JIS

@@ -80,18 +80,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本鉄鋼連盟
-ics:
-- code: 77.140.30
-  text: Steels for pressure purposes
-- code: 77.140.50
-  text: Flat steel products and semi-products
-structuredidentifier:
-  project_number: G4110
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本鉄鋼連盟
+  ics:
+  - code: 77.140.30
+    text: Steels for pressure purposes
+  - code: 77.140.50
+    text: Flat steel products and semi-products
+  structuredidentifier:
+    project_number: G4110
+    type: JIS

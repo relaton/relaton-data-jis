@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: タングステン・モリブデン工業会
-ics:
-- code: 77.120.99
-  text: Other non-ferrous metals and their alloys
-structuredidentifier:
-  project_number: H4482
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: タングステン・モリブデン工業会
+  ics:
+  - code: 77.120.99
+    text: Other non-ferrous metals and their alloys
+  structuredidentifier:
+    project_number: H4482
+    type: JIS

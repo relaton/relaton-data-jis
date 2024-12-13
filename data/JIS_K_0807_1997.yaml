@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本電気計測器工業会
-ics:
-- code: 13.060.01
-  text: Water quality in general
-- code: 71.040.50
-  text: Physicochemical methods of analysis
-structuredidentifier:
-  project_number: K0807
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本電気計測器工業会
+  ics:
+  - code: 13.060.01
+    text: Water quality in general
+  - code: 71.040.50
+    text: Physicochemical methods of analysis
+  structuredidentifier:
+    project_number: K0807
+    type: JIS

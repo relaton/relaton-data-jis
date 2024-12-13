@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 研磨布紙協会
-ics:
-- code: 25.100.70
-  text: Abrasives
-structuredidentifier:
-  project_number: R6260
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 研磨布紙協会
+  ics:
+  - code: 25.100.70
+    text: Abrasives
+  structuredidentifier:
+    project_number: R6260
+    type: JIS

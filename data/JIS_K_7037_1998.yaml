@@ -80,16 +80,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　強化プラスチック協会
-ics:
-- code: 23.040.20
-  text: Plastics pipes
-structuredidentifier:
-  project_number: K7037
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　強化プラスチック協会
+  ics:
+  - code: 23.040.20
+    text: Plastics pipes
+  structuredidentifier:
+    project_number: K7037
+    type: JIS

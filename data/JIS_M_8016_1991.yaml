@@ -75,16 +75,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 岡山県クレー工業協同組合
-ics:
-- code: '73.080'
-  text: Non-metalliferous minerals
-structuredidentifier:
-  project_number: M8016
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 岡山県クレー工業協同組合
+  ics:
+  - code: '73.080'
+    text: Non-metalliferous minerals
+  structuredidentifier:
+    project_number: M8016
+    type: JIS

@@ -75,20 +75,20 @@ contributor:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　日本情報経済社会推進協会"
-ics:
-- code: '07.040'
-  text: Astronomy. Geodesy. Geography
-- code: 35.240.30
-  text: IT applications in information, documentation and publishing
-- code: 35.240.70
-  text: IT applications in science
-structuredidentifier:
-  project_number: X7199
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　日本情報経済社会推進協会"
+  ics:
+  - code: '07.040'
+    text: Astronomy. Geodesy. Geography
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  - code: 35.240.70
+    text: IT applications in science
+  structuredidentifier:
+    project_number: X7199
+    type: JIS

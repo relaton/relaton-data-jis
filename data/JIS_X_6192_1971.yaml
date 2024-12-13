@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　電子情報技術産業協会
-ics:
-- code: 35.220.10
-  text: Paper cards and tapes
-structuredidentifier:
-  project_number: X6192
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　電子情報技術産業協会
+  ics:
+  - code: 35.220.10
+    text: Paper cards and tapes
+  structuredidentifier:
+    project_number: X6192
+    type: JIS

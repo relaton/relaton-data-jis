@@ -88,18 +88,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 03.120.10
-  text: Quality management and quality assurance
-- code: '83.020'
-  text: Manufacturing processes in the rubber and plastics industries
-structuredidentifier:
-  project_number: Q9091
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 03.120.10
+    text: Quality management and quality assurance
+  - code: '83.020'
+    text: Manufacturing processes in the rubber and plastics industries
+  structuredidentifier:
+    project_number: Q9091
+    type: JIS

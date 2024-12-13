@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　産業環境管理協会"
-ics:
-- code: 13.060.25
-  text: Water for industrial use
-- code: 13.060.70
-  text: Examination of biological properties of water
-structuredidentifier:
-  project_number: K0350
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　産業環境管理協会"
+  ics:
+  - code: 13.060.25
+    text: Water for industrial use
+  - code: 13.060.70
+    text: Examination of biological properties of water
+  structuredidentifier:
+    project_number: K0350
+    type: JIS

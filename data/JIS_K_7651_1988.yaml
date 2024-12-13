@@ -71,18 +71,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 写真感光材料工業会
-ics:
-- code: 01.040.37
-  text: Image technology (Vocabularies)
-- code: 37.040.20
-  text: Photographic paper, films and plates. Cartridges
-structuredidentifier:
-  project_number: K7651
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 写真感光材料工業会
+  ics:
+  - code: 01.040.37
+    text: Image technology (Vocabularies)
+  - code: 37.040.20
+    text: Photographic paper, films and plates. Cartridges
+  structuredidentifier:
+    project_number: K7651
+    type: JIS

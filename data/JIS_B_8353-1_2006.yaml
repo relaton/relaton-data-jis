@@ -91,18 +91,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本フルードパワー工業会"
-ics:
-- code: 17.140.20
-  text: Noise emitted by machines and equipment
-- code: 23.100.10
-  text: Pumps and motors
-structuredidentifier:
-  project_number: B8353
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本フルードパワー工業会"
+  ics:
+  - code: 17.140.20
+    text: Noise emitted by machines and equipment
+  - code: 23.100.10
+    text: Pumps and motors
+  structuredidentifier:
+    project_number: B8353
+    type: JIS

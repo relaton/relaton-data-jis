@@ -83,20 +83,20 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　ビジネス機械・情報システム産業協会"
-ics:
-- code: 01.040.35
-  text: Information technology (Vocabularies)
-- code: 35.220.10
-  text: Paper cards and tapes
-- code: 35.240.01
-  text: Application of information technology in general
-structuredidentifier:
-  project_number: X6901
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　ビジネス機械・情報システム産業協会"
+  ics:
+  - code: 01.040.35
+    text: Information technology (Vocabularies)
+  - code: 35.220.10
+    text: Paper cards and tapes
+  - code: 35.240.01
+    text: Application of information technology in general
+  structuredidentifier:
+    project_number: X6901
+    type: JIS

@@ -69,22 +69,22 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 13.020.40
-  text: Pollution, pollution control and conservation
-- code: 13.040.01
-  text: Air quality in general
-- code: '19.040'
-  text: Environmental testing
-- code: 71.100.99
-  text: Other products of the chemical industry
-structuredidentifier:
-  project_number: Z0018
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 13.020.40
+    text: Pollution, pollution control and conservation
+  - code: 13.040.01
+    text: Air quality in general
+  - code: '19.040'
+    text: Environmental testing
+  - code: 71.100.99
+    text: Other products of the chemical industry
+  structuredidentifier:
+    project_number: Z0018
+    type: JIS

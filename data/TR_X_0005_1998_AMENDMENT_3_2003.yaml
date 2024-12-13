@@ -70,18 +70,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '35.060'
-  text: Languages used in information technology
-- code: 35.240.50
-  text: IT applications in industry
-structuredidentifier:
-  project_number: X0005
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  - code: 35.240.50
+    text: IT applications in industry
+  structuredidentifier:
+    project_number: X0005
+    type: JIS

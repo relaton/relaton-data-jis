@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本内燃機関連合会
-ics:
-- code: 13.040.50
-  text: Transport exhaust emissions
-- code: '27.020'
-  text: Internal combustion engines
-structuredidentifier:
-  project_number: B8008
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本内燃機関連合会
+  ics:
+  - code: 13.040.50
+    text: Transport exhaust emissions
+  - code: '27.020'
+    text: Internal combustion engines
+  structuredidentifier:
+    project_number: B8008
+    type: JIS

@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 29.220.01
-  text: Galvanic cells and batteries in general
-structuredidentifier:
-  project_number: C1021
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 29.220.01
+    text: Galvanic cells and batteries in general
+  structuredidentifier:
+    project_number: C1021
+    type: JIS

@@ -92,19 +92,19 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            特定非営利活動法人　ユニバーサルファッション協会
-      \                                               \r\n                                                                                            一般社団法人　日本アパレル・ファッション産業協会"
-ics:
-- code: '11.180'
-  text: Aids for disabled or handicapped persons
-- code: '61.040'
-  text: Headgear. Clothing accessories. Fastening of clothing
-structuredidentifier:
-  project_number: S0023
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            特定非営利活動法人　ユニバーサルファッション協会
+        \                                               \r\n                                                                                            一般社団法人　日本アパレル・ファッション産業協会"
+  ics:
+  - code: '11.180'
+    text: Aids for disabled or handicapped persons
+  - code: '61.040'
+    text: Headgear. Clothing accessories. Fastening of clothing
+  structuredidentifier:
+    project_number: S0023
+    type: JIS

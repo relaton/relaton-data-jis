@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 財団法人　日本船舶標準協会
-ics:
-- code: 47.020.70
-  text: Navigation and control equipment
-structuredidentifier:
-  project_number: F3019
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 財団法人　日本船舶標準協会
+  ics:
+  - code: 47.020.70
+    text: Navigation and control equipment
+  structuredidentifier:
+    project_number: F3019
+    type: JIS

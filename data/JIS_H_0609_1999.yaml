@@ -81,18 +81,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　新金属協会
-ics:
-- code: '31.200'
-  text: Integrated circuits. Microelectronics
-- code: 77.120.99
-  text: Other non-ferrous metals and their alloys
-structuredidentifier:
-  project_number: H0609
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　新金属協会
+  ics:
+  - code: '31.200'
+    text: Integrated circuits. Microelectronics
+  - code: 77.120.99
+    text: Other non-ferrous metals and their alloys
+  structuredidentifier:
+    project_number: H0609
+    type: JIS

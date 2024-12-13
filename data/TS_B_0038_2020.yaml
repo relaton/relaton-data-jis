@@ -76,18 +76,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　ファインバブル産業会
-ics:
-- code: '07.030'
-  text: Physics. Chemistry
-- code: '67.260'
-  text: Plants and equipment for the food industry
-structuredidentifier:
-  project_number: B0038
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　ファインバブル産業会
+  ics:
+  - code: '07.030'
+    text: Physics. Chemistry
+  - code: '67.260'
+    text: Plants and equipment for the food industry
+  structuredidentifier:
+    project_number: B0038
+    type: JIS

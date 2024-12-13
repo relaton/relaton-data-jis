@@ -83,16 +83,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 03.120.20
-  text: Product and company certification. Conformity assessment
-structuredidentifier:
-  project_number: Q1001
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 03.120.20
+    text: Product and company certification. Conformity assessment
+  structuredidentifier:
+    project_number: Q1001
+    type: JIS

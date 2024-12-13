@@ -79,16 +79,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本福祉用具・生活支援用具協会
-ics:
-- code: 11.180.10
-  text: Aids and adaptation for moving
-structuredidentifier:
-  project_number: T9291
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本福祉用具・生活支援用具協会
+  ics:
+  - code: 11.180.10
+    text: Aids and adaptation for moving
+  structuredidentifier:
+    project_number: T9291
+    type: JIS

@@ -75,16 +75,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本計量機器工業連合会
-ics:
-- code: '17.060'
-  text: Measurement of volume, mass, density, viscosity
-structuredidentifier:
-  project_number: B7612
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本計量機器工業連合会
+  ics:
+  - code: '17.060'
+    text: Measurement of volume, mass, density, viscosity
+  structuredidentifier:
+    project_number: B7612
+    type: JIS

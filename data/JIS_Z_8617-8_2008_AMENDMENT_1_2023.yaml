@@ -77,17 +77,17 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 01.080.30
-  text: Graphical symbols for use on mechanical engineering and construction drawings,
-    diagrams, plans, maps and in relevant technical product documentation
-structuredidentifier:
-  project_number: Z8617
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 01.080.30
+    text: Graphical symbols for use on mechanical engineering and construction drawings,
+      diagrams, plans, maps and in relevant technical product documentation
+  structuredidentifier:
+    project_number: Z8617
+    type: JIS

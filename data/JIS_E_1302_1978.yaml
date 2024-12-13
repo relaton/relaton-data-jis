@@ -69,13 +69,13 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　鉄道分岐器工業協会
-structuredidentifier:
-  project_number: E1302
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　鉄道分岐器工業協会
+  structuredidentifier:
+    project_number: E1302
+    type: JIS

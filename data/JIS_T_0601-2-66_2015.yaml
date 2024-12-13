@@ -91,18 +91,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本補聴器工業会"
-ics:
-- code: 11.180.15
-  text: Aids for deaf and hearing impaired people
-- code: 17.140.50
-  text: Electroacoustics
-structuredidentifier:
-  project_number: T0601
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本補聴器工業会"
+  ics:
+  - code: 11.180.15
+    text: Aids for deaf and hearing impaired people
+  - code: 17.140.50
+    text: Electroacoustics
+  structuredidentifier:
+    project_number: T0601
+    type: JIS

@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 化成品工業協会
-ics:
-- code: 71.080.40
-  text: Organic acids
-structuredidentifier:
-  project_number: K4147
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 化成品工業協会
+  ics:
+  - code: 71.080.40
+    text: Organic acids
+  structuredidentifier:
+    project_number: K4147
+    type: JIS

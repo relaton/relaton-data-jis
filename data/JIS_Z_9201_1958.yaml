@@ -69,19 +69,19 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 01.080.30
-  text: Graphical symbols for use on mechanical engineering and construction drawings,
-    diagrams, plans, maps and in relevant technical product documentation
-- code: 17.200.10
-  text: Heat. Calorimetry
-structuredidentifier:
-  project_number: Z9201
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 01.080.30
+    text: Graphical symbols for use on mechanical engineering and construction drawings,
+      diagrams, plans, maps and in relevant technical product documentation
+  - code: 17.200.10
+    text: Heat. Calorimetry
+  structuredidentifier:
+    project_number: Z9201
+    type: JIS

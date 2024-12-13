@@ -76,16 +76,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益財団法人　福島イノベーション・コースト構想推進機構
-ics:
-- code: 03.120.10
-  text: Quality management and quality assurance
-structuredidentifier:
-  project_number: Y1011
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益財団法人　福島イノベーション・コースト構想推進機構
+  ics:
+  - code: 03.120.10
+    text: Quality management and quality assurance
+  structuredidentifier:
+    project_number: Y1011
+    type: JIS

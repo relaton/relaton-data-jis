@@ -71,16 +71,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　建材試験センター                                                \r\n                                                                                            日本シーリング材工業会"
-ics:
-- code: 91.100.50
-  text: Binders. Sealing materials
-structuredidentifier:
-  project_number: A5751
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　建材試験センター                                                \r\n                                                                                            日本シーリング材工業会"
+  ics:
+  - code: 91.100.50
+    text: Binders. Sealing materials
+  structuredidentifier:
+    project_number: A5751
+    type: JIS

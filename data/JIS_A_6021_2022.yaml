@@ -75,18 +75,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本ウレタン建材工業会
-ics:
-- code: 91.060.20
-  text: Roofs
-- code: 91.120.30
-  text: Waterproofing
-structuredidentifier:
-  project_number: A6021
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本ウレタン建材工業会
+  ics:
+  - code: 91.060.20
+    text: Roofs
+  - code: 91.120.30
+    text: Waterproofing
+  structuredidentifier:
+    project_number: A6021
+    type: JIS

@@ -85,16 +85,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ジュエリー協会"
-ics:
-- code: '39.060'
-  text: Jewellery
-structuredidentifier:
-  project_number: H6309
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ジュエリー協会"
+  ics:
+  - code: '39.060'
+    text: Jewellery
+  structuredidentifier:
+    project_number: H6309
+    type: JIS

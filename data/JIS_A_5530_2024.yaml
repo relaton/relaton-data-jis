@@ -76,20 +76,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本鉄鋼連盟
-ics:
-- code: 77.140.75
-  text: Steel pipes and tubes for specific use
-- code: '93.020'
-  text: Earthworks. Excavations. Foundation construction. Underground works
-- code: '93.140'
-  text: Construction of waterways, ports and dykes
-structuredidentifier:
-  project_number: A5530
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本鉄鋼連盟
+  ics:
+  - code: 77.140.75
+    text: Steel pipes and tubes for specific use
+  - code: '93.020'
+    text: Earthworks. Excavations. Foundation construction. Underground works
+  - code: '93.140'
+    text: Construction of waterways, ports and dykes
+  structuredidentifier:
+    project_number: A5530
+    type: JIS

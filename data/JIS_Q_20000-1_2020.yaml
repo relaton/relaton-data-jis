@@ -90,18 +90,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            特定非営利活動法人　ｉｔＳＭＦＪａｐａｎ"
-ics:
-- code: 03.080.99
-  text: Other services
-- code: '35.020'
-  text: Information technology (IT) in general
-structuredidentifier:
-  project_number: Q20000
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            特定非営利活動法人　ｉｔＳＭＦＪａｐａｎ"
+  ics:
+  - code: 03.080.99
+    text: Other services
+  - code: '35.020'
+    text: Information technology (IT) in general
+  structuredidentifier:
+    project_number: Q20000
+    type: JIS

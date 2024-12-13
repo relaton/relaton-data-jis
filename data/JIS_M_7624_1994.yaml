@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　日本保安用品協会
-ics:
-- code: 73.100.99
-  text: Other mining equipment
-structuredidentifier:
-  project_number: M7624
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　日本保安用品協会
+  ics:
+  - code: 73.100.99
+    text: Other mining equipment
+  structuredidentifier:
+    project_number: M7624
+    type: JIS

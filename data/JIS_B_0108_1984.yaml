@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本機械学会
-ics:
-- code: 01.040.27
-  text: Energy and heat transfer engineering (Vocabularies)
-- code: '27.020'
-  text: Internal combustion engines
-structuredidentifier:
-  project_number: B0108
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本機械学会
+  ics:
+  - code: 01.040.27
+    text: Energy and heat transfer engineering (Vocabularies)
+  - code: '27.020'
+    text: Internal combustion engines
+  structuredidentifier:
+    project_number: B0108
+    type: JIS

@@ -73,18 +73,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　照明学会
-ics:
-- code: 91.160.20
-  text: Exterior building lighting
-- code: 97.220.10
-  text: Sports facilities
-structuredidentifier:
-  project_number: Z9120
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　照明学会
+  ics:
+  - code: 91.160.20
+    text: Exterior building lighting
+  - code: 97.220.10
+    text: Sports facilities
+  structuredidentifier:
+    project_number: Z9120
+    type: JIS

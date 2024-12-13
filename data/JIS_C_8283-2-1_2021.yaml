@@ -86,18 +86,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 29.120.30
-  text: Plugs, socket-outlets, couplers
-- code: '61.080'
-  text: Sewing machines and other equipment for the clothing industry
-structuredidentifier:
-  project_number: C8283
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 29.120.30
+    text: Plugs, socket-outlets, couplers
+  - code: '61.080'
+    text: Sewing machines and other equipment for the clothing industry
+  structuredidentifier:
+    project_number: C8283
+    type: JIS

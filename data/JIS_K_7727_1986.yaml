@@ -69,13 +69,13 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 写真感光材料工業会
-structuredidentifier:
-  project_number: K7727
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 写真感光材料工業会
+  structuredidentifier:
+    project_number: K7727
+    type: JIS

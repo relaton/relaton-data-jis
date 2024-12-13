@@ -88,16 +88,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 03.120.20
-  text: Product and company certification. Conformity assessment
-structuredidentifier:
-  project_number: Q17050
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 03.120.20
+    text: Product and company certification. Conformity assessment
+  structuredidentifier:
+    project_number: Q17050
+    type: JIS

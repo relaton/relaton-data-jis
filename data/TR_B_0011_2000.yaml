@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 25.080.01
-  text: Machine tools in general
-- code: 35.240.50
-  text: IT applications in industry
-structuredidentifier:
-  project_number: B0011
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 25.080.01
+    text: Machine tools in general
+  - code: 35.240.50
+    text: IT applications in industry
+  structuredidentifier:
+    project_number: B0011
+    type: JIS

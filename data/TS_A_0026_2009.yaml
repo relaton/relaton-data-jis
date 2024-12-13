@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　日本コンクリート工学会
-ics:
-- code: 91.100.15
-  text: Mineral materials and products
-structuredidentifier:
-  project_number: A0026
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　日本コンクリート工学会
+  ics:
+  - code: 91.100.15
+    text: Mineral materials and products
+  structuredidentifier:
+    project_number: A0026
+    type: JIS

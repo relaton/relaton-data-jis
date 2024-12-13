@@ -70,16 +70,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 日本石鹸洗剤工業会
-ics:
-- code: 71.100.40
-  text: Surface active agents
-structuredidentifier:
-  project_number: K3302
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 日本石鹸洗剤工業会
+  ics:
+  - code: 71.100.40
+    text: Surface active agents
+  structuredidentifier:
+    project_number: K3302
+    type: JIS

@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: ウレタン原料工業会
-ics:
-- code: 71.080.60
-  text: Alcohols. Ethers
-- code: 87.060.30
-  text: Solvents
-structuredidentifier:
-  project_number: K1602
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: ウレタン原料工業会
+  ics:
+  - code: 71.080.60
+    text: Alcohols. Ethers
+  - code: 87.060.30
+    text: Solvents
+  structuredidentifier:
+    project_number: K1602
+    type: JIS

@@ -94,16 +94,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電機工業会"
-ics:
-- code: '29.030'
-  text: Magnetic materials
-structuredidentifier:
-  project_number: C2552
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電機工業会"
+  ics:
+  - code: '29.030'
+    text: Magnetic materials
+  structuredidentifier:
+    project_number: C2552
+    type: JIS

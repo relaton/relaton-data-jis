@@ -93,18 +93,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　日本冷凍空調学会"
-ics:
-- code: 23.040.40
-  text: Metal fittings
-- code: '27.200'
-  text: Refrigerating technology
-structuredidentifier:
-  project_number: B8607
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　日本冷凍空調学会"
+  ics:
+  - code: 23.040.40
+    text: Metal fittings
+  - code: '27.200'
+    text: Refrigerating technology
+  structuredidentifier:
+    project_number: B8607
+    type: JIS

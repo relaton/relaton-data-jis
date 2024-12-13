@@ -75,18 +75,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本船舶技術研究協会
-ics:
-- code: 01.040.47
-  text: Shipbuilding and marine structures (Vocabularies)
-- code: 47.020.70
-  text: Navigation and control equipment
-structuredidentifier:
-  project_number: F0062
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本船舶技術研究協会
+  ics:
+  - code: 01.040.47
+    text: Shipbuilding and marine structures (Vocabularies)
+  - code: 47.020.70
+    text: Navigation and control equipment
+  structuredidentifier:
+    project_number: F0062
+    type: JIS

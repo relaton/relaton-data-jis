@@ -80,16 +80,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　繊維評価技術協議会"
-ics:
-- code: 59.080.40
-  text: Coated fabrics
-structuredidentifier:
-  project_number: L4212
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　繊維評価技術協議会"
+  ics:
+  - code: 59.080.40
+    text: Coated fabrics
+  structuredidentifier:
+    project_number: L4212
+    type: JIS

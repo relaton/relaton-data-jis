@@ -82,16 +82,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　表面技術協会
-ics:
-- code: 77.120.40
-  text: Nickel, chromium and their alloys
-structuredidentifier:
-  project_number: H8626
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　表面技術協会
+  ics:
+  - code: 77.120.40
+    text: Nickel, chromium and their alloys
+  structuredidentifier:
+    project_number: H8626
+    type: JIS

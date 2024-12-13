@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本溶接協会
-ics:
-- code: 25.160.30
-  text: Welding equipment
-structuredidentifier:
-  project_number: C9307
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本溶接協会
+  ics:
+  - code: 25.160.30
+    text: Welding equipment
+  structuredidentifier:
+    project_number: C9307
+    type: JIS

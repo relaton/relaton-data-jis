@@ -76,18 +76,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本人間工学会
-ics:
-- code: '13.180'
-  text: Ergonomics
-- code: '31.120'
-  text: Electronic display devices
-structuredidentifier:
-  project_number: Z8512
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本人間工学会
+  ics:
+  - code: '13.180'
+    text: Ergonomics
+  - code: '31.120'
+    text: Electronic display devices
+  structuredidentifier:
+    project_number: Z8512
+    type: JIS

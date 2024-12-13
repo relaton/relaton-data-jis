@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            火山性ガラス質材料工業会"
-ics:
-- code: 91.060.01
-  text: Elements of buildings in general
-- code: 91.100.15
-  text: Mineral materials and products
-structuredidentifier:
-  project_number: A5440
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            火山性ガラス質材料工業会"
+  ics:
+  - code: 91.060.01
+    text: Elements of buildings in general
+  - code: 91.100.15
+    text: Mineral materials and products
+  structuredidentifier:
+    project_number: A5440
+    type: JIS

@@ -76,16 +76,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本燃焼機器検査協会
-ics:
-- code: 97.100.40
-  text: Liquid fuel heaters
-structuredidentifier:
-  project_number: S3032
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本燃焼機器検査協会
+  ics:
+  - code: 97.100.40
+    text: Liquid fuel heaters
+  structuredidentifier:
+    project_number: S3032
+    type: JIS

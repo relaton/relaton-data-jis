@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本鉄鋼連盟
-ics:
-- code: 01.040.73
-  text: Mining and minerals (Vocabularies)
-- code: 73.060.10
-  text: Iron ores
-structuredidentifier:
-  project_number: M8700
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本鉄鋼連盟
+  ics:
+  - code: 01.040.73
+    text: Mining and minerals (Vocabularies)
+  - code: 73.060.10
+    text: Iron ores
+  structuredidentifier:
+    project_number: M8700
+    type: JIS

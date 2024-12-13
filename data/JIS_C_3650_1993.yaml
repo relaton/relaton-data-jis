@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　電気設備学会
-ics:
-- code: 29.240.20
-  text: Power transmission and distribution lines
-structuredidentifier:
-  project_number: C3650
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　電気設備学会
+  ics:
+  - code: 29.240.20
+    text: Power transmission and distribution lines
+  structuredidentifier:
+    project_number: C3650
+    type: JIS

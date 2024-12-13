@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本燃焼機器検査協会
-ics:
-- code: 27.060.10
-  text: Liquid and solid fuel burners
-- code: 91.100.40
-  text: Products in fibre-reinforced cement
-structuredidentifier:
-  project_number: S3030
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本燃焼機器検査協会
+  ics:
+  - code: 27.060.10
+    text: Liquid and solid fuel burners
+  - code: 91.100.40
+    text: Products in fibre-reinforced cement
+  structuredidentifier:
+    project_number: S3030
+    type: JIS

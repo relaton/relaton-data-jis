@@ -78,18 +78,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本医療機器産業連合会
-ics:
-- code: 03.100.70
-  text: Management systems
-- code: 11.040.01
-  text: Medical equipment in general
-structuredidentifier:
-  project_number: Q13485
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本医療機器産業連合会
+  ics:
+  - code: 03.100.70
+    text: Management systems
+  - code: 11.040.01
+    text: Medical equipment in general
+  structuredidentifier:
+    project_number: Q13485
+    type: JIS

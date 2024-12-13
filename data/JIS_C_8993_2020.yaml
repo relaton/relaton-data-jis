@@ -75,18 +75,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本電機工業会
-ics:
-- code: '27.160'
-  text: Solar energy engineering
-- code: 29.220.99
-  text: Other cells and batteries
-structuredidentifier:
-  project_number: C8993
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本電機工業会
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  - code: 29.220.99
+    text: Other cells and batteries
+  structuredidentifier:
+    project_number: C8993
+    type: JIS

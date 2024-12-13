@@ -70,16 +70,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '73.080'
-  text: Non-metalliferous minerals
-structuredidentifier:
-  project_number: R3453
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '73.080'
+    text: Non-metalliferous minerals
+  structuredidentifier:
+    project_number: R3453
+    type: JIS

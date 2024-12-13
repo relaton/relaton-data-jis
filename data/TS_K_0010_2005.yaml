@@ -81,16 +81,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            全国オイルリサイクル協同組合"
-ics:
-- code: '75.100'
-  text: Lubricants, industrial oils and related products
-structuredidentifier:
-  project_number: K0010
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            全国オイルリサイクル協同組合"
+  ics:
+  - code: '75.100'
+    text: Lubricants, industrial oils and related products
+  structuredidentifier:
+    project_number: K0010
+    type: JIS

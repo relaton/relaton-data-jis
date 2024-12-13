@@ -88,16 +88,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　ファインバブル産業会"
-ics:
-- code: '07.030'
-  text: Physics. Chemistry
-structuredidentifier:
-  project_number: B8741
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　ファインバブル産業会"
+  ics:
+  - code: '07.030'
+    text: Physics. Chemistry
+  structuredidentifier:
+    project_number: B8741
+    type: JIS

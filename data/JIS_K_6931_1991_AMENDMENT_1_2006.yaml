@@ -70,16 +70,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　プラスチック循環利用協会
-ics:
-- code: 83.140.99
-  text: Other rubber and plastics products
-structuredidentifier:
-  project_number: K6931
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　プラスチック循環利用協会
+  ics:
+  - code: 83.140.99
+    text: Other rubber and plastics products
+  structuredidentifier:
+    project_number: K6931
+    type: JIS

@@ -68,16 +68,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 25.100.70
-  text: Abrasives
-structuredidentifier:
-  project_number: R6124
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 25.100.70
+    text: Abrasives
+  structuredidentifier:
+    project_number: R6124
+    type: JIS

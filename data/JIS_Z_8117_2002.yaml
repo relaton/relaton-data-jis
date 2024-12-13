@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本エレクトロヒートセンター
-ics:
-- code: 01.040.27
-  text: Energy and heat transfer engineering (Vocabularies)
-- code: '27.010'
-  text: Energy and heat transfer engineering in general
-structuredidentifier:
-  project_number: Z8117
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本エレクトロヒートセンター
+  ics:
+  - code: 01.040.27
+    text: Energy and heat transfer engineering (Vocabularies)
+  - code: '27.010'
+    text: Energy and heat transfer engineering in general
+  structuredidentifier:
+    project_number: Z8117
+    type: JIS

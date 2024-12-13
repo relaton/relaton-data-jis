@@ -82,16 +82,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本ポリオレフィンフィルム工業組合"
-ics:
-- code: 83.140.10
-  text: Films and sheets
-structuredidentifier:
-  project_number: K6783
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本ポリオレフィンフィルム工業組合"
+  ics:
+  - code: 83.140.10
+    text: Films and sheets
+  structuredidentifier:
+    project_number: K6783
+    type: JIS

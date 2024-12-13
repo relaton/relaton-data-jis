@@ -73,17 +73,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "公益社団法人　東京医薬品工業協会                                                \r\n                                                                                            大阪医薬品協会
-      \                                               \r\n                                                                                            日本アンプル工業組合"
-ics:
-- code: 11.040.20
-  text: Transfusion, infusion and injection equipment
-structuredidentifier:
-  project_number: R3511
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "公益社団法人　東京医薬品工業協会                                                \r\n
+        \                                                                                           大阪医薬品協会
+        \                                               \r\n                                                                                            日本アンプル工業組合"
+  ics:
+  - code: 11.040.20
+    text: Transfusion, infusion and injection equipment
+  structuredidentifier:
+    project_number: R3511
+    type: JIS

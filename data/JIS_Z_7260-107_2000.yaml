@@ -81,18 +81,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本化学工業協会"
-ics:
-- code: 71.040.99
-  text: Other standards related to analytical chemistry
-- code: 71.080.60
-  text: Alcohols. Ethers
-structuredidentifier:
-  project_number: Z7260
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本化学工業協会"
+  ics:
+  - code: 71.040.99
+    text: Other standards related to analytical chemistry
+  - code: 71.080.60
+    text: Alcohols. Ethers
+  structuredidentifier:
+    project_number: Z7260
+    type: JIS

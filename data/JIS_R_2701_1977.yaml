@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 黒鉛坩堝同業会
-ics:
-- code: '81.080'
-  text: Refractories
-- code: '81.100'
-  text: Equipment for the glass and ceramics industries
-structuredidentifier:
-  project_number: R2701
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 黒鉛坩堝同業会
+  ics:
+  - code: '81.080'
+    text: Refractories
+  - code: '81.100'
+    text: Equipment for the glass and ceramics industries
+  structuredidentifier:
+    project_number: R2701
+    type: JIS

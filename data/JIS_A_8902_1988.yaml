@@ -81,16 +81,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 全国ショベル・スコップ工業協同組合
-ics:
-- code: '53.120'
-  text: Equipment for manual handling
-structuredidentifier:
-  project_number: A8902
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 全国ショベル・スコップ工業協同組合
+  ics:
+  - code: '53.120'
+    text: Equipment for manual handling
+  structuredidentifier:
+    project_number: A8902
+    type: JIS

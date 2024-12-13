@@ -71,16 +71,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 炭素協会
-ics:
-- code: 25.180.10
-  text: Electric furnaces
-structuredidentifier:
-  project_number: R7202
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 炭素協会
+  ics:
+  - code: 25.180.10
+    text: Electric furnaces
+  structuredidentifier:
+    project_number: R7202
+    type: JIS

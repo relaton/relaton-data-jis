@@ -70,18 +70,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　電気安全環境研究所
-ics:
-- code: 29.080.01
-  text: Electrical insulation in general
-- code: 29.100.01
-  text: Components for electrical equipment in general
-structuredidentifier:
-  project_number: C0703
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　電気安全環境研究所
+  ics:
+  - code: 29.080.01
+    text: Electrical insulation in general
+  - code: 29.100.01
+    text: Components for electrical equipment in general
+  structuredidentifier:
+    project_number: C0703
+    type: JIS

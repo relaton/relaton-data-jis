@@ -87,18 +87,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 03.120.20
-  text: Product and company certification. Conformity assessment
-- code: 91.100.30
-  text: Concrete and concrete products
-structuredidentifier:
-  project_number: Q1011
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 03.120.20
+    text: Product and company certification. Conformity assessment
+  - code: 91.100.30
+    text: Concrete and concrete products
+  structuredidentifier:
+    project_number: Q1011
+    type: JIS

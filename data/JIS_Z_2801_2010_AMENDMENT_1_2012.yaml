@@ -71,22 +71,22 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　抗菌製品技術協議会
-ics:
-- code: 07.100.10
-  text: Medical microbiology
-- code: '11.100'
-  text: Laboratory medicine
-- code: '19.040'
-  text: Environmental testing
-- code: 83.080.01
-  text: Plastics in general
-structuredidentifier:
-  project_number: Z2801
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　抗菌製品技術協議会
+  ics:
+  - code: 07.100.10
+    text: Medical microbiology
+  - code: '11.100'
+    text: Laboratory medicine
+  - code: '19.040'
+    text: Environmental testing
+  - code: 83.080.01
+    text: Plastics in general
+  structuredidentifier:
+    project_number: Z2801
+    type: JIS

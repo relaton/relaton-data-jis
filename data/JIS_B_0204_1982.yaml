@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "熔接鋼管協会                                                \r\n                                                                                            全国金属製電線管附属品工業組合"
-ics:
-- code: 21.040.30
-  text: Special screw threads
-- code: 29.120.10
-  text: Conduits for electrical purposes
-structuredidentifier:
-  project_number: B0204
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "熔接鋼管協会                                                \r\n                                                                                            全国金属製電線管附属品工業組合"
+  ics:
+  - code: 21.040.30
+    text: Special screw threads
+  - code: 29.120.10
+    text: Conduits for electrical purposes
+  structuredidentifier:
+    project_number: B0204
+    type: JIS

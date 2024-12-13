@@ -70,16 +70,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本電機工業会
-ics:
-- code: 29.160.30
-  text: Motors
-structuredidentifier:
-  project_number: C4203
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本電機工業会
+  ics:
+  - code: 29.160.30
+    text: Motors
+  structuredidentifier:
+    project_number: C4203
+    type: JIS

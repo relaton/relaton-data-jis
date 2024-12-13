@@ -74,16 +74,16 @@ contributor:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 01.080.10
-  text: Public information symbols. Signs. Plates. Labels
-structuredidentifier:
-  project_number: Z8210
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 01.080.10
+    text: Public information symbols. Signs. Plates. Labels
+  structuredidentifier:
+    project_number: Z8210
+    type: JIS

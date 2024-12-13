@@ -75,16 +75,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　資源・素材学会
-ics:
-- code: '73.120'
-  text: Equipment for processing of minerals
-structuredidentifier:
-  project_number: M4002
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　資源・素材学会
+  ics:
+  - code: '73.120'
+    text: Equipment for processing of minerals
+  structuredidentifier:
+    project_number: M4002
+    type: JIS

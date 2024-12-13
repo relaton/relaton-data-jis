@@ -81,19 +81,19 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　情報処理学会
-ics:
-- code: 01.080.50
-  text: Graphical symbols for use on information technology and telecommunications
-    technical drawings and in relevant technical product documentation
-- code: '35.020'
-  text: Information technology (IT) in general
-structuredidentifier:
-  project_number: X0127
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　情報処理学会
+  ics:
+  - code: 01.080.50
+    text: Graphical symbols for use on information technology and telecommunications
+      technical drawings and in relevant technical product documentation
+  - code: '35.020'
+    text: Information technology (IT) in general
+  structuredidentifier:
+    project_number: X0127
+    type: JIS

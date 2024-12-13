@@ -76,20 +76,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本船舶技術研究協会
-ics:
-- code: 13.220.20
-  text: Fire protection
-- code: 29.240.20
-  text: Power transmission and distribution lines
-- code: 47.020.60
-  text: Electrical equipment of ships and  of marine structures
-structuredidentifier:
-  project_number: F8051
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本船舶技術研究協会
+  ics:
+  - code: 13.220.20
+    text: Fire protection
+  - code: 29.240.20
+    text: Power transmission and distribution lines
+  - code: 47.020.60
+    text: Electrical equipment of ships and  of marine structures
+  structuredidentifier:
+    project_number: F8051
+    type: JIS

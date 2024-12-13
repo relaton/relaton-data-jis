@@ -70,18 +70,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "アスファルトルーフィング工業会                                                \r\n                                                                                            一般社団法人　日本防水材料協会"
-ics:
-- code: 91.060.01
-  text: Elements of buildings in general
-- code: 91.100.50
-  text: Binders. Sealing materials
-structuredidentifier:
-  project_number: A6005
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "アスファルトルーフィング工業会                                                \r\n                                                                                            一般社団法人　日本防水材料協会"
+  ics:
+  - code: 91.060.01
+    text: Elements of buildings in general
+  - code: 91.100.50
+    text: Binders. Sealing materials
+  structuredidentifier:
+    project_number: A6005
+    type: JIS

@@ -72,18 +72,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本電機工業会
-ics:
-- code: '27.160'
-  text: Solar energy engineering
-- code: 33.100.01
-  text: Electromagnetic compatibility in general
-structuredidentifier:
-  project_number: C0055
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本電機工業会
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  - code: 33.100.01
+    text: Electromagnetic compatibility in general
+  structuredidentifier:
+    project_number: C0055
+    type: JIS

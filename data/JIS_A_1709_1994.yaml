@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 社団法人　日本住宅設備システム協会
-ics:
-- code: 91.140.01
-  text: Installations in buildings in general
-structuredidentifier:
-  project_number: A1709
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 社団法人　日本住宅設備システム協会
+  ics:
+  - code: 91.140.01
+    text: Installations in buildings in general
+  structuredidentifier:
+    project_number: A1709
+    type: JIS

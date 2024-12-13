@@ -95,16 +95,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　繊維評価技術協議会"
-ics:
-- code: 59.080.30
-  text: Textile fabrics
-structuredidentifier:
-  project_number: L1059
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　繊維評価技術協議会"
+  ics:
+  - code: 59.080.30
+    text: Textile fabrics
+  structuredidentifier:
+    project_number: L1059
+    type: JIS

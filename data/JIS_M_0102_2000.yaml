@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　資源・素材学会
-ics:
-- code: 01.040.73
-  text: Mining and minerals (Vocabularies)
-- code: '73.020'
-  text: Mining and quarrying
-structuredidentifier:
-  project_number: M0102
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　資源・素材学会
+  ics:
+  - code: 01.040.73
+    text: Mining and minerals (Vocabularies)
+  - code: '73.020'
+    text: Mining and quarrying
+  structuredidentifier:
+    project_number: M0102
+    type: JIS

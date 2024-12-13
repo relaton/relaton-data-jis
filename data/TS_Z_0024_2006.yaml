@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: 国立研究開発法人　産業技術総合研究所
-ics:
-- code: '67.240'
-  text: Sensory analysis
-structuredidentifier:
-  project_number: Z0024
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: 国立研究開発法人　産業技術総合研究所
+  ics:
+  - code: '67.240'
+    text: Sensory analysis
+  structuredidentifier:
+    project_number: Z0024
+    type: JIS

@@ -77,20 +77,20 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: '13.120'
-  text: Domestic safety
-- code: '61.080'
-  text: Sewing machines and other equipment for the clothing industry
-- code: '97.030'
-  text: Domestic electrical appliances in general
-structuredidentifier:
-  project_number: C9335
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: '13.120'
+    text: Domestic safety
+  - code: '61.080'
+    text: Sewing machines and other equipment for the clothing industry
+  - code: '97.030'
+    text: Domestic electrical appliances in general
+  structuredidentifier:
+    project_number: C9335
+    type: JIS

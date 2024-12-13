@@ -84,16 +84,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本粉体工業技術協会"
-ics:
-- code: '19.120'
-  text: Particle size analysis. Sieving
-structuredidentifier:
-  project_number: Z8831
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本粉体工業技術協会"
+  ics:
+  - code: '19.120'
+    text: Particle size analysis. Sieving
+  structuredidentifier:
+    project_number: Z8831
+    type: JIS

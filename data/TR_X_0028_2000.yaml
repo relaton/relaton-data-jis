@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 35.240.01
-  text: Application of information technology in general
-structuredidentifier:
-  project_number: X0028
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 35.240.01
+    text: Application of information technology in general
+  structuredidentifier:
+    project_number: X0028
+    type: JIS

@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 社団法人　港湾荷役機械化協会
-ics:
-- code: 01.040.53
-  text: Materials handling equipment (Vocabularies)
-- code: 53.020.20
-  text: Cranes
-structuredidentifier:
-  project_number: D6304
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 社団法人　港湾荷役機械化協会
+  ics:
+  - code: 01.040.53
+    text: Materials handling equipment (Vocabularies)
+  - code: 53.020.20
+    text: Cranes
+  structuredidentifier:
+    project_number: D6304
+    type: JIS

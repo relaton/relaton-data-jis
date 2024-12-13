@@ -67,16 +67,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　日本コンクリート工学会
-ics:
-- code: 91.100.30
-  text: Concrete and concrete products
-structuredidentifier:
-  project_number: A1114
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　日本コンクリート工学会
+  ics:
+  - code: 91.100.30
+    text: Concrete and concrete products
+  structuredidentifier:
+    project_number: A1114
+    type: JIS

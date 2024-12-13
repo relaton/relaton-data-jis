@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 文部省大臣官房文教施設部指導課
-ics:
-- code: '97.140'
-  text: Furniture
-structuredidentifier:
-  project_number: S1077
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 文部省大臣官房文教施設部指導課
+  ics:
+  - code: '97.140'
+    text: Furniture
+  structuredidentifier:
+    project_number: S1077
+    type: JIS

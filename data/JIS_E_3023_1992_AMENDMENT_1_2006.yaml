@@ -71,16 +71,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '45.080'
-  text: Rails and railway components
-structuredidentifier:
-  project_number: E3023
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '45.080'
+    text: Rails and railway components
+  structuredidentifier:
+    project_number: E3023
+    type: JIS

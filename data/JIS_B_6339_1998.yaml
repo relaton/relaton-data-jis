@@ -71,18 +71,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本工作機械工業会
-ics:
-- code: 25.040.10
-  text: Machining centres
-- code: 25.060.20
-  text: Dividing and tool-workpiece holding devices
-structuredidentifier:
-  project_number: B6339
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本工作機械工業会
+  ics:
+  - code: 25.040.10
+    text: Machining centres
+  - code: 25.060.20
+    text: Dividing and tool-workpiece holding devices
+  structuredidentifier:
+    project_number: B6339
+    type: JIS

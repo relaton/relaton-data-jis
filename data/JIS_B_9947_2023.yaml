@@ -86,20 +86,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 17.180.99
-  text: Other standards related to optics and optical measurements
-- code: '19.120'
-  text: Particle size analysis. Sieving
-- code: '31.260'
-  text: Optoelectronics. Laser equipment
-structuredidentifier:
-  project_number: B9947
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 17.180.99
+    text: Other standards related to optics and optical measurements
+  - code: '19.120'
+    text: Particle size analysis. Sieving
+  - code: '31.260'
+    text: Optoelectronics. Laser equipment
+  structuredidentifier:
+    project_number: B9947
+    type: JIS

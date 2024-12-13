@@ -68,18 +68,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　建材試験センター
-ics:
-- code: 13.220.20
-  text: Fire protection
-- code: 91.060.50
-  text: Doors and windows
-structuredidentifier:
-  project_number: A1311
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　建材試験センター
+  ics:
+  - code: 13.220.20
+    text: Fire protection
+  - code: 91.060.50
+    text: Doors and windows
+  structuredidentifier:
+    project_number: A1311
+    type: JIS

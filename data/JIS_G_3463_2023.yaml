@@ -79,22 +79,22 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本鉄鋼連盟
-ics:
-- code: 23.040.10
-  text: Iron and steel pipes
-- code: 27.060.30
-  text: Boilers and heat exchangers
-- code: 77.140.20
-  text: Stainless steels
-- code: 77.140.75
-  text: Steel pipes and tubes for specific use
-structuredidentifier:
-  project_number: G3463
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本鉄鋼連盟
+  ics:
+  - code: 23.040.10
+    text: Iron and steel pipes
+  - code: 27.060.30
+    text: Boilers and heat exchangers
+  - code: 77.140.20
+    text: Stainless steels
+  - code: 77.140.75
+    text: Steel pipes and tubes for specific use
+  structuredidentifier:
+    project_number: G3463
+    type: JIS

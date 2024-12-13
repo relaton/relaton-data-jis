@@ -80,16 +80,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　照明学会
-ics:
-- code: 29.140.30
-  text: Fluorescent lamps. Discharge lamps
-structuredidentifier:
-  project_number: C7607
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　照明学会
+  ics:
+  - code: 29.140.30
+    text: Fluorescent lamps. Discharge lamps
+  structuredidentifier:
+    project_number: C7607
+    type: JIS

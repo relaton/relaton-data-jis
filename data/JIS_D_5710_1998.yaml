@@ -81,16 +81,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本自動車部品工業会
-ics:
-- code: 43.040.60
-  text: Bodies and body components
-structuredidentifier:
-  project_number: D5710
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本自動車部品工業会
+  ics:
+  - code: 43.040.60
+    text: Bodies and body components
+  structuredidentifier:
+    project_number: D5710
+    type: JIS

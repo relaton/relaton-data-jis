@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 73.100.10
-  text: Tunnelling and tubing equipment
-structuredidentifier:
-  project_number: M2503
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 73.100.10
+    text: Tunnelling and tubing equipment
+  structuredidentifier:
+    project_number: M2503
+    type: JIS

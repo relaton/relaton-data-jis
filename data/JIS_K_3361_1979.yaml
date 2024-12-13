@@ -70,16 +70,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本化学繊維協会
-ics:
-- code: 71.100.40
-  text: Surface active agents
-structuredidentifier:
-  project_number: K3361
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本化学繊維協会
+  ics:
+  - code: 71.100.40
+    text: Surface active agents
+  structuredidentifier:
+    project_number: K3361
+    type: JIS

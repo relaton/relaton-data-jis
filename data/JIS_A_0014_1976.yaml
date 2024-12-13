@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本燃焼機器検査協会
-ics:
-- code: 97.100.01
-  text: Heating appliances in general
-structuredidentifier:
-  project_number: A0014
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本燃焼機器検査協会
+  ics:
+  - code: 97.100.01
+    text: Heating appliances in general
+  structuredidentifier:
+    project_number: A0014
+    type: JIS

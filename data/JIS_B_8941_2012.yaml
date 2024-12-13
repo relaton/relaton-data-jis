@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本産業機械工業会"
-ics:
-- code: 01.040.55
-  text: Packaging and distribution of goods (Vocabularies)
-- code: '55.220'
-  text: Storing. Warehousing
-structuredidentifier:
-  project_number: B8941
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本産業機械工業会"
+  ics:
+  - code: 01.040.55
+    text: Packaging and distribution of goods (Vocabularies)
+  - code: '55.220'
+    text: Storing. Warehousing
+  structuredidentifier:
+    project_number: B8941
+    type: JIS

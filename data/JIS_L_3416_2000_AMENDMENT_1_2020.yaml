@@ -80,18 +80,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　繊維評価技術協議会"
-ics:
-- code: 59.080.30
-  text: Textile fabrics
-- code: '61.040'
-  text: Headgear. Clothing accessories. Fastening of clothing
-structuredidentifier:
-  project_number: L3416
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　繊維評価技術協議会"
+  ics:
+  - code: 59.080.30
+    text: Textile fabrics
+  - code: '61.040'
+    text: Headgear. Clothing accessories. Fastening of clothing
+  structuredidentifier:
+    project_number: L3416
+    type: JIS

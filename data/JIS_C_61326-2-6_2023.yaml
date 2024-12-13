@@ -89,20 +89,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本分析機器工業会"
-ics:
-- code: 17.220.20
-  text: Measurement of electrical and magnetic quantities
-- code: 25.040.40
-  text: Industrial process measurement and control
-- code: 33.100.20
-  text: Immunity
-structuredidentifier:
-  project_number: C61326
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本分析機器工業会"
+  ics:
+  - code: 17.220.20
+    text: Measurement of electrical and magnetic quantities
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  - code: 33.100.20
+    text: Immunity
+  structuredidentifier:
+    project_number: C61326
+    type: JIS

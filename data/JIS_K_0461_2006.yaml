@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 生物化学的測定研究会
-ics:
-- code: 13.060.50
-  text: Examination of water for chemical substances
-structuredidentifier:
-  project_number: K0461
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 生物化学的測定研究会
+  ics:
+  - code: 13.060.50
+    text: Examination of water for chemical substances
+  structuredidentifier:
+    project_number: K0461
+    type: JIS

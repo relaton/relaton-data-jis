@@ -74,16 +74,16 @@ contributor:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本溶接協会"
-ics:
-- code: 25.160.30
-  text: Welding equipment
-structuredidentifier:
-  project_number: C9321
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本溶接協会"
+  ics:
+  - code: 25.160.30
+    text: Welding equipment
+  structuredidentifier:
+    project_number: C9321
+    type: JIS

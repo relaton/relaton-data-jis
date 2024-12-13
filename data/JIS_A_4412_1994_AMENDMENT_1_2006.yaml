@@ -68,16 +68,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 97.100.01
-  text: Heating appliances in general
-structuredidentifier:
-  project_number: A4412
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 97.100.01
+    text: Heating appliances in general
+  structuredidentifier:
+    project_number: A4412
+    type: JIS

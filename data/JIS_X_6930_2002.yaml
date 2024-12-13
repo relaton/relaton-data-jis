@@ -84,18 +84,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　ビジネス機械・情報システム産業協会"
-ics:
-- code: '35.180'
-  text: IT terminal and other peripheral equipment
-- code: 37.100.10
-  text: Reproduction equipment
-structuredidentifier:
-  project_number: X6930
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　ビジネス機械・情報システム産業協会"
+  ics:
+  - code: '35.180'
+    text: IT terminal and other peripheral equipment
+  - code: 37.100.10
+    text: Reproduction equipment
+  structuredidentifier:
+    project_number: X6930
+    type: JIS

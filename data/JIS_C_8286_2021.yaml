@@ -85,18 +85,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 29.060.20
-  text: Cables
-- code: 29.120.30
-  text: Plugs, socket-outlets, couplers
-structuredidentifier:
-  project_number: C8286
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 29.060.20
+    text: Cables
+  - code: 29.120.30
+    text: Plugs, socket-outlets, couplers
+  structuredidentifier:
+    project_number: C8286
+    type: JIS

@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 独立行政法人　製品評価技術基盤機構
-ics:
-- code: '75.140'
-  text: Waxes, bituminous materials and other petroleum products
-structuredidentifier:
-  project_number: K3901
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 独立行政法人　製品評価技術基盤機構
+  ics:
+  - code: '75.140'
+    text: Waxes, bituminous materials and other petroleum products
+  structuredidentifier:
+    project_number: K3901
+    type: JIS

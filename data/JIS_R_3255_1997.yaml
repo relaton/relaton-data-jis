@@ -79,16 +79,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　ニューガラスフォーラム
-ics:
-- code: 81.040.01
-  text: Glass in general
-structuredidentifier:
-  project_number: R3255
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　ニューガラスフォーラム
+  ics:
+  - code: 81.040.01
+    text: Glass in general
+  structuredidentifier:
+    project_number: R3255
+    type: JIS

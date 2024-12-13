@@ -93,18 +93,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　コージェネレーション・エネルギー高度利用センター"
-ics:
-- code: '27.040'
-  text: Gas and steam turbines. Steam engines
-- code: 29.160.40
-  text: Generating sets
-structuredidentifier:
-  project_number: B8124
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　コージェネレーション・エネルギー高度利用センター"
+  ics:
+  - code: '27.040'
+    text: Gas and steam turbines. Steam engines
+  - code: 29.160.40
+    text: Generating sets
+  structuredidentifier:
+    project_number: B8124
+    type: JIS

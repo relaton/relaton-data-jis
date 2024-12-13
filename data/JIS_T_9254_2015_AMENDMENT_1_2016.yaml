@@ -70,18 +70,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本福祉用具・生活支援用具協会
-ics:
-- code: '11.140'
-  text: Hospital equipment
-- code: 11.180.01
-  text: Aids for disabled and handicapped persons in general
-structuredidentifier:
-  project_number: T9254
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本福祉用具・生活支援用具協会
+  ics:
+  - code: '11.140'
+    text: Hospital equipment
+  - code: 11.180.01
+    text: Aids for disabled and handicapped persons in general
+  structuredidentifier:
+    project_number: T9254
+    type: JIS

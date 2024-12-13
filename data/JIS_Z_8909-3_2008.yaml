@@ -72,19 +72,19 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "国立研究開発法人　産業技術総合研究所                                                \r\n
-      \                                                                                           一般社団法人　日本粉体工業技術協会"
-ics:
-- code: '19.060'
-  text: Mechanical testing
-- code: 59.080.30
-  text: Textile fabrics
-structuredidentifier:
-  project_number: Z8909
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "国立研究開発法人　産業技術総合研究所                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+  ics:
+  - code: '19.060'
+    text: Mechanical testing
+  - code: 59.080.30
+    text: Textile fabrics
+  structuredidentifier:
+    project_number: Z8909
+    type: JIS

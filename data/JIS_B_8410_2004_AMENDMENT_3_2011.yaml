@@ -70,18 +70,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 日本暖房機器工業会
-ics:
-- code: 23.060.40
-  text: Pressure regulators
-- code: 91.140.65
-  text: Water heating equipment
-structuredidentifier:
-  project_number: B8410
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 日本暖房機器工業会
+  ics:
+  - code: 23.060.40
+    text: Pressure regulators
+  - code: 91.140.65
+    text: Water heating equipment
+  structuredidentifier:
+    project_number: B8410
+    type: JIS

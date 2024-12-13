@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 硬質塩化ビニール板協会
-ics:
-- code: 83.140.10
-  text: Films and sheets
-- code: '91.180'
-  text: Interior finishing
-structuredidentifier:
-  project_number: A5703
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 硬質塩化ビニール板協会
+  ics:
+  - code: 83.140.10
+    text: Films and sheets
+  - code: '91.180'
+    text: Interior finishing
+  structuredidentifier:
+    project_number: A5703
+    type: JIS

@@ -89,22 +89,22 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ファインセラミックス協会"
-ics:
-- code: 29.035.30
-  text: Glass and ceramic insulating materials
-- code: '31.140'
-  text: Piezoelectric devices
-- code: '31.200'
-  text: Integrated circuits. Microelectronics
-- code: 81.060.30
-  text: Advanced ceramics
-structuredidentifier:
-  project_number: R1641
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ファインセラミックス協会"
+  ics:
+  - code: 29.035.30
+    text: Glass and ceramic insulating materials
+  - code: '31.140'
+    text: Piezoelectric devices
+  - code: '31.200'
+    text: Integrated circuits. Microelectronics
+  - code: 81.060.30
+    text: Advanced ceramics
+  structuredidentifier:
+    project_number: R1641
+    type: JIS

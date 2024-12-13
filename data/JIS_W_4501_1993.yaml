@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本航空宇宙工業会
-ics:
-- code: '49.050'
-  text: Aerospace engines and propulsion systems
-structuredidentifier:
-  project_number: W4501
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本航空宇宙工業会
+  ics:
+  - code: '49.050'
+    text: Aerospace engines and propulsion systems
+  structuredidentifier:
+    project_number: W4501
+    type: JIS

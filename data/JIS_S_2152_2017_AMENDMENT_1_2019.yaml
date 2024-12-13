@@ -67,16 +67,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本ガス機器検査協会
-ics:
-- code: 97.040.20
-  text: Cooking ranges, working tables, ovens and similar appliances
-structuredidentifier:
-  project_number: S2152
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本ガス機器検査協会
+  ics:
+  - code: 97.040.20
+    text: Cooking ranges, working tables, ovens and similar appliances
+  structuredidentifier:
+    project_number: S2152
+    type: JIS

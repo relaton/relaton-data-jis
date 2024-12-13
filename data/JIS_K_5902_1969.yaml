@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 合成樹脂工業協会
-ics:
-- code: 87.060.20
-  text: Binders
-structuredidentifier:
-  project_number: K5902
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 合成樹脂工業協会
+  ics:
+  - code: 87.060.20
+    text: Binders
+  structuredidentifier:
+    project_number: K5902
+    type: JIS

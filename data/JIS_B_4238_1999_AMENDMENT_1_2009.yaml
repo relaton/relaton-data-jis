@@ -82,16 +82,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本機械工具工業会"
-ics:
-- code: 25.100.25
-  text: Tools for planing and broaching machines
-structuredidentifier:
-  project_number: B4238
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本機械工具工業会"
+  ics:
+  - code: 25.100.25
+    text: Tools for planing and broaching machines
+  structuredidentifier:
+    project_number: B4238
+    type: JIS

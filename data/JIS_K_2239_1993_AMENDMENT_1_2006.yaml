@@ -68,16 +68,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　潤滑油協会
-ics:
-- code: '75.100'
-  text: Lubricants, industrial oils and related products
-structuredidentifier:
-  project_number: K2239
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　潤滑油協会
+  ics:
+  - code: '75.100'
+    text: Lubricants, industrial oils and related products
+  structuredidentifier:
+    project_number: K2239
+    type: JIS

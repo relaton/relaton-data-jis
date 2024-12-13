@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 03.220.20
-  text: Road transport
-- code: 35.240.60
-  text: IT applications in transport
-structuredidentifier:
-  project_number: D0003
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 03.220.20
+    text: Road transport
+  - code: 35.240.60
+    text: IT applications in transport
+  structuredidentifier:
+    project_number: D0003
+    type: JIS

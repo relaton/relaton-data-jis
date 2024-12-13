@@ -70,16 +70,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　火力原子力発電技術協会
-ics:
-- code: 01.040.27
-  text: Energy and heat transfer engineering (Vocabularies)
-structuredidentifier:
-  project_number: B0145
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　火力原子力発電技術協会
+  ics:
+  - code: 01.040.27
+    text: Energy and heat transfer engineering (Vocabularies)
+  structuredidentifier:
+    project_number: B0145
+    type: JIS

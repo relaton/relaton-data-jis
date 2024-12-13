@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本産業機械工業会
-ics:
-- code: '23.080'
-  text: Pumps
-- code: 27.060.30
-  text: Boilers and heat exchangers
-structuredidentifier:
-  project_number: B8303
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本産業機械工業会
+  ics:
+  - code: '23.080'
+    text: Pumps
+  - code: 27.060.30
+    text: Boilers and heat exchangers
+  structuredidentifier:
+    project_number: B8303
+    type: JIS

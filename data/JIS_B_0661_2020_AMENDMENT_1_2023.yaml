@@ -76,16 +76,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: 17.040.40
-  text: Geometrical Product Specification (GPS)
-structuredidentifier:
-  project_number: B0661
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: 17.040.40
+    text: Geometrical Product Specification (GPS)
+  structuredidentifier:
+    project_number: B0661
+    type: JIS

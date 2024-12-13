@@ -87,20 +87,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本規格協会
-ics:
-- code: '13.110'
-  text: Safety of machinery
-- code: '97.030'
-  text: Domestic electrical appliances in general
-- code: 97.040.99
-  text: Other kitchen equipment
-structuredidentifier:
-  project_number: C9335
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: '97.030'
+    text: Domestic electrical appliances in general
+  - code: 97.040.99
+    text: Other kitchen equipment
+  structuredidentifier:
+    project_number: C9335
+    type: JIS

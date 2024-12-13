@@ -66,13 +66,13 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: ''
-structuredidentifier:
-  project_number: Z3001
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  structuredidentifier:
+    project_number: Z3001
+    type: JIS

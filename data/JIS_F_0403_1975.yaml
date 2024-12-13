@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 財団法人　日本船舶標準協会
-ics:
-- code: 01.040.47
-  text: Shipbuilding and marine structures (Vocabularies)
-- code: 47.020.01
-  text: General standards related to shipbuilding and marine structures
-structuredidentifier:
-  project_number: F0403
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 財団法人　日本船舶標準協会
+  ics:
+  - code: 01.040.47
+    text: Shipbuilding and marine structures (Vocabularies)
+  - code: 47.020.01
+    text: General standards related to shipbuilding and marine structures
+  structuredidentifier:
+    project_number: F0403
+    type: JIS

@@ -85,22 +85,22 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　コージェネレーション・エネルギー高度利用センター"
-ics:
-- code: 01.040.27
-  text: Energy and heat transfer engineering (Vocabularies)
-- code: 01.040.29
-  text: Electrical engineering (Vocabularies)
-- code: '27.010'
-  text: Energy and heat transfer engineering in general
-- code: 29.160.40
-  text: Generating sets
-structuredidentifier:
-  project_number: B8121
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　コージェネレーション・エネルギー高度利用センター"
+  ics:
+  - code: 01.040.27
+    text: Energy and heat transfer engineering (Vocabularies)
+  - code: 01.040.29
+    text: Electrical engineering (Vocabularies)
+  - code: '27.010'
+    text: Energy and heat transfer engineering in general
+  - code: 29.160.40
+    text: Generating sets
+  structuredidentifier:
+    project_number: B8121
+    type: JIS

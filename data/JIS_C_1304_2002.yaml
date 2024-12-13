@@ -85,20 +85,20 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電気計測器工業会"
-ics:
-- code: 17.220.20
-  text: Measurement of electrical and magnetic quantities
-- code: 29.080.01
-  text: Electrical insulation in general
-- code: 29.240.01
-  text: Power transmission and distribution networks in general
-structuredidentifier:
-  project_number: C1304
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電気計測器工業会"
+  ics:
+  - code: 17.220.20
+    text: Measurement of electrical and magnetic quantities
+  - code: 29.080.01
+    text: Electrical insulation in general
+  - code: 29.240.01
+    text: Power transmission and distribution networks in general
+  structuredidentifier:
+    project_number: C1304
+    type: JIS

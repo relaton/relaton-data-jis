@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 59.120.40
-  text: Knitting machines
-structuredidentifier:
-  project_number: L6517
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 59.120.40
+    text: Knitting machines
+  structuredidentifier:
+    project_number: L6517
+    type: JIS

@@ -93,16 +93,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本化学繊維協会"
-ics:
-- code: 59.060.01
-  text: Textile fibres in general
-structuredidentifier:
-  project_number: L1030
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本化学繊維協会"
+  ics:
+  - code: 59.060.01
+    text: Textile fibres in general
+  structuredidentifier:
+    project_number: L1030
+    type: JIS

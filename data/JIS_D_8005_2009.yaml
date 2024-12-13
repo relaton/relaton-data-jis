@@ -79,18 +79,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　自動車技術会
-ics:
-- code: 13.040.50
-  text: Transport exhaust emissions
-- code: '43.180'
-  text: Diagnostic, maintenance and test equipment
-structuredidentifier:
-  project_number: D8005
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　自動車技術会
+  ics:
+  - code: 13.040.50
+    text: Transport exhaust emissions
+  - code: '43.180'
+    text: Diagnostic, maintenance and test equipment
+  structuredidentifier:
+    project_number: D8005
+    type: JIS

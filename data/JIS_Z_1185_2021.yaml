@@ -86,20 +86,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本青果物輸出促進協議会"
-ics:
-- code: '55.020'
-  text: Packaging and distribution of goods in general
-- code: '55.180'
-  text: Freight distribution of goods
-- code: 67.080.10
-  text: Fruits and derived products
-structuredidentifier:
-  project_number: Z1185
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本青果物輸出促進協議会"
+  ics:
+  - code: '55.020'
+    text: Packaging and distribution of goods in general
+  - code: '55.180'
+    text: Freight distribution of goods
+  - code: 67.080.10
+    text: Fruits and derived products
+  structuredidentifier:
+    project_number: Z1185
+    type: JIS

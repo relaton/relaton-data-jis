@@ -82,16 +82,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　日本空気清浄協会
-ics:
-- code: 13.040.30
-  text: Workplace atmospheres
-structuredidentifier:
-  project_number: K0901
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　日本空気清浄協会
+  ics:
+  - code: 13.040.30
+    text: Workplace atmospheres
+  structuredidentifier:
+    project_number: K0901
+    type: JIS

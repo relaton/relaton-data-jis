@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　繊維評価技術協議会
-ics:
-- code: 59.120.50
-  text: Dyeing and finishing equipment
-structuredidentifier:
-  project_number: L1065
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　繊維評価技術協議会
+  ics:
+  - code: 59.120.50
+    text: Dyeing and finishing equipment
+  structuredidentifier:
+    project_number: L1065
+    type: JIS

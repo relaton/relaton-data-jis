@@ -71,16 +71,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 91.140.60
-  text: Water supply systems
-structuredidentifier:
-  project_number: S3200
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 91.140.60
+    text: Water supply systems
+  structuredidentifier:
+    project_number: S3200
+    type: JIS

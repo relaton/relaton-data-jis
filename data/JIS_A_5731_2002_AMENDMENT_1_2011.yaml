@@ -69,18 +69,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　建材試験センター
-ics:
-- code: 83.140.99
-  text: Other rubber and plastics products
-- code: 91.060.20
-  text: Roofs
-structuredidentifier:
-  project_number: A5731
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　建材試験センター
+  ics:
+  - code: 83.140.99
+    text: Other rubber and plastics products
+  - code: 91.060.20
+    text: Roofs
+  structuredidentifier:
+    project_number: A5731
+    type: JIS

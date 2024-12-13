@@ -71,19 +71,19 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: "国立研究開発法人　産業技術総合研究所                                                \r\n
-      \                                                                                           一般社団法人　ナノテクノロジービジネス推進協議会"
-ics:
-- code: 01.040.07
-  text: Natural and applied sciences (Vocabularies)
-- code: '07.030'
-  text: Physics. Chemistry
-structuredidentifier:
-  project_number: Z0030
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: "国立研究開発法人　産業技術総合研究所                                                \r\n
+        \                                                                                           一般社団法人　ナノテクノロジービジネス推進協議会"
+  ics:
+  - code: 01.040.07
+    text: Natural and applied sciences (Vocabularies)
+  - code: '07.030'
+    text: Physics. Chemistry
+  structuredidentifier:
+    project_number: Z0030
+    type: JIS

@@ -62,18 +62,18 @@ contributor:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 59.100.20
-  text: Carbon materials
-- code: 81.060.20
-  text: Ceramic products
-structuredidentifier:
-  project_number: R7601
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 59.100.20
+    text: Carbon materials
+  - code: 81.060.20
+    text: Ceramic products
+  structuredidentifier:
+    project_number: R7601
+    type: JIS

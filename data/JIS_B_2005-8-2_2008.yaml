@@ -83,20 +83,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本バルブ工業会
-ics:
-- code: 17.140.20
-  text: Noise emitted by machines and equipment
-- code: 23.060.40
-  text: Pressure regulators
-- code: 25.040.40
-  text: Industrial process measurement and control
-structuredidentifier:
-  project_number: B2005
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本バルブ工業会
+  ics:
+  - code: 17.140.20
+    text: Noise emitted by machines and equipment
+  - code: 23.060.40
+    text: Pressure regulators
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  structuredidentifier:
+    project_number: B2005
+    type: JIS

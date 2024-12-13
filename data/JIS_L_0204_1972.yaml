@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　繊維学会
-ics:
-- code: 01.040.59
-  text: Textile and leather technology (Vocabularies)
-- code: '59.060'
-  text: Textile fibres
-structuredidentifier:
-  project_number: L0204
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　繊維学会
+  ics:
+  - code: 01.040.59
+    text: Textile and leather technology (Vocabularies)
+  - code: '59.060'
+    text: Textile fibres
+  structuredidentifier:
+    project_number: L0204
+    type: JIS

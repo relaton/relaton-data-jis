@@ -79,16 +79,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本弗素樹脂工業会
-ics:
-- code: 83.140.01
-  text: Rubber and plastics products in general
-structuredidentifier:
-  project_number: K6895
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本弗素樹脂工業会
+  ics:
+  - code: 83.140.01
+    text: Rubber and plastics products in general
+  structuredidentifier:
+    project_number: K6895
+    type: JIS

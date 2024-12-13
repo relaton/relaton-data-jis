@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 国土交通省国土技術政策総合研究所
-ics:
-- code: '93.030'
-  text: External sewage systems
-structuredidentifier:
-  project_number: A7511
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 国土交通省国土技術政策総合研究所
+  ics:
+  - code: '93.030'
+    text: External sewage systems
+  structuredidentifier:
+    project_number: A7511
+    type: JIS

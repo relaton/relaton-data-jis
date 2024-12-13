@@ -93,20 +93,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本壁装協会"
-ics:
-- code: '85.080'
-  text: Paper products
-- code: '91.060'
-  text: Elements of buildings
-- code: '91.180'
-  text: Interior finishing
-structuredidentifier:
-  project_number: A6921
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本壁装協会"
+  ics:
+  - code: '85.080'
+    text: Paper products
+  - code: '91.060'
+    text: Elements of buildings
+  - code: '91.180'
+    text: Interior finishing
+  structuredidentifier:
+    project_number: A6921
+    type: JIS

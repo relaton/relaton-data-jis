@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　電子情報技術産業協会
-ics:
-- code: '35.040'
-  text: Information coding
-- code: '35.180'
-  text: IT terminal and other peripheral equipment
-structuredidentifier:
-  project_number: X9005
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　電子情報技術産業協会
+  ics:
+  - code: '35.040'
+    text: Information coding
+  - code: '35.180'
+    text: IT terminal and other peripheral equipment
+  structuredidentifier:
+    project_number: X9005
+    type: JIS

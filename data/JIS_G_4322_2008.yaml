@@ -77,22 +77,22 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: ステンレス協会
-ics:
-- code: 77.140.15
-  text: Steels for reinforcement of concrete
-- code: 77.140.20
-  text: Stainless steels
-- code: 77.140.60
-  text: Steel bars and rods
-- code: 91.080.40
-  text: Concrete structures
-structuredidentifier:
-  project_number: G4322
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: ステンレス協会
+  ics:
+  - code: 77.140.15
+    text: Steels for reinforcement of concrete
+  - code: 77.140.20
+    text: Stainless steels
+  - code: 77.140.60
+    text: Steel bars and rods
+  - code: 91.080.40
+    text: Concrete structures
+  structuredidentifier:
+    project_number: G4322
+    type: JIS

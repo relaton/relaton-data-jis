@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本ゼラチン・コラーゲン工業組合"
-ics:
-- code: 71.100.99
-  text: Other products of the chemical industry
-- code: '83.180'
-  text: Adhesives
-structuredidentifier:
-  project_number: K6503
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本ゼラチン・コラーゲン工業組合"
+  ics:
+  - code: 71.100.99
+    text: Other products of the chemical industry
+  - code: '83.180'
+    text: Adhesives
+  structuredidentifier:
+    project_number: K6503
+    type: JIS

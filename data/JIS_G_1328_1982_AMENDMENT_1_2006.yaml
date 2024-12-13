@@ -70,16 +70,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '77.100'
-  text: Ferroalloys
-structuredidentifier:
-  project_number: G1328
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '77.100'
+    text: Ferroalloys
+  structuredidentifier:
+    project_number: G1328
+    type: JIS

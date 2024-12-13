@@ -70,18 +70,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: 財団法人　天然ガス導入促進センター
-ics:
-- code: '27.040'
-  text: Gas and steam turbines. Steam engines
-- code: 29.160.40
-  text: Generating sets
-structuredidentifier:
-  project_number: B0018
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: 財団法人　天然ガス導入促進センター
+  ics:
+  - code: '27.040'
+    text: Gas and steam turbines. Steam engines
+  - code: 29.160.40
+    text: Generating sets
+  structuredidentifier:
+    project_number: B0018
+    type: JIS

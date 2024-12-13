@@ -76,18 +76,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本機械工業連合会
-ics:
-- code: '13.110'
-  text: Safety of machinery
-- code: '29.020'
-  text: Electrical engineering in general
-structuredidentifier:
-  project_number: B63074
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本機械工業連合会
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    project_number: B63074
+    type: JIS

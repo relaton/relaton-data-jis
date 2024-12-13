@@ -71,16 +71,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 石油連盟
-ics:
-- code: 75.160.20
-  text: Liquid fuels
-structuredidentifier:
-  project_number: K2288
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 石油連盟
+  ics:
+  - code: 75.160.20
+    text: Liquid fuels
+  structuredidentifier:
+    project_number: K2288
+    type: JIS

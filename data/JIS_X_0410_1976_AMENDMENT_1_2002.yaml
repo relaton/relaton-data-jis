@@ -68,23 +68,23 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本デジタル道路地図協会
-ics:
-- code: 01.080.30
-  text: Graphical symbols for use on mechanical engineering and construction drawings,
-    diagrams, plans, maps and in relevant technical product documentation
-- code: '07.040'
-  text: Astronomy. Geodesy. Geography
-- code: '35.040'
-  text: Information coding
-- code: 35.240.70
-  text: IT applications in science
-structuredidentifier:
-  project_number: X0410
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本デジタル道路地図協会
+  ics:
+  - code: 01.080.30
+    text: Graphical symbols for use on mechanical engineering and construction drawings,
+      diagrams, plans, maps and in relevant technical product documentation
+  - code: '07.040'
+    text: Astronomy. Geodesy. Geography
+  - code: '35.040'
+    text: Information coding
+  - code: 35.240.70
+    text: IT applications in science
+  structuredidentifier:
+    project_number: X0410
+    type: JIS

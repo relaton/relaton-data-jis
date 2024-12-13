@@ -81,16 +81,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本金属屋根協会
-ics:
-- code: 91.060.20
-  text: Roofs
-structuredidentifier:
-  project_number: A6514
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本金属屋根協会
+  ics:
+  - code: 91.060.20
+    text: Roofs
+  structuredidentifier:
+    project_number: A6514
+    type: JIS

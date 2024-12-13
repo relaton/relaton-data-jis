@@ -70,16 +70,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 日本ビニル工業会
-ics:
-- code: 83.080.20
-  text: Thermoplastic materials
-structuredidentifier:
-  project_number: K6723
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 日本ビニル工業会
+  ics:
+  - code: 83.080.20
+    text: Thermoplastic materials
+  structuredidentifier:
+    project_number: K6723
+    type: JIS

@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本縫製機械工業会
-ics:
-- code: '61.080'
-  text: Sewing machines and other equipment for the clothing industry
-structuredidentifier:
-  project_number: B9043
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本縫製機械工業会
+  ics:
+  - code: '61.080'
+    text: Sewing machines and other equipment for the clothing industry
+  structuredidentifier:
+    project_number: B9043
+    type: JIS

@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 全日本ヤスリ工業組合連合会
-ics:
-- code: 79.120.20
-  text: Woodworking tools
-structuredidentifier:
-  project_number: B4706
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 全日本ヤスリ工業組合連合会
+  ics:
+  - code: 79.120.20
+    text: Woodworking tools
+  structuredidentifier:
+    project_number: B4706
+    type: JIS

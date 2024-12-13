@@ -77,16 +77,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本建築設備・昇降機センター
-ics:
-- code: 91.140.40
-  text: Gas supply systems
-structuredidentifier:
-  project_number: A4303
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本建築設備・昇降機センター
+  ics:
+  - code: 91.140.40
+    text: Gas supply systems
+  structuredidentifier:
+    project_number: A4303
+    type: JIS

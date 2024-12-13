@@ -79,16 +79,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　ソーラーシステム振興協会
-ics:
-- code: '27.160'
-  text: Solar energy engineering
-structuredidentifier:
-  project_number: A1621
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　ソーラーシステム振興協会
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  structuredidentifier:
+    project_number: A1621
+    type: JIS

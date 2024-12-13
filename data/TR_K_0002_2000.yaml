@@ -70,16 +70,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '19.100'
-  text: Non-destructive testing
-structuredidentifier:
-  project_number: K0002
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '19.100'
+    text: Non-destructive testing
+  structuredidentifier:
+    project_number: K0002
+    type: JIS

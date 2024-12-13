@@ -81,18 +81,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本高圧ガス容器バルブ工業会
-ics:
-- code: 23.020.30
-  text: Pressure vessels
-- code: 23.060.40
-  text: Pressure regulators
-structuredidentifier:
-  project_number: B8246
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本高圧ガス容器バルブ工業会
+  ics:
+  - code: 23.020.30
+    text: Pressure vessels
+  - code: 23.060.40
+    text: Pressure regulators
+  structuredidentifier:
+    project_number: B8246
+    type: JIS

@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本機械鋸・刃物工業会
-ics:
-- code: 25.120.10
-  text: Forging equipment. Presses. Shears
-- code: '85.100'
-  text: Equipment for the paper industry
-structuredidentifier:
-  project_number: B4707
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本機械鋸・刃物工業会
+  ics:
+  - code: 25.120.10
+    text: Forging equipment. Presses. Shears
+  - code: '85.100'
+    text: Equipment for the paper industry
+  structuredidentifier:
+    project_number: B4707
+    type: JIS

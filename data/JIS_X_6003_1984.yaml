@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 社団法人　日本電子工業振興協会
-ics:
-- code: '35.180'
-  text: IT terminal and other peripheral equipment
-structuredidentifier:
-  project_number: X6003
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 社団法人　日本電子工業振興協会
+  ics:
+  - code: '35.180'
+    text: IT terminal and other peripheral equipment
+  structuredidentifier:
+    project_number: X6003
+    type: JIS

@@ -78,18 +78,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本時計協会"
-ics:
-- code: 39.040.10
-  text: Watches
-- code: 97.220.40
-  text: Outdoor and water sports equipment
-structuredidentifier:
-  project_number: B7023
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本時計協会"
+  ics:
+  - code: 39.040.10
+    text: Watches
+  - code: 97.220.40
+    text: Outdoor and water sports equipment
+  structuredidentifier:
+    project_number: B7023
+    type: JIS

@@ -87,18 +87,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　日本保安用品協会"
-ics:
-- code: 13.040.30
-  text: Workplace atmospheres
-- code: 71.040.40
-  text: Chemical analysis
-structuredidentifier:
-  project_number: K0804
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　日本保安用品協会"
+  ics:
+  - code: 13.040.30
+    text: Workplace atmospheres
+  - code: 71.040.40
+    text: Chemical analysis
+  structuredidentifier:
+    project_number: K0804
+    type: JIS

@@ -87,18 +87,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本鉱業協会"
-ics:
-- code: 71.040.40
-  text: Chemical analysis
-- code: 73.060.99
-  text: Other metalliferous minerals
-structuredidentifier:
-  project_number: M8124
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本鉱業協会"
+  ics:
+  - code: 71.040.40
+    text: Chemical analysis
+  - code: 73.060.99
+    text: Other metalliferous minerals
+  structuredidentifier:
+    project_number: M8124
+    type: JIS

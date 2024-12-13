@@ -81,13 +81,13 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            社団法人　日本計量協会"
-structuredidentifier:
-  project_number: Z8440
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            社団法人　日本計量協会"
+  structuredidentifier:
+    project_number: Z8440
+    type: JIS

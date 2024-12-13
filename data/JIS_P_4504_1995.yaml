@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本製紙連合会
-ics:
-- code: 37.100.20
-  text: Materials for graphic technology
-- code: '85.080'
-  text: Paper products
-structuredidentifier:
-  project_number: P4504
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本製紙連合会
+  ics:
+  - code: 37.100.20
+    text: Materials for graphic technology
+  - code: '85.080'
+    text: Paper products
+  structuredidentifier:
+    project_number: P4504
+    type: JIS

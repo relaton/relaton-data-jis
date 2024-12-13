@@ -87,18 +87,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本顕微鏡工業会"
-ics:
-- code: '37.020'
-  text: Optical equipment
-- code: '75.140'
-  text: Waxes, bituminous materials and other petroleum products
-structuredidentifier:
-  project_number: K2400
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本顕微鏡工業会"
+  ics:
+  - code: '37.020'
+    text: Optical equipment
+  - code: '75.140'
+    text: Waxes, bituminous materials and other petroleum products
+  structuredidentifier:
+    project_number: K2400
+    type: JIS

@@ -71,17 +71,17 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-specification
-editorialgroup:
-  technical_committee:
-  - name: "国立研究開発法人　産業技術総合研究所                                                \r\n
-      \                                                                                           開発技術学会"
-ics:
-- code: 71.080.60
-  text: Alcohols. Ethers
-structuredidentifier:
-  project_number: K0011
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-specification
+  editorialgroup:
+    technical_committee:
+    - name: "国立研究開発法人　産業技術総合研究所                                                \r\n
+        \                                                                                           開発技術学会"
+  ics:
+  - code: 71.080.60
+    text: Alcohols. Ethers
+  structuredidentifier:
+    project_number: K0011
+    type: JIS

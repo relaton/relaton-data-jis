@@ -82,18 +82,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本ロボット工業会
-ics:
-- code: '13.110'
-  text: Safety of machinery
-- code: 25.040.30
-  text: Industrial robots. Manipulators
-structuredidentifier:
-  project_number: Y1001
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本ロボット工業会
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: 25.040.30
+    text: Industrial robots. Manipulators
+  structuredidentifier:
+    project_number: Y1001
+    type: JIS

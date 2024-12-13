@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本金網団体連合会"
-ics:
-- code: 77.140.99
-  text: Other iron and steel products
-- code: '93.140'
-  text: Construction of waterways, ports and dykes
-structuredidentifier:
-  project_number: A5513
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本金網団体連合会"
+  ics:
+  - code: 77.140.99
+    text: Other iron and steel products
+  - code: '93.140'
+    text: Construction of waterways, ports and dykes
+  structuredidentifier:
+    project_number: A5513
+    type: JIS

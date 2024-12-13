@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電気計測器工業会"
-ics:
-- code: 71.040.40
-  text: Chemical analysis
-- code: 71.060.20
-  text: Oxides
-structuredidentifier:
-  project_number: B7957
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電気計測器工業会"
+  ics:
+  - code: 71.040.40
+    text: Chemical analysis
+  - code: 71.060.20
+    text: Oxides
+  structuredidentifier:
+    project_number: B7957
+    type: JIS

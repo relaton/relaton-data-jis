@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 線材製品協会
-ics:
-- code: 77.140.10
-  text: Heat-treatable steels
-- code: 77.140.65
-  text: Steel wire, wire ropes and link chains
-structuredidentifier:
-  project_number: G3508
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 線材製品協会
+  ics:
+  - code: 77.140.10
+    text: Heat-treatable steels
+  - code: 77.140.65
+    text: Steel wire, wire ropes and link chains
+  structuredidentifier:
+    project_number: G3508
+    type: JIS

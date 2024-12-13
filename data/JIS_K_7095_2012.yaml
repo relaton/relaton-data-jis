@@ -78,16 +78,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "日本プラスチック工業連盟                                                \r\n                                                                                            国立研究開発法人　宇宙航空研究開発機構"
-ics:
-- code: '83.120'
-  text: Reinforced plastics
-structuredidentifier:
-  project_number: K7095
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "日本プラスチック工業連盟                                                \r\n                                                                                            国立研究開発法人　宇宙航空研究開発機構"
+  ics:
+  - code: '83.120'
+    text: Reinforced plastics
+  structuredidentifier:
+    project_number: K7095
+    type: JIS

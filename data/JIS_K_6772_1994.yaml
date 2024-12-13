@@ -79,18 +79,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 日本ビニル工業会
-ics:
-- code: 59.080.40
-  text: Coated fabrics
-- code: 83.140.10
-  text: Films and sheets
-structuredidentifier:
-  project_number: K6772
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 日本ビニル工業会
+  ics:
+  - code: 59.080.40
+    text: Coated fabrics
+  - code: 83.140.10
+    text: Films and sheets
+  structuredidentifier:
+    project_number: K6772
+    type: JIS

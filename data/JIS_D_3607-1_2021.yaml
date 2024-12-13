@@ -74,18 +74,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　自動車技術会
-ics:
-- code: 43.060.40
-  text: Fuel systems
-- code: 77.140.75
-  text: Steel pipes and tubes for specific use
-structuredidentifier:
-  project_number: D3607
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　自動車技術会
+  ics:
+  - code: 43.060.40
+    text: Fuel systems
+  - code: 77.140.75
+    text: Steel pipes and tubes for specific use
+  structuredidentifier:
+    project_number: D3607
+    type: JIS

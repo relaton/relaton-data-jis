@@ -76,16 +76,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本建材・住宅設備産業協会
-ics:
-- code: 91.120.10
-  text: Thermal insulation of buildings
-structuredidentifier:
-  project_number: A2106
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本建材・住宅設備産業協会
+  ics:
+  - code: 91.120.10
+    text: Thermal insulation of buildings
+  structuredidentifier:
+    project_number: A2106
+    type: JIS

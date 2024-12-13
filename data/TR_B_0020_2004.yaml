@@ -69,22 +69,22 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '27.020'
-  text: Internal combustion engines
-- code: '27.040'
-  text: Gas and steam turbines. Steam engines
-- code: '27.100'
-  text: Power stations in general
-- code: '27.220'
-  text: Heat recovery. Thermal insulation
-structuredidentifier:
-  project_number: B0020
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '27.020'
+    text: Internal combustion engines
+  - code: '27.040'
+    text: Gas and steam turbines. Steam engines
+  - code: '27.100'
+    text: Power stations in general
+  - code: '27.220'
+    text: Heat recovery. Thermal insulation
+  structuredidentifier:
+    project_number: B0020
+    type: JIS

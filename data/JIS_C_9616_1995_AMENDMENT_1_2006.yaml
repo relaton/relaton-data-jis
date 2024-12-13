@@ -68,16 +68,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '97.170'
-  text: Body care equipment
-structuredidentifier:
-  project_number: C9616
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '97.170'
+    text: Body care equipment
+  structuredidentifier:
+    project_number: C9616
+    type: JIS

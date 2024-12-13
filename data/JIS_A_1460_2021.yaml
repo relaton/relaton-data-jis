@@ -80,20 +80,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　建材試験センター
-ics:
-- code: 13.040.99
-  text: Other standards related to air quality
-- code: 71.080.80
-  text: Aldehydes and ketones
-- code: 79.060.10
-  text: Plywood
-structuredidentifier:
-  project_number: A1460
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　建材試験センター
+  ics:
+  - code: 13.040.99
+    text: Other standards related to air quality
+  - code: 71.080.80
+    text: Aldehydes and ketones
+  - code: 79.060.10
+    text: Plywood
+  structuredidentifier:
+    project_number: A1460
+    type: JIS

@@ -69,19 +69,19 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 01.040.03
-  text: Services. Company organization, management and quality. Administration. Transport.
-    Sociology. (Vocabularies)
-- code: 03.100.01
-  text: Company organization and management in general
-structuredidentifier:
-  project_number: Q0008
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 01.040.03
+    text: Services. Company organization, management and quality. Administration.
+      Transport. Sociology. (Vocabularies)
+  - code: 03.100.01
+    text: Company organization and management in general
+  structuredidentifier:
+    project_number: Q0008
+    type: JIS

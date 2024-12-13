@@ -82,16 +82,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            独立行政法人　製品評価技術基盤機構"
-ics:
-- code: '75.140'
-  text: Waxes, bituminous materials and other petroleum products
-structuredidentifier:
-  project_number: K3901
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            独立行政法人　製品評価技術基盤機構"
+  ics:
+  - code: '75.140'
+    text: Waxes, bituminous materials and other petroleum products
+  structuredidentifier:
+    project_number: K3901
+    type: JIS

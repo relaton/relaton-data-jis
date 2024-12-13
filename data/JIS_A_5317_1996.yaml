@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 全国コンクリート製品協会
-ics:
-- code: 93.080.30
-  text: Road equipment and installations
-structuredidentifier:
-  project_number: A5317
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 全国コンクリート製品協会
+  ics:
+  - code: 93.080.30
+    text: Road equipment and installations
+  structuredidentifier:
+    project_number: A5317
+    type: JIS

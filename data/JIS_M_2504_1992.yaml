@@ -77,17 +77,17 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　石炭エネルギーセンター                                                \r\n
-      \                                                                                           一般財団法人　石炭フロンティア機構"
-ics:
-- code: 73.100.10
-  text: Tunnelling and tubing equipment
-structuredidentifier:
-  project_number: M2504
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　石炭エネルギーセンター                                                \r\n
+        \                                                                                           一般財団法人　石炭フロンティア機構"
+  ics:
+  - code: 73.100.10
+    text: Tunnelling and tubing equipment
+  structuredidentifier:
+    project_number: M2504
+    type: JIS

@@ -66,18 +66,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本船舶技術研究協会
-ics:
-- code: 47.020.10
-  text: Hulls and their structure elements
-- code: '97.145'
-  text: Ladders
-structuredidentifier:
-  project_number: F2622
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本船舶技術研究協会
+  ics:
+  - code: 47.020.10
+    text: Hulls and their structure elements
+  - code: '97.145'
+    text: Ladders
+  structuredidentifier:
+    project_number: F2622
+    type: JIS

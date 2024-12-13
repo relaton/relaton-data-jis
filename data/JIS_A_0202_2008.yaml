@@ -89,22 +89,22 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本保温保冷工業協会"
-ics:
-- code: 01.040.27
-  text: Energy and heat transfer engineering (Vocabularies)
-- code: 01.040.91
-  text: Construction materials and building (Vocabularies)
-- code: '27.220'
-  text: Heat recovery. Thermal insulation
-- code: 91.120.10
-  text: Thermal insulation of buildings
-structuredidentifier:
-  project_number: A0202
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本保温保冷工業協会"
+  ics:
+  - code: 01.040.27
+    text: Energy and heat transfer engineering (Vocabularies)
+  - code: 01.040.91
+    text: Construction materials and building (Vocabularies)
+  - code: '27.220'
+    text: Heat recovery. Thermal insulation
+  - code: 91.120.10
+    text: Thermal insulation of buildings
+  structuredidentifier:
+    project_number: A0202
+    type: JIS

@@ -81,20 +81,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 公益社団法人　日本セラミックス協会
-ics:
-- code: 17.200.10
-  text: Heat. Calorimetry
-- code: 25.180.20
-  text: Fuel furnaces
-- code: '81.100'
-  text: Equipment for the glass and ceramics industries
-structuredidentifier:
-  project_number: R0302
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　日本セラミックス協会
+  ics:
+  - code: 17.200.10
+    text: Heat. Calorimetry
+  - code: 25.180.20
+    text: Fuel furnaces
+  - code: '81.100'
+    text: Equipment for the glass and ceramics industries
+  structuredidentifier:
+    project_number: R0302
+    type: JIS

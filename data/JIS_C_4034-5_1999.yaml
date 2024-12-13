@@ -76,16 +76,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　電気学会
-ics:
-- code: 29.160.01
-  text: Rotating machinery in general
-structuredidentifier:
-  project_number: C4034
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　電気学会
+  ics:
+  - code: 29.160.01
+    text: Rotating machinery in general
+  structuredidentifier:
+    project_number: C4034
+    type: JIS

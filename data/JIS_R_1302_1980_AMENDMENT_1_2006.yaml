@@ -70,18 +70,18 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 71.040.20
-  text: Laboratory ware and related apparatus
-- code: 81.060.20
-  text: Ceramic products
-structuredidentifier:
-  project_number: R1302
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 71.040.20
+    text: Laboratory ware and related apparatus
+  - code: 81.060.20
+    text: Ceramic products
+  structuredidentifier:
+    project_number: R1302
+    type: JIS

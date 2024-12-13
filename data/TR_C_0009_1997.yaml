@@ -71,18 +71,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: 33.100.10
-  text: Emission
-- code: 33.100.20
-  text: Immunity
-structuredidentifier:
-  project_number: C0009
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: 33.100.10
+    text: Emission
+  - code: 33.100.20
+    text: Immunity
+  structuredidentifier:
+    project_number: C0009
+    type: JIS

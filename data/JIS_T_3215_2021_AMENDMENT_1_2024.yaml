@@ -78,16 +78,16 @@ script:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: amendment
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本医療機器テクノロジー協会"
-ics:
-- code: 11.040.25
-  text: Syringes, needles and catheters
-structuredidentifier:
-  project_number: T3215
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: amendment
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本医療機器テクノロジー協会"
+  ics:
+  - code: 11.040.25
+    text: Syringes, needles and catheters
+  structuredidentifier:
+    project_number: T3215
+    type: JIS

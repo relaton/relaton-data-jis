@@ -81,16 +81,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "日本試験機工業会                                                \r\n                                                                                            一般社団法人　日本試験機工業会"
-ics:
-- code: '19.040'
-  text: Environmental testing
-structuredidentifier:
-  project_number: B7754
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "日本試験機工業会                                                \r\n                                                                                            一般社団法人　日本試験機工業会"
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  structuredidentifier:
+    project_number: B7754
+    type: JIS

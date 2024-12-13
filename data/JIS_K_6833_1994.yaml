@@ -69,16 +69,16 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 特定非営利活動法人　接着剤・接着評価技術研究会
-ics:
-- code: '83.180'
-  text: Adhesives
-structuredidentifier:
-  project_number: K6833
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 特定非営利活動法人　接着剤・接着評価技術研究会
+  ics:
+  - code: '83.180'
+    text: Adhesives
+  structuredidentifier:
+    project_number: K6833
+    type: JIS

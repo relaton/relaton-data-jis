@@ -90,20 +90,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　日本包装技術協会"
-ics:
-- code: 11.180.01
-  text: Aids for disabled and handicapped persons in general
-- code: '13.100'
-  text: Occupational safety. Industrial hygiene
-- code: '55.020'
-  text: Packaging and distribution of goods in general
-structuredidentifier:
-  project_number: S0025
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            公益社団法人　日本包装技術協会"
+  ics:
+  - code: 11.180.01
+    text: Aids for disabled and handicapped persons in general
+  - code: '13.100'
+    text: Occupational safety. Industrial hygiene
+  - code: '55.020'
+    text: Packaging and distribution of goods in general
+  structuredidentifier:
+    project_number: S0025
+    type: JIS

@@ -71,18 +71,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本印刷産業連合会
-ics:
-- code: 01.040.37
-  text: Image technology (Vocabularies)
-- code: 37.100.10
-  text: Reproduction equipment
-structuredidentifier:
-  project_number: Z8123
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本印刷産業連合会
+  ics:
+  - code: 01.040.37
+    text: Image technology (Vocabularies)
+  - code: 37.100.10
+    text: Reproduction equipment
+  structuredidentifier:
+    project_number: Z8123
+    type: JIS

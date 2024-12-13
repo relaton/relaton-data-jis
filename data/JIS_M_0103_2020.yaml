@@ -87,20 +87,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本産業機械工業会"
-ics:
-- code: 01.040.73
-  text: Mining and minerals (Vocabularies)
-- code: '73.100'
-  text: Mining equipment
-- code: '91.220'
-  text: Construction equipment
-structuredidentifier:
-  project_number: M0103
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本産業機械工業会"
+  ics:
+  - code: 01.040.73
+    text: Mining and minerals (Vocabularies)
+  - code: '73.100'
+    text: Mining equipment
+  - code: '91.220'
+    text: Construction equipment
+  structuredidentifier:
+    project_number: M0103
+    type: JIS

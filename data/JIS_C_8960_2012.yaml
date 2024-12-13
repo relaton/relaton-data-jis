@@ -81,18 +81,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本電機工業会
-ics:
-- code: 01.040.27
-  text: Energy and heat transfer engineering (Vocabularies)
-- code: '27.160'
-  text: Solar energy engineering
-structuredidentifier:
-  project_number: C8960
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本電機工業会
+  ics:
+  - code: 01.040.27
+    text: Energy and heat transfer engineering (Vocabularies)
+  - code: '27.160'
+    text: Solar energy engineering
+  structuredidentifier:
+    project_number: C8960
+    type: JIS

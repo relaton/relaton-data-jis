@@ -91,20 +91,20 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本溶接協会"
-ics:
-- code: 13.040.30
-  text: Workplace atmospheres
-- code: '13.100'
-  text: Occupational safety. Industrial hygiene
-- code: 25.160.10
-  text: Welding processes
-structuredidentifier:
-  project_number: Z3950
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本溶接協会"
+  ics:
+  - code: 13.040.30
+    text: Workplace atmospheres
+  - code: '13.100'
+    text: Occupational safety. Industrial hygiene
+  - code: 25.160.10
+    text: Welding processes
+  structuredidentifier:
+    project_number: Z3950
+    type: JIS

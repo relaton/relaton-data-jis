@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 社団法人　日本建設機械化協会
-ics:
-- code: 01.040.43
-  text: Road vehicle engineering (Vocabularies)
-- code: 43.080.10
-  text: Trucks and trailers
-structuredidentifier:
-  project_number: A8422
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 社団法人　日本建設機械化協会
+  ics:
+  - code: 01.040.43
+    text: Road vehicle engineering (Vocabularies)
+  - code: 43.080.10
+    text: Trucks and trailers
+  structuredidentifier:
+    project_number: A8422
+    type: JIS

@@ -91,16 +91,16 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　火力原子力発電技術協会"
-ics:
-- code: 27.060.30
-  text: Boilers and heat exchangers
-structuredidentifier:
-  project_number: B8223
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　火力原子力発電技術協会"
+  ics:
+  - code: 27.060.30
+    text: Boilers and heat exchangers
+  structuredidentifier:
+    project_number: B8223
+    type: JIS

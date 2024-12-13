@@ -77,18 +77,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般社団法人　日本農業機械工業会
-ics:
-- code: 65.060.50
-  text: Harvesting equipment
-- code: 83.140.99
-  text: Other rubber and plastics products
-structuredidentifier:
-  project_number: B9124
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本農業機械工業会
+  ics:
+  - code: 65.060.50
+    text: Harvesting equipment
+  - code: 83.140.99
+    text: Other rubber and plastics products
+  structuredidentifier:
+    project_number: B9124
+    type: JIS

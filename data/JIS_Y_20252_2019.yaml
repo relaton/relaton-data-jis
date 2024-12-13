@@ -90,21 +90,21 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本マーケティング・リサーチ協会"
-ics:
-- code: 01.040.03
-  text: Services. Company organization, management and quality. Administration. Transport.
-    Sociology. (Vocabularies)
-- code: '03.020'
-  text: Sociology. Demography
-- code: 03.100.20
-  text: Trade. Commercial function. Marketing
-structuredidentifier:
-  project_number: Y20252
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本マーケティング・リサーチ協会"
+  ics:
+  - code: 01.040.03
+    text: Services. Company organization, management and quality. Administration.
+      Transport. Sociology. (Vocabularies)
+  - code: '03.020'
+    text: Sociology. Demography
+  - code: 03.100.20
+    text: Trade. Commercial function. Marketing
+  structuredidentifier:
+    project_number: Y20252
+    type: JIS

@@ -89,18 +89,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本不織布協会"
-ics:
-- code: 01.040.59
-  text: Textile and leather technology (Vocabularies)
-- code: 59.080.30
-  text: Textile fabrics
-structuredidentifier:
-  project_number: L0222
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本不織布協会"
+  ics:
+  - code: 01.040.59
+    text: Textile and leather technology (Vocabularies)
+  - code: 59.080.30
+    text: Textile fabrics
+  structuredidentifier:
+    project_number: L0222
+    type: JIS

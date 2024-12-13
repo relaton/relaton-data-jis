@@ -93,18 +93,18 @@ abstract:
 docstatus:
   stage:
     value: valid
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本機械学会"
-ics:
-- code: '13.160'
-  text: Vibration and shock with respect to human beings
-- code: '17.160'
-  text: Vibrations, shock and vibration measurements
-structuredidentifier:
-  project_number: B7760
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本機械学会"
+  ics:
+  - code: '13.160'
+    text: Vibration and shock with respect to human beings
+  - code: '17.160'
+    text: Vibrations, shock and vibration measurements
+  structuredidentifier:
+    project_number: B7760
+    type: JIS

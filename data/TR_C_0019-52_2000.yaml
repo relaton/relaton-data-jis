@@ -70,18 +70,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: technical-report
-editorialgroup:
-  technical_committee:
-  - name: ''
-ics:
-- code: '13.260'
-  text: Protection against electric shock.  Live working
-- code: 29.130.01
-  text: Switchgear and controlgear in general
-structuredidentifier:
-  project_number: C0019
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: technical-report
+  editorialgroup:
+    technical_committee:
+    - name: ''
+  ics:
+  - code: '13.260'
+    text: Protection against electric shock.  Live working
+  - code: 29.130.01
+    text: Switchgear and controlgear in general
+  structuredidentifier:
+    project_number: C0019
+    type: JIS

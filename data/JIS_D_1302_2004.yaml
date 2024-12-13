@@ -69,18 +69,18 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-doctype:
-  type: japanese-industrial-standard
-editorialgroup:
-  technical_committee:
-  - name: 一般財団法人　日本自動車研究所
-ics:
-- code: 29.160.30
-  text: Motors
-- code: '43.120'
-  text: Electric road vehicles
-structuredidentifier:
-  project_number: D1302
-  type: JIS
 ext:
   schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本自動車研究所
+  ics:
+  - code: 29.160.30
+    text: Motors
+  - code: '43.120'
+    text: Electric road vehicles
+  structuredidentifier:
+    project_number: D1302
+    type: JIS
