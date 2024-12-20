@@ -45,20 +45,34 @@ contributor:
   - type: authorizer
 - organization:
     name:
-    - content: 公益社団法人　日本表面真空学会
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本真空工業会
+        \                                               \r\n                                                                                            公益社団法人　日本表面真空学会"
       language:
       - ja
       script:
       - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
   role:
   - type: author
 - organization:
     name:
-    - content: 公益社団法人　日本表面真空学会
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本真空工業会
+        \                                               \r\n                                                                                            公益社団法人　日本表面真空学会"
       language:
       - ja
       script:
       - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
   role:
   - type: publisher
 language:
@@ -66,10 +80,11 @@ language:
 script:
 - Jpan
 abstract:
-- content: "この規格は，次の組合せのフランジに互換性をもたせるため，真空技術に使用する非ナイフエッジフランジ及びカラーの形状及び寸法について規定する。\nこの寸法は，ボルト締めフランジ，クランプ締めフランジ及び回転フランジ間の互換性を保証する。\na)\t組み立てられるフランジが同種（例えば，ボルト締めフランジ同士，クランプ締めフランジ同士など），又は異種（例えば，ボルト締めフランジがボルト又はクランプを用いてクランプ締めフランジと組み立てられている場合，又はボルト締めフランジがボルトと回転フランジとを用いてクランプ締めフランジと組み立てられている場合など）のいずれでもよい。\nb)\tフランジのシールリングは，附属書Aに規定するシール線荷重に適合するものであれば，エラストマーOリング又はメタルシールリングのいずれでもよい。\n注記1\t非ナイフエッジフランジの直径寸法は，JIS
-    B 8365で規定された対応するクランプ型クイックカップリングとの互換性を確実にしている。\n注記2\t保守用フランジに関する事項を参考として附属書JAに示す。\n注記3\tこの規格の対応国際規格及びその対応の程度を表す記号を，次に示す。\nISO
-    1609:2020，Vacuum technology－Dimensions of non-knife edge flanges（IDT）\nなお，対応の程度を表す記号“IDT”は，ISO/IEC
-    Guide 21-1に基づき，“一致している”ことを示す。"
+- content: |-
+    この規格は，次の組合せのフランジに互換性をもたせるため，真空技術に使用する非ナイフエッジフランジ及びカラーの形状及び寸法について規定する。
+    この寸法は，ボルト締めフランジ，クランプ締めフランジ及び回転フランジ間の互換性を保証する。
+    a)組み立てられるフランジが同種（例えば，ボルト締めフランジ同士，クランプ締めフランジ同士など），又は異種（例えば，ボルト締めフランジがボルト又はクランプを用いてクランプ締めフランジと組み立てられている場合，又はボルト締めフランジがボルトと回転フランジとを用いてクランプ締めフランジと組み立てられている場合など）のいずれでもよい。
+    b)フランジのシールリングは，附属書Aに規定するシール線荷重に適合するものであれば，エラストマーOリング又はメタルシールリングのいずれでもよい。
   language:
   - ja
   script:
@@ -84,7 +99,8 @@ ext:
     type: japanese-industrial-standard
   editorialgroup:
     technical_committee:
-    - name: 公益社団法人　日本表面真空学会
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本真空工業会
+        \                                               \r\n                                                                                            公益社団法人　日本表面真空学会"
   ics:
   - code: '23.160'
     text: Vacuum technology

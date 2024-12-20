@@ -1,0 +1,104 @@
+---
+schema-version: v1.2.9
+id: JISZ9110-2024
+title:
+- content: 照明基準総則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: General rules of recommended lighting levels
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9110%3A2024
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09110_000_000_2024_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS Z 9110:2024
+  type: JIS
+  primary: true
+docnumber: Z9110
+date:
+- type: issued
+  value: '2024-12-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　照明学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　照明学会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: |-
+    この規格は，主に人工照明によって，人々の諸活動が，健康，安全，容易かつ快適に行えるための照明設計基準及び照明要求事項の総則について規定する。
+    なお，この規格とは別に個別の照明基準が日本産業規格（JIS）に規定されている場合には，個別の照明基準を用いる。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+ext:
+  schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　照明学会"
+  ics:
+  - code: 91.160.01
+    text: Lighting in general
+  structuredidentifier:
+    project_number: Z9110
+    type: JIS
