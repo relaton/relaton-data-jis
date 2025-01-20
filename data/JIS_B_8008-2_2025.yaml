@@ -1,33 +1,34 @@
 ---
 schema-version: v1.2.9
-id: JISB2031-2024
+id: JISB8008-2-2025
 title:
-- content: ねずみ鋳鉄弁
+- content: 往復動内燃機関－排気排出物測定－第２部：ガス状排出物及び粒子状排出物の搭載状態での測定
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: Gray cast iron valves
+- content: 'Reciprocating internal combustion engines-Exhaust emission measurement-Part
+    2: Measurement of gaseous and particulate exhaust emissions under field conditions'
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2031%3A2024
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8008-2%3A2025
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02031_000_000_2024_e_ed10_ch.pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08008_002_000_2025_j_ed10_ch.pdf
   type: pdf
 type: standard
 docid:
-- id: JIS B 2031:2024
+- id: JIS B 8008-2:2025
   type: JIS
   primary: true
-docnumber: B2031
+docnumber: B8008
 date:
 - type: issued
-  value: '2024-08-20'
+  value: '2025-01-20'
 contributor:
 - organization:
     name:
@@ -46,7 +47,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本バルブ工業会"
+        \                                                                                           日本内燃機関連合会"
       language:
       - ja
       script:
@@ -61,7 +62,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本バルブ工業会"
+        \                                                                                           日本内燃機関連合会"
       language:
       - ja
       script:
@@ -75,12 +76,10 @@ contributor:
   - type: publisher
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 abstract:
-- content: この規格は，一般の機械装置などに用いるねずみ鋳鉄弁について規定する。
+- content: この規格は，定常状態及び過渡状態の往復動内燃機関（RIC）から排出されるガス状排出物及び粒子状排出物の搭載状態での測定及び評価方法について規定する。
   language:
   - ja
   script:
@@ -95,10 +94,12 @@ ext:
     type: japanese-industrial-standard
   editorialgroup:
     technical_committee:
-    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本バルブ工業会"
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            日本内燃機関連合会"
   ics:
-  - code: 23.060.01
-    text: Valves in general
+  - code: 13.040.50
+    text: Transport exhaust emissions
+  - code: '27.020'
+    text: Internal combustion engines
   structuredidentifier:
-    project_number: B2031
+    project_number: B8008
     type: JIS

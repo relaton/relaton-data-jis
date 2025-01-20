@@ -1,33 +1,33 @@
 ---
 schema-version: v1.2.9
-id: JISZ4001-1999
+id: JISZ8210-2017SYMBOL65100
 title:
-- content: 原子力用語
+- content: 案内用図記号 洪水／内水氾濫 (JIS Z 8210:2017)
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: Glossary of terms used in nuclear energy
+- content: ''
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4001%3A1999
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8210%3A2017+SYMBOL+65100
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04001_000_000_1999_j_pr10_i4.pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08210_000_000_2017_i_symbol_65100.pdf
   type: pdf
 type: standard
 docid:
-- id: JIS Z 4001:1999
+- id: JIS Z 8210:2017 SYMBOL 65100
   type: JIS
   primary: true
-docnumber: Z4001
+docnumber: Z8210
 date:
 - type: issued
-  value: '1999-05-31'
+  value: '2017-07-20'
 contributor:
 - organization:
     name:
@@ -45,44 +45,45 @@ contributor:
   - type: authorizer
 - organization:
     name:
-    - content: 一般社団法人　日本原子力学会
+    - content: 一般財団法人　日本規格協会
       language:
       - ja
       script:
       - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
   role:
   - type: author
 - organization:
     name:
-    - content: 一般社団法人　日本原子力学会
+    - content: 一般財団法人　日本規格協会
       language:
       - ja
       script:
       - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
   role:
   - type: publisher
-abstract:
-- content: 工業などで用いる原子力に関する用語とその定義について規定。
-  language:
-  - ja
-  script:
-  - Jpan
-  format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: valid
 ext:
   schema-version: v0.0.1
   doctype:
     type: japanese-industrial-standard
   editorialgroup:
     technical_committee:
-    - name: 一般社団法人　日本原子力学会
+    - name: 一般財団法人　日本規格協会
   ics:
-  - code: 01.040.27
-    text: Energy and heat transfer engineering (Vocabularies)
-  - code: 27.120.01
-    text: Nuclear energy in general
+  - code: 01.080.10
+    text: Public information symbols. Signs. Plates. Labels
   structuredidentifier:
-    project_number: Z4001
+    project_number: Z8210
     type: JIS

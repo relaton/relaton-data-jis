@@ -1,35 +1,33 @@
 ---
 schema-version: v1.2.9
-id: JISZ2244-1-2024
+id: JISZ8212-2025
 title:
-- content: ビッカース硬さ試験―第１部：試験方法
+- content: 図記号の理解度試験方法
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: 'Vickers hardness test -- Part 1: Test method'
+- content: Methods for testing comprehensibility of graphical symbols
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2244-1%3A2024
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8212%3A2025
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02244_001_000_2024_j_ed10_ch.pdf
-  type: pdf
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02244_001_000_2024_e_ed10_ch.pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08212_000_000_2025_j_ed10_ch.pdf
   type: pdf
 type: standard
 docid:
-- id: JIS Z 2244-1:2024
+- id: JIS Z 8212:2025
   type: JIS
   primary: true
-docnumber: Z2244
+docnumber: Z8212
 date:
 - type: issued
-  value: '2024-06-20'
+  value: '2025-01-20'
 contributor:
 - organization:
     name:
@@ -47,30 +45,38 @@ contributor:
   - type: authorizer
 - organization:
     name:
-    - content: 一般社団法人　日本鉄鋼連盟
+    - content: 一般財団法人　日本規格協会
       language:
       - ja
       script:
       - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
   role:
   - type: author
 - organization:
     name:
-    - content: 一般社団法人　日本鉄鋼連盟
+    - content: 一般財団法人　日本規格協会
       language:
       - ja
       script:
       - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
   role:
   - type: publisher
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 abstract:
-- content: 硬質金属（ｈａｒｄｍｅｔａｌｓ）及び他の超硬合金（ｃｅｍｅｎｔｅｄ　ｃａｒｂｉｄｅｓ）を含む金属材料に対する，３種類の試験力範囲のビッカース硬さ試験方法について規定。
+- content: この規格は，図記号の候補デザインの理解度を試験する方法を規定する。
   language:
   - ja
   script:
@@ -85,10 +91,10 @@ ext:
     type: japanese-industrial-standard
   editorialgroup:
     technical_committee:
-    - name: 一般社団法人　日本鉄鋼連盟
+    - name: 一般財団法人　日本規格協会
   ics:
-  - code: 77.040.10
-    text: Mechanical testing of metals
+  - code: 01.080.10
+    text: Public information symbols. Signs. Plates. Labels
   structuredidentifier:
-    project_number: Z2244
+    project_number: Z8212
     type: JIS

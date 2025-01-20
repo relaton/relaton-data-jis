@@ -1,33 +1,33 @@
 ---
 schema-version: v1.2.9
-id: JISB2031-2024
+id: JIST9265-2025
 title:
-- content: ねずみ鋳鉄弁
+- content: 福祉用具－歩行補助具－歩行車
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: Gray cast iron valves
+- content: Assistive products for walking-Rollators and walking tables
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2031%3A2024
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9265%3A2025
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02031_000_000_2024_e_ed10_ch.pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09265_000_000_2025_j_ed10_ch.pdf
   type: pdf
 type: standard
 docid:
-- id: JIS B 2031:2024
+- id: JIS T 9265:2025
   type: JIS
   primary: true
-docnumber: B2031
+docnumber: T9265
 date:
 - type: issued
-  value: '2024-08-20'
+  value: '2025-01-20'
 contributor:
 - organization:
     name:
@@ -46,7 +46,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本バルブ工業会"
+        \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
       language:
       - ja
       script:
@@ -61,7 +61,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本バルブ工業会"
+        \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
       language:
       - ja
       script:
@@ -75,12 +75,12 @@ contributor:
   - type: publisher
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 abstract:
-- content: この規格は，一般の機械装置などに用いるねずみ鋳鉄弁について規定する。
+- content: |-
+    この規格は，フレームの下端に車輪をもつ3本以上の脚を備えた，両上肢又は上部体幹で身体を支え操作する歩行補助具について規定する。前後の車軸間の距離が250 mm未満のものは除く。
+    なお，体重又は力をかけるとロックする圧力ブレーキをもつ車輪は，車輪とみなさない。
   language:
   - ja
   script:
@@ -95,10 +95,10 @@ ext:
     type: japanese-industrial-standard
   editorialgroup:
     technical_committee:
-    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本バルブ工業会"
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本福祉用具・生活支援用具協会"
   ics:
-  - code: 23.060.01
-    text: Valves in general
+  - code: 11.180.10
+    text: Aids and adaptation for moving
   structuredidentifier:
-    project_number: B2031
+    project_number: T9265
     type: JIS

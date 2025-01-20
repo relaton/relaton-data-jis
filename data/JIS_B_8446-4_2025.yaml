@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.9
+id: JISB8446-4-2025
+title:
+- content: サービスロボットの安全要求事項－第４部：マニピュレータを備える移動作業型ロボット
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Safety requirements for service robots-Part 4: Mobile servant robot with
+    manipulator'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8446-4%3A2025
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08446_004_000_2025_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8446-4:2025
+  type: JIS
+  primary: true
+docnumber: B8446
+date:
+- type: issued
+  value: '2025-01-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ロボット工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ロボット工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: この規格は，JIS B 8445:2016の6.1.2.1（移動作業型ロボット）に規定するタイプ1.2のサービスロボットのうち，移動機構をもつロボットであって，マニピュレータを一つ以上備えるロボットの安全要求事項について規定する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+ext:
+  schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ロボット工業会"
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: 25.040.30
+    text: Industrial robots. Manipulators
+  structuredidentifier:
+    project_number: B8446
+    type: JIS

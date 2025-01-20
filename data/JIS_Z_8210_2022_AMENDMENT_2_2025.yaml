@@ -1,31 +1,31 @@
 ---
 schema-version: v1.2.9
-id: JISS2148-2013/AMENDMENT1-2024
+id: JISZ8210-2022/AMENDMENT2-2025
 title:
-- content: カセットこんろ用燃料容器（追補１）
+- content: 案内用図記号（追補２）
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: Gas cylinders for portable gas cooker (Amendment 1)
+- content: Public information symbols (Amendment 2)
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2148%3A2013%2FAMENDMENT+1%3A2024
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8210%3A2022%2FAMENDMENT+2%3A2025
   type: src
 type: standard
 docid:
-- id: JIS S 2148:2013/AMENDMENT 1:2024
+- id: JIS Z 8210:2022/AMENDMENT 2:2025
   type: JIS
   primary: true
-docnumber: S2148
+docnumber: Z8210
 date:
 - type: issued
-  value: '2024-01-22'
+  value: '2025-01-20'
 contributor:
 - organization:
     name:
@@ -43,28 +43,36 @@ contributor:
   - type: authorizer
 - organization:
     name:
-    - content: 一般財団法人　日本ガス機器検査協会
+    - content: 一般財団法人　日本規格協会
       language:
       - ja
       script:
       - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
   role:
   - type: author
 - organization:
     name:
-    - content: 一般財団法人　日本ガス機器検査協会
+    - content: 一般財団法人　日本規格協会
       language:
       - ja
       script:
       - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
   role:
   - type: publisher
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 docstatus:
   stage:
     value: valid
@@ -74,10 +82,12 @@ ext:
     type: amendment
   editorialgroup:
     technical_committee:
-    - name: 一般財団法人　日本ガス機器検査協会
+    - name: 一般財団法人　日本規格協会
   ics:
-  - code: 97.040.20
-    text: Cooking ranges, working tables, ovens and similar appliances
+  - code: 01.080.10
+    text: Public information symbols. Signs. Plates. Labels
+  - code: 01.080.20
+    text: Graphical symbols for use on specific equipment
   structuredidentifier:
-    project_number: S2148
+    project_number: Z8210
     type: JIS

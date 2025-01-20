@@ -1,33 +1,32 @@
 ---
 schema-version: v1.2.9
-id: JISB2031-2024
+id: JISB7077-2025
 title:
-- content: ねずみ鋳鉄弁
+- content: 光学及びフォトニクス－光学材料及び構成物－赤外線領域で使用する蛍石の仕様
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: Gray cast iron valves
+- content: Optics and photonics-Optical materials and components-Specification of
+    calcium fluoride used in the infrared spectrum
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2031%3A2024
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7077%3A2025
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02031_000_000_2024_e_ed10_ch.pdf
-  type: pdf
 type: standard
 docid:
-- id: JIS B 2031:2024
+- id: JIS B 7077:2025
   type: JIS
   primary: true
-docnumber: B2031
+docnumber: B7077
 date:
 - type: issued
-  value: '2024-08-20'
+  value: '2025-01-20'
 contributor:
 - organization:
     name:
@@ -46,7 +45,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本バルブ工業会"
+        \                                                                                           一般社団法人　日本光学硝子工業会"
       language:
       - ja
       script:
@@ -61,7 +60,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本バルブ工業会"
+        \                                                                                           一般社団法人　日本光学硝子工業会"
       language:
       - ja
       script:
@@ -75,12 +74,12 @@ contributor:
   - type: publisher
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 abstract:
-- content: この規格は，一般の機械装置などに用いるねずみ鋳鉄弁について規定する。
+- content: |-
+    この規格は，蛍石［ふっ化カルシウム1)］を0.78 μm～10 μmの赤外線領域で使用する場合の仕様について規定する。
+    この規格で規定する物質は，他の波長（紫外線領域及び可視光線）も透過する可能性がある。
   language:
   - ja
   script:
@@ -95,10 +94,10 @@ ext:
     type: japanese-industrial-standard
   editorialgroup:
     technical_committee:
-    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本バルブ工業会"
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本光学硝子工業会"
   ics:
-  - code: 23.060.01
-    text: Valves in general
+  - code: '37.020'
+    text: Optical equipment
   structuredidentifier:
-    project_number: B2031
+    project_number: B7077
     type: JIS

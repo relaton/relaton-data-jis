@@ -1,33 +1,33 @@
 ---
 schema-version: v1.2.9
-id: JISB2031-2024
+id: JISC8122-2025
 title:
-- content: ねずみ鋳鉄弁
+- content: 差込みランプソケット
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: Gray cast iron valves
+- content: Bayonet lampholders
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2031%3A2024
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8122%3A2025
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02031_000_000_2024_e_ed10_ch.pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08122_000_000_2025_j_ed10_ch.pdf
   type: pdf
 type: standard
 docid:
-- id: JIS B 2031:2024
+- id: JIS C 8122:2025
   type: JIS
   primary: true
-docnumber: B2031
+docnumber: C8122
 date:
 - type: issued
-  value: '2024-08-20'
+  value: '2025-01-20'
 contributor:
 - organization:
     name:
@@ -46,7 +46,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本バルブ工業会"
+        \                                                                                           一般社団法人　日本照明工業会"
       language:
       - ja
       script:
@@ -61,7 +61,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本バルブ工業会"
+        \                                                                                           一般社団法人　日本照明工業会"
       language:
       - ja
       script:
@@ -75,12 +75,10 @@ contributor:
   - type: publisher
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 abstract:
-- content: この規格は，一般の機械装置などに用いるねずみ鋳鉄弁について規定する。
+- content: この規格は，電源電圧250V以下のランプ及び準照明器具（セミルミネア）接続用の，差込みランプソケットB15d及びB22dについて規定する。
   language:
   - ja
   script:
@@ -95,10 +93,10 @@ ext:
     type: japanese-industrial-standard
   editorialgroup:
     technical_committee:
-    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本バルブ工業会"
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本照明工業会"
   ics:
-  - code: 23.060.01
-    text: Valves in general
+  - code: 29.140.10
+    text: Lamp caps and holders
   structuredidentifier:
-    project_number: B2031
+    project_number: C8122
     type: JIS

@@ -1,0 +1,108 @@
+---
+schema-version: v1.2.9
+id: JISC0364-7-712-2025
+title:
+- content: 低圧電気設備－第７－７１２部：特殊設備又は特殊場所に関する要求事項－太陽光発電設備
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Low voltage electrical installations-Part 7-712: Requirements for special
+    installations or locations-Solar photovoltaic (PV) power supply installations'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0364-7-712%3A2025
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00364_007_712_2025_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 0364-7-712:2025
+  type: JIS
+  primary: true
+docnumber: C0364
+date:
+- type: issued
+  value: '2025-01-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: |-
+    この規格は，設備の全体又は一部への電力の供給を意図したPVシステムの電気設備について規定する。
+    PV設備の機器は，全ての他の機器の場合と同様に，設備内で選定及び適用に関係するところだけを取り扱う。
+    PV設備は，PVモジュール又はPVモジュール製造業者が提供するケーブルで直列接続した一組のPVモジュールから始まり，使用者設備又は公共電力供給点（共通接続点）までである。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+ext:
+  schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般財団法人　日本規格協会
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: 91.140.50
+    text: Electricity supply systems
+  structuredidentifier:
+    project_number: C0364
+    type: JIS
