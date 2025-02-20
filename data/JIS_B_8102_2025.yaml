@@ -1,0 +1,103 @@
+---
+schema-version: v1.2.9
+id: JISB8102-2025
+title:
+- content: 蒸気タービン－受渡試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Steam turbines-Acceptance test
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8102%3A2025
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08102_000_000_2025_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8102:2025
+  type: JIS
+  primary: true
+docnumber: B8102
+date:
+- type: issued
+  value: '2025-02-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　火力原子力発電技術協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　火力原子力発電技術協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: "この規格は，蒸気タービン及び蒸気タービン設備に関する次の事項の保証値を実証するため，発電用の過熱及び湿り蒸気タービンの受渡試験の実施，並びに試験結果の計算方法について規定する。\nなお，この規格は，発電用以外の蒸気タービンにも，適用可能である。\na)\t効率保証\n－\tタービン室熱効率\n－\t熱消費率\n－\t蒸気消費率\n－\t定格出力\nb)\t容量保証\n－\t最大主蒸気流量\n－\tJIS
+    B 8101に適合する指定蒸気条件での最大出力（蒸気流量以外）\n－\t定められた条件下での蒸気タービンの熱負荷容量（原子力）\nc)\t機能保証\n－\t調速機及び非常調速機の特性"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+ext:
+  schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　火力原子力発電技術協会"
+  ics:
+  - code: '27.040'
+    text: Gas and steam turbines. Steam engines
+  structuredidentifier:
+    project_number: B8102
+    type: JIS

@@ -1,0 +1,102 @@
+---
+schema-version: v1.2.9
+id: JISB8945-2025
+title:
+- content: シャトル台車式自動倉庫システム－設計通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Shuttle automated storage and retrieval system-General rules on the design
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8945%3A2025
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08945_000_000_2025_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 8945:2025
+  type: JIS
+  primary: true
+docnumber: B8945
+date:
+- type: issued
+  value: '2025-02-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: この規格は，荷を格納するラック，バッファコンベヤとラックの格納場所との間で，荷を移載し搬送するために水平走行するシャトル台車，入出庫コンベヤ位置とバッファコンベヤ位置との間で荷を垂直搬送する垂直搬送装置，及びシャトル台車と垂直搬送装置との間をつなぐバッファコンベヤで構成されるシャトル台車式自動倉庫システムの設計通則について規定する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+ext:
+  schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本産業機械工業会"
+  ics:
+  - code: '55.220'
+    text: Storing. Warehousing
+  structuredidentifier:
+    project_number: B8945
+    type: JIS

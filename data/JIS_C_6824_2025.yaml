@@ -1,0 +1,102 @@
+---
+schema-version: v1.2.9
+id: JISC6824-2025
+title:
+- content: マルチモード光ファイバ帯域試験方法
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Test methods for bandwidth of multimode optical fibers
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6824%3A2025
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06824_000_000_2025_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 6824:2025
+  type: JIS
+  primary: true
+docnumber: C6824
+date:
+- type: issued
+  value: '2025-02-20'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: "この規格は，石英系マルチモード光ファイバ，多成分系マルチモード光ファイバ，プラスチッククラッドマルチモード光ファイバ及び全プラスチックマルチモード光ファイバの単位長さ当たりの帯域の試験方法について規定する。試験方法については，次の三つの試験方法を規定している（箇条4参照）。\n・\t方法A：パルス法\n・\t方法B：周波数掃引法\n・\t方法C：モード遅延時間差（DMD）から全モード励振理論帯域（OMBc）を求める方法"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+ext:
+  schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　光産業技術振興協会"
+  ics:
+  - code: 33.180.10
+    text: Fibres and cables
+  structuredidentifier:
+    project_number: C6824
+    type: JIS
