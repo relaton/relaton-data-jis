@@ -1,33 +1,31 @@
 ---
 schema-version: v1.2.9
-id: JISB8830-2001
+id: JISF3056-2025
 title:
-- content: クレーン―風荷重の評価
+- content: 船用フート弁
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: Cranes -- Wind load assessment
+- content: Ships and marine technology-Foot valves
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8830%3A2001
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+3056%3A2025
   type: src
 type: standard
 docid:
-- id: JIS B 8830:2001
+- id: JIS F 3056:2025
   type: JIS
   primary: true
-docnumber: B8830
+docnumber: F3056
 date:
 - type: issued
-  value: '2001-02-28'
-- type: confirmed
-  value: '2022-10-20'
+  value: '2025-02-25'
 contributor:
 - organization:
     name:
@@ -45,7 +43,7 @@ contributor:
   - type: authorizer
 - organization:
     name:
-    - content: 一般社団法人　日本クレーン協会
+    - content: 一般財団法人　日本船舶技術研究協会
       language:
       - ja
       script:
@@ -54,7 +52,7 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: 一般社団法人　日本クレーン協会
+    - content: 一般財団法人　日本船舶技術研究協会
       language:
       - ja
       script:
@@ -66,7 +64,7 @@ language:
 script:
 - Jpan
 abstract:
-- content: クレーンの風荷重に関するもの。風荷重の計算は，単純化した計算方法で行うよう規定。風は，あらゆる方向から水平に，一定の速度で吹き，クレーンの構造部分には静的な荷重として作用するものとする。
+- content: この規格は，船の水，油などのポンプの吸入側に使用するフート弁について規定する。
   language:
   - ja
   script:
@@ -81,10 +79,10 @@ ext:
     type: japanese-industrial-standard
   editorialgroup:
     technical_committee:
-    - name: 一般社団法人　日本クレーン協会
+    - name: 一般財団法人　日本船舶技術研究協会
   ics:
-  - code: 53.020.20
-    text: Cranes
+  - code: 47.020.30
+    text: Piping systems
   structuredidentifier:
-    project_number: B8830
+    project_number: F3056
     type: JIS

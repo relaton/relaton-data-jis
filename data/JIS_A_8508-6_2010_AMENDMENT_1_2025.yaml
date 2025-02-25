@@ -1,33 +1,32 @@
 ---
 schema-version: v1.2.9
-id: JISZ4121-2009
+id: JISA8508-6-2010/AMENDMENT1-2025
 title:
-- content: Ｘ線管装置の固有ろ過の測定
+- content: 道路工事機械－安全－第６部：アスファルトフィニッシャの要求事項（追補1）
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: Determination of the permanent filtration of X-ray tube assemblies
+- content: 'Mobile road construction machinery-Safety-Part 6: Requirements for asphalt
+    pavers (Amendment 1)'
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4121%3A2009
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8508-6%3A2010%2FAMENDMENT+1%3A2025
   type: src
 type: standard
 docid:
-- id: JIS Z 4121:2009
+- id: JIS A 8508-6:2010/AMENDMENT 1:2025
   type: JIS
   primary: true
-docnumber: Z4121
+docnumber: A8508
 date:
 - type: issued
-  value: '2009-05-01'
-- type: confirmed
-  value: '2019-10-25'
+  value: '2025-02-25'
 contributor:
 - organization:
     name:
@@ -46,7 +45,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本画像医療システム工業会"
+        \                                                                                           一般社団法人　日本建設機械施工協会"
       language:
       - ja
       script:
@@ -61,7 +60,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本画像医療システム工業会"
+        \                                                                                           一般社団法人　日本建設機械施工協会"
       language:
       - ja
       script:
@@ -77,26 +76,19 @@ language:
 - ja
 script:
 - Jpan
-abstract:
-- content: 医療診断及び放射線治療に用いるＸ線管装置の固有ろ過の測定方法について規定。
-  language:
-  - ja
-  script:
-  - Jpan
-  format: text/plain
 docstatus:
   stage:
     value: valid
 ext:
   schema-version: v0.0.1
   doctype:
-    type: japanese-industrial-standard
+    type: amendment
   editorialgroup:
     technical_committee:
-    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本画像医療システム工業会"
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本建設機械施工協会"
   ics:
-  - code: 11.040.50
-    text: Radiographic equipment
+  - code: '91.220'
+    text: Construction equipment
   structuredidentifier:
-    project_number: Z4121
+    project_number: A8508
     type: JIS

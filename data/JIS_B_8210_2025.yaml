@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.9
-id: JISB8210-2017
+id: JISB8210-2025
 title:
 - content: 安全弁
   language:
@@ -8,30 +8,26 @@ title:
   script:
   - Jpan
   format: text/plain
-- content: Safety devices for protection against excessive pressure -- Safety valves
+- content: Safety devices for protection against excessive pressure-Safety valves
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8210%3A2017
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8210%3A2025
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08210_000_000_2017_j_ed10_ch.pdf
-  type: pdf
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08210_000_000_2017_e_ed10_i4.pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08210_000_000_2025_j_ed10_ch.pdf
   type: pdf
 type: standard
 docid:
-- id: JIS B 8210:2017
+- id: JIS B 8210:2025
   type: JIS
   primary: true
 docnumber: B8210
 date:
 - type: issued
-  value: '2017-11-25'
-- type: confirmed
-  value: '2022-10-25'
+  value: '2025-02-25'
 contributor:
 - organization:
     name:
@@ -79,12 +75,12 @@ contributor:
   - type: publisher
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 abstract:
-- content: 設定圧力が０．１ＭＰａ（ゲージ圧）以上で，かつ，のど部の径が７ｍｍ以上の全量式又は弁座口の径１５ｍｍ以上の揚程式安全弁について規定。パイロット式安全弁，冷凍用圧力容器に用いる安全弁には適用しない。
+- content: |-
+    この規格は，設定圧力が0.1 MPa（ゲージ圧） 以上で，かつ，のど部の径が7 mm以上の全量式又は弁座口の径15 mm以上の揚程式安全弁について規定する。ただし，パイロット式安全弁及び冷凍用圧力容器に用いる安全弁には適用しない。
+    なお，この規格は製品規格であり，安全弁の使い方に適用するものではない。
   language:
   - ja
   script:
