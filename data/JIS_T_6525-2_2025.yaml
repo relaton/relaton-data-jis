@@ -1,35 +1,33 @@
 ---
 schema-version: v1.2.9
-id: JIST6525-1-2013
+id: JIST6525-2-2025
 title:
-- content: 義歯床安定用こ（糊）材―第１部：粘着型義歯床安定用こ（糊）材
+- content: 義歯床安定用こ（糊）材－第２部：密着型義歯床安定用こ（糊）材
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: 'Denture adhesives -- Part 1: Glue type denture adhesives'
+- content: 'Denture adhesives-Part 2: Liner type denture adhesives'
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+6525-1%3A2013
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+6525-2%3A2025
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_06525_001_000_2013_j_ed10_ch.pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_06525_002_000_2025_j_ed10_ch.pdf
   type: pdf
 type: standard
 docid:
-- id: JIS T 6525-1:2013
+- id: JIS T 6525-2:2025
   type: JIS
   primary: true
 docnumber: T6525
 date:
 - type: issued
-  value: '2013-09-01'
-- type: confirmed
-  value: '2018-10-25'
+  value: '2025-02-28'
 contributor:
 - organization:
     name:
@@ -80,7 +78,9 @@ language:
 script:
 - Jpan
 abstract:
-- content: 可撤性義歯の装着者が用いる粘着型義歯床安定用こ（糊）材について規定。一般の人が使用する安定用こ（糊）材に適用し，歯科用ライニング材には適用しない。
+- content: |-
+    この規格は，可撤性義歯の装着者が用いる密着型義歯床安定用こ（糊）材について規定する。
+    この規格は，一般の人が使用する安定用こ（糊）材に適用し，歯科用ライニング材には適用しない。
   language:
   - ja
   script:
@@ -99,6 +99,8 @@ ext:
   ics:
   - code: 11.060.10
     text: Dental materials
+  - code: '97.170'
+    text: Body care equipment
   structuredidentifier:
     project_number: T6525
     type: JIS
