@@ -28,8 +28,6 @@ docnumber: X0404
 date:
 - type: issued
   value: '1987-07-31'
-- type: confirmed
-  value: '2019-10-21'
 contributor:
 - organization:
     name:
@@ -63,10 +61,6 @@ contributor:
       - Jpan
   role:
   - type: publisher
-language:
-- ja
-script:
-- Jpan
 abstract:
 - content: データ処理機械を用いて，機械と機械との間及び機械と人との間で情報を交換する場合の職業分類コードについて規定。
   language:
@@ -76,7 +70,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: valid
+    value: withdrawn
 ext:
   schema-version: v0.0.1
   doctype:

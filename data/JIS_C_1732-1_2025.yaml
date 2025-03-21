@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.9
+id: JISC1732-1-2025
+title:
+- content: 計器用変成器（標準用及び一般計測用）－第１部：通則
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Instrument transformers for testing purpose and used with general instrument-Part
+    1: General requirements'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1732-1%3A2025
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01732_001_000_2025_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS C 1732-1:2025
+  type: JIS
+  primary: true
+docnumber: C1732
+date:
+- type: issued
+  value: '2025-03-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 一般社団法人　日本電機工業会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: |-
+    この規格は，商用周波数において，電気計器又は測定装置とともに用いる，アナログ又はデジタル出力をもつ新しく製造された標準用又は一般計測用の計器用変成器について規定する。
+    この規格は，保護用の計器用変成器には適用しない。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+ext:
+  schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 一般社団法人　日本電機工業会
+  ics:
+  - code: 17.220.20
+    text: Measurement of electrical and magnetic quantities
+  structuredidentifier:
+    project_number: C1732
+    type: JIS

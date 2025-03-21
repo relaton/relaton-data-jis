@@ -1,0 +1,104 @@
+---
+schema-version: v1.2.9
+id: JISF8101-2025
+title:
+- content: 船用鉛蓄電池
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Lead-acid marine batteries
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8101%3A2025
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_08101_000_000_2025_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS F 8101:2025
+  type: JIS
+  primary: true
+docnumber: F8101
+date:
+- type: issued
+  value: '2025-03-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電池工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電池工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: この規格は，船で，通信，灯火，非常用，エンジン始動用などの電源に用いる鉛蓄電池について規定する。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+ext:
+  schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電池工業会"
+  ics:
+  - code: 29.220.20
+    text: Acid secondary cells and batteries
+  - code: 47.020.60
+    text: Electrical equipment of ships and  of marine structures
+  structuredidentifier:
+    project_number: F8101
+    type: JIS

@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.9
+id: JISB2005-2-3-2025
+title:
+- content: 工業プロセス用調節弁－第２部：流れの容量－第３節：試験手順
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Industrial-process control valves-Part 2-3: Flow capacity-Test procedures'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2005-2-3%3A2025
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02005_002_003_2025_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS B 2005-2-3:2025
+  type: JIS
+  primary: true
+docnumber: B2005
+date:
+- type: issued
+  value: '2025-03-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本バルブ工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本バルブ工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: "この規格は，工業プロセス用調節弁に適用し，JIS B 2005-2-1の諸式に使用する次の変数を決定するための流れの容量の試験手順について規定する。\na)\t容量係数
+    C\nb)\t継手を接続しない場合の調節弁の液体圧力回復係数 FL\nc)\t継手を接続する場合の調節弁の液体圧力回復係数と配管形状係数との組合せ係数 FLP\nd)\t配管形状係数
+    Fp\ne)\t差圧比係数 xT及びxTP\nf)\tバルブ形状修正係数 Fd\ng)\tレイノルズ数係数 FR"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+ext:
+  schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本バルブ工業会"
+  ics:
+  - code: 23.060.40
+    text: Pressure regulators
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  structuredidentifier:
+    project_number: B2005
+    type: JIS

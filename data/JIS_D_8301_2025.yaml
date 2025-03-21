@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.9
+id: JISD8301-2025
+title:
+- content: 自動車及びタイヤの車外騒音測定のための試験用路面
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: Acoustics-Specification of test tracks for measuring sound emitted by road
+    vehicles and their tyres
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+8301%3A2025
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_d_08301_000_000_2025_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS D 8301:2025
+  type: JIS
+  primary: true
+docnumber: D8301
+date:
+- type: issued
+  value: '2025-03-21'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: 公益社団法人　自動車技術会
+      language:
+      - ja
+      script:
+      - Jpan
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: "この規格は，車両及びタイヤ・路面の騒音測定を目的とする試験用路面の重要な特性について規定する。\nこの規格に示す路面の考え方は，次のとおりである。\n－\t車両の騒音試験を含む広範囲の走行条件で，一貫した車両及びタイヤは路面の騒音を発生させる。\n－\t試験場間のばらつきを最小限にする。\n－\t車両の騒音源の吸音性を制限する。\n－\t通常の道路の施工手順と一致する。"
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+ext:
+  schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: 公益社団法人　自動車技術会
+  ics:
+  - code: 17.140.30
+    text: Noise emitted by means of transport
+  - code: '43.020'
+    text: Road vehicles in general
+  structuredidentifier:
+    project_number: D8301
+    type: JIS
