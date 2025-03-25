@@ -1,36 +1,34 @@
 ---
 schema-version: v1.2.9
-id: JISE5004-4-2008
+id: JISE5004-3-2025
 title:
-- content: 鉄道車両―電気品―第４部：交流遮断器
+- content: 鉄道車両－電気品－第３部：直流遮断器
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: 'Railway applications -- Electric equipment for rolling stock -- Part 4:
-    Electrotechnical components -- Rules for a.c. circuit-breakers'
+- content: 'Railway applications-Electric equipment for rolling stock-Part 3: Electrotechnical
+    components-Rules for DC circuit-breakers'
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5004-4%3A2008
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5004-3%3A2025
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05004_004_000_2008_j_ed10_ch.pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05004_003_000_2025_j_ed10_ch.pdf
   type: pdf
 type: standard
 docid:
-- id: JIS E 5004-4:2008
+- id: JIS E 5004-3:2025
   type: JIS
   primary: true
 docnumber: E5004
 date:
 - type: issued
-  value: '2008-03-20'
-- type: confirmed
-  value: '2020-10-26'
+  value: '2025-03-25'
 contributor:
 - organization:
     name:
@@ -81,7 +79,8 @@ language:
 script:
 - Jpan
 abstract:
-- content: ＪＩＳ　Ｅ　５００４－２による機器の一般原則に追加する内容として，各種の交流遮断器の特性及び試験方法について規定。
+- content: この規格は，JIS E 5004-2による電気機器の一般規則に追加する内容として，各種の直流遮断器の特性及び試験方法について規定する。これらの遮断器の主接触部は，直流の主回路及び／又は直流の補助回路に接続されており，これらの回路電圧は，IEC
+    60850に規定された直流3?000 Vを超えない直流の標準電車線電圧である。
   language:
   - ja
   script:
@@ -98,10 +97,10 @@ ext:
     technical_committee:
     - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本鉄道車輌工業会"
   ics:
-  - code: '29.280'
-    text: Electric traction equipment
-  - code: '45.060'
-    text: Railway rolling stock
+  - code: 29.120.50
+    text: Fuses and other overcurrent protection devices
+  - code: 45.060.01
+    text: Railway rolling stock in general
   structuredidentifier:
     project_number: E5004
     type: JIS

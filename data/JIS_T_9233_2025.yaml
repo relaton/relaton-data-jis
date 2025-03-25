@@ -1,36 +1,33 @@
 ---
 schema-version: v1.2.9
-id: JISE5004-5-2007
+id: JIST9233-2025
 title:
-- content: 鉄道車両―電気品―第５部：高圧ヒューズ
+- content: ストーマ用品の試験方法
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: 'Railway applications -- Electric equipment for rolling stocks -- Part
-    5: Electrotechnical components -- Rules for HV fuses'
+- content: Testing methods for ostomy aids
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5004-5%3A2007
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9233%3A2025
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05004_005_000_2007_j_ed10_ch.pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09233_000_000_2025_j_ed10_ch.pdf
   type: pdf
 type: standard
 docid:
-- id: JIS E 5004-5:2007
+- id: JIS T 9233:2025
   type: JIS
   primary: true
-docnumber: E5004
+docnumber: T9233
 date:
 - type: issued
-  value: '2007-12-01'
-- type: confirmed
-  value: '2020-10-26'
+  value: '2025-03-25'
 contributor:
 - organization:
     name:
@@ -49,7 +46,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+        \                                                                                           排泄関連機器標準化協議会"
       language:
       - ja
       script:
@@ -64,7 +61,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+        \                                                                                           排泄関連機器標準化協議会"
       language:
       - ja
       script:
@@ -81,7 +78,7 @@ language:
 script:
 - Jpan
 abstract:
-- content: 電力回路又は補助回路に接続される高圧ヒューズの特性及び試験方法について規定。
+- content: この規格は，ストーマ用品のうち，ストーマ装具，板状皮膚保護剤及びストーマ用洗腸具の試験方法について規定する。
   language:
   - ja
   script:
@@ -96,12 +93,10 @@ ext:
     type: japanese-industrial-standard
   editorialgroup:
     technical_committee:
-    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本鉄道車輌工業会"
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            排泄関連機器標準化協議会"
   ics:
-  - code: 29.120.50
-    text: Fuses and other overcurrent protection devices
-  - code: 45.060.01
-    text: Railway rolling stock in general
+  - code: '11.180'
+    text: Aids for disabled or handicapped persons
   structuredidentifier:
-    project_number: E5004
+    project_number: T9233
     type: JIS

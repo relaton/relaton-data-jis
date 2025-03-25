@@ -1,36 +1,31 @@
 ---
 schema-version: v1.2.9
-id: JISF2805-2006
+id: JISF0080-2025
 title:
-- content: 船舶及び海洋技術―膨脹式救命器具のガス膨脹システム
+- content: 舟艇－舟艇の識別－番号付与システム
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: Ships and marine technology -- Gas inflation systems for inflatable life-saving
-    appliances
+- content: Small craft-Craft identification-Coding system
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+2805%3A2006
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0080%3A2025
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_02805_000_000_2006_j_ed10_ch.pdf
-  type: pdf
 type: standard
 docid:
-- id: JIS F 2805:2006
+- id: JIS F 0080:2025
   type: JIS
   primary: true
-docnumber: F2805
+docnumber: F0080
 date:
 - type: issued
-  value: '2006-08-10'
-- type: confirmed
-  value: '2021-10-25'
+  value: '2025-03-25'
 contributor:
 - organization:
     name:
@@ -69,7 +64,7 @@ language:
 script:
 - Jpan
 abstract:
-- content: 改正された1974年の海上人命安全条約（ＳＯＬＡＳ　１９７４）及びIMO決議ＭＳＣ．４８（６６）によって採択された国際救命設備コード(LSAコード)の要件を満たす膨脹式救命器具のガス膨脹システムの性能と試験要件について規定。
+- content: "この規格は，舟艇の識別を明確に行うための番号付与システムに関する次の事項について規定する。\na)\t製造された舟艇の製造業者の国名コード\nb)\t製造業者の識別コード\nc)\t製造番号\nd)\t製造年月\ne)\tモデルイヤー"
   language:
   - ja
   script:
@@ -86,8 +81,8 @@ ext:
     technical_committee:
     - name: 一般財団法人　日本船舶技術研究協会
   ics:
-  - code: 47.020.99
-    text: Other standards related to shipbuilding and marine structures
+  - code: '47.080'
+    text: Small craft
   structuredidentifier:
-    project_number: F2805
+    project_number: F0080
     type: JIS

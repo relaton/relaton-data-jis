@@ -1,33 +1,34 @@
 ---
 schema-version: v1.2.9
-id: JISB6410-2009
+id: JISE5004-5-2025
 title:
-- content: プレス機械―サーボプレスの安全要求事項
+- content: 鉄道車両－電気品－第５部：高圧ヒューズ
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: Presswork machinery -- Safety requirements of servo presses
+- content: 'Railway applications-Electric equipment for rolling stocks-Part 5: Electrotechnical
+    components-Rules for HV fuses'
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6410%3A2009
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5004-5%3A2025
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06410_000_000_2009_j_ed10_ch.pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05004_005_000_2025_j_ed10_ch.pdf
   type: pdf
 type: standard
 docid:
-- id: JIS B 6410:2009
+- id: JIS E 5004-5:2025
   type: JIS
   primary: true
-docnumber: B6410
+docnumber: E5004
 date:
 - type: issued
-  value: '2009-10-01'
+  value: '2025-03-25'
 contributor:
 - organization:
     name:
@@ -46,7 +47,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本鍛圧機械工業会"
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
       language:
       - ja
       script:
@@ -61,7 +62,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本鍛圧機械工業会"
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
       language:
       - ja
       script:
@@ -73,8 +74,12 @@ contributor:
       - Latn
   role:
   - type: publisher
+language:
+- ja
+script:
+- Jpan
 abstract:
-- content: サーボプレスに特有な危険源を規定し，これらの危険源を除去する又はこれらの危険源にかかわるリスクを適切に低減するための要求事項について規定。
+- content: この規格は，JIS E 5004-2による規則を補足するものとして，高圧ヒューズに対する追加の規則又は修正された規則について規定する。
   language:
   - ja
   script:
@@ -82,17 +87,19 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: valid
 ext:
   schema-version: v0.0.1
   doctype:
     type: japanese-industrial-standard
   editorialgroup:
     technical_committee:
-    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本鍛圧機械工業会"
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本鉄道車輌工業会"
   ics:
-  - code: 25.120.10
-    text: Forging equipment. Presses. Shears
+  - code: 29.120.50
+    text: Fuses and other overcurrent protection devices
+  - code: 45.060.01
+    text: Railway rolling stock in general
   structuredidentifier:
-    project_number: B6410
+    project_number: E5004
     type: JIS

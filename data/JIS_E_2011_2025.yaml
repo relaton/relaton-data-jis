@@ -1,36 +1,33 @@
 ---
 schema-version: v1.2.9
-id: JISE5004-3-2008
+id: JISE2011-2025
 title:
-- content: 鉄道車両―電気品―第３部：直流遮断器
+- content: 電車線路設備耐震設計
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: 'Railway applications -- Electric equipment for rolling stock -- Part 3:
-    Electrotechnical components -- Rules for d.c. circuit-breakers'
+- content: Seismic design of overhead contact line equipment
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5004-3%3A2008
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+2011%3A2025
   type: src
-- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05004_003_000_2008_j_ed10_ch.pdf
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_02011_000_000_2025_j_ed10_ch.pdf
   type: pdf
 type: standard
 docid:
-- id: JIS E 5004-3:2008
+- id: JIS E 2011:2025
   type: JIS
   primary: true
-docnumber: E5004
+docnumber: E2011
 date:
 - type: issued
-  value: '2008-03-20'
-- type: confirmed
-  value: '2020-10-26'
+  value: '2025-03-25'
 contributor:
 - organization:
     name:
@@ -49,7 +46,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+        \                                                                                           一般社団法人　日本鉄道電気技術協会"
       language:
       - ja
       script:
@@ -64,7 +61,7 @@ contributor:
 - organization:
     name:
     - content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+        \                                                                                           一般社団法人　日本鉄道電気技術協会"
       language:
       - ja
       script:
@@ -81,7 +78,7 @@ language:
 script:
 - Jpan
 abstract:
-- content: ＪＩＳ　Ｅ　５００４－２による機器の一般規則に追加する内容として，各種の直流遮断器の特性及び試験方法について規定。
+- content: この規格は，電車線路設備を構成する電車線柱を対象として耐震設計の一般原則について規定する。
   language:
   - ja
   script:
@@ -96,12 +93,10 @@ ext:
     type: japanese-industrial-standard
   editorialgroup:
     technical_committee:
-    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本鉄道車輌工業会"
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本鉄道電気技術協会"
   ics:
-  - code: '29.280'
-    text: Electric traction equipment
-  - code: '45.060'
-    text: Railway rolling stock
+  - code: '45.120'
+    text: Equipment for railway/cableway construction and maintenance
   structuredidentifier:
-    project_number: E5004
+    project_number: E2011
     type: JIS

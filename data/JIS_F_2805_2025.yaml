@@ -1,33 +1,34 @@
 ---
 schema-version: v1.2.9
-id: JISF0080-2008
+id: JISF2805-2025
 title:
-- content: 舟艇―舟艇の識別―番号付与システム
+- content: 船舶及び海洋技術－海上安全－膨張式救命器具のガス膨張システム
   language:
   - ja
   script:
   - Jpan
   format: text/plain
-- content: Small craft -- Craft identification -- Coding system
+- content: Ships and marine technology-Maritime safety-Gas inflation systems for inflatable
+    life-saving appliances
   language:
   - en
   script:
   - Lant
   format: text/plain
 link:
-- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0080%3A2008
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+2805%3A2025
   type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_f_02805_000_000_2025_j_ed10_ch.pdf
+  type: pdf
 type: standard
 docid:
-- id: JIS F 0080:2008
+- id: JIS F 2805:2025
   type: JIS
   primary: true
-docnumber: F0080
+docnumber: F2805
 date:
 - type: issued
-  value: '2008-04-01'
-- type: confirmed
-  value: '2022-10-25'
+  value: '2025-03-25'
 contributor:
 - organization:
     name:
@@ -66,7 +67,7 @@ language:
 script:
 - Jpan
 abstract:
-- content: 舟艇の識別を明確に行うための番号付与システムに関する　製造業者の国名コード；製造業者の識別コード；製造番号；製造年月；モデルイヤーの事項について規定。
+- content: この規格は，膨張式救命器具のガス膨張システムの性能及び試験要求事項について規定する。
   language:
   - ja
   script:
@@ -83,8 +84,8 @@ ext:
     technical_committee:
     - name: 一般財団法人　日本船舶技術研究協会
   ics:
-  - code: '47.080'
-    text: Small craft
+  - code: 47.020.99
+    text: Other standards related to shipbuilding and marine structures
   structuredidentifier:
-    project_number: F0080
+    project_number: F2805
     type: JIS

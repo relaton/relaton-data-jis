@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.9
+id: JISE5004-4-2025
+title:
+- content: 鉄道車両－電気品－第４部：交流遮断器
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+- content: 'Railway applications-Electric equipment for rolling stock-Part 4: Electrotechnical
+    components-Rules for AC circuit-breakers'
+  language:
+  - en
+  script:
+  - Lant
+  format: text/plain
+link:
+- content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5004-4%3A2025
+  type: src
+- content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05004_004_000_2025_j_ed10_ch.pdf
+  type: pdf
+type: standard
+docid:
+- id: JIS E 5004-4:2025
+  type: JIS
+  primary: true
+docnumber: E5004
+date:
+- type: issued
+  value: '2025-03-25'
+contributor:
+- organization:
+    name:
+    - content: 一般財団法人　日本規格協会
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: authorizer
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+      language:
+      - ja
+      script:
+      - Jpan
+    - content: Japanese Industrial Standards
+      language:
+      - en
+      script:
+      - Latn
+  role:
+  - type: publisher
+language:
+- ja
+script:
+- Jpan
+abstract:
+- content: この規格は，JIS E 5004-2による電気機器の一般規則に追加する内容として，各種の交流遮断器の特性及び試験方法について規定する。これらの遮断器の主接触部は，当該回路が特別高電圧の架空線式交流電車線電圧と同じ回路に接続されている。
+  language:
+  - ja
+  script:
+  - Jpan
+  format: text/plain
+docstatus:
+  stage:
+    value: valid
+ext:
+  schema-version: v0.0.1
+  doctype:
+    type: japanese-industrial-standard
+  editorialgroup:
+    technical_committee:
+    - name: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本鉄道車輌工業会"
+  ics:
+  - code: 29.120.50
+    text: Fuses and other overcurrent protection devices
+  - code: 45.060.01
+    text: Railway rolling stock in general
+  structuredidentifier:
+    project_number: E5004
+    type: JIS
