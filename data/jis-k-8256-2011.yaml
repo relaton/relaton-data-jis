@@ -1,0 +1,92 @@
+---
+id: JISK82562011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 過よう素酸ナトリウム（試薬）
+- language: en
+  script: Latn
+  content: Sodium periodate (Reagent)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+8256%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_08256_000_000_2011_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 8256:2011
+  type: JIS
+  primary: true
+docnumber: K8256
+date:
+- type: issued
+  at: '2011-03-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本試薬協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本試薬協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本試薬協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 試薬として用いる過よう素酸ナトリウム（メタ過よう素酸ナトリウム）について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.30
+    text: Chemical reagents
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K8256

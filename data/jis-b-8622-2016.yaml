@@ -1,0 +1,98 @@
+---
+id: JISB86222016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 吸収式冷凍機
+- language: en
+  script: Latn
+  content: Absorption refrigerating machines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8622%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08622_000_000_2016_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08622_000_000_2016_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 8622:2016
+  type: JIS
+  primary: true
+docnumber: B8622
+date:
+- type: issued
+  at: '2016-11-21'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本冷凍空調工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本冷凍空調工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本冷凍空調工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 再生器（高温再生器，低温再生器を含む。），凝縮器，吸収器，蒸発器などによる吸収冷凍サイクルを構成し，水を冷媒として，臭化リチウム水溶液を吸収液として使用し，再生器又は高温再生器に加熱源を供給することによって，水の冷却又は加熱を行う吸収冷凍機，吸収冷温水機及び吸収ヒートポンプのうち，冷凍能力が単体で２５ｋＷ以上のものについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.120'
+    text: Ventilators. Fans. Air-conditioners
+  - code: '27.200'
+    text: Refrigerating technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8622

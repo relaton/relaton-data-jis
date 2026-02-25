@@ -1,0 +1,91 @@
+---
+id: JISD56092019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: タクシーメーター
+- language: en
+  script: Latn
+  content: Taximeters
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+5609%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_05609_000_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS D 5609:2019
+  type: JIS
+  primary: true
+docnumber: D5609
+date:
+- type: issued
+  at: '2019-08-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: タクシー及びハイヤー（以下，タクシーという。）に取り付けられる電子式タクシーメーター（以下，タクシーメーターという。）について規定するとともにタクシーメーターを一般乗用旅客自動車運送事業に該当する事業を営む者が用いる車両に装置した状態で行う検定及び検査について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.040.15
+    text: Car informatics. On board computer systems
+  - code: 43.040.30
+    text: Indicating and control devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D5609

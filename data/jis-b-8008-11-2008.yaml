@@ -1,0 +1,90 @@
+---
+id: JISB8008112008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 往復動内燃機関―排気排出物測定―第１１部：オフロード機関のガス状排出物及び粒子状排出物の過渡状態における台上測定
+- language: en
+  script: Latn
+  content: 'Reciprocating internal combustion engines -- Exhaust emission measurement
+    -- Part 11: Test-bed measurement of gaseous and particulate exhaust emissions
+    from engines used in nonroad mobile machinery under transient test conditions'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8008-11%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08008_011_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8008-11:2008
+  type: JIS
+  primary: true
+docnumber: B8008
+date:
+- type: issued
+  at: '2008-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本内燃機関連合会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 試験台上で過渡状態の往復動内燃機関から排出されるガス状及び粒子状排出物の測定方法及び評価方法を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.50
+    text: Transport exhaust emissions
+  - code: '27.020'
+    text: Internal combustion engines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8008

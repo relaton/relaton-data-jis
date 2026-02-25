@@ -1,0 +1,84 @@
+---
+id: JISG73062000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ばね用鋼線―第３部：オイルテンパー線（ＩＳＯ仕様）
+- language: en
+  script: Latn
+  content: 'Steel wire for mechanical springs -- Part 3: Oil-hardened and tempered
+    wire'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+7306%3A2000
+docidentifier:
+- content: JIS G 7306:2000
+  type: JIS
+  primary: true
+docnumber: G7306
+date:
+- type: issued
+  at: '2000-03-31'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 線材製品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 線材製品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 線材製品協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｇ　７３０４の一般要求事項を満足する静的負荷及び動的負荷に用いられるばねの製造に使用する炭素鋼及び低合金鋼オイルテンパー線の要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '21.160'
+    text: Springs
+  - code: 77.140.25
+    text: Spring steels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G7306

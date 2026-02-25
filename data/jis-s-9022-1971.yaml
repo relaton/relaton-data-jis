@@ -1,0 +1,75 @@
+---
+id: JISS90221971
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: かしめ
+- language: en
+  script: Latn
+  content: Double tubular rivets or leather buttons
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+9022%3A1971
+docidentifier:
+- content: JIS S 9022:1971
+  type: JIS
+  primary: true
+docnumber: S9022
+date:
+- type: issued
+  at: '1977-08-10'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 東京ハトメ工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 東京ハトメ工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 東京ハトメ工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 紙工品，皮革，ゴム，織物，プラスチック製品などの柔軟な材質で緊締固着に使用するかしめについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '21.080'
+    text: Hinges, eyelets and other articulated joints
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S9022

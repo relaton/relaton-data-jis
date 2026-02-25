@@ -1,0 +1,75 @@
+---
+id: JISB02561975
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ユニファイ細目ねじ用限界ゲージ
+- language: en
+  script: Latn
+  content: Limit gauges for unified fine screw thread
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0256%3A1975
+docidentifier:
+- content: JIS B 0256:1975
+  type: JIS
+  primary: true
+docnumber: B0256
+date:
+- type: issued
+  at: '1975-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本精密測定機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本精密測定機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本精密測定機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　０２１２に規定するおねじの等級３Ａ，２Ａ，１Ａ及びめねじの等級３Ｂ，２Ｂ，１Ｂに対するねじの寸法検査に用いる限界ゲージ及びその点検に用いるゲージについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.040.20
+    text: Inch screw threads
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0256

@@ -1,0 +1,88 @@
+---
+id: JISC60068332021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―第３－３部：支援文書及び指針―機器の耐震試験方法
+- language: en
+  script: Latn
+  content: 'Environmental testing -- Part 3-3: Supporting documentation and guidance
+    -- Seismic test methods for equipment'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-3-3%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_003_003_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60068-3-3:2021
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  at: '2021-09-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 機器の耐震試験方法について，製品規格の作成者及び利用者のための背景説明及び指針を示す。主に電気機器に適用するが，他の装置及びコンポーネントにも適用可能である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60068

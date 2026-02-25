@@ -1,0 +1,93 @@
+---
+id: JISC592052026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光伝送用パワー制御受動部品－第５部：シングルモード光ファイバピッグテール形固定光減衰器
+- language: en
+  script: Latn
+  content: 'Fiber optic passive power control devices-Part 5: Single-mode fiber, pigtailed
+    style, fixed optical attenuators'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5920-5%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05920_005_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 5920-5:2026
+  type: JIS
+  primary: true
+docnumber: C5920
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，屋内空調環境条件で光ファイバ伝送システムに用いるシングルモード光ファイバピッグテール形固定光減衰器の定格，光学特性，耐環境性，耐久性，表示，包装及び安全について規定する。
+    この規格で規定する要求事項は，シングルモード光ファイバピッグテール形固定光減衰器に適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.20
+    text: Fibre optic interconnecting devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5920

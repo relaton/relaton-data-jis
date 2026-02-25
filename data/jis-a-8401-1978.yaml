@@ -1,0 +1,75 @@
+---
+id: JISA84011978
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ショベル系掘削機構造・性能基準
+- language: en
+  script: Latn
+  content: Shovel type excavators standard for construction and performance
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8401%3A1978
+docidentifier:
+- content: JIS A 8401:1978
+  type: JIS
+  primary: true
+docnumber: A8401
+date:
+- type: issued
+  at: '1978-02-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本建設機械化協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本建設機械化協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本建設機械化協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 呼び容量０．２～２．５ｍ×３のもので，機械式，油圧ロープ式及び油圧シリンダ式で，走行装置がクローラ式，トラック式及びホイール式のショベル系掘削機の構造性能基準について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '53.100'
+    text: Earth-moving machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8401

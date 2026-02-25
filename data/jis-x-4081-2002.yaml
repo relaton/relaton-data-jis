@@ -1,0 +1,93 @@
+---
+id: JISX40812002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 日本語電子出版検索データ構造
+- language: en
+  script: Latn
+  content: Retrieval data structure for Japanese electronic publication
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4081%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04081_000_000_2002_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 4081:2002
+  type: JIS
+  primary: true
+docnumber: X4081
+date:
+- type: issued
+  at: '2002-02-28'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 再生専用形光ディスク（ＣＤ－ＲＯＭ）など書換えをしない媒体を用いた日本語を主とする電子出版物を統一した操作性で検索できるように，次の事項について規定。　ａ）日本語電子出版物の高速検索を実現するためのデータ構造　ｂ）検索結果を表示するためのデータ構造
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  - code: 37.100.99
+    text: Other standards related to graphic technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4081

@@ -1,0 +1,90 @@
+---
+id: JISA14232017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 赤外線放射温度計による垂直放射率の簡易測定方法
+- language: en
+  script: Latn
+  content: Simplified test method for normal emissivity by infrared radiation thermometer
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1423%3A2017
+docidentifier:
+- content: JIS A 1423:2017
+  type: JIS
+  primary: true
+docnumber: A1423
+date:
+- type: issued
+  at: '2017-12-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　建材試験センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　建材試験センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　建材試験センター"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 主として建築物の壁，屋根，床，天井などに用いる建築部材で，かつ，均質な表面の場合の垂直放射率を，赤外線放射温度計を用いて簡易に測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.200.20
+    text: Temperature-measuring instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1423

@@ -1,0 +1,84 @@
+---
+id: JISX416732003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 文書印刷応用（ＤＰＡ）―第３部：管理の抽象サービス定義及び手続き
+- language: en
+  script: Latn
+  content: 'Document Printing Application (DPA) -- Part 3: Management abstract service
+    definitions and procedures'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4167-3%3A2003
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04167_003_000_2003_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 4167-3:2003
+  type: JIS
+  primary: true
+docnumber: X4167
+date:
+- type: issued
+  at: '2003-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 管理者及び操作者がプリンタ，印刷サービス及び他のすべての印刷オブジェクトを管理し，制御するための能力を追加することによって，ＪＩＳ　Ｘ　４１６７－１が規定する機能を拡張。印刷クライアントが印刷ジョブを制御するための追加機能を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.20
+    text: IT applications in office work
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4167

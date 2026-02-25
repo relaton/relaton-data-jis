@@ -1,0 +1,85 @@
+---
+id: JISC992132009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ルームエアコンディショナの設計上の標準使用期間を設定するための標準使用条件
+- language: en
+  script: Latn
+  content: Standard use conditions for room air conditioners to predetermine design
+    standard use period
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9921-3%3A2009
+docidentifier:
+- content: JIS C 9921-3:2009
+  type: JIS
+  primary: true
+docnumber: C9921
+date:
+- type: issued
+  at: '2009-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般社団法人　日本電機工業会                                                \r\n
+        \                                                                                           一般社団法人　日本冷凍空調工業会"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般社団法人　日本電機工業会                                                \r\n
+        \                                                                                           一般社団法人　日本冷凍空調工業会"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般社団法人　日本電機工業会                                                \r\n
+          \                                                                                           一般社団法人　日本冷凍空調工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ルームエアコンディショナの設計上の標準使用期間を設定するための標準使用条件について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.120'
+    text: Ventilators. Fans. Air-conditioners
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9921

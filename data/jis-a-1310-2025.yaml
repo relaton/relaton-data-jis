@@ -1,0 +1,96 @@
+---
+id: JISA13102025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築ファサードの燃えひろがり試験方法
+- language: en
+  script: Latn
+  content: Test method for reaction-to-fire performance of facades
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1310%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01310_000_000_2025_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01310_000_000_2025_e_ed10_ch.pdf
+docidentifier:
+- content: JIS A 1310:2025
+  type: JIS
+  primary: true
+docnumber: A1310
+date:
+- type: issued
+  at: '2025-01-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           建築研究開発コンソーシアム"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           建築研究開発コンソーシアム"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           建築研究開発コンソーシアム"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，建築物の外壁が開口噴出火炎にあぶられた際の建築ファサードの燃えひろがり及び焼損状況を測定する試験方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.220.50
+    text: Fire-resistance of building materials and elements
+  - code: 91.060.10
+    text: Walls. Partitions. Façades
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1310

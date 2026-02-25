@@ -1,0 +1,96 @@
+---
+id: JISC21072011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気絶縁用粘着テープ試験方法
+- language: en
+  script: Latn
+  content: Methods of test for pressure-sensitive adhesive tapes for electrical purposes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2107%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02107_000_000_2011_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 2107:2011
+  type: JIS
+  primary: true
+docnumber: C2107
+date:
+- type: issued
+  at: '2011-09-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本粘着テープ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本粘着テープ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本粘着テープ工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気絶縁に用いる粘着テープの試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.99
+    text: Other standards related to electricity and magnetism
+  - code: 29.035.20
+    text: Plastics and rubber insulating materials
+  - code: '83.180'
+    text: Adhesives
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2107

@@ -1,0 +1,75 @@
+---
+id: JISB84061994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 回転式油バーナ
+- language: en
+  script: Latn
+  content: Rotary oil burners
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8406%3A1994
+docidentifier:
+- content: JIS B 8406:1994
+  type: JIS
+  primary: true
+docnumber: B8406
+date:
+- type: issued
+  at: '1994-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工業炉協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工業炉協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本工業炉協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ボイラ，焼却炉，工業炉などに使用する最大燃焼量２５～２５００ｋｇ／ｈの回転式油バーナについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 27.060.10
+    text: Liquid and solid fuel burners
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8406

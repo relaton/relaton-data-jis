@@ -1,0 +1,98 @@
+---
+id: JISC68382020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: テープ形光ファイバ心線
+- language: en
+  script: Latn
+  content: Fiber ribbons
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6838%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06838_000_000_2020_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06838_000_000_2020_e_ed10_ch.pdf
+docidentifier:
+- content: JIS C 6838:2020
+  type: JIS
+  primary: true
+docnumber: C6838
+date:
+- type: issued
+  at: '2020-08-20'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 直線上に複数の石英系シングルモード光ファイバ素線及び石英系マルチモード光ファイバ素線を並べたテープ形光ファイバ心線について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.10
+    text: Fibres and cables
+  - code: 33.180.99
+    text: Other fibre optic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6838

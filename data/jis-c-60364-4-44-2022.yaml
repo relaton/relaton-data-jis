@@ -1,0 +1,92 @@
+---
+id: JISC603644442022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧電気設備―第４－４４部：安全保護―妨害電圧及び電磁妨害に対する保護
+- language: en
+  script: Latn
+  content: 'Low-voltage electrical installations -- Part 4-44: Protection for safety
+    -- Protection against voltage disturbances and electromagnetic disturbances'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60364-4-44%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60364_004_044_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60364-4-44:2022
+  type: JIS
+  primary: true
+docnumber: C60364
+date:
+- type: issued
+  at: '2022-03-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 特定の様々な理由によって生じる妨害電圧及び電磁妨害の事象中での電気設備の安全に関する要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.100.10
+    text: Emission
+  - code: 33.100.20
+    text: Immunity
+  - code: 91.140.50
+    text: Electricity supply systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60364

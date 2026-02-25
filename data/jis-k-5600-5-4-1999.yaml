@@ -1,0 +1,84 @@
+---
+id: JISK5600541999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 塗料一般試験方法―第５部：塗膜の機械的性質―第４節：引っかき硬度（鉛筆法）
+- language: en
+  script: Latn
+  content: 'Testing methods for paints -- Part 5: Mechanical property of film -- Section
+    4: Scratch hardness (Pencil method)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5600-5-4%3A1999
+docidentifier:
+- content: JIS K 5600-5-4:1999
+  type: JIS
+  primary: true
+docnumber: K5600
+date:
+- type: issued
+  at: '1999-05-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本塗料工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本塗料工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本塗料工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 既知の硬さの鉛筆を塗膜に押しつけて塗膜硬度を測定する方法を規定。塗料類の単一塗膜，又は多層塗膜系の上層膜に対して適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '87.040'
+    text: Paints and varnishes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K5600

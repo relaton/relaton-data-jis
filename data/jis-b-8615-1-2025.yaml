@@ -1,0 +1,84 @@
+---
+id: JISB861512025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: エアコンディショナ－第１部：直吹き形エアコンディショナ及びヒートポンプ－定格性能及び運転性能試験法
+- language: en
+  script: Latn
+  content: Non-ducted air conditioners and heat pumps-Testing and rating for performance
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8615-1%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08615_001_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8615-1:2025
+  type: JIS
+  primary: true
+docnumber: B8615
+date:
+- type: issued
+  at: '2025-04-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，住宅用，商業用及び工業用の一体形及び分離形エアコンディショナ及びヒートポンプで，次のものの能力及び効率の定格を決定するための，標準条件及び試験法について規定する。\n－\t工場で製作し，電気で駆動し，かつ，機械的な圧縮機構を使用したもの\n－\t一定能力形のもの，多段能力可変形のもの，及び連続能力可変形のもの\nこの規格は，次のものに適用する。\n－\t直吹き形空冷式エアコンディショナ及び直吹き形空気対空気ヒートポンプ\n－\t定格能力8
+    kW未満，かつ，機外静圧が25 Pa未満で運転するように設計した，ダクト形エアコンディショナ及びダクト形ヒートポンプ\n－\t一つ以上の冷凍システム，一つの室外機及び一つ以上の室内機から構成し，一つのサーモスタット又はコントローラで制御する，エアコンディショナ又はヒートポンプ（全ての室内機を常に同時運転するマルチエアコン）"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.120'
+    text: Ventilators. Fans. Air-conditioners
+  - code: '27.080'
+    text: Heat pumps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8615

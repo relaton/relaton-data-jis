@@ -1,0 +1,91 @@
+---
+id: JISC60721392000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境条件の分類　環境パラメータとその厳しさのグループ別分類　製品内部の環境条件
+- language: en
+  script: Latn
+  content: 'Classification of environmental conditions -- Part 3: Classification of
+    groups of environmental parameters and their severities -- Section 9: Microclimates
+    inside products'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60721-3-9%3A2000
+docidentifier:
+- content: JIS C 60721-3-9:2000
+  type: JIS
+  primary: true
+docnumber: C60721
+date:
+- type: issued
+  at: '2000-03-31'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 製品内部の部品（構成部品，組立品，組込みユニット）に適用する環境条件の分類について規定。製品は，ＪＩＳ　Ｃ　０１１６とＪＩＳ　Ｃ　０１１７で分類する環境条件下で使用されるもの。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60721

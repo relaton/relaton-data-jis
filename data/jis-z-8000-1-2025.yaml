@@ -1,0 +1,92 @@
+---
+id: JISZ800012025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 量及び単位－第１部：一般
+- language: en
+  script: Latn
+  content: 'Quantities and units-Part 1: General'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8000-1%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08000_001_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8000-1:2025
+  type: JIS
+  primary: true
+docnumber: Z8000
+date:
+- type: issued
+  at: '2025-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本計量振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本計量振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本計量振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，量，量体系，単位，量記号及び単位記号，並びに一貫性のある単位系について規定し，特に国際量体系（ISQ）に関する一般的な情報及び定義について示す。
+    この規格の原則は，科学技術の様々な分野で一般的に使用され，また，JIS Z 8000規格群の他の部への手引として使用されることを意図している。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '01.060'
+    text: Quantities and units
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8000

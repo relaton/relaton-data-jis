@@ -1,0 +1,75 @@
+---
+id: JISB17031976
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 平歯車及びはすば歯車のバックラッシ
+- language: en
+  script: Latn
+  content: Backlash for spur and helical gears
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1703%3A1976
+docidentifier:
+- content: JIS B 1703:1976
+  type: JIS
+  primary: true
+docnumber: B1703
+date:
+- type: issued
+  at: '1976-11-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本歯車工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本歯車工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本歯車工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 正面モジュール０．５～２５，ピッチ円直径１．５～３２００ｍｍで，ＪＩＳ　Ｂ　１７０１の歯形をもつ平歯車及びはすば歯車のバックラッシについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '21.200'
+    text: Gears
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1703

@@ -1,0 +1,74 @@
+---
+id: TRK00022000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: レーザーを用いたスパッタ中性子分光法におけるイオン化領域の推定方法
+- language: en
+  script: Latn
+  content: Method to estimate the laser ionization volume in Sputtered Neutral Mass
+    Spectrometry (SNMS)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+K+0002%3A2000
+docidentifier:
+- content: TR K 0002:2000
+  type: JIS
+  primary: true
+docnumber: K0002
+date:
+- type: issued
+  at: '2000-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: レーザーを二次中性粒子のポストイオン化の手段とするＳＮＭＳにおいて，その有効収量を見積もるために必要となる二次中性粒子のイオン化領域の推定方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '19.100'
+    text: Non-destructive testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0002

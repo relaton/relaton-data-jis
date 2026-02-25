@@ -1,0 +1,83 @@
+---
+id: JISC96072015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気冷蔵庫及び電気冷凍庫
+- language: en
+  script: Latn
+  content: Household electric refrigerators, refrigerator-freezers and freezers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9607%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09607_000_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 9607:2015
+  type: JIS
+  primary: true
+docnumber: C9607
+date:
+- type: issued
+  at: '2015-06-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 圧縮式冷凍機と貯蔵室とで構成する箱体を一体とした，定格内容積８００Ｌ以下の家庭用電気冷蔵庫及び定格内容積６００Ｌ以下の家庭用電気冷凍庫について規定。“家庭用”とは，一般消費者が日常生活用に用いるものをいい，製造業者が意図して“業務用”などとカタログ類で明示しているものは適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.040.30
+    text: Domestic refrigerating appliances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9607

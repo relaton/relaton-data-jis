@@ -1,0 +1,81 @@
+---
+id: JISG122922024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄及び鋼―鉛定量方法―第２部：鉄分離ジフェニルチオカルバゾン抽出吸光光度法
+- language: en
+  script: Latn
+  content: 'Iron and steel -- Determination of lead -- Part 2: Spectrophotometric
+    method after solvent extraction of iron and extraction of diphenylthiocarbazone
+    complex'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+1229-2%3A2024
+docidentifier:
+- content: JIS G 1229-2:2024
+  type: JIS
+  primary: true
+docnumber: G1229
+date:
+- type: issued
+  at: '2024-04-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 鋼中の鉛定量方法のうち，鉄分離ジフェニルチオカルバゾン抽出吸光光度法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.080.20
+    text: Steels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G1229

@@ -1,0 +1,90 @@
+---
+id: JISC036477102026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧電気設備－第７－７１０部：特殊設備又は特殊場所に関する要求事項－医用場所
+- language: en
+  script: Latn
+  content: 'Low-voltage electrical installations-Part 7-710: Requirements for special
+    installations or locations-Medical locations'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0364-7-710%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00364_007_710_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 0364-7-710:2026
+  type: JIS
+  primary: true
+docnumber: C0364
+date:
+- type: issued
+  at: '2026-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，患者及び医療従事者の安全を提供するために，医用場所の電気設備に適用する。これらの要求事項を次の事項に適用する。\n－\t病院及び診療所又は同等の施設（同等の運搬可能及び移動可能な場所を含む）。\n同等の施設には，一般特性の評価に従って，次のものも含めることがある。なお，これらは，全てを網羅するものではない。\n－\t療養所及びヘルスクリニック\n－\t患者が医療を受ける，高齢者向け住宅及び老人ホーム内の専用の場所\n－\t医療センター，外来患者診療所及び医療部門，救急病棟\n－\tその他の外来患者施設（産業，スポーツなど）\n－\t医療及び歯科診療\n－\t職場内の専用医療室\n－\t医用電気機器を使用するその他の場所\n－\t動物病院\n－\t医療用途への適用のために用途の変更が生じる既存設備内の部屋"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: 91.140.50
+    text: Electricity supply systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0364

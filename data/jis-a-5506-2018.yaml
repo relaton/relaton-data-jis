@@ -1,0 +1,92 @@
+---
+id: JISA55062018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 下水道用マンホール蓋
+- language: en
+  script: Latn
+  content: Manhole covers for sewerage works
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5506%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05506_000_000_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 5506:2018
+  type: JIS
+  primary: true
+docnumber: A5506
+date:
+- type: issued
+  at: '2018-12-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本グラウンドマンホール工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本グラウンドマンホール工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本グラウンドマンホール工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 下水道に使用する枠内径６００ｍｍマンホールの蓋及び枠について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 93.080.30
+    text: Road equipment and installations
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5506

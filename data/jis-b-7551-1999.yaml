@@ -1,0 +1,83 @@
+---
+id: JISB75511999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: フロート形面積流量計
+- language: en
+  script: Latn
+  content: Variable area flowmeters
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7551%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07551_000_000_1999_j_pr10_i4.pdf
+docidentifier:
+- content: JIS B 7551:1999
+  type: JIS
+  primary: true
+docnumber: B7551
+date:
+- type: issued
+  at: '1999-05-31'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本計量機器工業連合会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 液体，気体又は蒸気の流量を測定するフロート形面積流量計について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.120.10
+    text: Flow in closed conduits
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7551

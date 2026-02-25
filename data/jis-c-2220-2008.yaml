@@ -1,0 +1,89 @@
+---
+id: JISC22202008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気絶縁用集成マイカ
+- language: en
+  script: Latn
+  content: Mica paper for electrical insulating materials
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2220%3A2008
+docidentifier:
+- content: JIS C 2220:2008
+  type: JIS
+  primary: true
+docnumber: C2220
+date:
+- type: issued
+  at: '2008-02-20'
+- type: confirmed
+  at: '2012-10-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: マイカ板，フレキシブルマイカ，形造用マイカ及び成形品のようなマイカ製品に加工される電気絶縁用集成マイカについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.035.10
+    text: Paper and board insulating materials
+  - code: 29.035.50
+    text: Mica based materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2220

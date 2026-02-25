@@ -1,0 +1,92 @@
+---
+id: JISK73422024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プラスチック－火災試験－標準着火源
+- language: en
+  script: Latn
+  content: Plastics-Fire tests-Standard ignition sources
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7342%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07342_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 7342:2024
+  type: JIS
+  primary: true
+docnumber: K7342
+date:
+- type: issued
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本プラスチック工業連盟"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，プラスチック及び相当な部分をプラスチックが占める製品の火災試験に用いる試験用着火源の分類について規定する。これらの着火源は，試験試料に当てる強さ及び範囲が異なる。この規格は，火災危険シナリオにさらされるプラスチックに，実際に起きる初期の熱的挙動を模擬するために用いるのに適している。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.220.40
+    text: Ignitability and burning behaviour of materials and products
+  - code: 83.080.01
+    text: Plastics in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K7342

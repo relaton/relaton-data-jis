@@ -1,0 +1,75 @@
+---
+id: JISK41051995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ニトロアニリン類（ｐ－ニトロアニリン・ｍ－ニトロアニリン・ｍ－ニトロ－ｐ－トルイジン）
+- language: en
+  script: Latn
+  content: Nitroanilines (para-Nitroaniline. meta-Nitroaniline. meta-Nitro-para-toluidine)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+4105%3A1995
+docidentifier:
+- content: JIS K 4105:1995
+  type: JIS
+  primary: true
+docnumber: K4105
+date:
+- type: issued
+  at: '1995-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 化成品工業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 化成品工業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 化成品工業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 有機中間物としてのｐ－ニトロアニリン，ｍ－ニトロアニリン及びｍ－ニトロ－ｐ－トルイジンについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.080.30
+    text: Organic nitrogen compounds
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K4105

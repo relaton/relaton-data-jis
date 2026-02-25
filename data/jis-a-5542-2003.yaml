@@ -1,0 +1,88 @@
+---
+id: JISA55422003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築用ターンバックルボルト
+- language: en
+  script: Latn
+  content: Bolts of turnbuckle for building
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5542%3A2003
+docidentifier:
+- content: JIS A 5542:2003
+  type: JIS
+  primary: true
+docnumber: A5542
+date:
+- type: issued
+  at: '2003-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鋼構造協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鋼構造協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本鋼構造協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 炭素鋼製品，溶融亜鉛めっき付き炭素鋼製品及びステンレス鋼製品の建築用ターンバックルボルトについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.060.10
+    text: Bolts, screws, studs
+  - code: 91.060.99
+    text: Other elements of buildings
+  - code: 91.080.10
+    text: Metal structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5542

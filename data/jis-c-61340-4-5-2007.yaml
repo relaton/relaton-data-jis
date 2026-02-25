@@ -1,0 +1,93 @@
+---
+id: JISC61340452007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 静電気―特定応用のための標準的試験方法―人体と組み合わせた履物及び床システムの静電気防止性能の評価方法
+- language: en
+  script: Latn
+  content: Electrostatics --Part 4-5:Standard test methods for specific applications
+    -- Methods for characterizing the electrostatic protection of footwear and flooring
+    in combination with a person
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61340-4-5%3A2007
+docidentifier:
+- content: JIS C 61340-4-5:2007
+  type: JIS
+  primary: true
+docnumber: C61340
+date:
+- type: issued
+  at: '2007-07-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本電子部品信頼性センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本電子部品信頼性センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　日本電子部品信頼性センター"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 人体と組み合わせた履物及び床システム（帯電防止性能をもつ履物を履いた人体から床までの系）の静電気防止性能を評価するための試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.99
+    text: Other standards related to electricity and magnetism
+  - code: 59.080.60
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61340

@@ -1,0 +1,90 @@
+---
+id: JISX50041991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 開放型システム間相互接続の基本参照モデル―安全保護体系
+- language: en
+  script: Latn
+  content: 'Information processing systems -- Open Systems Interconnection -- Basic
+    reference model -- Part 2: Security architecture'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5004%3A1991
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05004_000_000_1991_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5004:1991
+  type: JIS
+  primary: true
+docnumber: X5004
+date:
+- type: issued
+  at: '1991-08-01'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 基本参照モデルで規定している安全保護サービス及びその関連機構について全般的な事項。参照モデル内で安全保護サービス及びその関連機構の位置付けの定義
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.01
+    text: Open systems interconnection in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5004

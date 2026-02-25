@@ -1,0 +1,90 @@
+---
+id: JISC603645542023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧電気設備―第５－５４部：電気機器の選定及び施工―接地設備及び保護導体
+- language: en
+  script: Latn
+  content: 'Low-voltage electrical installations -- Part 5-54: Selection and erection
+    of electrical equipment -- Earthing arrangements and protective conductors'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60364-5-54%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60364_005_054_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60364-5-54:2023
+  type: JIS
+  primary: true
+docnumber: C60364
+date:
+- type: issued
+  at: '2023-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 低圧電気設備に用いる電気機器の選定及び施工のうち，電気設備の安全を達成するために，接地設備及び保護ボンディング導体を含む保護導体について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: 91.140.50
+    text: Electricity supply systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60364

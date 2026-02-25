@@ -1,0 +1,84 @@
+---
+id: JISK5600411999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 塗料一般試験方法―第４部：塗膜の視覚特性―第１節：隠ぺい力（淡彩色塗料用）
+- language: en
+  script: Latn
+  content: 'Testing methods for paints -- Part 4: Visual characteristics of film --
+    Section 1: Hiding power (for light-coloured paints)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5600-4-1%3A1999
+docidentifier:
+- content: JIS K 5600-4-1:1999
+  type: JIS
+  primary: true
+docnumber: K5600
+date:
+- type: issued
+  at: '1999-05-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本塗料工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本塗料工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本塗料工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 白又は三刺激値Ｙが２５を超える淡彩色塗料を，規定の隠ぺい率試験紙又は無色透明のポリエステルフィルムに，塗り面積２０ｍ×２／ｌで塗布し，次いで，ポリエステルフィルムの場合は，規定の白黒ガラス板上で，その塗膜の三刺激値Ｙを測定する塗膜の隠ぺい力（陰ぺい率測定による）測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '87.040'
+    text: Paints and varnishes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K5600

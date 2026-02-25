@@ -1,0 +1,84 @@
+---
+id: JISC036477091999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築電気設備　第７部：特殊設備又は特殊場所に関する要求事項　第７０９節：マリーナ及びレジャー用舟艇
+- language: en
+  script: Latn
+  content: 'Electrical installations of buildings Part 7: Requirements for special
+    installations or locations Section 709: Marinas and pleasure craft'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0364-7-709%3A1999
+docidentifier:
+- content: JIS C 0364-7-709:1999
+  type: JIS
+  primary: true
+docnumber: C0364
+date:
+- type: issued
+  at: '1999-06-30'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気設備学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気設備学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電気設備学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: レジャー用舟艇への接続箇所をもつマリーナ内の電気設備；陸上の電源供給設備からだけ電気の供給を受けるレジャー用舟艇内の電気設備　の事項に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: 91.140.50
+    text: Electricity supply systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0364

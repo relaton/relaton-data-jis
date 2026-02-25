@@ -1,0 +1,74 @@
+---
+id: TRX00812003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: セキュリティ技術　―　ＴＴＰサービスの利用及びマネジメントのためのガイドライン
+- language: en
+  script: Latn
+  content: Information technology -- Security techniques -- Guidelines for the use
+    and management of Trusted Third Party services
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0081%3A2003
+docidentifier:
+- content: TR X 0081:2003
+  type: JIS
+  primary: true
+docnumber: X0081
+date:
+- type: issued
+  at: '2003-07-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 信頼できる第三者機関（ＴＴＰ）の提供及び運用においては，いくつかのセキュリティに関連した事項が存在する。ＴＴＰの役割，位置付け，ＴＴＰとＴＴＰサービスを利用する事業体との関係，ＴＴＰの一般的なセキュリティ要求条件，どんなタイプのセキュリティを誰が提供するか，可能なセキュリティソリューションは何か，並びに，ＴＴＰサービスのセキュリティに関する運用及びマネジメントに関する諸々の内容を含んでいる。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0081

@@ -1,0 +1,79 @@
+---
+id: JISG06032025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鋼管のへん平試験方法
+- language: en
+  script: Latn
+  content: Flattening test of steel pipes and tubes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0603%3A2025
+docidentifier:
+- content: JIS G 0603:2025
+  type: JIS
+  primary: true
+docnumber: G0603
+date:
+- type: issued
+  at: '2025-12-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，断面が円形状の鋼管について，塑性変形能を評価するへん平試験方法について規定する。また，この規格は，管の欠点の検出に用いてもよい。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.040.10
+    text: Mechanical testing of metals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G0603

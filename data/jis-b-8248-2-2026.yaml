@@ -1,0 +1,91 @@
+---
+id: JISB824822026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 円筒形多層圧力容器－第２部：特定規格
+- language: en
+  script: Latn
+  content: 'Cylindrical layered pressure vessels-Part 2: Alternative standards'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8248-2%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08248_002_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8248-2:2026
+  type: JIS
+  primary: true
+docnumber: B8248
+date:
+- type: issued
+  at: '2026-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本高圧力技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本高圧力技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本高圧力技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，JIS B 8266:2003及びJIS B 8266:2006（追補1）を基本要求事項とし，設計圧力100 MPa未満で，設計温度がクリープ領域未満の大気圧を超える圧力を保持する又は外圧を保持する円筒形多層圧力容器について規定する。また，多層容器特有の規定は，ASME
+    Section VIII Division 2:2023の要求事項に基づいている。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.020.30
+    text: Pressure vessels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8248

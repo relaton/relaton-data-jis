@@ -1,0 +1,91 @@
+---
+id: JISC60721292015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境条件の分類―第２－９部：自然環境の条件―測定した衝撃及び振動のデータによる環境条件の規定：保管，輸送及び使用中の条件
+- language: en
+  script: Latn
+  content: 'Classification of environmental conditions -- Part 2-9: Environmental
+    conditions appearing in nature -- Measured shock and vibration data -- Storage,
+    transportation and in-use'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60721-2-9%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60721_002_009_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60721-2-9:2015
+  type: JIS
+  primary: true
+docnumber: C60721
+date:
+- type: issued
+  at: '2015-03-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 製品のライフサイクルの各段階において測定したデータから，環境条件を選定するための手段を明確にするために用いる事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60721

@@ -1,0 +1,76 @@
+---
+id: JISW29221996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 航空機―油圧系統構成部品―使用作動油の種類の表示
+- language: en
+  script: Latn
+  content: Aircraft -- Hydraulic components -- Marking to indicate fluid for which
+    component is approved
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+2922%3A1996
+docidentifier:
+- content: JIS W 2922:1996
+  type: JIS
+  primary: true
+docnumber: W2922
+date:
+- type: issued
+  at: '1996-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本航空宇宙工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 航空機の油圧系統に使用される構成部品（配管，ホース及び継手を除く）の現場における組立て又は試験作業中に，その構成部品に適正な作動油を容易に判断できるようにするための表示方式について規定。この表示は，構成部品を航空機に取り付ける際の便を，意図したものではない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '49.080'
+    text: Aerospace fluid systems and components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: W2922

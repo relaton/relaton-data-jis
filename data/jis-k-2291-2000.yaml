@@ -1,0 +1,83 @@
+---
+id: JISK22912000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 石油製品―回収硫黄試験方法
+- language: en
+  script: Latn
+  content: Petroleum products -- Testing methods for recovered sulphur
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2291%3A2000
+docidentifier:
+- content: JIS K 2291:2000
+  type: JIS
+  primary: true
+docnumber: K2291
+date:
+- type: issued
+  at: '2000-11-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 石油連盟
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 回収硫黄の８０℃減分試験方法，２００℃残分試験方法，灰分試験方法及び硫黄純分算出方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.060.10
+    text: Chemical elements
+  - code: '75.200'
+    text: Petroleum products and natural gas handling equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K2291

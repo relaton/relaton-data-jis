@@ -1,0 +1,82 @@
+---
+id: JISB835652000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 油圧用フィルタ性能評価方法―第５部：フィルタエレメントの端末荷重試験
+- language: en
+  script: Latn
+  content: 'Hydraulic fluid power -- Filters -- Evaluation of filter performance --
+    Part 5: Filter elements -- Method for end load test'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8356-5%3A2000
+docidentifier:
+- content: JIS B 8356-5:2000
+  type: JIS
+  primary: true
+docnumber: B8356
+date:
+- type: issued
+  at: '2000-04-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本フルードパワー工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 油圧用フィルタエレメントの端末荷重を試験する方法について規定。油圧用フィルタエレメントを据付けや使用により加わる指定荷重に耐えうる能力を確認する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.60
+    text: Filters, seals and contamination of fluids
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8356

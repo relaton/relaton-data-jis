@@ -1,0 +1,75 @@
+---
+id: JISB71851994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 携帯砂糖屈折計
+- language: en
+  script: Latn
+  content: Hand saccharimeter
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7185%3A1994
+docidentifier:
+- content: JIS B 7185:1994
+  type: JIS
+  primary: true
+docnumber: B7185
+date:
+- type: issued
+  at: '1994-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本光学測定機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本光学測定機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本光学測定機工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 屈投率によって砂糖液の濃度を測定する携帯砂糖屈折計について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 67.180.10
+    text: Sugar and sugar products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7185

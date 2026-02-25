@@ -1,0 +1,84 @@
+---
+id: JISC85122000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 二酸化マンガンリチウム一次電池
+- language: en
+  script: Latn
+  content: Manganese dioxide lithium primary batteries
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8512%3A2000
+docidentifier:
+- content: JIS C 8512:2000
+  type: JIS
+  primary: true
+docnumber: C8512
+date:
+- type: issued
+  at: '2001-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電池工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電池工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電池工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 一次電池のうち二酸化マンガンリチウム一次電池について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.220.10
+    text: Primary cells and batteries
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8512

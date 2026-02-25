@@ -1,0 +1,86 @@
+---
+id: JISC2814252001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用及びこれに類する用途の低電圧用接続器具　―　第２－５部：端子又は接続器具用の接続ボックス（接続又は分岐用）の個別要求事項
+- language: en
+  script: Latn
+  content: 'Connecting devices for low-voltage circuits for household and similar
+    purposes -- Part 2-5: Particular requirements for connecting boxes (junction and/or
+    tapping) for terminals or connecting devices'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2814-2-5%3A2001
+docidentifier:
+- content: JIS C 2814-2-5:2001
+  type: JIS
+  primary: true
+docnumber: C2814
+date:
+- type: issued
+  at: '2001-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　電気安全環境研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　電気安全環境研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　電気安全環境研究所"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 接続及び／又は分岐用のボックスで，固定された（一体化又は組込みで）端子又は接続器具をもつもの；固定された端子又は接続器具とともに使用されることを意図したもの；固定されない端子又は接続器具とともに使用されることを意図したものに適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.20
+    text: Connecting devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2814

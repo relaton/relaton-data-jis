@@ -1,0 +1,93 @@
+---
+id: JISH84562025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 遮熱コーティングの高温熱伝導率測定方法
+- language: en
+  script: Latn
+  content: Measurement method for thermal conductivity of thermal barrier coatings
+    at elevated temperature
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+8456%3A2025
+docidentifier:
+- content: JIS H 8456:2025
+  type: JIS
+  primary: true
+docnumber: H8456
+date:
+- type: issued
+  at: '2025-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　大阪科学技術センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　大阪科学技術センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　大阪科学技術センター"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，遮熱コーティングを構成するセラミックスのトップコートの，コーティング面に垂直方向の熱伝導率を室温から1000℃までの範囲で測定する方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.220.20
+    text: Surface treatment
+  - code: 25.220.99
+    text: Other treatments and coatings
+  - code: '27.040'
+    text: Gas and steam turbines. Steam engines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H8456

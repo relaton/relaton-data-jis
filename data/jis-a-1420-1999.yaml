@@ -1,0 +1,88 @@
+---
+id: JISA14201999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築用構成材の断熱性測定方法―校正熱箱法及び保護熱箱法
+- language: en
+  script: Latn
+  content: Determination of steady-state thermal transmission properties -- Hot box
+    method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1420%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01420_000_000_1999_j_pr11_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01420_000_000_1999_e_ed20_i4.pdf
+docidentifier:
+- content: JIS A 1420:1999
+  type: JIS
+  primary: true
+docnumber: A1420
+date:
+- type: issued
+  at: '1999-08-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　建材試験センター
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 壁，屋根，天井，床などの建築用構成材の断熱性能としての熱貫流率，熱抵抗などを保護熱箱法[（Ｇｕａｒｄｅｄ　Ｈｏｔ　Ｍｅｔｈｏｄ（ＧＨＢ法）]及び校正熱箱法[Ｃａｌｉｂｒａｔｅｄ　Ｈｏｔ　Ｂｏｘ　Ｍｅｔｈｏｄ（ＣＨＢ法）]によって測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.60
+    text: Thermal and sound insulating materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1420

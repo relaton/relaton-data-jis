@@ -1,0 +1,81 @@
+---
+id: JISF78042000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用５Ｋ銅合金管フランジ
+- language: en
+  script: Latn
+  content: Shipbuilding -- 5K copper alloy pipe flanges for marine use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+7804%3A2000
+docidentifier:
+- content: JIS F 7804:2000
+  type: JIS
+  primary: true
+docnumber: F7804
+date:
+- type: issued
+  at: '2000-06-30'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船の配管に使用する銅合金管を接合する呼び圧力５Ｋの銅合金管フランジについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.30
+    text: Piping systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F7804

@@ -1,0 +1,85 @@
+---
+id: JISB84622000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子部品実装ロボット―安全性
+- language: en
+  script: Latn
+  content: PCB (printed circuit board) assembly robots -- Safety
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8462%3A2000
+docidentifier:
+- content: JIS B 8462:2000
+  type: JIS
+  primary: true
+docnumber: B8462
+date:
+- type: issued
+  at: '2000-12-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ロボット工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ロボット工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ロボット工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子部品実装ロボットについての設計，製作，プログラム編集，運転，使用，保守及び修理に対して，安全上考慮すべき点について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: 25.040.30
+    text: Industrial robots. Manipulators
+  - code: 31.220.01
+    text: Electromechanical components in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8462

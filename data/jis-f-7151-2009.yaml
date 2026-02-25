@@ -1,0 +1,85 @@
+---
+id: JISF71512009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 舟艇―耐火性燃料ホース
+- language: en
+  script: Latn
+  content: Small craft -- Fire-resistant fuel hoses
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+7151%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_07151_000_000_2009_j_ed10_ch.pdf
+docidentifier:
+- content: JIS F 7151:2009
+  type: JIS
+  primary: true
+docnumber: F7151
+date:
+- type: issued
+  at: '2009-10-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船体の長さ２４ｍ以下の舟艇において，呼び内径１０ｍｍ以下のホースの場合は０．３４ＭＰａ，１０ｍｍを超える呼び内径の場合は０．２５ＭＰａ以下の使用圧力で設計されたガソリン及びディーゼル燃料を送る耐火性燃料ホースについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.040.70
+    text: Hoses and hose assemblies
+  - code: '47.080'
+    text: Small craft
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F7151

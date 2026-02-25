@@ -1,0 +1,77 @@
+---
+id: JISK01181979
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 質量分析方法通則
+- language: en
+  script: Latn
+  content: General rules for mass spectrometric analysis
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0118%3A1979
+docidentifier:
+- content: JIS K 0118:1979
+  type: JIS
+  primary: true
+docnumber: K0118
+date:
+- type: issued
+  at: '1979-04-10'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本分析機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本分析機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本分析機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 質量分析計を用いて質量スペクトルを測定し，有機物及び無機物の定量分析を行う一般的方法について規定。試料（気体及び蒸気）を電子衝撃によってイオン化する方法にのみ適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.40
+    text: Chemical analysis
+  - code: 71.040.50
+    text: Physicochemical methods of analysis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0118

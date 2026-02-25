@@ -1,0 +1,81 @@
+---
+id: JISF26021999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鋼製垂直はしご
+- language: en
+  script: Latn
+  content: Vertical steel ladders
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+2602%3A1999
+docidentifier:
+- content: JIS F 2602:1999
+  type: JIS
+  primary: true
+docnumber: F2602
+date:
+- type: issued
+  at: '1999-09-30'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船舶における鋼製垂直はしごの主要寸法及び特性について規定。はしごは，小さい船倉，甲板間，マスト，キングポスト，トランク，甲板室頂部，保守台，その他同様な場所に取り付けられる。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.10
+    text: Hulls and their structure elements
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F2602

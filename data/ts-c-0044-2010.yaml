@@ -1,0 +1,87 @@
+---
+id: TSC00442010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用電気機器及び類似機器からの人体ばく露に関する電磁界の測定方法
+- language: en
+  script: Latn
+  content: Measurement methods for electromagnetic fields of household appliances
+    and similar apparatus with regard to human exposure
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+C+0044%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_ts_c_00044_000_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: TS C 0044:2010
+  type: JIS
+  primary: true
+docnumber: C0044
+date:
+- type: issued
+  at: '2010-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ３００ＧＨｚ以下の電磁界を取り扱い，家庭用及び類似用途の電気機器周囲の電界の強さ及び磁束密度を評価するための方法について，試験条件並びに測定距離及び測定位置を含めて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: '97.030'
+    text: Domestic electrical appliances in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0044

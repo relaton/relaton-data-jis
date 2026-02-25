@@ -1,0 +1,92 @@
+---
+id: JISQ00732010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: リスクマネジメント―用語
+- language: en
+  script: Latn
+  content: Risk management -- Vocabulary
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+0073%3A2010
+docidentifier:
+- content: JIS Q 0073:2010
+  type: JIS
+  primary: true
+docnumber: Q0073
+date:
+- type: issued
+  at: '2010-09-21'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: リスクマネジメントに関する一般的な用語及びその定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.03
+    text: Services. Company organization, management and quality. Administration.
+      Transport. Sociology. (Vocabularies)
+  - code: '01.120'
+    text: Standardization. General rules
+  - code: 03.100.01
+    text: Company organization and management in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q0073

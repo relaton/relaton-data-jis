@@ -1,0 +1,94 @@
+---
+id: JISZ01042013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 段ボール用語
+- language: en
+  script: Latn
+  content: Glossary of terms used in corrugated fibreboard industry
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+0104%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_00104_000_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 0104:2013
+  type: JIS
+  primary: true
+docnumber: Z0104
+date:
+- type: issued
+  at: '2013-03-21'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全国段ボール工業組合連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全国段ボール工業組合連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           全国段ボール工業組合連合会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 段ボール工業において用いる主な用語及びその定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.85
+    text: Paper technology (Vocabularies)
+  - code: '85.060'
+    text: Paper and board
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z0104

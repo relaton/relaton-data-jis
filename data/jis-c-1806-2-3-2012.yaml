@@ -1,0 +1,93 @@
+---
+id: JISC1806232012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 計測，制御及び試験室用の電気装置―電磁両立性要求事項―第２－３部：個別要求事項―一体形又は分離形信号変換機能をもつトランスデューサの試験配置，動作条件及び性能評価基準
+- language: en
+  script: Latn
+  content: 'Electrical equipment for measurement, control and laboratory use -- EMC
+    requirements -- Part 2-3: Particular requirements -- Test configuration, operational
+    conditions and performance criteria for transducers with integrated or remote
+    signal conditioning'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1806-2-3%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01806_002_003_2012_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 1806-2-3:2012
+  type: JIS
+  primary: true
+docnumber: C1806
+date:
+- type: issued
+  at: '2012-10-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｃ　１８０６－１：２０１０の要求事項に加えて，一体形又は分離形信号変換機能をもつトランスデューサのための，より詳細な試験配置，動作条件及び性能評価基準について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.220'
+    text: Electricity. Magnetism. Electrical and magnetic measurements
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  - code: '33.100'
+    text: Electromagnetic compatibility (EMC)
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1806

@@ -1,0 +1,84 @@
+---
+id: JISX52611991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光ファイバ分散データインタフェース（ＦＤＤＩ）―第１部　トークンリング物理層プロトコル（ＰＨＹ）
+- language: en
+  script: Latn
+  content: 'Information processing systems -- Fibre Distributed Data Interface (FDDI)
+    -- Part 1: Token Ring Physical Layer Protocol (PHY)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5261%3A1991
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05261_000_000_1991_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5261:1991
+  type: JIS
+  primary: true
+docnumber: X5261
+date:
+- type: issued
+  at: '1991-10-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＦＤＤＩの物理層の上位副層である物理層プロトコル（ＰＨＹ）を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.10
+    text: Physical layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5261

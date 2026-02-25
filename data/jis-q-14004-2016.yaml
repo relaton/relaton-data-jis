@@ -1,0 +1,89 @@
+---
+id: JISQ140042016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境マネジメントシステム―実施の一般指針
+- language: en
+  script: Latn
+  content: Environmental management systems -- General guidelines on implementation
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+14004%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_14004_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 14004:2016
+  type: JIS
+  primary: true
+docnumber: Q14004
+date:
+- type: issued
+  at: '2016-05-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: しっかりとした，信ぴょう（憑）性及び信頼性のある環境マネジメントシステムを確立し，実施し，維持し，改善することに関する，組織のための指針。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.020.10
+    text: Environmental management
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q14004

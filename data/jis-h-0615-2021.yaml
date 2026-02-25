@@ -1,0 +1,91 @@
+---
+id: JISH06152021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: フォトルミネッセンスによるシリコン結晶中の不純物濃度測定方法
+- language: en
+  script: Latn
+  content: Test method for determination of impurity concentrations in silicon crystal
+    by photoluminescence spectroscopy
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+0615%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_00615_000_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS H 0615:2021
+  type: JIS
+  primary: true
+docnumber: H0615
+date:
+- type: issued
+  at: '2021-09-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　新金属協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　新金属協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　新金属協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: フォトルミネッセンス法によるシリコン単結晶中の不純物濃度の測定法及び多結晶シリコンの品質評価としての不純物濃度の測定法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '73.080'
+    text: Non-metalliferous minerals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H0615

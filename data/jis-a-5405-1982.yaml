@@ -1,0 +1,75 @@
+---
+id: JISA54051982
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 石綿セメント円筒
+- language: en
+  script: Latn
+  content: Asbestos cement pipes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5405%3A1982
+docidentifier:
+- content: JIS A 5405:1982
+  type: JIS
+  primary: true
+docnumber: A5405
+date:
+- type: issued
+  at: '1982-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石綿パイプ協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石綿パイプ協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 石綿パイプ協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: セメント及び石綿を主要原料として製造した円筒で，主として煙突に使用する石綿セメント円筒について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.10
+    text: Cement. Gypsum. Lime. Mortar
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5405

@@ -1,0 +1,84 @@
+---
+id: JISX3005132007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: データベース言語ＳＱＬ　第１３部：Ｊａｖａプログラム言語を用いるＳＱＬルーチン及び型（ＳＱＬ／ＪＲＴ）
+- language: en
+  script: Latn
+  content: 'Information technology -- Database languages -- SQL -- Part 13: SQL Routines
+    and Types Using the JavaTM Programming Language (SQL/JRT)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3005-13%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03005_013_000_2007_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 3005-13:2007
+  type: JIS
+  primary: true
+docnumber: X3005
+date:
+- type: issued
+  at: '2007-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: Ｊａｖａプログラム言語で書かれた静的メソッドをＳＱＬ呼出しルーチンとして呼び出す機能，及びＪａｖａプログラム言語で定義されたクラスをＳＱＬ利用者定義構造型として用いる機能を規定（Ｊａｖａは，Ｓｕｎ　Ｍｉｃｒｏｓｙｓｔｅｍｓ，Ｉｎｃの登録商標である。）。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X3005

@@ -1,0 +1,81 @@
+---
+id: JISM87052021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄鉱石―ロットの水分決定方法
+- language: en
+  script: Latn
+  content: Iron ores -- Determination of the moisture content of a lot
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8705%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08705_000_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS M 8705:2021
+  type: JIS
+  primary: true
+docnumber: M8705
+date:
+- type: issued
+  at: '2021-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄鉱石のロットの水分を決定する方法について規定。この方法は，天然の鉄鉱石及び処理鉄鉱石に適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 73.060.10
+    text: Iron ores
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M8705

@@ -1,0 +1,96 @@
+---
+id: JISA831612021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 土工機械及び建設用機械―内部電源形機械の電磁両立性（ＥＭＣ）―第１部：典型的な電磁環境条件下でのＥＭＣ一般要求事項
+- language: en
+  script: Latn
+  content: 'Earth-moving and building construction machinery-Electromagnetic compatibility
+    (EMC) of machines with internal electrical power supply-Part 1: General EMC requirements
+    under typical electromagnetic environmental conditions'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8316-1%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_08316_001_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 8316-1:2021
+  type: JIS
+  primary: true
+docnumber: A8316
+date:
+- type: issued
+  at: '2021-03-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建設機械施工協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建設機械施工協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本建設機械施工協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ISO ６１６５：２０１２で定義される土工機械，及びＩＳＯ/TR １２６０３：２０１０で定義される次の建設用機械の，電磁両立性（ＥＭＣ）を評価する試験方法及び判定基準について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.100.01
+    text: Electromagnetic compatibility in general
+  - code: '53.100'
+    text: Earth-moving machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8316

@@ -1,0 +1,91 @@
+---
+id: JISB839022026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 空気圧－圧縮性流体用機器の流量特性試験方法－第２部：代替試験方法
+- language: en
+  script: Latn
+  content: 'Pneumatic fluid power-Determination of flow-rate characteristics of components
+    using compressible fluids-Part 2: Alternative test methods'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8390-2%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08390_002_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8390-2:2026
+  type: JIS
+  primary: true
+docnumber: B8390
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本フルードパワー工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，圧縮性流体，すなわち，気体を使用する空気圧機器の流量特性を決定するための代替試験方法として，充填試験及び放出試験について規定する。ただし，この規格は，次のような流量係数が変化する機器には適用しない。\na)\t流れによって変形する弾性部品を含むため，著しく大きなヒステリシス特性をもつ機器\nb)\t減圧弁などのような，内部フィードバック機構をもつ機器\nc)\tチェック弁，急速排気弁などのような，クラッキング圧力をもつ機器\nd)\tシリンダ，アキュムレータなどのような，流量測定中に流体と機器との間でエネルギーを変換する機器"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.01
+    text: Fluid power systems in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8390

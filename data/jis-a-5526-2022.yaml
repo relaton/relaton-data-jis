@@ -1,0 +1,83 @@
+---
+id: JISA55262022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: Ｈ形鋼ぐい
+- language: en
+  script: Latn
+  content: Steel H piles
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5526%3A2022
+docidentifier:
+- content: JIS A 5526:2022
+  type: JIS
+  primary: true
+docnumber: A5526
+date:
+- type: issued
+  at: '2022-03-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 土木，建築など構造物の基礎に使用するH形鋼ぐいについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.70
+    text: Steel profiles
+  - code: '93.020'
+    text: Earthworks. Excavations. Foundation construction. Underground works
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5526

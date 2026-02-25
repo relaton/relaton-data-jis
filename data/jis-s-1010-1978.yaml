@@ -1,0 +1,83 @@
+---
+id: JISS10101978
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 事務用机の寸法
+- language: en
+  script: Latn
+  content: Standard size of writing desks for office
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+1010%3A1978
+docidentifier:
+- content: JIS S 1010:1978
+  type: JIS
+  primary: true
+docnumber: S1010
+date:
+- type: issued
+  at: '1978-02-28'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本オフィス家具協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本オフィス家具協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本オフィス家具協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 事務用机のモデュール呼び寸法及び各部の寸法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '97.140'
+    text: Furniture
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S1010

@@ -1,0 +1,97 @@
+---
+id: JISB992012019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: クリーンルーム及び関連する制御環境―第１部：浮遊粒子数濃度による空気清浄度の分類
+- language: en
+  script: Latn
+  content: 'Cleanrooms and associated controlled environments -- Part 1: Classification
+    of air cleanliness by particle concentration'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9920-1%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09920_001_000_2019_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09920_001_000_2019_e_ed10_ch.pdf
+docidentifier:
+- content: JIS B 9920-1:2019
+  type: JIS
+  primary: true
+docnumber: B9920
+date:
+- type: issued
+  at: '2019-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本空気清浄協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本空気清浄協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本空気清浄協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: クリーンルーム及びクリーンゾーン，並びにＪＩＳ　Ｂ　９９１７－７で定義する隔離装置における浮遊粒子数濃度による空気清浄度のクラス分類について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.35
+    text: Cleanrooms and associated controlled environments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9920

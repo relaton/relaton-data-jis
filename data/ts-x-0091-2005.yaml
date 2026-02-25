@@ -1,0 +1,81 @@
+---
+id: TSX00912005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＸＭＬ化情報検索プロトコル―画像検索機能
+- language: en
+  script: Latn
+  content: XML-based Information Retrieval Protocol -- Query by image
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+X+0091%3A2005
+docidentifier:
+- content: TS X 0091:2005
+  type: JIS
+  primary: true
+docnumber: X0091
+date:
+- type: issued
+  at: '2005-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: アメリカ合衆国のＬｉｂｒａｒｙ　ｏｆ　ＣｏｎｇｒｅｓｓのＺＩＮＧ（Ｚ３９３．５０　Ｉｎｔｅｒｎａｔｉｏｎ：　Ｎｅｘｔ　Ｇｅｎｅｒａｔｉｏｎ）グループが開発したＸＭＬに基づいた図書情報の検索プロトコルＳＲＷ　１．１（Ｓｅａｒｃｈ／Ｒｅｔｒｉｅｖｅ　ｆｏｒ　ｔｈｅ　Ｗｅｂ　１．１）に対する追加機能としての“画像検索機能”について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0091

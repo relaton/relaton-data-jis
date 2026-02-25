@@ -1,0 +1,94 @@
+---
+id: JISQ270002019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術―セキュリティ技術―情報セキュリティマネジメントシステム―用語
+- language: en
+  script: Latn
+  content: Information technology -- Security techniques -- Information security management
+    systems -- Overview and vocabulary
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+27000%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_27000_000_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 27000:2019
+  type: JIS
+  primary: true
+docnumber: Q27000
+date:
+- type: issued
+  at: '2019-03-20'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＳＭＳファミリ規格で共通して用いている用語及び定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.35
+    text: Information technology (Vocabularies)
+  - code: 03.100.70
+    text: Management systems
+  - code: '35.030'
+    text: IT Security
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q27000

@@ -1,0 +1,93 @@
+---
+id: JIST6256322024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医用電気機器―医用画像表示システム―第２部：医用画像表示用ディスプレイの受入試験及び不変性試験
+- language: en
+  script: Latn
+  content: 'Medical electrical equipment -- Medical image display systems -- Part
+    2: Acceptance and constancy tests for medical image displays'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+62563-2%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_62563_002_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 62563-2:2024
+  type: JIS
+  primary: true
+docnumber: T62563
+date:
+- type: issued
+  at: '2024-02-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本画像医療システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本画像医療システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本画像医療システム工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 医用画像表示用ディスプレイの受入試験及び不変性試験の基準値及び試験頻度について規定。評価方法は，ＪＩＳ　Ｔ　６２５６３－１に定義されている。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.55
+    text: Diagnostic equipment
+  - code: '31.120'
+    text: Electronic display devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T62563

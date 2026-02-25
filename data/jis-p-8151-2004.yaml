@@ -1,0 +1,97 @@
+---
+id: JISP81512004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 紙及び板紙―表面粗さ及び平滑度試験方法（エア・リーク法）―プリント・サーフ試験機法
+- language: en
+  script: Latn
+  content: Paper and board -- Determination of roughness/smoothness (air leak methods)
+    -- Print-surf method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+8151%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_p_08151_000_000_2004_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_p_08151_000_000_2004_e_ed10_i4.pdf
+docidentifier:
+- content: JIS P 8151:2004
+  type: JIS
+  primary: true
+docnumber: P8151
+date:
+- type: issued
+  at: '2004-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           紙パルプ技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           紙パルプ技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           紙パルプ技術協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 紙及び板紙の表面粗さをプリント・サーフ試験機によって測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '85.060'
+    text: Paper and board
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: P8151

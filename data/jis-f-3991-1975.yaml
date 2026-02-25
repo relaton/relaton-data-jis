@@ -1,0 +1,83 @@
+---
+id: JISF39911975
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 作業船用アンカー
+- language: en
+  script: Latn
+  content: Dredger's anchors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+3991%3A1975
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_03991_000_000_1975_j_pr10_i4.pdf
+docidentifier:
+- content: JIS F 3991:1975
+  type: JIS
+  primary: true
+docnumber: F3991
+date:
+- type: issued
+  at: '1975-02-28'
+- type: confirmed
+  at: '2023-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 非自航作業船の作業用及び警戒用に使用するアンカーについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.10
+    text: Hulls and their structure elements
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F3991

@@ -1,0 +1,85 @@
+---
+id: JISB83972002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 油圧―セパレータ付き気体式アキュムレータ―圧力及び容積の範囲並びに特性
+- language: en
+  script: Latn
+  content: Hydraulic fluid power -- Gas-loaded accumulators with separator -- Ranges
+    of pressures and volumes and characteristic quantities
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8397%3A2002
+docidentifier:
+- content: JIS B 8397:2002
+  type: JIS
+  primary: true
+docnumber: B8397
+date:
+- type: issued
+  at: '2002-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本フルードパワー工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 油圧システムに使用するセパレータ付き気体式アキュムレータの定義，設計，及び試験に必要な機能特性を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.99
+    text: Other fluid power system components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8397

@@ -1,0 +1,93 @@
+---
+id: JISX950112019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術―クラウドコンピューティング―サービスレベル合意書（ＳＬＡ）の枠組―第１部：概要及び概念
+- language: en
+  script: Latn
+  content: 'Information technology -- Cloud computing -- Service level agreement (SLA)
+    framework -- Part 1: Overview and concepts'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9501-1%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09501_001_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 9501-1:2019
+  type: JIS
+  primary: true
+docnumber: X9501
+date:
+- type: issued
+  at: '2019-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: クラウドサービスレベル合意書（Ｓｅｒｖｉｃｅ　Ｌｅｖｅｌ　Ａｇｒｅｅｍｅｎｔ。以下，ＳＬＡという。）に利用可能な，一連の共通クラウドＳＬＡビルディングブロック（概念，用語，定義及びコンテキスト）について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.210'
+    text: Cloud computing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X9501

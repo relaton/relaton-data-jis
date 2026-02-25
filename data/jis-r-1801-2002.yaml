@@ -1,0 +1,80 @@
+---
+id: JISR18012002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 遠赤外ヒータに放射部材として用いられるセラミックスのＦＴＩＲによる分光放射率測定方法
+- language: en
+  script: Latn
+  content: Method of measuring spectral emissivity of ceramic radiating materials
+    for infrared heaters by using FTIR
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+1801%3A2002
+docidentifier:
+- content: JIS R 1801:2002
+  type: JIS
+  primary: true
+docnumber: R1801
+date:
+- type: issued
+  at: '2002-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　遠赤外線協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　遠赤外線協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　遠赤外線協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 遠赤外ヒータに放射部材として用いられるセラミックスの表面の分光放射率を，ＦＴＩＲ（フーリエ変換赤外分光光度計）を用いて，波長２．５μｍ程度から２５μｍ程度までの範囲で測定する方法を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.045'
+    text: Semiconducting materials
+  - code: 81.060.30
+    text: Advanced ceramics
+  - code: 97.100.10
+    text: Electric heaters
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R1801

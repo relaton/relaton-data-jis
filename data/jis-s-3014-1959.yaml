@@ -1,0 +1,70 @@
+---
+id: JISS30141959
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鋼製たらい及び洗いおけ
+- language: en
+  script: Latn
+  content: Tub and basin (steel made)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3014%3A1959
+docidentifier:
+- content: JIS S 3014:1959
+  type: JIS
+  primary: true
+docnumber: S3014
+date:
+- type: issued
+  at: '1969-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 家庭その他において使用する鋼製のたらいおよび洗いおけについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S3014

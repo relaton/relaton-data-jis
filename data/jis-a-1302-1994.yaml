@@ -1,0 +1,84 @@
+---
+id: JISA13021994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築物の不燃構造部分の防火試験方法
+- language: en
+  script: Latn
+  content: Method of fire test for noncombustible structural parts of buildings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1302%3A1994
+docidentifier:
+- content: JIS A 1302:1994
+  type: JIS
+  primary: true
+docnumber: A1302
+date:
+- type: issued
+  at: '1994-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　建材試験センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　建材試験センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　建材試験センター"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 建築物の壁・柱・はり・床（天井を含む。）などの不燃構造部分（鉄骨その他不燃材料を軸組とした構造部分）の防火試験方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.220.20
+    text: Fire protection
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1302

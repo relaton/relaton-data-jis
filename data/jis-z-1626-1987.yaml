@@ -1,0 +1,79 @@
+---
+id: JISZ16261987
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 国際大形コンテナの取扱い
+- language: en
+  script: Latn
+  content: Handling and securing of freight containers for international trade
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1626%3A1987
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_01626_000_000_1987_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_01626_000_000_1987_e_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 1626:1987
+  type: JIS
+  primary: true
+docnumber: Z1626
+date:
+- type: issued
+  at: '1987-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本コンテナ協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本コンテナ協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本コンテナ協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 国際規格に従って製作され，試験された国際大形コンテナの取扱い方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 55.180.10
+    text: General purpose containers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z1626

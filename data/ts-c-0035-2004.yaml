@@ -1,0 +1,78 @@
+---
+id: TSC00352004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 耐火性試験―電気・電子―炎の表面伝ぱ―試験方法の概要及び適用性
+- language: en
+  script: Latn
+  content: Fire hazard testing -- Surface spread of flame -- Summary and relevance
+    of test methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+C+0035%3A2004
+docidentifier:
+- content: TS C 0035:2004
+  type: JIS
+  primary: true
+docnumber: C0035
+date:
+- type: issued
+  at: '2004-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本電子部品信頼性センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本電子部品信頼性センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本電子部品信頼性センター
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気・電子製品又はそれらに使用する材料の炎の表面伝ぱを測定する試験方法の概要について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: 13.220.40
+    text: Ignitability and burning behaviour of materials and products
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0035

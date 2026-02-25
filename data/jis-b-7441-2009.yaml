@@ -1,0 +1,80 @@
+---
+id: JISB74412009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 非接触座標測定機の受入検査及び定期検査
+- language: en
+  script: Latn
+  content: Acceptance and reverification tests for coordinate measuring machines (CMM)
+    with non-contacting probing systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7441%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07441_000_000_2009_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07441_000_000_2009_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 7441:2009
+  type: JIS
+  primary: true
+docnumber: B7441
+date:
+- type: issued
+  at: '2009-09-24'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国立研究開発法人　産業技術総合研究所
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国立研究開発法人　産業技術総合研究所
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 国立研究開発法人　産業技術総合研究所
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 対象物の形状を多点群の三次元座標値として取得できる非接触座標測定機の受入検査及び定期検査について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.30
+    text: Measuring instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7441

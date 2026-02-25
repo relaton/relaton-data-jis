@@ -1,0 +1,99 @@
+---
+id: JISK02252002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 希釈ガス及びゼロガス中の微量成分測定方法
+- language: en
+  script: Latn
+  content: Testing methods for determination of trace components in diluent gas and
+    zero gas
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0225%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00225_000_000_2002_j_ed10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00225_000_000_2002_e_ed10_i4.pdf
+docidentifier:
+- content: JIS K 0225:2002
+  type: JIS
+  primary: true
+docnumber: K0225
+date:
+- type: issued
+  at: '2002-03-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　化学物質評価研究機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　化学物質評価研究機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　化学物質評価研究機構"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 標準ガスの製造に用いる希釈ガス及び計測器の最小目盛値を校正するために用いるゼロガス中の微量の窒素酸化物，二酸化硫黄，一酸化炭素，二酸化炭素，メタン，酸素及び水分の濃度測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.30
+    text: Chemical reagents
+  - code: 71.040.40
+    text: Chemical analysis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0225

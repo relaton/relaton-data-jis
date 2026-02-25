@@ -1,0 +1,92 @@
+---
+id: JISC10052006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気・電子計測器の性能表示
+- language: en
+  script: Latn
+  content: Electrical and electronic measurement equipment -- Expression of performance
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1005%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01005_000_000_2006_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 1005:2006
+  type: JIS
+  primary: true
+docnumber: C1005
+date:
+- type: issued
+  at: '2006-03-25'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 主に産業用途の種類(電気的量を測定する指示及び記録計器；電気的量を供給する実量器；電気的出力信号を出力する測定装置の連鎖のすべての部分について，電気的手段を用いて非電気的量を測定する計器)の電気及び電子計測器の性能仕様について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.20
+    text: Measurement of electrical and magnetic quantities
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1005

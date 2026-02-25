@@ -1,0 +1,78 @@
+---
+id: JISK22581998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 原油及び燃料油　―　蒸気圧試験方法　―　リード法
+- language: en
+  script: Latn
+  content: Crude oil and petroleum products -- Determination of vapour pressure --
+    Reid method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2258%3A1998
+docidentifier:
+- content: JIS K 2258:1998
+  type: JIS
+  primary: true
+docnumber: K2258
+date:
+- type: issued
+  at: '1998-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 石油連盟
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 揮発性原油及び揮発油性で非粘ちょう性の燃料油の絶対蒸気圧を，リード法によって測定する方法ついて規定。メチル－ｔ－ブチルエーテル（ＭＴＥＢ）以外の酸素含有化合物（水に溶解しやすいアルコールなど）を含む燃料油には適用しない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '75.040'
+    text: Crude petroleum
+  - code: 75.160.20
+    text: Liquid fuels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K2258

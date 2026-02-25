@@ -1,0 +1,91 @@
+---
+id: JISC67602026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 弾性表面波デバイス用単結晶ウェハ－仕様及び測定法
+- language: en
+  script: Latn
+  content: Single crystal wafers for surface acoustic wave (SAW) device applications-Specifications
+    and measuring methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6760%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06760_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 6760:2026
+  type: JIS
+  primary: true
+docnumber: C6760
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本水晶デバイス工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本水晶デバイス工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本水晶デバイス工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，弾性表面波（SAW）フィルタ及び弾性表面波共振子の基板として用いる人工水晶，ニオブ酸リチウム（LN），タンタル酸リチウム（LT），四ほう酸リチウム（LBO）及びランガサイト（LGS）のウェハについて規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '31.140'
+    text: Piezoelectric devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6760

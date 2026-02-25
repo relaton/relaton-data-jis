@@ -1,0 +1,92 @@
+---
+id: JISX41611993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: フォント情報交換　第１部　体系
+- language: en
+  script: Latn
+  content: 'Information technology -- Font information interchange -- Part 1: Architecture'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4161%3A1993
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04161_000_000_1993_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 4161:1993
+  type: JIS
+  primary: true
+docnumber: X4161
+date:
+- type: issued
+  at: '1993-10-31'
+- type: confirmed
+  at: '1998-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: フォント情報交換規格群は，文書符号化方式とは独立にグリフ及びグリフ集合を命名する方式を規定。フォント資源で用いるグリフ識別子と文書符号化方式とを結び付ける方法は，文書処理系が独自に幾つも設定してよい。フォント資源の体系を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4161

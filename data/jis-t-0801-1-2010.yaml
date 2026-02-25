@@ -1,0 +1,88 @@
+---
+id: JIST080112010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ヘルスケア製品の滅菌―エチレンオキサイド―第１部：医療機器の滅菌プロセスの開発，バリデーション及び日常管理の要求事項
+- language: en
+  script: Latn
+  content: 'Sterilization of health care products -- Ethylene oxide -- Part 1: Requirements
+    for development, validation and routine control of a sterilization process for
+    medical devices'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0801-1%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00801_001_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 0801-1:2010
+  type: JIS
+  primary: true
+docnumber: T0801
+date:
+- type: issued
+  at: '2010-03-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本医療機器学会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 医療機器のエチレンオキサイド滅菌プロセスの開発，バリデーション及び日常管理の要求事項について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.080.01
+    text: Sterilization and disinfection in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T0801

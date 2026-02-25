@@ -1,0 +1,72 @@
+---
+id: JISC70031982
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ブラウン管の形名
+- language: en
+  script: Latn
+  content: Type designation system for cathode-ray tubes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7003%3A1982
+docidentifier:
+- content: JIS C 7003:1982
+  type: JIS
+  primary: true
+docnumber: C7003
+date:
+- type: issued
+  at: '1982-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本電子機械工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ブラウン管に付与する形名について規定。テレビジョン受像用及びモニタ用ブラウン管については，国際共通形名によってもよい。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C7003

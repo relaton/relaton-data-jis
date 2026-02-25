@@ -1,0 +1,89 @@
+---
+id: JISM76151987
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 防爆用ベリリウム銅合金工具類
+- language: en
+  script: Latn
+  content: Nonsparking beryllium copper alloy tools
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+7615%3A1987
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_07615_000_000_1987_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_07615_000_000_1987_e_pr10_i4.pdf
+docidentifier:
+- content: JIS M 7615:1987
+  type: JIS
+  primary: true
+docnumber: M7615
+date:
+- type: issued
+  at: '1987-11-30'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本保安用品協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 火花によって爆発を起こすおそれのある鉱山，工場，その他の事業場並びに船舶，車両，航空機などで用いる防爆用ベリリウム銅合金製スパナについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.230'
+    text: Explosion protection
+  - code: 73.100.01
+    text: Mining equipment in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M7615

@@ -1,0 +1,98 @@
+---
+id: JISA01012012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 土木製図
+- language: en
+  script: Latn
+  content: Construction drawings for civil engineering
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+0101%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_00101_000_000_2012_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_00101_000_000_2012_e_ed10_i4.pdf
+docidentifier:
+- content: JIS A 0101:2012
+  type: JIS
+  primary: true
+docnumber: A0101
+date:
+- type: issued
+  at: '2012-09-01'
+- type: confirmed
+  at: '2022-11-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　土木学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　土木学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　土木学会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 社会基盤施設，又はそれを構成する土木構造物の企画，調査，計画，設計，製作，施工，維持管理などの土木製図について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.100.30
+    text: Construction drawings
+  - code: '93.010'
+    text: Civil engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A0101

@@ -1,0 +1,97 @@
+---
+id: JISH22112010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鋳物用アルミニウム合金地金
+- language: en
+  script: Latn
+  content: Aluminium alloy ingots for castings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+2211%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_02211_000_000_2010_e_ed10_i4.pdf
+docidentifier:
+- content: JIS H 2211:2010
+  type: JIS
+  primary: true
+docnumber: H2211
+date:
+- type: issued
+  at: '2010-03-23'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本アルミニウム合金協会
+        \                                               \r\n                                                                                            一般社団法人　日本アルミニウム協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本アルミニウム合金協会
+        \                                               \r\n                                                                                            一般社団法人　日本アルミニウム協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本アルミニウム合金協会
+          \                                               \r\n                                                                                            一般社団法人　日本アルミニウム協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 金型鋳物，砂型鋳物などのアルミニウム合金鋳物に使用するアルミニウム合金地金について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.120.10
+    text: Aluminium and aluminium alloys
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H2211

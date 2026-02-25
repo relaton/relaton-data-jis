@@ -1,0 +1,91 @@
+---
+id: JISB242012018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: マイクロＯリング―第１部：形状，寸法及び測定方法
+- language: en
+  script: Latn
+  content: 'Micro O-rings -- Part 1: Dimensions, sizes and measuring methods'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2420-1%3A2018
+docidentifier:
+- content: JIS B 2420-1:2018
+  type: JIS
+  primary: true
+docnumber: B2420
+date:
+- type: issued
+  at: '2018-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 精密機器，電子機器などに用いるマイクロＯリングの形状，寸法及び測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.60
+    text: Filters, seals and contamination of fluids
+  - code: 83.140.50
+    text: Seals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B2420

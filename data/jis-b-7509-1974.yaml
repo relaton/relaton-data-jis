@@ -1,0 +1,72 @@
+---
+id: JISB75091974
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ０．００１ｍｍ目盛ダイヤルゲージ
+- language: en
+  script: Latn
+  content: Dial gauges reading in 0.001 mm
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7509%3A1974
+docidentifier:
+- content: JIS B 7509:1974
+  type: JIS
+  primary: true
+docnumber: B7509
+date:
+- type: issued
+  at: '1977-02-15'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本精密測定機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本精密測定機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本精密測定機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 目量０．００１ｍｍ，長針の１回転に対するスピンドルの動き０．２ｍｍ，測定範囲１ｍｍ，２ｍｍ及び５ｍｍのダイヤルゲージについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7509

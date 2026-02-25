@@ -1,0 +1,90 @@
+---
+id: JISY234122023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 温度管理保冷配送サービス―輸送過程での積替えを伴う荷物の陸送
+- language: en
+  script: Latn
+  content: Indirect, temperature-controlled refrigerated delivery services -- Land
+    transport of parcels with intermediate transfer
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Y+23412%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_y_23412_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Y 23412:2023
+  type: JIS
+  primary: true
+docnumber: Y23412
+date:
+- type: issued
+  at: '2023-02-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 温度管理が必要な物品（食品を含む。）を中身とする保冷荷物の陸上輸送による積替えを伴う保冷配送サービスの提供及び運用のための要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.080.30
+    text: Services for consumers
+  - code: '55.020'
+    text: Packaging and distribution of goods in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Y23412

@@ -1,0 +1,82 @@
+---
+id: JISC366111998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気ケーブルの電気試験方法―第１部：４５０／７５０Ｖ以下のケーブル，コード及び電線の電気試験
+- language: en
+  script: Latn
+  content: 'Electrical test methods for electric cables -- Part 1: Electrical tests
+    for cables, cords and wires for voltages up to and including 450/750 V'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3661-1%3A1998
+docidentifier:
+- content: JIS C 3661-1:1998
+  type: JIS
+  primary: true
+docnumber: C3661
+date:
+- type: issued
+  at: '1998-03-31'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電線工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電線工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電線工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気試験方法で関連ケーブル規格に試験方法で規定されていない場合の電線，コード及びケーブルの試験方法の指針。電気試験は，シースのない電線，コード及びケーブル，４５０／７５０Ｖ以下のシースのあるコード及びケーブルコード及びケーブルの完成品から取り出した線心が適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.060.20
+    text: Cables
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C3661

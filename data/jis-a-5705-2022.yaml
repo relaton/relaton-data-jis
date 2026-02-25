@@ -1,0 +1,98 @@
+---
+id: JISA57052022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ビニル系床材
+- language: en
+  script: Latn
+  content: Polyvinyl chloride floorcoverings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5705%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05705_000_000_2022_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05705_000_000_2022_e_ed10_ch.pdf
+docidentifier:
+- content: JIS A 5705:2022
+  type: JIS
+  primary: true
+docnumber: A5705
+date:
+- type: issued
+  at: '2022-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本インテリア協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本インテリア協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本インテリア協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 主として建築物の床に使用するビニル系床材について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.140.10
+    text: Films and sheets
+  - code: 91.060.30
+    text: Ceilings. Floors. Stairs
+  - code: '97.150'
+    text: Floor coverings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5705

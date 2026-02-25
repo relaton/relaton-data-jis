@@ -1,0 +1,93 @@
+---
+id: JISE92102022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鋼索鉄道用ワイヤロープとロープソケットとの定着方法
+- language: en
+  script: Latn
+  content: Steel wire ropes on cable cars -- Socketing methods -- Molten metal and
+    resin socketing
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+9210%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_09210_000_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS E 9210:2022
+  type: JIS
+  primary: true
+docnumber: E9210
+date:
+- type: issued
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本鋼索交通協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本鋼索交通協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　日本鋼索交通協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｇ　３５２５に規定する又はこれと同等以上のワイヤロープで，鋼索鉄道に用いるロープの端末を，溶融金属又は樹脂によってロープソケットに定着する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '45.100'
+    text: Cableway equipment
+  - code: 77.140.65
+    text: Steel wire, wire ropes and link chains
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E9210

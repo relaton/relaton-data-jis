@@ -1,0 +1,83 @@
+---
+id: JISC140032014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 風車―第３部：洋上風車の設計要件
+- language: en
+  script: Latn
+  content: 'Wind turbines -- Part 3: Design requirements for offshore wind turbines'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1400-3%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01400_003_000_2014_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 1400-3:2014
+  type: JIS
+  primary: true
+docnumber: C1400
+date:
+- type: issued
+  at: '2014-08-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｃ　１４００－１の要求事項に加え，洋上風車サイトの外部条件の評価に関する追加要求事項を規定するとともに，洋上風車の工学的健全性を達成するための基本的な設計要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.180'
+    text: Wind turbine energy systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1400

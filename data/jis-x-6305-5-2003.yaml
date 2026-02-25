@@ -1,0 +1,84 @@
+---
+id: JISX630552003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 識別カードの試験方法―第５部：光メモリカード
+- language: en
+  script: Latn
+  content: 'Identification cards -- Test methods -- Part 5: Optical memory cards'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6305-5%3A2003
+docidentifier:
+- content: JIS X 6305-5:2003
+  type: JIS
+  primary: true
+docnumber: X6305
+date:
+- type: issued
+  at: '2003-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: カードの特性評価試験方法について規定。試験方法は，ＪＩＳ　Ｘ　６３３０及びＪＩＳ　Ｘ　６３３１で規定する直線記録方式の光メモリカードに関して適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.15
+    text: Identification cards. Chip cards. Biometrics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6305

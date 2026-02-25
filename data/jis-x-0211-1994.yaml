@@ -1,0 +1,92 @@
+---
+id: JISX02111994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 符号化文字集合用制御機能
+- language: en
+  script: Latn
+  content: Information technology -- Control functions for coded character sets
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0211%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00211_000_000_1994_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 0211:1994
+  type: JIS
+  primary: true
+docnumber: X0211
+date:
+- type: issued
+  at: '1994-10-31'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｘ　０２０２に基づく７ビット符号，拡張７ビット符号，８ビット符号及び拡張８ビット符号中で用いる制御機能及びその符号化表現を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0211

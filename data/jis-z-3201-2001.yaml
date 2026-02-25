@@ -1,0 +1,83 @@
+---
+id: JISZ32012001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 軟鋼用ガス溶加棒
+- language: en
+  script: Latn
+  content: Gas welding rods for mild steel
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3201%3A2001
+docidentifier:
+- content: JIS Z 3201:2001
+  type: JIS
+  primary: true
+docnumber: Z3201
+date:
+- type: issued
+  at: '2001-05-31'
+- type: confirmed
+  at: '2006-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本溶接協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 軟鋼などの溶接に使用するガス溶接用溶加棒について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.20
+    text: Welding consumables
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z3201

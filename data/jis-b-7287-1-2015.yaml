@@ -1,0 +1,94 @@
+---
+id: JISB728712015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 眼鏡フレーム及びサングラスの電子カタログ及び識別子―第１部：製品の識別子及び電子カタログ製品の階層
+- language: en
+  script: Latn
+  content: 'Ophthalmic optics -- Spectacle frames and sunglasses electronic catalogue
+    and identification -- Part 1: Product identification and electronic catalogue
+    product hierarchy'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7287-1%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07287_001_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7287-1:2015
+  type: JIS
+  primary: true
+docnumber: B7287
+date:
+- type: issued
+  at: '2015-10-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           福井県眼鏡工業組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           福井県眼鏡工業組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           福井県眼鏡工業組合"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 眼鏡フレーム及びサングラスの識別子を定義付けるルール及び要求事項について規定。また，これらを識別する場合に使われるデータ情報及びファイル形式についても規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.70
+    text: Ophthalmic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7287

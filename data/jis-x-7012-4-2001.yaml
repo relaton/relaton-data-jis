@@ -1,0 +1,84 @@
+---
+id: JISX701242001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 行政／産業情報交換用構文規則（ＣＩＩシンタックスルール）―第４部：セキュリティ機能
+- language: en
+  script: Latn
+  content: 'Syntax rules for cross-industry information interchange (CII syntax rules)
+    -- Part 4: The security function'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7012-4%3A2001
+docidentifier:
+- content: JIS X 7012-4:2001
+  type: JIS
+  primary: true
+docnumber: X7012
+date:
+- type: issued
+  at: '2001-01-31'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本情報経済社会推進協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本情報経済社会推進協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本情報経済社会推進協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般産業界での商業取引に伴うデータ交換，行政と産業界との間の各種データ交換など，政府機関，企業などの組織間で行われる一般的なデータ交換を，電子的に行うときに用いる電子データの構文規則に付いて，セキュリティ機能を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  - code: 35.240.60
+    text: IT applications in transport
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X7012

@@ -1,0 +1,75 @@
+---
+id: JIST17011997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療用遠心機
+- language: en
+  script: Latn
+  content: Centrifuge for medical use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1701%3A1997
+docidentifier:
+- content: JIS T 1701:1997
+  type: JIS
+  primary: true
+docnumber: T1701
+date:
+- type: issued
+  at: '1997-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本医科器械学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本医科器械学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本医科器械学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 血球・血清分離，尿沈さ（渣），細菌分離等に用いる電動機によって毎分８０００回転以下で回転し，冷却又は加熱装置をもたない医療用遠心機について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.01
+    text: Medical equipment in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T1701

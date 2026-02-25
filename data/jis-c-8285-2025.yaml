@@ -1,0 +1,88 @@
+---
+id: JISC82852025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工業用プラグ，固定形又は可搬形コンセント及び機器用インレット
+- language: en
+  script: Latn
+  content: Plugs, fixed or portable socket-outlets and appliance inlets for industrial
+    purposes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8285%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08285_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8285:2025
+  type: JIS
+  primary: true
+docnumber: C8285
+date:
+- type: issued
+  at: '2025-04-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，定格動作電圧が直流1000 V又は500 Hz以下の交流1 000 V以下で，定格電流が800 A以下の，主として，屋内又は屋外の工業用のプラグ，固定形又は可搬形コンセント，及び機器用インレットについて規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.30
+    text: Plugs, socket-outlets, couplers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8285

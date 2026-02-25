@@ -1,0 +1,83 @@
+---
+id: JISH06131978
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: シリコンスライスウェーハ及びラップウェーハの外観検査
+- language: en
+  script: Latn
+  content: Visual inspection for sliced and lapped silicon wafers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+0613%3A1978
+docidentifier:
+- content: JIS H 0613:1978
+  type: JIS
+  primary: true
+docnumber: H0613
+date:
+- type: issued
+  at: '1978-01-05'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　新金属協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　新金属協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　新金属協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: シリコンのスライス又はラップしたウエーハの外観検査について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.045'
+    text: Semiconducting materials
+  - code: 77.120.99
+    text: Other non-ferrous metals and their alloys
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H0613

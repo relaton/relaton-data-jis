@@ -1,0 +1,81 @@
+---
+id: JISF10281997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 舟艇―陸電装置
+- language: en
+  script: Latn
+  content: Small crafts -- Shore power systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+1028%3A1997
+docidentifier:
+- content: JIS F 1028:1997
+  type: JIS
+  primary: true
+docnumber: F1028
+date:
+- type: issued
+  at: '1997-04-30'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 長さ２４ｍ以下，かつ，総トン数２０トン未満の舟艇で単相交流１２５Ｖ以下，周波数５０Ｈｚ又は６０Ｈｚの船外の電源を舟艇に引き込む場合の船内の陸電装置について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.60
+    text: Electrical equipment of ships and  of marine structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F1028

@@ -1,0 +1,83 @@
+---
+id: JISG31162025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高圧ガス容器用鋼板及び鋼帯
+- language: en
+  script: Latn
+  content: Steel sheet, plates and strip for gas cylinders
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3116%3A2025
+docidentifier:
+- content: JIS G 3116:2025
+  type: JIS
+  primary: true
+docnumber: G3116
+date:
+- type: issued
+  at: '2025-04-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，LPガス，アセチレンなどの各種高圧ガスを充填する内容積500 L以下の溶接容器に用いる熱間圧延鋼板及び鋼帯について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.30
+    text: Steels for pressure purposes
+  - code: 77.140.50
+    text: Flat steel products and semi-products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G3116

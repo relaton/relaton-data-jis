@@ -1,0 +1,72 @@
+---
+id: JISF04021975
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船舶機関部機器の付着品供給範囲
+- language: en
+  script: Latn
+  content: Fittings of the machinery of ships to be supplied by manufacturers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0402%3A1975
+docidentifier:
+- content: JIS F 0402:1975
+  type: JIS
+  primary: true
+docnumber: F0402
+date:
+- type: issued
+  at: '1975-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　日本船舶標準協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　日本船舶標準協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 財団法人　日本船舶標準協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 船舶の主機，軸系，補機器，ボイラなどの機器製造業者から供給される付着品の範囲について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F0402

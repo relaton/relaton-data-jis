@@ -1,0 +1,75 @@
+---
+id: JISB07121969
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 切削仕上げしろ
+- language: en
+  script: Latn
+  content: Stock allowance for finish cut
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0712%3A1969
+docidentifier:
+- content: JIS B 0712:1969
+  type: JIS
+  primary: true
+docnumber: B0712
+date:
+- type: issued
+  at: '1969-04-23'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 金属材料の旋削，中ぐり，フライス削り，平削り，形削り，立削りおよびリーマ仕上げにおいて，寸法公差の等級が原則としてＪＩＳ　Ｂ　０４０１のＩＴ８およびそれより上級を対象とした，最終の切削仕上げしろについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.080.01
+    text: Machine tools in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0712

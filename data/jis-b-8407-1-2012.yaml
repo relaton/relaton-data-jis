@@ -1,0 +1,92 @@
+---
+id: JISB840712012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 強制通風式バーナ―第１部：ガスバーナ
+- language: en
+  script: Latn
+  content: 'Forced draught burners -- Part 1: Gas burners'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8407-1%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08407_001_000_2012_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8407-1:2012
+  type: JIS
+  primary: true
+docnumber: B8407
+date:
+- type: issued
+  at: '2012-02-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工業炉協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工業炉協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本工業炉協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 自動強制通風ガスバーナの用語の定義，試験方法，構造及び運転上の一般要求事項並びに制御及び安全装置の条件について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 27.060.20
+    text: Gas fuel burners
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8407

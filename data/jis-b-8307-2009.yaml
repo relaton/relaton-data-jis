@@ -1,0 +1,92 @@
+---
+id: JISB83072009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 遠心ポンプの技術仕様―クラスＩ
+- language: en
+  script: Latn
+  content: Technical specifications for centrifugal pumps -- Class I
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8307%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08307_000_000_2009_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8307:2009
+  type: JIS
+  primary: true
+docnumber: B8307
+date:
+- type: issued
+  at: '2009-12-21'
+- type: confirmed
+  at: '2019-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本産業機械工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 種々の産業において使用する遠心ポンプに対するクラスⅠ（最も厳しい）の要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.080'
+    text: Pumps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8307

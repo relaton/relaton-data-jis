@@ -1,0 +1,89 @@
+---
+id: JISQ223012020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: セキュリティ及びレジリエンス―事業継続マネジメントシステム―要求事項
+- language: en
+  script: Latn
+  content: Security and resilience -- Business continuity management systems -- Requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+22301%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_22301_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 22301:2020
+  type: JIS
+  primary: true
+docnumber: Q22301
+date:
+- type: issued
+  at: '2020-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 事業の中断・阻害を防止し，その発生の起こりやすさを低減し，発生に備え，発生した場合には対応し，事業を復旧するためのマネジメントシステムを実施し，維持し，改善するために必要な事業継続マネジメントに関する要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.100.01
+    text: Company organization and management in general
+  - code: 03.100.70
+    text: Management systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q22301

@@ -1,0 +1,84 @@
+---
+id: JISB800241998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 往復動内燃機関―性能―第４部：調速
+- language: en
+  script: Latn
+  content: 'Reciprocating internal combustion engines -- Performance -- Part 4: Speed
+    governing'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8002-4%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08002_004_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS B 8002-4:1998
+  type: JIS
+  primary: true
+docnumber: B8002
+date:
+- type: issued
+  at: '1998-11-30'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本内燃機関連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本内燃機関連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本内燃機関連合会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 調速装置の要求事項及び管理項目を分類し，往復動内燃機関の一般的機関回転速度についての用語の定義を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.020'
+    text: Internal combustion engines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8002

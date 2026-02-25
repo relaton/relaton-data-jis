@@ -1,0 +1,93 @@
+---
+id: JISA14522015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築材料及び建築構成部分の摩耗試験方法（落砂法）
+- language: en
+  script: Latn
+  content: Methods of abrasion test for building materials and part of building construction
+    (Falling sand method)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1452%3A2015
+docidentifier:
+- content: JIS A 1452:2015
+  type: JIS
+  primary: true
+docnumber: A1452
+date:
+- type: issued
+  at: '2016-01-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　建材試験センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　建材試験センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　建材試験センター"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 建築材料及び建築構成部分を落砂法によって求める摩耗の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.01
+    text: Construction materials in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1452

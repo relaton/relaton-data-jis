@@ -1,0 +1,74 @@
+---
+id: TRZ00102000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 沈殿反応を用いた電量滴定法による高純度物質の純度測定方法
+- language: en
+  script: Latn
+  content: Purity certification method for high-purity materials by coulometric titration
+    utilizing precipitation reaction
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+Z+0010%3A2000
+docidentifier:
+- content: TR Z 0010:2000
+  type: JIS
+  primary: true
+docnumber: Z0010
+date:
+- type: issued
+  at: '2000-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 沈殿反応を利用した電量滴定法による高純度物質の純度測定方法を規定。ふっ化物を除くハロゲン化物の測定に適している。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 71.040.50
+    text: Physicochemical methods of analysis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z0010

@@ -1,0 +1,83 @@
+---
+id: JISF88382004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用防水形プラグ及びソケットアウトレットボックス
+- language: en
+  script: Latn
+  content: Shipbuilding -- Watertight type plugs and socket-outlet boxes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8838%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_08838_000_000_2004_j_ed10_ch.pdf
+docidentifier:
+- content: JIS F 8838:2004
+  type: JIS
+  primary: true
+docnumber: F8838
+date:
+- type: issued
+  at: '2004-12-10'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船の機関室，暴露部などの環境において使用する交流電圧２５０Ｖ以下の電灯及び小形電気器具の回路に使用する防水形プラグ及びソケットアウトレットを組み込んだボックスについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.60
+    text: Electrical equipment of ships and  of marine structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F8838

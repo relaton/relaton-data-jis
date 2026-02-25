@@ -1,0 +1,84 @@
+---
+id: JISD66031998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車―セミトレーラトラクタとセミトレーラの連結―互換性
+- language: en
+  script: Latn
+  content: Road vehicles -- Mechanical coupling between tractors and semi-trailers
+    -- Interchangeability
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+6603%3A1998
+docidentifier:
+- content: JIS D 6603:1998
+  type: JIS
+  primary: true
+docnumber: D6603
+date:
+- type: issued
+  at: '1998-10-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　自動車技術会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 連結車両を構成するセミトレーラトラクタとセミトレーラの互換性を確保するための，寸法及び形状，動作寸法などを規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.040.70
+    text: Couplings
+  - code: 43.080.10
+    text: Trucks and trailers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D6603

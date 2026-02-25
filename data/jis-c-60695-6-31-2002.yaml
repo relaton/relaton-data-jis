@@ -1,0 +1,84 @@
+---
+id: JISC606956312002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―耐火性試験―煙による光の不透過度の測定―小規模静的試験方法―材料
+- language: en
+  script: Latn
+  content: Environmental testing -- Electrotechnical products -- Fire hazard testing
+    -- Smoke obscuration -- Small scale static method -- Materials
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60695-6-31%3A2002
+docidentifier:
+- content: JIS C 60695-6-31:2002
+  type: JIS
+  primary: true
+docnumber: C60695
+date:
+- type: issued
+  at: '2002-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気製品に用いられる固体の非金属の平らな試験片に適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.220.40
+    text: Ignitability and burning behaviour of materials and products
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60695

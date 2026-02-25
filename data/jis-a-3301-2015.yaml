@@ -1,0 +1,92 @@
+---
+id: JISA33012015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 木造校舎の構造設計標準
+- language: en
+  script: Latn
+  content: Design standards for wooden construction of school buildings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+3301%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_03301_000_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 3301:2015
+  type: JIS
+  primary: true
+docnumber: A3301
+date:
+- type: issued
+  at: '2015-04-01'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建築学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建築学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本建築学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 平屋建て及び２階建ての木造校舎の構造設計標準について規定。軒高さが９ｍ以下かつ最高高さ１３ｍ以下で，１棟当たりの延べ床面積が２　０００ｍ＊２未満のものに限る。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.080.20
+    text: Timber structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A3301

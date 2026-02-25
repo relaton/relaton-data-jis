@@ -1,0 +1,75 @@
+---
+id: JISC42071995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 三相誘導電動機の特性算定方法
+- language: en
+  script: Latn
+  content: Calculating methods of three-phase induction motor characteristics
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4207%3A1995
+docidentifier:
+- content: JIS C 4207:1995
+  type: JIS
+  primary: true
+docnumber: C4207
+date:
+- type: issued
+  at: '1995-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電気学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 三相誘導電動機の特性算定方法のうち，（１）円線図法による特性算定方法　（２）損失分離法による特性算定方法　（３）最大始動電流及び最小始動トルクの算定方法を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.160.30
+    text: Motors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C4207

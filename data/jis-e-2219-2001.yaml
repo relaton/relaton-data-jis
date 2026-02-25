@@ -1,0 +1,92 @@
+---
+id: JISE22192001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電車線路用セクションインシュレータ
+- language: en
+  script: Latn
+  content: Electric traction overhead lines -- Section insulators
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+2219%3A2001
+docidentifier:
+- content: JIS E 2219:2001
+  type: JIS
+  primary: true
+docnumber: E2219
+date:
+- type: issued
+  at: '2001-03-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道電気技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道電気技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本鉄道電気技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｅ　２１０１の公称断面積８５～１７０ｍｍ＊２のトロリ線を用いた直流１５００Ｖ以下の架空電車線路において，絶縁本体と電気車のパンタグラフとが接触する形式のセクションインシュレータについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.280'
+    text: Electric traction equipment
+  - code: '45.080'
+    text: Rails and railway components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E2219

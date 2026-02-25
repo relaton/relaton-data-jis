@@ -1,0 +1,83 @@
+---
+id: JISC96122013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ルームエアコンディショナ
+- language: en
+  script: Latn
+  content: Room air conditioners
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9612%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09612_000_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 9612:2013
+  type: JIS
+  primary: true
+docnumber: C9612
+date:
+- type: issued
+  at: '2013-04-22'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 室内の快適な空気調和を目的とし，冷房，並びに空気の循環及び除じん（塵）を行うルームエアコンディショナについて規定。ルームエアコンには暖房を兼ねるものを含む。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.120'
+    text: Ventilators. Fans. Air-conditioners
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9612

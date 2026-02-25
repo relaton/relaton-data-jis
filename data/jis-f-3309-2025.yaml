@@ -1,0 +1,80 @@
+---
+id: JISF33092025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船舶及び海洋技術－救命及び防火－救命用の端艇及びいかだ並びに救助艇用シー・アンカー
+- language: en
+  script: Latn
+  content: Ships and marine technology-Life saving and fire protection-Sea anchors
+    for survival craft and rescue boats
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+3309%3A2025
+docidentifier:
+- content: JIS F 3309:2025
+  type: JIS
+  primary: true
+docnumber: F3309
+date:
+- type: issued
+  at: '2025-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，LSAコードに従い，救命用の端艇及びいかだ（救命艇及び救命いかだ）並びに救助艇に取り付けるシー・アンカーの設計，性能及びプロトタイプ試験に関する要求事項について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '47.080'
+    text: Small craft
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F3309

@@ -1,0 +1,76 @@
+---
+id: JISB831621999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 容積移送式真空ポンプ―性能試験方法―第２部：到達圧力の測定
+- language: en
+  script: Latn
+  content: 'Positive-displacement vacuum pumps -- Measurement of performance characteristics
+    -- Part 2: Measurement of ultimate pressure'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8316-2%3A1999
+docidentifier:
+- content: JIS B 8316-2:1999
+  type: JIS
+  primary: true
+docnumber: B8316
+date:
+- type: issued
+  at: '1999-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本真空学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本真空学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本真空学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 容積移送式真空ポンプの到達圧力測定方法について規定。対象となるポンプは大気圧下に気体を排気し，限界入口圧力（最低吸気圧力）が一段又は多段で１００Ｐａ未満に達するものとする。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.160'
+    text: Vacuum technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8316

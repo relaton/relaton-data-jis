@@ -1,0 +1,83 @@
+---
+id: JISM40011985
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 選鉱，選炭及び砕石・砂利選別の操業系統の表示方法
+- language: en
+  script: Latn
+  content: Methods of presentation of flowsheet for mineral, coal and rock processing
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+4001%3A1985
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_04001_000_000_1985_j_pr10_i4.pdf
+docidentifier:
+- content: JIS M 4001:1985
+  type: JIS
+  primary: true
+docnumber: M4001
+date:
+- type: issued
+  at: '1985-11-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本産業機械工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 選鉱作業，選炭作業及び砕石・砂利選別作業における操業系統の表示方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '73.120'
+    text: Equipment for processing of minerals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M4001

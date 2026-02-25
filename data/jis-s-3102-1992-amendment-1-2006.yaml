@@ -1,0 +1,77 @@
+---
+id: JISS31021992AMENDMENT12006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 障子紙（追補１）
+- language: en
+  script: Latn
+  content: SHOJIGAMI (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3102%3A1992%2FAMENDMENT+1%3A2006
+docidentifier:
+- content: JIS S 3102:1992/AMENDMENT 1:2006
+  type: JIS
+  primary: true
+docnumber: S3102
+date:
+- type: issued
+  at: '2006-03-25'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "全国障子紙工業会                                                \r\n                                                                                            一般社団法人　日本障子産業協会"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "全国障子紙工業会                                                \r\n                                                                                            一般社団法人　日本障子産業協会"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "全国障子紙工業会                                                \r\n                                                                                            一般社団法人　日本障子産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: '85.080'
+    text: Paper products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S3102

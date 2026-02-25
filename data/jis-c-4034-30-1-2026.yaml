@@ -1,0 +1,92 @@
+---
+id: JISC40343012026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 回転電気機械－第３０－１部：単一速度三相かご形誘導電動機の効率クラス（ＩＥコード）
+- language: en
+  script: Latn
+  content: 'Rotating electrical machines-Part 30-1: Efficiency classes of single-speed,
+    three-phase, cage-induction motors (IE-code)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4034-30-1%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04034_030_001_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 4034-30-1:2026
+  type: JIS
+  primary: true
+docnumber: C4034
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，JIS C 4034-1に基づいて，正弦波電源で駆動される，次の単一速度三相かご形誘導電動機の効率クラスについて規定する。\n－\t定格電圧が50
+    Vを超え1000 V以下の電動機\n－\t定格出力が0.12 kW以上1000 kW以下の電動機\n－\t極数が2極，4極，6極又は8極の電動機"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.160'
+    text: Rotating machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C4034

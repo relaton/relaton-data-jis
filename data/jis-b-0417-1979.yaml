@@ -1,0 +1,86 @@
+---
+id: JISB04171979
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ガス切断加工鋼板普通許容差
+- language: en
+  script: Latn
+  content: Permissible deviation in dimensions without tolerance indication for gas
+    cut steel plates
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0417%3A1979
+docidentifier:
+- content: JIS B 0417:1979
+  type: JIS
+  primary: true
+docnumber: B0417
+date:
+- type: issued
+  at: '1979-04-30'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本溶接協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 厚さ６ｍｍ以上１００ｍｍ以下の熱間圧延鋼板をガス切断機で直線切断した加工鋼板の長さ及び幅の普通許容差並びに切断縁の真直度及び直角度の普通許容値，切断面の倒れ及び粗さの普通許容値について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.10
+    text: Limits and fits
+  - code: 77.140.50
+    text: Flat steel products and semi-products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0417

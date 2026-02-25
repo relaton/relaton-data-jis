@@ -1,0 +1,94 @@
+---
+id: JISC28122025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機器取付け用レール
+- language: en
+  script: Latn
+  content: Dimensions of low-voltage switchgear and controlgear-Standardized mounting
+    on rails for mechanical support of switchgear, controlgear and accessories
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2812%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02812_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 2812:2025
+  type: JIS
+  primary: true
+docnumber: C2812
+date:
+- type: issued
+  at: '2025-05-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会
+        \                                               \r\n                                                                                            日本電気制御技術工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会
+        \                                               \r\n                                                                                            日本電気制御技術工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気制御機器工業会
+          \                                               \r\n                                                                                            日本電気制御技術工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，交流1　000 V以下又は直流1　500 V以下で使用する継電器，接触器，開閉器，工業用端子台などの電気機器及び附属品を互換性のある方法で取り付ける機器取付け用レールの寸法及び機能要求事項について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.130.20
+    text: Low voltage switchgear and controlgear
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2812

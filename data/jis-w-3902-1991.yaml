@@ -1,0 +1,75 @@
+---
+id: JISW39021991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 航空宇宙―三脚ジャッキ―すきま寸法
+- language: en
+  script: Latn
+  content: Aerospace -- Tripod jacks -- Clearance dimensions
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+3902%3A1991
+docidentifier:
+- content: JIS W 3902:1991
+  type: JIS
+  primary: true
+docnumber: W3902
+date:
+- type: issued
+  at: '1991-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本航空宇宙工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 三脚ジャッキを据え付け，このジャッキとその周りの航空機構造との間に適切なすきなを確保するために，航空機の主ジャッキ点の設けるべき最小のすきまについて規定。すべてのすきま寸法を安全に定めることを意図するものではない。すきまが重要な場合には，単なる設計の助けとして，この規格を使用することが望ましい。重要なすきまの最終値は，実際のジャッキ寸法を用いて設定することが望ましい。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '49.100'
+    text: Ground service and maintenance equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: W3902

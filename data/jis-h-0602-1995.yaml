@@ -1,0 +1,84 @@
+---
+id: JISH06021995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: シリコン単結晶及びシリコンウェーハの４探針法による抵抗率測定方法
+- language: en
+  script: Latn
+  content: Testing method of resistivity for silicon crystals and silicon wafers with
+    four-point probe
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+0602%3A1995
+docidentifier:
+- content: JIS H 0602:1995
+  type: JIS
+  primary: true
+docnumber: H0602
+date:
+- type: issued
+  at: '1995-11-30'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　新金属協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　新金属協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　新金属協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: シリコン単結晶及びシリコンウェーハの直流４探針法による抵抗率の測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.045'
+    text: Semiconducting materials
+  - code: 77.120.99
+    text: Other non-ferrous metals and their alloys
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H0602

@@ -1,0 +1,90 @@
+---
+id: JISC036477022026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧電気設備－第７－７０２部：特殊設備又は特殊場所に関する要求事項－水泳プール及び噴水
+- language: en
+  script: Latn
+  content: 'Low-voltage electrical installations-Part 7-702: Requirements for special
+    installations or locations-Swimming pools and fountains'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0364-7-702%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00364_007_702_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 0364-7-702:2026
+  type: JIS
+  primary: true
+docnumber: C0364
+date:
+- type: issued
+  at: '2026-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格の要求事項は，次の場所の電気設備に対して適用する。\n－\t水泳プール及び子供用プールの水槽並びにそれらの周囲の区域\n－\t自然の湖水地域，人造湖及び海岸並びにそれに類する場所であって，特に水泳，水遊び及び類似の目的のために人が立ち入ることが予期される場所，並びにそれらの周囲の区域。自然の湖水地域，人造湖及び海岸並びにそれに類する場所のような地域は，水泳プールとみなす。\n－\t噴水池及びそれらの周りの区域"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: 91.140.50
+    text: Electricity supply systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0364

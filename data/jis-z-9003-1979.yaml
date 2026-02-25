@@ -1,0 +1,94 @@
+---
+id: JISZ90031979
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 計量規準型一回抜取検査（標準偏差既知でロットの平均値を保証する場合及び標準偏差既知でロットの不良率を保証する場合）
+- language: en
+  script: Latn
+  content: Single sampling inspection plans having desired operation characteristics
+    by variables (standard deviation known)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9003%3A1979
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09003_000_000_1979_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09003_000_000_1979_e_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 9003:1979
+  type: JIS
+  primary: true
+docnumber: Z9003
+date:
+- type: issued
+  at: '1979-07-31'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 標準偏差既知でロットの平均値を保証する場合及び標準偏差既知でロットの不良率を保証する場合の計量規準型一回抜取検査方式の決め方及び実施の方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.30
+    text: Application of statistical methods
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9003

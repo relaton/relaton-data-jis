@@ -1,0 +1,75 @@
+---
+id: JISH51011988
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 黄銅鋳物
+- language: en
+  script: Latn
+  content: Brass castings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+5101%3A1988
+docidentifier:
+- content: JIS H 5101:1988
+  type: JIS
+  primary: true
+docnumber: H5101
+date:
+- type: issued
+  at: '1989-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本非鉄金属鋳物協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本非鉄金属鋳物協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本非鉄金属鋳物協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般用黄銅鋳物について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.150.30
+    text: Copper products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H5101

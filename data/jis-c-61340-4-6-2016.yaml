@@ -1,0 +1,95 @@
+---
+id: JISC61340462016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 静電気―第４－６部：特定応用のための標準的試験方法―リストストラップ
+- language: en
+  script: Latn
+  content: 'Electrostatics -- Part 4-6: Standard test methods for specific applications
+    -- Wrist straps'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61340-4-6%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61340_004_006_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61340-4-6:2016
+  type: JIS
+  primary: true
+docnumber: C61340
+date:
+- type: issued
+  at: '2016-02-22'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本電子部品信頼性センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本電子部品信頼性センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　日本電子部品信頼性センター"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: リストストラップの評価試験，受入試験及び都度試験のための電気的及び機械的な試験方法及び限度値について規定。連続モニタリングリストストラップシステムには，適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.200.99
+    text: Other standards related to thermodynamics
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61340

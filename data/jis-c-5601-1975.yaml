@@ -1,0 +1,84 @@
+---
+id: JISC56011975
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子通信用語（無線通信編その１）
+- language: en
+  script: Latn
+  content: Glossary of terms used in electronics and telecommunications (radiotelecommunications
+    No.1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5601%3A1975
+docidentifier:
+- content: JIS C 5601:1975
+  type: JIS
+  primary: true
+docnumber: C5601
+date:
+- type: issued
+  at: '1975-06-30'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報通信学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報通信学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報通信学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 無線通信に関して用いられる用語とその意味について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.33
+    text: Telecommunications. Audio and video engineering (Vocabularies)
+  - code: '33.020'
+    text: Telecommunications in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5601

@@ -1,0 +1,76 @@
+---
+id: JISG05651992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄鋼材料の磁粉探傷試験方法及び磁粉模様の分類
+- language: en
+  script: Latn
+  content: Method for magnetic particle testing of ferromagnetic materials and classification
+    of magnetic particle indication
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0565%3A1992
+docidentifier:
+- content: JIS G 0565:1992
+  type: JIS
+  primary: true
+docnumber: G0565
+date:
+- type: issued
+  at: '1992-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本非破壊検査協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本非破壊検査協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本非破壊検査協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄鋼材料及びその製品の磁粉探傷試験方法及び磁粉模様の分類について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.080.01
+    text: Ferrous metals in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G0565

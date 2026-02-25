@@ -1,0 +1,72 @@
+---
+id: JISA40051980
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: コンベクタ
+- language: en
+  script: Latn
+  content: Convector
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+4005%3A1980
+docidentifier:
+- content: JIS A 4005:1980
+  type: JIS
+  primary: true
+docnumber: A4005
+date:
+- type: issued
+  at: '1980-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本暖房機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本暖房機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本暖房機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 銅管，アルミニウムフィンからなるエレメント（熱交換部）を，対流作用を促進させるためのケーシングに納めた，熱源部をもたない暖房用自然対流放熱器で温水温度１００℃，３ｋｇｆ／ｃｍ×２【０．３ＭＰａ】以下の温水又は蒸気圧２ｋｇｆ／ｃｍ×２【０．２ＭＰａ】以下の蒸気を使用する床置き形及び壁掛け形のコンベクタについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A4005

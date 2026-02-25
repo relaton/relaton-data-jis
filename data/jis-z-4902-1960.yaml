@@ -1,0 +1,75 @@
+---
+id: JISZ49021960
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 室内用放射性廃棄物容器
+- language: en
+  script: Latn
+  content: The bins for solid radioactive waste in door
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4902%3A1960
+docidentifier:
+- content: JIS Z 4902:1960
+  type: JIS
+  primary: true
+docnumber: Z4902
+date:
+- type: issued
+  at: '1977-11-15'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本保安用品協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 放射性物質を取扱う工場，研究所などの事業所の室内において，放射性物質で汚染された固体の廃棄物を一時的に収容する目的で使用する容器について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.280'
+    text: Radiation protection
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4902

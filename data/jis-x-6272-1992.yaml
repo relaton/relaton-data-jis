@@ -1,0 +1,84 @@
+---
+id: JISX62721992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ９０　ｍｍ書換形及び再生専用形光ディスクカートリッジ
+- language: en
+  script: Latn
+  content: 90 mm rewritable and read only optical disk cartridges for information
+    interchange
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6272%3A1992
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06272_000_000_1992_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 6272:1992
+  type: JIS
+  primary: true
+docnumber: X6272
+date:
+- type: issued
+  at: '1992-10-31'
+- type: confirmed
+  at: '2009-10-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　光産業技術振興協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: １．適用範囲及び基準駆動装置の条件　２．データ処理システム間の互換性を保証するための光ディスクカートリッジの機械的特性及び物理的特性　３．再生専用のエンボスデータ及びユーザ記録データの記録フォーマット　４．エンボスデータの特性　５．ユーザ記録データの光磁器特性　６．データ交換のためのデータ品質　以上の事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.220.30
+    text: Optical storage devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6272

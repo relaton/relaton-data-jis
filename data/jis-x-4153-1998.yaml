@@ -1,0 +1,82 @@
+---
+id: JISX41531998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 文書スタイル意味指定言語（ＤＳＳＳＬ）
+- language: en
+  script: Latn
+  content: Information technology -- Processing Languages -- Document Style Semantics
+    and Specification Language (DSSSL)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4153%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04153_000_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 4153:1998
+  type: JIS
+  primary: true
+docnumber: X4153
+date:
+- type: issued
+  at: '1998-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 適合ＳＧＭＬ文書の処理指定を目的。ＤＳＳＳＬは，文書の処理指定を目的とし，変換言語；スタイル言語　の二つの言語に関して，その構文・意味・処理モデルを定義。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4153

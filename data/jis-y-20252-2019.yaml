@@ -1,0 +1,98 @@
+---
+id: JISY202522019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 市場・世論・社会調査及びインサイト・データ分析―用語及びサービス要求事項
+- language: en
+  script: Latn
+  content: Market, opinion and social research, including insights and data analytics
+    -- Vocabulary and service requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Y+20252%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_y_20252_000_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Y 20252:2019
+  type: JIS
+  primary: true
+docnumber: Y20252
+date:
+- type: issued
+  at: '2019-10-21'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本マーケティング・リサーチ協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本マーケティング・リサーチ協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本マーケティング・リサーチ協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: インサイト及びデータ分析を含む市場調査・世論調査・社会調査を行うサービス提供者のサービスに関する，用語及び定義並びにそれらのサービスの要求事項について規定。ダイレクトマーケティングのような非市場調査活動は，この規格の適用範囲外とする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.03
+    text: Services. Company organization, management and quality. Administration.
+      Transport. Sociology. (Vocabularies)
+  - code: '03.020'
+    text: Sociology. Demography
+  - code: 03.100.20
+    text: Trade. Commercial function. Marketing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Y20252

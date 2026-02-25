@@ -1,0 +1,83 @@
+---
+id: JISB10851995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ナットの円すい形保証荷重試験
+- language: en
+  script: Latn
+  content: Cone proof load test on nuts
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1085%3A1995
+docidentifier:
+- content: JIS B 1085:1995
+  type: JIS
+  primary: true
+docnumber: B1085
+date:
+- type: issued
+  at: '1995-04-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ねじ研究協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: "（１）ねじの呼び径ｄ　５～３９ｍｍ　（２）部品等級　Ａ及びＢ　（３）強度区分　８～１２のナットについて，円すい形保証荷重試験の条件のもとでの性質を規定。　"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.060.20
+    text: Nuts
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1085

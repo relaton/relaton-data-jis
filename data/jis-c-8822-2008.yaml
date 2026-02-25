@@ -1,0 +1,88 @@
+---
+id: JISC88222008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 小形固体高分子形燃料電池システムの安全基準
+- language: en
+  script: Latn
+  content: General safety code for small polymer electrolyte fuel cell power systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8822%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08822_000_000_2008_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08822_000_000_2008_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 8822:2008
+  type: JIS
+  primary: true
+docnumber: C8822
+date:
+- type: issued
+  at: '2008-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 定置用及び可搬用の小形固体高分子形燃料電池システムについて，その構造，材料，機能，設置基準，表示・標識，取扱説明書などシステム全般の安全基準，性能維持管理などに必要な事項について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.070'
+    text: Fuel cells
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8822

@@ -1,0 +1,100 @@
+---
+id: JISM88142003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 石炭類及びコークス類―ボンブ熱量計による総発熱量の測定方法及び真発熱量の計算方法
+- language: en
+  script: Latn
+  content: Coal and coke -- Determination of gross calorific value by the bomb calorimetric
+    method, and calculation of net calorific value
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8814%3A2003
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08814_000_000_2003_j_ed10_ch.pdf
+docidentifier:
+- content: JIS M 8814:2003
+  type: JIS
+  primary: true
+docnumber: M8814
+date:
+- type: issued
+  at: '2003-04-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　石炭エネルギーセンター
+        \                                               \r\n                                                                                            一般財団法人　カーボンフロンティア機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　石炭エネルギーセンター
+        \                                               \r\n                                                                                            一般財団法人　カーボンフロンティア機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　石炭エネルギーセンター
+          \                                               \r\n                                                                                            一般財団法人　カーボンフロンティア機構"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 熱量計用安息香酸標準試料又は国際熱量標準安息香酸を燃焼して校正を行ったボンブ熱量計で，定体積，かつ，基準温度を２５℃とする固体鉱物燃料の総発熱量を決定する方法を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.200.10
+    text: Heat. Calorimetry
+  - code: '73.040'
+    text: Coals
+  - code: 75.160.10
+    text: Solid fuels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M8814

@@ -1,0 +1,83 @@
+---
+id: JISZ81101995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 色の表示方法―光源色の色名
+- language: en
+  script: Latn
+  content: Colour specification -- Names of light-source colour
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8110%3A1995
+docidentifier:
+- content: JIS Z 8110:1995
+  type: JIS
+  primary: true
+docnumber: Z8110
+date:
+- type: issued
+  at: '1995-04-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本色彩学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本色彩学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本色彩学会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 光源から発する光の色で，発光しているように知覚される色の名称について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.180.20
+    text: Colours and measurement of light
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8110

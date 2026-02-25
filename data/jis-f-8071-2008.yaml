@@ -1,0 +1,86 @@
+---
+id: JISF80712008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用電気設備―第３５２部：電力系統用ケーブルの選択及び敷設
+- language: en
+  script: Latn
+  content: 'Electrical installations in ships -- Part 352: Choice and installation
+    of electrical cables'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8071%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_08071_000_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS F 8071:2008
+  type: JIS
+  primary: true
+docnumber: F8071
+date:
+- type: issued
+  at: '2008-04-07'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電圧が１５ｋＶ以下の電力系統に用いる船内ケーブルの選択及び敷設に関する基本的要求について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.060.20
+    text: Cables
+  - code: 47.020.60
+    text: Electrical equipment of ships and  of marine structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F8071

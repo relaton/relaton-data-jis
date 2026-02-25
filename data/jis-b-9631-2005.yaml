@@ -1,0 +1,86 @@
+---
+id: JISB96312005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 印刷技術―印刷機システムに対する安全要求事項
+- language: en
+  script: Latn
+  content: Graphic technology -- Safety requirements for printing press systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9631%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09631_000_000_2005_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 9631:2005
+  type: JIS
+  primary: true
+docnumber: B9631
+date:
+- type: issued
+  at: '2005-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本印刷産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本印刷産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本印刷産業機械工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: システム内装置のすべての機械アクチュエータ（例えば駆動）を，同一の制御システムで制御している，補助装置・仕上機械も含む印刷機システムに適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 37.100.10
+    text: Reproduction equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9631

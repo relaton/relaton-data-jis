@@ -1,0 +1,90 @@
+---
+id: JIST33072025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 胆管造影用針
+- language: en
+  script: Latn
+  content: Percutaneous transhepatic cholangiographic needle
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+3307%3A2025
+docidentifier:
+- content: JIS T 3307:2025
+  type: JIS
+  primary: true
+docnumber: T3307
+date:
+- type: issued
+  at: '2025-07-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，経皮経肝的又は直接，胆管をせん（穿）刺し，胆管造影用の造影剤を胆管に手動で注入するために用いる針で，単回使用の胆管造影用針について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.25
+    text: Syringes, needles and catheters
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T3307

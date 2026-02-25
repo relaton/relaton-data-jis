@@ -1,0 +1,81 @@
+---
+id: JISS12051998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家具―テーブル―強度と耐久性の試験方法
+- language: en
+  script: Latn
+  content: Furniture -- Tables -- Determination of strength and durability
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+1205%3A1998
+docidentifier:
+- content: JIS S 1205:1998
+  type: JIS
+  primary: true
+docnumber: S1205
+date:
+- type: issued
+  at: '1998-06-30'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本オフィス家具協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本オフィス家具協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本オフィス家具協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 完全に組み立てられ，使用可能な状態にあるテーブルの，強度と耐久性を評価するための試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '97.140'
+    text: Furniture
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S1205

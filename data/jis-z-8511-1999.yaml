@@ -1,0 +1,84 @@
+---
+id: JISZ85111999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 人間工学―視覚表示装置を用いるオフィス作業―通則
+- language: en
+  script: Latn
+  content: Ergonomics -- Office work with visual display terminals (VDTs) -- General
+    Introduction
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8511%3A1999
+docidentifier:
+- content: JIS Z 8511:1999
+  type: JIS
+  primary: true
+docnumber: Z8511
+date:
+- type: issued
+  at: '1999-05-31'
+- type: confirmed
+  at: '2004-04-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本人間工学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本人間工学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本人間工学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＶＤＴを用いるオフィス作業についての人間工学上の一連の要求事項，利用者の作業のアプローチ指針，現在発行されているもの及び準備されているものの一連の規格の概要，規格の使用方法の指針並びに規格適合性の報告方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.180'
+    text: Ergonomics
+  - code: '35.180'
+    text: IT terminal and other peripheral equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8511

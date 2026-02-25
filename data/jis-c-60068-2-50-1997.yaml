@@ -1,0 +1,79 @@
+---
+id: JISC600682501997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―発熱供試品及び非発熱供試品に対する低温／振動（正弦波）複合試験
+- language: en
+  script: Latn
+  content: 'Basic environmental testing procedures Part 2: Tests Tests Z/AFc: Combined
+    cold/vibration (sinusoidal) tests for both heat-dissipating and non-heat-dissipating
+    specimens'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-50%3A1997
+docidentifier:
+- content: JIS C 60068-2-50:1997
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  at: '1997-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本電子部品信頼性センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本電子部品信頼性センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本電子部品信頼性センター
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気・電子製品に適用し，振動及び低温が複合された条件のもとで，発熱部品及び非発熱部品，装置又は他の製品の使用，保存及び輸送に対する適応性を決めるための，標準的試験方法を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  - code: '19.080'
+    text: Electrical and electronic testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60068

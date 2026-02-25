@@ -1,0 +1,94 @@
+---
+id: JISB11262022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: つば付き六角タッピンねじ
+- language: en
+  script: Latn
+  content: Hexagon washer head tapping screws
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1126%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01126_000_000_2022_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01126_000_000_2022_e_ed10_ch.pdf
+docidentifier:
+- content: JIS B 1126:2022
+  type: JIS
+  primary: true
+docnumber: B1126
+date:
+- type: issued
+  at: '2022-02-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ねじ研究協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ねじ研究協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ねじ研究協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ねじの呼びST2.2～ST8のつば付き六角タッピンねじについて規定。また，一部の形状が対応国際規格に一致していないつば付き六角タッピンねじについても規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.060.10
+    text: Bolts, screws, studs
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1126

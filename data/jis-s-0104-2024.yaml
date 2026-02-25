@@ -1,0 +1,90 @@
+---
+id: JISS01042024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: リコール社告の記載項目及び作成方法
+- language: en
+  script: Latn
+  content: Items and drafting for recall notification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+0104%3A2024
+docidentifier:
+- content: JIS S 0104:2024
+  type: JIS
+  primary: true
+docnumber: S0104
+date:
+- type: issued
+  at: '2024-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           主婦連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           主婦連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           主婦連合会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 製造業者などが自主的にリコールを実施する際のリコール社告の記載項目及びその作成方法について規定。注意喚起及び情報提供だけのリコール社告，直接的な危険はない不都合，物損，アレルギー成分，原産地表示などの誤表示の場合にも適用可能である。また，行政措置によるリコールに適用してもよい。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '01.110'
+    text: Technical product documentation
+  - code: '97.020'
+    text: Home economics in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S0104

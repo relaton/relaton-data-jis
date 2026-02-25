@@ -1,0 +1,92 @@
+---
+id: JIST73222005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療用高圧蒸気滅菌器
+- language: en
+  script: Latn
+  content: High-pressure steam sterilizers for medical use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+7322%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_07322_000_000_2005_j_ed11_ch.pdf
+docidentifier:
+- content: JIS T 7322:2005
+  type: JIS
+  primary: true
+docnumber: T7322
+date:
+- type: issued
+  at: '2005-03-25'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本医療機器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，飽和蒸気又は熱水を用いて医療機器など（被滅菌物）を滅菌する高圧蒸気滅菌器（以下，滅菌器という。）の安全性，性能，試験及び表示に関する要求事項について規定する。ただし，ウォッシャステリライザを含むバイオハザード対応の滅菌器，その他の滅菌器は除く。また，この規格の対象とする滅菌器は，国で定める圧力容器規定に該当する第一種圧力容器（小型圧力容器を除く。）をもつものとする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.080.10
+    text: Sterilizing equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T7322

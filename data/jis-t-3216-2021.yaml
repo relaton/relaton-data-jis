@@ -1,0 +1,96 @@
+---
+id: JIST32162021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 腎ろう（瘻）又はぼうこうろう（膀胱瘻）カテーテル
+- language: en
+  script: Latn
+  content: Tubes and catheters for nephrostomy and cystostomy
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+3216%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03216_000_000_2021_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03216_000_000_2021_e_ed10_ch.pdf
+docidentifier:
+- content: JIS T 3216:2021
+  type: JIS
+  primary: true
+docnumber: T3216
+date:
+- type: issued
+  at: '2021-03-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 経皮的に腎ろう（瘻）又はぼうこうろう（膀胱瘻）を造設して，腎，尿管又はぼうこう（膀胱）に留置し，導尿，造影又は薬液注入に使用するカテーテルについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.25
+    text: Syringes, needles and catheters
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T3216

@@ -1,0 +1,90 @@
+---
+id: JISC606951122025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 火災危険性試験－電気・電子－第１－１２部：電気・電子製品の火災危険性評価指針－火災安全工学
+- language: en
+  script: Latn
+  content: 'Fire hazard testing-Part 1-12: Guidance for assessing the fire hazard
+    of electrotechnical products-Fire safety engineering'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60695-1-12%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60695_001_012_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60695-1-12:2025
+  type: JIS
+  primary: true
+docnumber: C60695
+date:
+- type: issued
+  at: '2025-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，製品規格の作成のための次の事項を含む一般的な指針を示す。\n－\t火災安全工学の原則及び利用に関する説明\n－\t電気・電子製品の設計における火災安全工学の利用に関する指針\n－\t火災安全工学の用語及びコンセプト\n－\t火災安全工学による評価に必要な，特性，データ及び試験の適用\n－\tその他の参考事項"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.220.40
+    text: Ignitability and burning behaviour of materials and products
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60695

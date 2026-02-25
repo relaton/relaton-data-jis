@@ -1,0 +1,84 @@
+---
+id: JISX41611993AMENDMENT12002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: フォント情報交換―第１部：体系（追補１）
+- language: en
+  script: Latn
+  content: 'Information technology -- Font information interchange -- Part 1: Architecture
+    (Amendment 1)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4161%3A1993%2FAMENDMENT+1%3A2002
+docidentifier:
+- content: JIS X 4161:1993/AMENDMENT 1:2002
+  type: JIS
+  primary: true
+docnumber: X4161
+date:
+- type: issued
+  at: '2002-11-30'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4161

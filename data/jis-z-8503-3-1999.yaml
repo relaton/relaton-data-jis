@@ -1,0 +1,85 @@
+---
+id: JISZ850331999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 人間工学―コントロールセンターの設計―第３部：コントロールルームの配置計画
+- language: en
+  script: Latn
+  content: 'Ergonomic design of control centres -- Part 3: Control room layout'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8503-3%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08503_003_000_1999_j_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 8503-3:1999
+  type: JIS
+  primary: true
+docnumber: Z8503
+date:
+- type: issued
+  at: '1999-12-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本人間工学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本人間工学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本人間工学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: コントロールルームの配置計画に関する人間工学的原則について規定。コントロールルームの配置計画，ワークステーションの配置，ワークステーション外視覚表示器の使い方，及びコントロールルーム保守に関する要求事項，推奨事項及び指針を含む。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.180'
+    text: Ergonomics
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8503

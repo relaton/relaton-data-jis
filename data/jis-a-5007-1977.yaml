@@ -1,0 +1,87 @@
+---
+id: JISA50071977
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: パーライト
+- language: en
+  script: Latn
+  content: Perlite
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5007%3A1977
+docidentifier:
+- content: JIS A 5007:1977
+  type: JIS
+  primary: true
+docnumber: A5007
+date:
+- type: issued
+  at: '1977-09-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 軽量骨材として，又は断熱材及び吸音材の原材料などとして使用されるパーライトについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.15
+    text: Mineral materials and products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5007

@@ -1,0 +1,95 @@
+---
+id: JISC036477122025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧電気設備－第７－７１２部：特殊設備又は特殊場所に関する要求事項－太陽光発電設備
+- language: en
+  script: Latn
+  content: 'Low voltage electrical installations-Part 7-712: Requirements for special
+    installations or locations-Solar photovoltaic (PV) power supply installations'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0364-7-712%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00364_007_712_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 0364-7-712:2025
+  type: JIS
+  primary: true
+docnumber: C0364
+date:
+- type: issued
+  at: '2025-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，設備の全体又は一部への電力の供給を意図したPVシステムの電気設備について規定する。
+    PV設備の機器は，全ての他の機器の場合と同様に，設備内で選定及び適用に関係するところだけを取り扱う。
+    PV設備は，PVモジュール又はPVモジュール製造業者が提供するケーブルで直列接続した一組のPVモジュールから始まり，使用者設備又は公共電力供給点（共通接続点）までである。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: 91.140.50
+    text: Electricity supply systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0364

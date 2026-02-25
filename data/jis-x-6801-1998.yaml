@@ -1,0 +1,83 @@
+---
+id: JISX68011998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 同期スプリット転送形システムバス（ＳＴｂｕｓ）―論理仕様
+- language: en
+  script: Latn
+  content: Synchronous split transfer type system bus (STbus) -- Logical layer
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6801%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06801_000_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 6801:1998
+  type: JIS
+  primary: true
+docnumber: X6801
+date:
+- type: issued
+  at: '1998-04-30'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 高性能，高信頼なシステムバスであるＳＴｂｕｓの論理仕様を規定。ＳＴｂｕｓは高速クロックに同期した転送方式と，バスの無効保管時間を削減しバスを効率良く使用できるスプリット転送方式を採用。次の内容を規定：システムバス信号の規定；バスオペレーションの種別と転送プロトコル；コピーバックキャッシュのコヒーレンシ制御機能（共有メモリの内容と各プロセッサの内の個別メモリの内容との整合性を保証する機能）；パリティチェック機能や信号の２重化構成による障害検出機能
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.160'
+    text: Microprocessor systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6801

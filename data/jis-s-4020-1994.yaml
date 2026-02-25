@@ -1,0 +1,75 @@
+---
+id: JISS40201994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 洋がさ
+- language: en
+  script: Latn
+  content: Umbrella
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+4020%3A1994
+docidentifier:
+- content: JIS S 4020:1994
+  type: JIS
+  primary: true
+docnumber: S4020
+date:
+- type: issued
+  at: '1994-10-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 通商産業省製品評価技術センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 通商産業省製品評価技術センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 通商産業省製品評価技術センター
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 洋がさについて規定。ビーチパラソル，日がさなど特殊用途に使用するもの及び学童用がさを除く。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '61.040'
+    text: Headgear. Clothing accessories. Fastening of clothing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S4020

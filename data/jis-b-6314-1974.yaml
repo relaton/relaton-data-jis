@@ -1,0 +1,76 @@
+---
+id: JISB63141974
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 数値制御工作機械の準備機能（Ｇ機能）及び補助機能（Ｍ機能）の符号
+- language: en
+  script: Latn
+  content: Coding of preparatory functions G and miscellaneous functions M for numerical
+    control of machines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6314%3A1974
+docidentifier:
+- content: JIS B 6314:1974
+  type: JIS
+  primary: true
+docnumber: B6314
+date:
+- type: issued
+  at: '1974-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本工作機械工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 数値制御工作機械用のせん孔テープのブロックフォーマットに用いる場合の準備機能及び補助機能の符号について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.20
+    text: Numerically controlled machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6314

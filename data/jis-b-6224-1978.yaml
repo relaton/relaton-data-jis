@@ -1,0 +1,75 @@
+---
+id: JISB62241978
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ジグ中ぐり盤の試験及び検査方法
+- language: en
+  script: Latn
+  content: Jig boring machines -- Test conditions for accuracy
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6224%3A1978
+docidentifier:
+- content: JIS B 6224:1978
+  type: JIS
+  primary: true
+docnumber: B6224
+date:
+- type: issued
+  at: '1978-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　６１９１及びＢ　６１９２に基づいて，テーブルのＸ軸方向の移動量が１６００ｍｍ以下の門形及び単柱形の立て形ジク中ぐり盤の静的精度検査，位置決め精度検査及び工作精度検査について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.080.20
+    text: Boring and milling machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6224

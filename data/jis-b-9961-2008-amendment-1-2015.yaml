@@ -1,0 +1,82 @@
+---
+id: JISB99612008AMENDMENT12015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械類の安全性―安全関連の電気・電子・プログラマブル電子制御システムの機能安全（追補１）
+- language: en
+  script: Latn
+  content: Safety of machinery -- Functional safety of safety-related electrical,
+    electronic and programmable electronic control systems (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9961%3A2008%2FAMENDMENT+1%3A2015
+docidentifier:
+- content: JIS B 9961:2008/AMENDMENT 1:2015
+  type: JIS
+  primary: true
+docnumber: B9961
+date:
+- type: issued
+  at: '2015-11-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械工業連合会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: 25.040.99
+    text: Other industrial automation systems
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9961

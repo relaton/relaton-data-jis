@@ -1,0 +1,75 @@
+---
+id: JIST91011975
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療用薄ゴムシート
+- language: en
+  script: Latn
+  content: Rubber sheet for medical purposes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9101%3A1975
+docidentifier:
+- content: JIS T 9101:1975
+  type: JIS
+  primary: true
+docnumber: T9101
+date:
+- type: issued
+  at: '1982-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ゴム協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ゴム協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ゴム協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 生理バンド，おしめカバーなどの製造材料として使用する薄ゴムシート及びその他医療用に使用する薄ゴムシートについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.120.20
+    text: Wound dressings and compresses
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9101

@@ -1,0 +1,75 @@
+---
+id: JISF84041963
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用表示燈ガラスグローブ
+- language: en
+  script: Latn
+  content: Glass globes for marine indicator lamps
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8404%3A1963
+docidentifier:
+- content: JIS F 8404:1963
+  type: JIS
+  primary: true
+docnumber: F8404
+date:
+- type: issued
+  at: '1971-10-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本造船研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本造船研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本造船研究協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 船内で使用する表示燈および信号燈などに用いるガラスグローブについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.60
+    text: Electrical equipment of ships and  of marine structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F8404

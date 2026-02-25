@@ -1,0 +1,100 @@
+---
+id: JISB754722020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 圧力計の特性試験方法及び校正方法―第２部：高圧気体用
+- language: en
+  script: Latn
+  content: 'Procedures of characterization and calibration for pressure gauges --
+    Part 2: High-pressure gases'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7547-2%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07547_002_000_2020_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07547_002_000_2020_e_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7547-2:2020
+  type: JIS
+  primary: true
+docnumber: B7547
+date:
+- type: issued
+  at: '2020-07-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所
+        \                                               \r\n                                                                                            一般社団法人　日本計量機器工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所
+        \                                               \r\n                                                                                            一般社団法人　日本計量機器工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           国立研究開発法人　産業技術総合研究所
+          \                                               \r\n                                                                                            一般社団法人　日本計量機器工業連合会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 圧力計の校正，試験，検査などにおいて標準器として使用する高圧気体用圧力計の特性試験方法及び校正方法のうち，液体圧力で校正を受けた標準器を用いる方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.100'
+    text: Measurement of force, weight and pressure
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7547

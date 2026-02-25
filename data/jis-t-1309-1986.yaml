@@ -1,0 +1,75 @@
+---
+id: JIST13091986
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 臨床用多用途記録監視装置
+- language: en
+  script: Latn
+  content: Polygraphs for clinical use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1309%3A1986
+docidentifier:
+- content: JIS T 1309:1986
+  type: JIS
+  primary: true
+docnumber: T1309
+date:
+- type: issued
+  at: '1986-12-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 臨床診断の目的で，同時に複数の生体現象を計測，記録及び観測・監視することができる臨床用多用途記録監視装置について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.55
+    text: Diagnostic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T1309

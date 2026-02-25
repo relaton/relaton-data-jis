@@ -1,0 +1,94 @@
+---
+id: JISX250412015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: システム及びソフトウェア製品の品質要求及び評価（ＳＱｕａＲＥ）―開発者，取得者及び独立した評価者のための評価手引
+- language: en
+  script: Latn
+  content: Systems and software engineering -- Systems and software Quality Requirements
+    and Evaluation (SQuaRE) -- Evaluation guide for developers, acquirers and independent
+    evaluators
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+25041%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_25041_000_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 25041:2015
+  type: JIS
+  primary: true
+docnumber: X25041
+date:
+- type: issued
+  at: '2015-03-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 特に開発者，取得者及び独立した評価者に，製品品質評価の要求事項，推奨事項及び指針を提供。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X25041

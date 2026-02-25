@@ -1,0 +1,84 @@
+---
+id: JISC6228251002020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 燃料電池技術―第５－１００部：可搬形燃料電池発電システム―安全性
+- language: en
+  script: Latn
+  content: 'Fuel cell technologies -- Part 5-100: Portable fuel cell power systems
+    -- Safety'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+62282-5-100%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_62282_005_100_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 62282-5-100:2020
+  type: JIS
+  primary: true
+docnumber: C62282
+date:
+- type: issued
+  at: '2020-03-23'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 発電を目的とし，定格出力電圧が交流６００Ｖ以下又は直流８５０　Ｖ以下の，屋内又は屋外において，特定の場所で固定して使用しない可搬形燃料電池発電システムの安全性に関する要求事項及びその試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.070'
+    text: Fuel cells
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C62282

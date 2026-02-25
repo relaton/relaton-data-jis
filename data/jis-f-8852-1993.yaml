@@ -1,0 +1,75 @@
+---
+id: JISF88521993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用計器照明灯光度加減器
+- language: en
+  script: Latn
+  content: Dimmers for marine instrument illumination
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8852%3A1993
+docidentifier:
+- content: JIS F 8852:1993
+  type: JIS
+  primary: true
+docnumber: F8852
+date:
+- type: issued
+  at: '1993-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　日本船舶標準協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　日本船舶標準協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 財団法人　日本船舶標準協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 船用計器の文字板，指針などの照明に用いる電球及びＥＬ板の光度を加減する可変抵抗式光度加減器について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.60
+    text: Electrical equipment of ships and  of marine structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F8852

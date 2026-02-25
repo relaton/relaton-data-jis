@@ -1,0 +1,85 @@
+---
+id: JISL02141983
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 繊維用語（レース部門）
+- language: en
+  script: Latn
+  content: Glossary of terms used in lace
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+L+0214%3A1983
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_l_00214_000_000_1983_j_pr10_i4.pdf
+docidentifier:
+- content: JIS L 0214:1983
+  type: JIS
+  primary: true
+docnumber: L0214
+date:
+- type: issued
+  at: '1983-09-30'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　繊維評価技術協議会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　繊維評価技術協議会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　繊維評価技術協議会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 繊維工業において，レース部門に用いる用語について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.59
+    text: Textile and leather technology (Vocabularies)
+  - code: 59.080.30
+    text: Textile fabrics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: L0214

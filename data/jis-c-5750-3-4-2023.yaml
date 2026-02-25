@@ -1,0 +1,92 @@
+---
+id: JISC5750342023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 総合信頼性マネジメント―第３－４部：適用の指針―総合信頼性要求事項の仕様
+- language: en
+  script: Latn
+  content: 'Dependability management -- Part 3-4: Application guide -- Specification
+    of dependability requirements'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5750-3-4%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05750_003_004_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 5750-3-4:2023
+  type: JIS
+  primary: true
+docnumber: C5750
+date:
+- type: issued
+  at: '2023-08-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 総合信頼性の要求事項の達成をアシュアランスする手段の一覧を示すとともに，総合信頼性の要求事項を規定し，その要求事項を仕様にまとめるための指針について示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.100.40
+    text: Research and development
+  - code: 03.120.01
+    text: Quality in general
+  - code: '31.020'
+    text: Electronic components in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5750

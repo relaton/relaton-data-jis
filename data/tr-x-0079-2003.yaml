@@ -1,0 +1,75 @@
+---
+id: TRX00792003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 血管パターン認証システムの精度評価方法
+- language: en
+  script: Latn
+  content: Evaluation Method for Accuracy of Vein Authentication Systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0079%3A2003
+docidentifier:
+- content: TR X 0079:2003
+  type: JIS
+  primary: true
+docnumber: X0079
+date:
+- type: issued
+  at: '2003-04-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 対象となる血管パターン認証システムとは，「あらかじめ登録した血管パターンの登録データと，ユーザが登録者であることを主張してあらたに入力する血管パターンを比較し，両血管パターンの類似度ないし，距離を算出するアルゴリズム，又は照合装置及び血管パターンは一致したか否かを判定するシステム」とする。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '13.310'
+    text: Protection against crime
+  - code: 35.240.99
+    text: IT applications in other fields
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0079

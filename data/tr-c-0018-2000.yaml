@@ -1,0 +1,79 @@
+---
+id: TRC00182000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 静電気放電（ＥＳＤ）に関する用語
+- language: en
+  script: Latn
+  content: Glossary of Terms used in Electrostatic Discharge (ESD)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0018%3A2000
+docidentifier:
+- content: TR C 0018:2000
+  type: JIS
+  primary: true
+docnumber: C0018
+date:
+- type: issued
+  at: '2001-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子部品（デバイス），電子機器及びシステムにおけるＥＳＤによる障害から保護するための評価方法，対策方法並びに静電気保護対策用資材等の分野で用いる主要な用語と定義について規定。安全問題にかかわる静電気対策用資材の可燃性に関する用語と定義についても規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 01.040.13
+    text: Environment. Health protection. Safety (Vocabularies)
+  - code: 01.040.31
+    text: Electronics (Vocabularies)
+  - code: '13.260'
+    text: Protection against electric shock.  Live working
+  - code: '31.190'
+    text: Electronic component assemblies
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0018

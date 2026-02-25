@@ -1,0 +1,94 @@
+---
+id: JIST71112020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療ガスホースアセンブリ
+- language: en
+  script: Latn
+  content: Hose assemblies for use with medical gas systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+7111%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_07111_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 7111:2020
+  type: JIS
+  primary: true
+docnumber: T7111
+date:
+- type: issued
+  at: '2020-03-01'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業・医療ガス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業・医療ガス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本産業・医療ガス協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 医療ガスを使用するための低圧ホースに関する要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.10
+    text: Anaesthetic, respiratory and reanimation equipment
+  - code: 83.140.40
+    text: Hoses
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T7111

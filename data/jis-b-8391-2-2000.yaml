@@ -1,0 +1,84 @@
+---
+id: JISB839122000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: エアドライヤ―第２部：性能等級
+- language: en
+  script: Latn
+  content: 'Compressed air dryers -- Part 2: Performance rating'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8391-2%3A2000
+docidentifier:
+- content: JIS B 8391-2:2000
+  type: JIS
+  primary: true
+docnumber: B8391
+date:
+- type: issued
+  at: '2000-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本フルードパワー工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 使用者及び技術者がエアドライヤを選定する場合の一般的な情報について規定。安全に関する要求事項は含まれない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.140'
+    text: Compressors and pneumatic machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8391

@@ -1,0 +1,90 @@
+---
+id: JISC61757222025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光ファイバセンサ－第２－２部：温度測定－分布型センシング
+- language: en
+  script: Latn
+  content: 'Fiber optic sensors-Part 2-2: Temperature measurement-Distributed sensing'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61757-2-2%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61757_002_002_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61757-2-2:2025
+  type: JIS
+  primary: true
+docnumber: C61757
+date:
+- type: issued
+  at: '2025-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，分布型光ファイバ温度センサ（Distributed temperature sensor，DTS）としても知られる光ファイバセンサによる温度分布測定の詳細仕様について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.99
+    text: Other fibre optic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61757

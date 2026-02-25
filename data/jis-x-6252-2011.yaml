@@ -1,0 +1,93 @@
+---
+id: JISX62522011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: １２０ｍｍ（８．５４Ｇｂｙｔｅｓ／面）及び８０ｍｍ（２．６６Ｇｂｙｔｅｓ／面）２層ＤＶＤレコーダブルディスク（ＤＶＤ－Ｒ　ｆｏｒ　ＤＬ）
+- language: en
+  script: Latn
+  content: Information technology -- 120 mm (8.54 Gbytes per side) and 80 mm (2.66
+    Gbytes per side) DVD recordable disk for dual layer (DVD-R for DL)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6252%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06252_000_000_2011_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 6252:2011
+  type: JIS
+  primary: true
+docnumber: X6252
+date:
+- type: issued
+  at: '2011-09-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ８０ｍｍ及び１２０ｍｍの２層ＤＶＤレコーダブルディスクの互換性を可能にする機械的特性，物理的特性及び光学的特性について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.220.30
+    text: Optical storage devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6252

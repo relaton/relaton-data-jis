@@ -1,0 +1,92 @@
+---
+id: JISC810512021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 照明器具―第１部：安全性要求事項通則
+- language: en
+  script: Latn
+  content: 'Luminaires-Part 1: General requirements for safety'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8105-1%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08105_001_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8105-1:2021
+  type: JIS
+  primary: true
+docnumber: C8105
+date:
+- type: issued
+  at: '2021-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本照明工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気光源（例　白熱電球，蛍光ランプ，その他の放電ランプ，ＬＥＤ光源などの電子発光体）を用いる照明器具であって，電源電圧が1　０００　Ｖ以下で使用するものに適用する。照明器具の分類，表示，機械的構造，電気的構造及び光生物学的安全性に関する要求事項及び関連する試験について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: 29.140.40
+    text: Luminaires
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8105

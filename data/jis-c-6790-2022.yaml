@@ -1,0 +1,90 @@
+---
+id: JISC67902022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ボルト締めランジュバン型超音波振動子の電力計法による負荷試験方法
+- language: en
+  script: Latn
+  content: Load test of a bolt-clamped Langevin vibrator using wattmeter method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6790%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06790_000_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 6790:2022
+  type: JIS
+  primary: true
+docnumber: C6790
+date:
+- type: issued
+  at: '2022-02-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           超音波工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           超音波工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           超音波工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ボルト締めランジュバン型超音波振動子の実用振幅及び実用負荷の状態における特性を電力計法で測定し，算出する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.080.99
+    text: Other semiconductor devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6790

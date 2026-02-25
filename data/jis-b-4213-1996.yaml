@@ -1,0 +1,83 @@
+---
+id: JISB42131996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ストレートシャンク台形ランナエンドミル
+- language: en
+  script: Latn
+  content: Tapered end mills for trapeziform runner with parallel shanks
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+4213%3A1996
+docidentifier:
+- content: JIS B 4213:1996
+  type: JIS
+  primary: true
+docnumber: B4213
+date:
+- type: issued
+  at: '1996-12-31'
+- type: confirmed
+  at: '2007-04-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工具工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工具工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械工具工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 金型のランナを加工するために使用する小端外径２ｍｍ以上，１２ｍｍ以下，テーパ半角が７°，１０°，１２°，１５°である，ストレートシャンク台形ランナエンドミルについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.100.20
+    text: Milling tools
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B4213

@@ -1,0 +1,97 @@
+---
+id: JISB185722015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 一般用円弧歯形歯付ベルト伝動―第２部：プーリ
+- language: en
+  script: Latn
+  content: 'Curvilinear toothed synchronous belt drive systems for general power transmission
+    -- Part 2: Pulley'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1857-2%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01857_002_000_2015_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01857_002_000_2015_e_ed10_ch.pdf
+docidentifier:
+- content: JIS B 1857-2:2015
+  type: JIS
+  primary: true
+docnumber: B1857
+date:
+- type: issued
+  at: '2015-03-20'
+- type: confirmed
+  at: '2019-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本ベルト工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本ベルト工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本ベルト工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　１８５７－１に規定する円弧歯形歯付ベルトとかみ合う歯付プーリについて規定。自動車用歯付プーリは除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.220.10
+    text: Belt drives and their components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1857

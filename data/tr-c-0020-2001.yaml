@@ -1,0 +1,76 @@
+---
+id: TRC00202001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 住宅用結晶系太陽電池モジュール・アレイ（屋根置き形）
+- language: en
+  script: Latn
+  content: Crystalline solar cell module and array for residential use (roof mount
+    type)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0020%3A2001
+docidentifier:
+- content: TR C 0020:2001
+  type: JIS
+  primary: true
+docnumber: C0020
+date:
+- type: issued
+  at: '2001-07-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 出力２０ｋＷ未満の住宅用太陽光発電システムの用に供する結晶系太陽電池モジュール及びアレイのうち，陸屋根又は勾配屋根に設置するものについて，保有しなければならない構造的・電気的な互換性を持たせるための標準を規定。屋根葺材など建材としての機能を持つモジュール・アレイについては除く。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  - code: '97.030'
+    text: Domestic electrical appliances in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0020

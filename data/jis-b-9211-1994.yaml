@@ -1,0 +1,81 @@
+---
+id: JISB92111994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 農業機械用結束ひも
+- language: en
+  script: Latn
+  content: Agricultural machinery -- Twines for binders
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9211%3A1994
+docidentifier:
+- content: JIS B 9211:1994
+  type: JIS
+  primary: true
+docnumber: B9211
+date:
+- type: issued
+  at: '1994-09-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本農業機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本農業機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本農業機械工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 農業機械（結束形動力刈取機，コンバイン，自動脱穀機など）に用いる結束ひもについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 65.060.50
+    text: Harvesting equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9211

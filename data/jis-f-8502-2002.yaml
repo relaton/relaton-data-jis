@@ -1,0 +1,77 @@
+---
+id: JISF85022002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用ブザー
+- language: en
+  script: Latn
+  content: Shipbuilding -- Electric buzzers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8502%3A2002
+docidentifier:
+- content: JIS F 8502:2002
+  type: JIS
+  primary: true
+docnumber: F8502
+date:
+- type: issued
+  at: '2002-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 船内で信号及び警報に用いるブザーについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.320'
+    text: Alarm and warning systems
+  - code: 47.020.70
+    text: Navigation and control equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F8502

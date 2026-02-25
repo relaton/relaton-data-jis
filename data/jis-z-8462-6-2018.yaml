@@ -1,0 +1,93 @@
+---
+id: JISZ846262018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 測定方法の検出能力―第６部：測定値がポアソン分布に従う場合の限界値及び検出可能な最小値を正規分布近似によって求める方法
+- language: en
+  script: Latn
+  content: 'Capability of detection -- Part 6: Methodology for the determination of
+    the critical value and the minimum detectable value in Poisson distributed measurements
+    by normal approximations'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8462-6%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08462_006_000_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8462-6:2018
+  type: JIS
+  primary: true
+docnumber: Z8462
+date:
+- type: issued
+  at: '2018-02-20'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 測定値がポアソン分布に従う測定において，応答変数の限界値及び検出可能な最小値の求め方について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.30
+    text: Application of statistical methods
+  - code: '17.020'
+    text: Metrology and measurement in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8462

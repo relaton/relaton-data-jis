@@ -1,0 +1,91 @@
+---
+id: JISC6176032022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 表面実装技術―第３部：スルーホールリフロー（ＴＨＲ）はんだ付け用の部品規格作成の標準的な方法（要求事項）
+- language: en
+  script: Latn
+  content: 'Surface mounting technology -- Part 3: Standard method for the specification
+    of components for through-hole reflow (THR) soldering'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61760-3%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61760_003_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61760-3:2022
+  type: JIS
+  primary: true
+docnumber: C61760
+date:
+- type: issued
+  at: '2022-08-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: スルーホールリフローはんだ付け技術を用いることを意図した電子部品の，部品規格を作成する場合に引用する，一連の要求事項，工程条件及び関連する試験条件について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '31.190'
+    text: Electronic component assemblies
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61760

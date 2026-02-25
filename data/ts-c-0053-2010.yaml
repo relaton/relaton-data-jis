@@ -1,0 +1,76 @@
+---
+id: TSC00532010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＣＩＳ系太陽電池出力電圧・出力電流の温度係数測定方法
+- language: en
+  script: Latn
+  content: Temperature coefficient measuring methods of output voltage and output
+    current for CIS solar cells and modules
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+C+0053%3A2010
+docidentifier:
+- content: TS C 0053:2010
+  type: JIS
+  primary: true
+docnumber: C0053
+date:
+- type: issued
+  at: '2010-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　光産業技術振興協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＴＳ　Ｃ　００５０に規定するＣＩＳ系太陽電池測定用ソーラシミュレータを用いて，発電を目的とする平面形・非集光形の地上用ＣＩＳ系太陽電池セル，地上用CIS系太陽電池サブモジュール及び地上用ＣＩＳ系太陽電池モジュールの出力電圧・出力電流の温度係数を測定及び算出する方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0053

@@ -1,0 +1,74 @@
+---
+id: JIST09232009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高齢者・障害者配慮設計指針―点字の表示原則及び点字表示方法―消費生活製品の操作部
+- language: en
+  script: Latn
+  content: Guidelines for older persons and persons with disabilities -- Methods of
+    displaying braille sign -- Consumer products
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0923%3A2009
+docidentifier:
+- content: JIS T 0923:2009
+  type: JIS
+  primary: true
+docnumber: T0923
+date:
+- type: issued
+  at: '2009-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益財団法人　共用品推進機構
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益財団法人　共用品推進機構
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益財団法人　共用品推進機構
+      type: technical-committee
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.120'
+    text: Domestic safety
+  - code: '97.020'
+    text: Home economics in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T0923

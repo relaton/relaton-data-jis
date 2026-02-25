@@ -1,0 +1,97 @@
+---
+id: JISC61800522019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 可変速駆動システム（ＰＤＳ）―第５－２部：安全要求事項―機能安全
+- language: en
+  script: Latn
+  content: 'Adjustable speed electrical power drive systems -- Part 5-2: Safety requirements
+    -- Functional'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61800-5-2%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61800_005_002_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61800-5-2:2019
+  type: JIS
+  primary: true
+docnumber: C61800
+date:
+- type: issued
+  at: '2019-10-21'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 製品の規格であり，機能安全の考慮事項の観点から安全関連駆動システム［ＰＤＳ（ＳＲ）：Ｓａｆｅｔｙ　Ｒｅｌａｔｅｄ　Ｐｏｗｅｒ　Ｄｒｉｖｅ　Ｓｙｓｔｅｍ］の設計・開発，統合，及び妥当性確認のための要求事項並びに推奨事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: 29.130.99
+    text: Other switchgear and controlgear
+  - code: '29.200'
+    text: Rectifiers. Converters. Stabilized power supply
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61800

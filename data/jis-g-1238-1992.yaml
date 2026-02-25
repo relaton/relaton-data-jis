@@ -1,0 +1,76 @@
+---
+id: JISG12381992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄及び鋼　―　クロムの定量方法　―　電位差又は目視滴定法
+- language: en
+  script: Latn
+  content: Steel and iron -- Determination of chromium content -- Potentiometric or
+    visual titration method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+1238%3A1992
+docidentifier:
+- content: JIS G 1238:1992
+  type: JIS
+  primary: true
+docnumber: G1238
+date:
+- type: issued
+  at: '1992-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄及び鋼中のクロムを電位差又は目視滴定法によって定量する方法について規定。クロム含有率０．２５％（ｍ／ｍ）～３５％（ｍ／ｍ）の範囲のものに適用。もし，バナジウムが共存する場合は，目視滴定ははかり取った試料中にバナジウムが３ｍｇ以下含有する場合にだけ適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.080.01
+    text: Ferrous metals in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G1238

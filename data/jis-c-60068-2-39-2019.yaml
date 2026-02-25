@@ -1,0 +1,90 @@
+---
+id: JISC600682392019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―第２－３９部：減圧下の温度又は温湿度複合試験及び指針
+- language: en
+  script: Latn
+  content: 'Environmental testing -- Part 2-39: Tests -- Tests and guidance: Combined
+    temperature or temperature and humidity with low air pressure tests'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-39%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_039_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60068-2-39:2019
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  at: '2019-03-20'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 減圧下における温度条件及び温湿度の複合条件で実施する，電気・電子部品又は装置の環境試験方法及び指針について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60068

@@ -1,0 +1,84 @@
+---
+id: JISZ46201999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: アフタローディング式治療装置―安全
+- language: en
+  script: Latn
+  content: Particular requirements for the safety of remote-controlled afterloading
+    therapy equipment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4620%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04620_000_000_1999_j_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 4620:1999
+  type: JIS
+  primary: true
+docnumber: Z4620
+date:
+- type: issued
+  at: '1999-12-31'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本画像医療システム工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本画像医療システム工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本画像医療システム工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: アフタローディング法によって，人体に対してガンマ線治療を行う遠隔操作自動駆動式機器の安全に関する要求事項を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.50
+    text: Radiographic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4620

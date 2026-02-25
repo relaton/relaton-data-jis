@@ -1,0 +1,96 @@
+---
+id: JISM01032020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ボーリング用機械・器具用語
+- language: en
+  script: Latn
+  content: Glossary of terms for drilling equipments and tools
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+0103%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_00103_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS M 0103:2020
+  type: JIS
+  primary: true
+docnumber: M0103
+date:
+- type: issued
+  at: '2020-11-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本産業機械工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 地質調査，地下資源調査，地下資源開発，グラウトホール，基礎くい（杭）などにおいて地中をせん（穿）孔する機械であって，主としてビットを地盤に押し付けて回転掘削を行う構造のボーリング用機械及び器具の用語及び定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.73
+    text: Mining and minerals (Vocabularies)
+  - code: '73.100'
+    text: Mining equipment
+  - code: '91.220'
+    text: Construction equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M0103

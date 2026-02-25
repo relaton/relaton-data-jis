@@ -1,0 +1,75 @@
+---
+id: JISS30171982
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: しん式石油ふろがま
+- language: en
+  script: Latn
+  content: Wick feed type oil firing bath boilers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3017%3A1982
+docidentifier:
+- content: JIS S 3017:1982
+  type: JIS
+  primary: true
+docnumber: S3017
+date:
+- type: issued
+  at: '1982-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　日本燃焼器具検査協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　日本燃焼器具検査協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 財団法人　日本燃焼器具検査協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 灯油又は軽油を燃料とし，燃料消費量が１８００ｇ／ｈ以下で，屋内の浴室外で使用する外がま式の半密閉式自然通気形のしん式石油ふろがまについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.060'
+    text: Burners. Boilers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S3017

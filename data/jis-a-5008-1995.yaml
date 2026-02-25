@@ -1,0 +1,81 @@
+---
+id: JISA50081995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 舗装用石灰石粉
+- language: en
+  script: Latn
+  content: Limestone filler for bituminous paving mixtures
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5008%3A1995
+docidentifier:
+- content: JIS A 5008:1995
+  type: JIS
+  primary: true
+docnumber: A5008
+date:
+- type: issued
+  at: '1995-11-30'
+- type: confirmed
+  at: '2001-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石灰石鉱業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石灰石鉱業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 石灰石鉱業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 歴青舗装に用いる石灰石の石粉について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 93.080.20
+    text: Road construction materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5008

@@ -1,0 +1,75 @@
+---
+id: JISB71601988
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: オーバーヘッド映写機
+- language: en
+  script: Latn
+  content: Overhead projectors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7160%3A1988
+docidentifier:
+- content: JIS B 7160:1988
+  type: JIS
+  primary: true
+docnumber: B7160
+date:
+- type: issued
+  at: '1988-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本映画テレビ技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本映画テレビ技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本映画テレビ技術協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 会議，講習会などで用いる透過形オーバーヘッド映写機について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 37.040.10
+    text: Photographic equipment. Projectors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7160

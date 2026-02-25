@@ -1,0 +1,86 @@
+---
+id: JISM88171984
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 石炭類の形態別硫黄の定量方法
+- language: en
+  script: Latn
+  content: Methods for determination of forms of sulfur in coal
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8817%3A1984
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08817_000_000_1984_j_pr10_i4.pdf
+docidentifier:
+- content: JIS M 8817:1984
+  type: JIS
+  primary: true
+docnumber: M8817
+date:
+- type: issued
+  at: '1984-10-31'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　石炭エネルギーセンター                                                \r\n
+        \                                                                                           一般財団法人　石炭フロンティア機構"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　石炭エネルギーセンター                                                \r\n
+        \                                                                                           一般財団法人　石炭フロンティア機構"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　石炭エネルギーセンター                                                \r\n
+          \                                                                                           一般財団法人　石炭フロンティア機構"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 石炭類の形態別硫黄分析方法について規定。形態別硫黄分析とは，全硫黄，硫酸塩硫黄，黄鉄鉱硫黄を定量し，併せて有機硫黄を算出することをいう。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '73.040'
+    text: Coals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M8817

@@ -1,0 +1,94 @@
+---
+id: JISA501122016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: コンクリート用スラグ骨材―第２部：フェロニッケルスラグ骨材
+- language: en
+  script: Latn
+  content: 'Slag aggregate for concrete -- Part 2: Ferronickel slag aggregate'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5011-2%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05011_002_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 5011-2:2016
+  type: JIS
+  primary: true
+docnumber: A5011
+date:
+- type: issued
+  at: '2016-04-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本鉱業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本鉱業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本鉱業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: コンクリートに使用するフェロニッケルスラグ骨材について規定。高温高圧養生（オートクレーブ養生）を行うコンクリート用は除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.15
+    text: Mineral materials and products
+  - code: 91.100.99
+    text: Other construction materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5011

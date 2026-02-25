@@ -1,0 +1,89 @@
+---
+id: JISC22502008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気絶縁用マイカ製品通則
+- language: en
+  script: Latn
+  content: General rules for electrical insulating mica products
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2250%3A2008
+docidentifier:
+- content: JIS C 2250:2008
+  type: JIS
+  primary: true
+docnumber: C2250
+date:
+- type: issued
+  at: '2008-02-20'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: はがしマイカ又は集成マイカを主な材料とする，マイカ製品に関する用語及びその定義並びに一般要求事項及び供給の状態について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.035.50
+    text: Mica based materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2250

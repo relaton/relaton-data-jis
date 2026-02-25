@@ -1,0 +1,83 @@
+---
+id: JISB85712022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ガスメーター
+- language: en
+  script: Latn
+  content: Gas meters
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8571%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08571_000_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8571:2022
+  type: JIS
+  primary: true
+docnumber: B8571
+date:
+- type: issued
+  at: '2022-05-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本計量機器工業連合会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: エネルギー源として使用するガスの体積を計量するガスメーターについて規定。エネルギー源として使用するガスとは，石炭ガス，コークスガス，油ガス，ナフサガス，天然ガス，石油ガス，オフガス，バイオガス又はこれらの混合ガス（空気で希釈されたものを含む。）をいう。口径２５０　ｍｍ以下（実測湿式ガスメーターを除く。）であって，使用最大圧力１０　kＰａ以下のガスメーターは，附属書ＪＡに規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.30
+    text: Measuring instruments
+  - code: 91.140.40
+    text: Gas supply systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8571

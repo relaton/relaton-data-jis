@@ -1,0 +1,93 @@
+---
+id: JISX05232007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: バーコードのディジタル方式画像化及び印刷性能試験
+- language: en
+  script: Latn
+  content: Information technology -- Automatic identification and data capture techniques
+    -- Bar code digital imaging and printing performance testing
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0523%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00523_000_000_2007_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0523:2007
+  type: JIS
+  primary: true
+docnumber: X0523
+date:
+- type: issued
+  at: '2007-02-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動認識システム協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動認識システム協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本自動認識システム協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: バーコードのディジタル方式画像化システムの特性及び分類について規定し，制御が求められる各システムの特性を明らかにして，それらの最小要件を規定。ここでは，これらの特性がこの規格に適合しているのかを評価するための試験方法についても規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0523

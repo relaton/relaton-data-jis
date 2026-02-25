@@ -1,0 +1,75 @@
+---
+id: JISB84051995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧空気式油バーナ
+- language: en
+  script: Latn
+  content: Low pressure air atomizing oil burners
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8405%3A1995
+docidentifier:
+- content: JIS B 8405:1995
+  type: JIS
+  primary: true
+docnumber: B8405
+date:
+- type: issued
+  at: '1995-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工業炉協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工業炉協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本工業炉協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業炉，ボイラなどに使用する燃焼量１８０ｋｇ／ｈ以下の低圧空気式油バーナについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 27.060.10
+    text: Liquid and solid fuel burners
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8405

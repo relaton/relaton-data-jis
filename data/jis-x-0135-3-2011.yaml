@@ -1,0 +1,91 @@
+---
+id: JISX013532011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ソフトウェア測定―機能規模測定―第３部：機能領域の定義及び機能規模測定手法の能力の検証
+- language: en
+  script: Latn
+  content: 'Information technology -- Software measurement -- Functional size measurement
+    -- Part 3: Determination of functional domains for use with functional size measurement
+    and performance verification of functional size measurement methods'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0135-3%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00135_003_000_2011_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0135-3:2011
+  type: JIS
+  primary: true
+docnumber: X0135
+date:
+- type: issued
+  at: '2011-01-20'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 機能領域に関する；機能領域の特性；利用者機能要件（ＦＵＲ）の特性を用いた機能領域の決定手順；ＦＳＭ手法の特定の機能領域への適用可能度合いの判定手順；について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0135

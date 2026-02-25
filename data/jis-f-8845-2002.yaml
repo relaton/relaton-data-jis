@@ -1,0 +1,83 @@
+---
+id: JISF88452002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用回転スイッチ
+- language: en
+  script: Latn
+  content: Shipbuilding -- Rotary switches
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8845%3A2002
+docidentifier:
+- content: JIS F 8845:2002
+  type: JIS
+  primary: true
+docnumber: F8845
+date:
+- type: issued
+  at: '2002-05-31'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船で使用する定格電圧２５０Ｖ以下の電気機器の抵抗回路，ランプ回路及び誘導回路（電動機を含まない。）の切換用の回転スイッチについて規定。交流の場合は，周波数５０～６０Ｈｚとする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.40
+    text: Switches
+  - code: 47.020.60
+    text: Electrical equipment of ships and  of marine structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F8845

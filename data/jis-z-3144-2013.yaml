@@ -1,0 +1,87 @@
+---
+id: JISZ31442013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: スポット及びプロジェクション溶接部の現場試験方法
+- language: en
+  script: Latn
+  content: Routine test of resistance spot and projection welds
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3144%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03144_000_000_2013_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03144_000_000_2013_e_ed10_i4.pdf
+docidentifier:
+- content: JIS Z 3144:2013
+  type: JIS
+  primary: true
+docnumber: Z3144
+date:
+- type: issued
+  at: '2013-03-21'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本溶接協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 板厚０．５ｍｍ～３．２ｍｍの金属材料を２枚以上重ねて作製するスポット溶接部及びプロジェクション溶接部の溶接径，プラグ径及び破断形態を，たがね試験，ピール試験及びねじり試験の方法を利用し，工場の作業場及び試験場で日常的に調べる試験の方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.40
+    text: Welded joints and welds
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z3144

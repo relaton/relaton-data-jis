@@ -1,0 +1,87 @@
+---
+id: JISK00601992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 産業廃棄物のサンプリング方法
+- language: en
+  script: Latn
+  content: Sampling method of industrial wastes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0060%3A1992
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00060_000_000_1992_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00060_000_000_1992_e_pr10_i4.pdf
+docidentifier:
+- content: JIS K 0060:1992
+  type: JIS
+  primary: true
+docnumber: K0060
+date:
+- type: issued
+  at: '1992-04-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本環境衛生センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本環境衛生センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本環境衛生センター
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 産業廃棄物を対象とする各種試験の実施に当たり，ロットの平均性状を決定するために必要なサンプリング方法，試料の縮分方法の一般的事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.030.01
+    text: Wastes in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0060

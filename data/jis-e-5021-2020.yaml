@@ -1,0 +1,92 @@
+---
+id: JISE50212020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄道車両―電気コネクタ―要求事項及び試験方法
+- language: en
+  script: Latn
+  content: Rolling stock -- Electrical connectors -- Requirements and test methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5021%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05021_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS E 5021:2020
+  type: JIS
+  primary: true
+docnumber: E5021
+date:
+- type: issued
+  at: '2020-04-13'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本鉄道車輌工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄道車両用電気コネクタのための性能要件として，ＩＥＣ６１９８４：２００８の要求事項を満たした上で，追加の用語，単極当たり定格電圧１０００Ｖまで及び定格電流１２５Ａまでで，周波数３ＭＨｚ以下で鉄道車両の車内及び車外で使われる単極コネクタ及び多極コネクタに対する性能要求事項及び試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 45.060.01
+    text: Railway rolling stock in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E5021

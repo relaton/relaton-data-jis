@@ -1,0 +1,85 @@
+---
+id: JISC5402212005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子機器用コネクタ―試験及び測定―第２－１部：導通及び接触抵抗試験―試験２ａ：接触抵抗―ミリボルトレベル法
+- language: en
+  script: Latn
+  content: 'Connectors for electronic equipment -- Tests and measurements -- Part
+    2-1: Electrical continuity and contact resistance tests -- Test 2a : Contact resistance
+    -- Millivolt level method'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5402-2-1%3A2005
+docidentifier:
+- content: JIS C 5402-2-1:2005
+  type: JIS
+  primary: true
+docnumber: C5402
+date:
+- type: issued
+  at: '2005-03-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子機器用コネクタの一対の結合したコンタクト間又はコンタクトと測定ゲージ間の電気的抵抗を測定するための試験方法について規定。類似の部品に用いてもよい。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.220.10
+    text: Plug-and-socket devices. Connectors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5402

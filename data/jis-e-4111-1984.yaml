@@ -1,0 +1,75 @@
+---
+id: JISE41111984
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄道車両用平頭ピン
+- language: en
+  script: Latn
+  content: Clevis pins with head for railway rolling stock
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+4111%3A1984
+docidentifier:
+- content: JIS E 4111:1984
+  type: JIS
+  primary: true
+docnumber: E4111
+date:
+- type: issued
+  at: '1984-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道車輌工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道車輌工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄道車輌工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄道車両に一般に用いる平頭ピンについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '45.040'
+    text: Materials and components for railway engineering
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E4111

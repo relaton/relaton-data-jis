@@ -1,0 +1,84 @@
+---
+id: JISX57451995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 開放型システム間相互接続　―　仮想端末基本クラスサービス
+- language: en
+  script: Latn
+  content: Information technology -- Open Systems Interconnection -- Virtual terminal
+    basic class service
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5745%3A1995
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05745_000_000_1995_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5745:1995
+  type: JIS
+  primary: true
+docnumber: X5745
+date:
+- type: issued
+  at: '1995-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＯＳＩ応用層の中で外部から見た基本クラス仮想端末サービスを　（１）サービスの利用者間の相互動作を定義するモデル　（２）サービスの基本的な動作及び自象　（３）個々の基本的な動作及び自象に関連するパラメタ　（４）これらの動作及び自象の正当な順序列の関係　の関連から抽象的な方法で規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.70
+    text: Application layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5745

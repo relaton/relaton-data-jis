@@ -1,0 +1,96 @@
+---
+id: JISZ840211999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 測定方法及び測定結果の精確さ（真度及び精度）―第１部：一般的な原理及び定義
+- language: en
+  script: Latn
+  content: 'Accuracy (trueness and precision) of measurement methods and results --
+    Part 1: General principles and definitions'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8402-1%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08402_001_000_1999_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08402_001_000_1999_e_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 8402-1:1999
+  type: JIS
+  primary: true
+docnumber: Z8402
+date:
+- type: issued
+  at: '1999-09-30'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 測定方法及び測定結果の精確さ（真度及び精度）の評価，応用するときに理解しておくべき一般的な原則の概略を述べること，及び実験によって種々の尺度の実用的な推定を行う方法を提示すること。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.30
+    text: Application of statistical methods
+  - code: '17.020'
+    text: Metrology and measurement in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8402

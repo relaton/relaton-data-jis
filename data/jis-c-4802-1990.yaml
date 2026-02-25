@@ -1,0 +1,77 @@
+---
+id: JISC48021990
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高圧及び特別高圧進相コンデンサ用放電コイル
+- language: en
+  script: Latn
+  content: Discharge coils for high voltage power capacitors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4802%3A1990
+docidentifier:
+- content: JIS C 4802:1990
+  type: JIS
+  primary: true
+docnumber: C4802
+date:
+- type: issued
+  at: '1990-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電気学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 力率改善，電圧調整などの目的で，送配電系統の交流３３００Ｖ以上の回路で負荷と並列に接続して用するＪＩＳ　Ｃ　４９０２に規定する高圧及び特別高圧進相コンデンサ又はそのコンデンサ群に常時併用され，コンデンサを回路から切り離したときの残留電荷を短時間に放電させる目的に使用する放電コイルについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.180'
+    text: Transformers. Reactors
+  - code: 31.060.70
+    text: Power capacitors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C4802

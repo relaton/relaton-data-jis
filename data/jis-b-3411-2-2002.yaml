@@ -1,0 +1,82 @@
+---
+id: JISB341122002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プロッタの試験方法―第２部：モノクローム・ラスタ・プロッタ
+- language: en
+  script: Latn
+  content: 'Numerically controlled draughting machines -- Drawing test for the evaluation
+    of performances -- Part 2: Monochrome raster plotters'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3411-2%3A2002
+docidentifier:
+- content: JIS B 3411-2:2002
+  type: JIS
+  primary: true
+docnumber: B3411
+date:
+- type: issued
+  at: '2002-01-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本設計工学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本設計工学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本設計工学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ラスタイメージの技術を応用したプロッタの描画試験方法を規定。装置に関係なく出力図面の質的評価方法を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.100.40
+    text: Drawing equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B3411

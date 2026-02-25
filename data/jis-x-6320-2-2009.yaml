@@ -1,0 +1,88 @@
+---
+id: JISX632022009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 識別カード―ＩＣカード―第２部：外部端子付きＩＣカードの端子の寸法及び位置
+- language: en
+  script: Latn
+  content: 'Identification cards -- Integrated circuit cards -- Part 2: Cards with
+    contacts -- Dimensions and location of the contacts'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6320-2%3A2009
+docidentifier:
+- content: JIS X 6320-2:2009
+  type: JIS
+  primary: true
+docnumber: X6320
+date:
+- type: issued
+  at: '2009-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
+        \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
+        \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
+          \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｘ　６３０１で規定したＩＤ－１の外部端子付きＩＣカードについて，その各外部端子の寸法及び位置を規定する。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.15
+    text: Identification cards. Chip cards. Biometrics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6320

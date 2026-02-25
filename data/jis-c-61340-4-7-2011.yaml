@@ -1,0 +1,97 @@
+---
+id: JISC61340472011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 静電気―第４－７部：特定応用のための標準的試験方法―イオナイザ
+- language: en
+  script: Latn
+  content: 'Electrostatics -- Part 4-7: Standard test methods for specific applications
+    -- Ionization'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61340-4-7%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61340_004_007_2011_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61340-4-7:2011
+  type: JIS
+  primary: true
+docnumber: C61340
+date:
+- type: issued
+  at: '2011-12-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本電子部品信頼性センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本電子部品信頼性センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　日本電子部品信頼性センター"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 静電気対策の一環として，電荷中和のために使用するイオナイザを評価及び選定するときの試験方法及び手順について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.200.99
+    text: Other standards related to thermodynamics
+  - code: 17.220.99
+    text: Other standards related to electricity and magnetism
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61340

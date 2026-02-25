@@ -1,0 +1,86 @@
+---
+id: JISC94912000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 写真用エレクトロニックフラッシュ装置の安全性要求事項
+- language: en
+  script: Latn
+  content: Safety requirements for electronic flash apparatus for photographic purposes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9491%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09491_000_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS C 9491:2000
+  type: JIS
+  primary: true
+docnumber: C9491
+date:
+- type: issued
+  at: '2000-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　電気安全環境研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　電気安全環境研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　電気安全環境研究所"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 蓄熱エネルギーが関連装置と合わせて２０００Ｊ以下で，水滴又は飛まつ（沫）にさらされるように意図されていない，写真用エレクトロニックフラッシュ装置に適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 37.040.10
+    text: Photographic equipment. Projectors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9491

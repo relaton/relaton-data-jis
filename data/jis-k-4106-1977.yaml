@@ -1,0 +1,75 @@
+---
+id: JISK41061977
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ジアニシジン
+- language: en
+  script: Latn
+  content: Dianisidine (4,4'-diamino-3,3'-dimethoxybiphenyl)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+4106%3A1977
+docidentifier:
+- content: JIS K 4106:1977
+  type: JIS
+  primary: true
+docnumber: K4106
+date:
+- type: issued
+  at: '1977-08-10'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 化成品工業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 化成品工業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 化成品工業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 染顔料中間物としてのジアニシジンについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.080.30
+    text: Organic nitrogen compounds
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K4106

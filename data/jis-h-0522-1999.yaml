@@ -1,0 +1,80 @@
+---
+id: JISH05221999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: アルミニウム鋳物の放射線透過試験方法及び透過写真の等級分類方法
+- language: en
+  script: Latn
+  content: Methods of radiographic test and classification by radiographs of aluminium
+    castings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+0522%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_00522_000_000_1999_e_pr10_i4.pdf
+docidentifier:
+- content: JIS H 0522:1999
+  type: JIS
+  primary: true
+docnumber: H0522
+date:
+- type: issued
+  at: '1999-10-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本アルミニウム協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本アルミニウム協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本アルミニウム協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: アルミニウム鋳物のＸ線又はγ線の透過写真による試験方法及び透過写真の等級分類方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.040.20
+    text: Non-destructive testing of metals
+  - code: 77.150.10
+    text: Aluminium products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H0522

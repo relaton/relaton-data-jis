@@ -1,0 +1,93 @@
+---
+id: JISZ850212024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 人間工学―精神的作業負荷に関する原則―第１部：一般原則及び概念並びに用語及び定義
+- language: en
+  script: Latn
+  content: 'Ergonomic principles related to mental workload -- Part 1: General issues
+    and concepts, terms and definitions'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8502-1%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08502_001_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8502-1:2024
+  type: JIS
+  primary: true
+docnumber: Z8502
+date:
+- type: issued
+  at: '2024-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本人間工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本人間工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本人間工学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 精神的ストレス及び精神的負担，そして精神的負担の短期的な及び長期的な結果並びに肯定的な及び否定的な結果についての精神的作業負荷の分野の用語について規定。また，関連するこれらの概念間の関係を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.13
+    text: Environment. Health protection. Safety (Vocabularies)
+  - code: '13.180'
+    text: Ergonomics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8502

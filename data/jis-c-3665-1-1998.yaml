@@ -1,0 +1,78 @@
+---
+id: JISC366511998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気ケーブルの難燃試験　―　第１部：絶縁電線又はケーブルの一条垂直試験
+- language: en
+  script: Latn
+  content: 'Tests on electric cables under fire conditions -- Part 1: Test on a single
+    vertical insulated wire or cable'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3665-1%3A1998
+docidentifier:
+- content: JIS C 3665-1:1998
+  type: JIS
+  primary: true
+docnumber: C3665
+date:
+- type: issued
+  at: '1998-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電線工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電線工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電線工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 難燃性絶縁電線又はケーブル一条を垂直にして試験する方法と要求事項について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.220.40
+    text: Ignitability and burning behaviour of materials and products
+  - code: 29.060.20
+    text: Cables
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C3665

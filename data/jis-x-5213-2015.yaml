@@ -1,0 +1,94 @@
+---
+id: JISX52132015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 近距離通信用インタフェース及びプロトコル（ＮＦＣＩＰ－１）―ＲＦインタフェース試験方法
+- language: en
+  script: Latn
+  content: Information technology -- Telecommunications and information exchange between
+    systems -- Near Field Communication Interface and Protocol (NFCIP-1) -- RF interface
+    test methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5213%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05213_000_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 5213:2015
+  type: JIS
+  primary: true
+docnumber: X5213
+date:
+- type: issued
+  at: '2015-12-21'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｘ　５２１１で規定したＮＦＣＩＰ－１を試験する方法を規定する一連の規格の一つであり，ＲＦインタフェース用の試験方法を規定。具体的には，５０ｍｍ×４０ｍｍの長方形の領域に入るアンテナを備えたＮＦＣデバイスのＲＦインタフェース試験方法を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.01
+    text: Open systems interconnection in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5213

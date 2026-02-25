@@ -1,0 +1,72 @@
+---
+id: JISS20511985
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用圧力なべ及び圧力がま
+- language: en
+  script: Latn
+  content: Domestic pressure pans and pressure pots
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2051%3A1985
+docidentifier:
+- content: JIS S 2051:1985
+  type: JIS
+  primary: true
+docnumber: S2051
+date:
+- type: issued
+  at: '1985-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 圧力なべ振興会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 圧力なべ振興会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 圧力なべ振興会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ９．８ｋＰａ【０．１ｋｇｆ／ｃｍ×２】以上の内圧で，調理を目的として水で煮炊きするもの（加熱装置があるものを除く。）であって，内容積が，１０ｌ以下の家庭用圧力なべ及び圧力がまについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S2051

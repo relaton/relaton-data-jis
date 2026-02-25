@@ -1,0 +1,83 @@
+---
+id: JISH79032008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ポーラス金属の熱伝導率試験方法
+- language: en
+  script: Latn
+  content: Method for thermal conductivity test of porous metals
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+7903%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_07903_000_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS H 7903:2008
+  type: JIS
+  primary: true
+docnumber: H7903
+date:
+- type: issued
+  at: '2008-09-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　大阪科学技術センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　大阪科学技術センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　大阪科学技術センター
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 発熱密度の大きな電子素子の冷却用ヒートシンクなどに使用するポーラス金属材料の伝熱特性（有効熱伝導率，熱抵抗及び熱コンダクタンス）を，室温から４００Ｋまでの範囲で，一方向熱流定常比較法によって試験する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.120.99
+    text: Other non-ferrous metals and their alloys
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H7903

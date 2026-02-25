@@ -1,0 +1,87 @@
+---
+id: JISC18041995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工業プロセス計測制御機器の使用環境条件
+- language: en
+  script: Latn
+  content: Operating conditions for industrial-process measurement and control equipment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1804%3A1995
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01804_000_000_1995_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01804_000_000_1995_e_pr10_i4.pdf
+docidentifier:
+- content: JIS C 1804:1995
+  type: JIS
+  primary: true
+docnumber: C1804
+date:
+- type: issued
+  at: '1995-11-30'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気計測器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気計測器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電気計測器工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業プロセス計測制御機器の使用環境条件について規定。特定の機器についてその使用環境条件を定めた規格がある場合は，その規格による。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1804

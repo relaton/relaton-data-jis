@@ -1,0 +1,75 @@
+---
+id: JISS85101995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ギター
+- language: en
+  script: Latn
+  content: Acoustic guitars
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+8510%3A1995
+docidentifier:
+- content: JIS S 8510:1995
+  type: JIS
+  primary: true
+docnumber: S8510
+date:
+- type: issued
+  at: '1995-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国楽器協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国楽器協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 全国楽器協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 弦にナイロン弦と金属巻線を使用したギター及び弦にピアノ線と金属巻線を使用したギターについて規定。電気ギター及び電気的増幅装置を備えたギターは除く。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.200.20
+    text: Musical instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S8510

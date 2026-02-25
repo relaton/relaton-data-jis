@@ -1,0 +1,91 @@
+---
+id: JISC8282212010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用及びこれに類する用途のプラグ及びコンセント―第２－１部：ヒューズ付きプラグの個別要求事項
+- language: en
+  script: Latn
+  content: 'Plugs and socket-outlets for household and similar purposes -- Part 2-1:
+    Particular requirements for fused plugs'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8282-2-1%3A2010
+docidentifier:
+- content: JIS C 8282-2-1:2010
+  type: JIS
+  primary: true
+docnumber: C8282
+date:
+- type: issued
+  at: '2010-02-22'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　電気安全環境研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　電気安全環境研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　電気安全環境研究所"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ヒューズが主に可とうケーブル又はコードを保護することを意図するヒューズ付きプラグに適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.30
+    text: Plugs, socket-outlets, couplers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8282

@@ -1,0 +1,92 @@
+---
+id: JISC191012026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 人体ばく露を考慮した直流磁界並びに１　Ｈｚ～１００　ｋＨｚの交流磁界及び交流電界の測定－第１部：測定器に対する要求事項
+- language: en
+  script: Latn
+  content: 'Measurement of DC magnetic, AC magnetic and AC electric fields from 1
+    Hz to 100 kHz with regard to exposure of human beings-Part 1: Requirements for
+    measuring instruments'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1910-1%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01910_001_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 1910-1:2026
+  type: JIS
+  primary: true
+docnumber: C1910
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，直流磁界並びに1 Hz～100 kHzの周波数帯域の準静的磁界及び準静的電界への人体へのばく露レベルを評価するために，磁界及び電界の強度測定に用いる測定器について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.20
+    text: Measurement of electrical and magnetic quantities
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1910

@@ -1,0 +1,90 @@
+---
+id: JISX57081991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 遠隔操作―第１部　モデル，記法及びサービス定義
+- language: en
+  script: Latn
+  content: 'Information processing systems -- Text communication -- Remote Operations
+    -- Part 1: Model, notation and service definition'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5708%3A1991
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05708_000_000_1991_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5708:1991
+  type: JIS
+  primary: true
+docnumber: X5708
+date:
+- type: issued
+  at: '1991-12-31'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 対話型応用に対して提供されるサービスを定義するための遠隔操作（ＲＯ）記法を規定。遠隔操作サービス要素（ＲＯＳＥ）が提供するサービスを規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '33.200'
+    text: Telecontrol. Telemetering
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5708

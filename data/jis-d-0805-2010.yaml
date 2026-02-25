@@ -1,0 +1,95 @@
+---
+id: JISD08052010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高度道路交通システム―車線変更意思決定支援システム―性能要件及び試験方法
+- language: en
+  script: Latn
+  content: Intelligent transport systems -- Lane change decision aid systems (LCDAS)
+    -- Performance requirements and test procedures
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+0805%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_00805_000_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: JIS D 0805:2010
+  type: JIS
+  primary: true
+docnumber: D0805
+date:
+- type: issued
+  at: '2010-03-23'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　自動車技術会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＬＣＤＡＳの性能要件及び試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.220.20
+    text: Road transport
+  - code: 35.240.60
+    text: IT applications in transport
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0805

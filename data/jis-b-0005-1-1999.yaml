@@ -1,0 +1,91 @@
+---
+id: JISB000511999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製図―転がり軸受―第１部：基本簡略図示方法
+- language: en
+  script: Latn
+  content: 'Technical drawings -- Rolling bearings -- Part 1: General simplified representation'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0005-1%3A1999
+docidentifier:
+- content: JIS B 0005-1:1999
+  type: JIS
+  primary: true
+docnumber: B0005
+date:
+- type: issued
+  at: '1999-04-30'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 転がり軸受の基本簡略図示方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.100.20
+    text: Mechanical engineering drawings
+  - code: 21.100.20
+    text: Rolling bearings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0005

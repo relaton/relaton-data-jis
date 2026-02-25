@@ -1,0 +1,80 @@
+---
+id: JISB970022004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械類の安全性―設計のための基本概念，一般原則―第２部：技術原則
+- language: en
+  script: Latn
+  content: 'Safety of machinery -- Basic concepts, general principles for design --
+    Part 2: Technical principles'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9700-2%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09700_002_000_2004_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09700_002_000_2004_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 9700-2:2004
+  type: JIS
+  primary: true
+docnumber: B9700
+date:
+- type: issued
+  at: '2004-12-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械工業連合会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 機械類の設計において安全性を達成するときに設計者に役立つ技術的原則について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9700

@@ -1,0 +1,73 @@
+---
+id: JISB02091997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: メートル並目ねじの許容限界寸法及び公差
+- language: en
+  script: Latn
+  content: Limits of sizes and tolerances for metric coarse screw threads
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0209%3A1997
+docidentifier:
+- content: JIS B 0209:1997
+  type: JIS
+  primary: true
+docnumber: B0209
+date:
+- type: issued
+  at: '1997-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　０２０５に規定するメートル並目ねじの，締付けに用いるものの許容限界寸法及び公差について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.040.10
+    text: Metric screw threads
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0209

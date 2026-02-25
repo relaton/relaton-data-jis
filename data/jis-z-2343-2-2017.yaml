@@ -1,0 +1,93 @@
+---
+id: JISZ234322017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 非破壊試験―浸透探傷試験―第２部：浸透探傷剤の試験
+- language: en
+  script: Latn
+  content: 'Non-destructive testing -- Penetrant testing -- Part 2: Testing of penetrant
+    materials'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2343-2%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02343_002_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 2343-2:2017
+  type: JIS
+  primary: true
+docnumber: Z2343
+date:
+- type: issued
+  at: '2017-03-21'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本非破壊検査協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本非破壊検査協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本非破壊検査協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｚ　２３４３－１に規定する浸透探傷試験に使用する浸透探傷剤に対する形式試験及びロット試験についての技術的要求事項及び試験手順について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.100'
+    text: Non-destructive testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z2343

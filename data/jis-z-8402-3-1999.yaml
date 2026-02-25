@@ -1,0 +1,96 @@
+---
+id: JISZ840231999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 測定方法及び測定結果の精確さ（真度及び精度）―第３部：標準測定方法の中間精度
+- language: en
+  script: Latn
+  content: 'Accuracy (trueness and precision) of measurement methods and results --
+    Part 3: Intermediate measures of the precision of a standard measurement method'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8402-3%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08402_003_000_1999_j_pr11_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08402_003_000_1999_e_pr20_i4.pdf
+docidentifier:
+- content: JIS Z 8402-3:1999
+  type: JIS
+  primary: true
+docnumber: Z8402
+date:
+- type: issued
+  at: '1999-09-30'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 一つの試験室内で測定の条件（時間，校正，オペレータ，及び装置）が変わることによる４つの中間精度について詳細を述べる。これらの中間精度は，特定の試験室内での実験又は試験室間共同実験によって確定することができる。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.30
+    text: Application of statistical methods
+  - code: '17.020'
+    text: Metrology and measurement in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8402

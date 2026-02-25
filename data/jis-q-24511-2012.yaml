@@ -1,0 +1,96 @@
+---
+id: JISQ245112012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 飲料水及び下水事業に関する活動―下水事業のマネジメントに関する指針
+- language: en
+  script: Latn
+  content: Activities relating to drinking water and wastewater services -- Guidelines
+    for the management of wastewater utilities and for the assessment of wastewater
+    services
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+24511%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_24511_000_000_2012_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 24511:2012
+  type: JIS
+  primary: true
+docnumber: Q24511
+date:
+- type: issued
+  at: '2012-03-21'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本下水道協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本下水道協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本下水道協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 下水事業のマネジメントに関する指針。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.30
+    text: Sewage water
+  - code: '93.030'
+    text: External sewage systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q24511

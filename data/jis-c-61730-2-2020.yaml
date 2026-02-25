@@ -1,0 +1,86 @@
+---
+id: JISC6173022020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 太陽電池（ＰＶ）モジュールの安全適格性確認―第２部：試験に関する要求事項
+- language: en
+  script: Latn
+  content: 'Photovoltaic (PV) module safety qualification -- Part 2: Requirements
+    for testing'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61730-2%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61730_002_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61730-2:2020
+  type: JIS
+  primary: true
+docnumber: C61730
+date:
+- type: issued
+  at: '2020-02-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｃ　６１７３０－１の適用範囲は，この規格にも適用。ＪＩＳ　Ｃ　６１７３０－１は，構造に関する要求事項を規定しており，安全の適格性のために太陽電池（ＰＶ）モジュールに要求される試験について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  - code: 29.220.99
+    text: Other cells and batteries
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61730

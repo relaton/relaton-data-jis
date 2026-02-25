@@ -1,0 +1,85 @@
+---
+id: JISZ92111982
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: エネルギー管理用語（その１）
+- language: en
+  script: Latn
+  content: Technical terms used in energy management
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9211%3A1982
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09211_000_000_1982_j_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 9211:1982
+  type: JIS
+  primary: true
+docnumber: Z9211
+date:
+- type: issued
+  at: '1982-02-28'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　省エネルギーセンター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　省エネルギーセンター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　省エネルギーセンター
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 工場又は事業場におけるエネルギー使用設備に用いられるエネルギー管理用語のうち，一般及び熱管理に関する用語について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.27
+    text: Energy and heat transfer engineering (Vocabularies)
+  - code: '27.010'
+    text: Energy and heat transfer engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9211

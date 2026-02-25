@@ -1,0 +1,90 @@
+---
+id: JISC62820112022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ビル用インターホンシステム―第１－１部：システム要求事項―一般事項
+- language: en
+  script: Latn
+  content: 'Building intercom systems -- Part 1-1: System requirements -- General'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+62820-1-1%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_62820_001_001_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 62820-1-1:2022
+  type: JIS
+  primary: true
+docnumber: C62820
+date:
+- type: issued
+  at: '2022-02-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　インターホン工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　インターホン工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　インターホン工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般的なビルの入口に使用するビル用インターホンシステムの構成，機能，性能及び試験方法に関する技術的要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.320'
+    text: Alarm and warning systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C62820

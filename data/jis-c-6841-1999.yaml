@@ -1,0 +1,81 @@
+---
+id: JISC68411999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光ファイバ心線融着接続方法
+- language: en
+  script: Latn
+  content: Optical fiber fusion splicing method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6841%3A1999
+docidentifier:
+- content: JIS C 6841:1999
+  type: JIS
+  primary: true
+docnumber: C6841
+date:
+- type: issued
+  at: '1999-11-30'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　光産業技術振興協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｃ　６８３１に規定の光ファイバ心線及びＪＩＳ　Ｃ　６８３８に規定のテープ形光ファイバ心線を融着する方法及び接続損失の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.20
+    text: Fibre optic interconnecting devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6841

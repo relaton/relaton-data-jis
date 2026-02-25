@@ -1,0 +1,81 @@
+---
+id: JISA55311978
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 木構造用金物
+- language: en
+  script: Latn
+  content: Fittings for wooden construction
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5531%3A1978
+docidentifier:
+- content: JIS A 5531:1978
+  type: JIS
+  primary: true
+docnumber: A5531
+date:
+- type: issued
+  at: '1978-12-01'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建築学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建築学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本建築学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 木造建築物に使用する（１）アンカーボルト及びナット・座金（２）普通ボルト及びナット・座金（３）羽子板ボルト及びナット・座金（４）短ざく金物（５）かな折れ金物（６）箱金物（７）かすがいの木構造用金物について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.080.20
+    text: Timber structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5531

@@ -1,0 +1,84 @@
+---
+id: JISA21032014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 窓及びドアの熱性能―日射熱取得率の計算
+- language: en
+  script: Latn
+  content: Thermal performance of windows and doors -- Calculation of solar heat gain
+    coefficient
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+2103%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_02103_000_000_2014_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 2103:2014
+  type: JIS
+  primary: true
+docnumber: A2103
+date:
+- type: issued
+  at: '2014-04-21'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建材・住宅設備産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建材・住宅設備産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本建材・住宅設備産業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: フレームと板ガラス又は不透明パネルとによって構成する窓及びドアの日射熱取得率の計算方法について規定。雨戸及び格子；カーテンウォール及び他の構造用グレージング；産業用，商業用及びガレージ用ドアには適用できない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.060.50
+    text: Doors and windows
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A2103

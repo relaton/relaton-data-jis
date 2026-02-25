@@ -1,0 +1,81 @@
+---
+id: JISC35011993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高周波同軸ケーブル（ポリエチレン絶縁編組形）
+- language: en
+  script: Latn
+  content: Radio-frequency coaxial cables
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3501%3A1993
+docidentifier:
+- content: JIS C 3501:1993
+  type: JIS
+  primary: true
+docnumber: C3501
+date:
+- type: issued
+  at: '1993-06-30'
+- type: confirmed
+  at: '2003-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電線工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電線工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電線工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 高周波機器の接続，内部配線，給電線などに使用する，ポリエチレンを絶縁体とし，外部導体が編組形で塩化ビニル樹脂を主体としたコンパウンドをシースとして使用した特性インピーダンス５０Ω及び７０Ωの高周波同軸ケーブルについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.060.20
+    text: Cables
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C3501

@@ -1,0 +1,88 @@
+---
+id: JISB068112023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性仕様（ＧＰＳ）―表面性状：三次元―第１部：表面性状の図示方法
+- language: en
+  script: Latn
+  content: 'Geometrical product specifications (GPS) -- Surface texture: Areal --
+    Part 1: Indication of surface texture'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0681-1%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00681_001_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 0681-1:2023
+  type: JIS
+  primary: true
+docnumber: B0681
+date:
+- type: issued
+  at: '2023-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 製品技術文書（例えば，図面，仕様書，契約書，報告書など）に図示記号及び文書表現によって，ＪＩＳ　Ｂ　０６８１規格群の三次元表面性状を指示する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.20
+    text: Properties of surfaces
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0681

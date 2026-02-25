@@ -1,0 +1,84 @@
+---
+id: JISK38112003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: エンドトキシン試験用の水
+- language: en
+  script: Latn
+  content: Water used for bacterial endotoxins test
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+3811%3A2003
+docidentifier:
+- content: JIS K 3811:2003
+  type: JIS
+  primary: true
+docnumber: K3811
+date:
+- type: issued
+  at: '2003-05-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　バイオインダストリー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　バイオインダストリー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　バイオインダストリー協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: エンドトキシンの試験に用いる水について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.30
+    text: Chemical reagents
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K3811

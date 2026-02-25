@@ -1,0 +1,92 @@
+---
+id: JISC5101142024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子機器用固定コンデンサ－第１４部：品種別通則：電源用電磁障害防止固定コンデンサ
+- language: en
+  script: Latn
+  content: 'Fixed capacitors for use in electronic equipment-Part 14: Sectional specification-Fixed
+    capacitors for electromagnetic interference suppression and connection to the
+    supply mains'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5101-14%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05101_014_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 5101-14:2024
+  type: JIS
+  primary: true
+docnumber: C5101
+date:
+- type: issued
+  at: '2024-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，直流1000 V以下，交流1000 V（実効値）以下で，周波数100 Hz以下の交流電源又はその他の電源回路に接続することを目的とする電源用電磁障害防止固定コンデンサ及び抵抗器とコンデンサとを組み合わせた部品の品種別通則について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.060.10
+    text: Fixed capacitors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5101

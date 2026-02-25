@@ -1,0 +1,86 @@
+---
+id: JISZ60142008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子化文書のデジタル用試験標板―仕様及び使用方法
+- language: en
+  script: Latn
+  content: Test chart for digitizing image -- Description and use in electronic imagery
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+6014%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_06014_000_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 6014:2008
+  type: JIS
+  primary: true
+docnumber: Z6014
+date:
+- type: issued
+  at: '2008-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本文書情報マネジメント協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本文書情報マネジメント協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本文書情報マネジメント協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: マイクロフィルム文書又は紙文書を電子化するシステムの品質試験（文字の可読性，図形，階調などの再現性の試験）に用いるマイクロフィルム試験標板及び紙試験標板の仕様及び使用方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '37.080'
+    text: Document imaging applications
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z6014

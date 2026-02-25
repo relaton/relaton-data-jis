@@ -1,0 +1,84 @@
+---
+id: JISX530431998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 開放型システム間相互接続―コネクションレス型ネットワークプロトコル―第３部：Ｘ．２５サブネットワークによる下位サービス提供
+- language: en
+  script: Latn
+  content: 'Information technology -- Protocol for providing the connectionless-mode
+    network service -- Part 3: Provision of the underlying service by an X.25 subnetwork'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5304-3%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05304_003_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5304-3:1998
+  type: JIS
+  primary: true
+docnumber: X5304
+date:
+- type: issued
+  at: '1998-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＴＵ－Ｔ勧告Ｘ．２５に適合するサブネトワークにおいて，ＪＩＳ　Ｘ　５３０２が規定するプロトコルの前提とするサービスをＩＳＯ／ＩＥＣ　８６４８で規定されているサブネットワーク依存収束機能（ＳＮＤＣＦ）を通じて提供する方法を規定。ＩＳＯ／ＩＥＣ　９６４６－１の要件及び指針に基づくプロトコル実装適合性申告書（ＰＩＣＳ）様式を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.30
+    text: Network layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5304

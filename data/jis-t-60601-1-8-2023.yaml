@@ -1,0 +1,84 @@
+---
+id: JIST60601182023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医用電気機器―第１－８部：基礎安全及び基本性能に関する一般要求事項―副通則：医用電気機器及び医用電気システムのアラームシステムに関する一般要求事項，試験方法及び適用指針
+- language: en
+  script: Latn
+  content: 'Medical electrical equipment -- Part 1-8: General requirements for basic
+    safety and essential performance -- Collateral standard: General requirements,
+    tests and guidance for alarm systems in medical electrical equipment and medical
+    electrical systems'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+60601-1-8%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_60601_001_008_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 60601-1-8:2023
+  type: JIS
+  primary: true
+docnumber: T60601
+date:
+- type: issued
+  at: '2023-02-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 医用電気機器及び医用電気システムの基礎安全及び基本性能について適用。この副通則は，ＭＥ機器及びＭＥシステムにおけるアラームシステム及びアラーム信号に関する要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.01
+    text: Medical equipment in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T60601

@@ -1,0 +1,91 @@
+---
+id: JISB040122016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性仕様（ＧＰＳ）―長さに関わるサイズ公差のＩＳＯコード方式―第２部：穴及び軸の許容差並びに基本サイズ公差クラスの表
+- language: en
+  script: Latn
+  content: 'Geometrical product specifications (GPS) -- ISO code system for tolerances
+    on linear sizes -- Part 2: Tables of standard tolerance classes and limit deviations
+    for holes and shafts'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0401-2%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00401_002_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 0401-2:2016
+  type: JIS
+  primary: true
+docnumber: B0401
+date:
+- type: issued
+  at: '2016-03-22'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　０４０１－１に規定する表から計算される，穴及び軸に関して一般に使用する公差クラスの許容差の値について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.10
+    text: Limits and fits
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0401

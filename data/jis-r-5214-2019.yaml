@@ -1,0 +1,89 @@
+---
+id: JISR52142019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: エコセメント
+- language: en
+  script: Latn
+  content: Ecocement
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+5214%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_05214_000_000_2019_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_05214_000_000_2019_e_ed10_ch.pdf
+docidentifier:
+- content: JIS R 5214:2019
+  type: JIS
+  primary: true
+docnumber: R5214
+date:
+- type: issued
+  at: '2019-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　セメント協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　セメント協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　セメント協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: エコセメントについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.030.50
+    text: Recycling
+  - code: 91.100.10
+    text: Cement. Gypsum. Lime. Mortar
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R5214

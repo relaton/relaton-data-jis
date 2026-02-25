@@ -1,0 +1,81 @@
+---
+id: JISM40022000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 粉砕仕事指数の試験方法
+- language: en
+  script: Latn
+  content: Testing method of grinding work index
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+4002%3A2000
+docidentifier:
+- content: JIS M 4002:2000
+  type: JIS
+  primary: true
+docnumber: M4002
+date:
+- type: issued
+  at: '2000-05-31'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　資源・素材学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　資源・素材学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　資源・素材学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉱山及びこれに準ずる工業原料の粉砕仕事指数を試験用ボールミルを用いて測定する試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '73.120'
+    text: Equipment for processing of minerals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M4002

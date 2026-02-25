@@ -1,0 +1,86 @@
+---
+id: JISB37002252003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 産業オートメーションシステム及びその統合―製品データの表現及び交換―第２２５部：アプリケーションプロトコル：建物要素の明示的形状表現
+- language: en
+  script: Latn
+  content: 'Industrial automation systems and integration -- Product data representation
+    and exchange -- Part 225: Application protocol: Building elements using explicit
+    shape representation'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3700-225%3A2003
+docidentifier:
+- content: JIS B 3700-225:2003
+  type: JIS
+  primary: true
+docnumber: B3700
+date:
+- type: issued
+  at: '2003-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本情報経済社会推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本情報経済社会推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　日本情報経済社会推進協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 明示的な形状表現を伴うアプリケーションシステム間で，建物要素の形状，特性及び空間構成に関する情報を交換するために，適用領域及び情報要件に必要な統合リソースの使い方を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B3700

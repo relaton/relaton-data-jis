@@ -1,0 +1,87 @@
+---
+id: JISD16191977
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車用ランプ類配光試験方法
+- language: en
+  script: Latn
+  content: Photometric testing methods of lighting and signalling equipment for automobiles
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+1619%3A1977
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01619_000_000_1977_e_pr10_i4.pdf
+docidentifier:
+- content: JIS D 1619:1977
+  type: JIS
+  primary: true
+docnumber: D1619
+date:
+- type: issued
+  at: '1977-06-30'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車部品工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車部品工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本自動車部品工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 自動車用ランプ類の試験室における配光，反射性及び色度の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.140.20
+    text: Incandescent lamps
+  - code: 43.040.20
+    text: Lighting, signalling and warning devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D1619

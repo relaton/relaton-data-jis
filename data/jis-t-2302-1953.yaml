@@ -1,0 +1,75 @@
+---
+id: JIST23021953
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療用かん子
+- language: en
+  script: Latn
+  content: Medical forceps
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+2302%3A1953
+docidentifier:
+- content: JIS T 2302:1953
+  type: JIS
+  primary: true
+docnumber: T2302
+date:
+- type: issued
+  at: '1977-08-10'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本医科器械学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本医科器械学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本医科器械学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 医療用かん子について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.30
+    text: Surgical instruments and materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T2302

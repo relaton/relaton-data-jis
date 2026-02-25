@@ -1,0 +1,99 @@
+---
+id: JISZ03132004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 素地調整用ブラスト処理面の試験及び評価方法
+- language: en
+  script: Latn
+  content: Test and assessment of abrasive blast-cleaned substrates before application
+    of paints
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+0313%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_00313_000_000_2004_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_00313_000_000_2004_e_ed10_i4.pdf
+docidentifier:
+- content: JIS Z 0313:2004
+  type: JIS
+  primary: true
+docnumber: Z0313
+date:
+- type: issued
+  at: '2004-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本防錆技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本防錆技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本防錆技術協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 防せい（錆）防食用として鋼材に塗料及び関連製品を被覆する前に，ブラスト処理による素地調整を行った鋼材表面の清浄度及び結露の可能性並びに表面粗さを，目視又は測定器具によって，試験及び評価する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.220.10
+    text: Surface preparation
+  - code: 77.140.01
+    text: Iron and steel products in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z0313

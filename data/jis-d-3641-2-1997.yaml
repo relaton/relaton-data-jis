@@ -1,0 +1,83 @@
+---
+id: JISD364121997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ディーゼル機関―燃料インジェクタの試験―第２部：試験方法
+- language: en
+  script: Latn
+  content: 'Diesel engines -- Testing of fuel injectors -- Part 2: Test methods'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+3641-2%3A1997
+docidentifier:
+- content: JIS D 3641-2:1997
+  type: JIS
+  primary: true
+docnumber: D3641
+date:
+- type: issued
+  at: '1997-03-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　自動車技術会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｄ　３６４１－１（ＩＳＯ　８９８４－１）に規定された手動レバー操作による試験及びセッティングの装置を用いて，ディーゼル機関用燃料（インジェクタに対して行う試験を規定。試験は，ノズル開弁圧；チャター（霧化）；噴霧形状；シート油密；バックリーケージ　である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.060.40
+    text: Fuel systems
+  - code: '43.180'
+    text: Diagnostic, maintenance and test equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D3641

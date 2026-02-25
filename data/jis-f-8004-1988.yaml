@@ -1,0 +1,75 @@
+---
+id: JISF80041988
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用耐圧防爆電気器具通則
+- language: en
+  script: Latn
+  content: General requirements for marine electrical flameproof apparatus
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8004%3A1988
+docidentifier:
+- content: JIS F 8004:1988
+  type: JIS
+  primary: true
+docnumber: F8004
+date:
+- type: issued
+  at: '1988-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　日本船舶標準協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　日本船舶標準協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 財団法人　日本船舶標準協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 船及び海洋構造物において，空気中に可燃性ガス又は可燃性液体の蒸気が引火・爆発するおそれがある濃度で存在する可能性がある場所で，単独に又は他の機器若しくは装置の一部として使用する耐圧防爆構造の電気機具の種類，性能，構造，材料及び検査について一般的事項を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.60
+    text: Electrical equipment of ships and  of marine structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F8004

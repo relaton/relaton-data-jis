@@ -1,0 +1,89 @@
+---
+id: JISX02081997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ７ビット及び８ビットの２バイト情報交換用符号化漢字集合
+- language: en
+  script: Latn
+  content: 7-bit and 8-bit double byte coded KANJI sets for information interchange
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0208%3A1997
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00208_000_000_1997_j_pr11_i4.pdf
+docidentifier:
+- content: JIS X 0208:1997
+  type: JIS
+  primary: true
+docnumber: X0208
+date:
+- type: issued
+  at: '1997-02-28'
+- type: confirmed
+  at: '2007-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ６８７９文字の図形文字とそれらのビット組合せとの対応を規定。符号化漢字集合は，この規格で規定する漢字集合だけを利用する場合，又はＪＩＳ　Ｘ　０２０１のラテン文字用図形文字集合若しくはＩＳＯ／ＩＥＣ　６４６の国際基準版（ＩＲＶ）と組み合わせて利用する場合，それぞれについての７ビット・８ビットの２バイト符号について適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0208

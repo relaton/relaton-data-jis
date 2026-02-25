@@ -1,0 +1,83 @@
+---
+id: JISB82272013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 気液二相流に対する安全弁のサイジング
+- language: en
+  script: Latn
+  content: Sizing of safety valves for gas/liquid two-phase flow
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8227%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08227_000_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8227:2013
+  type: JIS
+  primary: true
+docnumber: B8227
+date:
+- type: issued
+  at: '2013-05-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本バルブ工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本バルブ工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本バルブ工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 反応器，貯槽，塔，熱交換器，配管系又は輸送容器のような加圧系における，気液二相流に対する安全弁のサイジングについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.240'
+    text: Protection against excessive pressure
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8227

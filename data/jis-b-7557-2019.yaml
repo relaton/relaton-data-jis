@@ -1,0 +1,84 @@
+---
+id: JISB75572019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 排水流量計―取引又は証明用
+- language: en
+  script: Latn
+  content: Flowmeter for discharged water -- Measuring instruments used in transaction
+    or certification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7557%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07557_000_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7557:2019
+  type: JIS
+  primary: true
+docnumber: B7557
+date:
+- type: issued
+  at: '2019-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本計量機器工業連合会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 我が国で取引又は証明に使用する，排水の実体積流量を計量する排水流量計について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.120'
+    text: Measurement of fluid flow
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7557

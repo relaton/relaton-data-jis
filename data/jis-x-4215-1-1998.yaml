@@ -1,0 +1,87 @@
+---
+id: JISX421511998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: コンピュータグラフィクス―仮想現実モデリング言語（ＶＲＭＬ）―第１部：機能仕様及びＵＴＦ－８符号化
+- language: en
+  script: Latn
+  content: 'Information technology -- Computer graphics and image processing -- The
+    Virtual Reality Modeling Language (VRML) -- Part 1: Functional specification and
+    UTF-8 encoding'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4215-1%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04215_001_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 4215-1:1998
+  type: JIS
+  primary: true
+docnumber: X4215
+date:
+- type: issued
+  at: '1998-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ３次元グラフィクス及びマルチメディアを統合するファイル形式を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  - code: '35.140'
+    text: Computer graphics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4215

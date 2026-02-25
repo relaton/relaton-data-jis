@@ -1,0 +1,78 @@
+---
+id: JISD10462006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 二輪自動車―ガソリン機関台上モード走行燃料消費率測定方法
+- language: en
+  script: Latn
+  content: Gasoline-fueled two-wheeled vehicles -- Measurement of fuel consumption
+    on a given driving cycle on a chassis dynamometer
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+1046%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01046_000_000_2006_j_ed10_ch.pdf
+docidentifier:
+- content: JIS D 1046:2006
+  type: JIS
+  primary: true
+docnumber: D1046
+date:
+- type: issued
+  at: '2006-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　自動車技術会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ガソリン又は含酸素成分混合ガソリンを燃料とする火花点火機関を搭載した二輪自動車（原動機付自転車，二輪自動車及び側車付二厘自動車を指す。）が，シャシダイナモメータ上で一定速度走行運転及びモード運転を行ったときの燃料消費率の測定方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '43.140'
+    text: Motorcycles and mopeds
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D1046

@@ -1,0 +1,88 @@
+---
+id: JIST03032000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 人工関節用材料のピンオンディスク法による摩耗試験方法
+- language: en
+  script: Latn
+  content: Testing method for wear resistance of materials for artificial joints by
+    pin-on-disk method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0303%3A2000
+docidentifier:
+- content: JIS T 0303:2000
+  type: JIS
+  primary: true
+docnumber: T0303
+date:
+- type: issued
+  at: '2000-05-31'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 関節シミュレーター試験の前段階において試験片レベルでの材料選択に必要となる耐摩耗性を評価する試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.40
+    text: Implants for surgery, prosthetics and orthotics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T0303

@@ -1,0 +1,95 @@
+---
+id: JISC6132612022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 計測用，制御用及び試験室用の電気装置―電磁両立性（ＥＭＣ）要求事項―第１部：一般要求事項
+- language: en
+  script: Latn
+  content: 'Electrical equipment for measurement, control and laboratory use -- EMC
+    requirements -- Part 1: General requirements'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61326-1%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61326_001_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61326-1:2022
+  type: JIS
+  primary: true
+docnumber: C61326
+date:
+- type: issued
+  at: '2022-08-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 交流１　０００　Ｖ未満若しくは直流１　５００　Ｖ未満の，電源若しくは電池で動作する電気装置，又は測定対象の回路からの電源で動作する電気装置の電磁両立性（ＥＭＣ）に関するイミュニティ及びエミッションの要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.20
+    text: Measurement of electrical and magnetic quantities
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  - code: 33.100.20
+    text: Immunity
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61326

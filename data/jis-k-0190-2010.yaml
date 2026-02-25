@@ -1,0 +1,82 @@
+---
+id: JISK01902010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: マイクロビーム分析―電子プローブマイクロ分析―波長分散Ｘ線分光法による点分析における定性分析のための指針
+- language: en
+  script: Latn
+  content: Microbeam analysis -- Electron probe microanalysis -- Guidelines for qualitative
+    point analysis by wavelength dispersive X-ray spectrometry
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0190%3A2010
+docidentifier:
+- content: JIS K 0190:2010
+  type: JIS
+  primary: true
+docnumber: K0190
+date:
+- type: issued
+  at: '2010-04-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　表面化学分析技術国際標準化委員会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　表面化学分析技術国際標準化委員会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　表面化学分析技術国際標準化委員会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子プローブマイクロアナライザ又は走査電子顕微鏡に装着した，波長分散Ｘ線分光器を用いて取得したＸ線スペクトルを解析することによって，試料の数μｍ＊３程度の体積中にある元素の同定及び特定元素の存在の有無を判定するための指針を示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.99
+    text: Other standards related to analytical chemistry
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0190

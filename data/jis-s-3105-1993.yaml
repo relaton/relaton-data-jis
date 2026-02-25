@@ -1,0 +1,81 @@
+---
+id: JISS31051993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 携帯用保冷具
+- language: en
+  script: Latn
+  content: Portable cooling pack
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3105%3A1993
+docidentifier:
+- content: JIS S 3105:1993
+  type: JIS
+  primary: true
+docnumber: S3105
+date:
+- type: issued
+  at: '1994-01-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本保冷剤工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本保冷剤工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本保冷剤工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 家庭用の冷蔵庫で冷却し，内包された内容物の蓄熱効果によって保冷又は冷却するもののうち，繰り返し使用できる携帯用保冷具について規定。ただし，飲食物（加熱等の加工を施すものを除く。）に直接接触して使用するもの，機器に附属しているもの及び化学反応による冷却効果を伴うものを除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.040.30
+    text: Domestic refrigerating appliances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S3105

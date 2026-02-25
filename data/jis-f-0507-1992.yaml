@@ -1,0 +1,81 @@
+---
+id: JISF05071992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 小形船の鋼管使用基準
+- language: en
+  script: Latn
+  content: Small ships -- Steel pipes -- Application
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0507%3A1992
+docidentifier:
+- content: JIS F 0507:1992
+  type: JIS
+  primary: true
+docnumber: F0507
+date:
+- type: issued
+  at: '1992-12-31'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 小形船の一般的な配管に使用する鋼管の使用基準について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.30
+    text: Piping systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F0507

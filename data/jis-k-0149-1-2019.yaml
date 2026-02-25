@@ -1,0 +1,93 @@
+---
+id: JISK014912019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: マイクロビーム分析―走査電子顕微法―第１部：像倍率校正方法
+- language: en
+  script: Latn
+  content: Microbeam analysis -- Scanning electron microscopy -- Guidelines for calibrating
+    image magnification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0149-1%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00149_001_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 0149-1:2019
+  type: JIS
+  primary: true
+docnumber: K0149
+date:
+- type: issued
+  at: '2019-11-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 適切な標準物質を用いて走査電子顕微鏡の像倍率を校正する方法について規定。ただし，この規格は測長ＳＥＭには適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '37.020'
+    text: Optical equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0149

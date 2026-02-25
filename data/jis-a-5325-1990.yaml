@@ -1,0 +1,72 @@
+---
+id: JISA53251990
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄筋コンクリート矢板
+- language: en
+  script: Latn
+  content: Reinforced concrete sheet piles
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5325%3A1990
+docidentifier:
+- content: JIS A 5325:1990
+  type: JIS
+  primary: true
+docnumber: A5325
+date:
+- type: issued
+  at: '1990-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国コンクリート製品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国コンクリート製品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 全国コンクリート製品協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 土止めに用いられる鉄筋コンクリート矢板について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5325

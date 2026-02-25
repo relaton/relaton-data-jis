@@ -1,0 +1,90 @@
+---
+id: JISZ810142025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 統計－用語及び記号－第４部：標本調査法
+- language: en
+  script: Latn
+  content: 'Statistics-Vocabulary and symbols-Part 4: Survey sampling'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8101-4%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08101_004_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8101-4:2025
+  type: JIS
+  primary: true
+docnumber: Z8101
+date:
+- type: issued
+  at: '2025-09-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，様々な調査のためのサンプリング（標本調査法）の分野で使用する用語及び定義について規定する。この規格は，他の規格の作成においても適用可能である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.03
+    text: Services. Company organization, management and quality. Administration.
+      Transport. Sociology. (Vocabularies)
+  - code: 03.120.30
+    text: Application of statistical methods
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8101

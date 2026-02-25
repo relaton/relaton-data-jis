@@ -1,0 +1,75 @@
+---
+id: JISA53101995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 遠心力鉄筋コンクリートくい
+- language: en
+  script: Latn
+  content: Reinforced spun concrete piles
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5310%3A1995
+docidentifier:
+- content: JIS A 5310:1995
+  type: JIS
+  primary: true
+docnumber: A5310
+date:
+- type: issued
+  at: '1995-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　コンクリートポール・パイル協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　コンクリートポール・パイル協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　コンクリートポール・パイル協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 遠心力を応用して製造する鉄筋コンクリートくいについて規定。プレストレストコンクリートくいは除く。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.30
+    text: Concrete and concrete products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5310

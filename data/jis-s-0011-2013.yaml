@@ -1,0 +1,88 @@
+---
+id: JISS00112013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高齢者・障害者配慮設計指針―消費生活用製品における凸点及び凸バー
+- language: en
+  script: Latn
+  content: Ergonomics -- Accessible design -- Tactile dots and bars on consumer products
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+0011%3A2013
+docidentifier:
+- content: JIS S 0011:2013
+  type: JIS
+  primary: true
+docnumber: S0011
+date:
+- type: issued
+  at: '2013-03-21'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "国立研究開発法人　産業技術総合研究所                                                \r\n
+        \                                                                                           公益財団法人　共用品推進機構"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "国立研究開発法人　産業技術総合研究所                                                \r\n
+        \                                                                                           公益財団法人　共用品推進機構"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "国立研究開発法人　産業技術総合研究所                                                \r\n
+          \                                                                                           公益財団法人　共用品推進機構"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 高齢者及び障害のある人を含む全ての人のアクセシビリティーを向上させる目的で，消費生活用製品における凸点及び凸バーの表示方法及び設計について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.180.30
+    text: Aids for blind or partially sighted people
+  - code: '13.180'
+    text: Ergonomics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S0011

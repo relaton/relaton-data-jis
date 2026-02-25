@@ -1,0 +1,83 @@
+---
+id: JISP82021998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: パルプ―ロットの絶乾率の試験方法
+- language: en
+  script: Latn
+  content: Pulps -- Determination of absolute dryness of pulps in lots
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+8202%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_p_08202_000_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS P 8202:1998
+  type: JIS
+  primary: true
+docnumber: P8202
+date:
+- type: issued
+  at: '1999-01-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 紙パルプ技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 紙パルプ技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 紙パルプ技術協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: シート状ベールパルプ，ラップパルプ，スラブ状ベールパルプ及びユニットベールのロットの絶乾率を測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '85.040'
+    text: Pulps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: P8202

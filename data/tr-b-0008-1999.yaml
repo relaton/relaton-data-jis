@@ -1,0 +1,76 @@
+---
+id: TRB00081999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械類の安全性　―　基本概念，設計のための一般原則　―　第１部：基本用語，方法論
+- language: en
+  script: Latn
+  content: 'Safety of machinery -- Basic concepts, general principles for design --
+    Part 1: Basic terminology, methodology'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+B+0008%3A1999
+docidentifier:
+- content: TR B 0008:1999
+  type: JIS
+  primary: true
+docnumber: B0008
+date:
+- type: issued
+  at: '1999-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 設計者及び製造者が専門／非専門用途の機械の設計において安全性を確保できるように，その手助けとして基本用語を定義し，かつ一般的な設計方法を定める。同様な危険のある他の工業製品にも適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 01.040.13
+    text: Environment. Health protection. Safety (Vocabularies)
+  - code: '13.110'
+    text: Safety of machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0008

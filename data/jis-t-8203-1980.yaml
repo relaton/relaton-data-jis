@@ -1,0 +1,75 @@
+---
+id: JIST82031980
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 可搬形ろ過式除じん装置
+- language: en
+  script: Latn
+  content: Portable filter type dust and fume collectors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8203%3A1980
+docidentifier:
+- content: JIS T 8203:1980
+  type: JIS
+  primary: true
+docnumber: T8203
+date:
+- type: issued
+  at: '1980-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本保安用品協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 溶接・溶断作業で発生する粉じんを，その発生箇所において捕集・除去し，作業環境を清浄化するために使用する可搬形ろ過式除じん装置について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.080.10
+    text: Sterilizing equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T8203

@@ -1,0 +1,92 @@
+---
+id: JISC5750412008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ディペンダビリティ管理―第４－１部：適用の指針―リユース部品を含む製品のディペンダビリティ―機能性及び試験に関する要求事項
+- language: en
+  script: Latn
+  content: 'Dependability management -- Part 4-1: Application guide -- Dependability
+    of products containing reused parts -- Requirements for functionality and test'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5750-4-1%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05750_004_001_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 5750-4-1:2008
+  type: JIS
+  primary: true
+docnumber: C5750
+date:
+- type: issued
+  at: '2008-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: リユース部品を新製品に組み込む場合における，リユース部品の信頼性と機能性とを確認するための考え方及び使用法について規定。再認定は，ソフトウェア製品，概念及びアイディアには用いない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.30
+    text: Application of statistical methods
+  - code: '21.020'
+    text: Characteristics and design of machines, apparatus, equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5750

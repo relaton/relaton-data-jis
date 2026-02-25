@@ -1,0 +1,92 @@
+---
+id: JISB89502016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 垂直コンベヤ
+- language: en
+  script: Latn
+  content: Vertical Conveyors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8950%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08950_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8950:2016
+  type: JIS
+  primary: true
+docnumber: B8950
+date:
+- type: issued
+  at: '2016-02-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本産業機械工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 搬送物を垂直に搬送するコンベヤについて規定。人が昇降部への搬送物の搬入，搬出に直接介入する“エレベータ”，“小荷物専用昇降機”，及び“簡易リフト”は，含まない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 53.040.10
+    text: Conveyors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8950

@@ -1,0 +1,89 @@
+---
+id: JISZ31062001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ステンレス鋼溶接継手の放射線透過試験方法
+- language: en
+  script: Latn
+  content: Methods of radiographic examination for welded joints in stainless steel
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3106%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03106_000_000_2001_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03106_000_000_2001_e_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 3106:2001
+  type: JIS
+  primary: true
+docnumber: Z3106
+date:
+- type: issued
+  at: '2001-05-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本溶接協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ステンレス鋼，耐熱鋼，耐食耐熱超合金並びにニッケル及びニッケル合金の溶接継手を，工業用Ｘ線フィルムを用いてＸ線又はγ線による直接撮影方法によって試験を行う放射線透過試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.40
+    text: Welded joints and welds
+  - code: 77.140.75
+    text: Steel pipes and tubes for specific use
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z3106

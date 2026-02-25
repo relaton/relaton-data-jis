@@ -1,0 +1,89 @@
+---
+id: JISB971712011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械類の安全性―圧力検知保護装置―第１部：圧力検知マット及び圧力検知フロアの設計及び試験のための一般原則
+- language: en
+  script: Latn
+  content: 'Safety of machinery -- Pressure-sensitive protective devices -- Part 1:
+    General principles for design and testing of pressure-sensitive mats and pressure-sensitive
+    floors'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9717-1%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09717_001_000_2011_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09717_001_000_2011_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 9717-1:2011
+  type: JIS
+  primary: true
+docnumber: B9717
+date:
+- type: issued
+  at: '2011-03-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械工業連合会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 通常，足で踏むことによって作動し，人を危険な機械から保護する保護装置としての圧力検知マット及び圧力検知フロアに対する要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9717

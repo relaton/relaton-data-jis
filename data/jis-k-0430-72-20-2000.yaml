@@ -1,0 +1,78 @@
+---
+id: JISK043072202000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 水質―培養による微生物計数の一般的指針
+- language: en
+  script: Latn
+  content: Water quality -- General guide to the enumeration of micro-organisms by
+    culture
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0430-72-20%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00430_072_020_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS K 0430-72-20:2000
+  type: JIS
+  primary: true
+docnumber: K0430
+date:
+- type: issued
+  at: '2000-10-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　産業環境管理協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 水の細菌試験，特に試料，培地及び装置を準備するような場合に共通となる操作の指針を規定。利用可能ないろいろの計数方法と技術を選択する基準についても述べる。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.70
+    text: Examination of biological properties of water
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0430

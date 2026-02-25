@@ -1,0 +1,83 @@
+---
+id: JISK04612006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 競合免疫測定方法通則
+- language: en
+  script: Latn
+  content: Guidelines for competitive immunoassay
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0461%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00461_000_000_2006_j_ed11_ch.pdf
+docidentifier:
+- content: JIS K 0461:2006
+  type: JIS
+  primary: true
+docnumber: K0461
+date:
+- type: issued
+  at: '2006-01-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 生物化学的測定研究会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 生物化学的測定研究会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 生物化学的測定研究会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 水・土壌中の，農薬及びその分解物，内分泌かく（撹）乱物質，女性ホルモン，残留性有機汚染物質（ＰＯＰｓ）並びに界面活性剤を競合免疫測定方法を用いて定量する場合の通則について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.50
+    text: Examination of water for chemical substances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0461

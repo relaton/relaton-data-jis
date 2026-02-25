@@ -1,0 +1,91 @@
+---
+id: JISB867242023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 空気圧―試験による機器の信頼性評価―第４部：減圧弁
+- language: en
+  script: Latn
+  content: 'Pneumatic fluid power -- Assessment of component reliability by testing
+    -- Part 4: Pressure regulators'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8672-4%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08672_004_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8672-4:2023
+  type: JIS
+  primary: true
+docnumber: B8672
+date:
+- type: issued
+  at: '2023-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本フルードパワー工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 空気圧用減圧弁の信頼度を決定するための試験方法及び結果報告方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.01
+    text: Fluid power systems in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8672

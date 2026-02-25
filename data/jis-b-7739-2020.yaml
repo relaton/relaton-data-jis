@@ -1,0 +1,97 @@
+---
+id: JISB77392020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 非金属材料用振り子形衝撃試験機―試験機の検証方法
+- language: en
+  script: Latn
+  content: Pendulum-type impact-testing machines for non-metallic materials -- Verification
+    of testing machines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7739%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07739_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7739:2020
+  type: JIS
+  primary: true
+docnumber: B7739
+date:
+- type: issued
+  at: '2020-08-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本試験機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本試験機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本試験機工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｋ　７１１１－１及びＪＩＳ　Ｋ　７１１１－２に規定されたシャルピー衝撃試験，ＪＩＳ　Ｋ　７１１０に規定されたアイゾット衝撃試験及びＪＩＳ　Ｋ　７１６０に規定された引張衝撃試験に使用する振り子形衝撃試験機の検証方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.060'
+    text: Mechanical testing
+  - code: 77.040.10
+    text: Mechanical testing of metals
+  - code: '83.200'
+    text: Equipment for the rubber and plastics industries
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7739

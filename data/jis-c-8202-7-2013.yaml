@@ -1,0 +1,86 @@
+---
+id: JISC820272013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧開閉装置及び制御装置―コントローラ―装置間インタフェース（ＣＤＩ）―第７部：ＣｏｍｐｏＮｅｔ
+- language: en
+  script: Latn
+  content: 'Low-voltage switchgear and controlgear -- Controller-device interfaces
+    (CDIs) -- Part 7: CompoNet'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8202-7%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08202_007_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8202-7:2013
+  type: JIS
+  primary: true
+docnumber: C8202
+date:
+- type: issued
+  at: '2013-11-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: コントローラと，センサ，アクチュエータ，スイッチエレメントなどの制御回路機器との間で，ビットレベル及びワードレベル通信を行うＣｏｍｐｏＮｅｔＴＭのインタフェースについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.130.20
+    text: Low voltage switchgear and controlgear
+  - code: '33.200'
+    text: Telecontrol. Telemetering
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8202

@@ -1,0 +1,88 @@
+---
+id: JISK01842026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 表面化学分析－分析前の試料取扱い
+- language: en
+  script: Latn
+  content: Surface chemical analysis-Handling of specimens prior to analysis
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0184%3A2026
+docidentifier:
+- content: JIS K 0184:2026
+  type: JIS
+  primary: true
+docnumber: K0184
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，表面化学分析用に持ち込まれる試料の取扱い及び容器についての指針を示す。この規格は，表面分析サービスの利用者に対して，表面化学分析技術，特にオージェ電子分光法（AES），X線光電子分光法（XPS）及び二次イオン質量分析法（SIMS）の特別な試料片の取扱い要件を理解する助けとなることを目的とする。この手順は，表面組成に敏感なTXRFなどの他の分析手法にも適用してもよい。特別な場合，特別な試料では，さらなる注意事項が必要な場合がある。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.40
+    text: Chemical analysis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0184

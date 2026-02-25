@@ -1,0 +1,88 @@
+---
+id: JISA50312016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 一般廃棄物，下水汚泥又はそれらの焼却灰を溶融固化したコンクリート用溶融スラグ骨材
+- language: en
+  script: Latn
+  content: Melt-solidified slag aggregate for concrete derived from municipal solid
+    waste and sewage sludge
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5031%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05031_000_000_2016_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05031_000_000_2016_e_ed10_i4.pdf
+docidentifier:
+- content: JIS A 5031:2016
+  type: JIS
+  primary: true
+docnumber: A5031
+date:
+- type: issued
+  at: '2016-10-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本産業機械工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般廃棄物，下水汚泥又はそれらの焼却灰を１　２００℃以上の高温度で溶融し，冷却固化して製造したコンクリート用の溶融固化骨材について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.30
+    text: Concrete and concrete products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5031

@@ -1,0 +1,87 @@
+---
+id: JISB75191994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 指針測微器
+- language: en
+  script: Latn
+  content: Microindicators
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7519%3A1994
+docidentifier:
+- content: JIS B 7519:1994
+  type: JIS
+  primary: true
+docnumber: B7519
+date:
+- type: issued
+  at: '1994-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　精密工学会
+        \                                               \r\n                                                                                            日本精密測定機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　精密工学会
+        \                                               \r\n                                                                                            日本精密測定機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　精密工学会
+          \                                               \r\n                                                                                            日本精密測定機器工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 測定子をもつスピンドルの変位を，機械的に拡大して指針に回転運動が伝えられる構造の長さ測定器で，目量１μｍ以下，指針の回転範囲が１回転未満のものについて規定。電気その他の信号を外部に出す装置を持つものには適用しない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.30
+    text: Measuring instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7519

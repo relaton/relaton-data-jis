@@ -1,0 +1,85 @@
+---
+id: JISC38512012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 屋内用樹脂製ポストがいし
+- language: en
+  script: Latn
+  content: Indoor post insulator of organic material
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3851%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03851_000_000_2012_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 3851:2012
+  type: JIS
+  primary: true
+docnumber: C3851
+date:
+- type: issued
+  at: '2012-10-22'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 大気圧の空気中において公称電圧が１　０００Ｖを超え３３ｋＶ以下，かつ，周波数が１００Ｈｚ以下の交流で用いる電気設備又は機器のための，屋内用樹脂製ポストがいしについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.080.10
+    text: Insulators
+  - code: 29.240.20
+    text: Power transmission and distribution lines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C3851

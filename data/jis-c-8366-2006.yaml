@@ -1,0 +1,90 @@
+---
+id: JISC83662006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ライティングダクト
+- language: en
+  script: Latn
+  content: Lighting busways
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8366%3A2006
+docidentifier:
+- content: JIS C 8366:2006
+  type: JIS
+  primary: true
+docnumber: C8366
+date:
+- type: issued
+  at: '2006-07-20'
+- type: confirmed
+  at: '2011-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本照明工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 照明器具及び／又は小形電気機械器具へ電気を供給する，交流電圧３００Ｖ以下，定格電流３０Ａ以下のクラスⅠライティングダクト，クラスⅠⅠⅠライティングダクト及び共用電源ライティングダクト並びにそれらの附属品について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.10
+    text: Conduits for electrical purposes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8366

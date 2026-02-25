@@ -1,0 +1,89 @@
+---
+id: JISX90101984
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械読取り可能文字の符号（ＯＣＲ及びＭＩＣＲ）
+- language: en
+  script: Latn
+  content: Coding of machine readable characters (OCR and MICR)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9010%3A1984
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09010_000_000_1984_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09010_000_000_1984_e_pr10_i4.pdf
+docidentifier:
+- content: JIS X 9010:1984
+  type: JIS
+  primary: true
+docnumber: X9010
+date:
+- type: issued
+  at: '1985-10-31'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　情報処理学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　情報処理学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　情報処理学会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 光学式文字認識及び磁気インク文字認識の結果認識した文字の符号化表現について，ＪＩＳ　Ｘ　０２０１及びＪＩＳ　Ｘ　０２０２に基づいて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  - code: '35.180'
+    text: IT terminal and other peripheral equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X9010

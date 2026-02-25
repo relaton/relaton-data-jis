@@ -1,0 +1,75 @@
+---
+id: TRX00191999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 文書オブジェクトモデル（ＤＯＭ）水準１　規定
+- language: en
+  script: Latn
+  content: Document Object Model (DOM) Level 1 Specification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0019%3A1999
+docidentifier:
+- content: TR X 0019:1999
+  type: JIS
+  primary: true
+docnumber: X0019
+date:
+- type: issued
+  at: '1999-10-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 文書オブジェクトモデル（ＤＯＭ）は，ＨＴＭＬ文書及びＸＭＬ文書のためのアプリケーションプログラムインタフェース（ＡＰＩ）とする。文書の論理構造及び文書にアクセスし操作する方法を定義。ＤＯＭ規定では，”文書”という用語を広義の意味で使用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0019

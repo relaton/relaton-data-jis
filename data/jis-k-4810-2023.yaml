@@ -1,0 +1,81 @@
+---
+id: JISK48102023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 火薬類性能試験方法
+- language: en
+  script: Latn
+  content: Testing methods of explosives
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+4810%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_04810_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 4810:2023
+  type: JIS
+  primary: true
+docnumber: K4810
+date:
+- type: issued
+  at: '2023-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "日本火薬工業会                                                \r\n                                                                                            公益社団法人　全国火薬類保安協会"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "日本火薬工業会                                                \r\n                                                                                            公益社団法人　全国火薬類保安協会"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "日本火薬工業会                                                \r\n                                                                                            公益社団法人　全国火薬類保安協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 火薬類の性能試験について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.100.30
+    text: Explosives. Pyrotechnics and fireworks
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K4810

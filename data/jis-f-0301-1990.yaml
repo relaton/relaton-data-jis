@@ -1,0 +1,81 @@
+---
+id: JISF03011990
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 小形船の諸管の保温・防熱・防露の施工要領
+- language: en
+  script: Latn
+  content: Schemes of thermal insulation of piping for small ships
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0301%3A1990
+docidentifier:
+- content: JIS F 0301:1990
+  type: JIS
+  primary: true
+docnumber: F0301
+date:
+- type: issued
+  at: '1990-03-31'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 小形船の船体部諸管の保温，防熱及び防露施工の要領について規定。ただし，防熱については，管内流体の温度が６０℃以上の管とする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.30
+    text: Piping systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F0301

@@ -1,0 +1,93 @@
+---
+id: JISX573182003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 開放型システム間相互接続―ディレクトリ―第８部　認証の枠組み
+- language: en
+  script: Latn
+  content: 'Information technology -- Open Systems Interconnection -- The Directory:
+    Public-key and attribute certificate frameworks'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5731-8%3A2003
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05731_008_000_2003_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 5731-8:2003
+  type: JIS
+  primary: true
+docnumber: X5731
+date:
+- type: issued
+  at: '2003-10-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会　情報規格調査会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会　情報規格調査会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会　情報規格調査会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 認証及びその他のセキリュティサービスの領域におけるセキュリティ要件を，十分なサービスの基礎である枠組み一式の提供を通して取り扱う。ａ）公開かぎ証明書の枠組み　ｂ）属性証明書の枠組み　ｃ）認証サービスの枠組みを規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.70
+    text: Application layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5731

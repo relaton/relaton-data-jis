@@ -1,0 +1,97 @@
+---
+id: JISC870212009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 小形制御弁式鉛蓄電池―第１部：一般要求事項，機能特性及び試験方法
+- language: en
+  script: Latn
+  content: 'Small-sized valve regulated lead-acid batteries -- Part 1: General requirements,
+    functional characteristics -- Methods of test'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8702-1%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08702_001_000_2009_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08702_001_000_2009_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 8702-1:2009
+  type: JIS
+  primary: true
+docnumber: C8702
+date:
+- type: issued
+  at: '2009-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電池工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電池工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電池工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 補水を必要としないサイクル仕様用，トリクル仕様用及び浮動仕様用小形制御弁式鉛蓄電池の一般要求事項及び機能特性，並びにこれに対応する試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.220.20
+    text: Acid secondary cells and batteries
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8702

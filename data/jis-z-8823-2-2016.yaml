@@ -1,0 +1,93 @@
+---
+id: JISZ882322016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 液相遠心沈降法による粒子径分布の測定方法―第２部：光透過式遠心沈降法
+- language: en
+  script: Latn
+  content: 'Determination of particle size distribution by centrifugal liquid sedimentation
+    methods -- Part 2: Photocentrifuge method'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8823-2%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08823_002_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8823-2:2016
+  type: JIS
+  primary: true
+docnumber: Z8823
+date:
+- type: issued
+  at: '2016-03-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本粉体工業技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 粉体材料の粒子径分布を，光透過式液相遠心沈降法によって測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.120'
+    text: Particle size analysis. Sieving
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8823

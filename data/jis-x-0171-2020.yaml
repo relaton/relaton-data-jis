@@ -1,0 +1,93 @@
+---
+id: JISX01712020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: システム及びソフトウェア技術―ライフサイクルにおける情報項目の内容（ドキュメンテーション）
+- language: en
+  script: Latn
+  content: Systems and software engineering -- Content of life-cycle information items
+    (documentation)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0171%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00171_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0171:2020
+  type: JIS
+  primary: true
+docnumber: X0171
+date:
+- type: issued
+  at: '2020-06-22'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 全ての対象となるシステムライフサイクル及びソフトウェアライフサイクル，並びにサービスマネジメントにおける情報項目（文書類）の目的及び内容について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0171

@@ -1,0 +1,93 @@
+---
+id: JISA140512007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 音響管による吸音率及びインピーダンスの測定―第１部：定在波比法
+- language: en
+  script: Latn
+  content: 'Acoustics -- Determination of sound absorption coefficient and impedance
+    in impedance tubes -- Part 1: Method using standing wave ratio'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1405-1%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01405_001_000_2007_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 1405-1:2007
+  type: JIS
+  primary: true
+docnumber: A1405
+date:
+- type: issued
+  at: '2007-04-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　建材試験センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　建材試験センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　建材試験センター"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 材料又は物体の吸音率，音圧反射率及び表面の垂直入射比音響インピーダンス又は表面の垂直入射比音響アドミタンスの算出方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.140.01
+    text: Acoustic measurements and noise abatement in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1405

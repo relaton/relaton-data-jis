@@ -1,0 +1,95 @@
+---
+id: JISC657512009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ミニチュアヒューズ―第１部：ミニチュアヒューズに関する用語及びミニチュアヒューズリンクに対する通則
+- language: en
+  script: Latn
+  content: 'Miniature fuses -- Part 1: Definitions of miniature fuses and general
+    requirements for miniature fuse-links'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6575-1%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06575_001_000_2009_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06575_001_000_2009_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 6575-1:2009
+  type: JIS
+  primary: true
+docnumber: C6575
+date:
+- type: issued
+  at: '2009-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　電気安全環境研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　電気安全環境研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　電気安全環境研究所"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 通常屋内において用いる電気機器，電子機器及びそれらの部品の保護を目的とする後続の部に規定するすべてのミニチュアヒューズ（例えば，管形ヒューズリンク，サブミニチュアヒューズリンク及びUMヒューズリンク）に適用する通則及び試験について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.50
+    text: Fuses and other overcurrent protection devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6575

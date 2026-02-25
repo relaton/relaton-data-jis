@@ -1,0 +1,83 @@
+---
+id: JISC89932020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 太陽電池（ＰＶ）モジュール用火災試験方法
+- language: en
+  script: Latn
+  content: Fire test for Photovoltaic (PV) modules
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8993%3A2020
+docidentifier:
+- content: JIS C 8993:2020
+  type: JIS
+  primary: true
+docnumber: C8993
+date:
+- type: issued
+  at: '2020-02-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 移動体及び集光形システムに用いるものを除く，最大直流システム電圧１５００ Ｖ以下の全ての平板形太陽電池モジュールを対象に，ＪＩＳ　Ｃ　６１７３０－１及びＪＩＳ　Ｃ　６１７３０－２が要求する基本的な火に対する性能を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  - code: 29.220.99
+    text: Other cells and batteries
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8993

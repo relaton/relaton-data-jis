@@ -1,0 +1,87 @@
+---
+id: JISD42021994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車用タイヤ―呼び方及び諸元
+- language: en
+  script: Latn
+  content: Automobile tyres -- Designation and dimensions
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+4202%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_04202_000_000_1994_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_04202_000_000_1994_e_ed10_i4.pdf
+docidentifier:
+- content: JIS D 4202:1994
+  type: JIS
+  primary: true
+docnumber: D4202
+date:
+- type: issued
+  at: '1994-11-30'
+- type: confirmed
+  at: '2020-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車タイヤ協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車タイヤ協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本自動車タイヤ協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 自動車に用いるタイヤの種類及び呼び方，並びにタイヤ諸元の決定に必要な基本的事項について規定。産業車両用，建設車両用，農業車両用，農業機械用及び二輪自動車用のタイヤにには適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.160.10
+    text: Road vehicle tyres
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D4202

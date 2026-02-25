@@ -1,0 +1,75 @@
+---
+id: JISC83721991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧遮断器
+- language: en
+  script: Latn
+  content: Low-voltage circuit breakers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8372%3A1991
+docidentifier:
+- content: JIS C 8372:1991
+  type: JIS
+  primary: true
+docnumber: C8372
+date:
+- type: issued
+  at: '1991-12-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 周波数５０Ｈｚ又は６０Ｈｚの交流６００Ｖ以下又は直流７５０Ｖ以下の電路に用いる定格通電電流８０００Ａ以下（定格遮断電流２００ｋＡ以下）の低圧遮断器について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.50
+    text: Fuses and other overcurrent protection devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8372

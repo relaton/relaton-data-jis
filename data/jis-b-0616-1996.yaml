@@ -1,0 +1,93 @@
+---
+id: JISB06161996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 円すいはめあい方式
+- language: en
+  script: Latn
+  content: System of cone fits
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0616%3A1996
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00616_000_000_1996_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00616_000_000_1996_e_pr10_i4.pdf
+docidentifier:
+- content: JIS B 0616:1996
+  type: JIS
+  primary: true
+docnumber: B0616
+date:
+- type: issued
+  at: '1996-01-31'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: テーパ比１／３～１／５００，円すい長さ６ｍｍを超え６３０ｍｍ以下で，ＪＩＳ　Ｂ　０６１４で規定している円すい直径公差による方法に従って公差を指定した，円すい部品に適用する円すいはめあい方式について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.10
+    text: Limits and fits
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0616

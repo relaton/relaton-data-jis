@@ -1,0 +1,92 @@
+---
+id: JISA834132025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 土工機械－機能安全－第３部：制御システムの安全関連部に使用される電気・電子コンポーネントの環境性能及び試験要求事項
+- language: en
+  script: Latn
+  content: 'Earth-moving machinery-Functional safety-Part 3: Environmental performance
+    and test requirements of electronic and electrical components used in safety-related
+    parts of the control system'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8341-3%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_08341_003_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 8341-3:2025
+  type: JIS
+  primary: true
+docnumber: A8341
+date:
+- type: issued
+  at: '2025-05-26'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建設機械施工協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建設機械施工協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本建設機械施工協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，JIS A 8308で定義されている土工機械及びアタッチメントで使用する制御システムの安全関連部（SRP/CS）として特定されている電気・電子コンポーネントの環境試験の最低限度の要求事項を規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '53.100'
+    text: Earth-moving machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8341

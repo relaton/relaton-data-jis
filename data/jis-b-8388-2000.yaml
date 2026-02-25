@@ -1,0 +1,82 @@
+---
+id: JISB83882000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 油圧・空気圧システム及び機器―アースコンタクト付き３ピン電気プラグコネクタの特性及び要求事項
+- language: en
+  script: Latn
+  content: Fluid power systems and components -- Three-pin electrical plug connectors
+    with earth contact -- Characteristics and requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8388%3A2000
+docidentifier:
+- content: JIS B 8388:2000
+  type: JIS
+  primary: true
+docnumber: B8388
+date:
+- type: issued
+  at: '2000-07-31'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本フルードパワー工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: シングルソレノイド用アースコンタクト付一般用３ピン電気プラグコネクタについて，コネクタの電気特性；ピン及びアースコンタクトの寸法；ソケットのプラグへの取付け方法；プラグとソケット間のシール手順；使用法の要求事項のような特性及び要求事項を適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.99
+    text: Other fluid power system components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8388

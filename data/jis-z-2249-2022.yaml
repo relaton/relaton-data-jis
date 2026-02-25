@@ -1,0 +1,81 @@
+---
+id: JISZ22492022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: コニカルカップ試験方法
+- language: en
+  script: Latn
+  content: Method of conical cup test
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2249%3A2022
+docidentifier:
+- content: JIS Z 2249:2022
+  type: JIS
+  primary: true
+docnumber: Z2249
+date:
+- type: issued
+  at: '2022-05-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 厚さ０．５　ｍｍ～１．６　ｍｍの薄鋼板のコニカルカップ値（ＣＣＶ）を測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.040.10
+    text: Mechanical testing of metals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z2249

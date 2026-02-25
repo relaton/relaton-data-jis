@@ -1,0 +1,99 @@
+---
+id: JISC13022025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 絶縁抵抗計
+- language: en
+  script: Latn
+  content: Insulation resistance testers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1302%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01302_000_000_2025_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01302_000_000_2025_e_ed10_ch.pdf
+docidentifier:
+- content: JIS C 1302:2025
+  type: JIS
+  primary: true
+docnumber: C1302
+date:
+- type: issued
+  at: '2025-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，電池を内蔵する定格測定電圧1000 V以下で，測定対象として次のa)～e)に用いる携帯用の絶縁抵抗計について規定する。\na)\t低電圧配電路の絶縁測定　交流1000
+    V及び直流1500 V以下の配電系統で，電源が切断されている電路及び機器の絶縁測定\nb)\t機器，器具，部品などの絶縁測定\nc)\t高電圧設備の絶縁測定\nd)\t発電状態にある太陽電池アレイのP-N端子間を短絡する方法での絶縁測定\ne)\t発電状態にある太陽電池アレイのP-N端子間を短絡しない方法での絶縁測定"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.20
+    text: Measurement of electrical and magnetic quantities
+  - code: 29.080.01
+    text: Electrical insulation in general
+  - code: 29.240.01
+    text: Power transmission and distribution networks in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1302

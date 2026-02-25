@@ -1,0 +1,73 @@
+---
+id: JISK63121977
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 小児乗物用ソリッドタイヤ
+- language: en
+  script: Latn
+  content: Solid tire for child's vehicles
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6312%3A1977
+docidentifier:
+- content: JIS K 6312:1977
+  type: JIS
+  primary: true
+docnumber: K6312
+date:
+- type: issued
+  at: '1977-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 小児乗物用ソリッドタイヤについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.160.10
+    text: Road vehicle tyres
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K6312

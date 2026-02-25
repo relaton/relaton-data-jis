@@ -1,0 +1,77 @@
+---
+id: JISC89212008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 二次基準シリコン結晶系太陽電池モジュール
+- language: en
+  script: Latn
+  content: 'Photovoltaic devices -- Part 2: Requirements for reference solar devices'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8921%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08921_000_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8921:2008
+  type: JIS
+  primary: true
+docnumber: C8921
+date:
+- type: issued
+  at: '2008-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国立研究開発法人　産業技術総合研究所
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国立研究開発法人　産業技術総合研究所
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 国立研究開発法人　産業技術総合研究所
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 平面・非集光形の地上用二次基準シリコン結晶系太陽電池モジュールの性能，選別，校正，表示及び取扱い方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8921

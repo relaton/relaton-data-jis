@@ -1,0 +1,90 @@
+---
+id: JISG12571712013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄及び鋼―原子吸光分析方法―第１７部：アンチモン定量方法―第１節：よう化物抽出フレーム法
+- language: en
+  script: Latn
+  content: 'Iron and steel -- Atomic absorption spectrometric method -- Part 17: Determination
+    of antimony -- Section 1: Flame atomization after extraction of iodide'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+1257-17-1%3A2013
+docidentifier:
+- content: JIS G 1257-17-1:2013
+  type: JIS
+  primary: true
+docnumber: G1257
+date:
+- type: issued
+  at: '2013-11-20'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄及び鋼中のアンチモンを原子吸光分析によって定量する方法のうち，よう化物抽出フレーム法について規定。鉄及び鋼中のアンチモン含有率（質量分率）０．００１　５％以上０．０５０％以下の定量に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.50
+    text: Physicochemical methods of analysis
+  - code: 77.080.01
+    text: Ferrous metals in general
+  - code: 77.080.10
+    text: Irons
+  - code: 77.080.20
+    text: Steels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G1257

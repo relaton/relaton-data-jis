@@ -1,0 +1,81 @@
+---
+id: JISZ91211997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 屋外陸上競技場，屋外サッカー場及びラグビー場の照明基準
+- language: en
+  script: Latn
+  content: Lighting for outdoor track and field, outdoor soccer fields and rugby fields
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9121%3A1997
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09121_000_000_1997_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09121_000_000_1997_e_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 9121:1997
+  type: JIS
+  primary: true
+docnumber: Z9121
+date:
+- type: issued
+  at: '1997-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　照明学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　照明学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　照明学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 屋外陸上競技場，屋外サッカー場及びラグビー場，又はこれらの兼用施設の照明基準について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.160.20
+    text: Exterior building lighting
+  - code: 97.220.10
+    text: Sports facilities
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9121

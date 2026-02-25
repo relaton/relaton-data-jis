@@ -1,0 +1,95 @@
+---
+id: JISH32702025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ベリリウム銅，りん青銅及び洋白の棒及び線
+- language: en
+  script: Latn
+  content: Copper beryllium alloy, phosphor bronze and nickel silver rods, bars and
+    wires
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+3270%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_03270_000_000_2025_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_03270_000_000_2025_e_ed10_ch.pdf
+docidentifier:
+- content: JIS H 3270:2025
+  type: JIS
+  primary: true
+docnumber: H3270
+date:
+- type: issued
+  at: '2025-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本伸銅協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本伸銅協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本伸銅協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，展伸加工したベリリウム銅，りん青銅及び洋白の断面が丸形・正六角形・長方形の棒及び断面が丸形・正六角形・正方形・長方形の線について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.150.30
+    text: Copper products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H3270

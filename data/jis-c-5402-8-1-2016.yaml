@@ -1,0 +1,91 @@
+---
+id: JISC5402812016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子機器用コネクタ―試験及び測定―第８－１部：静的な力試験（固定形コネクタ）―試験８ａ：静的な力，横方向
+- language: en
+  script: Latn
+  content: 'Connectors for electronic equipment -- Tests and measurements -- Part
+    8-1: Static load tests (fixed connectors) -- Test 8a: Static load, transverse'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5402-8-1%3A2016
+docidentifier:
+- content: JIS C 5402-8-1:2016
+  type: JIS
+  primary: true
+docnumber: C5402
+date:
+- type: issued
+  at: '2016-03-22'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 横方向の静的な力を受けるアプリケーションに用いる固定形コネクタの適合性を評価するための標準の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.220.01
+    text: Electromechanical components in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5402

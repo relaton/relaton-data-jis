@@ -1,0 +1,91 @@
+---
+id: JISC8281212024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用及びこれに類する用途の固定電気設備用スイッチ―第２－１部：電子制御装置の個別要求事項
+- language: en
+  script: Latn
+  content: 'Switches for household and similar fixed electrical installations -- Part
+    2-1: Particular requirements -- Electronic control devices'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8281-2-1%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08281_002_001_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8281-2-1:2024
+  type: JIS
+  primary: true
+docnumber: C8281
+date:
+- type: issued
+  at: '2024-04-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本配線システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本配線システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本配線システム工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "家庭用及びこれに類する用途の固定電気設備用であって，屋内用又は屋外用の定格電圧が交流２５０　Ｖ以下で定格電流が１６　Ａ以下の，次の［－\t電子スイッチ；－\t住宅用及びビル用の電子システム（ＨＢＥＳ）スイッチ又はビル用自動制御システム（ＢＡＣＳ）スイッチ；－\t電子式拡張ユニット（子器）］スイッチをもつ電子制御装置について規定。"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.40
+    text: Switches
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8281

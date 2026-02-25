@@ -1,0 +1,88 @@
+---
+id: JISB970612009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械類の安全性―表示，マーキング及び操作―第１部：視覚，聴覚及び触覚シグナルの要求事項
+- language: en
+  script: Latn
+  content: 'Safety of machinery -- Indication, marking and actuation -- Part 1: Requirements
+    for visual, acoustic and tactile signals'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9706-1%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09706_001_000_2009_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09706_001_000_2009_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 9706-1:2009
+  type: JIS
+  primary: true
+docnumber: B9706
+date:
+- type: issued
+  at: '2009-05-01'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械工業連合会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 機械のＨＭＩにおいて，また，危険区域内にいる人に対して，安全関連情報を伝達するための視覚的手段，聴覚的手段及び触覚的手段に対する要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9706

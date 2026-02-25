@@ -1,0 +1,93 @@
+---
+id: JISK62702018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 加硫ゴム及び熱可塑性ゴム―引張疲労特性の求め方（定ひずみ方法）
+- language: en
+  script: Latn
+  content: Rubber, vulcanized or thermoplastics -- Determination of tension fatigue
+    (Constant strain method)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6270%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06270_000_000_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 6270:2018
+  type: JIS
+  primary: true
+docnumber: K6270
+date:
+- type: issued
+  at: '2018-06-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ゴム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ゴム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ゴム工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 加硫ゴム及び熱可塑性ゴムの試験片に，発熱がほとんど生じない範囲の周波数で，ゼロから所定ひずみまでの一定振幅の引張変形を与える疲労試験を行ったときの疲労寿命及び関連する諸特性の求め方について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '83.060'
+    text: Rubber
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K6270

@@ -1,0 +1,93 @@
+---
+id: JISP82302005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 古紙パルプ―反射光を用いた計測器による異物の評価方法
+- language: en
+  script: Latn
+  content: Recycled pulps -- Estimation of visible contraries by instrumental means
+    using reflected light
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+8230%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_p_08230_000_000_2005_j_ed10_ch.pdf
+docidentifier:
+- content: JIS P 8230:2005
+  type: JIS
+  primary: true
+docnumber: P8230
+date:
+- type: issued
+  at: '2005-07-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           紙パルプ技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           紙パルプ技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           紙パルプ技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 反射光を用いた計測器によって古紙パルプ中の目視できる異物を測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '85.040'
+    text: Pulps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: P8230

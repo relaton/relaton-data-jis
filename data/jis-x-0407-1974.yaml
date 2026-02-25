@@ -1,0 +1,72 @@
+---
+id: JISX04071974
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 学歴区分コード
+- language: en
+  script: Latn
+  content: Classification code for school education completed
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0407%3A1974
+docidentifier:
+- content: JIS X 0407:1974
+  type: JIS
+  primary: true
+docnumber: X0407
+date:
+- type: issued
+  at: '1974-03-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本情報経済社会推進協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本情報経済社会推進協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本情報経済社会推進協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: データ処理機械を用いて機械と機械，機械と人との間で情報を交換する場合の学歴区分コードについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0407

@@ -1,0 +1,83 @@
+---
+id: JIST92832018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 福祉用具―留置形手すり
+- language: en
+  script: Latn
+  content: Assistive products -- Cramp and thrust type handrails and grab bars
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9283%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09283_000_000_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 9283:2018
+  type: JIS
+  primary: true
+docnumber: T9283
+date:
+- type: issued
+  at: '2018-02-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本福祉用具・生活支援用具協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本福祉用具・生活支援用具協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本福祉用具・生活支援用具協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 個人住宅，病院，リハビリテーションセンタなどを含む多数の者が利用する公共施設の室内及び屋内において，主として高齢者及び障害者が使用する，歩行及び種々動作を支援する留置形手すりについて規定。落下防止用手すりは除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '11.180'
+    text: Aids for disabled or handicapped persons
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9283

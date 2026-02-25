@@ -1,0 +1,88 @@
+---
+id: JIST32112011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 滅菌済み輸液セット
+- language: en
+  script: Latn
+  content: Sterile infusion administration set
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+3211%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03211_000_000_2011_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03211_000_000_2011_e_ed10_i4.pdf
+docidentifier:
+- content: JIS T 3211:2011
+  type: JIS
+  primary: true
+docnumber: T3211
+date:
+- type: issued
+  at: '2011-08-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 輸液を輸注するための滅菌済み輸液セットで、そのまま直ちに使用でき，かつ，１回限りの使用で使い捨てる輸液セットについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.20
+    text: Transfusion, infusion and injection equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T3211

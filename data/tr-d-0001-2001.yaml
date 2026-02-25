@@ -1,0 +1,78 @@
+---
+id: TRD00012001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＩＴＳ用語集
+- language: en
+  script: Latn
+  content: Glossary of ITS terminologies
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+D+0001%3A2001
+docidentifier:
+- content: TR D 0001:2001
+  type: JIS
+  primary: true
+docnumber: D0001
+date:
+- type: issued
+  at: '2001-12-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 急速に発展するＩＴＳ関連分野において，関係者の間での用語の混乱や誤解による生産性の低下を防止すべく，ＩＴＳ分野で標準的に用いられている用語とその説明の一覧を提供。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 01.040.03
+    text: Services. Company organization, management and quality. Administration.
+      Transport. Sociology. (Vocabularies)
+  - code: 03.220.01
+    text: Transport in general
+  - code: 35.240.60
+    text: IT applications in transport
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0001

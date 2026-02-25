@@ -1,0 +1,87 @@
+---
+id: JISB82301989
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 小形継目なし鋼製高圧ガス容器
+- language: en
+  script: Latn
+  content: Small type seamless steel gas cylinders
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8230%3A1989
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08230_000_000_1989_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08230_000_000_1989_e_pr10_i4.pdf
+docidentifier:
+- content: JIS B 8230:1989
+  type: JIS
+  primary: true
+docnumber: B8230
+date:
+- type: issued
+  at: '1989-05-31'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 高圧容器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 高圧容器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 高圧容器工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 高圧ガスを充てんする内容積が０．１ｌを超え１ｌ以下の継目なし鋼製高圧ガス容器について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.020.30
+    text: Pressure vessels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8230

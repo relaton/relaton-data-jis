@@ -1,0 +1,87 @@
+---
+id: JISC96181992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 飲料用電気冷水機
+- language: en
+  script: Latn
+  content: Drinking-water coolers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9618%3A1992
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09618_000_000_1992_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09618_000_000_1992_e_pr10_i4.pdf
+docidentifier:
+- content: JIS C 9618:1992
+  type: JIS
+  primary: true
+docnumber: C9618
+date:
+- type: issued
+  at: '1992-04-30'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 圧縮式冷凍機と冷却水槽とを一体とした飲料用電気冷水機で，その消費電力が５００Ｗ以下のものについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.040.30
+    text: Domestic refrigerating appliances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9618

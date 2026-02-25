@@ -1,0 +1,94 @@
+---
+id: JISC61558292008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 変圧器，電源装置，リアクトル及びこれに類する装置の安全性―第２－９部：白熱電球のクラスＩＩＩハンドランプ用変圧器の個別要求事項
+- language: en
+  script: Latn
+  content: 'Safety of power transformers, power supply units and similar products
+    -- Part 2-9: Particular requirements for transformers for class III handlamps
+    for tungsten filament lamps'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61558-2-9%3A2008
+docidentifier:
+- content: JIS C 61558-2-9:2008
+  type: JIS
+  primary: true
+docnumber: C61558
+date:
+- type: issued
+  at: '2008-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　電気安全環境研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　電気安全環境研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　電気安全環境研究所"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気的安全性，熱的安全性，機械的安全性などの安全側面について規定。乾式変圧器に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.140.20
+    text: Incandescent lamps
+  - code: '29.180'
+    text: Transformers. Reactors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61558

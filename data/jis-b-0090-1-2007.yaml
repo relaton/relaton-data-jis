@@ -1,0 +1,94 @@
+---
+id: JISB009012007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光学素子及びシステム用の製図手法―第１部：通則
+- language: en
+  script: Latn
+  content: 'Preparation of drawings for optical elements and systems -- Part 1: General'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0090-1%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00090_001_000_2007_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 0090-1:2007
+  type: JIS
+  primary: true
+docnumber: B0090
+date:
+- type: issued
+  at: '2007-09-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本光学工業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本光学工業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本光学工業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 光学素子及びシステムの特性，特に許容限界の製図上での表記方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.100.20
+    text: Mechanical engineering drawings
+  - code: '37.020'
+    text: Optical equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0090

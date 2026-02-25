@@ -1,0 +1,89 @@
+---
+id: JISA69322026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 屋根用応急シート－ポリエチレンクロス・ラミネートシート
+- language: en
+  script: Latn
+  content: Polyethylene tarpaulin for emergency roof covering and building envelope
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+6932%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_06932_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 6932:2026
+  type: JIS
+  primary: true
+docnumber: A6932
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，災害時において，屋根などの建築物外皮の修理を行うまでの間に応急処置を目的として使用する，ポリエチレンを主材料として防水加工を施したポリエチレンクロス・ラミネートシート（応急シート）について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.140.10
+    text: Films and sheets
+  - code: 91.120.30
+    text: Waterproofing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A6932

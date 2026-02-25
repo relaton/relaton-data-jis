@@ -1,0 +1,81 @@
+---
+id: JISB95181992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 金銭登録機用記録紙及び領収紙
+- language: en
+  script: Latn
+  content: Receipt and journal paper for cash register
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9518%3A1992
+docidentifier:
+- content: JIS B 9518:1992
+  type: JIS
+  primary: true
+docnumber: B9518
+date:
+- type: issued
+  at: '1992-11-30'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 金銭登録機などに用いる記録紙及び領収紙の巻紙について規定。感圧紙，感熱紙及び光学的文字読取り機用用紙には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '85.080'
+    text: Paper products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9518

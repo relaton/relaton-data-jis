@@ -1,0 +1,84 @@
+---
+id: JISX57551993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 文書の格納・検索（ＤＦＲ）　―　第１部　抽象サービス定義及び手続
+- language: en
+  script: Latn
+  content: 'Information technology -- Text and office systems -- Document Filing and
+    Retrieval (DFR) -- Part 1: Abstract service definition and procedures'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5755%3A1993
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05755_000_000_1993_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5755:1993
+  type: JIS
+  primary: true
+docnumber: X5755
+date:
+- type: issued
+  at: '1993-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 利用者が遠隔の文書格納装置を利用するための文書の格納・検索（ＤＦＲ）抽出サービスを規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.70
+    text: Application layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5755

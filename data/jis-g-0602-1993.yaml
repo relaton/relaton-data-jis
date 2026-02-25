@@ -1,0 +1,86 @@
+---
+id: JISG06021993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 制振鋼板の振動減衰特性試験方法
+- language: en
+  script: Latn
+  content: Test methods for vibration-damping property in laminated damping steel
+    sheets of constrained type
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0602%3A1993
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00602_000_000_1993_j_pr10_i4.pdf
+docidentifier:
+- content: JIS G 0602:1993
+  type: JIS
+  primary: true
+docnumber: G0602
+date:
+- type: issued
+  at: '1994-02-28'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　大阪科学技術センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　大阪科学技術センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　大阪科学技術センター
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 制振鋼板の両端自由はり及び片持はりの曲げ振動に対する振動減衰性の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.50
+    text: Flat steel products and semi-products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G0602

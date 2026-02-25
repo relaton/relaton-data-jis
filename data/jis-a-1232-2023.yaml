@@ -1,0 +1,90 @@
+---
+id: JISA12322023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 固定ピストン式サンプラーによる土試料の採取方法
+- language: en
+  script: Latn
+  content: Method for obtaining soil samples using the fixed piston sampler
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1232%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01232_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 1232:2023
+  type: JIS
+  primary: true
+docnumber: A1232
+date:
+- type: issued
+  at: '2023-03-13'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　地盤工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　地盤工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　地盤工学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 軟らかい粘性土及び砂質土を対象とし，固定ピストン式サンプラーを用いて乱れの少ない土試料を採取する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.080.01
+    text: Soil quality and pedology in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1232

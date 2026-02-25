@@ -1,0 +1,81 @@
+---
+id: JIST82021997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 一般用風速計
+- language: en
+  script: Latn
+  content: Anemometer for general use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8202%3A1997
+docidentifier:
+- content: JIS T 8202:1997
+  type: JIS
+  primary: true
+docnumber: T8202
+date:
+- type: issued
+  at: '1997-10-01'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本保安用品協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 事務所，工場，地下街などの自然換気及び人工換気における空気流の速さを測定し，風速値を指示する一般用風速計について規定。気象用，航空機・船舶用，鉱山防爆用など，他に規格が制定されている風速計を除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.99
+    text: Other medical equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T8202

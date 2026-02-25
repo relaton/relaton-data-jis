@@ -1,0 +1,91 @@
+---
+id: JISZ80502016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 安全側面―規格及びその他の仕様書における子どもの安全の指針
+- language: en
+  script: Latn
+  content: Safety aspects -- Guidelines for child safety in standards and other specifications
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8050%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08050_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8050:2016
+  type: JIS
+  primary: true
+docnumber: Z8050
+date:
+- type: issued
+  at: '2016-12-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 規格，仕様書及び類似の出版物を作成又は改正する専門家に対する指針を示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '01.120'
+    text: Standardization. General rules
+  - code: '97.190'
+    text: Equipment for children
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8050

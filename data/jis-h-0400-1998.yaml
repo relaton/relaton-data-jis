@@ -1,0 +1,89 @@
+---
+id: JISH04001998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気めっき及び関連処理用語
+- language: en
+  script: Latn
+  content: Glossary of terms used in electroplating and related processes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+0400%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_00400_000_000_1998_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_00400_000_000_1998_e_pr10_i4.pdf
+docidentifier:
+- content: JIS H 0400:1998
+  type: JIS
+  primary: true
+docnumber: H0400
+date:
+- type: issued
+  at: '1999-03-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　表面技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　表面技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　表面技術協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気めっき及び関連処理において用いられる用語及び定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.25
+    text: Manufacturing engineering (Vocabularies)
+  - code: 25.220.40
+    text: Metallic coatings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H0400

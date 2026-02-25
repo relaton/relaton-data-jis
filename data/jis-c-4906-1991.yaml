@@ -1,0 +1,87 @@
+---
+id: JISC49061991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: シンクロ電機
+- language: en
+  script: Latn
+  content: Synchros
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4906%3A1991
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04906_000_000_1991_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04906_000_000_1991_e_pr10_i4.pdf
+docidentifier:
+- content: JIS C 4906:1991
+  type: JIS
+  primary: true
+docnumber: C4906
+date:
+- type: issued
+  at: '1991-11-30'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 角度信号の伝達，指示などの目的に用いるシンクロ電機で，周波数５０Ｈ，６０Ｈｚ，５０／６０Ｈｚ共通用，交流電圧２５０Ｖ以下の電路に使用するものについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.160.30
+    text: Motors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C4906

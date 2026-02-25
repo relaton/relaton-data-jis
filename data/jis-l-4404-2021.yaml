@@ -1,0 +1,89 @@
+---
+id: JISL44042021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 織じゅうたん
+- language: en
+  script: Latn
+  content: Woven carpet
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+L+4404%3A2021
+docidentifier:
+- content: JIS L 4404:2021
+  type: JIS
+  primary: true
+docnumber: L4404
+date:
+- type: issued
+  at: '2021-02-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本カーペット工業組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本カーペット工業組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本カーペット工業組合"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "織じゅうたん1) の要求事項について規定。ただし，タイルカーペットは除く。注1)\tワイヤの打込み装置をもつ織機，二重パイルの織機又はアキスミンスター織機を使用して作製したパイルのある繊維製床敷物をいう。"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 59.080.60
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: L4404

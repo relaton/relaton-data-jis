@@ -1,0 +1,82 @@
+---
+id: JIST72122018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 麻酔及び呼吸に使用する呼吸回路フィルタ―ろ過性能以外の要求事項
+- language: en
+  script: Latn
+  content: Breathing system filters for anaesthetic and respiratory use -- Non-filtration
+    aspects
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+7212%3A2018
+docidentifier:
+- content: JIS T 7212:2018
+  type: JIS
+  primary: true
+docnumber: T7212
+date:
+- type: issued
+  at: '2018-03-01'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本医療機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本医療機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本医療機器工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 麻酔及び呼吸に使用するＢＳＦのろ過性能以外の，接続ポート，漏れ，圧力損失，包装，表示及び提供する情報の要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.10
+    text: Anaesthetic, respiratory and reanimation equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T7212

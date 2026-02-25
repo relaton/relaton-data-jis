@@ -1,0 +1,96 @@
+---
+id: JISC60695521999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―耐火性試験：燃焼放出物による腐食損傷の評価―試験方法の選択及び適用の指針
+- language: en
+  script: Latn
+  content: 'Fire hazard testing -- Part 5: Assessment of potential corrosion damage
+    by fire effluent -- Section 2: Guidance on the selection and use of test methods'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60695-5-2%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60695_005_002_1999_j_ed10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60695_005_002_1999_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 60695-5-2:1999
+  type: JIS
+  primary: true
+docnumber: C60695
+date:
+- type: issued
+  at: '1999-05-31'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 燃焼放出物による腐食損傷の危険性を評価するための試験方法の概要。試験方法の現状を記述し，その関連性と適用に関する特記事項も含めた。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60695

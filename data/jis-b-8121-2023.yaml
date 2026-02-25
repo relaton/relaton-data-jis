@@ -1,0 +1,98 @@
+---
+id: JISB81212023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: コージェネレーション用語
+- language: en
+  script: Latn
+  content: Terms and definitions of cogeneration
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8121%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08121_000_000_2023_e_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8121:2023
+  type: JIS
+  primary: true
+docnumber: B8121
+date:
+- type: issued
+  at: '2023-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　コージェネレーション・エネルギー高度利用センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　コージェネレーション・エネルギー高度利用センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　コージェネレーション・エネルギー高度利用センター"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: コージェネレーションに関して用いる用語のうち，システム一般，環境，計画及び運用，運転制御，構成装置などに関する主な用語について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.27
+    text: Energy and heat transfer engineering (Vocabularies)
+  - code: 01.040.29
+    text: Electrical engineering (Vocabularies)
+  - code: '27.010'
+    text: Energy and heat transfer engineering in general
+  - code: 29.160.40
+    text: Generating sets
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8121

@@ -1,0 +1,77 @@
+---
+id: TSB00222006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 小形ガスエンジンを原動機とするコージェネレーションパッケージ
+- language: en
+  script: Latn
+  content: Micro gas engine driven cogeneration package
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+B+0022%3A2006
+docidentifier:
+- content: TS B 0022:2006
+  type: JIS
+  primary: true
+docnumber: B0022
+date:
+- type: issued
+  at: '2006-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　コージェネレーション・エネルギー高度利用センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　コージェネレーション・エネルギー高度利用センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　コージェネレーション・エネルギー高度利用センター
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 低圧の都市ガス又は液化石油ガスを燃料とするガスエンジンを原動機として発電する小出力発電設備（１０ｋW未満，電気事業法では一般用電気工作物に分類）において，発電と同時に温水を取り出すことのできる小形ガスエンジンコージェネレーションパッケージの製造に必要な構造及び性能について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: '27.020'
+    text: Internal combustion engines
+  - code: 29.160.40
+    text: Generating sets
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0022

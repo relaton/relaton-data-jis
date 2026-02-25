@@ -1,0 +1,83 @@
+---
+id: JISB74422013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 産業用Ｘ線ＣＴ装置―用語
+- language: en
+  script: Latn
+  content: Industrial X-ray CT systems -- Vocabulary
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7442%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07442_000_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7442:2013
+  type: JIS
+  primary: true
+docnumber: B7442
+date:
+- type: issued
+  at: '2013-11-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国立研究開発法人　産業技術総合研究所
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国立研究開発法人　産業技術総合研究所
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 国立研究開発法人　産業技術総合研究所
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 産業用Ｘ線ＣＴ装置及びその応用に関する主な用語及び定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.100'
+    text: Non-destructive testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7442

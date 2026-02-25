@@ -1,0 +1,79 @@
+---
+id: TSD00072012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気自動車用急速充電の基本機能
+- language: en
+  script: Latn
+  content: Basic function of quick charger for the electric vehicle
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+D+0007%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_ts_d_00007_000_000_2012_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_ts_d_00007_000_000_2012_e_ed10_i4.pdf
+docidentifier:
+- content: TS D 0007:2012
+  type: JIS
+  primary: true
+docnumber: D0007
+date:
+- type: issued
+  at: '2012-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "チャデモ協議会                                                \r\n                                                                                            一般社団法人　チャデモ協議会"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "チャデモ協議会                                                \r\n                                                                                            一般社団法人　チャデモ協議会"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "チャデモ協議会                                                \r\n                                                                                            一般社団法人　チャデモ協議会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気自動車と充電器との間で適切な急速充電を実現するために，電気自動車及び充電器の設計に盛り込むべき仕様について，その基本機能を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: '43.120'
+    text: Electric road vehicles
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0007

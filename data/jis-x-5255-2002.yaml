@@ -1,0 +1,86 @@
+---
+id: JISX52552002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ローカルエリアネットワーク―媒体アクセス制御副層中継（ＭＡＣブリッジ中継）
+- language: en
+  script: Latn
+  content: Local area networks -- Media Access Control (MAC) Bridges
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5255%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05255_000_000_2002_j_ed10_i4.pdf
+docidentifier:
+- content: JIS X 5255:2002
+  type: JIS
+  primary: true
+docnumber: X5255
+date:
+- type: issued
+  at: '2002-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会　情報規格調査会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会　情報規格調査会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会　情報規格調査会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 異なる又は同一の媒体アクセス制御方式を使用した相互接続されたＩＥＥＥ８０２ＬＡＮによって規定されるＩＥＥＥ８０２ＭＡＣサービスを使用するデータ処理装置間の互換性を保証した相互接続のために，この規格で，ＭＡＣブリッジ動作の一般的な方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.110'
+    text: Networking
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5255

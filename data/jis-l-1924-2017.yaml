@@ -1,0 +1,85 @@
+---
+id: JISL19242017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 形態安定加工ワイシャツ試験方法及び評価基準
+- language: en
+  script: Latn
+  content: Determination method and evaluation reference of shape stability shirt
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+L+1924%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_l_01924_000_000_2017_e_ed10_i4.pdf
+docidentifier:
+- content: JIS L 1924:2017
+  type: JIS
+  primary: true
+docnumber: L1924
+date:
+- type: issued
+  at: '2017-12-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　繊維評価技術協議会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　繊維評価技術協議会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　繊維評価技術協議会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 形態安定加工を施したワイシャツの形態安定性能を評価する方法について規定。なお，ここでいう“ワイシャツ”とは，えり回り，ゆきなどのフイット性が強く要求される長袖及び半袖のワイシャツをいい，カジュアルシャツは除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 59.080.01
+    text: Textiles in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: L1924

@@ -1,0 +1,89 @@
+---
+id: JISD08042007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高度道路交通システム―車線逸脱警報システム―性能要件及びその試験方法
+- language: en
+  script: Latn
+  content: Intelligent transport systems -- Lane departure warning systems -- Performance
+    requirements and test procedures
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+0804%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_00804_000_000_2007_j_ed10_ch.pdf
+docidentifier:
+- content: JIS D 0804:2007
+  type: JIS
+  primary: true
+docnumber: D0804
+date:
+- type: issued
+  at: '2007-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　自動車技術会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 車線逸脱警報システムの定義，分類，機能，運転者に情報を伝達する手段，及び試験方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.220.20
+    text: Road transport
+  - code: 35.240.60
+    text: IT applications in transport
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0804

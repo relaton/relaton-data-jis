@@ -1,0 +1,78 @@
+---
+id: TSB00172004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ２００ｋＷ～５００ｋＷ級のガスエンジン，ディーゼルエンジンを原動機とするコージェネレーションユニットの関連設備
+- language: en
+  script: Latn
+  content: Auxiliary equipment for gas engine or diesel engine driven cogeneration
+    unit (200 - 500 kW)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+B+0017%3A2004
+docidentifier:
+- content: TS B 0017:2004
+  type: JIS
+  primary: true
+docnumber: B0017
+date:
+- type: issued
+  at: '2004-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　天然ガス導入促進センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　天然ガス導入促進センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 財団法人　天然ガス導入促進センター
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 定格出力が２００ｋＷ～５００ｋＷ級のガスエンジン又はディーゼルエンジンを使用したコージェネレーションシステム（ＣＧＳ）について，そのＣＧＳ本体には含まれないが，システムを構成する上で必要なユニット周辺に設置する機器について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: '27.020'
+    text: Internal combustion engines
+  - code: 29.160.40
+    text: Generating sets
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0017

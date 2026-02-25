@@ -1,0 +1,90 @@
+---
+id: JISD68022022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 無人搬送車及び無人搬送車システム―安全要求事項及び検証
+- language: en
+  script: Latn
+  content: Automatic guided vehicles and systems -- Safety requirements and verification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+6802%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_06802_000_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS D 6802:2022
+  type: JIS
+  primary: true
+docnumber: D6802
+date:
+- type: issued
+  at: '2022-02-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業車両協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業車両協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本産業車両協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 無人搬送車及び無人搬送車システムに関する安全要求事項及び検証手段について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '53.060'
+    text: Industrial trucks
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D6802

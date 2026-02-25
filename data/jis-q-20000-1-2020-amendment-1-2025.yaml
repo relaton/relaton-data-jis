@@ -1,0 +1,87 @@
+---
+id: JISQ2000012020AMENDMENT12025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術－サービスマネジメント－第１部：サービスマネジメントシステム要求事項（追補１）
+- language: en
+  script: Latn
+  content: 'Information technology-Service management-Part 1: Service management system
+    requirements (Amendment 1)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+20000-1%3A2020%2FAMENDMENT+1%3A2025
+docidentifier:
+- content: JIS Q 20000-1:2020/AMENDMENT 1:2025
+  type: JIS
+  primary: true
+docnumber: Q20000
+date:
+- type: issued
+  at: '2025-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           特定非営利活動法人　ＣｅＦＩＬ"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           特定非営利活動法人　ＣｅＦＩＬ"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           特定非営利活動法人　ＣｅＦＩＬ"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: 03.080.99
+    text: Other services
+  - code: '35.020'
+    text: Information technology (IT) in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q20000

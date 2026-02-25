@@ -1,0 +1,86 @@
+---
+id: JISQ91002016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 品質マネジメントシステム―航空，宇宙及び防衛分野の組織に対する要求事項
+- language: en
+  script: Latn
+  content: Quality management systems -- Requirements for aviation, space and defense
+    organizations
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+9100%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_09100_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 9100:2016
+  type: JIS
+  primary: true
+docnumber: Q9100
+date:
+- type: issued
+  at: '2016-09-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本航空宇宙工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｑ　９００１：２０１５の品質マネジメントシステムの要求事項をそのまま取り入れ，航空，宇宙及び防衛産業の要求事項，定義及び注記について追加して規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.10
+    text: Quality management and quality assurance
+  - code: '49.020'
+    text: Aircraft and space vehicles in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q9100

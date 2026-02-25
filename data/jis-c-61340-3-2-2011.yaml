@@ -1,0 +1,87 @@
+---
+id: JISC61340322011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 静電気―第３－２部：静電気の影響をシミュレーションする方法―マシンモデル（ＭＭ）の静電気放電試験波形
+- language: en
+  script: Latn
+  content: 'Electrostatics -- Part 3-2: Methods for simulation of electrostatic effects
+    -- Machine model (MM) electrostatic discharge test waveforms'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61340-3-2%3A2011
+docidentifier:
+- content: JIS C 61340-3-2:2011
+  type: JIS
+  primary: true
+docnumber: C61340
+date:
+- type: issued
+  at: '2011-02-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本電子部品信頼性センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本電子部品信頼性センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　日本電子部品信頼性センター"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: マシンモデル（ＭＭ）において静電気放電（ＥＳＤ）を再現するために用いる放電電流波形及びその波形を作り出し確認するために用いる装置の基本的な要求事項について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.99
+    text: Other standards related to electricity and magnetism
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61340

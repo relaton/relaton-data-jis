@@ -1,0 +1,84 @@
+---
+id: JISX43281999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 動画信号及び付随する音響信号のはん用符号化―第４部：適合性試験
+- language: en
+  script: Latn
+  content: 'Information technology -- Generic coding of moving pictures and associated
+    audio information -- Part 4: Conformance testing'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4328%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04328_000_000_1999_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 4328:1999
+  type: JIS
+  primary: true
+docnumber: X4328
+date:
+- type: issued
+  at: '2000-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ビット流及び復号器がＪＩＳ　Ｘ　４３２５～４３２７に規定する要件に合致するかどうかを検証する試験方法を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4328

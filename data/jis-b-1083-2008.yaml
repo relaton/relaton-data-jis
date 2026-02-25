@@ -1,0 +1,96 @@
+---
+id: JISB10832008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ねじの締付け通則
+- language: en
+  script: Latn
+  content: General rules for tightening of threaded fasteners
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1083%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01083_000_000_2008_j_ed20_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01083_000_000_2008_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 1083:2008
+  type: JIS
+  primary: true
+docnumber: B1083
+date:
+- type: issued
+  at: '2008-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ねじ研究協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ねじ研究協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ねじ研究協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 締結用ねじ部品に対する代表的な締付け管理方法における締付け指標の目標値の決め方及びそれに関連する事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.060.10
+    text: Bolts, screws, studs
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1083

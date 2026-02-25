@@ -1,0 +1,91 @@
+---
+id: JISB835612017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 油圧用フィルタ性能評価方法―第１部：フィルタエレメントの性能確認手順
+- language: en
+  script: Latn
+  content: 'Hydraulic fluid power -- Filters -- Evaluation of filter performance --
+    Part 1: Filter elements -- Procedure for verifying performance characteristics'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8356-1%3A2017
+docidentifier:
+- content: JIS B 8356-1:2017
+  type: JIS
+  primary: true
+docnumber: B8356
+date:
+- type: issued
+  at: '2017-09-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本フルードパワー工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: フィルタエレメントの性能確認をするための試験手順について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.60
+    text: Filters, seals and contamination of fluids
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8356

@@ -1,0 +1,88 @@
+---
+id: JISD14012009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ハイブリッド電気自動車用電気二重層キャパシタの電気的性能の試験方法
+- language: en
+  script: Latn
+  content: Electrical characteristic test methods of electric double layer capacitors
+    for use in hybrid electric vehicles
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+1401%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01401_000_000_2009_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01401_000_000_2009_e_ed10_i4.pdf
+docidentifier:
+- content: JIS D 1401:2009
+  type: JIS
+  primary: true
+docnumber: D1401
+date:
+- type: issued
+  at: '2009-04-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本自動車研究所
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本自動車研究所
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本自動車研究所
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ハイブリッド電気自動車のピークパワーアシスト用電気二重層キャパシタ単セルの電気的性能の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '43.120'
+    text: Electric road vehicles
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D1401

@@ -1,0 +1,93 @@
+---
+id: JIST6167512016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 診断用核医学装置―特性及び試験条件―第１部：ＰＥＴ装置
+- language: en
+  script: Latn
+  content: 'Radionuclide imaging devices -- Characteristics and test conditions --
+    Part 1: Positron emission tomographs'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+61675-1%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_61675_001_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 61675-1:2016
+  type: JIS
+  primary: true
+docnumber: T61675
+date:
+- type: issued
+  at: '2016-10-01'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本画像医療システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本画像医療システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本画像医療システム工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 陽電子放出核種からの消滅放射線を，同時計数によって検出するＰＥＴ装置（陽電子放射断層撮影装置）の性能を公表するための用語及び試験方法について規定。これまで既知の全ての試験が，ほとんど画像中に雑音を反映しているため，再構成画像の均一性を特徴付ける試験は除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.50
+    text: Radiographic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T61675

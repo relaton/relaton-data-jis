@@ -1,0 +1,87 @@
+---
+id: JISB006022015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: デジタル製品技術文書情報―第２部：用語
+- language: en
+  script: Latn
+  content: 'Digital technical product documentation (DTPD) -- Part 2: Terms'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0060-2%3A2015
+docidentifier:
+- content: JIS B 0060-2:2015
+  type: JIS
+  primary: true
+docnumber: B0060
+date:
+- type: issued
+  at: '2015-10-20'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: デジタル製品技術文書情報（ＤＴＰＤ：　ｄｉｇｉｔａｌ　ｔｅｃｈｎｉｃａｌ　ｐｒｏｄｕｃｔ　ｄｏｃｕｍｅｎｔａｔｉｏｎ）として表現される製品に関する技術文書情報に用いる用語の定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '01.110'
+    text: Technical product documentation
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0060

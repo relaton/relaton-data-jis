@@ -1,0 +1,85 @@
+---
+id: JISG35482011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 亜鉛めっき鋼線
+- language: en
+  script: Latn
+  content: Zinc-coated steel wires
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3548%3A2011
+docidentifier:
+- content: JIS G 3548:2011
+  type: JIS
+  primary: true
+docnumber: G3548
+date:
+- type: issued
+  at: '2011-09-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 線材製品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 線材製品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 線材製品協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 亜鉛めっき鋼線について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.10
+    text: Heat-treatable steels
+  - code: 77.140.65
+    text: Steel wire, wire ropes and link chains
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G3548

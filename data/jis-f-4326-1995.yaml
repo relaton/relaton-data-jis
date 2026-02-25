@@ -1,0 +1,81 @@
+---
+id: JISF43261995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 舟艇―推進機遠隔操作装置
+- language: en
+  script: Latn
+  content: Small crafts -- Propulsive remote control systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+4326%3A1995
+docidentifier:
+- content: JIS F 4326:1995
+  type: JIS
+  primary: true
+docnumber: F4326
+date:
+- type: issued
+  at: '1995-06-30'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 長さ２４ｍ未満，かつ，総トン数２０トン未満の舟艇に搭載する推進機の前後進及び増減速の遠隔操作装置について，コントロール操作レバーから推進機側アームまでのその装置全体及び主要構成要素について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '47.080'
+    text: Small craft
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F4326

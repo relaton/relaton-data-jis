@@ -1,0 +1,96 @@
+---
+id: JISB24042018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 管フランジ用ガスケットの寸法
+- language: en
+  script: Latn
+  content: Dimensions of gaskets for use with pipe flanges
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2404%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02404_000_000_2018_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02404_000_000_2018_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 2404:2018
+  type: JIS
+  primary: true
+docnumber: B2404
+date:
+- type: issued
+  at: '2018-02-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本機械学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本機械学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本機械学会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 流体が蒸気，水，油などの配管に接合するＪＩＳ　Ｂ　２２２０，ＪＩＳ　Ｂ　２２３９，ＪＩＳ　Ｂ　２２４０及びＪＩＳ　Ｂ　２２４１の本体に規定しているフランジに使用するガスケットの種類及び寸法について規定。そのため，ＩＳＯ　７００５－１，ＩＳＯ　７００５－２及びＩＳＯ　７００５－３で規定するフランジに対応するガスケットには適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.040.80
+    text: Seals for pipe and hose assemblies
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B2404

@@ -1,0 +1,81 @@
+---
+id: JISB88041995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鋼製ローラコンベヤ
+- language: en
+  script: Latn
+  content: Steel roller conveyors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8804%3A1995
+docidentifier:
+- content: JIS B 8804:1995
+  type: JIS
+  primary: true
+docnumber: B8804
+date:
+- type: issued
+  at: '1995-11-30'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本産業機械工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 箱物，ユニットロードなどを運搬するために用いる円筒形ローラを持つ鋼製ローラコンベヤについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 53.040.10
+    text: Conveyors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8804

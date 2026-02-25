@@ -1,0 +1,92 @@
+---
+id: JIST54012022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 歯科―歯科用ピンセット
+- language: en
+  script: Latn
+  content: Dentistry -- Dental tweezers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+5401%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_05401_000_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 5401:2022
+  type: JIS
+  primary: true
+docnumber: T5401
+date:
+- type: issued
+  at: '2022-10-03'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本歯科器械工業協同組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本歯科器械工業協同組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本歯科器械工業協同組合"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: メリアムタイプ，カレッジタイプ及びその他の歯科用ピンセットを含む金属製歯科用ピンセットの一般的要求事項及び試験方法について規定。解剖用ピンセット及び外科用ピンセットには適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.060.20
+    text: Dental equipment
+  - code: 11.060.25
+    text: Dental instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T5401

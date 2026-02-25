@@ -1,0 +1,94 @@
+---
+id: JISK48322018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 火薬類の盗難防止設備の要求事項
+- language: en
+  script: Latn
+  content: Requirements for burglar-proofness of explosives
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+4832%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_04832_000_000_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 4832:2018
+  type: JIS
+  primary: true
+docnumber: K4832
+date:
+- type: issued
+  at: '2018-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　全国火薬類保安協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　全国火薬類保安協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　全国火薬類保安協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 火薬庫及び庫外貯蔵所に設ける火薬類取締法施行規則で定める扉，錠，金網及び自動警報装置の細部に対する要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.310'
+    text: Protection against crime
+  - code: 71.100.30
+    text: Explosives. Pyrotechnics and fireworks
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K4832

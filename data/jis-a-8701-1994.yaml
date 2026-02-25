@@ -1,0 +1,83 @@
+---
+id: JISA87011994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: アスファルトフィニッシャの仕様書様式及び性能試験方法
+- language: en
+  script: Latn
+  content: Standard form of specifications and testing methods of asphalt finishers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8701%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_08701_000_000_1994_j_pr10_i4.pdf
+docidentifier:
+- content: JIS A 8701:1994
+  type: JIS
+  primary: true
+docnumber: A8701
+date:
+- type: issued
+  at: '1994-11-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建設機械施工協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建設機械施工協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本建設機械施工協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: アスファルトフィニッシャの仕様書の様式及び記入要領とその性能試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '53.100'
+    text: Earth-moving machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8701

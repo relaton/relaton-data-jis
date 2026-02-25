@@ -1,0 +1,81 @@
+---
+id: JISF48041999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用小形プロペラ取付部　テーパ１：１６
+- language: en
+  script: Latn
+  content: Fixing parts of ships' small propellers, Taper 1:16
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+4804%3A1999
+docidentifier:
+- content: JIS F 4804:1999
+  type: JIS
+  primary: true
+docnumber: F4804
+date:
+- type: issued
+  at: '1999-08-31'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船内機関に装備される軸直径が２０ｍｍ～１６０ｍｍの範囲で，かつテーパ１：１６のプロペラボス（ハブ）とプロペラ軸端の互換性のための寸法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '47.080'
+    text: Small craft
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F4804

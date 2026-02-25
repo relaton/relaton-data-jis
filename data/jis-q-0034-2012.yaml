@@ -1,0 +1,81 @@
+---
+id: JISQ00342012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 標準物質生産者の能力に関する一般要求事項
+- language: en
+  script: Latn
+  content: General requirements for the competence of reference material producers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+0034%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_00034_000_000_2012_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_00034_000_000_2012_e_ed10_i4.pdf
+docidentifier:
+- content: JIS Q 0034:2012
+  type: JIS
+  primary: true
+docnumber: Q0034
+date:
+- type: issued
+  at: '2012-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 独立行政法人　製品評価技術基盤機構
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 独立行政法人　製品評価技術基盤機構
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 独立行政法人　製品評価技術基盤機構
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 標準物質生産者が，標準物質を生産する能力をもつことを実証し，かつ，運営するために，従わなければならない一般要求事項を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.10
+    text: Quality management and quality assurance
+  - code: 71.040.30
+    text: Chemical reagents
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q0034

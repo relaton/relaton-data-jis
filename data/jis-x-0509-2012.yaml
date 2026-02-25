@@ -1,0 +1,96 @@
+---
+id: JISX05092012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術―自動認識及びデータ取得技術―バーコードシンボル体系仕様―ＧＳ１データバー
+- language: en
+  script: Latn
+  content: Information technology -- Automatic identification and data capture techniques
+    -- bar code symbology specification -- GS1 DataBar
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0509%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00509_000_000_2012_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0509:2012
+  type: JIS
+  primary: true
+docnumber: X0509
+date:
+- type: issued
+  at: '2012-02-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動認識システム協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動認識システム協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本自動認識システム協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＧＳ１データバーシンボル体系ファミリの要件を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.080.50
+    text: Graphical symbols for use on information technology and telecommunications
+      technical drawings and in relevant technical product documentation
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0509

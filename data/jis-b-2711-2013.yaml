@@ -1,0 +1,96 @@
+---
+id: JISB27112013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ばねのショットピーニング
+- language: en
+  script: Latn
+  content: Springs -- Shot peening
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2711%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02711_000_000_2013_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02711_000_000_2013_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 2711:2013
+  type: JIS
+  primary: true
+docnumber: B2711
+date:
+- type: issued
+  at: '2013-10-21'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ばね工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ばね工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ばね工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ばねの表面に主として圧縮残留応力を与え，疲労，応力腐食割れ，遅れ破壊などに対する抵抗力の向上を図ることを目的として行うショットピーニングについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '21.160'
+    text: Springs
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B2711

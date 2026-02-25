@@ -1,0 +1,95 @@
+---
+id: JISB79932019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 試料非吸引採取方式分析計による排ガス成分の自動計測システム
+- language: en
+  script: Latn
+  content: Automated measuring systems for flue gas components using non-extractive
+    methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7993%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07993_000_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7993:2019
+  type: JIS
+  primary: true
+docnumber: B7993
+date:
+- type: issued
+  at: '2019-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 工場及び事業所において燃料などの燃焼に伴って，又は各種製造の工程などから煙突若しくはダクトへ排出されるガス中の，二酸化硫黄，一酸化窒素，二酸化窒素，酸素，塩化水素，メタン，二酸化炭素，一酸化炭素，一酸化二窒素及びアンモニアの濃度を，試料非吸引方式によって，現場に設置して長期間連続測定を行う自動計測システムについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.40
+    text: Stationary source emissions
+  - code: 71.040.40
+    text: Chemical analysis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7993

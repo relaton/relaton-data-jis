@@ -1,0 +1,87 @@
+---
+id: JISD36011993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車用機械駆動式燃料ポンプ
+- language: en
+  script: Latn
+  content: Automobiles -- Mechanical fuel pumps
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+3601%3A1993
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_03601_000_000_1993_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_03601_000_000_1993_e_pr10_i4.pdf
+docidentifier:
+- content: JIS D 3601:1993
+  type: JIS
+  primary: true
+docnumber: D3601
+date:
+- type: issued
+  at: '1993-10-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車部品工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車部品工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本自動車部品工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 自動車用ガソリン機関に用いる機械駆動式燃料ポンプについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.060.40
+    text: Fuel systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D3601

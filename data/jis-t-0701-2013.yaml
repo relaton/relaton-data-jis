@@ -1,0 +1,88 @@
+---
+id: JIST07012013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: コンタクトレンズの用語及び材料の分類方法
+- language: en
+  script: Latn
+  content: Contact lenses -- Vocabulary and classification system
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0701%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00701_000_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 0701:2013
+  type: JIS
+  primary: true
+docnumber: T0701
+date:
+- type: issued
+  at: '2013-03-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本コンタクトレンズ協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本コンタクトレンズ協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本コンタクトレンズ協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: コンタクトレンズの特性，製造方法，記号，分類方法及び医学・光学に関連した基礎的用語及び材料の分類方法について，規定する。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.11
+    text: Health care technology (Vocabularies)
+  - code: 11.040.70
+    text: Ophthalmic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T0701

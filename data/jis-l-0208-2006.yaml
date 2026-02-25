@@ -1,0 +1,85 @@
+---
+id: JISL02082006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 繊維用語―試験部門
+- language: en
+  script: Latn
+  content: Glossary of terms used in textile industry -- Testing
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+L+0208%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_l_00208_000_000_2006_j_ed10_ch.pdf
+docidentifier:
+- content: JIS L 0208:2006
+  type: JIS
+  primary: true
+docnumber: L0208
+date:
+- type: issued
+  at: '2006-10-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　繊維評価技術協議会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　繊維評価技術協議会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　繊維評価技術協議会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 繊維製品（敷物及び燃焼性を除く。）の試験に関する主な用語について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.59
+    text: Textile and leather technology (Vocabularies)
+  - code: '59.020'
+    text: Processes of the textile industry
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: L0208

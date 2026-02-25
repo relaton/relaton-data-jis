@@ -1,0 +1,86 @@
+---
+id: JIST11152018AMENDMENT12023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 非観血式電子血圧計（追補１）
+- language: en
+  script: Latn
+  content: Non-invasive electro-mechanical sphygmomanometers (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1115%3A2018%2FAMENDMENT+1%3A2023
+docidentifier:
+- content: JIS T 1115:2018/AMENDMENT 1:2023
+  type: JIS
+  primary: true
+docnumber: T1115
+date:
+- type: issued
+  at: '2023-02-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本計量機器工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本計量機器工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本計量機器工業連合会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: 11.040.01
+    text: Medical equipment in general
+  - code: 11.040.55
+    text: Diagnostic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T1115

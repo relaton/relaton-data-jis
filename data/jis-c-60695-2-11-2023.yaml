@@ -1,0 +1,88 @@
+---
+id: JISC606952112023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 火災危険性試験―電気・電子―第２－１１部：グローワイヤ／ホットワイヤ試験方法―最終製品に対するグローワイヤ有炎燃焼性指数（ＧＷＥＰＴ）
+- language: en
+  script: Latn
+  content: 'Fire hazard testing -- Part 2-11: Glowing/hot-wire based test methods
+    -- Glow-wire flammability test method for end-products (GWEPT)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60695-2-11%3A2023
+docidentifier:
+- content: JIS C 60695-2-11:2023
+  type: JIS
+  primary: true
+docnumber: C60695
+date:
+- type: issued
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 火災危険性の指標として電気的に加熱した熱源による熱ストレスが最終製品に与える影響を模擬するための試験方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.220.40
+    text: Ignitability and burning behaviour of materials and products
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60695

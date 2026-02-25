@@ -1,0 +1,81 @@
+---
+id: JISA48021994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: カーテンレール（金属製）
+- language: en
+  script: Latn
+  content: Curtain rails (Metal)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+4802%3A1994
+docidentifier:
+- content: JIS A 4802:1994
+  type: JIS
+  primary: true
+docnumber: A4802
+date:
+- type: issued
+  at: '1994-07-31'
+- type: confirmed
+  at: '2006-05-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　建材試験センター
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 建築物の窓・出入口などの開口部，間仕切及び室内装飾に用いられるカーテンに使用する金属製カーテンレール及びその構成部品について規定。劇場どんちょうなどに用いる特殊用カーテンレールは除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.060.50
+    text: Doors and windows
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A4802

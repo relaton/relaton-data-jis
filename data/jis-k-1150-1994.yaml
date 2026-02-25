@@ -1,0 +1,83 @@
+---
+id: JISK11501994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: シリカゲル試験方法
+- language: en
+  script: Latn
+  content: Test method for silica gel
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+1150%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_01150_000_000_1994_j_pr10_i4.pdf
+docidentifier:
+- content: JIS K 1150:1994
+  type: JIS
+  primary: true
+docnumber: K1150
+date:
+- type: issued
+  at: '1994-09-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: シリカゲル工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: シリカゲル工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: シリカゲル工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業用シリカゲルの試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '55.040'
+    text: Packaging materials and accessories
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K1150

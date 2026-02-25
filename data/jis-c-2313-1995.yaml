@@ -1,0 +1,75 @@
+---
+id: JISC23131995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉛蓄電池用隔離板
+- language: en
+  script: Latn
+  content: Separators for lead-acid batteries
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2313%3A1995
+docidentifier:
+- content: JIS C 2313:1995
+  type: JIS
+  primary: true
+docnumber: C2313
+date:
+- type: issued
+  at: '1995-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電池工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電池工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電池工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 自動車用，据置用，電気車用などの鉛蓄電池の極板間の短絡防止と間隔保持の目的で挿入する多孔又は微孔性の薄板について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.220.20
+    text: Acid secondary cells and batteries
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2313

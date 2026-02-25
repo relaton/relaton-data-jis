@@ -1,0 +1,88 @@
+---
+id: JISZ21712024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 熱量測定装置による積雪融解熱流束及び凍結防止熱流束の推定方法
+- language: en
+  script: Latn
+  content: A methodology for estimation of snow melting heat fluxes and freezing prevention
+    heat fluxes using the calorimeter
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2171%3A2024
+docidentifier:
+- content: JIS Z 2171:2024
+  type: JIS
+  primary: true
+docnumber: Z2171
+date:
+- type: issued
+  at: '2024-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，主に冬期における積雪面，凍結面などの積雪融解及び凍結防止に必要な熱流束を，積雪面及び凍結面を模擬した測定面を装着する熱量測定装置によって近似的に求める推定方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.200.10
+    text: Heat. Calorimetry
+  - code: '19.040'
+    text: Environmental testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z2171

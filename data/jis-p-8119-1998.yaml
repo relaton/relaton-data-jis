@@ -1,0 +1,81 @@
+---
+id: JISP81191998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 紙及び板紙―ベック平滑度試験機による平滑度試験方法
+- language: en
+  script: Latn
+  content: Paper and board -- Determination of smoothness by Bekk method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+8119%3A1998
+docidentifier:
+- content: JIS P 8119:1998
+  type: JIS
+  primary: true
+docnumber: P8119
+date:
+- type: issued
+  at: '1999-01-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 紙パルプ技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 紙パルプ技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 紙パルプ技術協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 紙及び板紙のベック平滑度を試験する方法について規定。試験方法は，試験片を通り抜ける空気量が測定結果に影響するので，厚さ０．５ｍｍ以上の試料，透気性が非常に高い紙及び板紙，又は表面が粗い紙及び板紙には推奨できない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '85.060'
+    text: Paper and board
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: P8119

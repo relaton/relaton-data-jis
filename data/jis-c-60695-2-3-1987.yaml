@@ -1,0 +1,87 @@
+---
+id: JISC60695231987
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法（電気・電子）ヒータによる不完全接続耐火性試験方法
+- language: en
+  script: Latn
+  content: 'Fire hazard testing Part 2: Test methods bad-connection test with heaters'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60695-2-3%3A1987
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60695_002_003_1987_j_ed10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60695_002_003_1987_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 60695-2-3:1987
+  type: JIS
+  primary: true
+docnumber: C60695
+date:
+- type: issued
+  at: '1987-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気・電子製品，サブアセンブリ及び部品の耐火性を調べる試験方のうちヒータを用いた不完全接続試験方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  - code: '19.080'
+    text: Electrical and electronic testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60695

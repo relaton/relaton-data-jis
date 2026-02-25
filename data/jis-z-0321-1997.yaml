@@ -1,0 +1,81 @@
+---
+id: JISZ03211997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 銅及び銅合金用気化性腐食抑制紙
+- language: en
+  script: Latn
+  content: Volatile corrosion inhibitor paper for copper and copper alloys
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+0321%3A1997
+docidentifier:
+- content: JIS Z 0321:1997
+  type: JIS
+  primary: true
+docnumber: Z0321
+date:
+- type: issued
+  at: '1997-06-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本防錆技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本防錆技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本防錆技術協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 銅及び銅合金の腐食抑制に用いる気化性腐食抑制紙について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.120.30
+    text: Copper and copper alloys
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z0321

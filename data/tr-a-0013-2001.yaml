@@ -1,0 +1,76 @@
+---
+id: TRA00132001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 岩石コアのＡＥ測定方法　―　地圧測定技術
+- language: en
+  script: Latn
+  content: Method for Acoustic Emission (AE) measurement in rock core -- Rock stress
+    measurement technique
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+A+0013%3A2001
+docidentifier:
+- content: TR A 0013:2001
+  type: JIS
+  primary: true
+docnumber: A0013
+date:
+- type: issued
+  at: '2001-12-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 地下から採取した岩石コアの一軸圧縮試験時に岩石コアから発生する微小破壊音［アコースティックエミッション（ＡＥ）］を測定する方法について規定。測定方法を応用することによって，地下応力を推定することができる。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 13.080.99
+    text: Other standards related to soil quality
+  - code: '93.010'
+    text: Civil engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A0013

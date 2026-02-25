@@ -1,0 +1,97 @@
+---
+id: JISZ328432024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ソルダペースト―第３部：印刷性，粘度特性，だれ及び粘着性試験
+- language: en
+  script: Latn
+  content: 'Solder paste -- Part 3: Test methods for printability, viscosity, slump
+    and tackiness'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3284-3%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03284_003_000_2024_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03284_003_000_2024_e_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 3284-3:2024
+  type: JIS
+  primary: true
+docnumber: Z3284
+date:
+- type: issued
+  at: '2024-01-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本溶接協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 主として電気機器，電子機器，通信機器などの配線接続及びそれらの部品の接続などに用いるはんだ付用ソルダぺーストのソルダぺーストの印刷性試験，粘度特性試験，印刷時のだれ試験，加熱時のだれ試験及び粘着性試験について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.50
+    text: Brazing and soldering
+  - code: '31.180'
+    text: Printed circuits and boards
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z3284

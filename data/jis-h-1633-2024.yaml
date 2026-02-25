@@ -1,0 +1,84 @@
+---
+id: JISH16332024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: チタン及びチタン合金―ＩＣＰ発光分光分析方法―多元素定量方法
+- language: en
+  script: Latn
+  content: Titanium and titanium alloy -- ICP atomic emission spectrometric method
+    -- Determination of various elements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+1633%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_01633_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS H 1633:2024
+  type: JIS
+  primary: true
+docnumber: H1633
+date:
+- type: issued
+  at: '2024-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本チタン協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本チタン協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本チタン協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: チタン及びチタン合金中のパラジウム，マンガン，鉄，けい素，アルミニウム，バナジウム，ニッケル，クロム，すず，銅，モリブデン，ジルコニウム，ニオブ，タンタル，イットリウム及びルテニウムの１６成分のＩＣＰ発光分光分析方法による定量方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.50
+    text: Physicochemical methods of analysis
+  - code: 77.120.50
+    text: Titanium and titanium alloys
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H1633

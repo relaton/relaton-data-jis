@@ -1,0 +1,91 @@
+---
+id: JISX250022025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: システム及びソフトウェア技術－システム及びソフトウェア製品の品質要求及び評価（ＳＱｕａＲＥ）－品質モデルの概観及び利用法
+- language: en
+  script: Latn
+  content: Systems and software engineering-Systems and software Quality Requirements
+    and Evaluation (SQuaRE)-Quality model overview and usage
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+25002%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_25002_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 25002:2025
+  type: JIS
+  primary: true
+docnumber: X25002
+date:
+- type: issued
+  at: '2025-12-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，品質特性及び品質副特性から構成される品質モデルを定義するための枠組みについて規定する。特に，この規格は次を提供する。\n－\t品質モデルの概念\n－\t品質モデルの構造及び意味\n－\t品質モデルと，測定，要求定義及び評価を含むその他の概念との間の関係\n－\t品質モデルを利用するための指針，要求事項及び例"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X25002

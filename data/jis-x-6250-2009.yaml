@@ -1,0 +1,94 @@
+---
+id: JISX62502009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: １２０ｍｍ（４．７ＧＢ／面）及び８０ｍｍ（１．４６ＧＢ／面）＋ＲＷフォーマット光ディスク（４倍速まで）
+- language: en
+  script: Latn
+  content: 'Information technology -- Data interchange on 120 mm and 80 mm optical
+    disk using +RW format -- Capacity: 4.7 Gbytes and 1.46 Gbytes per side (Recording
+    speed up to 4X)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6250%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06250_000_000_2009_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 6250:2009
+  type: JIS
+  primary: true
+docnumber: X6250
+date:
+- type: issued
+  at: '2009-04-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ４．７ギガバイト及び９．４ギガバイトの容量をもつ１２０ｍｍリライタブル光ディスクの機械的特性，物理的特性及び光学的特性を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.220.30
+    text: Optical storage devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6250

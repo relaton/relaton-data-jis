@@ -1,0 +1,89 @@
+---
+id: JISA95162021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 柔軟弾性発泡ゴム保温材
+- language: en
+  script: Latn
+  content: Preformed flexible elastmeric foam thermal insulation materials
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+9516%3A2021
+docidentifier:
+- content: JIS A 9516:2021
+  type: JIS
+  primary: true
+docnumber: A9516
+date:
+- type: issued
+  at: '2021-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 保温・保冷材として使用する，主に独立気泡をもつ柔軟弾性発泡ゴム保温材について規定。建築物，住宅などに設置される設備機器の配管，ダクトの内貼り・外貼りなどの保温・保冷のほか，一般工業用途にも適用できる。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.140.01
+    text: Rubber and plastics products in general
+  - code: 91.100.60
+    text: Thermal and sound insulating materials
+  - code: 91.120.10
+    text: Thermal insulation of buildings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A9516

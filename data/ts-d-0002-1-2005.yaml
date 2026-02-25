@@ -1,0 +1,77 @@
+---
+id: TSD000212005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＩＴＳ参照アーキテクチャ－第１部：ＩＴＳ基本サービス
+- language: en
+  script: Latn
+  content: 'ITS Reference model architecture -- Part 1: ITS fundamental services'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+D+0002-1%3A2005
+docidentifier:
+- content: TS D 0002-1:2005
+  type: JIS
+  primary: true
+docnumber: D0002
+date:
+- type: issued
+  at: '2005-04-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　自動車技術会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＴＳの基本的な情報製品，サービス又は応用分野の定義について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: 35.220.01
+    text: Data storage devices in general
+  - code: 35.240.60
+    text: IT applications in transport
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0002

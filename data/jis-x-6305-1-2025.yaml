@@ -1,0 +1,91 @@
+---
+id: JISX630512025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: カード及び個人識別用セキュリティデバイス－試験方法－第１部：一般的特性
+- language: en
+  script: Latn
+  content: 'Cards and security devices for personal identification-Test methods-Part
+    1: General characteristics'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6305-1%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06305_001_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 6305-1:2025
+  type: JIS
+  primary: true
+docnumber: X6305
+date:
+- type: issued
+  at: '2025-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，JIS X 6301に従うIDカード及び参考文献に規定しているようなIDカードの試験に関する他の規格の特性の試験方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.15
+    text: Identification cards. Chip cards. Biometrics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6305

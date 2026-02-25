@@ -1,0 +1,85 @@
+---
+id: JISZ71512000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 固定発生源排出物質―ガスの流れるダクト中での粒子状物質の濃度及び質量流量測定―手分析的重量法
+- language: en
+  script: Latn
+  content: Stationary source emissions -- Determination of concentration and mass
+    flow rate of particulate material in gas-carrying ducts -- Manual gravimetric
+    method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+7151%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_07151_000_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 7151:2000
+  type: JIS
+  primary: true
+docnumber: Z7151
+date:
+- type: issued
+  at: '2000-06-30'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本環境測定分析協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本環境測定分析協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本環境測定分析協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ダクト，煙突，排気管など閉鎖空間を流れるガス流中の粒子状物質の濃度と質量流量を測定するための手分析重量法について規定。濃度範囲０．００５～１０ｇ／ｍ＊２の測定に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.40
+    text: Stationary source emissions
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z7151

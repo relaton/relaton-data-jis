@@ -1,0 +1,93 @@
+---
+id: JISA47172024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 住宅用窓シャッター
+- language: en
+  script: Latn
+  content: Shutter for residential window
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+4717%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04717_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 4717:2024
+  type: JIS
+  primary: true
+docnumber: A4717
+date:
+- type: issued
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本サッシ協会
+        \                                               \r\n                                                                                            一般社団法人　日本シヤッター・ドア協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本サッシ協会
+        \                                               \r\n                                                                                            一般社団法人　日本シヤッター・ドア協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本サッシ協会
+          \                                               \r\n                                                                                            一般社団法人　日本シヤッター・ドア協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 主として住宅の窓の屋外側に配置する住宅用窓シャッターについて規定。ただし，水平方向へ開閉するシャッターには適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.060.50
+    text: Doors and windows
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A4717

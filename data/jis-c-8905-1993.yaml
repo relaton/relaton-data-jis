@@ -1,0 +1,83 @@
+---
+id: JISC89051993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 独立形太陽光発電システム通則
+- language: en
+  script: Latn
+  content: General rules for stand-alone photovoltaic power generating system
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8905%3A1993
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08905_000_000_1993_j_pr10_i4.pdf
+docidentifier:
+- content: JIS C 8905:1993
+  type: JIS
+  primary: true
+docnumber: C8905
+date:
+- type: issued
+  at: '1993-08-31'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: システム出力１００Ｗ以上の場合：ａ）標準太陽電池アレイ開放電圧　７５０Ｖ以下　ｂ）システム出力電圧　直流７５０Ｖ以下，又は交流６００Ｖ以下とシステム出力が１０Ｗ以上で，１００Ｗ未満の場合：ａ）標準太陽電池アレイ開放　３０Ｖ以上　７５０Ｖ以下　ｂ）システム出力電圧：直流３００Ｖ以上　７５０Ｖ以下，又は交流３０Ｖ以上　６００Ｖ以下に該当する独立形太陽光発電システムについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8905

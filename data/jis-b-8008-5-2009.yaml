@@ -1,0 +1,95 @@
+---
+id: JISB800852009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 往復動内燃機関―排気排出物測定―第５部：試験燃料
+- language: en
+  script: Latn
+  content: 'Reciprocating internal combustion engines -- Exhaust emission measurement
+    -- Part 5: Test fuels'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8008-5%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08008_005_000_2009_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8008-5:2009
+  type: JIS
+  primary: true
+docnumber: B8008
+date:
+- type: issued
+  at: '2009-12-21'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本内燃機関連合会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　８００８－４及びＪＩＳ　Ｂ　８００８－１１に規定する排気排出物試験を実施するときに使用を推奨する燃料（標準燃料）について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.50
+    text: Transport exhaust emissions
+  - code: '27.020'
+    text: Internal combustion engines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8008

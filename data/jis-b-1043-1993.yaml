@@ -1,0 +1,86 @@
+---
+id: JISB10431993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 締結用部品―表面欠陥　第３部　特殊要求のボルト，ねじ及び植込みボルト
+- language: en
+  script: Latn
+  content: 'Fasteners -- Surface discontinuities -- Part 3: Bolts, screws and studs
+    for special requirements'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1043%3A1993
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01043_000_000_1993_e_pr10_i4.pdf
+docidentifier:
+- content: JIS B 1043:1993
+  type: JIS
+  primary: true
+docnumber: B1043
+date:
+- type: issued
+  at: '1993-09-30'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ねじ研究協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 特殊要求のボルト，ねじ及び植込みボルトの各種表面欠陥に対する許容限界を規定。ねじの呼び径５ｍｍ以上，部品等級　Ａ及びＢ，呼び長さ　ｌ≦１０ｄ（特別な規定があれば１０ｄを超えてもよい），強度区分１２．９，強度区分８．８，９．８及び１０．９（ねじ部品規格に規定されている場合，又は受渡当事者間の協定がある場合）のボルト，ねじ及び植込みボルトに適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.060.10
+    text: Bolts, screws, studs
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1043

@@ -1,0 +1,91 @@
+---
+id: JISX631932023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＩＣカード実装仕様―第３部：共通コマンド
+- language: en
+  script: Latn
+  content: 'Specification of implementation for integrated circuit(s) cards -- Part
+    3: Common commands for interchange'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6319-3%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06319_003_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 6319-3:2023
+  type: JIS
+  primary: true
+docnumber: X6319
+date:
+- type: issued
+  at: '2023-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ＩＤ認証技術推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ＩＤ認証技術推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　ＩＤ認証技術推進協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 外部端子付きＩＣカード及び近接型の外部端子なしＩＣカードに対して適用するファイル構造，セキュリティ構造及び共通コマンドについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.15
+    text: Identification cards. Chip cards. Biometrics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6319

@@ -1,0 +1,98 @@
+---
+id: JISB79882007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 排ガス中の一酸化二窒素自動計測器
+- language: en
+  script: Latn
+  content: Continuous analyzers for dinitrogen monoxide in flue gas
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7988%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07988_000_000_2007_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07988_000_000_2007_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 7988:2007
+  type: JIS
+  primary: true
+docnumber: B7988
+date:
+- type: issued
+  at: '2007-02-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 工場及び事業所の各種製造の工程において，燃料，その他の物の燃焼に伴って，煙突，ダクトなどへ排出されるガス中の一酸化二窒素濃度を連続的に測定するための赤外線吸収方式に基づくもので，現場に設置して長期間連続測定を行う自動計測器について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.40
+    text: Stationary source emissions
+  - code: 71.040.40
+    text: Chemical analysis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7988

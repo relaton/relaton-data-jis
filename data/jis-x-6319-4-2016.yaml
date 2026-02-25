@@ -1,0 +1,100 @@
+---
+id: JISX631942016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＩＣカード実装仕様―第４部：高速処理用近接型ＩＣカード
+- language: en
+  script: Latn
+  content: 'Specification of implementation for integrated circuit(s) cards -- Part
+    4: High speed proximity cards'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6319-4%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06319_004_000_2016_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06319_004_000_2016_e_ed10_i4.pdf
+docidentifier:
+- content: JIS X 6319-4:2016
+  type: JIS
+  primary: true
+docnumber: X6319
+date:
+- type: issued
+  at: '2016-03-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
+        \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
+        \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
+          \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 高速化機能をもつ非接触（外部端子のない）近接型ＩＣカードの物理的特性，電波インタフェース，伝送プロトコル，ファイル構造，コマンドなどについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.15
+    text: Identification cards. Chip cards. Biometrics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6319

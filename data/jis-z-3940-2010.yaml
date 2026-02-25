@@ -1,0 +1,92 @@
+---
+id: JISZ39402010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 溶接ヒュームのデータシート
+- language: en
+  script: Latn
+  content: Fume data sheets
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3940%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03940_000_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 3940:2010
+  type: JIS
+  primary: true
+docnumber: Z3940
+date:
+- type: issued
+  at: '2010-02-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本溶接協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 手溶接，半自動溶接，自動溶接又は全自動溶接のアーク溶接時に発生する溶接ヒュームの発生量及び化学成分に関するデータシートについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.100'
+    text: Occupational safety. Industrial hygiene
+  - code: 25.160.10
+    text: Welding processes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z3940

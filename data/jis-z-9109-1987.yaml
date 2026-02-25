@@ -1,0 +1,77 @@
+---
+id: JISZ91091987
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 安全標識灯
+- language: en
+  script: Latn
+  content: Lantern-type safety signs
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9109%3A1987
+docidentifier:
+- content: JIS Z 9109:1987
+  type: JIS
+  primary: true
+docnumber: Z9109
+date:
+- type: issued
+  at: '1987-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本保安用品協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 工場・鉱山・建設作業場・学校・病院・ホテル・百貨店・自動車駐車場・劇場・駅・通路・ふ頭・空港（航空機発着場を除く。）・車両・船舶内などにおいて夜間，又は暗い所における事故及び災害の防止を目的として使用する白色蛍光ランプを用いた安全標識灯について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.100'
+    text: Occupational safety. Industrial hygiene
+  - code: 29.140.01
+    text: Lamps in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9109

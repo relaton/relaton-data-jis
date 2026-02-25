@@ -1,0 +1,89 @@
+---
+id: JISX01341999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: システム及びソフトウェアに課せられたリスク抑制の完全性水準
+- language: en
+  script: Latn
+  content: Information technology -- System and software integrity levels
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0134%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00134_000_000_1999_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 0134:1999
+  type: JIS
+  primary: true
+docnumber: X0134
+date:
+- type: issued
+  at: '1999-10-31'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ソフトウェアに課せられたリスク抑制の完全性水準の諸概念及びその要求事項を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0134

@@ -1,0 +1,87 @@
+---
+id: JISG31012024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 一般構造用圧延鋼材
+- language: en
+  script: Latn
+  content: Rolled steels for general structure
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3101%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03101_000_000_2024_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03101_000_000_2024_e_ed10_ch.pdf
+docidentifier:
+- content: JIS G 3101:2024
+  type: JIS
+  primary: true
+docnumber: G3101
+date:
+- type: issued
+  at: '2024-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 橋梁，船舶，車両その他の構造物に用いる一般構造用の熱間圧延鋼材，及び熱間押出形鋼について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.01
+    text: Iron and steel products in general
+  - code: 77.140.10
+    text: Heat-treatable steels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G3101

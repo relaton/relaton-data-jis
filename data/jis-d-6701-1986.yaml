@@ -1,0 +1,77 @@
+---
+id: JISD67011986
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 農業用車輪トラクタの仕様書様式
+- language: en
+  script: Latn
+  content: Standard form of specifications of agricultural wheeled tractors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+6701%3A1986
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_06701_000_000_1986_e_pr10_i4.pdf
+docidentifier:
+- content: JIS D 6701:1986
+  type: JIS
+  primary: true
+docnumber: D6701
+date:
+- type: issued
+  at: '1986-02-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本農業機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本農業機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本農業機械工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 農業用車輪トラクタの仕様書の様式及びその記入要領について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 65.060.10
+    text: Agricultural tractors and trailed vehicles
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D6701

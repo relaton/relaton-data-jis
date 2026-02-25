@@ -1,0 +1,81 @@
+---
+id: JISF10241998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 舟艇―油圧操だ装置
+- language: en
+  script: Latn
+  content: Small craft -- Hydraulic steering systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+1024%3A1998
+docidentifier:
+- content: JIS F 1024:1998
+  type: JIS
+  primary: true
+docnumber: F1024
+date:
+- type: issued
+  at: '1998-08-31'
+- type: confirmed
+  at: '2023-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 長さ２４ｍ以下の舟艇に使用される，ステアリングホイルから船外機，船内機及び船内外機の操だ装置の結合点までの油圧操だ装置とその構成要素の要件，試験方法，オーナ用及び据付者用マニュアルについて規定。ステアリングホイルからステアリングアームへの接続金具までを含める。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '47.080'
+    text: Small craft
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F1024

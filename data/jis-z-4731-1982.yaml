@@ -1,0 +1,81 @@
+---
+id: JISZ47311982
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医用Ｘ線装置用高電圧プラグ及びソケット
+- language: en
+  script: Latn
+  content: High voltage cable plug and socket for medical X-ray equipment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4731%3A1982
+docidentifier:
+- content: JIS Z 4731:1982
+  type: JIS
+  primary: true
+docnumber: Z4731
+date:
+- type: issued
+  at: '1982-06-30'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本画像医療システム工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本画像医療システム工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本画像医療システム工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｚ　４７０１，ＪＩＳ　Ｚ　４７０２及びＪＩＳ　Ｚ　４７０４に規定されたＸ線高電圧装置とＸ線装置などとの間を接続する高電圧回路に用いる医用Ｘ線装置用高電圧プラグ及びソケットについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.50
+    text: Radiographic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4731

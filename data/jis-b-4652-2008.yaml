@@ -1,0 +1,96 @@
+---
+id: JISB46522008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 手動式トルクツールの要求事項及び試験方法
+- language: en
+  script: Latn
+  content: Hand torque tools -- Requirements and test methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+4652%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_04652_000_000_2008_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_04652_000_000_2008_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 4652:2008
+  type: JIS
+  primary: true
+docnumber: B4652
+date:
+- type: issued
+  at: '2008-04-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本計量機器工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本計量機器工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本計量機器工業連合会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ねじ締結体の締付け管理に使われる手動式トルクツールの要求事項，試験方法及び表示について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.140.30
+    text: Hand-operated tools
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B4652

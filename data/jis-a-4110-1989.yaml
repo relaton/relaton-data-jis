@@ -1,0 +1,87 @@
+---
+id: JISA41101989
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ガラス繊維強化ポリエステル製一体式水槽
+- language: en
+  script: Latn
+  content: Glassfiber reinforced plastic water tanks
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+4110%3A1989
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04110_000_000_1989_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04110_000_000_1989_e_pr10_i4.pdf
+docidentifier:
+- content: JIS A 4110:1989
+  type: JIS
+  primary: true
+docnumber: A4110
+date:
+- type: issued
+  at: '1989-12-31'
+- type: confirmed
+  at: '2002-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　強化プラスチック協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　強化プラスチック協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　強化プラスチック協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 軒高６０ｍ以下の建物の内部及び屋上も設置される，給水設備に使用する容量５０ｍ×２以下のガラス纎維強化ポリエステル製一体式水槽について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.020.10
+    text: Stationary containers and tanks
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A4110

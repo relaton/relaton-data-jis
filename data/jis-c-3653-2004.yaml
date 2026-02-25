@@ -1,0 +1,96 @@
+---
+id: JISC36532004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電力用ケーブルの地中埋設の施工方法
+- language: en
+  script: Latn
+  content: Installation methods of power cables buried ground
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3653%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03653_000_000_2004_j_ed11_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03653_000_000_2004_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 3653:2004
+  type: JIS
+  primary: true
+docnumber: C3653
+date:
+- type: issued
+  at: '2004-03-20'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気設備学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気設備学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気設備学会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 使用電圧７０００Ｖ以下の電力用ケーブルの需要場所の地中に施設するａ）管路式によって施設する電線路；ｂ）直接埋設式によって施設する電車路；ｃ）屋外配線の電気工作物の施工方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.240.20
+    text: Power transmission and distribution lines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C3653

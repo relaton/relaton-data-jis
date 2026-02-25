@@ -1,0 +1,81 @@
+---
+id: JISX30051995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: データベース言語ＳＱＬ
+- language: en
+  script: Latn
+  content: Database language SQL
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3005%3A1995
+docidentifier:
+- content: JIS X 3005:1995
+  type: JIS
+  primary: true
+docnumber: X3005
+date:
+- type: issued
+  at: '1995-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＳＱＬデータに対するデータ構造及び基本操作を定義。ＳＱＬデータの生成，アクセス，保守，制御及び保護の機能を提供する。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X3005

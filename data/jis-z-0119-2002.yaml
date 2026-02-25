@@ -1,0 +1,98 @@
+---
+id: JISZ01192002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 包装及び製品設計のための製品衝撃強さ試験方法
+- language: en
+  script: Latn
+  content: Mechanical-shock fragility testing methods for packaging and products design
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+0119%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_00119_000_000_2002_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_00119_000_000_2002_e_ed10_i4.pdf
+docidentifier:
+- content: JIS Z 0119:2002
+  type: JIS
+  primary: true
+docnumber: Z0119
+date:
+- type: issued
+  at: '2002-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本包装技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本包装技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本包装技術協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 包装設計及び製品設計を行うための，製品の衝撃に対する強度を，許容加速度，許容速度変化又はその両方による損傷境界曲線として評価するための試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.160'
+    text: Vibrations, shock and vibration measurements
+  - code: '55.020'
+    text: Packaging and distribution of goods in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z0119

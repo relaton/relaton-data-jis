@@ -1,0 +1,84 @@
+---
+id: JISZ71522013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: バーチャルインパクタによる排ガス中のＰＭ１０／ＰＭ２．５質量濃度測定方法
+- language: en
+  script: Latn
+  content: Determination of PM10/PM2.5 mass concentration in flue gas by use of virtual
+    impactors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+7152%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_07152_000_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 7152:2013
+  type: JIS
+  primary: true
+docnumber: Z7152
+date:
+- type: issued
+  at: '2013-08-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　産業環境管理協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ２段バーチャルインパクタを用いて排ガス中のＰＭ１０及びＰＭ２．５の質量濃度を煙道，煙突，ダクトなどにおいて測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.40
+    text: Stationary source emissions
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z7152

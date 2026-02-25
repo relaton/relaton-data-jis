@@ -1,0 +1,81 @@
+---
+id: JISK25402000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 石油製品―潤滑油―熱安定度試験方法
+- language: en
+  script: Latn
+  content: Petroleum products -- Lubricating oils -- Determination of thermal stability
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2540%3A2000
+docidentifier:
+- content: JIS K 2540:2000
+  type: JIS
+  primary: true
+docnumber: K2540
+date:
+- type: issued
+  at: '2000-11-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　潤滑油協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　潤滑油協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　潤滑油協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 潤滑油の熱安定度を試験する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '75.100'
+    text: Lubricants, industrial oils and related products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K2540

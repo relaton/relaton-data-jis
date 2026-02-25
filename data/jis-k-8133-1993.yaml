@@ -1,0 +1,75 @@
+---
+id: JISK81331993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 塩化スルフリル（試薬）
+- language: en
+  script: Latn
+  content: Sulfuryl chloride
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+8133%3A1993
+docidentifier:
+- content: JIS K 8133:1993
+  type: JIS
+  primary: true
+docnumber: K8133
+date:
+- type: issued
+  at: '1993-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本試薬協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本試薬協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本試薬協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 試薬として用いる塩化スルフリルについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.30
+    text: Chemical reagents
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K8133

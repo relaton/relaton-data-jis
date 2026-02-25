@@ -1,0 +1,96 @@
+---
+id: JISC214382015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気絶縁材料―熱的耐久性―第８部：簡略化した手順による熱的耐久性の計算の手引
+- language: en
+  script: Latn
+  content: 'Electrical insulating materials -- Thermal endurance properties -- Part
+    8: Instructions for calculating thermal endurance characteristics using simplified
+    procedures'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2143-8%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02143_008_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 2143-8:2015
+  type: JIS
+  primary: true
+docnumber: C2143
+date:
+- type: issued
+  at: '2015-03-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 温度指数（ＴＩ）及び／又は相対熱的耐久性指数（ＲＴＥ），並びに半減温度幅（ＨＩＣ）で表す熱的耐久性を求めるため用いる，一般的な劣化処理条件及び簡略化した手順について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.99
+    text: Other standards related to electricity and magnetism
+  - code: 29.035.01
+    text: Insulating materials in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2143

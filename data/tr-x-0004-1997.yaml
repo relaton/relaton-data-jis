@@ -1,0 +1,75 @@
+---
+id: TRX00041997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＳＧＭＬ利用技術　―　日本工業規格，国際規格及び技術報告の文書情報交換のための規格事務局応用
+- language: en
+  script: Latn
+  content: Techniques for using SGML -- Application at Secretariates of Standardizing
+    Organizations for Japanese Industrial Standards, International Standards and Technical
+    Reports
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0004%3A1997
+docidentifier:
+- content: TR X 0004:1997
+  type: JIS
+  primary: true
+docnumber: X0004
+date:
+- type: issued
+  at: '1997-07-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 日本工業規格，国際規格及び技術報告の文書交換のための規格事務局ＳＧＭＬ応用，すなわち必要要素，共通識別子，属性及びそれらの構造を定義。形式的なＳＧＭＬ文書型定義を附属書Ａに示す。文書中の規定は，作業原案；委員会原案；規格原案；規格；技術報告；標準プロファイルを対象とする。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0004

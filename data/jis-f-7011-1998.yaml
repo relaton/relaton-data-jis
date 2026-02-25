@@ -1,0 +1,85 @@
+---
+id: JISF70111998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船内焼却炉装備基準
+- language: en
+  script: Latn
+  content: Shipbuilding -- Application of incinerator for marine use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+7011%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_07011_000_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS F 7011:1998
+  type: JIS
+  primary: true
+docnumber: F7011
+date:
+- type: issued
+  at: '1998-08-31'
+- type: confirmed
+  at: '2023-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船内に専用の廃油及び可燃性固形廃棄物の焼却炉（ただし，固形廃棄物専用焼却炉を除く）を装備する場合の一般的な装備基準について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.030.40
+    text: Installations and equipment for waste disposal and treatment
+  - code: 47.020.99
+    text: Other standards related to shipbuilding and marine structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F7011

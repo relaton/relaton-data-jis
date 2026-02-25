@@ -1,0 +1,92 @@
+---
+id: JISC600682592001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―サインビート振動試験方法
+- language: en
+  script: Latn
+  content: 'Environmental testing -- Part 2: Test methods Test Fe: Vibration -- Sine-beat
+    method'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-59%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_059_2001_j_ed10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_059_2001_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 60068-2-59:2001
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  at: '2001-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 例えば，地震若しくは爆発現象，又は機械の振動によって発生する短時間のパルス的な力又は周期的な力に遭遇することがある部分，機器及びその他の電気・電子製品の試験方法を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.160'
+    text: Vibrations, shock and vibration measurements
+  - code: '19.040'
+    text: Environmental testing
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: '31.020'
+    text: Electronic components in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60068

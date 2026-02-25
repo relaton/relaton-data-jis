@@ -1,0 +1,92 @@
+---
+id: JISC54021642012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子機器用コネクタ―試験及び測定―第１６－４部：コンタクト及びターミネーションの機械的試験―試験１６ｄ：引張強度（圧着接続）
+- language: en
+  script: Latn
+  content: 'Connectors for electronic equipment -- Tests and measurements -- Part
+    16-4: Mechanical tests on contacts and terminations -- Test 16d:Tensile strength
+    (crimped connections)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5402-16-4%3A2012
+docidentifier:
+- content: JIS C 5402-16-4:2012
+  type: JIS
+  primary: true
+docnumber: C5402
+date:
+- type: issued
+  at: '2012-06-20'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: コンタクト及びターミネーションの圧着接続部の引張強度を測定するための試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.220.10
+    text: Plug-and-socket devices. Connectors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5402

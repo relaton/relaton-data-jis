@@ -1,0 +1,75 @@
+---
+id: JISS50021995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 布靴
+- language: en
+  script: Latn
+  content: Canvas boots and shoes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+5002%3A1995
+docidentifier:
+- content: JIS S 5002:1995
+  type: JIS
+  primary: true
+docnumber: S5002
+date:
+- type: issued
+  at: '1995-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本ゴム履物協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本ゴム履物協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本ゴム履物協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 布又は合成樹脂引布を縫製して作られた甲部に，ゴム又は合成樹脂製の底部をはり付け，圧着又は射出成形して製造した布靴について規定。専用のスポーツ靴，作業靴及び特殊用途に使用される靴を除く。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '61.060'
+    text: Footwear
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S5002

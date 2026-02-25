@@ -1,0 +1,96 @@
+---
+id: JISB11982011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 頭付きスタッド
+- language: en
+  script: Latn
+  content: Headed studs
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1198%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01198_000_000_2011_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01198_000_000_2011_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 1198:2011
+  type: JIS
+  primary: true
+docnumber: B1198
+date:
+- type: issued
+  at: '2011-02-21'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鋼構造協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鋼構造協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本鋼構造協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 主として土木構造物及び建築構造物における鋼コンクリート複合構造のずれ止め又は鋼コンクリート合成構造のずれ止めとして使用する鋼製の頭付きスタッドの特性について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.060.99
+    text: Other fasteners
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1198

@@ -1,0 +1,97 @@
+---
+id: JISC10102332015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 測定用，制御用及び試験室用電気機器の安全性―第２－３３部：主電源電圧が測定可能な家庭用及び専門家用の手持形マルチメータ及び他のメータに対する個別要求事項
+- language: en
+  script: Latn
+  content: 'Safety requirements for electrical equipment for measurement, control,
+    and laboratory use -- Part 2-33: Particular requirements for hand-held multimeters
+    and other meters, for domestic and professional use, capable of measuring mains
+    voltage'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1010-2-33%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01010_002_033_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 1010-2-33:2015
+  type: JIS
+  primary: true
+docnumber: C1010
+date:
+- type: issued
+  at: '2015-03-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: メータの安全要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.080'
+    text: Electrical and electronic testing
+  - code: 71.040.10
+    text: Chemical laboratories. Laboratory equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1010

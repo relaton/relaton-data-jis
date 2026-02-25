@@ -1,0 +1,94 @@
+---
+id: JISZ45142010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: β線組織吸収線量測定器及び線量当量測定器の校正方法
+- language: en
+  script: Latn
+  content: Calibration of absorbed dose to tissue meters and dose equivalent meters
+    and the determination of their response as a function of beta radiation energy
+    and angle of incidence
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4514%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04514_000_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 4514:2010
+  type: JIS
+  primary: true
+docnumber: Z4514
+date:
+- type: issued
+  at: '2010-11-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: β線エネルギー範囲６６ｋｅＶ～３．６ＭｅＶ，組織吸収線量率範囲１０ μＧｙ・ｈ＊－１～１０Ｇｙ・ｈ＊－１，線量当量率範囲１０ μＳｖ・ｈ＊－１～１０Ｓｖ・ｈ＊－１を対象に，吸収線量（率）測定器，線量当量（率）測定器及び線量計測素子の校正方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.240'
+    text: Radiation measurements
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4514

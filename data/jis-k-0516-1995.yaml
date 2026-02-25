@@ -1,0 +1,75 @@
+---
+id: JISK05161995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 一酸化窒素及び二酸化窒素（標準試料）
+- language: en
+  script: Latn
+  content: Nitrogen monoxide and nitrogen dioxide (Standard reference materials)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0516%3A1995
+docidentifier:
+- content: JIS K 0516:1995
+  type: JIS
+  primary: true
+docnumber: K0516
+date:
+- type: issued
+  at: '1995-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 標準物質協議会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 標準物質協議会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 標準物質協議会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 計測器校正用，計測器検定用，化学分析標準用その他に標準試料として用いる一酸化窒素及び二酸化窒素について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.060.20
+    text: Oxides
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0516

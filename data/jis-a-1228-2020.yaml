@@ -1,0 +1,84 @@
+---
+id: JISA12282020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 締固めた土のコーン指数試験方法
+- language: en
+  script: Latn
+  content: Test method for cone index of compacted soils
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1228%3A2020
+docidentifier:
+- content: JIS A 1228:2020
+  type: JIS
+  primary: true
+docnumber: A1228
+date:
+- type: issued
+  at: '2020-03-25'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　地盤工学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　地盤工学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　地盤工学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 目開き4.75 mmのふるいを通過した土をモールド内に突固めによって締め固めた供試体について，コーン指数を求める貫入方法について規定。安定処理した土にも適用できる。ただし，この規格が適用できる安定処理土のコーン指数は，1
+    MN/m2～1.5 MN/m2程度以下とする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.080.20
+    text: Physical properties of soils
+  - code: '93.010'
+    text: Civil engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1228

@@ -1,0 +1,89 @@
+---
+id: JISA86142010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: トラックミキサの安全要求事項
+- language: en
+  script: Latn
+  content: Safety requirements for truck mixers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8614%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_08614_000_000_2010_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_08614_000_000_2010_e_ed10_i4.pdf
+docidentifier:
+- content: JIS A 8614:2010
+  type: JIS
+  primary: true
+docnumber: A8614
+date:
+- type: issued
+  at: '2010-10-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建設機械施工協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建設機械施工協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本建設機械施工協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格に定義するトラックミキサに対する安全要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '53.100'
+    text: Earth-moving machinery
+  - code: '91.220'
+    text: Construction equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8614

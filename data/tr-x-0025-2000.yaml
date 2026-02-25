@@ -1,0 +1,73 @@
+---
+id: TRX00252000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 追記形コンパクトディスクシステム（ＣＤ－Ｒ）
+- language: en
+  script: Latn
+  content: Recordable Compact Disc (CD-R) systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0025%3A2000
+docidentifier:
+- content: TR X 0025:2000
+  type: JIS
+  primary: true
+docnumber: X0025
+date:
+- type: issued
+  at: '2000-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: コンパクトディスク（ＣＤ）の情報を一回だけ書込みでき，何回も再生することができる追記形コンパクトディスク（ＣＤ－Ｒ）システムについて規定。記録されたＣＤ－Ｒディスクは，ＪＩＳ　Ｓ　８６０５に互換性があるので，従来のＣＤプレーヤで再生できる。ＣＤ－Ｒフォーマットは，オーディオ及びデータの両方の記録を可能にする。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 35.220.30
+    text: Optical storage devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0025

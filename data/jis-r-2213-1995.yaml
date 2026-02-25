@@ -1,0 +1,81 @@
+---
+id: JISR22131995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 耐火れんがの曲げ強さの試験方法
+- language: en
+  script: Latn
+  content: Test method for modulus of rupture of refractory bricks
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+2213%3A1995
+docidentifier:
+- content: JIS R 2213:1995
+  type: JIS
+  primary: true
+docnumber: R2213
+date:
+- type: issued
+  at: '1995-06-30'
+- type: confirmed
+  at: '2000-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 耐火物技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 耐火物技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 耐火物技術協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 耐火れんがの曲げ強さの試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '81.080'
+    text: Refractories
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R2213

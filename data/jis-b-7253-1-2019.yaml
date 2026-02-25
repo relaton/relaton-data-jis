@@ -1,0 +1,91 @@
+---
+id: JISB725312019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 顕微鏡―照明特性の定義及び測定―第１部：明視野顕微鏡の像の明るさ及び均一性
+- language: en
+  script: Latn
+  content: 'Microscopes -- Definition and measurement of illumination properties --
+    Part 1: Image brightness and uniformity in bright field microscopy'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7253-1%3A2019
+docidentifier:
+- content: JIS B 7253-1:2019
+  type: JIS
+  primary: true
+docnumber: B7253
+date:
+- type: issued
+  at: '2019-01-21'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本顕微鏡工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本顕微鏡工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本顕微鏡工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 明視野顕微鏡の像の明るさ及び明るさの均一性に係る測定の手順について規定。また，使用者に提供すべき情報に関しても規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '37.020'
+    text: Optical equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7253

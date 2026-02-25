@@ -1,0 +1,86 @@
+---
+id: JISX920612000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 印刷工程管理のためのデータベース構造モデル及び制御パラメタの符号化―第１部：構造モデル及びデータベース記述書式
+- language: en
+  script: Latn
+  content: 'Database architecture model and control parameter coding for process control
+    and workflow Part 1: Architecture model and database format'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9206-1%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09206_001_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 9206-1:2000
+  type: JIS
+  primary: true
+docnumber: X9206
+date:
+- type: issued
+  at: '2000-10-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 印刷関連産業において，ワークフロー表現及び工程制御を目的とした構造モデル，データベース記述書式及び制御パラメタを規定。構造モデル及びデータベース記述書式を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  - code: 37.100.01
+    text: Graphic technology in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X9206

@@ -1,0 +1,72 @@
+---
+id: JISS10131982
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 店舗用じゅう（什）器の性能分類
+- language: en
+  script: Latn
+  content: Classification of performance-components for shop system
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+1013%3A1982
+docidentifier:
+- content: JIS S 1013:1982
+  type: JIS
+  primary: true
+docnumber: S1013
+date:
+- type: issued
+  at: '1982-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　店舗システム協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　店舗システム協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 財団法人　店舗システム協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 店舗用じゅう器の性能を表すため，じゅう器の種類，性能項目，測定項目，性能級別及びそれに基づく表示について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S1013

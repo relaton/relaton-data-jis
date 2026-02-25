@@ -1,0 +1,87 @@
+---
+id: JISH86211998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工業用銀めっき
+- language: en
+  script: Latn
+  content: Electroplated coatings of silver for engineering purposes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+8621%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_08621_000_000_1998_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_08621_000_000_1998_e_pr10_i4.pdf
+docidentifier:
+- content: JIS H 8621:1998
+  type: JIS
+  primary: true
+docnumber: H8621
+date:
+- type: issued
+  at: '1999-02-28'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　表面技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　表面技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　表面技術協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 金属及び非金属素地上に工業用の目的で行った，有効面の厚さ０．５μｍ以上の銀電気めっきについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.220.40
+    text: Metallic coatings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H8621

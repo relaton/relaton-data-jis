@@ -1,0 +1,96 @@
+---
+id: JIST32132018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 栄養用チューブ及びカテーテル
+- language: en
+  script: Latn
+  content: Enteral feeding catheters and enteral giving sets
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+3213%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03213_000_000_2018_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03213_000_000_2018_e_ed10_i4.pdf
+docidentifier:
+- content: JIS T 3213:2018
+  type: JIS
+  primary: true
+docnumber: T3213
+date:
+- type: issued
+  at: '2018-05-01'
+- type: confirmed
+  at: '2023-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 栄養投与又は減圧を目的とした滅菌済み又は未滅菌の経腸栄養投与セット及び経腸栄養カテーテルについて規定。この規格では，そのコネクタの設計及び試験方法も規定。なお，この規格では，経腸栄養カテーテルのエックス線不透過性に関わる要求事項は含まない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.25
+    text: Syringes, needles and catheters
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T3213

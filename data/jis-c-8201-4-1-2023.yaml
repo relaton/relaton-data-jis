@@ -1,0 +1,95 @@
+---
+id: JISC8201412023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧開閉装置及び制御装置―第４－１部：接触器及びモータスタータ：電気機械式接触器及びモータスタータ
+- language: en
+  script: Latn
+  content: 'Low-voltage switchgear and controlgear -- Part 4-1: Contactors and motor-starters
+    -- Electromechanical contactors and motor-starters'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8201-4-1%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08201_004_001_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8201-4-1:2023
+  type: JIS
+  primary: true
+docnumber: C8201
+date:
+- type: issued
+  at: '2023-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 定格電圧が交流１　０００　Ｖ以下又は直流1　５００　Ｖ以下の配電回路及びモータ回路に接続する次（モータ保護用開閉機器（ＭＰＳＤ）を含む電気機械式接触器及びスタータ；接触器形リレーの操作部；接触器又は接触器形リレーのコイル回路専用に用いる接点；専用アクセサリ（例えば，専用配線アクセサリ及び専用ラッチアクセサリ）の装置について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.40
+    text: Switches
+  - code: 29.120.99
+    text: Other electrical accessories
+  - code: 29.130.20
+    text: Low voltage switchgear and controlgear
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8201

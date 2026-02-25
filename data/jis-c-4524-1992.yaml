@@ -1,0 +1,75 @@
+---
+id: JISC45241992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高周波形近接スイッチ
+- language: en
+  script: Latn
+  content: High frequency proximity switches
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4524%3A1992
+docidentifier:
+- content: JIS C 4524:1992
+  type: JIS
+  primary: true
+docnumber: C4524
+date:
+- type: issued
+  at: '1992-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気制御機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気制御機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電気制御機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 周波数が５０Ｈｚ，６０Ｈｚ又は５０Ｈｚ／６０Ｈｚ共用の交流２５０Ｖ以下又は直流６０Ｖ以下の工業用制御回路に使用する高周波形近接スイッチについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.220.20
+    text: Switches
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C4524

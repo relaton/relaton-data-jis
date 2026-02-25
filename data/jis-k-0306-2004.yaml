@@ -1,0 +1,88 @@
+---
+id: JISK03062004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 空気中の揮発性有機化合物の検知管による測定方法
+- language: en
+  script: Latn
+  content: Measuring method for volatile organic compounds in airborｎe by gas detector
+    tube
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0306%3A2004
+docidentifier:
+- content: JIS K 0306:2004
+  type: JIS
+  primary: true
+docnumber: K0306
+date:
+- type: issued
+  at: '2004-05-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本環境衛生センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本環境衛生センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本環境衛生センター
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 空気中の揮発性有機化合物の内，トリクロロエチレン（トリクロロエテン）及びテトラクロロエチレン（テトラクロロエテン）の濃度を長時間用測長形検知管を用いて測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.20
+    text: Ambient atmospheres
+  - code: 71.040.40
+    text: Chemical analysis
+  - code: 71.080.01
+    text: Organic chemicals in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0306

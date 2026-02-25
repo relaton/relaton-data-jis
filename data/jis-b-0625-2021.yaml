@@ -1,0 +1,94 @@
+---
+id: JISB06252021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 公差解析用語
+- language: en
+  script: Latn
+  content: Terms relating to tolerance analysis
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0625%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00625_000_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 0625:2021
+  type: JIS
+  primary: true
+docnumber: B0625
+date:
+- type: issued
+  at: '2021-03-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本設計工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本設計工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本設計工学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般機械，工作機械，精密機械，電気機械などの工業分野で用いる部品及び／又は製品の公差設計における公差解析，公差配分，公差の累積，公差再配分，公差解析図，公差解析表及び公差の管理に関わる一般的な用語の定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.17
+    text: Metrology and measurement. Physical phenomena (Vocabularies)
+  - code: 17.040.10
+    text: Limits and fits
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0625

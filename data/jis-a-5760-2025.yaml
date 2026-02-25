@@ -1,0 +1,93 @@
+---
+id: JISA57602025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築用構造ガスケット
+- language: en
+  script: Latn
+  content: Structural gaskets used in buildings-Classification, specification and
+    test methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5760%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05760_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 5760:2025
+  type: JIS
+  primary: true
+docnumber: A5760
+date:
+- type: issued
+  at: '2025-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           建築ガスケット工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           建築ガスケット工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           建築ガスケット工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，建築物に用いられるロックストリップタイプの加硫ゴム製構造ガスケットについて規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.140.50
+    text: Seals
+  - code: 91.100.50
+    text: Binders. Sealing materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5760

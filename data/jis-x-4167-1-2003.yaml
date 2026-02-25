@@ -1,0 +1,82 @@
+---
+id: JISX416712003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 文書印刷応用（ＤＰＡ）―第１部：抽象サービス定義及び手続き
+- language: en
+  script: Latn
+  content: 'Document Printing Application (DPA) -- Part 1: Abstract service definition
+    and procedures'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4167-1%3A2003
+docidentifier:
+- content: JIS X 4167-1:2003
+  type: JIS
+  primary: true
+docnumber: X4167
+date:
+- type: issued
+  at: '2003-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 分散オフィス応用モデル（ＩＳＯ／ＩＥＣ　１００３１－１）に従う印刷のクライアントサーバモデル；文書印刷応用サービスが提供する機能及びサービス；抽象サービス定義規約（ＩＳＯ／ＩＥＣ　１００２１－３）が規定する原理を用いる文書印刷応用抽象サービス；他のサービスの利用を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.20
+    text: IT applications in office work
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4167

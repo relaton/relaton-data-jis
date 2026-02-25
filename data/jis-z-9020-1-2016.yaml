@@ -1,0 +1,89 @@
+---
+id: JISZ902012016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 管理図―第１部：一般指針
+- language: en
+  script: Latn
+  content: 'Control charts -- Part 1: General guidelines'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9020-1%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09020_001_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 9020-1:2016
+  type: JIS
+  primary: true
+docnumber: Z9020
+date:
+- type: issued
+  at: '2016-12-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 管理図によるアプローチの要点及び考え方についての一般的な指針を示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.30
+    text: Application of statistical methods
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9020

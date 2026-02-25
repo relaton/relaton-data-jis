@@ -1,0 +1,93 @@
+---
+id: JIST57512015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 歯科用根管長測定器
+- language: en
+  script: Latn
+  content: Dentistry -- Apex locator
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+5751%3A2015
+docidentifier:
+- content: JIS T 5751:2015
+  type: JIS
+  primary: true
+docnumber: T5751
+date:
+- type: issued
+  at: '2015-04-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本歯科器械工業協同組合
+        \                                               \r\n                                                                                            公益社団法人　日本歯科医師会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本歯科器械工業協同組合
+        \                                               \r\n                                                                                            公益社団法人　日本歯科医師会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本歯科器械工業協同組合
+          \                                               \r\n                                                                                            公益社団法人　日本歯科医師会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 歯科用ユニットで作動（運転）する歯科用根管長測定器，又は他の歯科用制御装置で作動（運転）する主に卓上形の歯科用根管長測定器について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.060.25
+    text: Dental instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T5751

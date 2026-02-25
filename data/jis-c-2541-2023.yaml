@@ -1,0 +1,90 @@
+---
+id: JISC25412023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 赤外線カメラによる鉄心表面の損失分布の熱的測定方法
+- language: en
+  script: Latn
+  content: Thermal measurement method of loss distribution on iron core surfaces by
+    means of an infrared camera
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2541%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02541_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 2541:2023
+  type: JIS
+  primary: true
+docnumber: C2541
+date:
+- type: issued
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 主に励磁下のステータコア及びロータコアのモータ鉄心表面（側面を含む。）の，損失分布の赤外線カメラによる熱的測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.20
+    text: Measurement of electrical and magnetic quantities
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2541

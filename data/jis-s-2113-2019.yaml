@@ -1,0 +1,81 @@
+---
+id: JISS21132019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 業務用ガスこんろ
+- language: en
+  script: Latn
+  content: Commercial gascookers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2113%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02113_000_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS S 2113:2019
+  type: JIS
+  primary: true
+docnumber: S2113
+date:
+- type: issued
+  at: '2019-04-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本ガス機器検査協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本ガス機器検査協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本ガス機器検査協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 液化石油ガス又は都市ガスを燃料とする，主として液化石油ガスの保安の確保及び取引の適正化に関する法律施行令（昭和４３年政令第１４号）第２条第１号に掲げる者が，業務の用に供する調理機器について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.040.20
+    text: Cooking ranges, working tables, ovens and similar appliances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S2113

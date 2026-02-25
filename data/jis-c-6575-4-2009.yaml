@@ -1,0 +1,97 @@
+---
+id: JISC657542009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ミニチュアヒューズ―第４部：ＵＭヒューズリンク（ＵＭＦ）並びにその他の端子挿入形及び表面実装形ヒューズリンク
+- language: en
+  script: Latn
+  content: 'Miniature fuses -- Part 4: Universal modular fuse-links (UMF), and non-UM
+    through-hole and surface mount fuse-links'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6575-4%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06575_004_000_2009_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06575_004_000_2009_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 6575-4:2009
+  type: JIS
+  primary: true
+docnumber: C6575
+date:
+- type: issued
+  at: '2009-03-20'
+- type: confirmed
+  at: '2013-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　電気安全環境研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　電気安全環境研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　電気安全環境研究所"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: プリント回路その他の基板に用い，かつ，通常屋内において用いる電気機器，電子機器及びそれらの部品を保護するためのUMヒューズリンク並びにその他の端子挿入形及び表面実装形ヒューズリンクについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.50
+    text: Fuses and other overcurrent protection devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6575

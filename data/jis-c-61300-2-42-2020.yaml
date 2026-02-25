@@ -1,0 +1,94 @@
+---
+id: JISC613002422020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光ファイバ接続デバイス及び光受動部品―基本試験及び測定手順―第２－４２部：光ファイバクランプ強度試験―横方向引張り
+- language: en
+  script: Latn
+  content: 'Fiber optic interconnecting devices and passive components -- Basic test
+    and measurement procedures -- Part 2-42: Tests -- Static side load for strain
+    relief'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61300-2-42%3A2020
+docidentifier:
+- content: JIS C 61300-2-42:2020
+  type: JIS
+  primary: true
+docnumber: C61300
+date:
+- type: issued
+  at: '2020-09-23'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 光ファイバクランプ部を用いて組み立てられた光ファイバの使用中に起こり得る，横方向の引張力に対する耐久性の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.10
+    text: Fibres and cables
+  - code: 33.180.20
+    text: Fibre optic interconnecting devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61300

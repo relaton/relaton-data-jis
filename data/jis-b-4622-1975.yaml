@@ -1,0 +1,72 @@
+---
+id: JISB46221975
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 立万力
+- language: en
+  script: Latn
+  content: Leg vices
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+4622%3A1975
+docidentifier:
+- content: JIS B 4622:1975
+  type: JIS
+  primary: true
+docnumber: B4622
+date:
+- type: issued
+  at: '1975-09-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国作業工具工業組合
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国作業工具工業組合
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 全国作業工具工業組合
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 作業台に取り付けて簡単な鍛造作業及び手仕上げのとき，加工物をくわえる立万力について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B4622

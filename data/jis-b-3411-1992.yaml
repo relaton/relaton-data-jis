@@ -1,0 +1,76 @@
+---
+id: JISB34111992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プロッタの試験方法　第１部　電子機械式プロッタ
+- language: en
+  script: Latn
+  content: 'Numerically controlled draughting machines -- Drawing test -- Part 1:
+    Electromechanical plotters'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3411%3A1992
+docidentifier:
+- content: JIS B 3411:1992
+  type: JIS
+  primary: true
+docnumber: B3411
+date:
+- type: issued
+  at: '1992-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本設計工学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本設計工学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本設計工学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子機械式プロッタの作図試験方法及び動的精度，作図時間など作図上の質的能力を機器の形式に関係なく評価する方法について規定。図面の精度を評価する場合，気候条件によって作図メディアの寸法が変化し試験結果に影響を及ぼすので，既に作図されている図面の静的図面精度の評価には適用できない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.180'
+    text: IT terminal and other peripheral equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B3411

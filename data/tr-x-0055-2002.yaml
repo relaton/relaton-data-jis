@@ -1,0 +1,75 @@
+---
+id: TRX00552002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: インターネット利用者のための用語
+- language: en
+  script: Latn
+  content: Internet Users' Glossary
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0055%3A2002
+docidentifier:
+- content: TR X 0055:2002
+  type: JIS
+  primary: true
+docnumber: X0055
+date:
+- type: issued
+  at: '2002-06-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: インターネット技術に関する基本的な用語を，規定ではなく，参考情報として示す。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 01.040.35
+    text: Information technology (Vocabularies)
+  - code: '35.110'
+    text: Networking
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0055

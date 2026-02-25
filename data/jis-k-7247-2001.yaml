@@ -1,0 +1,86 @@
+---
+id: JISK72472001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 試験炎　―　５００Ｗ試験炎による燃焼試験方法
+- language: en
+  script: Latn
+  content: Test flames -- 500 W flame test methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7247%3A2001
+docidentifier:
+- content: JIS K 7247:2001
+  type: JIS
+  primary: true
+docnumber: K7247
+date:
+- type: issued
+  at: '2001-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本プラスチック工業連盟"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: プラスチック及びその他の非金属材料の試験片を公称５００Ｗの炎にさらして，貫通孔及び相対的な燃焼挙動を比較するための，試験室での小規模な燃焼試験方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.220.40
+    text: Ignitability and burning behaviour of materials and products
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K7247

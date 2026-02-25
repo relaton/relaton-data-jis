@@ -1,0 +1,90 @@
+---
+id: JISC036477222024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧電気設備―第７－７２２部：特殊設備又は特殊場所に関する要求事項―電気自動車用電源
+- language: en
+  script: Latn
+  content: 'Low-voltage electrical installations -- Part 7-722: Requirements for special
+    installations or locations -- Supplies for electric vehicles'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0364-7-722%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00364_007_722_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 0364-7-722:2024
+  type: JIS
+  primary: true
+docnumber: C0364
+date:
+- type: issued
+  at: '2024-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 次の（・電気自動車に電力供給することを意図した回路；・電気自動車から逆給電することを意図した回路）電源回路に対する特別要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '43.120'
+    text: Electric road vehicles
+  - code: 91.140.50
+    text: Electricity supply systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0364

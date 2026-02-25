@@ -1,0 +1,94 @@
+---
+id: JISK37042008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 培地の試験方法―大腸菌用検出培地
+- language: en
+  script: Latn
+  content: Culture media -- Detection of Escherichia coli O157
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+3704%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_03704_000_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 3704:2008
+  type: JIS
+  primary: true
+docnumber: K3704
+date:
+- type: issued
+  at: '2008-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　バイオインダストリー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　バイオインダストリー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　バイオインダストリー協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 大腸菌Ｏ１５７の検出を目的とする培地試験の方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 07.100.10
+    text: Medical microbiology
+  - code: 07.100.30
+    text: Food microbiology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K3704

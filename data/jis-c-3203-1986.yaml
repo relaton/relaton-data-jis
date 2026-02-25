@@ -1,0 +1,72 @@
+---
+id: JISC32031986
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ホルマール銅線
+- language: en
+  script: Latn
+  content: Polyvinyl formal enameled copper wires
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3203%3A1986
+docidentifier:
+- content: JIS C 3203:1986
+  type: JIS
+  primary: true
+docnumber: C3203
+date:
+- type: issued
+  at: '1986-03-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電線工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電線工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電線工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気機器，電気通信機器，電子機器，電気計器などの巻線及び配線に用いる温度指数１０５℃のホルマール銅線について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C3203

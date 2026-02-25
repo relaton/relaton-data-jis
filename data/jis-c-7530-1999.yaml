@@ -1,0 +1,87 @@
+---
+id: JISC75301999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ボール電球
+- language: en
+  script: Latn
+  content: Ball lamps
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7530%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_07530_000_000_1999_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_07530_000_000_1999_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 7530:1999
+  type: JIS
+  primary: true
+docnumber: C7530
+date:
+- type: issued
+  at: '1999-06-30'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本照明工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本照明工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本照明工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｃ　７５５１－１：１９９９　第２章に規定する一般照明用白熱電球の安全要求条件に適合する，定格消費電力：２５Ｗ以上１００Ｗ以下；定格電圧：１００Ｖ；ガラス球形状：Ｇ形；ガラス球処理：透明，白色塗装及び白色薄膜塗装；口金：Ｅ１７／２０及びＥ２６／２５　の条件を満たすボール電球について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.140.20
+    text: Incandescent lamps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C7530

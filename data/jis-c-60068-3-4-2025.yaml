@@ -1,0 +1,90 @@
+---
+id: JISC60068342025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法－電気・電子－第３－４部：支援文書及び指針－高温高湿試験
+- language: en
+  script: Latn
+  content: 'Environmental testing-Part 3-4: Supporting documentation and guidance-Damp
+    heat tests'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-3-4%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_003_004_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60068-3-4:2025
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  at: '2025-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，製品規格，例えば，部品又は装置の規格を作成する際に，環境試験における湿度の影響について，必要な情報及び基本原則を提供する。さらに，恒温恒湿槽の操作に関する情報を提供する。
+    この規格の目的は，一連の高温高湿試験に関する支援文書及び指針を提示することである。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60068

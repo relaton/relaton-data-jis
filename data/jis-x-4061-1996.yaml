@@ -1,0 +1,89 @@
+---
+id: JISX40611996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 日本語文字列照合順番
+- language: en
+  script: Latn
+  content: Collation of Japanese character string
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4061%3A1996
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04061_000_000_1996_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 4061:1996
+  type: JIS
+  primary: true
+docnumber: X4061
+date:
+- type: issued
+  at: '1997-02-28'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 日本語を表記に用いられる文字列を含むレコードの照合順番を規定。文字列の順序関係を定める照合規則を規定。その照合規則のレコードへの適用の仕方である照合方法を規定。照合順番は三つとする。（１）単純照合（２）読み・表記照合（３）代表読み照合　辞典の項目，データベースの索引，用語集，人名録などのように，各項目に施されている読み，その項目自体の表記などに基づいて項目を照合・整列する際などに適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4061

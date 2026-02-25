@@ -1,0 +1,75 @@
+---
+id: JISC81511991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工業用表示灯
+- language: en
+  script: Latn
+  content: Indicator lights for industry use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8151%3A1991
+docidentifier:
+- content: JIS C 8151:1991
+  type: JIS
+  primary: true
+docnumber: C8151
+date:
+- type: issued
+  at: '1991-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気制御機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気制御機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電気制御機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 交流６００Ｖ以下（周波数５０Ｈｚ又は６０Ｈｚ）又は直流２５０Ｖ以下の電路に使用する工業用表示灯について規定。表示灯とは，照光部，光源（電球又は発光ダイオード）及びこれらを保持する支持体などで構成され，光源の点灯・減灯によって回路の状態を表示することを目的としたもので，制御盤，配電盤に取り付つけて使用するものをいう。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.140.99
+    text: Other standards related to lamps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8151

@@ -1,0 +1,95 @@
+---
+id: JISG05932002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 水処理剤の腐食及びスケール防止評価試験方法
+- language: en
+  script: Latn
+  content: Testing method for corrosion and scale inhibition performance of water
+    treatment additives in cooling water system
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0593%3A2002
+docidentifier:
+- content: JIS G 0593:2002
+  type: JIS
+  primary: true
+docnumber: G0593
+date:
+- type: issued
+  at: '2002-05-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           ステンレス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           ステンレス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           ステンレス協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 淡水を使用する開放循環冷却水系の金属伝熱面における水処理剤の腐食及びスケール付着の防止効果を評価する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.100.80
+    text: Chemicals for purification of water
+  - code: '77.060'
+    text: Corrosion of metals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G0593

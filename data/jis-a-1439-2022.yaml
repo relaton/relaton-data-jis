@@ -1,0 +1,90 @@
+---
+id: JISA14392022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築用シーリング材の試験方法
+- language: en
+  script: Latn
+  content: Testing methods of sealants for sealing and glazing in buildings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1439%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01439_000_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 1439:2022
+  type: JIS
+  primary: true
+docnumber: A1439
+date:
+- type: issued
+  at: '2022-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本シーリング材工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本シーリング材工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本シーリング材工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 金属，コンクリート，ガラスなどの建築用構成材の接合部の目地に不定形の状態で充填し，硬化又は乾燥することによって目地をシールして水密性及び気密性を確保するために使用する建築用シーリング材の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.50
+    text: Binders. Sealing materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1439

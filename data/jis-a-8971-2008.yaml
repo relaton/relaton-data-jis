@@ -1,0 +1,92 @@
+---
+id: JISA89712008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 屋根工事用足場及び施工方法
+- language: en
+  script: Latn
+  content: Scaffolding for roof construction and installation
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8971%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_08971_000_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 8971:2008
+  type: JIS
+  primary: true
+docnumber: A8971
+date:
+- type: issued
+  at: '2008-04-01'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全国仮設安全事業協同組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全国仮設安全事業協同組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           全国仮設安全事業協同組合"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 木造，鉄骨造，鉄筋コンクリート造，鉄骨鉄筋コンクリート造などの建築物及び構造物における，屋根工事及び小屋組の建方工事に使用する足場及び装備機材並びにそれらの施工方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.060.20
+    text: Roofs
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8971

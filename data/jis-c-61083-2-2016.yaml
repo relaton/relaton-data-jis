@@ -1,0 +1,94 @@
+---
+id: JISC6108322016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: インパルス電圧及び電流試験に用いるソフトウェアに関する要求事項
+- language: en
+  script: Latn
+  content: Requirements for software for tests with impulse voltages and currents
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61083-2%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61083_002_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61083-2:2016
+  type: JIS
+  primary: true
+docnumber: C61083
+date:
+- type: issued
+  at: '2016-09-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: インパルス電圧及び電流試験に用いるソフトウェア（波形解析ソフトウェア）に関する要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.20
+    text: Measurement of electrical and magnetic quantities
+  - code: '19.080'
+    text: Electrical and electronic testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61083

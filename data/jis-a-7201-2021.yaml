@@ -1,0 +1,92 @@
+---
+id: JISA72012021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 既製コンクリートくいの施工標準
+- language: en
+  script: Latn
+  content: Standard practice for execution of precast concrete piles
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+7201%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_07201_000_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 7201:2021
+  type: JIS
+  primary: true
+docnumber: A7201
+date:
+- type: issued
+  at: '2021-03-22'
+- type: confirmed
+  at: '2025-11-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　コンクリートパイル・ポール協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　コンクリートパイル・ポール協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　コンクリートパイル・ポール協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 既製コンクリートくいの施工標準について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.30
+    text: Concrete and concrete products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A7201

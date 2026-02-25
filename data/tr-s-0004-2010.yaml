@@ -1,0 +1,80 @@
+---
+id: TRS00042010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 視標検出視野の加齢変化に関するデータ集
+- language: en
+  script: Latn
+  content: Data on the age-related changes of visual field size for detection
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+S+0004%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_tr_s_00004_000_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: TR S 0004:2010
+  type: JIS
+  primary: true
+docnumber: S0004
+date:
+- type: issued
+  at: '2010-04-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+          \                                                                                           国立研究開発法人　産業技術総合研究所"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 医学的に異常のない視覚をもつ高齢者（６０～８０歳代）及び若年者（２０歳代）を対象とし，正面を固視した状態で，視野周辺に現れる視標の検出率を調べたデータ。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 17.180.99
+    text: Other standards related to optics and optical measurements
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S0004

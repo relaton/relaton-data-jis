@@ -1,0 +1,97 @@
+---
+id: JISB776132007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 手腕系振動―第３部：測定及び評価に関する一般要求事項
+- language: en
+  script: Latn
+  content: 'Hand-transmitted vibration -- Part 3: General requirements for measurement
+    and evaluation'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7761-3%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07761_003_000_2007_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07761_003_000_2007_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 7761-3:2007
+  type: JIS
+  primary: true
+docnumber: B7761
+date:
+- type: issued
+  at: '2007-04-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本機械学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本機械学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本機械学会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 手腕系振動暴露を３方向の直交軸で測定し，報告するための一般要求事項について規定。また，測定値の比較を可能にするために，周波数補正及び帯域制限フィルタについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.160'
+    text: Vibration and shock with respect to human beings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7761

@@ -1,0 +1,94 @@
+---
+id: JISK23012011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 燃料ガス及び天然ガス―分析・試験方法
+- language: en
+  script: Latn
+  content: Fuel gases and natural gas -- Methods for chemical analysis and testing
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2301%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02301_000_000_2011_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 2301:2011
+  type: JIS
+  primary: true
+docnumber: K2301
+date:
+- type: issued
+  at: '2011-11-21'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ガス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ガス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ガス協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 燃料ガス及び天然ガスの一般成分及び特殊成分の分析方法並びに発熱量及び比重の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '75.060'
+    text: Natural gas
+  - code: 75.160.30
+    text: Gaseous fuels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K2301

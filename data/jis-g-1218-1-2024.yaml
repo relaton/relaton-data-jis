@@ -1,0 +1,84 @@
+---
+id: JISG121812024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄及び鋼－モリブデン定量方法－第１部：ベンゾイン－α－オキシム沈殿分離酸化モリブデン（ＶＩ）重量法
+- language: en
+  script: Latn
+  content: 'Iron and steel-Determination of molybdenum-Part 1: Molybdenum(VI) oxide
+    gravimetric method after benzoin-α-oxime complex coprecipitation separation'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+1218-1%3A2024
+docidentifier:
+- content: JIS G 1218-1:2024
+  type: JIS
+  primary: true
+docnumber: G1218
+date:
+- type: issued
+  at: '2024-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，鉄及び鋼中のモリブデン定量方法のうち，ベンゾイン-α-オキシム沈殿分離酸化モリブデン（VI）重量法について規定する。
+    この方法は，モリブデン含有率（質量分率）0.03 %以上12.0 %以下の定量に適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.080.01
+    text: Ferrous metals in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G1218

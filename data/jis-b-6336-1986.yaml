@@ -1,0 +1,75 @@
+---
+id: JISB63361986
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: マシニングセンタ（横形）の試験及び検査方法
+- language: en
+  script: Latn
+  content: Test code for performance and accuracy of machining centres
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6336%3A1986
+docidentifier:
+- content: JIS B 6336:1986
+  type: JIS
+  primary: true
+docnumber: B6336
+date:
+- type: issued
+  at: '1986-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本工作機械工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 横形単軸で自動工具交換装置及び旋回テーブルをもち，旋回テーブルの直径又は一辺の長さ１０００ｍｍ以下のマシニングセンタの運転性能，剛性，機械精度及び工作精度に関する試験及び検査方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.10
+    text: Machining centres
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6336

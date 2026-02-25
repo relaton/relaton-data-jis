@@ -1,0 +1,75 @@
+---
+id: JIST13061989
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子体温モニタ
+- language: en
+  script: Latn
+  content: Continuous measuring clinical electrical thermometers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1306%3A1989
+docidentifier:
+- content: JIS T 1306:1989
+  type: JIS
+  primary: true
+docnumber: T1306
+date:
+- type: issued
+  at: '1989-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子式温度検出器を用いて，人の体温の経時変動を長時間監視する電子体温モニタについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.55
+    text: Diagnostic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T1306

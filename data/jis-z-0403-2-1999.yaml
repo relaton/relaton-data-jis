@@ -1,0 +1,83 @@
+---
+id: JISZ040321999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 段ボール―第２部：垂直圧縮強さ試験方法
+- language: en
+  script: Latn
+  content: 'Corrugated fibreboard -- Part 2: Determination of edgewise crush resistance'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+0403-2%3A1999
+docidentifier:
+- content: JIS Z 0403-2:1999
+  type: JIS
+  primary: true
+docnumber: Z0403
+date:
+- type: issued
+  at: '1999-04-30'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国段ボール工業組合連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国段ボール工業組合連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 全国段ボール工業組合連合会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 片面，両面，複両面，複々両面段ボールの垂直圧縮強さ試験方法（Ａ法）について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '85.060'
+    text: Paper and board
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z0403

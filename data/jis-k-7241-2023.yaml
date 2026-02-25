@@ -1,0 +1,93 @@
+---
+id: JISK72412023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 発泡プラスチック―小火炎による小試験片の水平燃焼特性の求め方
+- language: en
+  script: Latn
+  content: Cellular plastics -- Determination of horizontal burning characteristics
+    of small specimens subjected to a small flame
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7241%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07241_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 7241:2023
+  type: JIS
+  primary: true
+docnumber: K7241
+date:
+- type: issued
+  at: '2023-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本プラスチック工業連盟"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｋ　７２２２の規定によって測定した密度が２５０　ｋｇ／ｍ３未満の発泡プラスチックの小試験片を着火源にさらしたときの，相対的な水平燃焼特性を比較するための小形の試験室内試験方法を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.220.40
+    text: Ignitability and burning behaviour of materials and products
+  - code: '83.100'
+    text: Cellular materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K7241

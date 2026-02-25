@@ -1,0 +1,75 @@
+---
+id: JISB71891983
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: １６ｍｍ及び３５ｍｍマイクロフィルム用リール
+- language: en
+  script: Latn
+  content: Reels for processed 16 mm and 35mm microfilms
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7189%3A1983
+docidentifier:
+- content: JIS B 7189:1983
+  type: JIS
+  primary: true
+docnumber: B7189
+date:
+- type: issued
+  at: '1983-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本画像情報マネジメント協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本画像情報マネジメント協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本画像情報マネジメント協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 処理済みの１６ｍｍ及び３５ｍｍのマイクロフィルムを巻いて保管し，マイクロフィルムリーダに装着して用いるマイクロフィルム用リールについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '37.080'
+    text: Document imaging applications
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7189

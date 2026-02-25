@@ -1,0 +1,92 @@
+---
+id: JISC600682552014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―第２－５５部：ルーズカーゴに対するバウンス試験及び指針（試験記号：Ｅｅ）
+- language: en
+  script: Latn
+  content: 'Environmental testing -- Part 2-55: Tests -- Test Ee and guidance -- Loose
+    cargo testing including bounce'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-55%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_055_2014_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60068-2-55:2014
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  at: '2014-08-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 車両にしっかり固定しない貨物（ルーズカーゴ）を輸送する電気及び電子製品が，指定する厳しさのバウンス（ランダムな衝撃状態）への耐力を決定するための標準的な手順を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60068

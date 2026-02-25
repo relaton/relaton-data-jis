@@ -1,0 +1,90 @@
+---
+id: JISC606952102023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 火災危険性試験―電気・電子―第２－１０部：グローワイヤ／ホットワイヤ試験方法―グローワイヤ試験装置及び一般試験方法
+- language: en
+  script: Latn
+  content: 'Fire hazard testing -- Part 2-10: Glowing/hot-wire based test methods
+    -- Glow-wire apparatus and common test procedure'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60695-2-10%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60695_002_010_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60695-2-10:2023
+  type: JIS
+  primary: true
+docnumber: C60695
+date:
+- type: issued
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: シミュレーション技術を用いて短時間で火災危険性を評価するために，例えば，赤熱素子，過負荷抵抗などの熱源による熱ストレスの影響を模擬するためのグローワイヤ試験装置及び一般試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.220.40
+    text: Ignitability and burning behaviour of materials and products
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60695

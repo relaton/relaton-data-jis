@@ -1,0 +1,91 @@
+---
+id: JISX01702025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: システム及びソフトウェア技術－システムライフサイクルプロセス
+- language: en
+  script: Latn
+  content: Systems and software engineering-System life cycle processes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0170%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00170_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0170:2025
+  type: JIS
+  primary: true
+docnumber: X0170
+date:
+- type: issued
+  at: '2025-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，人が作り出すシステムのライフサイクルを記述するためのプロセス記述の共通的な枠組みについて規定するものであり，エンジニアリングの視点から一そろいのプロセス及び関連する用語を定義している。これらのプロセスは，対象システム，それらのシステム要素，及びシステム
+    オブ システムズに適用することが可能である。これらのプロセスから選定した集合を，システムのライフサイクルのステージ（段階）全体を通じて適用することが可能である。これは，顧客満足を達成するというゴールを最終的な目標としてもつ，対象となる全ての利害関係者の参加を通して達成される。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0170

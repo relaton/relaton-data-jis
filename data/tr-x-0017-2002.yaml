@@ -1,0 +1,75 @@
+---
+id: TRX00172002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: インタネット印刷プロトコル１．１：符号化及びトランスポート
+- language: en
+  script: Latn
+  content: 'Internet Printing Protocol 1.1: Encoding and Transport'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0017%3A2002
+docidentifier:
+- content: TR X 0017:2002
+  type: JIS
+  primary: true
+docnumber: X0017
+date:
+- type: issued
+  at: '2002-04-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＰＰ操作の符号化規則を含み，トランスポート層及び操作層の２層を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  - code: '35.110'
+    text: Networking
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0017

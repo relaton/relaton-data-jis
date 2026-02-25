@@ -1,0 +1,83 @@
+---
+id: JISB74301977
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: オプチカルフラット
+- language: en
+  script: Latn
+  content: Optical flats
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7430%3A1977
+docidentifier:
+- content: JIS B 7430:1977
+  type: JIS
+  primary: true
+docnumber: B7430
+date:
+- type: issued
+  at: '1977-02-01'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本光学測定機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本光学測定機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本光学測定機工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 平らな測定面をもつ透明なガラスで作られ，光波干渉による平面度測定に用いるオプチカルフラットについて規定。干渉計その他の測定機の部品として使用されるものは除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.180.30
+    text: Optical measuring instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7430

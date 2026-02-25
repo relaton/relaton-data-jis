@@ -1,0 +1,99 @@
+---
+id: JISD26012006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車部品―非鉱油系液圧ブレーキホースアセンブリ
+- language: en
+  script: Latn
+  content: Automotive parts -- Brake hose assemblies for hydraulic braking systems
+    used with non-petroleum-base brake fluid
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+2601%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_02601_000_000_2006_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_02601_000_000_2006_e_ed10_i4.pdf
+docidentifier:
+- content: JIS D 2601:2006
+  type: JIS
+  primary: true
+docnumber: D2601
+date:
+- type: issued
+  at: '2006-02-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　自動車技術会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 自動車の液圧ブレーキ装置に使用する液圧ブレーキホースアセンブリの要求性能，試験方法及び表示について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.040.40
+    text: Braking systems
+  - code: 83.140.40
+    text: Hoses
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D2601

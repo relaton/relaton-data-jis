@@ -1,0 +1,97 @@
+---
+id: JISZ840252002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 測定方法及び測定結果の精確さ（真度及び精度）―第５部：標準測定方法の精度を求めるための代替法
+- language: en
+  script: Latn
+  content: 'Accuracy (trueness and precision) of measurement methods and results --
+    Part 5: Alternative methods for the determination of the precision of a standard
+    measurement method'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8402-5%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08402_005_000_2002_j_ed11_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08402_005_000_2002_e_ed10_i4.pdf
+docidentifier:
+- content: JIS Z 8402-5:2002
+  type: JIS
+  primary: true
+docnumber: Z8402
+date:
+- type: issued
+  at: '2002-07-31'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 標準測定方法の併行標準偏差及び再現標準偏差を求めるための基本的方法に対する代替方法，すなわち水準分割計画及び不均質物質に関する計画の詳細；計算からデータを除外するための外れ値の検定を行うことなく精度評価実験の結果を解析するロバストな方法，特にその詳細な適用方法を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.30
+    text: Application of statistical methods
+  - code: '17.020'
+    text: Metrology and measurement in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8402

@@ -1,0 +1,91 @@
+---
+id: JISX30022024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子計算機プログラム言語ＣＯＢＯＬ
+- language: en
+  script: Latn
+  content: Information technology -- Programming languages, their environments and
+    system software interfaces -- Programming language COBOL
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3002%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03002_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 3002:2024
+  type: JIS
+  primary: true
+docnumber: X3002
+date:
+- type: issued
+  at: '2024-04-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＣＯＢＯＬの構文及びその意味について規定。目的は，ＣＯＢＯＬプログラムを各種のデータ処理システム上で使用できるように，プログラムの高度な機種独立性を促進することにある。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X3002

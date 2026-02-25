@@ -1,0 +1,89 @@
+---
+id: JISQ223982014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 社会セキュリティ―演習の指針
+- language: en
+  script: Latn
+  content: Societal security -- Guidelines for exercises
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+22398%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_22398_000_000_2014_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 22398:2014
+  type: JIS
+  primary: true
+docnumber: Q22398
+date:
+- type: issued
+  at: '2014-12-22'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 組織が自らの演習プロジェクトを計画し，実施し，改善する上での優れた実践及び指針を示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.100.01
+    text: Company organization and management in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q22398

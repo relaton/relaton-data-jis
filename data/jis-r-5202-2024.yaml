@@ -1,0 +1,81 @@
+---
+id: JISR52022024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: セメントの化学分析方法
+- language: en
+  script: Latn
+  content: Methods for chemical analysis of cements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+5202%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_05202_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS R 5202:2024
+  type: JIS
+  primary: true
+docnumber: R5202
+date:
+- type: issued
+  at: '2024-05-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　セメント協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　セメント協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　セメント協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: セメントの湿式方法による化学分析方法について規定。セメントとは，ＪＩＳ　Ｒ　５２１０に規定するポルトランドセメント，ＪＩＳ　Ｒ　５２１１に規定する高炉セメント，ＪＩＳ　Ｒ　５２１２に規定するシリカセメント，ＪＩＳ　Ｒ　５２１３に規定するフライアッシュセメント及びＪＩＳ　Ｒ　５２１４に規定するエコセメントを示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.10
+    text: Cement. Gypsum. Lime. Mortar
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R5202

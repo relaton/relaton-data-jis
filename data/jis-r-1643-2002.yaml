@@ -1,0 +1,84 @@
+---
+id: JISR16432002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 長繊維強化セラミックス複合材料の層間せん断強さ試験方法
+- language: en
+  script: Latn
+  content: Testing methods for interlaminar shear strength of continuous fiber-reinforced
+    ceramic composites
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+1643%3A2002
+docidentifier:
+- content: JIS R 1643:2002
+  type: JIS
+  primary: true
+docnumber: R1643
+date:
+- type: issued
+  at: '2002-01-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ファインセラミックス協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ファインセラミックス協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ファインセラミックス協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 機械材料，構造材料などに使用される長繊維強化セラミックス複合材料の室温における層間せん断強さ測定法のうち，目違いノッチ導入試験片を圧縮する試験法，短いスパン上で行う３点曲げ試験法，及びイオシペスク試験法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 59.100.01
+    text: Materials for the reinforcement of composites in general
+  - code: 81.060.30
+    text: Advanced ceramics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R1643

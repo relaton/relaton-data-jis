@@ -1,0 +1,81 @@
+---
+id: JISA84072000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 土工機械―操縦装置の操作範囲及び位置
+- language: en
+  script: Latn
+  content: Earth-moving machinery -- Zones of comfort and reach for controls
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8407%3A2000
+docidentifier:
+- content: JIS A 8407:2000
+  type: JIS
+  primary: true
+docnumber: A8407
+date:
+- type: issued
+  at: '2000-11-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建設機械施工協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建設機械施工協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本建設機械施工協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 大柄及び小柄な運転員を含めた一般の運転員が着座した状態における操縦装置の操作範囲及び位置について規定し，土工機械の運転室の操縦装置を設計する際に指針として用いる。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '53.100'
+    text: Earth-moving machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8407

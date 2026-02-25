@@ -1,0 +1,83 @@
+---
+id: JISS30262007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 石油燃焼機器用灯油供給器
+- language: en
+  script: Latn
+  content: Kerosene feeders for oil burning appliances
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3026%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_03026_000_000_2007_j_ed10_ch.pdf
+docidentifier:
+- content: JIS S 3026:2007
+  type: JIS
+  primary: true
+docnumber: S3026
+date:
+- type: issued
+  at: '2007-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本燃焼機器検査協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本燃焼機器検査協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本燃焼機器検査協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 灯油を油タンクからくみ上げ，くみ上げた灯油を石油燃焼機器に連続して１時間当たり３Ｌ以上に保って供給する石油燃焼機器用灯油供給器について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 27.060.10
+    text: Liquid and solid fuel burners
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S3026

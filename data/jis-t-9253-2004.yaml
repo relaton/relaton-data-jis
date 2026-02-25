@@ -1,0 +1,94 @@
+---
+id: JIST92532004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 紫外線硬化樹脂インキ点字―品質及び試験方法
+- language: en
+  script: Latn
+  content: Performance and test method of ultraviolet ray hardening resinous braille
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9253%3A2004
+docidentifier:
+- content: JIS T 9253:2004
+  type: JIS
+  primary: true
+docnumber: T9253
+date:
+- type: issued
+  at: '2004-06-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全日本スクリーン・デジタル印刷協同組合連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全日本スクリーン・デジタル印刷協同組合連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           全日本スクリーン・デジタル印刷協同組合連合会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 紫外線硬化樹脂インキを用い，スクリーン印刷方式によって，紙，プラスチック，金属板などの上に印刷される点字の品質及び試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 37.100.01
+    text: Graphic technology in general
+  - code: '87.080'
+    text: Inks. Printing inks
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9253

@@ -1,0 +1,85 @@
+---
+id: JISX560611998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術―ＡＳＮ．１符号化規則―第１部：基本符号化規則（ＢＥＲ），標準符号化規則（ＣＥＲ）及び識別符号化規則（ＤＥＲ）の仕様
+- language: en
+  script: Latn
+  content: 'Information technology -- ASN.1 encoding rules Part 1: Specification of
+    Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
+    Rules (DER)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5606-1%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05606_001_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5606-1:1998
+  type: JIS
+  primary: true
+docnumber: X5606
+date:
+- type: issued
+  at: '1998-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 抽象構文記法１又はＡＳＮ．１として参照されるＪＩＳ　Ｘ　５６０５－１～ＪＩＳ　Ｘ　５６０５－４で規定された記法を使用して定義された型の値に対する転送構文の仕様を得るために使用される基本符号化規則について規定。基本符号化規則は，転送されたデータ値を識別するために，転送構文の復号化にも適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.60
+    text: Presentation layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5606

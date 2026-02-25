@@ -1,0 +1,83 @@
+---
+id: JISX013332001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ソフトウェア製品の評価―第３部：開発者のプロセス
+- language: en
+  script: Latn
+  content: 'Software engineering -- Product evaluation -- Part 3: Process for developers'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0133-3%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00133_003_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 0133-3:2001
+  type: JIS
+  primary: true
+docnumber: X0133
+date:
+- type: issued
+  at: '2001-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 開発者が開発と並行して評価を実行するときに，ソフトウェア製品評価を実現するための要求事項及び推奨事項を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0133

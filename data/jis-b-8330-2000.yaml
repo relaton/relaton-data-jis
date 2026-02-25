@@ -1,0 +1,87 @@
+---
+id: JISB83302000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 送風機の試験及び検査方法
+- language: en
+  script: Latn
+  content: Testing methods for turbo-fans
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8330%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08330_000_000_2000_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08330_000_000_2000_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 8330:2000
+  type: JIS
+  primary: true
+docnumber: B8330
+date:
+- type: issued
+  at: '2001-02-28'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本産業機械工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 圧力比約１．３未満の遠心送風機，軸流送風機，斜流送風機などを，常温・常圧の空気を用いて工場で行う試験及び検査方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.120'
+    text: Ventilators. Fans. Air-conditioners
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8330

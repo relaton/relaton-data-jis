@@ -1,0 +1,93 @@
+---
+id: JISZ88172002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 可燃性粉じんの爆発圧力及び圧力上昇速度の測定方法
+- language: en
+  script: Latn
+  content: Test method for explosion pressure and rate of pressure rise of combustible
+    dusts
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8817%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08817_000_000_2002_j_ed11_i4.pdf
+docidentifier:
+- content: JIS Z 8817:2002
+  type: JIS
+  primary: true
+docnumber: Z8817
+date:
+- type: issued
+  at: '2002-07-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本粉体工業技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 耐圧密閉形爆発試験容器中で空中に浮遊又は飛散している可燃性粉じんの爆発圧力及び圧力上昇速度の測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.230'
+    text: Explosion protection
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8817

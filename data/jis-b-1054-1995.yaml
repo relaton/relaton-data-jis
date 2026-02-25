@@ -1,0 +1,75 @@
+---
+id: JISB10541995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ステンレス鋼製耐食ねじ部品の機械的性質
+- language: en
+  script: Latn
+  content: Specification for corrosion-resistant stainless steel fasteners
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1054%3A1995
+docidentifier:
+- content: JIS B 1054:1995
+  type: JIS
+  primary: true
+docnumber: B1054
+date:
+- type: issued
+  at: '1995-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ねじ研究協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: オーステナイト系，フェライト系及びマルテンサイト系のステンレス鋼を用いて製造したボルト（植込みボルトを含む。），小ねじ，ナットなどの耐食ねじ部品で，適用条件に該当するものの性状区分並びに機械的性質とその試験，検査及び表示について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.040.01
+    text: Screw threads in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1054

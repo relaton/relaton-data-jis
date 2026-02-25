@@ -1,0 +1,94 @@
+---
+id: JISA44222024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 温水洗浄便座
+- language: en
+  script: Latn
+  content: Electrically operated spray seats
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+4422%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04422_000_000_2024_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04422_000_000_2024_e_ed10_ch.pdf
+docidentifier:
+- content: JIS A 4422:2024
+  type: JIS
+  primary: true
+docnumber: A4422
+date:
+- type: issued
+  at: '2024-05-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本レストルーム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本レストルーム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本レストルーム工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 洗浄に使用する水道水又はこれと同等の水質のものを電気で加温し，主に家庭で使用する温水洗浄装置及び暖房便座をもつ温水洗浄便座について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.140.70
+    text: Sanitary installations
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A4422

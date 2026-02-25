@@ -1,0 +1,76 @@
+---
+id: JISB79101997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光波測距儀　―　屋外における性能測定方法
+- language: en
+  script: Latn
+  content: Electro-optical distance measuring instruments (EDM) -- Field procedures
+    for determining accuracy
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7910%3A1997
+docidentifier:
+- content: JIS B 7910:1997
+  type: JIS
+  primary: true
+docnumber: B7910
+date:
+- type: issued
+  at: '1997-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本測量機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本測量機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本測量機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 屋外において，約２ｋｍまでの測量に用いる光波測距儀の測定距離の標準偏差を求めるための方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.180.30
+    text: Optical measuring instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7910

@@ -1,0 +1,90 @@
+---
+id: JISX06062025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報交換用ＣＤ－ＲＯＭのボリューム構造及びファイル構造
+- language: en
+  script: Latn
+  content: Volume and file structure of CD-ROM for information interchange
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0606%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00606_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0606:2025
+  type: JIS
+  primary: true
+docnumber: X0606
+date:
+- type: issued
+  at: '2025-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，情報処理システムのユーザ間で情報を交換するためのコンパクトディスク読み出し専用メモリのボリューム構造及びファイル構造について規定する。\nこの規格は，次の事項を規定する。\n－\tボリュームの属性及びボリュームに記録するディスクリプタ（記述子）\n－\tボリュームセット（ボリューム集合）におけるボリューム間の関係\n－\tファイルの配置\n－\tファイルの属性\n－\tアプリケーションプログラムの入力又は出力データストリームをレコードセット（レコードの集合）として構成することが要求される場合に用いるレコード構造\n－\t媒体交換のための3段階のネストレベル（ネスト水準）\n－\t実装のための2段階のネストレベル\n－\t異なるシステム間でCD-ROMによる情報交換を可能にするために，情報処理システムが提供する処理に対する要求事項。そのためにこの規格では，規格に適合したCD-ROMを作成又は読み出しすることを目的としたシステムで提供される機能を規定する。"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.220.30
+    text: Optical storage devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0606

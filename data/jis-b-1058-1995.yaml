@@ -1,0 +1,84 @@
+---
+id: JISB10581995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 締結用部品の機械的性質　第７部　呼び径１～１０ｍｍのボルト及びねじのねじり強さ試験及び最小破壊トルク
+- language: en
+  script: Latn
+  content: 'Mechanical properties of fasteners Part 7: Torsional test and minimum
+    torques for bolts and screws with nominal diameters 1 mm to 10 mm'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1058%3A1995
+docidentifier:
+- content: JIS B 1058:1995
+  type: JIS
+  primary: true
+docnumber: B1058
+date:
+- type: issued
+  at: '1995-04-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ねじ研究協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＳＯ　８９８－１による強度区分が８．８から１２．９で，呼び径が１～１０ｍｍのボルト及びねじの破壊トルクを判定するためのねじり試験について規定。この試験は，呼び径が３～１０ｍｍで，引張試験が実施できない長さの短いボルト及びねじのほか，破壊荷重及び保証荷重がＩＳＯ　８９８－１に規定されていない，呼び径３ｍｍ未満のボルト及びねじにも適用。この最小破壊トルクは，六角穴付き止めねじには適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.060.10
+    text: Bolts, screws, studs
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1058

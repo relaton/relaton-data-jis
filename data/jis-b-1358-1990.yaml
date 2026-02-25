@@ -1,0 +1,83 @@
+---
+id: JISB13581990
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ねじ付きテーパピン
+- language: en
+  script: Latn
+  content: Taper pins with thread
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1358%3A1990
+docidentifier:
+- content: JIS B 1358:1990
+  type: JIS
+  primary: true
+docnumber: B1358
+date:
+- type: issued
+  at: '1990-02-28'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ねじ研究協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般に用いるテーパ１／５０の鋼製ねじ付きテーパピン及び鋼製おねじ付きテーパピンについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.060.50
+    text: Pins, nails
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1358

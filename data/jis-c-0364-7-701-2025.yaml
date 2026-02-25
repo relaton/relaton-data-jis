@@ -1,0 +1,91 @@
+---
+id: JISC036477012025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧電気設備－第７－７０１部：特殊設備又は特殊場所に関する要求事項－バス又はシャワーのある場所
+- language: en
+  script: Latn
+  content: 'Low voltage electrical installations-Part 7-701: Requirements for special
+    installations or locations-Locations containing a bath or shower'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0364-7-701%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00364_007_701_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 0364-7-701:2025
+  type: JIS
+  primary: true
+docnumber: C0364
+date:
+- type: issued
+  at: '2025-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，バスタブ及び／又はシャワーを特定の場所に恒久的に設置することを意図した屋内又は屋外における電気設備について規定する。\nバスタブ及び／又はシャワーのある場所の範囲を，次によって区画する。\n－\t最も低い床仕上げ面\n－\t最も低い床仕上げ面上3
+    mの水平面\n－\tバスタブ又はシャワー用の固定水栓から4 mの距離に垂直に取り囲む仮想面\n－\tバス又はシャワーのある場所に接する，6 cmまでの深さの壁，床及び天井の空間"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: 91.140.50
+    text: Electricity supply systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0364

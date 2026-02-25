@@ -1,0 +1,84 @@
+---
+id: JISC980132015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用電気冷蔵庫及び電気冷凍庫の特性及び試験方法―第３部：消費電力量及び内容積の算出
+- language: en
+  script: Latn
+  content: 'Household refrigerating appliances -- Characteristics and test methods
+    -- Part 3: Energy consumption and volume'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9801-3%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09801_003_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 9801-3:2015
+  type: JIS
+  primary: true
+docnumber: C9801
+date:
+- type: issued
+  at: '2015-06-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 機器の内部を冷気自然対流によって冷却する又は冷気強制循環によって冷却する家庭用冷却機器の基本特性，及びその特性を検査するための試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.040.30
+    text: Domestic refrigerating appliances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9801

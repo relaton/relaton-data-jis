@@ -1,0 +1,91 @@
+---
+id: JISZ86011954
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 標準数
+- language: en
+  script: Latn
+  content: Preferred numbers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8601%3A1954
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08601_000_000_1954_j_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 8601:1954
+  type: JIS
+  primary: true
+docnumber: Z8601
+date:
+- type: issued
+  at: '1982-10-15'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業標準化・設計などにおいて数値を定める場合に，選定の基準として用いる標準数について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.020'
+    text: Metrology and measurement in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8601

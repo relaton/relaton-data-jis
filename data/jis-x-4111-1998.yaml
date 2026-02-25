@@ -1,0 +1,84 @@
+---
+id: JISX41111998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 開放型文書体系（ＯＤＡ）及び交換様式　―　第１１部　表構造及び表組み
+- language: en
+  script: Latn
+  content: 'Open Document Architecture (ODA) and interchange format -- Part 11: Tabular
+    structures and tabular layout'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4111%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04111_000_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 4111:1998
+  type: JIS
+  primary: true
+docnumber: X4111
+date:
+- type: issued
+  at: '1998-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｘ　４１０１～４１１２及びＪＩＳ　Ｘ　４１１４は，文書の交換を促進することを目的。次の事項を規定。１．ＪＩＳ　Ｘ　４１０２による規定を補完し，文書中における表の表示及び処理を可能とすることを目的とした文書構造　２．格子との対応付けによって特徴付けられる格子論理構成部品及び格子枠構成部品　３．表の割付け記述を可能とすることを目的として，文書構造に適用する割付け属性及び割付け指示属性　４．表を表示することを目的として，ＪＩＳ　Ｘ　４１０６～４１０８に規定される内容体系に適用する表示属性　５．ＪＩＳ　Ｘ　４１０２による規定とともに，文書中の表の表現及び表示を決定する文書割付け処理及び表示処理の参照モデル
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.20
+    text: IT applications in office work
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4111

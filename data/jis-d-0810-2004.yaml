@@ -1,0 +1,90 @@
+---
+id: JISD08102004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車―カーナビゲーションシステム用地図データ格納フォーマット
+- language: en
+  script: Latn
+  content: Road vehicles -- Map data physical storage format for car navigation systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+0810%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_00810_000_000_2004_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_00810_000_000_2004_e_ed10_ch.pdf
+docidentifier:
+- content: JIS D 0810:2004
+  type: JIS
+  primary: true
+docnumber: D0810
+date:
+- type: issued
+  at: '2004-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本デジタル道路地図協会                                                \r\n
+        \                                                                                           Ｋｉｗｉ-Ｗコンソーシアム"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本デジタル道路地図協会                                                \r\n
+        \                                                                                           Ｋｉｗｉ-Ｗコンソーシアム"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本デジタル道路地図協会                                                \r\n
+          \                                                                                           Ｋｉｗｉ-Ｗコンソーシアム"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: カーナビゲーションシステムにおいて，ＣＤ，ＤＶＤなどの物理的媒体へデータを格納するためのデータフォーマット（Ｐｈｙｓｉｃａｌ　Ｓｔｒａｇｅ　Ｆｏｒｍａｔ：ＰＳＦ）のための物理データ構造（Ｐｈｙｓｉｃａｌ　Ｄａｔａ　Ｏｒｇａｎｉｚａｔｉｏｎ）について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.040.15
+    text: Car informatics. On board computer systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0810

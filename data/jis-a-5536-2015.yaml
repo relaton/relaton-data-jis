@@ -1,0 +1,94 @@
+---
+id: JISA55362015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 床仕上げ材用接着剤
+- language: en
+  script: Latn
+  content: Adhesives for resilient, textile and laminate floor coverings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5536%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05536_000_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 5536:2015
+  type: JIS
+  primary: true
+docnumber: A5536
+date:
+- type: issued
+  at: '2015-06-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本接着剤工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本接着剤工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本接着剤工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 建築物の床仕上げ材［ビニル系床材，リノリウム系床材，ゴム系床材などの高分子系張り床材，タイルカーペット，木質系床材など］の張付けに使用する接着剤について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '83.180'
+    text: Adhesives
+  - code: 91.060.30
+    text: Ceilings. Floors. Stairs
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5536

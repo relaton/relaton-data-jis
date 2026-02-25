@@ -1,0 +1,92 @@
+---
+id: JIST93012016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 単回使用ごうしん（毫鍼）
+- language: en
+  script: Latn
+  content: Acupuncture needle for single use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9301%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09301_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 9301:2016
+  type: JIS
+  primary: true
+docnumber: T9301
+date:
+- type: issued
+  at: '2016-10-01'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本理学療法機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本理学療法機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本理学療法機器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: はり治療に用いる１回限りで使い捨てる単回使用ごうしん（毫鍼）について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.60
+    text: Therapy equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9301

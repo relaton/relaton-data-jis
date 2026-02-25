@@ -1,0 +1,83 @@
+---
+id: JISC76151973
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ネオン管
+- language: en
+  script: Latn
+  content: Neon tubings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7615%3A1973
+docidentifier:
+- content: JIS C 7615:1973
+  type: JIS
+  primary: true
+docnumber: C7615
+date:
+- type: issued
+  at: '1973-04-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本サイン協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本サイン協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本サイン協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ネオンサイン用としてネオンガスまたは水銀とアルゴンガスの混合物を封入した５０Ｈｚまたは６０Ｈｚの低圧交流回路に接続するネオン変圧器を用いて点燈する冷陰極ネオン管について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.140.30
+    text: Fluorescent lamps. Discharge lamps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C7615

@@ -1,0 +1,90 @@
+---
+id: JISK71392026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プラスチック－試験片
+- language: en
+  script: Latn
+  content: Plastics-Test specimens
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7139%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07139_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 7139:2026
+  type: JIS
+  primary: true
+docnumber: K7139
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本プラスチック工業連盟"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，プラスチック材料を成形することによって作製する試験片，及びシート又は成形品から機械加工によって作製する試験片に要求される形状について規定する。この規格は，比較可能なデータの取得に使用する試験片及びその他のよく使用する試験片の呼び方と寸法とを集約する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.080.01
+    text: Plastics in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K7139

@@ -1,0 +1,92 @@
+---
+id: JISX02212020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 国際符号化文字集合（ＵＣＳ）
+- language: en
+  script: Latn
+  content: Information technology -- Universal Coded Character Set (UCS)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0221%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00221_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0221:2020
+  type: JIS
+  primary: true
+docnumber: X0221
+date:
+- type: issued
+  at: '2020-11-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 国際符号化文字集合について規定。世界の言語（用字）を書き表した形（表記形）並びに記号の表現，伝送，交換，処理，蓄積，入力及び表示に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.040.10
+    text: Coding of character sets
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0221

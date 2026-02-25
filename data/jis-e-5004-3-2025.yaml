@@ -1,0 +1,94 @@
+---
+id: JISE500432025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄道車両－電気品－第３部：直流遮断器
+- language: en
+  script: Latn
+  content: 'Railway applications-Electric equipment for rolling stock-Part 3: Electrotechnical
+    components-Rules for DC circuit-breakers'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5004-3%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05004_003_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS E 5004-3:2025
+  type: JIS
+  primary: true
+docnumber: E5004
+date:
+- type: issued
+  at: '2025-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本鉄道車輌工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，JIS E 5004-2による電気機器の一般規則に追加する内容として，各種の直流遮断器の特性及び試験方法について規定する。これらの遮断器の主接触部は，直流の主回路及び／又は直流の補助回路に接続されており，これらの回路電圧は，IEC
+    60850に規定された直流3?000 Vを超えない直流の標準電車線電圧である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.50
+    text: Fuses and other overcurrent protection devices
+  - code: 45.060.01
+    text: Railway rolling stock in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E5004

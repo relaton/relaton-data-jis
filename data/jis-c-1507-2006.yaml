@@ -1,0 +1,93 @@
+---
+id: JISC15072006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気音響―音響インテンシティ測定器―圧力形ペアマイクロホンによる測定
+- language: en
+  script: Latn
+  content: Electroacoustics -- Instruments for the measurement of sound intensity
+    -- Measurement with pairs of pressure sensing microphones
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1507%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01507_000_000_2006_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 1507:2006
+  type: JIS
+  primary: true
+docnumber: C1507
+date:
+- type: issued
+  at: '2006-12-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本騒音制御工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本騒音制御工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本騒音制御工学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 音響インテンシティの測定に用いる機器及びそれらに関連する校正器の性能について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.140.50
+    text: Electroacoustics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1507

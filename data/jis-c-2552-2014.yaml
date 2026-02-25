@@ -1,0 +1,97 @@
+---
+id: JISC25522014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 無方向性電磁鋼帯
+- language: en
+  script: Latn
+  content: Cold-rolled non-oriented electrical steel strip and sheet delivered in
+    the fully-processed state
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2552%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02552_000_000_2014_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02552_000_000_2014_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 2552:2014
+  type: JIS
+  primary: true
+docnumber: C2552
+date:
+- type: issued
+  at: '2014-02-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 呼称厚さ０．３５ｍｍ，０．４７ｍｍ，０．５０ｍｍ，０．６５ｍｍ及び１．００ｍｍの両面に絶縁皮膜をもつ冷延無方向性電磁鋼帯について規定。特に，一般的要求事項，磁気特性，寸法・形状及びその許容差，その他の材料特性並びにそれらの検査方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.030'
+    text: Magnetic materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2552

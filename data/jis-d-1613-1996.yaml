@@ -1,0 +1,79 @@
+---
+id: JISD16131996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車用エンジン―気化器―性能試験方法
+- language: en
+  script: Latn
+  content: Automotive engines -- Carburetors -- Test methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+1613%3A1996
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01613_000_000_1996_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01613_000_000_1996_e_pr10_i4.pdf
+docidentifier:
+- content: JIS D 1613:1996
+  type: JIS
+  primary: true
+docnumber: D1613
+date:
+- type: issued
+  at: '1996-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車部品工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車部品工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本自動車部品工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ガソリンを燃料とする一般の自動車に用いる気化器の性能試験方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.060.20
+    text: Pressure charging and air/exhaust gas ducting systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D1613

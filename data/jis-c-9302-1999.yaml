@@ -1,0 +1,75 @@
+---
+id: JISC93021999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 溶接棒ホルダ
+- language: en
+  script: Latn
+  content: Welding electrode holders for arc welding
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9302%3A1999
+docidentifier:
+- content: JIS C 9302:1999
+  type: JIS
+  primary: true
+docnumber: C9302
+date:
+- type: issued
+  at: '1999-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本溶接協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 直径１０ｍｍ以下の溶接棒を用いる被膜アーク溶接の手溶接作業に使用する溶接棒ホルダについて規定。水中溶接用に使用されるホルダを除く。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.30
+    text: Welding equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9302

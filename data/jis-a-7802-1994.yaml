@@ -1,0 +1,75 @@
+---
+id: JISA78021994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 石綿セメント円筒取付標準
+- language: en
+  script: Latn
+  content: Standard practice for fitting asbestos cement chimney
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+7802%3A1994
+docidentifier:
+- content: JIS A 7802:1994
+  type: JIS
+  primary: true
+docnumber: A7802
+date:
+- type: issued
+  at: '1994-12-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: せんい強化セメント板協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: せんい強化セメント板協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: せんい強化セメント板協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 石綿セメント円筒を煙突及び排気筒に使用する場合の取付標準について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.40
+    text: Products in fibre-reinforced cement
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A7802

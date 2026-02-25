@@ -1,0 +1,89 @@
+---
+id: JISX30041987
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: データベース言語ＮＤＬ
+- language: en
+  script: Latn
+  content: Database language NDL
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3004%3A1987
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03004_000_000_1987_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 3004:1987
+  type: JIS
+  primary: true
+docnumber: X3004
+date:
+- type: issued
+  at: '1988-01-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: スキーマ定義，サブスキーマ定義言語，モジュール言語とデータベース操作言語の３つのデータベース言語の構文と意味を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X3004

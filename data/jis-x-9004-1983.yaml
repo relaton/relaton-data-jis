@@ -1,0 +1,89 @@
+---
+id: JISX90041983
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光学式文字認識のための印字仕様
+- language: en
+  script: Latn
+  content: Printing specifications for optical character recognition
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9004%3A1983
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09004_000_000_1983_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09004_000_000_1983_e_pr10_i4.pdf
+docidentifier:
+- content: JIS X 9004:1983
+  type: JIS
+  primary: true
+docnumber: X9004
+date:
+- type: issued
+  at: '1983-04-30'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 光学式文字認識（ＯＣＲ）に使用する字形の印字に関する（１）使用する用紙の光学的特性，（２）印字した個々のＯＣＲ文字の光学的及び寸法上の特性，（３）帳票上に印字したＯＣＲ文字の位置についての基本的仕様，について規定。文字はＪＩＳ　Ｘ　９００１及びＪＩＳ　Ｘ　９００３で規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  - code: '35.180'
+    text: IT terminal and other peripheral equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X9004

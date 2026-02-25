@@ -1,0 +1,82 @@
+---
+id: JISC036477532009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧電気設備―第７－７５３部：特殊設備又は特殊場所に関する要求事項―床暖房及び天井暖房設備
+- language: en
+  script: Latn
+  content: 'Low-voltage electrical installations -- Part 7-753: Requirements for special
+    installations or locations -- Floor and ceiling heating systems'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0364-7-753%3A2009
+docidentifier:
+- content: JIS C 0364-7-753:2009
+  type: JIS
+  primary: true
+docnumber: C0364
+date:
+- type: issued
+  at: '2009-12-21'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気設備学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気設備学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電気設備学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 蓄熱式暖房方式又は非蓄熱式暖房方式のいずれかで設置する電気床暖房及び天井暖房設備に適用。壁暖房設備の設置には適用しない。屋外で使用する暖房設備には，適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.140.50
+    text: Electricity supply systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0364

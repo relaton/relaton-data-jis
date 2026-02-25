@@ -1,0 +1,81 @@
+---
+id: JIST92732024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 福祉用具―車椅子けん引装置
+- language: en
+  script: Latn
+  content: Assistive products -- Wheelchair towing (traction) devices
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9273%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09273_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 9273:2024
+  type: JIS
+  primary: true
+docnumber: T9273
+date:
+- type: issued
+  at: '2024-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本福祉用具・生活支援用具協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本福祉用具・生活支援用具協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本福祉用具・生活支援用具協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 手動車椅子に装着し，人力でけん引する装置に関する要求事項及びその試験方法について規定。この規格でいう手動車椅子には，簡易形電動装置を搭載した車椅子も含む。けん引装置が装着される車椅子については，この規格の適用範囲に含まない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.180.10
+    text: Aids and adaptation for moving
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9273

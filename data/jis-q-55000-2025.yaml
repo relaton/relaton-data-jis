@@ -1,0 +1,97 @@
+---
+id: JISQ550002025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: アセットマネジメント－用語，概要及び原則
+- language: en
+  script: Latn
+  content: Asset management-Vocabulary, overview and principles
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+55000%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_55000_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 55000:2025
+  type: JIS
+  primary: true
+docnumber: Q55000
+date:
+- type: issued
+  at: '2025-09-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本アセットマネジメント協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本アセットマネジメント協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本アセットマネジメント協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，アセットマネジメントの用語を定義し，原則及び成果について規定する。この規格では，次の事項を記載している。
+    －アセットマネジメント及びアセットマネジメントシステムの便益
+    －アセットマネジメント，アセットマネジメントシステム及びアセットポートフォリオの関係
+    －アセットマネジメントの改善及び成熟度
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.03
+    text: Services. Company organization, management and quality. Administration.
+      Transport. Sociology. (Vocabularies)
+  - code: 03.100.01
+    text: Company organization and management in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q55000

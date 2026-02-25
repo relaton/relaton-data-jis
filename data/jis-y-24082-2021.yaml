@@ -1,0 +1,92 @@
+---
+id: JISY240822021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: サービスエクセレンス―卓越した顧客体験を実現するためのエクセレントサービスの設計
+- language: en
+  script: Latn
+  content: Service excellence -- Designing excellent service to achieve outstanding
+    customer experiences
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Y+24082%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_y_24082_000_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Y 24082:2021
+  type: JIS
+  primary: true
+docnumber: Y24082
+date:
+- type: issued
+  at: '2021-11-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 卓越した顧客体験を実現するエクセレントサービスを設計するための原則及び活動について規定。営利組織，公共サービス及び非営利団体といった，サービスを提供する全ての組織に適用することが可能である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.080.01
+    text: Services in general
+  - code: 03.080.30
+    text: Services for consumers
+  - code: 03.080.99
+    text: Other services
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Y24082

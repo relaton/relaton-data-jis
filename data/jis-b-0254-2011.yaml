@@ -1,0 +1,98 @@
+---
+id: JISB02542011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 管用平行ねじゲージ
+- language: en
+  script: Latn
+  content: Limit Gauges for Parallel Pipe Threads
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0254%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00254_000_000_2011_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00254_000_000_2011_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 0254:2011
+  type: JIS
+  primary: true
+docnumber: B0254
+date:
+- type: issued
+  at: '2011-03-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本精密測定機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本精密測定機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本精密測定機器工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　０２０２に規定する管用平行ねじ（Ｇ）の寸法検査に用いるねじ用限界ゲージ及びその点検用ゲージについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.30
+    text: Measuring instruments
+  - code: 21.040.30
+    text: Special screw threads
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0254

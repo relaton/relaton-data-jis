@@ -1,0 +1,81 @@
+---
+id: JISC96161995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ヘヤカーラ
+- language: en
+  script: Latn
+  content: Hair curling appliances
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9616%3A1995
+docidentifier:
+- content: JIS C 9616:1995
+  type: JIS
+  primary: true
+docnumber: C9616
+date:
+- type: issued
+  at: '1995-03-31'
+- type: confirmed
+  at: '2000-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ボビンを加熱する電熱装置を備えた定格消費電力１ｋＷ以下の家庭用のヘヤカーラ（かま形，フード形のヘヤドライヤなどと一体となった複合機能を備えたものを除く。）について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '97.170'
+    text: Body care equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9616

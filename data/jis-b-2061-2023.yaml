@@ -1,0 +1,96 @@
+---
+id: JISB20612023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 給水栓
+- language: en
+  script: Latn
+  content: Faucets, ball taps and flush valves
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2061%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02061_000_000_2023_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02061_000_000_2023_e_ed10_ch.pdf
+docidentifier:
+- content: JIS B 2061:2023
+  type: JIS
+  primary: true
+docnumber: B2061
+date:
+- type: issued
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本バルブ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本バルブ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本バルブ工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: "水道に直結する，又は水道に直結する受水槽の下流の配管に接続する単水栓，湯水混合水栓，止水栓，ボールタップ，洗浄弁及び洗浄水栓（それぞれ，電気開閉式のものを含む。）について規定。次［a)\t使用圧力０．７５　ＭＰａ以下の給水・給湯用の単水栓，湯水混合水栓及び止水栓。ただし，太陽熱利用温水器専用の水栓は除く。；b)使用圧力０．７５　ＭＰａ以下の給水用のボールタップ；c)\t使用圧力０．７５　ＭＰａ以下の洗浄弁及び洗浄水栓］に適用可能である。"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.060.01
+    text: Valves in general
+  - code: 91.140.60
+    text: Water supply systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B2061

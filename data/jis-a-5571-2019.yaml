@@ -1,0 +1,96 @@
+---
+id: JISA55712019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 耐震補強用引張材―炭素繊維複合材料より線
+- language: en
+  script: Latn
+  content: Tension member for seismic reinforcement-- Carbon fibre composite strand
+    wires
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5571%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05571_000_000_2019_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05571_000_000_2019_e_ed10_ch.pdf
+docidentifier:
+- content: JIS A 5571:2019
+  type: JIS
+  primary: true
+docnumber: A5571
+date:
+- type: issued
+  at: '2019-11-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 主に木造建築物の耐震補強に用いる炭素繊維と熱可塑性樹脂又は熱硬化性樹脂とによる炭素繊維複合材料より線について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 59.100.20
+    text: Carbon materials
+  - code: 91.100.01
+    text: Construction materials in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5571

@@ -1,0 +1,89 @@
+---
+id: JISZ852822006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 人間工学―フラットパネルディスプレイ（ＦＰＤ）を用いる作業―第２部：ＦＰＤの人間工学的要求事項
+- language: en
+  script: Latn
+  content: 'Ergonomic requirements for work with visual displays based on flat panels
+    -- Part 2: Ergonomic requirements for flat panel displays'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8528-2%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08528_002_000_2006_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8528-2:2006
+  type: JIS
+  primary: true
+docnumber: Z8528
+date:
+- type: issued
+  at: '2006-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本人間工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本人間工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本人間工学会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: フラットパネルディスプレイの設計及び評価のために，人間工学の観点から画像品質の要求事項，及び画像品質を判定する方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.180'
+    text: Ergonomics
+  - code: '35.180'
+    text: IT terminal and other peripheral equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8528

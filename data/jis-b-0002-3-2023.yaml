@@ -1,0 +1,88 @@
+---
+id: JISB000232023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製図―ねじ及びねじ部品―第３部：簡略図示方法
+- language: en
+  script: Latn
+  content: 'Technical drawings -- Screw threads and threaded parts -- Part 3: Simplified
+    representation'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0002-3%3A2023
+docidentifier:
+- content: JIS B 0002-3:2023
+  type: JIS
+  primary: true
+docnumber: B0002
+date:
+- type: issued
+  at: '2023-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　０００２－２に規定するねじインサートを除くねじ部品の簡略図示の方法について規定。この図示方法は，例えば，組立図において，部品の正確な形状及び細部を示す必要がない場合（ＪＩＳ　Ｂ　０００２－１参照）に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.100.20
+    text: Mechanical engineering drawings
+  - code: 21.040.01
+    text: Screw threads in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0002

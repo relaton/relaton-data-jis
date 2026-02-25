@@ -1,0 +1,92 @@
+---
+id: JISB77412019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 一軸試験に使用する伸び計システムの校正方法
+- language: en
+  script: Latn
+  content: Calibration of extensometer systems used in uniaxial testing
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7741%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07741_000_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7741:2019
+  type: JIS
+  primary: true
+docnumber: B7741
+date:
+- type: issued
+  at: '2019-11-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本試験機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本試験機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本試験機工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 一軸試験に使用する伸び計システムの静的な校正方法について規定。なお，直接ひずみを計測するものには適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.040.10
+    text: Mechanical testing of metals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7741

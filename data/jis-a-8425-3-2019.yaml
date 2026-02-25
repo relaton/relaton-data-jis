@@ -1,0 +1,94 @@
+---
+id: JISA842532019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 土工機械―電機駆動式機械並びに関連構成部品及び装置の電気安全―第３部：電源内蔵式機械の特定要求事項
+- language: en
+  script: Latn
+  content: 'Earth-moving machinery -- Electrical safety of machines utilizing electric
+    drives and related components and systems -- Part 3: Particular requirements for
+    self-powered machines'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8425-3%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_08425_003_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 8425-3:2019
+  type: JIS
+  primary: true
+docnumber: A8425
+date:
+- type: issued
+  at: '2019-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建設機械施工協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建設機械施工協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本建設機械施工協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電源内蔵式（車載電源使用）の電機駆動土工機械に組み込まれた電機装置及びその構成部品に対する特定の安全要求事項を規定。機器内部で発生する電圧は，母機取付け状態の電圧とは考えず，適用範囲に含めない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '53.100'
+    text: Earth-moving machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8425

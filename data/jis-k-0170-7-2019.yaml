@@ -1,0 +1,84 @@
+---
+id: JISK017072019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 流れ分析法による水質試験方法―第７部：クロム（ＶＩ）
+- language: en
+  script: Latn
+  content: 'Testing methods for water quality by flow analysis -- Part 7: Chromium
+    (VI)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0170-7%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00170_007_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 0170-7:2019
+  type: JIS
+  primary: true
+docnumber: K0170
+date:
+- type: issued
+  at: '2019-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本環境測定分析協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本環境測定分析協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本環境測定分析協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業用水，工場排水などに含まれるクロム（ＶＩ）をジフェニルカルバジド発色・吸光検出による流れ分析法を用いて定量するための方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.50
+    text: Examination of water for chemical substances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0170

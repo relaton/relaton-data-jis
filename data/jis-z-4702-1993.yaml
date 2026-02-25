@@ -1,0 +1,75 @@
+---
+id: JISZ47021993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医用Ｘ線高電圧装置通則
+- language: en
+  script: Latn
+  content: General requirements for high potential generators of medical X-ray apparatus
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4702%3A1993
+docidentifier:
+- content: JIS Z 4702:1993
+  type: JIS
+  primary: true
+docnumber: Z4702
+date:
+- type: issued
+  at: '1993-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本放射線機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本放射線機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本放射線機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｚ　４７０４に適合する医用Ｘ線管装置に内蔵する医用Ｘ線管に加えるための高電圧を発生し，かつ，それを制御する医用Ｘ線高電圧装置について規定。ただし，ＪＩＳ　Ｚ　４７１１に規定する診断用一体形Ｘ線発生装置及びＸ線ＣＴ（画像再構成断層撮影装置）に使用するＸ線高電圧装置を除く。ここに規定する以外の事項については，ＪＩＳ　Ｚ　４７０１の規定を適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.50
+    text: Radiographic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4702

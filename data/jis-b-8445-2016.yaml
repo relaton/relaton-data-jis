@@ -1,0 +1,92 @@
+---
+id: JISB84452016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ロボット及びロボティックデバイス―生活支援ロボットの安全要求事項
+- language: en
+  script: Latn
+  content: Robots and robotic devices -- Safety requirements for personal care robots
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8445%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08445_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8445:2016
+  type: JIS
+  primary: true
+docnumber: B8445
+date:
+- type: issued
+  at: '2016-04-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ロボット工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ロボット工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ロボット工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 生活支援ロボット，特に次の三つ（移動作業型ロボット；身体アシストロボット；搭乗型ロボット）のタイプの生活支援ロボットの本質的安全設計，保護方策及び使用上の情報に対する要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.30
+    text: Industrial robots. Manipulators
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8445

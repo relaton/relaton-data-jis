@@ -1,0 +1,83 @@
+---
+id: TSA00192006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 地質図―記号，色，模様，用語及び地層・岩体区分を示すコード群
+- language: en
+  script: Latn
+  content: Geological map -- Codes for representing symbols, colors, patterns, terms
+    and geological units
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+A+0019%3A2006
+docidentifier:
+- content: TS A 0019:2006
+  type: JIS
+  primary: true
+docnumber: A0019
+date:
+- type: issued
+  at: '2006-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国立研究開発法人　産業技術総合研究所
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国立研究開発法人　産業技術総合研究所
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 国立研究開発法人　産業技術総合研究所
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 地質図を保存，交換，再現，編集などのために数値地質図として公開・提供するときに，異なる作成者，異なる利用者
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: 01.040.01
+    text: Generalities. Terminology. Standardization. Documentation (Vocabularies)
+  - code: 01.040.07
+    text: Natural and applied sciences (Vocabularies)
+  - code: 01.080.30
+    text: Graphical symbols for use on mechanical engineering and construction drawings,
+      diagrams, plans, maps and in relevant technical product documentation
+  - code: '07.060'
+    text: Geology. Meteorology. Hydrology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A0019

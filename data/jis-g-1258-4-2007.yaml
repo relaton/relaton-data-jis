@@ -1,0 +1,85 @@
+---
+id: JISG125842007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄及び鋼―ＩＣＰ発光分光分析方法―第４部：ニオブ定量方法―硫酸りん酸分解法又は酸分解・二硫酸カリウム融解法
+- language: en
+  script: Latn
+  content: 'Iron and steel -- ICP atomic emission spectrometric method -- Part 4:
+    Determination of niobium content -- Dissolution in phosphoric and sulfuric acids
+    or Dissolution in acids and fusion with potassium disulfate'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+1258-4%3A2007
+docidentifier:
+- content: JIS G 1258-4:2007
+  type: JIS
+  primary: true
+docnumber: G1258
+date:
+- type: issued
+  at: '2007-07-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄及び鋼中のニオブの含有率をＩＣＰ発光分光分析方法によって定量する方法のうち，硫酸りん酸分解法及び酸分解・ニ硫酸カリウム融解法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.080.01
+    text: Ferrous metals in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G1258

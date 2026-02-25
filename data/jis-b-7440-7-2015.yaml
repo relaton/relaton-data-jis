@@ -1,0 +1,91 @@
+---
+id: JISB744072015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性仕様（ＧＰＳ）―座標測定機（ＣＭＭ）の受入検査及び定期検査―第７部：画像プローブシステム付き座標測定機
+- language: en
+  script: Latn
+  content: 'Geometrical product specifications (GPS)  -- Acceptance and reverification
+    tests for coordinate measuring machines (CMM) -- Part 7: CMMs equipped with imaging
+    probing systems'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7440-7%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07440_007_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7440-7:2015
+  type: JIS
+  primary: true
+docnumber: B7440
+date:
+- type: issued
+  at: '2015-10-20'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 画像プローブシステムをもつ座標測定機の性能の受入検査及び定期検査について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.30
+    text: Measuring instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7440

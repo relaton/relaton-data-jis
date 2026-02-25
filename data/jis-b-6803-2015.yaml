@@ -1,0 +1,84 @@
+---
+id: JISB68032015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 溶断器用圧力調整器及び流量計付き圧力調整器
+- language: en
+  script: Latn
+  content: Pressure regulators and pressure regulators with flow-metering devices
+    for welding, cutting and allied processes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6803%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06803_000_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 6803:2015
+  type: JIS
+  primary: true
+docnumber: B6803
+date:
+- type: issued
+  at: '2015-10-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本溶接協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 溶接・切断及びそれらの類似作業に用いる圧縮ガス，溶解アセチレンガス，液化石油ガス及び炭酸ガスに用いる容器用及び配管用の一段式圧力調整器及び二段式圧力調整器，並びに，圧縮ガス及び炭酸ガスに用いる容器用及び配管用の一段式流量計付き圧力調整器及び二段式流量計付き圧力調整器について規定。サイフォン式炭酸ガス圧力容器に取り付ける圧力調整器及び流量計付き圧力調整器には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.30
+    text: Welding equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6803

@@ -1,0 +1,96 @@
+---
+id: JISC8201522023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧開閉装置及び制御装置―第５－２部：制御回路機器及び開閉素子―近接スイッチ
+- language: en
+  script: Latn
+  content: 'Low-voltage switchgear and controlgear -- Part 5-2: Control circuit devices
+    and switching elements -- Proximity switches'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8201-5-2%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08201_005_002_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8201-5-2:2023
+  type: JIS
+  primary: true
+docnumber: C8201
+date:
+- type: issued
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会
+        \                                               \r\n                                                                                            日本電気制御技術工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会
+        \                                               \r\n                                                                                            日本電気制御技術工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気制御機器工業会
+          \                                               \r\n                                                                                            日本電気制御技術工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 金属及び／又は非金属物体の存在を検出する誘導形近接スイッチ及び静電容量形近接スイッチ，音響反射物体の存在を検出する超音波形近接スイッチ，物体の存在を検出する光電形近接スイッチ，並びに磁界によって物体の存在を検出する非機械式磁気形近接スイッチについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.40
+    text: Switches
+  - code: 29.130.20
+    text: Low voltage switchgear and controlgear
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8201

@@ -1,0 +1,73 @@
+---
+id: TRC00061997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 太陽電池アレイ用支持物設計標準
+- language: en
+  script: Latn
+  content: Design quide on structures for photovoltaic array
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0006%3A1997
+docidentifier:
+- content: TR C 0006:1997
+  type: JIS
+  primary: true
+docnumber: C0006
+date:
+- type: issued
+  at: '1997-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 下端から上端までの高さが４ｍ以下の太陽電池アレイを構築する支持物の設計標準について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0006

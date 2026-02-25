@@ -1,0 +1,82 @@
+---
+id: JISS00412010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高齢者・障害者配慮設計指針―自動販売機の操作性
+- language: en
+  script: Latn
+  content: Guidelines for older persons and persons with disabilities -- Operability
+    of vending machine
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+0041%3A2010
+docidentifier:
+- content: JIS S 0041:2010
+  type: JIS
+  primary: true
+docnumber: S0041
+date:
+- type: issued
+  at: '2010-03-23'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益財団法人　共用品推進機構
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益財団法人　共用品推進機構
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益財団法人　共用品推進機構
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 屋内に設置する自動販売機において高齢者及び障害者が無理なく操作できるように，形状，高さなどについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '55.230'
+    text: Distribution and vending machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S0041

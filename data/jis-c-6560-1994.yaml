@@ -1,0 +1,87 @@
+---
+id: JISC65601994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 単頭プラグ・ジャック
+- language: en
+  script: Latn
+  content: Concentric plugs and jacks
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6560%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06560_000_000_1994_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06560_000_000_1994_e_pr10_i4.pdf
+docidentifier:
+- content: JIS C 6560:1994
+  type: JIS
+  primary: true
+docnumber: C6560
+date:
+- type: issued
+  at: '1994-05-31'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子機器の回路接続のために使用する超小形単頭プラグ，小形単頭プラグ及び大形単頭プラグとそれらに適合するジャックについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.220.10
+    text: Plug-and-socket devices. Connectors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6560

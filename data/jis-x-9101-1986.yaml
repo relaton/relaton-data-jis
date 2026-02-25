@@ -1,0 +1,75 @@
+---
+id: JISX91011986
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＰＯＳシステム用ＯＣＲ値札の寸法及び印刷（印字）仕様
+- language: en
+  script: Latn
+  content: Dimensions and printing specifications of OCR-ticket for POS systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9101%3A1986
+docidentifier:
+- content: JIS X 9101:1986
+  type: JIS
+  primary: true
+docnumber: X9101
+date:
+- type: issued
+  at: '1986-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　流通システム開発センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　流通システム開発センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　流通システム開発センター
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＰＯＳ（ｐｏｉｎｔ　ｏｆ　ｓａｌｅ）システムに使用する光学式文字認識用値礼（ＯＣＲ　（ｏｐｔｉｃａｌ　ｃｈａｒａｃｔｅｒ　ｒｅｃｏｇｎｉｔｉｏｎ）値札）の（１）　ＯＣＲ値札の種類，形状，寸法及び用紙についての基本的仕様，（２）　印字に使用するＯＣＲ文字と印字位置についての基本的仕様，（３）　使用する用紙と印字した文字の光学的特性について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.60
+    text: IT applications in transport
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X9101

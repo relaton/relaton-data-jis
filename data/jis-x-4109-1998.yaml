@@ -1,0 +1,84 @@
+---
+id: JISX41091998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 開放型文書体系（ＯＤＡ）及び交換様式　―　第９部　音響内容体系
+- language: en
+  script: Latn
+  content: 'Open Document Architecture (ODA) and interchange format -- Part 9: Audio
+    content architectures'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4109%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04109_000_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 4109:1998
+  type: JIS
+  primary: true
+docnumber: X4109
+date:
+- type: issued
+  at: '1998-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｘ　４１０１～４１１２及びＪＩＳ　Ｘ　４１１４は，文書の交換を促進することを目的。次の事項を規定。　１．ＪＩＳ　Ｘ　４１０２及びＪＩＳ　Ｘ　４１１４で規定した文書大慶と連携して用いる音響内容体系　２．音響内容の表示に適用される再生の様相　３．音響内容体系に適用される表示属性及び内容部属性　４．ＪＩＳ　Ｘ　４１０２で規定した文書処理モデルと共に適用されて，基本割付け対象体の空間的及び時間的な音響内容の割付け，並びに適切な媒体への表示を決定する，音響内容割付け処理及び表示処理
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.20
+    text: IT applications in office work
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4109

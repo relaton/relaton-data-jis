@@ -1,0 +1,94 @@
+---
+id: JIST81122014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気絶縁用手袋
+- language: en
+  script: Latn
+  content: Gloves of insulating material used for electrical working
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8112%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08112_000_000_2014_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 8112:2014
+  type: JIS
+  primary: true
+docnumber: T8112
+date:
+- type: issued
+  at: '2014-05-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本保安用品協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ７　０００Ｖ以下の電気回路の作業に使用する電気絶縁用手袋について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.260'
+    text: Protection against electric shock.  Live working
+  - code: 13.340.40
+    text: Hand and arm protection
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T8112

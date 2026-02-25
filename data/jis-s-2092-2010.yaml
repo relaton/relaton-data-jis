@@ -1,0 +1,83 @@
+---
+id: JISS20922010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用ガス燃焼機器の構造通則
+- language: en
+  script: Latn
+  content: General constructions of gas burning appliances for domestic use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2092%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02092_000_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: JIS S 2092:2010
+  type: JIS
+  primary: true
+docnumber: S2092
+date:
+- type: issued
+  at: '2010-11-22'
+- type: confirmed
+  at: '2020-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本ガス機器検査協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本ガス機器検査協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本ガス機器検査協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 液化石油ガス又は都市ガスを燃料とする，主として一般家庭用のガス燃焼機器の共通的な構造について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 27.060.20
+    text: Gas fuel burners
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S2092

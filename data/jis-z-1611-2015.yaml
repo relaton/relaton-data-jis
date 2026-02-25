@@ -1,0 +1,81 @@
+---
+id: JISZ16112015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 国内保冷コンテナ
+- language: en
+  script: Latn
+  content: Insulated container for domestic trade
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1611%3A2015
+docidentifier:
+- content: JIS Z 1611:2015
+  type: JIS
+  primary: true
+docnumber: Z1611
+date:
+- type: issued
+  at: '2015-08-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄道技術協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 低温保持を必要とする貨物の一貫輸送（貨物自動車，鉄道車両及び船舶の三者間又は二者相互間）用に供する断熱構造をもつ直方体国内保冷コンテナについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 55.180.10
+    text: General purpose containers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z1611

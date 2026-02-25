@@ -1,0 +1,91 @@
+---
+id: JISX515042025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 汎用情報配線設備－第４部：単独居住者用住宅
+- language: en
+  script: Latn
+  content: 'Information technology-Generic cabling for customer premises-Part 4: Single-tenant
+    homes'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5150-4%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05150_004_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 5150-4:2025
+  type: JIS
+  primary: true
+docnumber: X5150
+date:
+- type: issued
+  at: '2025-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，単独居住者用住宅の汎用配線設備について規定する。住宅は，一つ以上の建物を含むことも又は複数の住宅を含む建物内にあることも適用可能である。この規格は，平衡配線設備，光ファイバ配線設備及び同軸配線設備を含む。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.200'
+    text: Interface and interconnection equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5150

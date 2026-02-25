@@ -1,0 +1,94 @@
+---
+id: JISB60842020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 回転工具及びツーリングシステムの釣合せ要求事項
+- language: en
+  script: Latn
+  content: Requirements for balancing of rotating tools and tool systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6084%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06084_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 6084:2020
+  type: JIS
+  primary: true
+docnumber: B6084
+date:
+- type: issued
+  at: '2020-01-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本工作機器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 回転工具及びツーリングシステムの釣合せ要求事項について規定。また，許容残留静不釣合い及び動不釣合いの計算手法についても記載する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.120.40
+    text: Balancing and balancing machines
+  - code: 25.100.01
+    text: Cutting tools in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6084

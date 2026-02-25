@@ -1,0 +1,88 @@
+---
+id: JISZ36082016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 摩擦かくはん接合―アルミニウム
+- language: en
+  script: Latn
+  content: Friction stir welding -- Aluminium
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3608%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03608_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 3608:2016
+  type: JIS
+  primary: true
+docnumber: Z3608
+date:
+- type: issued
+  at: '2016-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　軽金属溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　軽金属溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　軽金属溶接協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: アルミニウム及びアルミニウム合金に適用する摩擦かくはん（撹拌）接合（ＦＳＷ）の設計要求事項，オペレータの認証のための要求事項，ＦＳＷ施工法承認のための必要事項及び品質要求事項を規定。摩擦かくはんスポット接合については規定しない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.10
+    text: Welding processes
+  - code: 77.120.10
+    text: Aluminium and aluminium alloys
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z3608

@@ -1,0 +1,93 @@
+---
+id: JISA147022008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築材料の吸放湿性試験方法―第２部：温度応答法
+- language: en
+  script: Latn
+  content: 'Determination of water vapour adsorption/desorption properties for building
+    materials -- Part 2 : Response to temperature variation'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1470-2%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01470_002_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 1470-2:2008
+  type: JIS
+  primary: true
+docnumber: A1470
+date:
+- type: issued
+  at: '2008-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　建材試験センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　建材試験センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　建材試験センター"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 断湿した気密な箱（密閉箱）に，主に内装材などに使用する建築材料を入れ，密閉箱の外部から温度変動を与えた場合の吸放湿性の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.01
+    text: Construction materials in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1470

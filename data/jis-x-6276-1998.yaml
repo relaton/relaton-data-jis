@@ -1,0 +1,78 @@
+---
+id: JISX62761998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: １３０　ｍｍ／２．６　ＧＢ光ディスクカートリッジ
+- language: en
+  script: Latn
+  content: 'Information technology -- 130 mm optical disk cartridges for information
+    interchange -- Capacity: 2.6 Gbytes per cartridge'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6276%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06276_000_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 6276:1998
+  type: JIS
+  primary: true
+docnumber: X6276
+date:
+- type: issued
+  at: '1998-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　光産業技術振興協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: いくつかのタイプ名称（タイプＲ／Ｗ；タイプＰ－ＲＯＭ；タイプＯ－ＲＯＭ；タイプＤＯＷ；タイプＰ－ＤＯＷ；タイプＷＯ；タイプＷＯ－ＤＯＷ）が付けられた一連の１３０ｍｍ光ディスクカートリッジを規定。１枚のディスクには，Ａ面及びＢ面と呼ばれる２面がある。各々の面は，公称１．３ギガバイトの記憶容量をもつ。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.220.30
+    text: Optical storage devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6276

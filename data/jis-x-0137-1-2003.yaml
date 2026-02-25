@@ -1,0 +1,89 @@
+---
+id: JISX013712003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＣＡＳＥデータ交換形式―ＣＤＩＦフレームワーク―第１部：概要
+- language: en
+  script: Latn
+  content: 'CASE data interchange format -- CDIF framework -- Part 1: Overview'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0137-1%3A2003
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00137_001_000_2003_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0137-1:2003
+  type: JIS
+  primary: true
+docnumber: X0137
+date:
+- type: issued
+  at: '2003-02-20'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＣＤＩＦ規格群を紹介し，ＣＤＩＦ規格群に共通の用語を定義。ＣＤＩＦを理解し，用いたいと希望する人に使われることを意図。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0137

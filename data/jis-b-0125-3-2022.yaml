@@ -1,0 +1,94 @@
+---
+id: JISB012532022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 油圧・空気圧システム及び機器―図記号及び回路図―第３部：記号モジュール及び図記号の接続
+- language: en
+  script: Latn
+  content: 'Fluid power systems and components -- Graphical symbols and circuit diagrams
+    -- Part 3: Symbol modules and connected symbols in circuit diagrams'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0125-3%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00125_003_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 0125-3:2022
+  type: JIS
+  primary: true
+docnumber: B0125
+date:
+- type: issued
+  at: '2022-02-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本フルードパワー工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 油圧・空気圧システム及び機器の記号モジュール及び図記号の接続について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.080.30
+    text: Graphical symbols for use on mechanical engineering and construction drawings,
+      diagrams, plans, maps and in relevant technical product documentation
+  - code: 23.100.01
+    text: Fluid power systems in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0125

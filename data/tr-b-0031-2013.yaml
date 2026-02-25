@@ -1,0 +1,82 @@
+---
+id: TRB00312013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工業用通信ネットワーク―フィールドバス仕様―第１部：ＩＥＣ　６１１５８及びＩＥＣ　６１７８４規格群の概要及び指針
+- language: en
+  script: Latn
+  content: 'Industrial communication networks -- Fieldbus specifications -- Part 1:
+    Overview and guidance for the IEC 61158 and IEC 61784 series'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+B+0031%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_tr_b_00031_000_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: TR B 0031:2013
+  type: JIS
+  primary: true
+docnumber: B0031
+date:
+- type: issued
+  at: '2013-05-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気計測器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気計測器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電気計測器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＥＣ　６１１５８規格群の概要及び指針を示す。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '25.040'
+    text: Industrial automation systems
+  - code: '35.100'
+    text: Open systems interconnection (OSI)
+  - code: 35.240.50
+    text: IT applications in industry
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0031

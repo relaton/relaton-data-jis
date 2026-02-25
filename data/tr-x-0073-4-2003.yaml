@@ -1,0 +1,74 @@
+---
+id: TRX007342003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ソフトウェア測定　―　機能規模測定　―　第４部：参照モデル
+- language: en
+  script: Latn
+  content: 'Information technology -- Software measurement -- Functional size measurement
+    -- Part 4: Reference model'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0073-4%3A2003
+docidentifier:
+- content: TR X 0073-4:2003
+  type: JIS
+  primary: true
+docnumber: X0073
+date:
+- type: issued
+  at: '2003-01-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＦＳＭ手法の有効性を検証する際に用いる参照モデルを定義。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0073

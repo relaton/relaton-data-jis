@@ -1,0 +1,86 @@
+---
+id: JISF10402004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 舟艇―開口要件―窓，ポートライト，ハッチ，デッドライト及びドア―強度と水密性に関する要求基準
+- language: en
+  script: Latn
+  content: Small craft -- Windows, portlights, hatches, deadlights and doors -- Strength
+    and watertightness requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+1040%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_01040_000_000_2004_j_ed10_ch.pdf
+docidentifier:
+- content: JIS F 1040:2004
+  type: JIS
+  primary: true
+docnumber: F1040
+date:
+- type: issued
+  at: '2004-12-20'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船体長さ２４m以下の舟艇に適用する窓，ハッチ，ポートライト，デッドライト及びドアについて，船の種類，装置の位置及び設計区分を考慮に入れて，技術上の要件を規定。扱う装置は，船の水密性に関して重要なもの，すなわち，板が破損した場合に浸水する恐れがあるものだけである。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.50
+    text: Deck equipment and installations
+  - code: '47.080'
+    text: Small craft
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F1040

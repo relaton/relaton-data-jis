@@ -1,0 +1,83 @@
+---
+id: JISG51521991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低温高圧用鋳鋼品
+- language: en
+  script: Latn
+  content: Steel castings for low temperature and high pressure service
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+5152%3A1991
+docidentifier:
+- content: JIS G 5152:1991
+  type: JIS
+  primary: true
+docnumber: G5152
+date:
+- type: issued
+  at: '1991-03-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鋳鍛鋼会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鋳鍛鋼会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鋳鍛鋼会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 低温度で使用される弁，フランジ，シリンダその他の高圧部品用鋳鋼品（遠心力鋳鋼管を含む。）について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.80
+    text: Iron and steel castings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G5152

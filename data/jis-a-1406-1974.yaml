@@ -1,0 +1,84 @@
+---
+id: JISA14061974
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 屋内換気量測定方法（炭酸ガス法）
+- language: en
+  script: Latn
+  content: Method for measuring amount of room ventilation (carbon dioxide method)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1406%3A1974
+docidentifier:
+- content: JIS A 1406:1974
+  type: JIS
+  primary: true
+docnumber: A1406
+date:
+- type: issued
+  at: '1975-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　空気調和・衛生工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　空気調和・衛生工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　空気調和・衛生工学会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 室内と室外の炭酸ガス（ＣＯ２）濃度の差を測定することにより，計算によってその室の換気量を求める方法の一般的原則について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.140.30
+    text: Ventilation and air-conditioning systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1406

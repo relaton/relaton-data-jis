@@ -1,0 +1,85 @@
+---
+id: JISB601221998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工作機械―数値制御用図記号
+- language: en
+  script: Latn
+  content: Numerical control of machines -- Symbols
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6012-2%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06012_002_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS B 6012-2:1998
+  type: JIS
+  primary: true
+docnumber: B6012
+date:
+- type: issued
+  at: '1998-09-30'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本工作機械工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 数値制御（ＮＣ）工作機械の制御機能の識別及び表示の図記号の標準に関するもので，ここで取扱っている図記号はＮＣに固有のものである。はん（汎）用工作機械が実際に必要とする機能の多くは個別に必要であり，ＪＩＳ　Ｂ　６０１２－１から選ぶ必要がある。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.080.20
+    text: Graphical symbols for use on specific equipment
+  - code: 25.040.20
+    text: Numerically controlled machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6012

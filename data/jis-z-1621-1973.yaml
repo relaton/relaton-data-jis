@@ -1,0 +1,75 @@
+---
+id: JISZ16211973
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 国際大形オープントップコンテナ
+- language: en
+  script: Latn
+  content: Open top containers for international trade
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1621%3A1973
+docidentifier:
+- content: JIS Z 1621:1973
+  type: JIS
+  primary: true
+docnumber: Z1621
+date:
+- type: issued
+  at: '1973-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本コンテナ協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本コンテナ協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本コンテナ協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 国際流通を目的として，協同一貫輸送（自動車，鉄道車両および船舶相互間）に用いられる国際大形オープントップコンテナについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 55.180.10
+    text: General purpose containers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z1621

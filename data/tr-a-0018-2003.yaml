@@ -1,0 +1,78 @@
+---
+id: TRA00182003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 地質図　―　ベクトル数値地質図の品質要求事項
+- language: en
+  script: Latn
+  content: Geological map -- Quality requirements for geological vector map
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+A+0018%3A2003
+docidentifier:
+- content: TR A 0018:2003
+  type: JIS
+  primary: true
+docnumber: A0018
+date:
+- type: issued
+  at: '2003-05-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 地質図を保存，交換，再現，編集などのためにベクトル数値地質図として公開・提供する際に，その品質を確保する上で必要な基本的事項について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 01.080.30
+    text: Graphical symbols for use on mechanical engineering and construction drawings,
+      diagrams, plans, maps and in relevant technical product documentation
+  - code: '07.060'
+    text: Geology. Meteorology. Hydrology
+  - code: 35.240.70
+    text: IT applications in science
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A0018

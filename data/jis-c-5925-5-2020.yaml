@@ -1,0 +1,93 @@
+---
+id: JISC592552020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光伝送用ＷＤＭデバイス―第５部：シングルモード光ファイバピッグテール形中規模１×Ｎ　ＤＷＤＭデバイス
+- language: en
+  script: Latn
+  content: 'Fiber optic WDM devices -- Part 5: Non-connectorized single-mode fiber
+    optic middle-scale 1xN DWDM devices'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5925-5%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05925_005_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 5925-5:2020
+  type: JIS
+  primary: true
+docnumber: C5925
+date:
+- type: issued
+  at: '2020-06-22'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 屋内環境条件で光ファイバを用いた光伝送に使用するシングルモード光ファイバピッグテール形中規模１×Ｎ　ＤＷＤＭデバイスの定格，光学特性，耐環境性及び耐久性について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.10
+    text: Fibres and cables
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5925

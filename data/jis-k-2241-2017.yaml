@@ -1,0 +1,92 @@
+---
+id: JISK22412017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 切削油剤
+- language: en
+  script: Latn
+  content: Cutting fluid
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2241%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02241_000_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 2241:2017
+  type: JIS
+  primary: true
+docnumber: K2241
+date:
+- type: issued
+  at: '2017-10-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全国工作油剤工業組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全国工作油剤工業組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           全国工作油剤工業組合"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 主に金属の切削加工及び研削加工に用いる切削油剤について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '75.100'
+    text: Lubricants, industrial oils and related products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K2241

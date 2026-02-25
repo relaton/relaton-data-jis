@@ -1,0 +1,77 @@
+---
+id: JISF70071979
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用弁の銘板に使用する略語
+- language: en
+  script: Latn
+  content: Abbreviation used in name plate for marine valve
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+7007%3A1979
+docidentifier:
+- content: JIS F 7007:1979
+  type: JIS
+  primary: true
+docnumber: F7007
+date:
+- type: issued
+  at: '1979-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 中小形船（ディーゼル主機関装備船）の機関部関係のバルブの銘板に使用する略語について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.47
+    text: Shipbuilding and marine structures (Vocabularies)
+  - code: 47.020.30
+    text: Piping systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F7007

@@ -1,0 +1,92 @@
+---
+id: JISX630522020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 識別カードの試験方法―第２部：磁気ストライプ付きカード
+- language: en
+  script: Latn
+  content: 'Identification cards -- Test methods -- Part 2: Cards with magnetic stripes'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6305-2%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06305_002_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 6305-2:2020
+  type: JIS
+  primary: true
+docnumber: X6305
+date:
+- type: issued
+  at: '2020-12-21'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格を含むＪＩＳ　Ｘ　６３０５（規格群）は，ＪＩＳ　Ｘ　６３０１に基づく識別カードの特性評価試験方法を規定しており，各試験方法は，一つ以上の基本規格と相互に参照される。基本規格とは，例えば，ＪＩＳ　Ｘ　６３０１，ＩＤカードを使ったアプリケーションで利用する情報記憶技術を規定する規格である。ＪＩＳ　Ｘ　６３０１に基づく識別カードの磁気ストライプ技術に特有な試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.15
+    text: Identification cards. Chip cards. Biometrics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6305

@@ -1,0 +1,83 @@
+---
+id: JISF20092004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用アルミニウム合金押出対称形材
+- language: en
+  script: Latn
+  content: Shipbuilding -- Aluminium alloy extruded symmetrical shapes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+2009%3A2004
+docidentifier:
+- content: JIS F 2009:2004
+  type: JIS
+  primary: true
+docnumber: F2009
+date:
+- type: issued
+  at: '2004-12-20'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船舶の外板などに用いるアルミニウム合金の押出対称形材について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.10
+    text: Hulls and their structure elements
+  - code: 77.150.10
+    text: Aluminium products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F2009

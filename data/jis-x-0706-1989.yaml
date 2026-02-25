@@ -1,0 +1,77 @@
+---
+id: JISX07061989
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ドキュメンテーション用語（ドキュメンテーション言語）
+- language: en
+  script: Latn
+  content: Documentation and information -- Vocabulary -- Documentary languages
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0706%3A1989
+docidentifier:
+- content: JIS X 0706:1989
+  type: JIS
+  primary: true
+docnumber: X0706
+date:
+- type: issued
+  at: '1990-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　情報科学技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　情報科学技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　情報科学技術協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 図書館，文書館，索引・抄録サービス，情報科学，出版に関する情報管理のドキュメンテーション言語の用語及びその定義について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.01
+    text: Generalities. Terminology. Standardization. Documentation (Vocabularies)
+  - code: 01.140.20
+    text: Information sciences
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0706

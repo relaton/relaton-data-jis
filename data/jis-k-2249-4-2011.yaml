@@ -1,0 +1,84 @@
+---
+id: JISK224942011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 原油及び石油製品―密度の求め方―第４部：密度・質量・容量換算表
+- language: en
+  script: Latn
+  content: 'Crude petroleum and petroleum products -- Determination of density --
+    Part 4: Petroleum measurement tables'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2249-4%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02249_004_000_2011_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 2249-4:2011
+  type: JIS
+  primary: true
+docnumber: K2249
+date:
+- type: issued
+  at: '2011-11-21'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 石油連盟
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 原油及び石油製品の１５℃における密度，質量及び容量を石油換算表によって求める方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 75.180.30
+    text: Volumetric equipment and measurements
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K2249

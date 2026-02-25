@@ -1,0 +1,92 @@
+---
+id: JISS30152019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: スライドファスナ
+- language: en
+  script: Latn
+  content: Slide fasteners
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3015%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_03015_000_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS S 3015:2019
+  type: JIS
+  primary: true
+docnumber: S3015
+date:
+- type: issued
+  at: '2019-01-21'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全国スライドファスナー協会連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全国スライドファスナー協会連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           全国スライドファスナー協会連合会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 衣料，袋物などに用いられる一般用のスライドファスナについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '61.040'
+    text: Headgear. Clothing accessories. Fastening of clothing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S3015

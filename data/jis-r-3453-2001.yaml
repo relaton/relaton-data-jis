@@ -1,0 +1,83 @@
+---
+id: JISR34532001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ジョイントシート
+- language: en
+  script: Latn
+  content: Compressed fiber jointing
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+3453%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_03453_000_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS R 3453:2001
+  type: JIS
+  primary: true
+docnumber: R3453
+date:
+- type: issued
+  at: '2001-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　JATI協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　JATI協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　JATI協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ジョイントシートについて規定。ジョイントシートの用途は，水，油，空気，水蒸気などを輸送する管又は機器のガスケットとして使用する。形態は，繊維，ゴム，加硫剤及び各種充てん剤を混和し，ち密で均等なシート状に加熱圧縮したもの。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '73.080'
+    text: Non-metalliferous minerals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R3453

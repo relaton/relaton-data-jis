@@ -1,0 +1,93 @@
+---
+id: JISA14002007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 暖房用自然対流・放射形放熱器―性能試験方法
+- language: en
+  script: Latn
+  content: Radiators, convectors and similar appliances -- Methods of performance
+    test
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1400%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01400_000_000_2007_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 1400:2007
+  type: JIS
+  primary: true
+docnumber: A1400
+date:
+- type: issued
+  at: '2007-04-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本暖房機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本暖房機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本暖房機器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 暖房用自然対流・放射形放熱器の性能試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.01
+    text: Construction materials in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1400

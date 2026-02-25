@@ -1,0 +1,84 @@
+---
+id: JISX527021997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高速並列インタフェース　―　第２部　フレームプロトコル（ＨＩＰＰＩ－ＦＰ）
+- language: en
+  script: Latn
+  content: 'Information technology -- High-Performance Parallel Interface -- Part
+    2: Framing Protocol (HIPPI-FP)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5270-2%3A1997
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05270_002_000_1997_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5270-2:1997
+  type: JIS
+  primary: true
+docnumber: X5270
+date:
+- type: issued
+  at: '1997-10-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: データ処理機器間における高速な２点間インタフェースのためのデータフレームについて規定。複数のＨＩＰＰＩ－ＰＨを相互接続する中間装置で起こる誤まりについての防止策を規定しない。計算機システムで用いるＨＩＰＰＩの開発及び使用を促進することを目的として，共通なデータフレームを規定。計算機，高速表示システム及びインテリジェント高速ブロック転送型周辺装置の相互接続における効率的なフレームプロトコルを規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.10
+    text: Physical layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5270

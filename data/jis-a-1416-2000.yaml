@@ -1,0 +1,84 @@
+---
+id: JISA14162000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 実験室における建築部材の空気音遮断性能の測定方法
+- language: en
+  script: Latn
+  content: Acoustics -- Method for laboratory measurement of airborne sound insulation
+    of building elements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1416%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01416_000_000_2000_j_pr20_i4.pdf
+docidentifier:
+- content: JIS A 1416:2000
+  type: JIS
+  primary: true
+docnumber: A1416
+date:
+- type: issued
+  at: '2000-01-31'
+- type: confirmed
+  at: '2022-11-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本音響学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本音響学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本音響学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 壁，床，ドア，窓，外周壁部材，外周壁などの建築部材の空気音遮断性能の実験室測定方法について規定。小型建築部材に分類されるものは対象から除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.120.20
+    text: Acoustics in building. Sound insulation
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1416

@@ -1,0 +1,77 @@
+---
+id: JISC28081993AMENDMENT12006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医用接地センタボディー及び医用接地端子（追補１）
+- language: en
+  script: Latn
+  content: Hospital grade earth centerbodies and terminals (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2808%3A1993%2FAMENDMENT+1%3A2006
+docidentifier:
+- content: JIS C 2808:1993/AMENDMENT 1:2006
+  type: JIS
+  primary: true
+docnumber: C2808
+date:
+- type: issued
+  at: '2006-03-25'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気設備学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気設備学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電気設備学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: 29.120.20
+    text: Connecting devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2808

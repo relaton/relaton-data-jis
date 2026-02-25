@@ -1,0 +1,95 @@
+---
+id: JISH73022009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 超電導―第２部：臨界電流の試験方法―ニオブ３すず複合超電導線
+- language: en
+  script: Latn
+  content: 'Superconductivity -- Part 2: Critical current measurement -- DC critical
+    current of Nb3Sn composite superconductors'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+7302%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_07302_000_000_2009_j_ed10_ch.pdf
+docidentifier:
+- content: JIS H 7302:2009
+  type: JIS
+  primary: true
+docnumber: H7302
+date:
+- type: issued
+  at: '2009-03-20'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電線工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電線工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電線工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 銅対非銅部の体積比が０．２以上のブロンズ法，又は内部すず法によって作製したニオブ３すず複合超電導線の臨界電流試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.220'
+    text: Electricity. Magnetism. Electrical and magnetic measurements
+  - code: '29.050'
+    text: Superconductivity and conducting materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H7302

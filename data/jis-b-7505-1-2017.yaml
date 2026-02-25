@@ -1,0 +1,95 @@
+---
+id: JISB750512017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: アネロイド型圧力計―第１部：ブルドン管圧力計
+- language: en
+  script: Latn
+  content: 'Aneroid pressure gauges -- Part 1: Bourdon tube pressure gauges'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7505-1%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07505_001_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7505-1:2017
+  type: JIS
+  primary: true
+docnumber: B7505
+date:
+- type: issued
+  at: '2017-03-21'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本圧力計温度計工業会
+        \                                               \r\n                                                                                            一般社団法人　日本計量機器工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本圧力計温度計工業会
+        \                                               \r\n                                                                                            一般社団法人　日本計量機器工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本圧力計温度計工業会
+          \                                               \r\n                                                                                            一般社団法人　日本計量機器工業連合会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: アネロイド型圧力計の中で，ブルドン管を弾性素子に用いてブルドン管の圧力による変形量を機械的に拡大して直接ゲージ圧力を測定する単針・同心の丸形指示圧力計について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.100'
+    text: Measurement of force, weight and pressure
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7505

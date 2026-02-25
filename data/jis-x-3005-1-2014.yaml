@@ -1,0 +1,84 @@
+---
+id: JISX300512014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: データベース言語ＳＱＬ　第１部：枠組（ＳＱＬ／Ｆｒａｍｅｗｏｒｋ）
+- language: en
+  script: Latn
+  content: 'Information technology -- Database languages -- SQL -- Part 1: Framework
+    (SQL/Framework)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3005-1%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03005_001_000_2014_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 3005-1:2014
+  type: JIS
+  primary: true
+docnumber: X3005
+date:
+- type: issued
+  at: '2014-08-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　情報処理学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　情報処理学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　情報処理学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｘ　３００５（ＩＳＯ／ＩＥＣ　９０７５）規格群の他の規格でＳＱＬ文法を規定し，ＳＱＬ処理系がその言語の文を処理した結果を規定するために用いる概念的な枠組について規定。ＪＩＳ　Ｘ　３００５（ＩＳＯ／ＩＥＣ　９０７５）規格群の他の規格で用いる用語及び表記法も規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X3005

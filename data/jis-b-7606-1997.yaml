@@ -1,0 +1,79 @@
+---
+id: JISB76061997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: コンベヤスケール
+- language: en
+  script: Latn
+  content: Belt weighers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7606%3A1997
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07606_000_000_1997_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07606_000_000_1997_e_pr10_i4.pdf
+docidentifier:
+- content: JIS B 7606:1997
+  type: JIS
+  primary: true
+docnumber: B7606
+date:
+- type: issued
+  at: '1997-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本計量機器工業連合会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ベルトコンベヤで連続して輸送されるばらの状態の各種原材料や製品などの質量とベルト速度を電気的に検出し，それらを演算して輸送量を計量するコンベヤスケールのうち，最大瞬間荷重の質量が１５ｋｇ以上のものについて規定。定量供給用制御装置付きのもの除く。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 53.040.10
+    text: Conveyors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7606

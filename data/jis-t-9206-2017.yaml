@@ -1,0 +1,95 @@
+---
+id: JIST92062017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電動車椅子・バッテリ充電器の電磁両立性要件及び試験方法
+- language: en
+  script: Latn
+  content: Requirements and test methods for electromagnetic compatibility of electrically
+    powered wheelchairs and scooters, and battery chargers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9206%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09206_000_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 9206:2017
+  type: JIS
+  primary: true
+docnumber: T9206
+date:
+- type: issued
+  at: '2017-03-21'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 最高時速１５ｋｍ／ｈ以下の，屋内用及び屋外用電動車椅子の電磁エミッション及び電磁イミュニティに関する要件並びに試験方法について規定。二人乗り以上として設計したものには適用しない。電動車椅子のバッテリ充電器についても要件を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.180.10
+    text: Aids and adaptation for moving
+  - code: 33.100.01
+    text: Electromagnetic compatibility in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9206

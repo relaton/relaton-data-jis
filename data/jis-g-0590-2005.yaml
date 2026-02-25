@@ -1,0 +1,94 @@
+---
+id: JISG05902005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ステンレス鋼の臨界孔食温度測定方法
+- language: en
+  script: Latn
+  content: Method of critical pitting temperature measurement for stainless steels
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0590%3A2005
+docidentifier:
+- content: JIS G 0590:2005
+  type: JIS
+  primary: true
+docnumber: G0590
+date:
+- type: issued
+  at: '2005-12-20'
+- type: confirmed
+  at: '2011-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           ステンレス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           ステンレス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           ステンレス協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ステンレス鋼の塩化ナトリウム水溶液中における定電位法による臨界孔食温度の測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '77.060'
+    text: Corrosion of metals
+  - code: 77.140.20
+    text: Stainless steels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G0590

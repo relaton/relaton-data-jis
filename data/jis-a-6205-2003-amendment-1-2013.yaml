@@ -1,0 +1,81 @@
+---
+id: JISA62052003AMENDMENT12013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄筋コンクリート用防せい剤（追補１）
+- language: en
+  script: Latn
+  content: Corrosion inhibitor for reinforcing steel in concrete (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+6205%3A2003%2FAMENDMENT+1%3A2013
+docidentifier:
+- content: JIS A 6205:2003/AMENDMENT 1:2013
+  type: JIS
+  primary: true
+docnumber: A6205
+date:
+- type: issued
+  at: '2013-05-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: コンクリート用化学混和剤協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: コンクリート用化学混和剤協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: コンクリート用化学混和剤協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: '77.060'
+    text: Corrosion of metals
+  - code: 91.100.30
+    text: Concrete and concrete products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A6205

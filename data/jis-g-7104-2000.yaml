@@ -1,0 +1,77 @@
+---
+id: JISG71042000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄筋コンクリート用鋼―第２部：異形棒鋼（ＩＳＯ仕様）
+- language: en
+  script: Latn
+  content: 'Steel for the reinforcement of concrete -- Part 2: Ribbed bars'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+7104%3A2000
+docidentifier:
+- content: JIS G 7104:2000
+  type: JIS
+  primary: true
+docnumber: G7104
+date:
+- type: issued
+  at: '2000-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 通常のコンクリート構造及びプレストレスコンクリート構造における非プレストレスの補強材用の異形棒鋼に求められる技術的要求事項を規定。五つの鋼種について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.15
+    text: Steels for reinforcement of concrete
+  - code: 91.080.40
+    text: Concrete structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G7104

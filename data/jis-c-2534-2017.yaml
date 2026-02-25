@@ -1,0 +1,94 @@
+---
+id: JISC25342017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄基アモルファス帯
+- language: en
+  script: Latn
+  content: Fe-based amorphous strip deliverd in the semi-processed state
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2534%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02534_000_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 2534:2017
+  type: JIS
+  primary: true
+docnumber: C2534
+date:
+- type: issued
+  at: '2017-03-21'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 呼称厚さ０．０２０ｍｍ～０．０３０ｍｍの最終焼きなましを施していない状態の鉄基アモルファス帯の，特に，一般的要求事項，磁気特性，寸法・形状及びその許容差，その他の材料特性，並びにこれらの検査方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.030'
+    text: Magnetic materials
+  - code: 77.120.99
+    text: Other non-ferrous metals and their alloys
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2534

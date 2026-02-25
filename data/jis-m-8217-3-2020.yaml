@@ -1,0 +1,84 @@
+---
+id: JISM821732020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄鉱石―硫黄定量方法―第３部：高周波誘導加熱―赤外線吸収法
+- language: en
+  script: Latn
+  content: 'Iron ores -- Determination of sulfur -- Part 3: Infrared absorption method
+    after heating in an induction furnace'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8217-3%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08217_003_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS M 8217-3:2020
+  type: JIS
+  primary: true
+docnumber: M8217
+date:
+- type: issued
+  at: '2020-02-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄鉱石中の硫黄定量方法のうち，高周波誘導加熱－赤外線吸収法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 73.060.10
+    text: Iron ores
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M8217

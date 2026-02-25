@@ -1,0 +1,83 @@
+---
+id: JISZ22801993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 金属材料の高温ヤング率試験方法
+- language: en
+  script: Latn
+  content: Test method for Young's modulus of metallic materials at elevated temperature
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2280%3A1993
+docidentifier:
+- content: JIS Z 2280:1993
+  type: JIS
+  primary: true
+docnumber: Z2280
+date:
+- type: issued
+  at: '1993-02-28'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　大阪科学技術センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　大阪科学技術センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　大阪科学技術センター
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 金属材料の高温における動的及び静的ヤング率の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.040.20
+    text: Non-destructive testing of metals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z2280

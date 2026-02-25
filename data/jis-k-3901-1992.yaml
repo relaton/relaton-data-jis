@@ -1,0 +1,83 @@
+---
+id: JISK39011992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: くつクリーム
+- language: en
+  script: Latn
+  content: Shoe polish
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+3901%3A1992
+docidentifier:
+- content: JIS K 3901:1992
+  type: JIS
+  primary: true
+docnumber: K3901
+date:
+- type: issued
+  at: '1992-06-30'
+- type: confirmed
+  at: '2006-05-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 独立行政法人　製品評価技術基盤機構
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 独立行政法人　製品評価技術基盤機構
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 独立行政法人　製品評価技術基盤機構
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 天然の皮をなめしたつやのある革を甲用材料とした一般歩行用の革ぐつに用いるクリームについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '75.140'
+    text: Waxes, bituminous materials and other petroleum products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K3901

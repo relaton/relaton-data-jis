@@ -1,0 +1,92 @@
+---
+id: JISM87072004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄鉱石―品位変動評価実験方法
+- language: en
+  script: Latn
+  content: Iron ores -- Experimental methods for evaluation of quality variation
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8707%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08707_000_000_2004_j_ed10_ch.pdf
+docidentifier:
+- content: JIS M 8707:2004
+  type: JIS
+  primary: true
+docnumber: M8707
+date:
+- type: issued
+  at: '2004-03-20'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄鋼連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄鋼連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本鉄鋼連盟"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 取引に供する鉄鉱石について，対象とする工場での品位変動を評価する実験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 73.060.10
+    text: Iron ores
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M8707

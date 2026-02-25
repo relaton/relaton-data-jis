@@ -1,0 +1,82 @@
+---
+id: JISX58091997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: メッセージ通信処理システム（ＭＨＳ）　―　第９部　電子データ交換メッセージ通信システム
+- language: en
+  script: Latn
+  content: 'Information technology -- Message Handling Systems (MHS) -- Part 9: Electronic
+    Data Interchange Messaging system'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5809%3A1997
+docidentifier:
+- content: JIS X 5809:1997
+  type: JIS
+  primary: true
+docnumber: X5809
+date:
+- type: issued
+  at: '1997-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: メッセージ通信処理に関する規格群の一つとする。規格群全体は，多くの開放型システムによって実現されるメッセージ通信処理システム（ＭＨＳ）に対する包括的な青写真を提供。ＭＨＳは，蓄積転送を基本とするメッセージ考案を利用者に提供。利用者（すなわち，発信者）から発信されたメッセージは，メッセージ転送システム（ＭＴＳ）によって伝達され，一人以上の利用者（受信者）の機能体に配信。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.20
+    text: IT applications in office work
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5809

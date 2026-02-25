@@ -1,0 +1,89 @@
+---
+id: JISB09521999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工作機械のテーブル―Ｔ溝及びそのボルト
+- language: en
+  script: Latn
+  content: Machine tool tables -- T-slots and corresponding bolts
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0952%3A1999
+docidentifier:
+- content: JIS B 0952:1999
+  type: JIS
+  primary: true
+docnumber: B0952
+date:
+- type: issued
+  at: '1999-04-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 工作機械のテーブルに用いるＴ溝の寸法及び間隔について規定。これらのＴ溝に用いるボルトの寸法についても規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.060.20
+    text: Dividing and tool-workpiece holding devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0952

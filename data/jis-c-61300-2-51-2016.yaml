@@ -1,0 +1,92 @@
+---
+id: JISC613002512016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光ファイバ接続デバイス及び光受動部品―基本試験及び測定手順―第２－５１部：光ファイバクランプ強度試験―通光左右曲げ引張り
+- language: en
+  script: Latn
+  content: 'Fiber optic interconnecting devices and passive components -- Basic test
+    and measurement procedures -- Part 2-51: Strength of optical fiber to device interface
+    -- Fiber optic connector test for transmission with applied tensile load'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61300-2-51%3A2016
+docidentifier:
+- content: JIS C 61300-2-51:2016
+  type: JIS
+  primary: true
+docnumber: C61300
+date:
+- type: issued
+  at: '2016-06-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 光ファイバコード，光ファイバ心線及び光ファイバ素線（これら三つをまとめて，以下，光ファイバという。）付き光ファイバコネクタプラグが，光ファイバコネクタのかん合部の外れ，ハウジングの物理的損傷又は光学性能の劣化が製品使用中になく，引張力に耐えることを定量的に評価するための試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.20
+    text: Fibre optic interconnecting devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61300

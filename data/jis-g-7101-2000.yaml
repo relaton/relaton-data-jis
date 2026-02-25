@@ -1,0 +1,75 @@
+---
+id: JISG71012000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 耐候性構造用鋼（ＩＳＯ仕様）
+- language: en
+  script: Latn
+  content: Structural steels with improved atmospheric corrosion resistance
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+7101%3A2000
+docidentifier:
+- content: JIS G 7101:2000
+  type: JIS
+  primary: true
+docnumber: G7101
+date:
+- type: issued
+  at: '2000-02-29'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 耐候性を改善した構造用鋼の化学成分，機械的性質，製造方法，合否判定条件，表示について規定。可逆圧延機で熱間圧延した厚さ４ｍｍ以上の厚鋼板，広幅平鋼，棒鋼，熱間圧延形鋼の一般に出荷状態で使用するもので，概して金属構造物においてボルト締め，リベット接合又は溶接構造の一部を構成し，耐候性を改善した鋼材に適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.20
+    text: Stainless steels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G7101

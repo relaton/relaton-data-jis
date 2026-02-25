@@ -1,0 +1,88 @@
+---
+id: JISC9335252021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用及びこれに類する電気機器の安全性―第２－５部：電気食器洗い機の個別要求事項
+- language: en
+  script: Latn
+  content: 'Household and similar electrical appliances -- Safety -- Part 2-5: Particular
+    requirements for dishwashers'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9335-2-5%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09335_002_005_2021_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09335_002_005_2021_e_ed10_ch.pdf
+docidentifier:
+- content: JIS C 9335-2-5:2021
+  type: JIS
+  primary: true
+docnumber: C9335
+date:
+- type: issued
+  at: '2021-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 定格電圧が単相機器の場合には２５０　Ｖ以下，その他の機器の場合には４８０　Ｖ以下で，家庭用及び類似の目的で食器類，食卓用器具及びその他の台所用品の洗浄及びすすぎを行う電気食器洗い機の安全性について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.120'
+    text: Domestic safety
+  - code: 97.040.40
+    text: Dishwashers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9335

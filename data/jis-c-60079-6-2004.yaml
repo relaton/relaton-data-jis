@@ -1,0 +1,82 @@
+---
+id: JISC6007962004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 爆発性雰囲気で使用する電気機械器具―第６部：油入防爆構造“ｏ”
+- language: en
+  script: Latn
+  content: 'Electrical apparatus for explosive gas atmospheres -- Part 6: Oil immersion
+    "o"'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60079-6%3A2004
+docidentifier:
+- content: JIS C 60079-6:2004
+  type: JIS
+  primary: true
+docnumber: C60079
+date:
+- type: issued
+  at: '2004-12-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 可燃性ガス又は可燃性液体の蒸気が爆発するおそれがある爆発性雰囲気中で使用される油入電気機器及びその部品，並びに油入防爆構造“ｏ”のＥｘコンポーネントの構造及び試験について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.260.20
+    text: Electrical apparatus for explosive atmospheres
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60079

@@ -1,0 +1,87 @@
+---
+id: JISC46062011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 屋内用高圧断路器
+- language: en
+  script: Latn
+  content: Indoor use disconnectors for 3.3 kV or 6.6 kV
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4606%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04606_000_000_2011_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04606_000_000_2011_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 4606:2011
+  type: JIS
+  primary: true
+docnumber: C4606
+date:
+- type: issued
+  at: '2011-06-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 公称電圧３．３ｋＶ又は６．６ｋＶ，並びに周波数５０Ｈｚ及び／又は６０Ｈｚで短時間耐電流１２．５ｋＡ以下及び定格電流６００Ａ以下の手動操作の屋内用交流気中断路器について規定。断路器の操作装置及び補助機器にも適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.40
+    text: Switches
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C4606

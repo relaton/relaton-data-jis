@@ -1,0 +1,86 @@
+---
+id: JISR165032002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ファインセラミックス熱電材料の測定方法―第３部：熱拡散率・比熱容量・熱伝導率
+- language: en
+  script: Latn
+  content: 'Method for measurement of fine ceramics thermoelectric materials Part
+    3: Thermal diffusivity, specific heat capacity, and thermal conductivity'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+1650-3%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_01650_003_000_2002_j_pr10_i4.pdf
+docidentifier:
+- content: JIS R 1650-3:2002
+  type: JIS
+  primary: true
+docnumber: R1650
+date:
+- type: issued
+  at: '2002-03-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ファインセラミックス協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ファインセラミックス協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ファインセラミックス協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 気孔率が１０％以下で均一な熱電材料のレーザフラッシュ法による室温から最大１７００Ｋまでの熱拡散率，レーザフラッシュ法による室温から最大１０００Ｋまでの比熱容量と室温から最大１０００Ｋまでの熱伝導率測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.045'
+    text: Semiconducting materials
+  - code: 81.060.30
+    text: Advanced ceramics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R1650

@@ -1,0 +1,93 @@
+---
+id: JISC8281232012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用及びこれに類する用途の固定電気設備用スイッチ―第２－３部：遅延スイッチ（ＴＤＳ）の個別要求事項
+- language: en
+  script: Latn
+  content: 'Switches for household and similar fixed electrical installations -- Part
+    2-3: Particular requirements -- Time-delay switches (TDS)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8281-2-3%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08281_002_003_2012_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8281-2-3:2012
+  type: JIS
+  primary: true
+docnumber: C8281
+date:
+- type: issued
+  at: '2012-03-21'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本配線システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本配線システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本配線システム工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 家庭用及びこれに類する用途の固定電気設備用の遅延スイッチで，定格電圧が４４０Ｖ以下，かつ，定格電流が６３Ａ以下の屋内用又は屋外用のもので，手又は遠隔操作によって動作するものに適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.40
+    text: Switches
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8281

@@ -1,0 +1,81 @@
+---
+id: JISC89102001AMENDMENT12005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 一次基準太陽電池セル（追補１）
+- language: en
+  script: Latn
+  content: Primary reference solar cells (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8910%3A2001%2FAMENDMENT+1%3A2005
+docidentifier:
+- content: JIS C 8910:2001/AMENDMENT 1:2005
+  type: JIS
+  primary: true
+docnumber: C8910
+date:
+- type: issued
+  at: '2005-09-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  - code: 29.220.99
+    text: Other cells and batteries
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8910

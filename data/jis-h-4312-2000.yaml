@@ -1,0 +1,86 @@
+---
+id: JISH43122000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 水道用ポリエチレン複合鉛管
+- language: en
+  script: Latn
+  content: Polyethylene lead composite pipes for water supply
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+4312%3A2000
+docidentifier:
+- content: JIS H 4312:2000
+  type: JIS
+  primary: true
+docnumber: H4312
+date:
+- type: issued
+  at: '2000-02-29'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全国鉛管鉛板工業協同組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全国鉛管鉛板工業協同組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           全国鉛管鉛板工業協同組合"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 使用圧力０．７５ＭＰａ以下の水道に使用するポリエチレン複合鉛管について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.150.60
+    text: Lead, zinc and tin products
+  - code: 83.140.30
+    text: Plastics pipes and fittings for non fluid use
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H4312

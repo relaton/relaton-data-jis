@@ -1,0 +1,73 @@
+---
+id: TRK00032000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: オージェ電子分光法における背面散乱補正係数の推定方法
+- language: en
+  script: Latn
+  content: Method to estimate backscattereing correction factor used in AES
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+K+0003%3A2000
+docidentifier:
+- content: TR K 0003:2000
+  type: JIS
+  primary: true
+docnumber: K0003
+date:
+- type: issued
+  at: '2000-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子ビームを信号励起源として使用するオージェ電子分光法（Ａｕｇｅｒ　Ｅｌｅｃｔｒｏｎ　Ｓｐｅｃｔｒｏｓｃｏｐｙ：ＡＥＳ）において，マトリックス効果を補正して試料表面組成の定量分析を行うために必要となる，背面散乱補正係数の計算方法について記述。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '19.100'
+    text: Non-destructive testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0003

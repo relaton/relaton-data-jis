@@ -1,0 +1,84 @@
+---
+id: JISX57051995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 開放型システム間相互接続　―　コミットメント，並行処理及び回復サービス要素のプロトコル：プロトコル仕様
+- language: en
+  script: Latn
+  content: 'Information technology -- Open Systems Interconnection -- Protocol for
+    the Commitment, Concurrency and Recovery service element: Protocol Specification'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5705%3A1995
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05705_000_000_1995_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5705:1995
+  type: JIS
+  primary: true
+docnumber: X5705
+date:
+- type: issued
+  at: '1995-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｘ　５７０４で規定されたＣＣＲサービスを引用することによって，間接的にこの規格を引用し，この規格で規定する手順を起動して外的効果をもたらす。ＣＣＲサービスがＪＩＳ　Ｘ　５２０１で規定されているセションアクティビティ管理サービスを直接的又は間接的に利用しない場合に，この規格を適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.70
+    text: Application layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5705

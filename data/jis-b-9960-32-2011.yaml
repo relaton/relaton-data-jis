@@ -1,0 +1,90 @@
+---
+id: JISB9960322011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械類の安全性―機械の電気装置―第３２部：巻上機械に対する要求事項
+- language: en
+  script: Latn
+  content: 'Safety of machinery -- Electrical equipment of machines -- Part 32: Requirements
+    for hoisting machines'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9960-32%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09960_032_000_2011_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09960_032_000_2011_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 9960-32:2011
+  type: JIS
+  primary: true
+docnumber: B9960
+date:
+- type: issued
+  at: '2011-08-01'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械工業連合会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 巻上機械及びその関連装置に用いる電気・電子の装置及びシステムの要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: 53.020.01
+    text: Lifting appliances in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9960

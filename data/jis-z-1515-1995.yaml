@@ -1,0 +1,75 @@
+---
+id: JISZ15151995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 塩化ビニリデン加工紙
+- language: en
+  script: Latn
+  content: Vinylidene chloride treated paper
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1515%3A1995
+docidentifier:
+- content: JIS Z 1515:1995
+  type: JIS
+  primary: true
+docnumber: Z1515
+date:
+- type: issued
+  at: '1995-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 塩化ビニリデン衛生協議会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 塩化ビニリデン衛生協議会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 塩化ビニリデン衛生協議会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 防水，防湿及び耐油包装に用いる塩化ビニリデン加工紙について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '55.040'
+    text: Packaging materials and accessories
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z1515

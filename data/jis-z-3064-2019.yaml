@@ -1,0 +1,101 @@
+---
+id: JISZ30642019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄筋コンクリート用機械式継手の鉄筋挿入長さの超音波測定試験方法及び判定基準
+- language: en
+  script: Latn
+  content: Method and acceptance criteria of ultrasonic examination for mechanical
+    joints of deformed steel bars for concrete reinforcement
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3064%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03064_000_000_2019_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03064_000_000_2019_e_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 3064:2019
+  type: JIS
+  primary: true
+docnumber: Z3064
+date:
+- type: issued
+  at: '2019-09-25'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本鉄筋継手協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本鉄筋継手協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本鉄筋継手協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｇ　３１１２に規定する呼び名Ｄ１０以上の異形棒鋼並びに高強度鉄筋を用いた機械式継手のうち，ねじ節鉄筋継手，モルタル充填継手及び端部ねじ加工継手の鉄筋挿入長さの超音波測定試験方法及び試験結果の判定基準について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.40
+    text: Welded joints and welds
+  - code: 77.040.20
+    text: Non-destructive testing of metals
+  - code: 77.140.15
+    text: Steels for reinforcement of concrete
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z3064

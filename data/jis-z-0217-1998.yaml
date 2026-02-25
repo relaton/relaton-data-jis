@@ -1,0 +1,81 @@
+---
+id: JISZ02171998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: クラフト紙袋―落下試験方法
+- language: en
+  script: Latn
+  content: Kraft paper sacks -- Method of drop test
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+0217%3A1998
+docidentifier:
+- content: JIS Z 0217:1998
+  type: JIS
+  primary: true
+docnumber: Z0217
+date:
+- type: issued
+  at: '1998-10-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国クラフト紙袋工業組合
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国クラフト紙袋工業組合
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 全国クラフト紙袋工業組合
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 内容物を充てんしたクラフト紙袋の落下試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '55.080'
+    text: Sacks. Bags
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z0217

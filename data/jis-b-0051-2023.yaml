@@ -1,0 +1,90 @@
+---
+id: JISB00512023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品技術文書情報―形状を定義しないエッジ―寸法の指示方法
+- language: en
+  script: Latn
+  content: Technical product documentation (TPD) -- Edges of undefined shape -- Indication
+    and dimensioning
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0051%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00051_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 0051:2023
+  type: JIS
+  primary: true
+docnumber: B0051
+date:
+- type: issued
+  at: '2023-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 技術製品がもつ，形状を定義しないエッジに対する寸法指示の規則及び寸法を規定。そのために使用する図示記号の形状及び寸法も規定。ただし，直方体の各頂点及び角すい体の頂点のように，三つ以上の平面が交わって形成される部分（コーナ）には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.01
+    text: Generalities. Terminology. Standardization. Documentation (Vocabularies)
+  - code: 01.100.20
+    text: Mechanical engineering drawings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0051

@@ -1,0 +1,85 @@
+---
+id: JISB01141997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 木材加工機械―用語
+- language: en
+  script: Latn
+  content: Wood working machinery -- Vocabulary
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0114%3A1997
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00114_000_000_1997_j_pr10_i4.pdf
+docidentifier:
+- content: JIS B 0114:1997
+  type: JIS
+  primary: true
+docnumber: B0114
+date:
+- type: issued
+  at: '1997-10-01'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本木工機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本木工機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本木工機械工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 木材加工に用いる機械の名称に関する用語について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.79
+    text: Wood technology (Vocabularies)
+  - code: 79.120.10
+    text: Woodworking machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0114

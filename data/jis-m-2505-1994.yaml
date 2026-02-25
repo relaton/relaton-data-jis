@@ -1,0 +1,81 @@
+---
+id: JISM25051994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: コンデンサ式発破用電気点火器
+- language: en
+  script: Latn
+  content: Condenser discharge type blasting machines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+2505%3A1994
+docidentifier:
+- content: JIS M 2505:1994
+  type: JIS
+  primary: true
+docnumber: M2505
+date:
+- type: issued
+  at: '1994-09-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本保安用品協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉱山，採石，土木などの事業場で電気雷管類を点火する目的で使用するコンデンサ式発破用電気点火器について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 73.100.10
+    text: Tunnelling and tubing equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M2505

@@ -1,0 +1,87 @@
+---
+id: JISZ30701998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鋼溶接部の超音波自動探傷方法
+- language: en
+  script: Latn
+  content: Methods for automatic ultrasonic testing for welds of ferritic steel
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3070%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03070_000_000_1998_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03070_000_000_1998_e_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 3070:1998
+  type: JIS
+  primary: true
+docnumber: Z3070
+date:
+- type: issued
+  at: '1998-06-30'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本非破壊検査協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本非破壊検査協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本非破壊検査協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 厚さ６ｍｍ以上のフェライト系鋼の安全溶込み溶接部の，一探蝕子法又は二探蝕子法のパルス反射法による超音波斜角探傷試験において試験を自動で行う場合の装置，探傷方法及び探傷画像の表示方法について規定。鋼管の製造工程中の継手溶接部及び原子力プラントの溶接部には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.40
+    text: Welded joints and welds
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z3070

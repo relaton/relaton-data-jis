@@ -1,0 +1,84 @@
+---
+id: JISX00011994EXPL
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: JIS X 0001:1994～X 0016:1997,X 0018:1989～X 0023:1995,X 0025:1994～X 0027:1995解説・索引
+- language: en
+  script: Latn
+  content: JIS X 0001:1994 to X 0016:1997,X 0018:1989 to X 0023:1995 and X 0025:1994
+    to X 0027:1995 consolidated explanatory version
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0001%3A1994%2FEXPL
+docidentifier:
+- content: JIS X 0001:1994/EXPL
+  type: JIS
+  primary: true
+docnumber: X0001
+date:
+- type: issued
+  at: '1996-02-29'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.35
+    text: Information technology (Vocabularies)
+  - code: '35.020'
+    text: Information technology (IT) in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0001

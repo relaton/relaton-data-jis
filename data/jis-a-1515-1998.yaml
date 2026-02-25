@@ -1,0 +1,83 @@
+---
+id: JISA15151998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建具の耐風圧性試験方法
+- language: en
+  script: Latn
+  content: Windows and doorsets -- Wind resistance test
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1515%3A1998
+docidentifier:
+- content: JIS A 1515:1998
+  type: JIS
+  primary: true
+docnumber: A1515
+date:
+- type: issued
+  at: '1998-09-30'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本サッシ協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本サッシ協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本サッシ協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ａ　１５１３に規定する試験項目のうち，圧力箱方式による建具の耐風圧性試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.060.50
+    text: Doors and windows
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1515

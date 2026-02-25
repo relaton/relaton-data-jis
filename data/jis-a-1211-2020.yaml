@@ -1,0 +1,85 @@
+---
+id: JISA12112020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＣＢＲ試験方法
+- language: en
+  script: Latn
+  content: Test methods for the California Bearing Ratio (CBR) of soils in laboratory
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1211%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01211_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 1211:2020
+  type: JIS
+  primary: true
+docnumber: A1211
+date:
+- type: issued
+  at: '2020-03-25'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　地盤工学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　地盤工学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　地盤工学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: モールド内に締め固めた土の供試体及びモールド内に採取した乱さない土の供試体のＣＢＲを求める方法について規定。ただし，モールド内に締め突き固めた供試体のＣＢＲ試験の場合は，目開き３７．５　ｍｍのふるいを通過した土を対象とする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.080.20
+    text: Physical properties of soils
+  - code: '93.010'
+    text: Civil engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1211

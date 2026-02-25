@@ -1,0 +1,98 @@
+---
+id: JISZ14032018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 枠組箱の構造
+- language: en
+  script: Latn
+  content: Construction of wooden framed boxes for packing
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1403%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_01403_000_000_2018_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_01403_000_000_2018_e_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 1403:2018
+  type: JIS
+  primary: true
+docnumber: Z1403
+date:
+- type: issued
+  at: '2018-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本梱包工業組合連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本梱包工業組合連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本梱包工業組合連合会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 内容品の質量０．５ｔ～６０ｔで，外のり寸法が長さ１５．０ｍ以下，幅５．０ｍ以下及び高さ５．０ｍ以下の輸送包装に用いる枠組箱の構造について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '55.160'
+    text: Cases. Boxes. Crates
+  - code: '79.040'
+    text: Wood, sawlogs and sawn timber
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z1403

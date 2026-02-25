@@ -1,0 +1,75 @@
+---
+id: TRB00142003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ５００ｋＷ級のガスエンジン及びディーゼルエンジンを原動機とするコージェネレーションユニット
+- language: en
+  script: Latn
+  content: Gas engine or diesel engine driven cogeneration unit (500 kW class)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+B+0014%3A2003
+docidentifier:
+- content: TR B 0014:2003
+  type: JIS
+  primary: true
+docnumber: B0014
+date:
+- type: issued
+  at: '2003-03-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 民生用建物に導入される５００ｋＷ級のガスエンジン，ディーゼルエンジンを原動機とする温水回収コージェネレーション（ＣＧＵ）の製造に必要な技術的指針について記述。常用防災兼用機としての利用も記述。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '27.020'
+    text: Internal combustion engines
+  - code: 29.160.40
+    text: Generating sets
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0014

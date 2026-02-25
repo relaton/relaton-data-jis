@@ -1,0 +1,82 @@
+---
+id: JISB83852000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 油圧―ポンプ・モータ及び一体形トランスミッション―パラメータの定義及び文字記号
+- language: en
+  script: Latn
+  content: Hydraulic fluid power -- Pumps, motors and integral transmissions -- Parameter
+    definitions and letter symbols
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8385%3A2000
+docidentifier:
+- content: JIS B 8385:2000
+  type: JIS
+  primary: true
+docnumber: B8385
+date:
+- type: issued
+  at: '2000-07-31'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本フルードパワー工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 油圧ポンプ，モータ及び一体形トランスミッションに関する文字記号，次元，定義の正確な表現方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.10
+    text: Pumps and motors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8385

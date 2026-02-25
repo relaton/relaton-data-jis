@@ -1,0 +1,81 @@
+---
+id: JISB62271998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 立て形内面ブローチ盤―精度検査
+- language: en
+  script: Latn
+  content: Vertical type internal broaching machines -- Testing of the accuracy
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6227%3A1998
+docidentifier:
+- content: JIS B 6227:1998
+  type: JIS
+  primary: true
+docnumber: B6227
+date:
+- type: issued
+  at: '1998-09-30'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本工作機械工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　６１９１に基づいて，普通精度のはん（汎）用立て形内面ブローチ盤の静的精度の検査方法及び検査事項に対応する許容値について規定。機械各部及び座標軸の名称についても規定。機械の精度検査だけを取り扱い，通常，精度検査の前に行う機械の運転試験（振動，異常騒音，運転部品のステックスリップなど），又は機械の特性試験（送り速度）には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.080.30
+    text: Broaching machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6227

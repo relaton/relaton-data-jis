@@ -1,0 +1,95 @@
+---
+id: JISH73082017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 超電導―超電導体に対するマトリックス体積比試験方法―ニオブ３すず複合超電導線の非銅部に対する銅部体積比
+- language: en
+  script: Latn
+  content: Superconductivity -- Matrix to superconductor volume ratio measurement
+    -- Copper to non-copper volume ratio of Nb3Sn composite superconducting wires
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+7308%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_07308_000_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS H 7308:2017
+  type: JIS
+  primary: true
+docnumber: H7308
+date:
+- type: issued
+  at: '2017-03-21'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電線工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電線工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電線工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 銅安定化ニオブ３すず多心フィラメント複合超電導線の非銅部に対する銅部の体積比を決める試験方法について規定。フィラメント，すず，銅－すず合金，バリア材及びその他の非銅部分が銅部中に分散する配置のもの並びに安定化材が分散しているものには適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.220'
+    text: Electricity. Magnetism. Electrical and magnetic measurements
+  - code: '29.050'
+    text: Superconductivity and conducting materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H7308

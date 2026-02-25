@@ -1,0 +1,74 @@
+---
+id: JISA52131993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築用れんが
+- language: en
+  script: Latn
+  content: Clay bricks for building
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5213%3A1993
+docidentifier:
+- content: JIS A 5213:1993
+  type: JIS
+  primary: true
+docnumber: A5213
+date:
+- type: issued
+  at: '1993-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　建材試験センター
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: れんが用原土を主原料として，成形，焼成した主として建築物の構造壁体及び内外装仕上に用いるれんがについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.20
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5213

@@ -1,0 +1,90 @@
+---
+id: JISZ15242026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 包装用布粘着テープ
+- language: en
+  script: Latn
+  content: Pressure sensitive adhesive cloth tapes for packaging
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1524%3A2026
+docidentifier:
+- content: JIS Z 1524:2026
+  type: JIS
+  primary: true
+docnumber: Z1524
+date:
+- type: issued
+  at: '2026-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本粘着テープ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本粘着テープ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本粘着テープ工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，主に包装，封かんなどに用いる布を基材とし，その片面に粘着剤を均一に塗布した粘着テープについて規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '55.040'
+    text: Packaging materials and accessories
+  - code: '83.180'
+    text: Adhesives
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z1524

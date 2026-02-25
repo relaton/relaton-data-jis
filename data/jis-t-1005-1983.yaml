@@ -1,0 +1,75 @@
+---
+id: JIST10051983
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医用電気機器取扱説明書の様式
+- language: en
+  script: Latn
+  content: Style manual for instruction manuals
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1005%3A1983
+docidentifier:
+- content: JIS T 1005:1983
+  type: JIS
+  primary: true
+docnumber: T1005
+date:
+- type: issued
+  at: '1983-12-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 医用電気機器の取扱説明書の様式について規定。機器の種類によって取扱上説明を必要としない事項には適用しない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.01
+    text: Medical equipment in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T1005

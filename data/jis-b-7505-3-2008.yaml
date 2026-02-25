@@ -1,0 +1,87 @@
+---
+id: JISB750532008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: アネロイド型圧力計―第３部：取引又は証明用―電気式
+- language: en
+  script: Latn
+  content: 'Aneroid pressure gauges -- Part 3: Electronic measuring instruments used
+    in transaction or certification'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7505-3%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07505_003_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7505-3:2008
+  type: JIS
+  primary: true
+docnumber: B7505
+date:
+- type: issued
+  at: '2008-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本計量機器工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本計量機器工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本計量機器工業連合会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 計ることのできる圧力が絶対圧力で０．１ＭＰａ以上２００．２ＭＰａ以下，かつ，最小の目量が計ることのできる最大の圧力と最小の圧力との差の１５０分の１以上のアネロイド型圧力計のうち，その作動に電源を必要とするものについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.100'
+    text: Measurement of force, weight and pressure
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7505

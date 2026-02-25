@@ -1,0 +1,75 @@
+---
+id: JISG34511987
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 水輸送用塗覆装鋼管の異形管
+- language: en
+  script: Latn
+  content: Fittings of coated steel pipes for water service
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3451%3A1987
+docidentifier:
+- content: JIS G 3451:1987
+  type: JIS
+  primary: true
+docnumber: G3451
+date:
+- type: issued
+  at: '1987-10-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 水道，下水道，工業用水道，農業用水などに使用する塗覆裝異形管について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.75
+    text: Steel pipes and tubes for specific use
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G3451

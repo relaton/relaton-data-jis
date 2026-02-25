@@ -1,0 +1,75 @@
+---
+id: JISB95251987
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: グループ４ファクシミリ装置用テストチャート
+- language: en
+  script: Latn
+  content: Monochrome test chart for group 4 facsimile apparatus
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9525%3A1987
+docidentifier:
+- content: JIS B 9525:1987
+  type: JIS
+  primary: true
+docnumber: B9525
+date:
+- type: issued
+  at: '1987-12-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: グループ４ファクシミリ装置用のモノクロームテストチャートについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.040.20
+    text: Transmission systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9525

@@ -1,0 +1,81 @@
+---
+id: JISF90021997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 統合ブリッジシステム―設計指針
+- language: en
+  script: Latn
+  content: Shipbuilding -- Guidelines for design of integrated bridge systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+9002%3A1997
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_09002_000_000_1997_j_pr10_i4.pdf
+docidentifier:
+- content: JIS F 9002:1997
+  type: JIS
+  primary: true
+docnumber: F9002
+date:
+- type: issued
+  at: '1997-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 設計指針は，７００総トン以上の内航船及び外航船に搭載する統合ブリッジシステムに必要な機能，操作，機器構成，レイアウト及び機器間接続について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.70
+    text: Navigation and control equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F9002

@@ -1,0 +1,94 @@
+---
+id: JISC35022020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: テレビジョン受信用同軸ケーブル
+- language: en
+  script: Latn
+  content: Coaxial cables for television receivers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3502%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_03502_000_000_2020_e_ed10_ch.pdf
+docidentifier:
+- content: JIS C 3502:2020
+  type: JIS
+  primary: true
+docnumber: C3502
+date:
+- type: issued
+  at: '2020-02-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電線工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電線工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電線工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 周波数帯域が１０　ＭＨｚ～３　２２４　ＭＨｚの衛星放送を含むテレビジョン受信システムの伝送路に使用するテレビジョン受信用同軸ケーブルについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.120.10
+    text: Coaxial cables. Waveguides
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C3502

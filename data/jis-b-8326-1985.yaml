@@ -1,0 +1,75 @@
+---
+id: JISB83261985
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 油回転真空ポンプ
+- language: en
+  script: Latn
+  content: Positive-displacement oil-sealed rotary vacuum pumps
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8326%3A1985
+docidentifier:
+- content: JIS B 8326:1985
+  type: JIS
+  primary: true
+docnumber: B8326
+date:
+- type: issued
+  at: '1985-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本真空協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本真空協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本真空協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 容積移送式真空ポンプのうち，到達圧力が１００Ｐａ以下，呼び排気速度１．２～９００ｍ×３／ｈの連続定格の油回転真空ポンプで，５０Ｈｚ又は６０Ｈｚの単相・三相誘導電動機でベルト掛け若しくは軸継手によって直結されるものについて規定。ポンプが取り扱う気体は，－１０～５０℃の空気とする。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.160'
+    text: Vacuum technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8326

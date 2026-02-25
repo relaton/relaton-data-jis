@@ -1,0 +1,89 @@
+---
+id: JISC21382007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気絶縁材料―比誘電率及び誘電正接の測定方法
+- language: en
+  script: Latn
+  content: Electrical insulating materials -- Methods for the determination of the
+    relative permittivity and dielectric dissipation factor
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2138%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02138_000_000_2007_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 2138:2007
+  type: JIS
+  primary: true
+docnumber: C2138
+date:
+- type: issued
+  at: '2007-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 比誘電率，誘電正接，及びこれらから算出される誘電損率などの誘電特性を，１５Ｈｚ～３００ＭＨｚの周波数範囲で測定する方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.99
+    text: Other standards related to electricity and magnetism
+  - code: 29.035.01
+    text: Insulating materials in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2138

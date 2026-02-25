@@ -1,0 +1,75 @@
+---
+id: JISB84381991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 産業用ロボット―電気装置
+- language: en
+  script: Latn
+  content: Industrial robots -- Electrical equipment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8438%3A1991
+docidentifier:
+- content: JIS B 8438:1991
+  type: JIS
+  primary: true
+docnumber: B8438
+date:
+- type: issued
+  at: '1991-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国１８リットル缶工業組合連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国１８リットル缶工業組合連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 全国１８リットル缶工業組合連合会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: １．人体及びロボットの安全を確保する　２．ロボットの電気装置の故障による生産の中断を最小にする　３．ロボットの保守を容易にする　４．ロボットの耐久性の向上を図る　以上の事柄を達成することを目的として，電源電圧交流６００Ｖ以下，電源周波数５０～６０Ｈｚの産業用ロボットの電気装置について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.30
+    text: Industrial robots. Manipulators
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8438

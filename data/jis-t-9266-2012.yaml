@@ -1,0 +1,87 @@
+---
+id: JIST92662012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 福祉用具―歩行補助具―エルボークラッチ
+- language: en
+  script: Latn
+  content: Assistive products for walking -- Elbow crutches
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9266%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09266_000_000_2012_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09266_000_000_2012_e_ed10_i4.pdf
+docidentifier:
+- content: JIS T 9266:2012
+  type: JIS
+  primary: true
+docnumber: T9266
+date:
+- type: issued
+  at: '2012-03-21'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本福祉用具・生活支援用具協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本福祉用具・生活支援用具協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本福祉用具・生活支援用具協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 歩行を補助する前腕支持部及び握り部で構成し，歩行を補助するエルボークラッチについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.180.10
+    text: Aids and adaptation for moving
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9266

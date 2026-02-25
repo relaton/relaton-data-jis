@@ -1,0 +1,75 @@
+---
+id: TRX00402001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ユニバーサルディスクフォーマット（ＵＤＦ）のセキュリティ拡張
+- language: en
+  script: Latn
+  content: Security Extension to Universal Disk Format (UDF)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0040%3A2001
+docidentifier:
+- content: TR X 0040:2001
+  type: JIS
+  primary: true
+docnumber: X0040
+date:
+- type: issued
+  at: '2001-07-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＴＲ　Ｘ００３５：２０００及びＵＤＦ　Ｒｅｖｉｓｉｏｎ２．０１を拡張して，ａ）可換記憶媒体上の論理フォーマット　ｂ）その論理フォーマットを解釈し動作するファイルシステム　のセキリュティを実現する。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  - code: 35.220.21
+    text: Magnetic disks
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0040

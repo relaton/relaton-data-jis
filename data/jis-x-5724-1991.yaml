@@ -1,0 +1,84 @@
+---
+id: JISX57241991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 開放型システム間相互接続―ファイルの転送，アクセス及び管理（ＦＴＡＭ）―第４部　ファイルプロトコル仕様
+- language: en
+  script: Latn
+  content: 'Information processing systems -- Open Systems Interconnection -- File
+    Transfer, Access and Management -- Part 4: File protocol specification'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5724%3A1991
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05724_000_000_1991_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5724:1991
+  type: JIS
+  primary: true
+docnumber: X5724
+date:
+- type: issued
+  at: '1991-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: "（ａ）内部ファイルサービスを支援する基本プロトコル　（ｂ）外部ファイルサービスを支援する誤り回復プロトコル　（ｃ）ファイルプロトコル制御情報を運ぶために必要な抽象構文の定義　（ｄ）このプロトコルの実装者が従うべき適合性の要件　の４つの主要部分から構成。"
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.70
+    text: Application layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5724

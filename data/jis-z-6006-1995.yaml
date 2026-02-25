@@ -1,0 +1,75 @@
+---
+id: JISZ60061995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 図面用３５ｍｍマイクロフィルムのアパーチュアカード
+- language: en
+  script: Latn
+  content: Aperture card for 35 mm microfilm of technical drawings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+6006%3A1995
+docidentifier:
+- content: JIS Z 6006:1995
+  type: JIS
+  primary: true
+docnumber: Z6006
+date:
+- type: issued
+  at: '1995-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本画像情報マネジメント協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本画像情報マネジメント協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本画像情報マネジメント協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 図面の配布又は交換を目的として使用する３５ｍｍマイクロフィルムのアパーチュアカードについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '37.080'
+    text: Document imaging applications
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z6006

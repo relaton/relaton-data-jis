@@ -1,0 +1,75 @@
+---
+id: JISS46021975
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 学生用手さげかばんの標準寸法及び質量
+- language: en
+  script: Latn
+  content: Standard size and weight of satchels
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+4602%3A1975
+docidentifier:
+- content: JIS S 4602:1975
+  type: JIS
+  primary: true
+docnumber: S4602
+date:
+- type: issued
+  at: '1975-12-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国鞄工業組合連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国鞄工業組合連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 全国鞄工業組合連合会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 中学校生徒，高等学校生徒及び大学学生が使用する手さげかばんの標準寸法及び質量について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '55.080'
+    text: Sacks. Bags
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S4602

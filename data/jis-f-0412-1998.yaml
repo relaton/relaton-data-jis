@@ -1,0 +1,82 @@
+---
+id: JISF04121998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船舶機関部機器類の警報及び表示の方式
+- language: en
+  script: Latn
+  content: Alarming and indicating system of equipment used for engine department
+    in ships
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0412%3A1998
+docidentifier:
+- content: JIS F 0412:1998
+  type: JIS
+  primary: true
+docnumber: F0412
+date:
+- type: issued
+  at: '1998-08-31'
+- type: confirmed
+  at: '2023-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船の機関部機器類の表示灯の色について規定。運転，制御，異常などの状態についての状態表示及び動作並びに可聴警報器の動作について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.70
+    text: Navigation and control equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F0412

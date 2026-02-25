@@ -1,0 +1,92 @@
+---
+id: JISX08142017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 図書館統計
+- language: en
+  script: Latn
+  content: Information and documentation -- International library statistics
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0814%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00814_000_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0814:2017
+  type: JIS
+  primary: true
+docnumber: X0814
+date:
+- type: issued
+  at: '2017-06-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報科学技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報科学技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報科学技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 図書館及び情報サービスのコミュニティに対して，統計の収集及び報告について次の要領（図書館及び情報サービスの経営のために統計を利用するよい慣行を推進する。；国際的な報告を目的とする。；図書館運営者が頻繁に用いているが，国際的な報告には適していなかった統計の測定について，各国間の一致を確実にする。）で規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.140.20
+    text: Information sciences
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0814

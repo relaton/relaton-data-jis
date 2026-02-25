@@ -1,0 +1,82 @@
+---
+id: JISC173232025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 計器用変成器（標準用及び一般計測用）－第３部：計器用変圧器
+- language: en
+  script: Latn
+  content: 'Instrument transformers for testing purpose and used with general instrument-Part
+    3: Voltage transformers'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1732-3%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01732_003_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 1732-3:2025
+  type: JIS
+  primary: true
+docnumber: C1732
+date:
+- type: issued
+  at: '2025-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，商用周波数において，電気計器及び測定装置とともに用いる，新しく製造された標準用又は一般計測用の計器用変圧器について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.20
+    text: Measurement of electrical and magnetic quantities
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1732

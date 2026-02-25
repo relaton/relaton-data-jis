@@ -1,0 +1,93 @@
+---
+id: JISX61492003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報交換用８ｍｍ幅，磁気テープカートリッジ－ヘリカル走査記録－マンモステープ２様式
+- language: en
+  script: Latn
+  content: Information technology -- 8mm wide magnetic tape cartridge for information
+    interchange -- Helical scan recording -- Mammoth Tape-2 format
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6149%3A2003
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06149_000_000_2003_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 6149:2003
+  type: JIS
+  primary: true
+docnumber: X6149
+date:
+- type: issued
+  at: '2003-12-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ８mm幅の磁気テープカートリッジの装置間での物理的互換性をとるために物理的特性及び磁気的特性を規定。装置間でのデータ交換ができるよう記録信号品質，マンモステープ－２のフォーマット及び記録方式について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.220.23
+    text: Cassettes and cartridges for magnetic tapes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6149

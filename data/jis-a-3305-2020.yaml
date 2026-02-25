@@ -1,0 +1,92 @@
+---
+id: JISA33052020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築・土木構造物の信頼性に関する設計の一般原則
+- language: en
+  script: Latn
+  content: General principles on reliability for structures
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+3305%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_03305_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 3305:2020
+  type: JIS
+  primary: true
+docnumber: A3305
+date:
+- type: issued
+  at: '2020-04-27'
+- type: confirmed
+  at: '2025-11-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　建築・住宅国際機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　建築・住宅国際機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　建築・住宅国際機構"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 建築・土木構造物に関する規準類の作成，並びにその設計及びアセスメントに関する意思決定のための，リスク情報及び信頼性情報の基礎に関する一般的な原則について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.080.01
+    text: Structures of buildings in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A3305

@@ -1,0 +1,77 @@
+---
+id: TSD00052005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車－走行支援システムのドライバ受容性評価方法
+- language: en
+  script: Latn
+  content: Evaluation method for driver acceptance of advanced driver assistance systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+D+0005%3A2005
+docidentifier:
+- content: TS D 0005:2005
+  type: JIS
+  primary: true
+docnumber: D0005
+date:
+- type: issued
+  at: '2005-04-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　自動車技術会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ドライバの運転を支援する走行支援システムのドライバ受容性，すなわちドライバが的確に，容易に，安全にシステムを使いこなせるかを評価する上で推奨される最小限の評価項目及び評価方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: '13.180'
+    text: Ergonomics
+  - code: 43.040.01
+    text: Road vehicle systems in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0005

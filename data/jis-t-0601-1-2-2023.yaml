@@ -1,0 +1,87 @@
+---
+id: JIST0601122023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医用電気機器―第１－２部：基礎安全及び基本性能に関する一般要求事項―副通則：電磁妨害―要求事項及び試験
+- language: en
+  script: Latn
+  content: 'Medical electrical equipment -- Part 1-2: General requirements for basic
+    safety and essential performance -- Collateral Standard: Electromagnetic disturbances
+    -- Requirements and tests'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0601-1-2%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00601_001_002_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 0601-1-2:2023
+  type: JIS
+  primary: true
+docnumber: T0601
+date:
+- type: issued
+  at: '2023-02-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この副通則は，医用電気機器及び医用電気システムの基礎安全及び基本性能について適用する。電磁妨害に関わる基礎安全は，全てのＭＥ機器及びＭＥシステムに対して適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.01
+    text: Medical equipment in general
+  - code: 33.100.10
+    text: Emission
+  - code: 33.100.20
+    text: Immunity
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T0601

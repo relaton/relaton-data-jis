@@ -1,0 +1,86 @@
+---
+id: JISC627902020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 太陽電池（ＰＶ）モジュール用端子箱―安全性要求事項及び試験
+- language: en
+  script: Latn
+  content: Junction boxes for photovoltaic (PV) modules -- Safety requirements and
+    tests
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+62790%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_62790_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 62790:2020
+  type: JIS
+  primary: true
+docnumber: C62790
+date:
+- type: issued
+  at: '2020-02-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＥＣ　６１１４０に規定するクラスＩＩ機器の太陽電池（ＰＶ）モジュールに使用する，直流１５００　Ｖ以下の端子箱の安全性要求事項，構造要求事項及び試験について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  - code: 29.220.99
+    text: Other cells and batteries
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C62790

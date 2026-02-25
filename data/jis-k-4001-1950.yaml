@@ -1,0 +1,73 @@
+---
+id: JISK40011950
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 染料試料採取方法
+- language: en
+  script: Latn
+  content: Sampling method for dyestuff
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+4001%3A1950
+docidentifier:
+- content: JIS K 4001:1950
+  type: JIS
+  primary: true
+docnumber: K4001
+date:
+- type: issued
+  at: '1974-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 染料の試料採取方法に関する共通の事柄を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '71.100'
+    text: Products of the chemical industry
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K4001

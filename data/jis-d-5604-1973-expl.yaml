@@ -1,0 +1,81 @@
+---
+id: JISD56041973EXPL
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: JIS D 5604:1973解説
+- language: en
+  script: Latn
+  content: JIS D 5604:1973 explanatory version
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+5604%3A1973%2FEXPL
+docidentifier:
+- content: JIS D 5604:1973/EXPL
+  type: JIS
+  primary: true
+docnumber: D5604
+date:
+- type: issued
+  at: '1996-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.040.30
+    text: Indicating and control devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D5604

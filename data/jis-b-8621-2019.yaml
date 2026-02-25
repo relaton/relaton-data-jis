@@ -1,0 +1,98 @@
+---
+id: JISB86212019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 遠心冷凍機
+- language: en
+  script: Latn
+  content: Centrifugal water chillers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8621%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08621_000_000_2019_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08621_000_000_2019_e_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8621:2019
+  type: JIS
+  primary: true
+docnumber: B8621
+date:
+- type: issued
+  at: '2019-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本冷凍空調工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本冷凍空調工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本冷凍空調工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 遠心圧縮機，圧縮機駆動用電動機，蒸発器，水冷凝縮器，附属冷媒配管，制御装置などによって冷凍サイクルを構成し，水の冷却又は加熱を行う遠心冷凍機で，この規格の標準定格に従った冷凍能力又はヒートポンプ加熱能力が，１５０ｋＷ以上の冷凍機について規定。温度３５℃において飽和蒸気圧力が３ＭＰａ以下の実用的な冷媒を使用する冷凍機に適用し，水以外のブラインを用いて冷却及び加熱するもの，並びに飲用に供するものには適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.120'
+    text: Ventilators. Fans. Air-conditioners
+  - code: '27.200'
+    text: Refrigerating technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8621

@@ -1,0 +1,90 @@
+---
+id: JISX013812004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＣＡＳＥデータ交換形式－ＣＤＩＦ転送形式－第１部：構文及び符号化の一般規則
+- language: en
+  script: Latn
+  content: 'CASE data interchange format -- CDIF transfer format -- Part 1: General
+    rules for syntaxes and encodings'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0138-1%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00138_001_000_2004_j_ed11_ch.pdf
+docidentifier:
+- content: JIS X 0138-1:2004
+  type: JIS
+  primary: true
+docnumber: X0138
+date:
+- type: issued
+  at: '2004-07-01'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＣＤＩＦメタモデルが転送において具体的に記述する方法及びＣＤＩＦが複数の交換構文と複数の交換符号化とを支援する方法を規定。特定の交換構文又は交換符号化を規定しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0138

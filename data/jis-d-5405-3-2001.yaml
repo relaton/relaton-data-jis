@@ -1,0 +1,89 @@
+---
+id: JISD540532001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車―故障診断システムのデータリンク層及び応用層―第３部：排気ガス関連故障コード
+- language: en
+  script: Latn
+  content: 'Road vehicles -- Data link layer and application layer for diagnostic
+    systems -- Part 3: Emissions-related diagnostic trouble code definitions'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+5405-3%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_05405_003_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS D 5405-3:2001
+  type: JIS
+  primary: true
+docnumber: D5405
+date:
+- type: issued
+  at: '2001-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　自動車技術会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 自動車のデジタル信号を用いた故障診断におけるエンジンの排気ガス関連の故障コードについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.50
+    text: Transport exhaust emissions
+  - code: '43.180'
+    text: Diagnostic, maintenance and test equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D5405

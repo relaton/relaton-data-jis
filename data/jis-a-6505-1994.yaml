@@ -1,0 +1,75 @@
+---
+id: JISA65051994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築用構成材（コンクリート床パネル）
+- language: en
+  script: Latn
+  content: Building components (Concrete panel for floor)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+6505%3A1994
+docidentifier:
+- content: JIS A 6505:1994
+  type: JIS
+  primary: true
+docnumber: A6505
+date:
+- type: issued
+  at: '1994-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　建材試験センター
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 低層プレキャスト鉄筋コンクリート構造の住宅に用いるコンクリート床パネルについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.060.30
+    text: Ceilings. Floors. Stairs
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A6505

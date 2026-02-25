@@ -1,0 +1,83 @@
+---
+id: JISX04061984
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 勘定科目コード
+- language: en
+  script: Latn
+  content: Accounts code
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0406%3A1984
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00406_000_000_1984_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 0406:1984
+  type: JIS
+  primary: true
+docnumber: X0406
+date:
+- type: issued
+  at: '1984-11-01'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本情報経済社会推進協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本情報経済社会推進協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本情報経済社会推進協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: データ処理機械を用いて，機械と機械，機械と人の間で情報を交換する場合の勘定科目コードについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0406

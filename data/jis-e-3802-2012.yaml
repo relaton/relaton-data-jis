@@ -1,0 +1,92 @@
+---
+id: JISE38022012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動運転都市内軌道旅客輸送システム（ＡＵＧＴシステム）―安全要求事項
+- language: en
+  script: Latn
+  content: Automated urban guided transport (AUGT) -- Safety requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+3802%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_03802_000_000_2012_j_ed10_ch.pdf
+docidentifier:
+- content: JIS E 3802:2012
+  type: JIS
+  primary: true
+docnumber: E3802
+date:
+- type: issued
+  at: '2012-11-07'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道電気技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道電気技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本鉄道電気技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 専用軌道上を走行する，添乗員付き又は自走式自動列車運転を伴うＡＵＧＴシステムの高水準な安全要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '45.060'
+    text: Railway rolling stock
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E3802

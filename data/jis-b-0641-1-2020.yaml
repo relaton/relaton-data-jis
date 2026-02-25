@@ -1,0 +1,95 @@
+---
+id: JISB064112020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性仕様（ＧＰＳ）―製品及び測定装置の測定による検査―第１部：仕様に対する合否判定基準
+- language: en
+  script: Latn
+  content: 'Geometrical product specifications (GPS) -- Inspection by measurement
+    of workpieces and measuring equipment -- Part 1: Decision rules for proving conformance
+    or nonconformance with specifications'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0641-1%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00641_001_000_2020_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00641_001_000_2020_e_ed10_ch.pdf
+docidentifier:
+- content: JIS B 0641-1:2020
+  type: JIS
+  primary: true
+docnumber: B0641
+date:
+- type: issued
+  at: '2020-04-20'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 製品（又は製品の母集団）の特性に対する所定の公差又は測定機器の計測特性に関する最大許容誤差を使用して，適合又は不適合を検証するための方法を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.01
+    text: Linear and angular measurements in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0641

@@ -1,0 +1,87 @@
+---
+id: JISX62782001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: １３０ｍｍ／５．２ＧＢ―光ディスクカートリッジ
+- language: en
+  script: Latn
+  content: 'Information technology -- 130 mm optical disk cartridges for information
+    interchange -- Capacity: 5.2 Gbytes per cartridge'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6278%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06278_000_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 6278:2001
+  type: JIS
+  primary: true
+docnumber: X6278
+date:
+- type: issued
+  at: '2001-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 幾つかのタイプ名称が付けられた一連の１３０ｍｍ光ディスクカートリッジの特性を規定。１枚のディスクには，Ａ面及びＢ面と呼ばれる２面がある。各々の面は，公称２．６ＧＢの記憶容量をもつ。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.220.30
+    text: Optical storage devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6278

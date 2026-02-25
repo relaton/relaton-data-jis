@@ -1,0 +1,79 @@
+---
+id: JISC036455481999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築電気設備　第５部：電気機器の選定と施工　第５４８節：情報技術設備のための接地設備及び等電位ボンディング
+- language: en
+  script: Latn
+  content: 'Electrical installations of buildings Part 5: Selection and erection of
+    electrical equipment Section 548: Earthing arrangements and equipotential bonding
+    for information technology installations'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0364-5-548%3A1999
+docidentifier:
+- content: JIS C 0364-5-548:1999
+  type: JIS
+  primary: true
+docnumber: C0364
+date:
+- type: issued
+  at: '1999-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気設備学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気設備学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電気設備学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: データ交換目的のための連結を要する情報技術設備及びこれに類する機器のための接地及び等電位ボンディングに適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.01
+    text: Application of information technology in general
+  - code: 91.140.50
+    text: Electricity supply systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0364

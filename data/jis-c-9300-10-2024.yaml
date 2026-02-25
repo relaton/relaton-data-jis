@@ -1,0 +1,90 @@
+---
+id: JISC9300102024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: アーク溶接装置－第１０部：電磁両立性（EMC）要求事項
+- language: en
+  script: Latn
+  content: 'Arc welding equipment-Part 10: EMC requirements'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9300-10%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09300_010_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 9300-10:2024
+  type: JIS
+  primary: true
+docnumber: C9300
+date:
+- type: issued
+  at: '2024-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本溶接協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，溶接電源及びワイヤ送給装置，冷却水循環装置，アーク起動装置，アーク安定化装置，バッテリー駆動式装置の充電器などの附属装置を含む，アーク溶接及び類似のプロセス用の装置の電磁両立性（EMC）要求事項について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.30
+    text: Welding equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9300

@@ -1,0 +1,86 @@
+---
+id: JISQ134852018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療機器―品質マネジメントシステム―規制目的のための要求事項
+- language: en
+  script: Latn
+  content: Medical devices -- Quality management systems -- Requirements for regulatory
+    purposes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+13485%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_13485_000_000_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 13485:2018
+  type: JIS
+  primary: true
+docnumber: Q13485
+date:
+- type: issued
+  at: '2018-03-01'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本医療機器産業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本医療機器産業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本医療機器産業連合会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 組織が顧客要求事項及び適用される規制要求事項を一貫して満たす医療機器及び関連するサービスを提供する能力を実証する必要がある場合の品質マネジメントシステムの要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.100.70
+    text: Management systems
+  - code: 11.040.01
+    text: Medical equipment in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q13485

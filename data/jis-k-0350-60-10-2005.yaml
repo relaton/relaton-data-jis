@@ -1,0 +1,95 @@
+---
+id: JISK035060102005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工業用水中の硫酸塩還元菌試験方法
+- language: en
+  script: Latn
+  content: Testing method for detection and enumeration of sulfate-reducing bacteria
+    in industrial water
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0350-60-10%3A2005
+docidentifier:
+- content: JIS K 0350-60-10:2005
+  type: JIS
+  primary: true
+docnumber: K0350
+date:
+- type: issued
+  at: '2005-01-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　産業環境管理協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　産業環境管理協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　産業環境管理協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業用水中の硫酸塩還元菌を培養法によって定性的，定量的に判定する試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.25
+    text: Water for industrial use
+  - code: 13.060.70
+    text: Examination of biological properties of water
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0350

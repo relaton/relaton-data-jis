@@ -1,0 +1,83 @@
+---
+id: JISK11061990
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 液化二酸化炭素（液化炭酸ガス）
+- language: en
+  script: Latn
+  content: Liquid carbon dioxide
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+1106%3A1990
+docidentifier:
+- content: JIS K 1106:1990
+  type: JIS
+  primary: true
+docnumber: K1106
+date:
+- type: issued
+  at: '1990-05-31'
+- type: confirmed
+  at: '2006-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業・医療ガス協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業・医療ガス協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本産業・医療ガス協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 高圧ガス容器に充てんした工業用の液化二酸化炭素について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.060.20
+    text: Oxides
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K1106

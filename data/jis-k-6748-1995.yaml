@@ -1,0 +1,75 @@
+---
+id: JISK67481995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ポリエチレン成形材料
+- language: en
+  script: Latn
+  content: Polyethylene moulding materials
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6748%3A1995
+docidentifier:
+- content: JIS K 6748:1995
+  type: JIS
+  primary: true
+docnumber: K6748
+date:
+- type: issued
+  at: '1995-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油化学工業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油化学工業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 石油化学工業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ポリエチレン成形材料について規定。ポリエチレンに適量の酸化防止剤，滑剤などを添加した成形材料には適用するが，着色品種，難燃品種，カーボンブラック配合品種，充てん材配合品種などの特殊な品種の成形材料には適用しない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.080.20
+    text: Thermoplastic materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K6748

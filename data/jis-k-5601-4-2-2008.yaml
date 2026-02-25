@@ -1,0 +1,95 @@
+---
+id: JISK5601422008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 塗料成分試験方法―第４部：塗膜からの放散成分分析―第２節：揮発性有機化合物（ＶＯＣ）
+- language: en
+  script: Latn
+  content: 'Testing methods for paint components -- Part 4 : Analysis for components
+    emitted from film -- Section 2 : Volatile organic compounds'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5601-4-2%3A2008
+docidentifier:
+- content: JIS K 5601-4-2:2008
+  type: JIS
+  primary: true
+docnumber: K5601
+date:
+- type: issued
+  at: '2008-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本塗料工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本塗料工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本塗料工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 塗料及び建築用仕上塗材の塗膜から放散する揮発性有機化合物の量を，体積約３Ｌの小形チャンバー法によって測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.40
+    text: Chemical analysis
+  - code: '87.040'
+    text: Paints and varnishes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K5601

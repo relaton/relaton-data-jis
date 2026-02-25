@@ -1,0 +1,77 @@
+---
+id: JISG05741980
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ステンレス鋼の硝酸・ふっ化水素酸腐食試験方法
+- language: en
+  script: Latn
+  content: Method of nitric-hydrofluoric acid test for stainless steels
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0574%3A1980
+docidentifier:
+- content: JIS G 0574:1980
+  type: JIS
+  primary: true
+docnumber: G0574
+date:
+- type: issued
+  at: '1980-01-05'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 含モリブデンオーステナイト系ステンレス鋼の７０℃における１０％硝酸・３％ふっ化水素酸溶液中の腐食減量を測定し，基準試料との腐食度比によって粒界腐食の程度を試験する方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '77.060'
+    text: Corrosion of metals
+  - code: 77.140.20
+    text: Stainless steels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G0574

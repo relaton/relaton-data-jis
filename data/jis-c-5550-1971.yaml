@@ -1,0 +1,72 @@
+---
+id: JISC55501971
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: テープレコーダ
+- language: en
+  script: Latn
+  content: Magnetic sound recording and reproducing equipment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5550%3A1971
+docidentifier:
+- content: JIS C 5550:1971
+  type: JIS
+  primary: true
+docnumber: C5550
+date:
+- type: issued
+  at: '1975-04-10'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本電子機械工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 再生専用機を含む一般の音響用リール式テープレコーダの種類，構造，性能およびその他の一般的事項について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5550

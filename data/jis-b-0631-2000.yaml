@@ -1,0 +1,94 @@
+---
+id: JISB06312000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性仕様（ＧＰＳ）―表面性状：輪郭曲線方式―モチーフパラメータ
+- language: en
+  script: Latn
+  content: 'Geometrical Product Specification (GPS) -- Surface texture: Profile method
+    -- Motif parameters'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0631%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00631_000_000_2000_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00631_000_000_2000_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 0631:2000
+  type: JIS
+  primary: true
+docnumber: B0631
+date:
+- type: issued
+  at: '2000-05-31'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: モチーフ法によって表面性状を規定するために用いられる用語及びモチーフパラメータを定義する。さらに理論的なオペレータ及び測定条件に関連する事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.20
+    text: Properties of surfaces
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0631

@@ -1,0 +1,77 @@
+---
+id: JISX51502016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 構内情報配線システム
+- language: en
+  script: Latn
+  content: Information technology -- Generic cabling for customer premises
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5150%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05150_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 5150:2016
+  type: JIS
+  primary: true
+docnumber: X5150
+date:
+- type: issued
+  at: '2016-02-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 単一又は複数のビルを含む構内で使用する情報配線システムについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.200'
+    text: Interface and interconnection equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5150

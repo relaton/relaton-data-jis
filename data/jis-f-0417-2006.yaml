@@ -1,0 +1,77 @@
+---
+id: JISF04172006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船内警報及び表示装置適用基準
+- language: en
+  script: Latn
+  content: Shipbuilding -- Alarms and indicatiors -- Application
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0417%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_00417_000_000_2006_j_ed10_ch.pdf
+docidentifier:
+- content: JIS F 0417:2006
+  type: JIS
+  primary: true
+docnumber: F0417
+date:
+- type: issued
+  at: '2006-08-10'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 船内における警報及び表示器のうち，重要な制御場所に装備する警報・表示の区分，原因，装置名称，時期，可視・可聴信号器及び表示器の適用基準について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.70
+    text: Navigation and control equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F0417

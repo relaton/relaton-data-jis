@@ -1,0 +1,90 @@
+---
+id: JIST03022000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 金属系生体材料のアノード分極試験による耐食性の評価方法
+- language: en
+  script: Latn
+  content: Testing method for corrosion resistance of metallic biomaterials by anodic
+    polarization measurement
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0302%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00302_000_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS T 0302:2000
+  type: JIS
+  primary: true
+docnumber: T0302
+date:
+- type: issued
+  at: '2000-05-31'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 体内を模擬した環境中でのアノード分極試験によって金属系生体材料の耐食性を評価する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.40
+    text: Implants for surgery, prosthetics and orthotics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T0302

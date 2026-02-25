@@ -1,0 +1,77 @@
+---
+id: JISW09011985
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 航空宇宙用溶融溶接作業者の技量認定基準
+- language: en
+  script: Latn
+  content: Aerospace fusion welders qualification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+0901%3A1985
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_w_00901_000_000_1985_j_pr10_i4.pdf
+docidentifier:
+- content: JIS W 0901:1985
+  type: JIS
+  primary: true
+docnumber: W0901
+date:
+- type: issued
+  at: '1985-12-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本航空宇宙工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 航空機，飛しょう体，その他の地上支援器材を含む航空宇宙用機器並びにそれらの部品及び附属品の融接工程に従事する溶接作業者及び自動溶接作業者の技量認定の手順について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.01
+    text: Welding, brazing and soldering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: W0901

@@ -1,0 +1,83 @@
+---
+id: JISM82132024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄鉱石－酸可溶性鉄（ＩＩ）定量方法－二クロム酸カリウム滴定法
+- language: en
+  script: Latn
+  content: Iron ores-Determination of acid-soluble iron(II)-Potassium dichromate titrimetric
+    method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8213%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08213_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS M 8213:2024
+  type: JIS
+  primary: true
+docnumber: M8213
+date:
+- type: issued
+  at: '2024-07-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，鉄鉱石中の酸可溶性鉄（II）定量方法である，二クロム酸カリウム滴定法について規定する。この方法は，酸可溶性鉄（II）含有率（質量分率）1
+    %以上30 %以下の定量に適用する。なお，金属鉄又はバナジウム（V）を含む試料には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 73.060.10
+    text: Iron ores
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M8213

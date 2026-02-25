@@ -1,0 +1,84 @@
+---
+id: JISC60079112004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 爆発性雰囲気で使用する電気機械器具―第１１部：本質安全防爆構造“ｉ”
+- language: en
+  script: Latn
+  content: 'Electrical apparatus for explosive gas atmospheres -- Part 11: Intrinsic
+    safety "i"'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60079-11%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60079_011_000_2004_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60079-11:2004
+  type: JIS
+  primary: true
+docnumber: C60079
+date:
+- type: issued
+  at: '2004-12-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 爆発性雰囲気で用いる本安機器及びそのような雰囲気で用いる本安回路への接続を意図している本安関連機器についての構造及び試験について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.260.20
+    text: Electrical apparatus for explosive atmospheres
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60079

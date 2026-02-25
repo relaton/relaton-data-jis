@@ -1,0 +1,72 @@
+---
+id: JISS21281980
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 都市ガス用炊飯器
+- language: en
+  script: Latn
+  content: Rice cookers used with town gas
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2128%3A1980
+docidentifier:
+- content: JIS S 2128:1980
+  type: JIS
+  primary: true
+docnumber: S2128
+date:
+- type: issued
+  at: '1980-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ガス石油機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ガス石油機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ガス石油機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 都市ガスを燃料とするバーナをもち，表示ガス消費量が１時間当たり４０００ｋｃａｌ【１６７４５ｋＪ】以下で，かつ，最大炊飯量が４ｌ以下の一般家庭用の炊飯器について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S2128

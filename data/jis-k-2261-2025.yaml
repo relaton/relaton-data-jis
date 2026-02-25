@@ -1,0 +1,82 @@
+---
+id: JISK22612025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 石油製品－自動車ガソリン及び航空燃料油－実在ガムの求め方－噴射蒸発法
+- language: en
+  script: Latn
+  content: Petroleum products-Motor gasoline and aviation fuels-Determination of existent
+    gum-Jet evaporation method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2261%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02261_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 2261:2025
+  type: JIS
+  primary: true
+docnumber: K2261
+date:
+- type: issued
+  at: '2025-12-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 石油連盟
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，自動車ガソリン及び航空燃料油（航空タービン燃料油及び航空ガソリン）の実在ガムを測定する方法について規定する。その他の揮発性留出油の実在ガムも測定可能であるが，精度は規定しない。また，自動車ガソリンの未洗実在ガムを測定する手順についても規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 75.160.20
+    text: Liquid fuels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K2261

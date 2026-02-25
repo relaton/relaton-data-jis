@@ -1,0 +1,88 @@
+---
+id: JISQ00312018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 標準物質―認証書，ラベル及び附属文書の内容
+- language: en
+  script: Latn
+  content: Reference materials -- Contents of certificates, labels and accompanying
+    documentation
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+0031%3A2018
+docidentifier:
+- content: JIS Q 0031:2018
+  type: JIS
+  primary: true
+docnumber: Q0031
+date:
+- type: issued
+  at: '2018-03-20'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 標準物質生産者が標準物質に添付する，明瞭で簡潔な文書の作成を支援することを意図している。この規格はまた，標準物質の容器に貼付するラベルの最小限の要求事項を含む。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.30
+    text: Chemical reagents
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q0031

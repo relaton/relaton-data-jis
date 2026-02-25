@@ -1,0 +1,94 @@
+---
+id: JISX00372025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術－用語－バイオメトリクス
+- language: en
+  script: Latn
+  content: Information technology-Vocabulary-Biometrics
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0037%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00037_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0037:2025
+  type: JIS
+  primary: true
+docnumber: X0037
+date:
+- type: issued
+  at: '2025-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，人を認識するバイオメトリクスの分野に関連する概念の体系的記述を確立する。また，この規格は，バイオメトリクスに関する既存の国際規格で使用する変形語を，優先用語と照らし合わせて調整することで，この分野における用語の使用を明確にする。
+    この規格は，情報技術，パターン認識，生物学，数学などからの概念（用語で表現する）を網羅していない。バイオメトリクスでは，このような分野の知識を基礎として使用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.35
+    text: Information technology (Vocabularies)
+  - code: '35.020'
+    text: Information technology (IT) in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0037

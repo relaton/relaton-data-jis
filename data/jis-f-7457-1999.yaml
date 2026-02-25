@@ -1,0 +1,82 @@
+---
+id: JISF74571999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用燃料油タンク及び潤滑油タンク非常遮断弁空気式遠隔遮断装置
+- language: en
+  script: Latn
+  content: Shipbuilding -- Pneumatically operated remote shut-off devices for fuel
+    oil tank and lubricating oil tank emergency shut-off valves
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+7457%3A1999
+docidentifier:
+- content: JIS F 7457:1999
+  type: JIS
+  primary: true
+docnumber: F7457
+date:
+- type: issued
+  at: '1999-08-31'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船用燃料油タンク及び潤滑油タンクの非常遮断弁に用いる空気式遠隔遮断装置について規定。装置の範囲は，機関室の空気源から空気だめに至る充気管，空気だめ及び操作装置を経て燃料油タンク，又は潤滑油タンク非常遮断弁に至る閉鎖空気管までとする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.30
+    text: Piping systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F7457

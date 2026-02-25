@@ -1,0 +1,87 @@
+---
+id: JISQ310102022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: リスクマネジメント―リスクアセスメント技法
+- language: en
+  script: Latn
+  content: Risk management -- Risk assessment techniques
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+31010%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_31010_000_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 31010:2022
+  type: JIS
+  primary: true
+docnumber: Q31010
+date:
+- type: issued
+  at: '2022-08-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 様々な状況において，リスクアセスメント実施のための技法の選択及び適用についての手引を示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.100.01
+    text: Company organization and management in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q31010

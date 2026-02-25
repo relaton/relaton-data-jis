@@ -1,0 +1,90 @@
+---
+id: JISA59142023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 断熱建材畳床
+- language: en
+  script: Latn
+  content: Insulation material TATAMIDOKO
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5914%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05914_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 5914:2023
+  type: JIS
+  primary: true
+docnumber: A5914
+date:
+- type: issued
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建材・住宅設備産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建材・住宅設備産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本建材・住宅設備産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 断熱建材であるタタミボード及び／又は押出法ポリスチレンフォーム断熱材を材料として製造した断熱建材畳床について規定。ただし，この規格で規定する厚さ５０　ｍｍ未満の畳床は，平らな面の上に設置して用いるものに適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.060.30
+    text: Ceilings. Floors. Stairs
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5914

@@ -1,0 +1,75 @@
+---
+id: JISB76041996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 充てん用自動はかり
+- language: en
+  script: Latn
+  content: Balances -- Automatic gravimetric filling instruments
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7604%3A1996
+docidentifier:
+- content: JIS B 7604:1996
+  type: JIS
+  primary: true
+docnumber: B7604
+date:
+- type: issued
+  at: '1996-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本計量機器工業連合会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ばらの状態にある各種原料や製品を，一定の質量に分割して，袋，缶，箱などの容器に自動的に充てんする電子式自動はかりについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.100'
+    text: Measurement of force, weight and pressure
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7604

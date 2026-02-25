@@ -1,0 +1,75 @@
+---
+id: JISA53021994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 無筋コンクリート管及び鉄筋コンクリート管
+- language: en
+  script: Latn
+  content: Concrete pipes and reinforced concrete pipes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5302%3A1994
+docidentifier:
+- content: JIS A 5302:1994
+  type: JIS
+  primary: true
+docnumber: A5302
+date:
+- type: issued
+  at: '1994-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国コンクリート製品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国コンクリート製品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 全国コンクリート製品協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 水道用又はかんがい排水用として用いる無筋コンクリート管及び鉄筋コンクリート管について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.30
+    text: Concrete and concrete products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5302

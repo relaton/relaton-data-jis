@@ -1,0 +1,79 @@
+---
+id: JISG76012000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 耐熱鋼及び合金（ＩＳＯ仕様）
+- language: en
+  script: Latn
+  content: Heat-resisting steels and alloys
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+7601%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_07601_000_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS G 7601:2000
+  type: JIS
+  primary: true
+docnumber: G7601
+date:
+- type: issued
+  at: '2000-12-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: ステンレス協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: ステンレス協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: ステンレス協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 鍛圧鋼及び合金で，通常，５５０℃を超える温度範囲において高温ガス及び燃焼生成物の影響に耐えることを主要目的とするものの要求について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.10
+    text: Heat-treatable steels
+  - code: 77.140.20
+    text: Stainless steels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G7601

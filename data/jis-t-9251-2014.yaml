@@ -1,0 +1,100 @@
+---
+id: JIST92512014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高齢者・障害者配慮設計指針―視覚障害者誘導用ブロック等の突起の形状・寸法及びその配列
+- language: en
+  script: Latn
+  content: Guidelines for older persons and persons with disabilities -- Shapes, dimensions
+    and patterns of raised parts of tactile walking surface indicators for persons
+    who are blind or with seeing impairment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9251%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09251_000_000_2014_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09251_000_000_2014_e_ed10_i4.pdf
+docidentifier:
+- content: JIS T 9251:2014
+  type: JIS
+  primary: true
+docnumber: T9251
+date:
+- type: issued
+  at: '2014-05-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益財団法人　共用品推進機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益財団法人　共用品推進機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益財団法人　共用品推進機構"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 視覚障害者誘導用ブロック等の突起の形状，寸法及びその配列について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.300'
+    text: Protection against dangerous goods
+  - code: 93.080.30
+    text: Road equipment and installations
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9251

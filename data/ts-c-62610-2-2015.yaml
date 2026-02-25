@@ -1,0 +1,79 @@
+---
+id: TSC6261022015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子機器用の機械的構造―キャビネットの熱管理―デザインガイド：強制空冷構造の決定方法
+- language: en
+  script: Latn
+  content: 'Mechanical structures for electronic equipment -- Thermal management for
+    cabinets with IEC 60297 (all parts) and JIS C 6010 (all parts) -- Design guide:
+    Method for the determination of forced air-cooling structure'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+C+62610-2%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_ts_c_62610_002_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: TS C 62610-2:2015
+  type: JIS
+  primary: true
+docnumber: C62610
+date:
+- type: issued
+  at: '2015-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＥＣ　６０２９７及びＪＩＳ　Ｃ　６０１０規格群に適合するサブラック若しくはシャシ又はその両方を搭載したキャビネットについて，共通的に適用することのできる強制空冷構造の決定法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: '31.240'
+    text: Mechanical structures for electronic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C62610

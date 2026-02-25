@@ -1,0 +1,95 @@
+---
+id: JISZ38052022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: チタン溶接技術検定における試験方法及び判定基準
+- language: en
+  script: Latn
+  content: Standard qualification test and acceptance requirements for welding technique
+    of titanium
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3805%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03805_000_000_2022_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03805_000_000_2022_e_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 3805:2022
+  type: JIS
+  primary: true
+docnumber: Z3805
+date:
+- type: issued
+  at: '2022-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本溶接協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: チタン材の大気中でのティグ溶接及びミグ溶接を行う溶接技能者の技術検定における試験方法及び判定基準について規定する。ただし，ティグ半自動溶接は除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.01
+    text: Welding, brazing and soldering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z3805

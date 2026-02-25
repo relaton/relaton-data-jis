@@ -1,0 +1,84 @@
+---
+id: JISB970622009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械類の安全性―表示，マーキング及び操作―第２部：マーキングの要求事項
+- language: en
+  script: Latn
+  content: 'Safety of machinery -- Indication, marking and actuation -- Part 2: Requirements
+    for marking'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9706-2%3A2009
+docidentifier:
+- content: JIS B 9706-2:2009
+  type: JIS
+  primary: true
+docnumber: B9706
+date:
+- type: issued
+  at: '2009-05-01'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械工業連合会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 機械の識別のためのマーキング，機械的危険源及び電気的危険源を回避して機械を安全に使用するためのマーキング，及び誤接続によって生じる危険源を回避するためのマーキングの一般要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9706

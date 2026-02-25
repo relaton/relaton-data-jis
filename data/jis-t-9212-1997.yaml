@@ -1,0 +1,83 @@
+---
+id: JIST92121997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 義足足部・足継手
+- language: en
+  script: Latn
+  content: Artificial feet and ankle joints
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9212%3A1997
+docidentifier:
+- content: JIS T 9212:1997
+  type: JIS
+  primary: true
+docnumber: T9212
+date:
+- type: issued
+  at: '1997-08-31'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本義肢装具学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本義肢装具学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本義肢装具学会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 固定足部を除いた成人用義足足部（足継手，かかと高調製装置，パイプ接続金具等を含む。）について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.40
+    text: Implants for surgery, prosthetics and orthotics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9212

@@ -1,0 +1,89 @@
+---
+id: JISZ831321998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製図―文字―第２部：ギリシャ文字
+- language: en
+  script: Latn
+  content: 'Technical drawings -- Lettering -- Part 2: Greek characters'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8313-2%3A1998
+docidentifier:
+- content: JIS Z 8313-2:1998
+  type: JIS
+  primary: true
+docnumber: Z8313
+date:
+- type: issued
+  at: '1998-03-31'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 製図やそれに関連した文書で用いるギリシャ文字の書体及び大きさについて規定。基本的には型板を用いた文字に関する規定であるが，手書きなど他の方法にも適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.100.01
+    text: Technical drawings in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8313

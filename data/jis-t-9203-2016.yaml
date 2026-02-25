@@ -1,0 +1,83 @@
+---
+id: JIST92032016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電動車椅子
+- language: en
+  script: Latn
+  content: Electric wheelchairs
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9203%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09203_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 9203:2016
+  type: JIS
+  primary: true
+docnumber: T9203
+date:
+- type: issued
+  at: '2016-10-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本福祉用具・生活支援用具協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本福祉用具・生活支援用具協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本福祉用具・生活支援用具協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電動車椅子の最高速度が６ｋｍ／ｈ以下のうち，電動車椅子形式分類の自操用標準形電動車椅子，自操用簡易形電動車椅子並びにリクライニング機構及びティルト機構を装備した自操用座位変換形電動車椅子について規定。自操用座位変換形電動車椅子のうち昇降機構，旋回機構，スタンドアップ機構のもの及びハンドル形電動車椅子は除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.180.10
+    text: Aids and adaptation for moving
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9203

@@ -1,0 +1,97 @@
+---
+id: JISC6311522022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 産業用密閉型ニッケル・水素蓄電池の単電池及び電池システム―第２部：安全性要求事項
+- language: en
+  script: Latn
+  content: 'Sealed nickel-metal hydride cells and batteries for use in industrial
+    applications -- Part 2: Safety'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+63115-2%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_63115_002_000_2022_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_63115_002_000_2022_e_ed10_ch.pdf
+docidentifier:
+- content: JIS C 63115-2:2022
+  type: JIS
+  primary: true
+docnumber: C63115
+date:
+- type: issued
+  at: '2022-03-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電池工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電池工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電池工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 路上走行車駆動用を除く産業用密閉型ニッケル・水素蓄電池の単電池及び電池システムの安全性要求事項，試験方法及び呼び方について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.20
+    text: Numerically controlled machines
+  - code: 25.080.10
+    text: Lathes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C63115

@@ -1,0 +1,92 @@
+---
+id: JISZ810122015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 統計―用語及び記号―第２部：統計の応用
+- language: en
+  script: Latn
+  content: 'Statistics -- Vocabulary and symbols -- Part 2: Applied statistics'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8101-2%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08101_002_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8101-2:2015
+  type: JIS
+  primary: true
+docnumber: Z8101
+date:
+- type: issued
+  at: '2015-10-20'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 統計の応用に関する用語を規定し，ＩＳＯの規範的な用語制定に従った概念体系の枠組みに基づいて提示。標準的な記号及び略語も規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.03
+    text: Services. Company organization, management and quality. Administration.
+      Transport. Sociology. (Vocabularies)
+  - code: 03.120.30
+    text: Application of statistical methods
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8101

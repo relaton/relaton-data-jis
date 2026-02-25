@@ -1,0 +1,91 @@
+---
+id: JISC61810102025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電磁式エレメンタリ　リレー－第１０部：高容量リレーの追加機能及び安全性の要求事項
+- language: en
+  script: Latn
+  content: 'Electromechanical elementary relays-Part 10: Additional functional aspects
+    and safety requirements for high-capacity relays'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61810-10%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61810_010_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61810-10:2025
+  type: JIS
+  primary: true
+docnumber: C61810
+date:
+- type: issued
+  at: '2025-05-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気制御機器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，機能面及び安全面を考慮し高容量の遮断又は短絡容量を備え低電圧装置へ組み込むような電磁式のエレメンタリ　リレー（時限要素がないオール・オア・ナッシング・リレー）について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.70
+    text: Relays
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61810

@@ -1,0 +1,89 @@
+---
+id: JISK637772022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: コンベヤゴムベルト―引張特性の求め方
+- language: en
+  script: Latn
+  content: Conveyor belts -- Full thickness tensile strength, elongation at break
+    and elongation at the reference load -- Test method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6377-7%3A2022
+docidentifier:
+- content: JIS K 6377-7:2022
+  type: JIS
+  primary: true
+docnumber: K6377
+date:
+- type: issued
+  at: '2022-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本ベルト工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本ベルト工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本ベルト工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 布層のコンベヤゴムベルトの長さ方向のベルト全厚の引張特性を決定するための試験方法について規定。また，この試験方法は，幅方向のベルト全厚の引張特性を決定するために用いてもよい。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 53.040.20
+    text: Components for conveyors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K6377

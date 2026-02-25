@@ -1,0 +1,89 @@
+---
+id: JISK040061202001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 水質―ひ素の定量―原子吸光法（水素化物発生法）
+- language: en
+  script: Latn
+  content: Water quality -- Determination of arsenic -- Atomic absorption spectrometric
+    method (hydride technique)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0400-61-20%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00400_061_020_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS K 0400-61-20:2001
+  type: JIS
+  primary: true
+docnumber: K0400
+date:
+- type: issued
+  at: '2001-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　産業環境管理協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　産業環境管理協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　産業環境管理協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 地下水及び表層水中の，有機ひ素を含めたひ素，１～１０μｇ／Ｌ，の定量方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.30
+    text: Sewage water
+  - code: 13.060.50
+    text: Examination of water for chemical substances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0400

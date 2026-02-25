@@ -1,0 +1,87 @@
+---
+id: JISS21511993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ガス燃焼機器用自動ガスバルブ
+- language: en
+  script: Latn
+  content: Automatic gas valves for gas appliances
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2151%3A1993
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02151_000_000_1993_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02151_000_000_1993_e_pr10_i4.pdf
+docidentifier:
+- content: JIS S 2151:1993
+  type: JIS
+  primary: true
+docnumber: S2151
+date:
+- type: issued
+  at: '1993-12-31'
+- type: confirmed
+  at: '2006-05-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本ガス機器検査協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本ガス機器検査協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本ガス機器検査協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ガス圧力３．３ＫＰａ｛３３０ｍｍＨ２Ｏ｝以下の液化石油ガス又は都市ガスを使用する燃焼機器に用いるガス燃焼機器用自動ガスバルブで，外径３５ｍｍ以下の器具ガス指管が接続されるものについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 27.060.20
+    text: Gas fuel burners
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S2151

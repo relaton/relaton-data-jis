@@ -1,0 +1,94 @@
+---
+id: JISX834142025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高齢者・障害者等配慮設計指針－情報通信における機器，ソフトウェア及びサービス－第４部：電気通信機器
+- language: en
+  script: Latn
+  content: 'Guidelines for older persons and persons with disabilities-Information
+    and communications equipment, software and services-Part 4: Telecommunications
+    equipment'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+8341-4%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_08341_004_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 8341-4:2025
+  type: JIS
+  primary: true
+docnumber: X8341
+date:
+- type: issued
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           情報通信アクセス協議会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           情報通信アクセス協議会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           情報通信アクセス協議会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，高齢者及び障害のある人々又は一時的な障害のある人々を含む可能な限り広範にわたる能力の人々のアクセシビリティを確保するために，あらゆる形態の電気通信機器，ソフトウェア及び関連電気通信サービスの標準化，企画，開発，設計及び流通に関する一般指針を提供することを目的としている。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.180.99
+    text: Other standards related to aids for disabled and handicapped people
+  - code: 35.240.80
+    text: IT applications in health care technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X8341

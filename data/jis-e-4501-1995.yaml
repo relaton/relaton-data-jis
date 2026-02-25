@@ -1,0 +1,83 @@
+---
+id: JISE45011995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄道車両―車軸強度設計方法
+- language: en
+  script: Latn
+  content: Railway rolling stock -- Design methods for strength of axles
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+4501%3A1995
+docidentifier:
+- content: JIS E 4501:1995
+  type: JIS
+  primary: true
+docnumber: E4501
+date:
+- type: issued
+  at: '1995-08-31'
+- type: confirmed
+  at: '2005-12-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道車輌工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道車輌工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄道車輌工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｅ　４５０２に規定する車軸の輪座の強度設計方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 45.060.01
+    text: Railway rolling stock in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E4501

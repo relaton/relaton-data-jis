@@ -1,0 +1,94 @@
+---
+id: JISC623012016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用電気機器―待機時消費電力の測定方法
+- language: en
+  script: Latn
+  content: Household electrical appliances -- Measurement of standby power
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+62301%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_62301_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 62301:2016
+  type: JIS
+  primary: true
+docnumber: C62301
+date:
+- type: issued
+  at: '2016-03-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 低電力モード（オフモード，スタンバイモード及びネットワークモード）での消費電力の測定方法について規定。安全性要求事項を規定しない。性能の最低値，及び電力又は消費電力量の最大値についても規定しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.20
+    text: Measurement of electrical and magnetic quantities
+  - code: '97.030'
+    text: Domestic electrical appliances in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C62301

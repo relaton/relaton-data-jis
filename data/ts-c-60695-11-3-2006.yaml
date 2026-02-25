@@ -1,0 +1,87 @@
+---
+id: TSC606951132006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 耐火性試験―電気・電子―第１１－３部：試験炎―５００Ｗ試験炎―装置及び確認試験方法
+- language: en
+  script: Latn
+  content: 'Fire hazard testing -- Part 11-3: Test flames -- 500 W flames -- Apparatus
+    and confirmational test methods'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+C+60695-11-3%3A2006
+docidentifier:
+- content: TS C 60695-11-3:2006
+  type: JIS
+  primary: true
+docnumber: C60695
+date:
+- type: issued
+  at: '2006-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本電子部品信頼性センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本電子部品信頼性センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　日本電子部品信頼性センター"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 公称５００Ｗの予混炎を生成するための詳細な要求事項について規定。炎の高さは約１２５ｍｍである。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: 13.220.40
+    text: Ignitability and burning behaviour of materials and products
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60695

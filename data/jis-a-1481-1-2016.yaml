@@ -1,0 +1,84 @@
+---
+id: JISA148112016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建材製品中のアスベスト含有率測定方法―第１部：市販バルク材からの試料採取及び定性的判定方法
+- language: en
+  script: Latn
+  content: 'Air quality -- Bulk materials -- Part 1: Sampling and qualitative determination
+    of asbestos in commercial bulk materials'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1481-1%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01481_001_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 1481-1:2016
+  type: JIS
+  primary: true
+docnumber: A1481
+date:
+- type: issued
+  at: '2016-03-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本作業環境測定協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本作業環境測定協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本作業環境測定協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 市販のバルク材の試料採取方法及び市販のバルク材中のアスベスト同定方法について規定。適切な試料の前処理手順を規定し，偏光顕微鏡及び分散染色によるアスベストの同定手順について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.20
+    text: Ambient atmospheres
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1481

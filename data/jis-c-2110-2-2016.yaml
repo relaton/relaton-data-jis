@@ -1,0 +1,93 @@
+---
+id: JISC211022016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 固体電気絶縁材料―絶縁破壊の強さの試験方法―第２部：直流電圧印加による試験
+- language: en
+  script: Latn
+  content: 'Solid electrical insulating materials -- Test methods for electric strength
+    -- Part 2: Tests using direct voltage'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2110-2%3A2016
+docidentifier:
+- content: JIS C 2110-2:2016
+  type: JIS
+  primary: true
+docnumber: C2110
+date:
+- type: issued
+  at: '2016-10-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 固体電気絶縁材料の直流電圧印加による絶縁破壊の強さの試験方法について規定。ＪＩＳ　Ｃ　２１１０－１の交流電圧印加に関する規定に追加が必要な事項を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.99
+    text: Other standards related to electricity and magnetism
+  - code: 29.035.01
+    text: Insulating materials in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2110

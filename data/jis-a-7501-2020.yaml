@@ -1,0 +1,92 @@
+---
+id: JISA75012020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 下水道管路維持管理計画の策定に関する指針
+- language: en
+  script: Latn
+  content: Planning for sewer system maintenance
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+7501%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_07501_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 7501:2020
+  type: JIS
+  primary: true
+docnumber: A7501
+date:
+- type: issued
+  at: '2020-04-01'
+- type: confirmed
+  at: '2025-11-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本下水道管路管理業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本下水道管路管理業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本下水道管路管理業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 地方公共団体が管理する下水道管路の維持管理計画の策定の考え方及び記載内容について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '93.030'
+    text: External sewage systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A7501

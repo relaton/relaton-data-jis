@@ -1,0 +1,85 @@
+---
+id: JISP81201998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 紙，板紙及びパルプ―繊維組成試験方法
+- language: en
+  script: Latn
+  content: Paper, board and pulps -- Fibre furnish analysis
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+8120%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_p_08120_000_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS P 8120:1998
+  type: JIS
+  primary: true
+docnumber: P8120
+date:
+- type: issued
+  at: '1999-01-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 紙パルプ技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 紙パルプ技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 紙パルプ技術協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 紙，板紙及びパルプ試料中の繊維組成の判別及びその定量に関する試験方法について規定。試験方法は，繊維の構造又は染色性に影響を与えないようにして離解又は脱色することが困難な，含浸加工した試料又は着色処理した試料には適さない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '85.040'
+    text: Pulps
+  - code: '85.060'
+    text: Paper and board
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: P8120

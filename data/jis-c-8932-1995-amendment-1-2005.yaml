@@ -1,0 +1,71 @@
+---
+id: JISC89321995AMENDMENT12005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 二次基準アモルファス太陽電池サブモジュール（追補１）
+- language: en
+  script: Latn
+  content: Secondary reference amorphous solar submodules (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8932%3A1995%2FAMENDMENT+1%3A2005
+docidentifier:
+- content: JIS C 8932:1995/AMENDMENT 1:2005
+  type: JIS
+  primary: true
+docnumber: C8932
+date:
+- type: issued
+  at: '2005-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　光産業技術振興協会
+      type: technical-committee
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8932

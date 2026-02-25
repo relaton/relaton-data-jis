@@ -1,0 +1,91 @@
+---
+id: JISQ00642014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品規格で環境課題を記述するための作成指針
+- language: en
+  script: Latn
+  content: Guide for addressing environmental issues in product standards
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+0064%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_00064_000_000_2014_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 0064:2014
+  type: JIS
+  primary: true
+docnumber: Q0064
+date:
+- type: issued
+  at: '2014-01-20'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 製品規格における環境課題の記述方法についての指針。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '01.120'
+    text: Standardization. General rules
+  - code: 13.020.01
+    text: Environment and environmental protection in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q0064

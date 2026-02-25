@@ -1,0 +1,78 @@
+---
+id: TRS00022006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 中等度温熱環境における高齢者及び青年の温熱感覚測定データ集
+- language: en
+  script: Latn
+  content: Thermal sensations of young and old persons in moderate thermal environments
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+S+0002%3A2006
+docidentifier:
+- content: TR S 0002:2006
+  type: JIS
+  primary: true
+docnumber: S0002
+date:
+- type: issued
+  at: '2006-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+          \                                                                                           国立研究開発法人　産業技術総合研究所"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 高齢者を対象とした中等度温熱環境における温冷感，快適感などの温熱感覚を測定し，被験者からの主観申告により収集したデータを公表。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '13.180'
+    text: Ergonomics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S0002

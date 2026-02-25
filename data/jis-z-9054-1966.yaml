@@ -1,0 +1,82 @@
+---
+id: JISZ90541966
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 未知分散と既知分散との違いの検定（片側）
+- language: en
+  script: Latn
+  content: Significance test of equality of the population variance and the standard
+    (one-sided)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9054%3A1966
+docidentifier:
+- content: JIS Z 9054:1966
+  type: JIS
+  primary: true
+docnumber: Z9054
+date:
+- type: issued
+  at: '1977-11-15'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 母集団の分散（未知）が基準として設定した値（既知）と違いがあるといえるかどうか（大きいといえるかどうか，または小さいといえるかどうか，のいずれか一方）を，母集団（またはそれをよく代表すると思われるロット）から得た測定値に基づいて検定する方法について規定（片側検定）
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.30
+    text: Application of statistical methods
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9054

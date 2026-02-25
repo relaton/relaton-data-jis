@@ -1,0 +1,90 @@
+---
+id: JISK70201998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ガラス強化熱硬化性プラスチック（ＧＲＰ）管及び継手―回帰分析法及びその使用
+- language: en
+  script: Latn
+  content: Glass-reinforced thermosetting plastics (GRP) pipes and fittings -- Methods
+    for regression analysis and their use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7020%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07020_000_000_1998_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07020_000_000_1998_e_pr10_i4.pdf
+docidentifier:
+- content: JIS K 7020:1998
+  type: JIS
+  primary: true
+docnumber: K7020
+date:
+- type: issued
+  at: '1998-12-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　強化プラスチック協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　強化プラスチック協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　強化プラスチック協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 正規分布又はひずみのある分布の数値を対数に変換したとき，データの解析に適用可能な計算手順について規定。ガラス強化プラスチック管及び継手の，通常，時間の関数としての特性を解析する試験方法及び個別規格について適用することを目的とする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.040.20
+    text: Plastics pipes
+  - code: 23.040.45
+    text: Plastics fittings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K7020

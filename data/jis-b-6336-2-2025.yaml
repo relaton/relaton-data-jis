@@ -1,0 +1,93 @@
+---
+id: JISB633622025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: マシニングセンタ－試験条件－第２部：垂直主軸をもつ機械の幾何精度（垂直Ｚ軸）
+- language: en
+  script: Latn
+  content: 'Test conditions for machining centres-Part 2: Geometric tests for machines
+    with vertical spindle (vertical Z-axis)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6336-2%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06336_002_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 6336-2:2025
+  type: JIS
+  primary: true
+docnumber: B6336
+date:
+- type: issued
+  at: '2025-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本工作機械工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，JIS B 6190規格群を参照して，垂直主軸（垂直Z軸）をもつマシニングセンタの幾何精度試験について規定する。
+    この規格は，また，普通精度の汎用のマシニングセンタに対応する試験結果の許容値についても規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.10
+    text: Machining centres
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6336

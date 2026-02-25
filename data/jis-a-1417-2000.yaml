@@ -1,0 +1,83 @@
+---
+id: JISA14172000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築物の空気音遮断性能の測定方法
+- language: en
+  script: Latn
+  content: Acoustics -- Field measurement of airborne sound insulation of buildings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1417%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01417_000_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS A 1417:2000
+  type: JIS
+  primary: true
+docnumber: A1417
+date:
+- type: issued
+  at: '2000-01-31'
+- type: confirmed
+  at: '2022-11-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本音響学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本音響学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本音響学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 建物の二室間の壁，床，ドアなどの空気音遮断性能を拡散音場の条件で測定する方法について規定。対象とする室の容積は３００ｍ×３以下とする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.120.20
+    text: Acoustics in building. Sound insulation
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1417

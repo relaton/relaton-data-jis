@@ -1,0 +1,85 @@
+---
+id: JISS70181990
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: スキー用語
+- language: en
+  script: Latn
+  content: Skis-terms and definitions
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+7018%3A1990
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_07018_000_000_1990_j_pr10_i4.pdf
+docidentifier:
+- content: JIS S 7018:1990
+  type: JIS
+  primary: true
+docnumber: S7018
+date:
+- type: issued
+  at: '1990-07-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本スポーツ用品工業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本スポーツ用品工業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本スポーツ用品工業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: アルペンスキー板及びクロスカントリースキー板の主要特性の仕様に必要な用語について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.97
+    text: Domestic and commercial equipment. Entertainment. Sports (Vocabularies)
+  - code: 97.220.20
+    text: Winter sports equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S7018

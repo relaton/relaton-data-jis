@@ -1,0 +1,90 @@
+---
+id: JISB70792015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光学及びフォトニクス―スペクトル帯域
+- language: en
+  script: Latn
+  content: Optics and photonics -- Spectral bands
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7079%3A2015
+docidentifier:
+- content: JIS B 7079:2015
+  type: JIS
+  primary: true
+docnumber: B7079
+date:
+- type: issued
+  at: '2015-12-21'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本光学工業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本光学工業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本光学工業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 光学及びフォトニクスに関する光放射（ｏｐｔｉｃａｌ　ｒａｄｉａｔｉｏｎ）のスペクトル帯域の区分について規定。照明及び通信に関する分野，並びに専門的領域での光放射による障害からの保護に関する分野には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '37.020'
+    text: Optical equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7079

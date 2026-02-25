@@ -1,0 +1,84 @@
+---
+id: JISF43041999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用内燃主機関陸上試験方法
+- language: en
+  script: Latn
+  content: Shipbuilding -- Internal combustion engines for propelling use -- Shop
+    test code
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+4304%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_04304_000_000_1999_j_pr10_i4.pdf
+docidentifier:
+- content: JIS F 4304:1999
+  type: JIS
+  primary: true
+docnumber: F4304
+date:
+- type: issued
+  at: '1999-09-30'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船用内燃主機関に対して機関製造業者の工場の運転台上における試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.20
+    text: Marine engines and propulsion systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F4304

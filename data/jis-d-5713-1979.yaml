@@ -1,0 +1,83 @@
+---
+id: JISD57131979
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車用停止表示板
+- language: en
+  script: Latn
+  content: Warning reflex reflectors for automobiles
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+5713%3A1979
+docidentifier:
+- content: JIS D 5713:1979
+  type: JIS
+  primary: true
+docnumber: D5713
+date:
+- type: issued
+  at: '1979-12-01'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車部品工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車部品工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本自動車部品工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 事故などによる停止中の自動車を他の車両に知らせる目的で道路上に置いて用いる自動車用停止表示板について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.040.20
+    text: Lighting, signalling and warning devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D5713

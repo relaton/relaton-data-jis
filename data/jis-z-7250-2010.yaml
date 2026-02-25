@@ -1,0 +1,90 @@
+---
+id: JISZ72502010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 化学物質等安全データシート（ＭＳＤＳ）―内容及び項目の順序
+- language: en
+  script: Latn
+  content: Safety data sheet for chemical products -- Content and order of sections
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+7250%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_07250_000_000_2010_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_07250_000_000_2010_e_ed10_i4.pdf
+docidentifier:
+- content: JIS Z 7250:2010
+  type: JIS
+  primary: true
+docnumber: Z7250
+date:
+- type: issued
+  at: '2010-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本化学工業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本化学工業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本化学工業協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: MSDSの項目，記載内容及び全体構成について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.300'
+    text: Protection against dangerous goods
+  - code: 71.100.01
+    text: Products of the chemical industry in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z7250

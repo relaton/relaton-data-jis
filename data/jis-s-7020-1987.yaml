@@ -1,0 +1,75 @@
+---
+id: JISS70201987
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: クロスカントリースキー
+- language: en
+  script: Latn
+  content: Crosscountry skis
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+7020%3A1987
+docidentifier:
+- content: JIS S 7020:1987
+  type: JIS
+  primary: true
+docnumber: S7020
+date:
+- type: issued
+  at: '1987-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本スポーツ用品工業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本スポーツ用品工業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本スポーツ用品工業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 雪上を滑走することを目的とするクロスカントリースキーについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.220.20
+    text: Winter sports equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S7020

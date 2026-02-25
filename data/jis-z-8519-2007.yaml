@@ -1,0 +1,95 @@
+---
+id: JISZ85192007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 人間工学―視覚表示装置を用いるオフィス作業―非キーボードの入力装置の要求事項
+- language: en
+  script: Latn
+  content: Ergonomics -- Office work with visual display terminals (VDTs) -- Requirements
+    for non-keyboard input devices
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8519%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08519_000_000_2007_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8519:2007
+  type: JIS
+  primary: true
+docnumber: Z8519
+date:
+- type: issued
+  at: '2007-09-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本人間工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本人間工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本人間工学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 非キーボードの入力装置の設計に関する要求事項及び推奨事項について規定。人間工学的情報が十分公表されている装置だけを対象としている。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.180'
+    text: Ergonomics
+  - code: '35.180'
+    text: IT terminal and other peripheral equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8519

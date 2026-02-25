@@ -1,0 +1,83 @@
+---
+id: JISB99431987
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 浮上分離装置の試験方法
+- language: en
+  script: Latn
+  content: Testing methods of floatation equipments
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9943%3A1987
+docidentifier:
+- content: JIS B 9943:1987
+  type: JIS
+  primary: true
+docnumber: B9943
+date:
+- type: issued
+  at: '1987-08-31'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本産業機械工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 廃水中の懸濁物質（浮遊物質）を浮上させて除去するため，廃水処理の工程から発生した水よりも密度の小さい懸濁物質を浮上させ，又は懸濁物質に微細気泡を付着させて水よりも見掛け密度を小さくし，これを浮上させて連続的に分離除去するための浮上分離装置，すなわち油水分離装置，加圧浮上装置，散気式浮上装置，電解式浮上装置などの使用状態における試験項目及び試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.30
+    text: Sewage water
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9943

@@ -1,0 +1,83 @@
+---
+id: JISB10131994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 皿頭ねじ―頭部の形状及びゲージによる検査
+- language: en
+  script: Latn
+  content: Countersunk head screws -- Head configuration and gauging
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1013%3A1994
+docidentifier:
+- content: JIS B 1013:1994
+  type: JIS
+  primary: true
+docnumber: B1013
+date:
+- type: issued
+  at: '1994-04-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ねじ研究協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: すりわり付き及び十字穴付き皿頭ねじの頭部形状の特性について規定。各ねじ部品規格で規定する皿頭寸法に関するゲージによる検査方法を推奨するものである。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.040.01
+    text: Screw threads in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1013

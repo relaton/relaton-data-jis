@@ -1,0 +1,77 @@
+---
+id: JISR38021995AMENDMENT12006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ガラス製化学プラント用構成部品（追補１）
+- language: en
+  script: Latn
+  content: Glass components for chemical plants (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+3802%3A1995%2FAMENDMENT+1%3A2006
+docidentifier:
+- content: JIS R 3802:1995/AMENDMENT 1:2006
+  type: JIS
+  primary: true
+docnumber: R3802
+date:
+- type: issued
+  at: '2006-08-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: 71.120.01
+    text: Equipment for the chemical industry in general
+  - code: 81.040.30
+    text: Glass products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R3802

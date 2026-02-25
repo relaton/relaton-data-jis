@@ -1,0 +1,90 @@
+---
+id: JISE11262025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 伸縮継目
+- language: en
+  script: Latn
+  content: Expansion joints
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+1126%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_01126_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS E 1126:2025
+  type: JIS
+  primary: true
+docnumber: E1126
+date:
+- type: issued
+  at: '2025-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道施設協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道施設協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本鉄道施設協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，鉄道線路のロングレール区間等に用いる50 kgNレール用及び60 kgレール用伸縮継目について規定する。ただし，全国新幹線鉄道整備法に基づく新幹線鉄道用及び橋りょう用の伸縮継目には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '45.080'
+    text: Rails and railway components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E1126

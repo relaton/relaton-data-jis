@@ -1,0 +1,75 @@
+---
+id: JISM88551991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ろう石分析方法
+- language: en
+  script: Latn
+  content: Methods for chemical analysis of roseki
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8855%3A1991
+docidentifier:
+- content: JIS M 8855:1991
+  type: JIS
+  primary: true
+docnumber: M8855
+date:
+- type: issued
+  at: '1991-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本セラミックス協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本セラミックス協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本セラミックス協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ろう石の分析方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '73.080'
+    text: Non-metalliferous minerals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M8855

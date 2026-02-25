@@ -1,0 +1,77 @@
+---
+id: JISZ87821999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＣＩＥ測色標準観測者の等色関数
+- language: en
+  script: Latn
+  content: CIE standard colorimetric observers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8782%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08782_000_000_1999_j_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 8782:1999
+  type: JIS
+  primary: true
+docnumber: Z8782
+date:
+- type: issued
+  at: '1999-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本色彩学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本色彩学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本色彩学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 測色で使用する等色関数を規定。２種類（ＣＩＥ１９３１測色標準観測者の等色関数；ＣＩＥ１９６４測色補助標準観測者の等色関数）の等色関数を定める。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.180.20
+    text: Colours and measurement of light
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8782

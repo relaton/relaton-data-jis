@@ -1,0 +1,91 @@
+---
+id: JISK01432023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 表面化学分析―二次イオン質量分析法―シリコン中に均一に添加されたボロンの原子濃度の定量方法
+- language: en
+  script: Latn
+  content: Surface chemical analysis -- Secondary-ion mass spectrometry -- Determination
+    of boron atomic concentration in silicon using uniformly doped materials
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0143%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00143_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 0143:2023
+  type: JIS
+  primary: true
+docnumber: K0143
+date:
+- type: issued
+  at: '2023-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ボロンを注入して作製した認証標準物質で校正した均一添加試料を二次標準物質として用いて，単結晶シリコン中のボロンの原子濃度を決定するための二次イオン質量分析法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.40
+    text: Chemical analysis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0143

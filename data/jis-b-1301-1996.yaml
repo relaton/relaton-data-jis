@@ -1,0 +1,93 @@
+---
+id: JISB13011996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: キー及びキー溝
+- language: en
+  script: Latn
+  content: Keys and their corresponding keyways
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1301%3A1996
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01301_000_000_1996_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01301_000_000_1996_e_pr10_i4.pdf
+docidentifier:
+- content: JIS B 1301:1996
+  type: JIS
+  primary: true
+docnumber: B1301
+date:
+- type: issued
+  at: '1996-03-01'
+- type: confirmed
+  at: '2005-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般の機械に用いる平行キー，こう配キー及び半月キー，並びにこれらに対応するキー溝について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.120.30
+    text: Keys and keyways, splines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1301

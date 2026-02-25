@@ -1,0 +1,90 @@
+---
+id: JISX43461999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報処理技術―マルチメディア・ハイパメディア情報符号化―第６部：拡張対話型応用
+- language: en
+  script: Latn
+  content: 'Information technology -- Coding of multimedia and hypermedia information
+    -- Part 6: Support for enhanced interactive applications'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4346%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04346_000_000_1999_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 4346:1999
+  type: JIS
+  primary: true
+docnumber: X4346
+date:
+- type: issued
+  at: '1999-12-31'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 拡張対話型マルチメディア応用を交換する際の最終形式符号化表現及び意味を規定。応用は，計算機能（データ処理），拡張された通信機能（サーバ，ローカルデバイスなどの外部環境とのやりとり）などを総合することによって，ＪＩＳ　Ｘ　４３４５によって実現される応用を拡張する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4346

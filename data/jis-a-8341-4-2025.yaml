@@ -1,0 +1,92 @@
+---
+id: JISA834142025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 土工機械－機能安全－第４部：制御システムの安全関連部のためのソフトウェア及びデータ伝送の設計及び評価
+- language: en
+  script: Latn
+  content: 'Earth-moving machinery-Functional safety-Part 4: Design and evaluation
+    of software and data transmission for safety-related parts of the control system'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8341-4%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_08341_004_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 8341-4:2025
+  type: JIS
+  primary: true
+docnumber: A8341
+date:
+- type: issued
+  at: '2025-11-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建設機械施工協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建設機械施工協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本建設機械施工協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，JIS A 8308で定義されている土工機械及びそのエクイップメントにおける機械制御システム（MCS）の安全関連部のソフトウェア開発及び信号伝送の要求事項に関する一般原則を規定する。加えて，この規格は，機械制御システム内に組み込まれたソフトウェアに関連するJIS
+    B 9700に定義された重要危険源を扱っている。対処されている重要危険源は，機械制御システムへの入力に対する誤った機械制御システムの出力応答である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '53.100'
+    text: Earth-moving machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8341

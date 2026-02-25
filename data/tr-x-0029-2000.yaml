@@ -1,0 +1,73 @@
+---
+id: TRX00292000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＸＭＬ正規言語記述ＲＥＬＡＸコア
+- language: en
+  script: Latn
+  content: Regular Language description for XML (RELAX) Core
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0029%3A2000
+docidentifier:
+- content: TR X 0029:2000
+  type: JIS
+  primary: true
+docnumber: X0029
+date:
+- type: issued
+  at: '2000-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＲＥＬＡＸ（ＲＥｇｕｌａｒ　ＬＡｎｇｕａｇｅ　ｄｅｓｃｒｉｐｔｉｏｎ　ｆｏｒ　ＸＭＬ）は，ＸＭＬベースの言語を記述するための構成を提供する。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0029

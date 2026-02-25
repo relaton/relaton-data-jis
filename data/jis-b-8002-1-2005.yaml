@@ -1,0 +1,94 @@
+---
+id: JISB800212005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 往復動内燃機関―性能―第１部：出力・燃料消費量・潤滑油消費量の表示及び試験方法―一般機関に対する追加要求事項
+- language: en
+  script: Latn
+  content: 'Reciprocating internal combustion engines -- Performance -- Part 1: Declarations
+    of power, fuel and lubricating oil consumptions, and test methods -- Additional
+    requirements for engines for general use'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8002-1%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08002_001_000_2005_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8002-1:2005
+  type: JIS
+  primary: true
+docnumber: B8002
+date:
+- type: issued
+  at: '2005-10-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本内燃機関連合会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 共通規格であるＪＩＳ　Ｂ　８００３に規定する基本的な機関出力の決定方法及び測定方法の共通要求事項に加えて，一般機関に対する出力・燃料消費量・潤滑油消費量の表示及び試験方法に関する追加要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.020'
+    text: Internal combustion engines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8002

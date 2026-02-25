@@ -1,0 +1,72 @@
+---
+id: JISZ06131977
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ロールボックスパレット
+- language: en
+  script: Latn
+  content: Roll box pallets
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+0613%3A1977
+docidentifier:
+- content: JIS Z 0613:1977
+  type: JIS
+  primary: true
+docnumber: Z0613
+date:
+- type: issued
+  at: '1977-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　関東電気保安協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　関東電気保安協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　関東電気保安協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 一貫輸送につながる配送用に使用されるとともに，販売店舗の商品陳列だなとして兼用することのできる車輪付のロールボックスパレットについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z0613

@@ -1,0 +1,92 @@
+---
+id: JISX92012001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高精細カラーディジタル標準画像（ＣＭＹＫ／ＳＣＩＤ）
+- language: en
+  script: Latn
+  content: Graphic technology -- Prepress digital data exchange -- CMYK standard colour
+    image data (CMYK/SCID)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9201%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09201_000_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 9201:2001
+  type: JIS
+  primary: true
+docnumber: X9201
+date:
+- type: issued
+  at: '2001-09-30'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 符号化，変換，圧縮及び復元を含む画像処理，フィルム記録又は印刷の過程における画質変化を評価するための一群の標準カラー画像を表現する数値データを規定。標準カラー画像は，８ビットＣＭＹＫのディジタルデータに符号化されている。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  - code: 37.100.99
+    text: Other standards related to graphic technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X9201

@@ -1,0 +1,90 @@
+---
+id: JISX233962022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: システム及びソフトウェア技術―ソフトウェア及びシステム開発における作業生産物のレビューツールの能力
+- language: en
+  script: Latn
+  content: Systems and software engineering -- Capabilities of review tools
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+23396%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_23396_000_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 23396:2022
+  type: JIS
+  primary: true
+docnumber: X23396
+date:
+- type: issued
+  at: '2022-08-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: レビュー作業を支援するツールの能力について規定。レビューツールの評価及び選定は，一般的な評価選定プロセス及び評価特性を定義するＩＳＯ／ＩＥＣ２０７４１に従って実行する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X23396

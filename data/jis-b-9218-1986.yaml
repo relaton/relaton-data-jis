@@ -1,0 +1,77 @@
+---
+id: JISB92181986
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自脱コンバインの仕様書様式
+- language: en
+  script: Latn
+  content: Standard form of specifications of head-feeding type combines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9218%3A1986
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09218_000_000_1986_e_pr10_i4.pdf
+docidentifier:
+- content: JIS B 9218:1986
+  type: JIS
+  primary: true
+docnumber: B9218
+date:
+- type: issued
+  at: '1986-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本農業機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本農業機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本農業機械工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 自脱コンバインの仕様書の様式及びその記入要領について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 65.060.50
+    text: Harvesting equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9218

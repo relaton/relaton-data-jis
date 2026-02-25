@@ -1,0 +1,73 @@
+---
+id: JISZ02091976
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 包装貨物及び容器の回転六角ドラム試験方法
+- language: en
+  script: Latn
+  content: Method of revolving hexagonal drum test for package and shipping containers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+0209%3A1976
+docidentifier:
+- content: JIS Z 0209:1976
+  type: JIS
+  primary: true
+docnumber: Z0209
+date:
+- type: issued
+  at: '1976-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 包装貨物及び容器が輸送途上においてうける衝撃に対する適性を比較するために行う回転六角ドラム試験方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 55.180.40
+    text: Complete, filled transport packages
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z0209

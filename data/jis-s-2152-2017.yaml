@@ -1,0 +1,82 @@
+---
+id: JISS21522017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 直結型及び分離型カートリッジガスこんろ
+- language: en
+  script: Latn
+  content: Direct connecting and Flexible hose connecting type portable gas cookers
+    with LPG cartridge
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2152%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02152_000_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS S 2152:2017
+  type: JIS
+  primary: true
+docnumber: S2152
+date:
+- type: issued
+  at: '2017-08-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本ガス機器検査協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本ガス機器検査協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本ガス機器検査協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 液化石油ガス（以下，ガスという。）を充填した容器が部品又は附属品として取り付けられる，主として屋外用の調理機器について規定。ガスを充填した容器が部品又は附属品として組み込まれる構造のものは除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.040.20
+    text: Cooking ranges, working tables, ovens and similar appliances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S2152

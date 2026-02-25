@@ -1,0 +1,92 @@
+---
+id: JISZ43292004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 放射性表面汚染サーベイメータ
+- language: en
+  script: Latn
+  content: Portable radiation surface contamination meters and monitors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4329%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04329_000_000_2004_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 4329:2004
+  type: JIS
+  primary: true
+docnumber: Z4329
+date:
+- type: issued
+  at: '2004-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 物体表面上のα線放射核種，又は最大エネルギー６０ｋｅＶ以上のβ線を放出するβ線放出核種による汚染密度を測定する放射性表面汚染サーベイメータ又は警報付き放射性表面汚染サーベイメータについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.240'
+    text: Radiation measurements
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4329

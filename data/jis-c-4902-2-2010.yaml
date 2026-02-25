@@ -1,0 +1,95 @@
+---
+id: JISC490222010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高圧及び特別高圧進相コンデンサ並びに附属機器―第２部：直列リアクトル
+- language: en
+  script: Latn
+  content: 'High voltage power capacitors and attached apparatus -- Part 2: Series
+    reactors'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4902-2%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04902_002_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 4902-2:2010
+  type: JIS
+  primary: true
+docnumber: C4902
+date:
+- type: issued
+  at: '2010-01-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 力率改善，電圧調整などの目的で，交流３　３００Ｖ以上の回路に使用し，ＪＩＳ　Ｃ　４９０２－１に規定する高圧及び特別高圧進相コンデンサ又はコンデンサ群に直列に挿入して，回路電圧の波形のひずみを軽減させ，かつ，コンデンサ投入時の突入電流を抑制する目的に使用する直列リアクトルについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.180'
+    text: Transformers. Reactors
+  - code: 31.060.70
+    text: Power capacitors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C4902

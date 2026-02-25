@@ -1,0 +1,95 @@
+---
+id: JISX05072004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: バーコードシンボル－ＥＡＮ／ＵＰＣ－基本仕様
+- language: en
+  script: Latn
+  content: Bar code symbology -- EAN/UPC -- Basic specification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0507%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00507_000_000_2004_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0507:2004
+  type: JIS
+  primary: true
+docnumber: X0507
+date:
+- type: issued
+  at: '2004-04-01'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　流通システム開発センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　流通システム開発センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　流通システム開発センター"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＥＡＮ／ＵＰＣシンボル体系のデータキャラクタの符号化，シンボル形式，寸法，試験仕様及び参照復号アルゴリズムを含む要件について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.080.50
+    text: Graphical symbols for use on information technology and telecommunications
+      technical drawings and in relevant technical product documentation
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0507

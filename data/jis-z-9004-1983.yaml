@@ -1,0 +1,94 @@
+---
+id: JISZ90041983
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 計量規準型一回抜取検査（標準偏差未知で上限又は下限規格値だけ規定した場合）
+- language: en
+  script: Latn
+  content: Single sampling inspection plans having desired operating characteristics
+    by variables (standard deviation unknown and single limit specified)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9004%3A1983
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09004_000_000_1983_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09004_000_000_1983_e_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 9004:1983
+  type: JIS
+  primary: true
+docnumber: Z9004
+date:
+- type: issued
+  at: '1983-04-30'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 標準偏差値未知で，上限又は下限規格値だけ規定した場合に，ロットの不良率を保証するときの計量規準型一回抜取検査方式の決め方及び実施の方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.30
+    text: Application of statistical methods
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9004

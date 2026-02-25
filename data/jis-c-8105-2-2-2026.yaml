@@ -1,0 +1,95 @@
+---
+id: JISC8105222026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 照明器具－第２－２部：埋込み形照明器具及び埋込み形空調照明器具に関する安全性要求事項
+- language: en
+  script: Latn
+  content: 'Luminaires-Part 2-2: Particular requirements for safety-Recessed luminaires
+    and recessed air-handling luminaires'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8105-2-2%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08105_002_002_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8105-2-2:2026
+  type: JIS
+  primary: true
+docnumber: C8105
+date:
+- type: issued
+  at: '2026-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本照明工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，電気光源を用いる又は組み込むように設計された埋込み形照明器具であって，1000 V以下の電源電圧で使用するものの安全性要求事項について規定する。この規格を適用する照明器具には，通気ダクト又は通気に用いる天井内の空間（プレナム）と組み合わせて用いる埋込み形空調照明器具を含む。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.140.40
+    text: Luminaires
+  - code: 29.140.50
+    text: Lighting installation systems
+  - code: 91.160.01
+    text: Lighting in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8105

@@ -1,0 +1,90 @@
+---
+id: JISZ85012024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 人間工学―作業システム設計の原則
+- language: en
+  script: Latn
+  content: Ergonomics principles in the design of work systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8501%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08501_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8501:2024
+  type: JIS
+  primary: true
+docnumber: Z8501
+date:
+- type: issued
+  at: '2024-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本人間工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本人間工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本人間工学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 作業システム設計の基本指針となる人間工学の基本的な原則を規定し，関係する基本用語を定義する。設計のプロセスにおいて，人的，社会的及び技術的要求事項に均等な注意を払いながら，人間工学の専門家が設計に携わる人々と協力して行う総合的な手法を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.180'
+    text: Ergonomics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8501

@@ -1,0 +1,83 @@
+---
+id: JISK15141994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 酢酸ブチル
+- language: en
+  script: Latn
+  content: Butyl acetate
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+1514%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_01514_000_000_1994_j_pr10_i4.pdf
+docidentifier:
+- content: JIS K 1514:1994
+  type: JIS
+  primary: true
+docnumber: K1514
+date:
+- type: issued
+  at: '1994-05-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本化学工業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本化学工業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本化学工業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業用の酢酸ブチルについて規定。酢酸正ブチル，酢酸－ｎ－ブチル，酢酸ノルマルブチル，ｎ－ブチルアセテートなどといわれることもある。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.080.70
+    text: Esters
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K1514

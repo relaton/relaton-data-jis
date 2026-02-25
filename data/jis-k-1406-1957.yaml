@@ -1,0 +1,75 @@
+---
+id: JISK14061957
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ふっ化ナトリウム（ふっ化ソーダ）
+- language: en
+  script: Latn
+  content: Sodium fluoride
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+1406%3A1957
+docidentifier:
+- content: JIS K 1406:1957
+  type: JIS
+  primary: true
+docnumber: K1406
+date:
+- type: issued
+  at: '1976-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本無機薬品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本無機薬品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本無機薬品協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業薬品としてのフッ化ナトリウムについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.060.50
+    text: Salts
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K1406

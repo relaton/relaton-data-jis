@@ -1,0 +1,84 @@
+---
+id: JISX50061991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 開放型システム間相互接続の基本参照モデル―管理の枠組み
+- language: en
+  script: Latn
+  content: Information processing systems -- Open Systems Interconnection -- Basic
+    Reference Model -- Management framework
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5006%3A1991
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05006_000_000_1991_j_pr20_i4.pdf
+docidentifier:
+- content: JIS X 5006:1991
+  type: JIS
+  primary: true
+docnumber: X5006
+date:
+- type: issued
+  at: '1991-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＯＳＩ管理に関する現在及び将来の規格の開発を協調のとれたものにするための枠組みを確立し，これらの規格の共通基準　（ａ）ＯＳＩ管理に関する用語を定義し，ＯＳＩ管理の概念を規定。　（ｂ）ＯＳＩ管理対象の概略，ＯＳＩ管理が提供するファシリティ，ＯＳＩ管理の構造を規定。　（ｃ）ＯＳＩ管理の動作を規定。　を規定。ＯＳＩ管理に関するサービス又はプロトコルについては規定しない。システムの実装仕様書及び実装の適合性を検証するための基準となるものではない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.01
+    text: Open systems interconnection in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5006

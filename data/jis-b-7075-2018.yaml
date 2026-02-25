@@ -1,0 +1,94 @@
+---
+id: JISB70752018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光学及びフォトニクス―光学材料及び構成物―波長が０．７８μmから２５μmまでの赤外線の範囲で使用する光学材料の特性
+- language: en
+  script: Latn
+  content: Optics and photonics -- Optical materials and components -- Characterization
+    of optical materials used in the infrared spectral range from 0.78 micrometer
+    to 25 micrometer
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7075%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07075_000_000_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7075:2018
+  type: JIS
+  primary: true
+docnumber: B7075
+date:
+- type: issued
+  at: '2018-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本光学硝子工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本光学硝子工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本光学硝子工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 波長０．７８μｍ～２５μｍの赤外線領域での使用を意図する光学材料の特性について規定。光学材料の特性を記載するために必要なパラメータを明確にし，これらのパラメータを測定するために必要な種々の測定方法も規定。受動光学素子の製造に使われる材料だけを規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '37.020'
+    text: Optical equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7075

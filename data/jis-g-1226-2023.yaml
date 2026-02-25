@@ -1,0 +1,80 @@
+---
+id: JISG12262023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄及び鋼―すず定量方法―よう化物抽出分離フェニルフルオロン吸光光度法
+- language: en
+  script: Latn
+  content: Iron and steel -- Determination of tin -- Phenylfluorone spectrophotometric
+    method after iodide extraction
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+1226%3A2023
+docidentifier:
+- content: JIS G 1226:2023
+  type: JIS
+  primary: true
+docnumber: G1226
+date:
+- type: issued
+  at: '2023-05-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄及び鋼中のすず定量方法のうち，よう化物抽出分離フェニルフルオロン吸光光度法について規定。この方法は，すず含有率（質量分率）０．００１　％以上０．１　％以下の定量に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.080.01
+    text: Ferrous metals in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G1226

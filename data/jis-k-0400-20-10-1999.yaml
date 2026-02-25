@@ -1,0 +1,81 @@
+---
+id: JISK040020101999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 水質―化学的酸素消費量の測定
+- language: en
+  script: Latn
+  content: Water quality -- Determination of the chemical oxygen demand
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0400-20-10%3A1999
+docidentifier:
+- content: JIS K 0400-20-10:1999
+  type: JIS
+  primary: true
+docnumber: K0400
+date:
+- type: issued
+  at: '1999-11-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　産業環境管理協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 水の化学的酸素消費量，ＣＯＤの測定に関する方法について規定。ＣＯＤ値３０～７００ｍｇ／ｌｉｔｒｅの水に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.50
+    text: Examination of water for chemical substances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0400

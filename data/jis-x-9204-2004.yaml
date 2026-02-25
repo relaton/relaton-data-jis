@@ -1,0 +1,92 @@
+---
+id: JISX92042004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高精細カラーディジタル標準画像（ＸＹＺ／ＳＣＩＤ）
+- language: en
+  script: Latn
+  content: Graphic technology -- Prepress digital data exchange -- XYZ/sRGB standard
+    colour image data (XYZ/SCID)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9204%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09204_000_000_2004_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 9204:2004
+  type: JIS
+  primary: true
+docnumber: X9204
+date:
+- type: issued
+  at: '2004-12-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 符号化，変換，圧縮及び復元を含む画像処理，カラーモニタ表示，又は印刷の過程における画質変化を評価するための１５種のカラー画像を表現する数値データを規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  - code: 37.100.99
+    text: Other standards related to graphic technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X9204

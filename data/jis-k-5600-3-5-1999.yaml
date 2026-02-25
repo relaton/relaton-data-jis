@@ -1,0 +1,84 @@
+---
+id: JISK5600351999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 塗料一般試験方法―第３部：塗膜の形成機能―第５節：耐圧着性
+- language: en
+  script: Latn
+  content: 'Testing methods for paints -- Part 3: Film formability -- Section 5: Pressure
+    test for stackability'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5600-3-5%3A1999
+docidentifier:
+- content: JIS K 5600-3-5:1999
+  type: JIS
+  primary: true
+docnumber: K5600
+date:
+- type: issued
+  at: '1999-05-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本塗料工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本塗料工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本塗料工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 規定時間乾燥後の単一塗膜，多層塗膜系又は関連材料において，二つの塗膜面間又は一つの塗膜面と他の面が圧着される場合の損傷に対する抵抗性を規定条件下で測定するための試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '87.040'
+    text: Paints and varnishes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K5600

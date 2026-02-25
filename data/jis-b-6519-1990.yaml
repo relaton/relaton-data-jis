@@ -1,0 +1,85 @@
+---
+id: JISB65191990
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 木工帯のこ盤の試験及び検査方法
+- language: en
+  script: Latn
+  content: Test methods for performance and accuracy of band scroll saws
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6519%3A1990
+docidentifier:
+- content: JIS B 6519:1990
+  type: JIS
+  primary: true
+docnumber: B6519
+date:
+- type: issued
+  at: '1990-09-30'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本木工機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本木工機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本木工機械工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: のこ車の直径が１０００ｍｍ以下のＪＩＳ　Ｂ　０１１４に規定する木工帯のこ盤の機能，運転性能及び剛性に関する試験方法並びに静的精度及び工作精度の検査方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.080.60
+    text: Sawing machines
+  - code: 79.120.10
+    text: Woodworking machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6519

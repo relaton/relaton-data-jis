@@ -1,0 +1,87 @@
+---
+id: JISB99622019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械類の安全性―機械類のケーブルレス制御システムに対する要求事項
+- language: en
+  script: Latn
+  content: Safety of machinery -- Requirements for cableless control systems of machinery
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9962%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09962_000_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 9962:2019
+  type: JIS
+  primary: true
+docnumber: B9962
+date:
+- type: issued
+  at: '2019-05-25'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械工業連合会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: オペレータコントロールステーションと機械制御システムとのケーブルレス（電波，赤外線など）制御システムの機能及びインタフェース接続に関する要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: 35.100.01
+    text: Open systems interconnection in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9962

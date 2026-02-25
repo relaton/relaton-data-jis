@@ -1,0 +1,87 @@
+---
+id: JISK04622008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 非競合免疫測定方法（サンドイッチ法）通則
+- language: en
+  script: Latn
+  content: Guidelines for non-competitive immunoassay (Sandwitch method)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0462%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00462_000_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 0462:2008
+  type: JIS
+  primary: true
+docnumber: K0462
+date:
+- type: issued
+  at: '2008-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 生物化学的測定研究会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 生物化学的測定研究会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 生物化学的測定研究会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業用水，工場排水及び工場敷地の汚染の指標となる高分子バイオマーカー，微生物などを，非競合免疫測定方法（サンドイッチ法）を用いて分析する場合の通則について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.25
+    text: Water for industrial use
+  - code: 13.060.50
+    text: Examination of water for chemical substances
+  - code: 13.060.70
+    text: Examination of biological properties of water
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0462

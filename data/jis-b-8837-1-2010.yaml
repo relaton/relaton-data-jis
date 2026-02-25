@@ -1,0 +1,96 @@
+---
+id: JISB883712010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: クレーン―メンテナンス―第１部：一般
+- language: en
+  script: Latn
+  content: 'Cranes -- Maintenance -- Part 1: General'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8837-1%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08837_001_000_2010_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08837_001_000_2010_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 8837-1:2010
+  type: JIS
+  primary: true
+docnumber: B8837
+date:
+- type: issued
+  at: '2010-04-01'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本クレーン協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本クレーン協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本クレーン協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　０１４６－１に規定するクレーンをその所有者又は使用者が，そのクレーンの設計上の総作業サイクル又はそれを上回る稼働を達成するための維持・整備業務の一般的な要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 53.020.20
+    text: Cranes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8837

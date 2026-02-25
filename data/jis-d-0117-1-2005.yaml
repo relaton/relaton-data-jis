@@ -1,0 +1,101 @@
+---
+id: JISD011712005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車及び内燃機関―フィルタ用語―第１部：フィルタ及びフィルタ構成部品の定義
+- language: en
+  script: Latn
+  content: 'Road vehicles and internal combustion engines -- Filter vocabulary --
+    Part 1: Definitions of filters and filter components'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+0117-1%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_00117_001_000_2005_j_ed10_ch.pdf
+docidentifier:
+- content: JIS D 0117-1:2005
+  type: JIS
+  primary: true
+docnumber: D0117
+date:
+- type: issued
+  at: '2005-04-01'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動車部品工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動車部品工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本自動車部品工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 自動車及び一般内燃機関用（船舶用，定置機関用など）に使用されるフィルタ及びその構成部品の用語について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.43
+    text: Road vehicle engineering (Vocabularies)
+  - code: 43.060.20
+    text: Pressure charging and air/exhaust gas ducting systems
+  - code: 43.060.30
+    text: Cooling systems. Lubricating systems
+  - code: 43.060.40
+    text: Fuel systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0117

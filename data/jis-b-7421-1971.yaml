@@ -1,0 +1,75 @@
+---
+id: JISB74211971
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 限界ゲージの公差・寸法許容差及び摩耗しろ
+- language: en
+  script: Latn
+  content: Tolerances allowable deviations and permissible wears of limit gauges
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7421%3A1971
+docidentifier:
+- content: JIS B 7421:1971
+  type: JIS
+  primary: true
+docnumber: B7421
+date:
+- type: issued
+  at: '1978-02-10'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本精密測定機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本精密測定機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本精密測定機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　０４０１に規定する上の寸法許容差および下の寸法許容差の示す限界内に寸法を確保するのに用いられる限界ゲージの公差・寸法許容差および摩耗しろについて規定。穴と軸以外の機械部分の寸法に用いられる限界ゲージにも準用することができる。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.30
+    text: Measuring instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7421

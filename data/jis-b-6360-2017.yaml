@@ -1,0 +1,93 @@
+---
+id: JISB63602017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ワイヤ放電加工機―精度試験
+- language: en
+  script: Latn
+  content: Test conditions for wire electrical-discharge machines (wire EDM) -- Testing
+    of the accuracy
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6360%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06360_000_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 6360:2017
+  type: JIS
+  primary: true
+docnumber: B6360
+date:
+- type: issued
+  at: '2017-07-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本工作機械工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　６１９０－１，ＪＩＳ　Ｂ　６１９０－２及びＪＩＳ　Ｂ　６１９０－４に基づき，普通精度の汎用ワイヤ放電加工機の幾何精度，位置決め精度，工作精度及び円運動精度の各精度試験並びにこれらの試験に対応する許容値について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.080.99
+    text: Other machine tools
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6360

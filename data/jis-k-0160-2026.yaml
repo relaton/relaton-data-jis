@@ -1,0 +1,92 @@
+---
+id: JISK01602026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 表面化学分析－シリコンウェーハ表面からの金属の化学的回収方法及び全反射蛍光Ｘ線（ＴＸＲＦ）分析法による定量方法
+- language: en
+  script: Latn
+  content: Surface chemical analysis-Chemical methods for the collection of elements
+    from the surface of silicon-wafer working reference materials and their determination
+    by total-reflection X-ray fluorescence (TXRF) spectroscopy
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0160%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00160_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 0160:2026
+  type: JIS
+  primary: true
+docnumber: K0160
+date:
+- type: issued
+  at: '2026-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，気相分解法（VPD法）及び液滴分解法（DADD法）によって，作業用参照試料であるシリコンウェーハ上の鉄及び／又はニッケルを回収する化学的前処理方法及び全反射蛍光X線（TXRF）分析法による定量方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.40
+    text: Chemical analysis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0160

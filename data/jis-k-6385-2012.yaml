@@ -1,0 +1,98 @@
+---
+id: JISK63852012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 防振ゴム―試験方法
+- language: en
+  script: Latn
+  content: Rubber vibration isolators -- Testing methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6385%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06385_000_000_2012_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06385_000_000_2012_e_ed10_i4.pdf
+docidentifier:
+- content: JIS K 6385:2012
+  type: JIS
+  primary: true
+docnumber: K6385
+date:
+- type: issued
+  at: '2012-12-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ゴム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ゴム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ゴム工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 振動・衝撃の伝達防止，吸振又は衝撃の緩和の目的で一般に用いるゴム製品及び金具付ゴム製品の特性の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.160'
+    text: Vibrations, shock and vibration measurements
+  - code: '83.060'
+    text: Rubber
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K6385

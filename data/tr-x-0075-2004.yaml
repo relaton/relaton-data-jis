@@ -1,0 +1,73 @@
+---
+id: TRX00752004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＵＤＦ適合性試験ツール
+- language: en
+  script: Latn
+  content: UDF Compliance Test Tool
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0075%3A2004
+docidentifier:
+- content: TR X 0075:2004
+  type: JIS
+  primary: true
+docnumber: X0075
+date:
+- type: issued
+  at: '2004-12-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 可換記憶媒体のボリューム構造及びファイル構造のユニバーサルディスクフォーマット（ＵＤＦ）への適合性を調べるために，ＵＤＦ（Ｃｏｍｐｌｉａｎｃｅ　Ｔｅｓｔ　Ｄｉｓｃ　Ｓｐｅｃｉｆｉｃａｔｉｏｎ　Ｒｅｖｉｓｉｏｎ　１．０に基づいて適合性試験を行うのに必要なイメージ（可換記憶媒体上に記録されるビットパタン）の作成・記録用のＵＤＦ適合性試験ツールを規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 35.220.30
+    text: Optical storage devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0075

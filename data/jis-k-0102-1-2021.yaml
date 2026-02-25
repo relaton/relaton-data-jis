@@ -1,0 +1,90 @@
+---
+id: JISK010212021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工業用水・工場排水試験方法―第１部：一般理化学試験方法
+- language: en
+  script: Latn
+  content: 'Testing methods for industrial water and industrial wastewater -- Part
+    1: Test methods for general physics and chemistries'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0102-1%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00102_001_000_2021_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00102_001_000_2021_e_ed10_ch.pdf
+docidentifier:
+- content: JIS K 0102-1:2021
+  type: JIS
+  primary: true
+docnumber: K0102
+date:
+- type: issued
+  at: '2021-05-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　産業環境管理協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業用水の試験方法，及び工場（事業所を含む。）からの排水の試験方法に関する，一般理化学試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.25
+    text: Water for industrial use
+  - code: 13.060.30
+    text: Sewage water
+  - code: 13.060.50
+    text: Examination of water for chemical substances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0102

@@ -1,0 +1,85 @@
+---
+id: JISC50171994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: フレキシブルプリント配線板―片面・両面
+- language: en
+  script: Latn
+  content: Flexible printed wiring boards -- Single-sided, Double-sided
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5017%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05017_000_000_1994_e_pr10_i4.pdf
+docidentifier:
+- content: JIS C 5017:1994
+  type: JIS
+  primary: true
+docnumber: C5017
+date:
+- type: issued
+  at: '1994-02-28'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電子回路工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電子回路工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電子回路工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子機器に用いる片面及び両面フレキシブルプリント配線板について規定。なお，ここにいうフレキシブルプリント配線板とは，銅張積層板を使用し，サブトラクティブ法によって製造されたもので，ポルエステルフィルム又はプリイミドフィルムをベースとした片面フレキシブルプリント配線板，及びポリイミドフィルムをベースとした両面フレキシブルプリント配線板を対象とする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '31.180'
+    text: Printed circuits and boards
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5017

@@ -1,0 +1,83 @@
+---
+id: JISB70251995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 時計―精度表示
+- language: en
+  script: Latn
+  content: Watches and clocks -- Accuracy indication
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7025%3A1995
+docidentifier:
+- content: JIS B 7025:1995
+  type: JIS
+  primary: true
+docnumber: B7025
+date:
+- type: issued
+  at: '1995-12-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本時計協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本時計協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本時計協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 水晶時計に適用し，時間精度の表示を行う場合の，精度の試験方法，精度の計算及び精度の計算値との関係について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 39.040.01
+    text: Horology in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7025

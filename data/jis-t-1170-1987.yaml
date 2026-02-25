@@ -1,0 +1,75 @@
+---
+id: JIST11701987
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 臨床用電子式スパイロメータ
+- language: en
+  script: Latn
+  content: Clinical electronics spirometers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1170%3A1987
+docidentifier:
+- content: JIS T 1170:1987
+  type: JIS
+  primary: true
+docnumber: T1170
+date:
+- type: issued
+  at: '1987-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 患者が息を吐くとき又は息を吸うときの空気の気流量を電気信号に変換し，この電気信号から換気機能を表す諸量を演算して，表示及び記録する臨床用電子式スパイロメータについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.55
+    text: Diagnostic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T1170

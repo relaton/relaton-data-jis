@@ -1,0 +1,91 @@
+---
+id: JISC600682611996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―一連耐候性試験
+- language: en
+  script: Latn
+  content: 'Environmental testing Part 2: Test methods Test Z/ABDM: Climatic sequence'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-61%3A1996
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_061_1996_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 60068-2-61:1996
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  at: '1996-03-31'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 供試品が一連の温度，湿度，必要があれば減圧などの環境ストレスから構成された環境条件におかれた時，供試品の適応性を決めるための組合せ試験方法を規定。加えるストレスの順序及びある段階から次の段階へ移る際の条件が，自然の気候条件で観測されたのと同じタイプの劣化機構を加速し，十分進行させるために選択される。劣化の機構が同じであり，試験に対する規定の要求が満足されていれば，他の電気製品にも適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60068

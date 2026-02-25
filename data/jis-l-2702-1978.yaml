@@ -1,0 +1,73 @@
+---
+id: JISL27021978
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 綿ロープ
+- language: en
+  script: Latn
+  content: Cotton rope
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+L+2702%3A1978
+docidentifier:
+- content: JIS L 2702:1978
+  type: JIS
+  primary: true
+docnumber: L2702
+date:
+- type: issued
+  at: '1978-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 伝導その他に用いられる綿ロープについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 59.080.50
+    text: Ropes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: L2702

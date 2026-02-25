@@ -1,0 +1,84 @@
+---
+id: JISX42422002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: コンピュータグラフィクス及び画像処理－ネットワーク用画像形式（ＰＮＧ）
+- language: en
+  script: Latn
+  content: 'Information technology -- Computer graphics and image processing -- Portable
+    Network Graphics (PNG): Functional specification'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4242%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04242_000_000_2002_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 4242:2002
+  type: JIS
+  primary: true
+docnumber: X4242
+date:
+- type: issued
+  at: '2004-06-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ネットワーク用画像形式［Ｐｏｒｔａｂｌｅ　Ｎｅｔｗｏｒｋ　Ｇｒａｐｈｉｃｓ，ＰＮＧ（ピングと発音）］を規定。ＰＮＧは，インターネット上で，コンピュータグラフィクス画像を可逆的に圧縮した形で交換するデータ流及びファイル形式とする。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.140'
+    text: Computer graphics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4242

@@ -1,0 +1,76 @@
+---
+id: JISX63021998AMENDMENT11999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 識別カード　―　記録技術（追補：高保磁力磁気カード）
+- language: en
+  script: Latn
+  content: Identification cards -- Recording technique (Magnetic stripe -- High coercivity)
+    (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6302%3A1998%2FAMENDMENT+1%3A1999
+docidentifier:
+- content: JIS X 6302:1998/AMENDMENT 1:1999
+  type: JIS
+  primary: true
+docnumber: X6302
+date:
+- type: issued
+  at: '1999-10-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 識別カードに用いられる高保磁力磁気ストライプ（保護層も含む。）の特性，その記録技術及び符号化文字集合について規定。高保磁力磁気ストライプの保磁力について，その値そのものを規定することに代えて，保磁力が影響する種々の値を規定することでその要件を定める。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: 35.240.15
+    text: Identification cards. Chip cards. Biometrics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6302

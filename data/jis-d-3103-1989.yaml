@@ -1,0 +1,94 @@
+---
+id: JISD31031989
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車機関用シリンダライナ
+- language: en
+  script: Latn
+  content: Cylinder liners for automotive engines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+3103%3A1989
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_03103_000_000_1989_e_pr10_i4.pdf
+docidentifier:
+- content: JIS D 3103:1989
+  type: JIS
+  primary: true
+docnumber: D3103
+date:
+- type: issued
+  at: '1989-05-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動車部品工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動車部品工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本自動車部品工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ４サイクル自動車機関に用いるシリンダライナについて規定。軽合金製シリンダブロックに鋳ぐるみで使用されるシリンダライナには適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.060.10
+    text: Engine block and internal components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D3103

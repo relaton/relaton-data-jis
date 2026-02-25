@@ -1,0 +1,77 @@
+---
+id: JISD42031998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: モータサイクル用タイヤ―呼び方及び諸元
+- language: en
+  script: Latn
+  content: Motorcycle tyres -- Designation and dimensions
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+4203%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_04203_000_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS D 4203:1998
+  type: JIS
+  primary: true
+docnumber: D4203
+date:
+- type: issued
+  at: '1998-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車タイヤ協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車タイヤ協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本自動車タイヤ協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: モータサイクル用の呼び方，諸元，適用リム及び負荷能力について規定。フラットビードベースリム又は５°テーパビードベースリムに装着する，偏平比の呼びを持つタイヤ（メトリックシリーズ）に適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.160.10
+    text: Road vehicle tyres
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D4203

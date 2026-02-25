@@ -1,0 +1,95 @@
+---
+id: JISZ85142000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 人間工学―視覚表示装置を用いるオフィス作業―キーボードの要求事項
+- language: en
+  script: Latn
+  content: Ergonomics -- Office work with visual display terminals (VDTs) -- Keyboard
+    requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8514%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08514_000_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 8514:2000
+  type: JIS
+  primary: true
+docnumber: Z8514
+date:
+- type: issued
+  at: '2001-01-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本人間工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本人間工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本人間工学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 据置き使用のために設計された分離したリニア・キーボードに関し，典型的なオフィスでの仕事に用いるキーボードの設計に関するユーザの限界及び能力を考慮した指針について規定。キーボード配列の配置，個々のキーの物理的な特性，及びキーボードのきょう（筐）体の設計に関して，人間工学上の要因に基づいた指針について規定。キーボードの物理的な属性を測定することによって，適合性を試験するための方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.180'
+    text: Ergonomics
+  - code: '35.180'
+    text: IT terminal and other peripheral equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8514

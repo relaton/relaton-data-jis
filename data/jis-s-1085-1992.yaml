@@ -1,0 +1,75 @@
+---
+id: JISS10851992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 学校用家具（清掃用具入れ）
+- language: en
+  script: Latn
+  content: School furnitures (cabinet for cleaning-tools)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+1085%3A1992
+docidentifier:
+- content: JIS S 1085:1992
+  type: JIS
+  primary: true
+docnumber: S1085
+date:
+- type: issued
+  at: '1992-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 文部省大臣官房文教施設部指導課
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 文部省大臣官房文教施設部指導課
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 文部省大臣官房文教施設部指導課
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 小学校，中学校，高等学校などにおいて使用する清掃用具入れについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '97.140'
+    text: Furniture
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S1085

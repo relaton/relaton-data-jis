@@ -1,0 +1,75 @@
+---
+id: JISC33261992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ６００Ｖポリエチレン絶縁電線（ＩＥ）
+- language: en
+  script: Latn
+  content: 600 v grade polyethylene insulated wires
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3326%3A1992
+docidentifier:
+- content: JIS C 3326:1992
+  type: JIS
+  primary: true
+docnumber: C3326
+date:
+- type: issued
+  at: '1992-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電線工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電線工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電線工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ６００Ｖ以下の主に一般電気工作物や電気機器の配線に用いるポリエチレンで絶縁された６００Ｖポリエチレン絶縁電線について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.060.10
+    text: Wires
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C3326

@@ -1,0 +1,78 @@
+---
+id: JISX06081997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 再生専用形及び追記形の情報交換用コンパクトディスク媒体のボリューム及びファイルの構造
+- language: en
+  script: Latn
+  content: Volume and file structure of read-only and write-once compact disk media
+    for information interchange
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0608%3A1997
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00608_000_000_1997_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 0608:1997
+  type: JIS
+  primary: true
+docnumber: X0608
+date:
+- type: issued
+  at: '1997-10-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　光産業技術振興協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＣＤ－ＷＯディスク（追記形コンパクトディスク媒体），ハイブリッドＣＤ－ＷＯディスク（再生専用領域をもつ追記形コンパクトディスク媒体）及びＣＲ－ＲＯＭディスクを用いる情報処理システム利用者間の情報交換のためのボリューム認識，起動ブロック認識，ボリューム構造，ファイル構造及びレコード構造に関するフォーマット及び関連システム要件を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.220.30
+    text: Optical storage devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0608

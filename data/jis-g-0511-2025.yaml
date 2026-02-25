@@ -1,0 +1,91 @@
+---
+id: JISG05112025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 金属及び合金の逆Ｕ曲げ試験片を用いた応力腐食割れ試験方法
+- language: en
+  script: Latn
+  content: Stress corrosion cracking testing of metals and alloys using reverse U-bend
+    test method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0511%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00511_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS G 0511:2025
+  type: JIS
+  primary: true
+docnumber: G0511
+date:
+- type: issued
+  at: '2025-12-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　腐食防食学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　腐食防食学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　腐食防食学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，主にオーステナイト系の鉄基合金及びニッケル基合金の高温高圧水環境中における応力腐食割れ感受性を，逆U曲げ試験片を用いて評価する試験方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '77.060'
+    text: Corrosion of metals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G0511

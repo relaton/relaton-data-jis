@@ -1,0 +1,87 @@
+---
+id: JISC25311999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄ニッケル軟質磁性材料
+- language: en
+  script: Latn
+  content: Nickel iron soft magnetic metallic materials
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2531%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02531_000_000_1999_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02531_000_000_1999_e_pr10_i4.pdf
+docidentifier:
+- content: JIS C 2531:1999
+  type: JIS
+  primary: true
+docnumber: C2531
+date:
+- type: issued
+  at: '1999-07-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子機器の各種磁心，磁気遮へい部品などに用いる鉄ニッケル磁性合金棒，ロッド，線，板及び条について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.030'
+    text: Magnetic materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2531

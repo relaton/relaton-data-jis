@@ -1,0 +1,96 @@
+---
+id: JISC606952202001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―耐火性試験　グローイング／ホットワイヤ試験法：ホットワイヤ巻付け線による材料の着火性試験
+- language: en
+  script: Latn
+  content: 'Fire hazard testing -- Part 2: Glowing/Hot wire based test methods --
+    Section 20: Hot-wire coil ignitability test on materials'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60695-2-20%3A2001
+docidentifier:
+- content: JIS C 60695-2-20:2001
+  type: JIS
+  primary: true
+docnumber: C60695
+date:
+- type: issued
+  at: '2001-11-30'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 固体電気絶縁材料に適用。着火源である電気的に熱した加熱線が発する熱で試験片が着火するのに要する時間によっていろいろな材料の挙動の相対的な比較を行うことが目的。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.220.40
+    text: Ignitability and burning behaviour of materials and products
+  - code: '19.040'
+    text: Environmental testing
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: '31.020'
+    text: Electronic components in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60695

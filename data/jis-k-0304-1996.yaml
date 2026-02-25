@@ -1,0 +1,83 @@
+---
+id: JISK03041996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 大気中の二酸化炭素測定方法
+- language: en
+  script: Latn
+  content: Methods for determination of carbon dioxide in air
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0304%3A1996
+docidentifier:
+- content: JIS K 0304:1996
+  type: JIS
+  primary: true
+docnumber: K0304
+date:
+- type: issued
+  at: '1996-03-01'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　化学物質評価研究機構
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　化学物質評価研究機構
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　化学物質評価研究機構
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 大気中の二酸化炭素濃度を高精度に測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.060.20
+    text: Oxides
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0304

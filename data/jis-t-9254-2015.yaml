@@ -1,0 +1,87 @@
+---
+id: JIST92542015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 在宅用電動介護用ベッド
+- language: en
+  script: Latn
+  content: Electrically operated adjustable bed for home use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9254%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09254_000_000_2015_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09254_000_000_2015_e_ed10_i4.pdf
+docidentifier:
+- content: JIS T 9254:2015
+  type: JIS
+  primary: true
+docnumber: T9254
+date:
+- type: issued
+  at: '2015-12-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本福祉用具・生活支援用具協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本福祉用具・生活支援用具協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本福祉用具・生活支援用具協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 介護を目的として使用し，電動によって，背部の角度，膝部の角度及び／又は高さが無段階に調節できるベッドについて規定。普通ベッド，２段ベッド，子供用ベッド，ソファーベッド及び病院用ベッドは除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '11.140'
+    text: Hospital equipment
+  - code: 11.180.01
+    text: Aids for disabled and handicapped persons in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9254

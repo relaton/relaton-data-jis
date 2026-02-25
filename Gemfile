@@ -2,6 +2,6 @@
 
 source 'https://rubygems.org'
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+# git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-gem 'relaton-jis', github: 'relaton/relaton-jis', branch: 'main'
+gem 'relaton-jis', "~> 2.0.0.alpha.1" # github: 'relaton/relaton-jis', branch: 'main'

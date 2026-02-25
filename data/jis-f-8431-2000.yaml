@@ -1,0 +1,83 @@
+---
+id: JISF84312000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用蛍光灯安定器
+- language: en
+  script: Latn
+  content: Marine ballasts for fluorescent lamps
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8431%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_08431_000_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS F 8431:2000
+  type: JIS
+  primary: true
+docnumber: F8431
+date:
+- type: issued
+  at: '2000-05-31'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船で使用する定格周波数６０Ｈｚ，電源電圧２５０Ｖ以下の蛍光灯に用い，周囲温度５０℃以下の状態で使用する蛍光灯安定器について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.60
+    text: Electrical equipment of ships and  of marine structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F8431

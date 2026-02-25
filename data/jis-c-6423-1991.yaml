@@ -1,0 +1,75 @@
+---
+id: JISC64231991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子機器用固定磁器コンデンサ　種類１
+- language: en
+  script: Latn
+  content: Fixed ceramic capacitors class 1 for use in electronic equipment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6423%3A1991
+docidentifier:
+- content: JIS C 6423:1991
+  type: JIS
+  primary: true
+docnumber: C6423
+date:
+- type: issued
+  at: '1991-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本電子機械工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｃ　５１３０に基づいて，酸化チタン系磁器を誘電体とし，金属膜を電極とした固定磁気コンデンサ種類１について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.060.20
+    text: Ceramic and mica capacitors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6423

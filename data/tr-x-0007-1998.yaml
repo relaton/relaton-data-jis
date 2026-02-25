@@ -1,0 +1,73 @@
+---
+id: TRX00071998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: オブジェクト概念モデル
+- language: en
+  script: Latn
+  content: Conceptual Model of Objects
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0007%3A1998
+docidentifier:
+- content: TR X 0007:1998
+  type: JIS
+  primary: true
+docnumber: X0007
+date:
+- type: issued
+  at: '1998-01-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: オブジェクト指向技術における，規定したアーキテクチャのもとにインタフェースとサブスタンスからなるオブジェクト概念モデルを規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '35.110'
+    text: Networking
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0007

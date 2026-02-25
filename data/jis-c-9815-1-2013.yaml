@@ -1,0 +1,88 @@
+---
+id: JISC981512013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: エアコンディショナ及び空気熱源ヒートポンプの定格音響パワーレベル―第１部：直吹き形室外機
+- language: en
+  script: Latn
+  content: 'Sound power rating of air-conditioning and air-source heat pump equipment
+    -- Part 1: Non-ducted outdoor equipment'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9815-1%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09815_001_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 9815-1:2013
+  type: JIS
+  primary: true
+docnumber: C9815
+date:
+- type: issued
+  at: '2013-04-22'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: エアコンディショナ及び空気熱源ヒートポンプの直吹き形室外機の定格音響パワーレベルの算出方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.140.20
+    text: Noise emitted by machines and equipment
+  - code: '23.120'
+    text: Ventilators. Fans. Air-conditioners
+  - code: '27.080'
+    text: Heat pumps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9815

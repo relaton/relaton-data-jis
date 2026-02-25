@@ -1,0 +1,94 @@
+---
+id: JISK01412000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 表面化学分析―データ転送フォーマット
+- language: en
+  script: Latn
+  content: Surface chemical analysis -- Data transfer format
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0141%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00141_000_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS K 0141:2000
+  type: JIS
+  primary: true
+docnumber: K0141
+date:
+- type: issued
+  at: '2000-10-31'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　表面化学分析技術国際標準化委員会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: パラレルインターフェース又はシリアルインターフェース方式により，コンピュータ間を直接結線，電話線，ローカルエリアネットワークや他の通信手段で接続することによりデータを転送するためのフォーマットを明記。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.70
+    text: IT applications in science
+  - code: 71.040.40
+    text: Chemical analysis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0141

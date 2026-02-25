@@ -1,0 +1,92 @@
+---
+id: JISX03012002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報交換のためのデータ要素及び交換形式―日付及び時刻の表記
+- language: en
+  script: Latn
+  content: Data elements and interchange formats -- Information interchange -- Representation
+    of dates and times
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0301%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00301_000_000_2002_j_ed10_i4.pdf
+docidentifier:
+- content: JIS X 0301:2002
+  type: JIS
+  primary: true
+docnumber: X0301
+date:
+- type: issued
+  at: '2002-08-31'
+- type: confirmed
+  at: '2014-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 西暦又は元号による年並びにグレゴリオ暦による月日で表す日付，時刻及び期間の表し方について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.140.30
+    text: Documents in administration, commerce and industry
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0301

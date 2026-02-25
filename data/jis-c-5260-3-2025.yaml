@@ -1,0 +1,93 @@
+---
+id: JISC526032025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子機器用可変抵抗器－第３部：品種別通則：回転形精密級可変抵抗器
+- language: en
+  script: Latn
+  content: 'Potentiometers for use in electronic equipment-Part 3: Sectional specification:
+    Rotary precision potentiometers'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5260-3%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05260_003_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 5260-3:2025
+  type: JIS
+  primary: true
+docnumber: C5260
+date:
+- type: issued
+  at: '2025-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，電子機器に用いる回転形精密級可変抵抗器について規定する。
+    この規格は，この品種の可変抵抗器に対して，推奨定格及び推奨特性を規定すること，JIS C 5260-1から適切な品質評価手順，試験及び測定方法を規定すること，一般的要求性能を規定することを目的とする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.040.20
+    text: Potentiometers, variable resistors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5260

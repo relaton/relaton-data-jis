@@ -1,0 +1,96 @@
+---
+id: JISB06512001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性仕様（ＧＰＳ）―表面性状：輪郭曲線方式―触針式表面粗さ測定機の特性
+- language: en
+  script: Latn
+  content: 'Geometrical Product Specifications (GPS) -- Surface texture: Profile method
+    -- Nominal characteristics of contact (stylus) instruments'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0651%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00651_000_000_2001_j_pr20_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00651_000_000_2001_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 0651:2001
+  type: JIS
+  primary: true
+docnumber: B0651
+date:
+- type: issued
+  at: '2001-01-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 現存する国際規格が実用的な輪郭曲線評価に適用できるようにして，輪郭曲線にかかわる事項並びに表面粗さ及びうねりを測定するための触針式表面粗さ測定機の一般的な構造について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.20
+    text: Properties of surfaces
+  - code: 17.040.30
+    text: Measuring instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0651

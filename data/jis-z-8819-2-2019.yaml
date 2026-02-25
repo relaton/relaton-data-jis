@@ -1,0 +1,93 @@
+---
+id: JISZ881922019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 粒子径測定結果の表現―第２部：粒子径分布からの平均粒子径及びモーメントの計算
+- language: en
+  script: Latn
+  content: 'Representation of results of particle size analysis -- Part 2: Calculation
+    of average particle sizes/diameters and moments from particle size distributions'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8819-2%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08819_002_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8819-2:2019
+  type: JIS
+  primary: true
+docnumber: Z8819
+date:
+- type: issued
+  at: '2019-10-21'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本粉体工業技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 与えられた粒子径分布から種々のモーメント，平均粒子径及び標準偏差を計算するための関連する方程式及び用語に関して，利用されるモーメント表記法及びモーメント比表記法の二つの表記法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.120'
+    text: Particle size analysis. Sieving
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8819

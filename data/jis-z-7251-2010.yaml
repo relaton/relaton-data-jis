@@ -1,0 +1,86 @@
+---
+id: JISZ72512010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＧＨＳに基づく化学物質等の表示
+- language: en
+  script: Latn
+  content: Labelling of chemicals based on GHS
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+7251%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_07251_000_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 7251:2010
+  type: JIS
+  primary: true
+docnumber: Z7251
+date:
+- type: issued
+  at: '2010-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本化学工業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本化学工業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本化学工業協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 化学物質等のＧＨＳの危険有害性クラス及びその区分に基づいたラベル要素（絵表示，注意喚起語，危険有害性情報及び注意書き）について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.100.01
+    text: Products of the chemical industry in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z7251

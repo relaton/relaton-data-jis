@@ -1,0 +1,91 @@
+---
+id: JISC6122432025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光増幅器－測定方法－第４－３部：過渡パラメータ－パワー制御単一チャネル光増幅器のパワーパラメータ測定
+- language: en
+  script: Latn
+  content: 'Optical amplifiers-Test methods-Part 4-3: Power transient parameters-Single
+    channel optical amplifiers in output power control'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6122-4-3%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06122_004_003_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 6122-4-3:2025
+  type: JIS
+  primary: true
+docnumber: C6122
+date:
+- type: issued
+  at: '2025-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，出力パワーを制御する光増幅器（OA）を含む光サブシステムに適用する。この規格は，JIS C 6121-1に示される，希土類のドーパントを含むアクティブ光ファイバを用いた，現在商用化されている光ファイバ増幅器（OFA）のほか，半導体光増幅器（SOA）のような単一チャネル出力光パワー制御で用いる代替光増幅器にも適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.30
+    text: Optic amplifiers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6122

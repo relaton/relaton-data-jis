@@ -1,0 +1,75 @@
+---
+id: JISW32121993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 航空機―飲料水用接続部
+- language: en
+  script: Latn
+  content: Aircraft -- Connection for water of drinkable quality
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+3212%3A1993
+docidentifier:
+- content: JIS W 3212:1993
+  type: JIS
+  primary: true
+docnumber: W3212
+date:
+- type: issued
+  at: '1993-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本航空宇宙工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 飲料水の補給を受けるための，航空機側の接続部の寸法及び寸法許容差，並びにその周囲に設けるすきま包絡面について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '49.080'
+    text: Aerospace fluid systems and components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: W3212

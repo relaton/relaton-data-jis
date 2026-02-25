@@ -1,0 +1,85 @@
+---
+id: JISC65211996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 多層プリント配線板用プリプレグ試験方法
+- language: en
+  script: Latn
+  content: Test methods of prepreg for multilayer printed wiring boards
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6521%3A1996
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06521_000_000_1996_e_pr10_i4.pdf
+docidentifier:
+- content: JIS C 6521:1996
+  type: JIS
+  primary: true
+docnumber: C6521
+date:
+- type: issued
+  at: '1996-01-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電子回路工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電子回路工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電子回路工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 多層プリント配線板に用いるプリプレグの試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '31.180'
+    text: Printed circuits and boards
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6521

@@ -1,0 +1,91 @@
+---
+id: JISC180542001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プロセス計測制御機器―性能評価の一般的方法及び手順―第４部：評価報告書の内容
+- language: en
+  script: Latn
+  content: 'Process measurement and control devices -- General methods and procedures
+    for evaluating performance -- Part 4: Evaluation report content'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1805-4%3A2001
+docidentifier:
+- content: JIS C 1805-4:2001
+  type: JIS
+  primary: true
+docnumber: C1805
+date:
+- type: issued
+  at: '2001-09-30'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: プロセス計測制御機器の機能及び性能に関する試験の実施と報告のための，一般的な方法と手順を規定。プロセス計測制御機器について行った評価又は試験と得られた結果を記した報告書の内容を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1805

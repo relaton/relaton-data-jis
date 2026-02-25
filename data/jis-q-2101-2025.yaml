@@ -1,0 +1,100 @@
+---
+id: JISQ21012025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: バイオテクノロジー－細胞製造マネジメントシステム
+- language: en
+  script: Latn
+  content: Biotechnology-Cell manufacturing Process Management System (CPMS)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+2101%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_02101_000_000_2025_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_02101_000_000_2025_e_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 2101:2025
+  type: JIS
+  primary: true
+docnumber: Q2101
+date:
+- type: issued
+  at: '2025-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　再生医療イノベーションフォーラム"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　再生医療イノベーションフォーラム"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　再生医療イノベーションフォーラム"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，組織が細胞加工製品の製品ライフサイクルを通じた品質の一貫性を確実にするための細胞製造マネジメントシステムを確立し，継続的な製造工程改善を実施するための要件について規定する。
+    この規格は，組織がプロセスアプローチによる細胞製造工程の管理，PDCAサイクル及びリスクに基づく考え方による細胞製造工程の確立及び継続的改善を実施するためのガイダンスを提供する。
+    この規格は，組織内及び組織間の効果的なコミュニケーションを支援し，様々な製造工程開発ステージにおける技術移転及び工程最適化を促進する。
+    この規格は，主に細胞加工製品を製造する組織を対象としているが，概念は初期段階の開発にも適用可能である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.10
+    text: Quality management and quality assurance
+  - code: '07.080'
+    text: Biology. Botany. Zoology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q2101

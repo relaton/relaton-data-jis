@@ -1,0 +1,93 @@
+---
+id: JIST099372012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療機器の生物学的評価―第７部：エチレンオキサイド滅菌残留物
+- language: en
+  script: Latn
+  content: 'Biological evaluation of medical devices -- Part 7: Ethylene oxide sterilization
+    residuals'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0993-7%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00993_007_000_2012_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 0993-7:2012
+  type: JIS
+  primary: true
+docnumber: T0993
+date:
+- type: issued
+  at: '2012-03-01'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 個々のエチレンオキサイド（ＥＯ）滅菌による医療機器の残留物としてのＥＯ及びエチレンクロロヒドリン（ＥＣＨ）の許容限度値，ＥＯ及びＥＣＨの測定方法，並びに医療機器を出荷するための適合性を判断する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.100.20
+    text: Biological evaluation of medical devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T0993

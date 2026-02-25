@@ -1,0 +1,85 @@
+---
+id: JISC575022010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ディペンダビリティ　マネジメント―第２部：ディペンダビリティ　マネジメントのための指針
+- language: en
+  script: Latn
+  content: 'Dependability management -- Part 2: Guidelines for dependability management'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5750-2%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05750_002_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 5750-2:2010
+  type: JIS
+  primary: true
+docnumber: C5750
+date:
+- type: issued
+  at: '2010-03-23'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 製品（サービスを含む。）を対象とした設計，開発，評価，及びそれらのプロセスを改良するための，ディペンダビリティ マネジメントについての指針。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.01
+    text: Quality in general
+  - code: '31.020'
+    text: Electronic components in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5750

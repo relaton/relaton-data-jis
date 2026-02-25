@@ -1,0 +1,94 @@
+---
+id: JIST32512025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 気道用吸引カテーテル
+- language: en
+  script: Latn
+  content: Suction catheters for use in the respiratory tract
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+3251%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_03251_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 3251:2025
+  type: JIS
+  primary: true
+docnumber: T3251
+date:
+- type: issued
+  at: '2025-07-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本医療機器テクノロジー協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，可とう（撓）性材料で作られ，気道内の物質の吸引を使用目的とする閉鎖式吸引カテーテルを含む吸引カテーテルについて規定する。
+    可燃性麻酔ガス若しくは薬剤，レーザー又は電気手術機器とともに使用する吸引カテーテルには，この規格を適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.10
+    text: Anaesthetic, respiratory and reanimation equipment
+  - code: 11.040.25
+    text: Syringes, needles and catheters
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T3251

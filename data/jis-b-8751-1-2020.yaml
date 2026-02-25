@@ -1,0 +1,88 @@
+---
+id: JISB875112020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ファインバブル技術―オゾンファインバブル水発生システムの性能試験方法―第１部：メチレンブルー脱色法
+- language: en
+  script: Latn
+  content: 'Fine bubble technology -- Test method of performance using ozone fine
+    bubble water generating system -- Part 1: Methylene blue decolourization method'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8751-1%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08751_001_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8751-1:2020
+  type: JIS
+  primary: true
+docnumber: B8751
+date:
+- type: issued
+  at: '2020-06-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ファインバブル産業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ファインバブル産業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　ファインバブル産業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業排水，工業用水などの分野で着色された水を脱色する場合に使用するオゾンファインバブル水発生システムの脱色性の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.25
+    text: Water for industrial use
+  - code: 13.060.30
+    text: Sewage water
+  - code: 71.100.99
+    text: Other products of the chemical industry
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8751

@@ -1,0 +1,76 @@
+---
+id: JISC72321978
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 信頼性保証逆阻止３端子サイリスタ（中・大電流）
+- language: en
+  script: Latn
+  content: Reliability assured reverse blocking triode thyristors (high and medium
+    current)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7232%3A1978
+docidentifier:
+- content: JIS C 7232:1978
+  type: JIS
+  primary: true
+docnumber: C7232
+date:
+- type: issued
+  at: '1978-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本電子部品信頼性センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本電子部品信頼性センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本電子部品信頼性センター
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子機器に使用される逆阻止３端子サイリスタ（中・大電流）のうち，信頼性保証が要求されるものに適用し，信頼性保証の要求事項，個別規格の様式などについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.080.20
+    text: Thyristors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C7232

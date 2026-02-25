@@ -1,0 +1,85 @@
+---
+id: JISF97031998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用白金測温抵抗体
+- language: en
+  script: Latn
+  content: Marine resistance bulbs
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+9703%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_09703_000_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS F 9703:1998
+  type: JIS
+  primary: true
+docnumber: F9703
+date:
+- type: issued
+  at: '1998-09-30'
+- type: confirmed
+  at: '2023-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船の主機，補機，冷凍倉，配管，液化ガス運搬船のタンクなどに装着して温度測定に使用する白金測温抵抗体及び信号変換器を内蔵した測温対抗体について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.200.10
+    text: Heat. Calorimetry
+  - code: 47.020.20
+    text: Marine engines and propulsion systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F9703

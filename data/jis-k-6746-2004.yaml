@@ -1,0 +1,92 @@
+---
+id: JISK67462004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プラスチック溶接棒
+- language: en
+  script: Latn
+  content: Plastic welding rods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6746%3A2004
+docidentifier:
+- content: JIS K 6746:2004
+  type: JIS
+  primary: true
+docnumber: K6746
+date:
+- type: issued
+  at: '2004-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本プラスチック工業連盟"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ポリ塩化ビニル，ポリプロピレン及びポリエチレン製品の溶接に使用するポリ塩化ビニル，ポリプロピレン及びポリエチレン溶接棒について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.20
+    text: Welding consumables
+  - code: 83.140.99
+    text: Other rubber and plastics products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K6746

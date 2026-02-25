@@ -1,0 +1,85 @@
+---
+id: JISC601021998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子機器用ラック及びユニットシャシのモジュラオーダ―第２部：２５ｍｍ実装のインタフェイス整合寸法
+- language: en
+  script: Latn
+  content: 'Modular order for the development of mechanical structures for electronic
+    equipment practices -- Part 2: Sectional specification -- Interface co-ordination
+    dimensions for the 25 mm equipment practice'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6010-2%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06010_002_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS C 6010-2:1998
+  type: JIS
+  primary: true
+docnumber: C6010
+date:
+- type: issued
+  at: '1998-12-31'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: モジュール設計の装置及び設備を用いているすべての分野の電子機器に適用。工学的適合性に関する機械的インタフェイスの寸法適合性，例えば，プラグインユニット，プリント板，構成部品，器具，備品，室内空間，建築物などの２５ｍｍ基本の機器実装による機械的構造の部門規格を定義。産業用電子機器，情報技術，測定システム，通信システムなどの電子機器に使用されるあらゆる種類のキャビネット，ラック，サブラック及びシャシの整合寸法並びにピッチを規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '31.240'
+    text: Mechanical structures for electronic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6010

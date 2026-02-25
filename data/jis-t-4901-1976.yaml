@@ -1,0 +1,73 @@
+---
+id: JIST49011976
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療用音さ（叉）
+- language: en
+  script: Latn
+  content: Tuning forks (for medical use)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+4901%3A1976
+docidentifier:
+- content: JIS T 4901:1976
+  type: JIS
+  primary: true
+docnumber: T4901
+date:
+- type: issued
+  at: '1976-09-15'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 医療に使う音さ（叉）について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.55
+    text: Diagnostic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T4901

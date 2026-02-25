@@ -1,0 +1,75 @@
+---
+id: JISB02151982
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: メートルねじ公差方式
+- language: en
+  script: Latn
+  content: Tolerance system for metric screw threads
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0215%3A1982
+docidentifier:
+- content: JIS B 0215:1982
+  type: JIS
+  primary: true
+docnumber: B0215
+date:
+- type: issued
+  at: '1982-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ねじ研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ねじ研究協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　０２０５及びＪＩＳ　Ｂ　０２０７に規定するメートル並目ねじ及びメートル細目ねじの主として締付けに用いるものの公差方式について規定。ＪＩＳ　Ｂ　０２０９及びＪＩＳ　Ｂ　０２１１に規定する１級，２級及び３級のものには適用しない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.040.10
+    text: Metric screw threads
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0215

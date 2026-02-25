@@ -1,0 +1,73 @@
+---
+id: JISC69502006AMENDMENT12007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術機器の安全性（追補１）
+- language: en
+  script: Latn
+  content: Safety of information technology equipment (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6950%3A2006%2FAMENDMENT+1%3A2007
+docidentifier:
+- content: JIS C 6950:2006/AMENDMENT 1:2007
+  type: JIS
+  primary: true
+docnumber: C6950
+date:
+- type: issued
+  at: '2007-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      type: technical-committee
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: '13.260'
+    text: Protection against electric shock.  Live working
+  - code: '35.020'
+    text: Information technology (IT) in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6950

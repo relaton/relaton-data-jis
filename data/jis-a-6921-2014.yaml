@@ -1,0 +1,100 @@
+---
+id: JISA69212014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 壁紙
+- language: en
+  script: Latn
+  content: Wallpaper and wallcoverings for decorative finish
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+6921%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_06921_000_000_2014_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_06921_000_000_2014_e_ed10_i4.pdf
+docidentifier:
+- content: JIS A 6921:2014
+  type: JIS
+  primary: true
+docnumber: A6921
+date:
+- type: issued
+  at: '2014-07-22'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本壁装協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本壁装協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本壁装協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 主に建築物の壁，天井などの内装仕上げとして張り付ける壁紙について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '85.080'
+    text: Paper products
+  - code: '91.060'
+    text: Elements of buildings
+  - code: '91.180'
+    text: Interior finishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A6921

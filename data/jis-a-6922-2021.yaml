@@ -1,0 +1,96 @@
+---
+id: JISA69222021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 壁紙施工用及び建具用でん粉系接着剤
+- language: en
+  script: Latn
+  content: Adhesives for wallpaper and wallcoverings for decorative finish and TATEGU
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+6922%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_06922_000_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 6922:2021
+  type: JIS
+  primary: true
+docnumber: A6922
+date:
+- type: issued
+  at: '2021-03-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本壁装協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本壁装協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本壁装協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 建物の内壁，天井などに仕上げとしてＪＩＳ　Ａ　６９２１に規定された壁紙を張り付けるときに，現場で塗布使用するでん粉系接着剤及び建具に使用するでん粉系接着剤について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '83.180'
+    text: Adhesives
+  - code: '85.080'
+    text: Paper products
+  - code: '91.180'
+    text: Interior finishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A6922

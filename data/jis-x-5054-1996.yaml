@@ -1,0 +1,82 @@
+---
+id: JISX50541996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: セキュリティ技術　―　メッセージ復元を可能にするディジタル署名方式
+- language: en
+  script: Latn
+  content: Information technology -- Security techniques -- Digital signature scheme
+    giving message recovery
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5054%3A1996
+docidentifier:
+- content: JIS X 5054:1996
+  type: JIS
+  primary: true
+docnumber: X5054
+date:
+- type: issued
+  at: '1996-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 公開鍵システムを用いて，限定された長さのメッセージの復元を可能にするディジタル署名方式を規定。ディジタル署名方式は，－秘密署名鍵及びメッセージに署名する署名関数を用いる署名処理。－メッセージの回復中に署名を検査するための公開検証鍵及び検証関数を用いる検証処理。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5054

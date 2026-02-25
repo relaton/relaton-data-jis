@@ -1,0 +1,82 @@
+---
+id: JISD530522007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気自動車―安全に関する仕様―第２部：機能的安全手段及び故障時の保護
+- language: en
+  script: Latn
+  content: 'Electric road vehicles -- Safety specifications -- Part 2: Functional
+    safety means and protection against failures'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+5305-2%3A2007
+docidentifier:
+- content: JIS D 5305-2:2007
+  type: JIS
+  primary: true
+docnumber: D5305
+date:
+- type: issued
+  at: '2007-03-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本自動車研究所
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本自動車研究所
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本自動車研究所
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 車載電池だけを動力源とする軽自動車，乗用自動車及び小型貨物自動車の，電気駆動に特定される危害に関する機能的安全手段及び故障時保護の要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '43.120'
+    text: Electric road vehicles
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D5305

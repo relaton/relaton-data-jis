@@ -1,0 +1,83 @@
+---
+id: JISG73022000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄線及び鋼線用亜鉛めっき（ＩＳＯ仕様）
+- language: en
+  script: Latn
+  content: Zinc coatings for steel wire
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+7302%3A2000
+docidentifier:
+- content: JIS G 7302:2000
+  type: JIS
+  primary: true
+docnumber: G7302
+date:
+- type: issued
+  at: '2000-03-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 線材製品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 線材製品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 線材製品協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 円形断面をもつ亜鉛めっき鉄線及び鋼線の亜鉛めっき付着量，品質並びに試験について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.220.40
+    text: Metallic coatings
+  - code: 77.140.65
+    text: Steel wire, wire ropes and link chains
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G7302

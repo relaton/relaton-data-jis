@@ -1,0 +1,93 @@
+---
+id: JISC595372017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光伝送用能動部品―性能標準―第７部：ＧＰＯＮ用光トランシーバ
+- language: en
+  script: Latn
+  content: 'Fiber optic active components and devices -- Performance standards --
+    Part 7: GPON transceivers'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5953-7%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05953_007_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 5953-7:2017
+  type: JIS
+  primary: true
+docnumber: C5953
+date:
+- type: issued
+  at: '2017-03-21'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＴＵ－Ｔ　Ｇ．９８４．２に基づくＧＰＯＮシステムにおいて，ＪＩＳ　Ｃ　５９５３－１に規定する環境カテゴリＣ又は環境カテゴリＵに設置する機器環境条件で使用する光トランシーバの性能標準について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.20
+    text: Fibre optic interconnecting devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5953

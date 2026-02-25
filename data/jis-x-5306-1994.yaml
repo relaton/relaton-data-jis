@@ -1,0 +1,84 @@
+---
+id: JISX53061994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: システム間の通信及び情報交換　―　ＯＳＩネットワーク層規格に関する管理情報要素
+- language: en
+  script: Latn
+  content: Information technology -- Telecommunications and information exchange between
+    systems -- Elements of management information related to OSI Network Layer standards
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5306%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05306_000_000_1994_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5306:1994
+  type: JIS
+  primary: true
+docnumber: X5306
+date:
+- type: issued
+  at: '1994-10-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＴＵ－Ｔ勧告及び国際規格で規定されたＯＳＩネットワーク層の動作に関係する開放型システム内の管理情報を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.30
+    text: Network layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5306

@@ -1,0 +1,96 @@
+---
+id: JISA55572020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 外装タイル張り用有機系接着剤
+- language: en
+  script: Latn
+  content: Organic adhesives for exterior tile finishing
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5557%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05557_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 5557:2020
+  type: JIS
+  primary: true
+docnumber: A5557
+date:
+- type: issued
+  at: '2020-03-23'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本接着剤工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本接着剤工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本接着剤工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 建築物の外壁面にセラミックタイルを施工する場合に使用する有機系接着剤について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '83.180'
+    text: Adhesives
+  - code: 91.100.23
+    text: Ceramic tiles
+  - code: 91.100.25
+    text: Terracotta building products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5557

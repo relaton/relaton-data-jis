@@ -1,0 +1,87 @@
+---
+id: JISE61012000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄道車両―直流主電動機―試験方法
+- language: en
+  script: Latn
+  content: Railway rolling stock -- DC traction motors -- Test methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+6101%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_06101_000_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS E 6101:2000
+  type: JIS
+  primary: true
+docnumber: E6101
+date:
+- type: issued
+  at: '2000-10-31'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道車輌工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道車輌工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄道車輌工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄道車両の直流又は脈流用主電動機の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.160.30
+    text: Motors
+  - code: '29.280'
+    text: Electric traction equipment
+  - code: 45.060.10
+    text: Tractive stock
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E6101

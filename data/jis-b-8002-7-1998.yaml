@@ -1,0 +1,76 @@
+---
+id: JISB800271998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 往復動内燃機関―性能―第７部：出力コード
+- language: en
+  script: Latn
+  content: 'Reciprocating internal combustion engines -- Performance -- Part 7: Codes
+    for engine power'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8002-7%3A1998
+docidentifier:
+- content: JIS B 8002-7:1998
+  type: JIS
+  primary: true
+docnumber: B8002
+date:
+- type: issued
+  at: '1998-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本内燃機関連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本内燃機関連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本内燃機関連合会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　８００２－１による往復動内燃機関の軸出力の呼び方の種類の表示を簡略にし，その情報を伝達する必要がある場合に使用する「出力コード」について規定。例えば，機関の銘板に表示する出力の呼び方に使用。航空機を駆動する機関を除いた，すべての機関に適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.020'
+    text: Internal combustion engines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8002

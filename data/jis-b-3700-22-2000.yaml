@@ -1,0 +1,87 @@
+---
+id: JISB3700222000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 産業オートメーションシステム及びその統合―製品データの表現及び交換―第２２部：実装法：標準データアクセスインタフェース
+- language: en
+  script: Latn
+  content: 'Industrial automation systems and integration -- Product data representation
+    and exchange -- Part 22: Implementation methods: Standard data access interface'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3700-22%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03700_022_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS B 3700-22:2000
+  type: JIS
+  primary: true
+docnumber: B3700
+date:
+- type: issued
+  at: '2001-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本情報経済社会推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本情報経済社会推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　日本情報経済社会推進協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: データアクセスインタフェースの機能的特性を規定。このインタフェースは，標準データアクセスインタフェース（ＳＤＡＩ）と呼ぶ。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B3700

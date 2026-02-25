@@ -1,0 +1,89 @@
+---
+id: JISC66102025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: フレキシブル導波管接続部かん合標準
+- language: en
+  script: Latn
+  content: Interfaces for flexible waveguides
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6610%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06610_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 6610:2025
+  type: JIS
+  primary: true
+docnumber: C6610
+date:
+- type: issued
+  at: '2025-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，通信機器，電子機器及び類似の機器において50 GHz～110 GHzのミリ波電波を伝送するためのフレキシブル導波管の接続に用いるかん合構造の寸法，電気的特性及び機械的特性について規定する。なお，この規格の要求事項を満たす場合は，誘電体導波路，従来の中空金属導波管などのフレキシブル導波管以外の導波管にも適用可能である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.220.10
+    text: Plug-and-socket devices. Connectors
+  - code: 33.120.10
+    text: Coaxial cables. Waveguides
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6610

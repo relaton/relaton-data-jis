@@ -1,0 +1,75 @@
+---
+id: JISM39041974
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: さく岩機チャックブッシング
+- language: en
+  script: Latn
+  content: Chack bushing for rock drill
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+3904%3A1974
+docidentifier:
+- content: JIS M 3904:1974
+  type: JIS
+  primary: true
+docnumber: M3904
+date:
+- type: issued
+  at: '1974-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本産業機械工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 打撃式さく岩機チャックブッシング及びチャックのロッドそう入孔の形状及び寸法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 73.100.30
+    text: Equipment for drilling and mine excavation
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M3904

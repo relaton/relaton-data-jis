@@ -1,0 +1,85 @@
+---
+id: JISB01062016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工作機械―部品及び工作方法―用語
+- language: en
+  script: Latn
+  content: Machine tools -- Parts and working methods -- Vocabulary
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0106%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00106_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 0106:2016
+  type: JIS
+  primary: true
+docnumber: B0106
+date:
+- type: issued
+  at: '2016-06-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本工作機械工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 工作機械の部品及び工作方法の用語並びにその定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.25
+    text: Manufacturing engineering (Vocabularies)
+  - code: 25.080.01
+    text: Machine tools in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0106

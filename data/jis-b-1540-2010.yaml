@@ -1,0 +1,88 @@
+---
+id: JISB15402010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 転がり軸受―調心座スラスト玉軸受及び調心座金付きスラスト玉軸受―主要寸法
+- language: en
+  script: Latn
+  content: Rolling bearings -- Aligning thrust ball bearings and aligning seat washers
+    -- Boundary dimensions
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1540%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01540_000_000_2010_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01540_000_000_2010_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 1540:2010
+  type: JIS
+  primary: true
+docnumber: B1540
+date:
+- type: issued
+  at: '2010-03-23'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ベアリング工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ベアリング工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ベアリング工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 単式調心座スラスト玉軸受，調心座金付き単式スラスト玉軸受，複式調心座スラスト玉軸受及び調心座金付き複式スラスト玉軸受の主要寸法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.100.20
+    text: Rolling bearings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1540

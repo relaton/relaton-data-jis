@@ -1,0 +1,89 @@
+---
+id: JISX02011997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ７ビット及び８ビットの情報交換用符号化文字集合
+- language: en
+  script: Latn
+  content: 7-bit and 8-bit coded character sets for information interchange
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0201%3A1997
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00201_000_000_1997_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 0201:1997
+  type: JIS
+  primary: true
+docnumber: X0201
+date:
+- type: issued
+  at: '1997-02-28'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ３種類の７ビット符号化文字集合及び１種類の８ビット符号化文字集合を規定。符号化文字集合は，データ処理システムと関連する装置との間及びデータ通信システム間での情報交換に使用することを目的とする。符号化文字集合は，ラテン文字及び／又は片仮名を含む。符号化文字集合では，ＪＩＳ　Ｘ　０２１１の制御機能が使用できる。制御機能を含むデータは，前進方向に順次処理するものと仮定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0201

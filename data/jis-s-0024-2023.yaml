@@ -1,0 +1,83 @@
+---
+id: JISS00242023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: アクセシブルデザイン―住宅設備機器
+- language: en
+  script: Latn
+  content: Accessible design -- Accessibility requirements for housing equipment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+0024%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_00024_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS S 0024:2023
+  type: JIS
+  primary: true
+docnumber: S0024
+date:
+- type: issued
+  at: '2023-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建材・住宅設備産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建材・住宅設備産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本建材・住宅設備産業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 高齢者及び障害のある人を含めた日常生活に何らかの不便さを感じている人々が快適に生活できるように，戸建て住宅及び集合住宅に設置する住宅設備機器の設計をする際の指針として留意すべき事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.120'
+    text: Domestic safety
+  - code: 91.040.30
+    text: Residential buildings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S0024

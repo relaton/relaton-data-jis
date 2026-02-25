@@ -1,0 +1,96 @@
+---
+id: JISB99222001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: クリーンベンチ
+- language: en
+  script: Latn
+  content: Clean work station
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9922%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09922_000_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS B 9922:2001
+  type: JIS
+  primary: true
+docnumber: B9922
+date:
+- type: issued
+  at: '2001-02-28'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本空気清浄協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本空気清浄協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本空気清浄協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 送風機及びＨＥＰＡフィルタ又はＵＬＰＡフィルタを内蔵し，作業空間を一定の空気清浄度に維持するクリーンベンチについて規定。作業空間が負圧となる構造のものには適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.30
+    text: Workplace atmospheres
+  - code: '23.120'
+    text: Ventilators. Fans. Air-conditioners
+  - code: 91.140.30
+    text: Ventilation and air-conditioning systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9922

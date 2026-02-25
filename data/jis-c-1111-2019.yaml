@@ -1,0 +1,93 @@
+---
+id: JISC11112019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 交流及び直流入力トランスデューサ
+- language: en
+  script: Latn
+  content: Electrical measuring transducers for converting a.c. and d.c. electrical
+    quantities to analogue or digital signals
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1111%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01111_000_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 1111:2019
+  type: JIS
+  primary: true
+docnumber: C1111
+date:
+- type: issued
+  at: '2019-12-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 交流又は直流の電気的量を測定するためのトランスデューサについて規定。次の［－　ＩＥＣ　６１８６９シリーズを適用する計器用変成器；－　ＩＥＣ　６０７７０シリーズを適用する工業プロセス用の伝送器；－　ＩＥＣ　６１５５７－１２を適用する測定及び監視装置（ＰＭＤ）］には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.200'
+    text: Rectifiers. Converters. Stabilized power supply
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1111

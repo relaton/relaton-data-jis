@@ -1,0 +1,82 @@
+---
+id: JISA14321995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 被覆材付き配管の熱的性能測定方法
+- language: en
+  script: Latn
+  content: Method of testing to determine the thermal properties of insulated heating
+    tubes (Hot water circulation procedure)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1432%3A1995
+docidentifier:
+- content: JIS A 1432:1995
+  type: JIS
+  primary: true
+docnumber: A1432
+date:
+- type: issued
+  at: '1995-02-28'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　建材試験センター
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 住宅などの暖房（冷房）又は給湯配管に用いられる工場で被覆材を取り付けた小口径管の流水試験方法による熱的性能について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.40
+    text: Piping and couplings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1432

@@ -1,0 +1,84 @@
+---
+id: JISX013362002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ソフトウェア製品の評価―第６部：評価モジュールの文書化
+- language: en
+  script: Latn
+  content: 'Software engineering -- Product evaluation -- Part 6: Documentation of
+    evaluation modules'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0133-6%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00133_006_000_2002_j_ed10_i4.pdf
+docidentifier:
+- content: JIS X 0133-6:2002
+  type: JIS
+  primary: true
+docnumber: X0133
+date:
+- type: issued
+  at: '2002-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 評価モジュールを記述するために使用する文書の構造及び内容を定義。評価モジュールは，ＪＩＳ　Ｘ　０１２９群及びＪＩＳ　Ｘ　０１３３群の規格とともに用いることを意図している。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0133

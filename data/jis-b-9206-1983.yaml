@@ -1,0 +1,83 @@
+---
+id: JISB92061983
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 歩行形トラクタの車輪取付部寸法
+- language: en
+  script: Latn
+  content: Wheel fixing dimensions for agricultural walking tractors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9206%3A1983
+docidentifier:
+- content: JIS B 9206:1983
+  type: JIS
+  primary: true
+docnumber: B9206
+date:
+- type: issued
+  at: '1984-01-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本農業機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本農業機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本農業機械工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 輪距調節可能の歩行形トラクタの車輪又はアタッチメントのハブ穴と，これを通貫する軸の主要寸法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 65.060.10
+    text: Agricultural tractors and trailed vehicles
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9206

@@ -1,0 +1,84 @@
+---
+id: JISC036477131999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築電気設備　第７部：特殊設備又は特殊場所に関する要求事項　第７１３節：家具
+- language: en
+  script: Latn
+  content: 'Electrical installations of buildings Part 7: Requirements for special
+    installations or locations Section 713: Furniture'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0364-7-713%3A1999
+docidentifier:
+- content: JIS C 0364-7-713:1999
+  type: JIS
+  primary: true
+docnumber: C0364
+date:
+- type: issued
+  at: '1999-06-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気設備学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気設備学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電気設備学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気設備に接続する家具（及びこれに類する備品）の配線設備に適用。例として，照明器具，コンセント，開閉器のような電気機器及び配線設備が施設されたベッド，食器棚，机及び商店の陳列棚である。建築物の電気設備と固定配線によって接続する家具に適用し，また，他のＩＥＣ規格の規定にあるものを除き，プラグ及びコンセントを使用して接続するプレハブ家具及び家具にも適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.140.50
+    text: Electricity supply systems
+  - code: '97.140'
+    text: Furniture
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0364

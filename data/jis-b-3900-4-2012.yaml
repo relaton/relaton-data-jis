@@ -1,0 +1,94 @@
+---
+id: JISB390042012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 産業オートメーションシステム及びその統合―製造用ソフトウェア相互運用のためのケイパビリティプロファイリング―第４部：適合性試験の方法，規範及び報告
+- language: en
+  script: Latn
+  content: 'Industrial automation systems and integration -- Manufacturing software
+    capability profiling for interoperability -- Part 4: Conformance test methods,
+    criteria and reports'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3900-4%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03900_004_000_2012_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 3900-4:2012
+  type: JIS
+  primary: true
+docnumber: B3900
+date:
+- type: issued
+  at: '2012-05-21'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　製造科学技術センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　製造科学技術センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　製造科学技術センター"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 製造用ソフトウェアのケイパビリティプロファイリングの適合性試験の方法，規範及び報告について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.01
+    text: Industrial automation systems in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B3900

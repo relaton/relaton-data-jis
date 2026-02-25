@@ -1,0 +1,92 @@
+---
+id: JISR61112020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 人造研削研磨材
+- language: en
+  script: Latn
+  content: Artificial abrasives
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+6111%3A2020
+docidentifier:
+- content: JIS R 6111:2020
+  type: JIS
+  primary: true
+docnumber: R6111
+date:
+- type: issued
+  at: '2020-12-21'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           研削砥石工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           研削砥石工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           研削砥石工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: といし，研磨布紙などの研削研磨材製品の原料及びその他の研削研磨加工に用いる人造研削研磨材の中で，材質がアルミナ質，アルミナジルコニア質及び炭化けい素質の人造研削研磨材について規定。ただし，超と粒（ダイヤモンド／CBN）及び天然研削研磨材（ガーネットなど）には，適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.100.70
+    text: Abrasives
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R6111

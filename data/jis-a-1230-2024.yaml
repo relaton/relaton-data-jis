@@ -1,0 +1,90 @@
+---
+id: JISA12302024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 動的コーン貫入試験方法
+- language: en
+  script: Latn
+  content: Method for dynamic cone penetration test
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1230%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01230_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 1230:2024
+  type: JIS
+  primary: true
+docnumber: A1230
+date:
+- type: issued
+  at: '2024-06-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　地盤工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　地盤工学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　地盤工学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: コーンを地盤内へ連続的に動的貫入させることによって，ハンマーの打撃回数Ｎｄを動的貫入抵抗として地盤の硬軟及び締まり具合を判定する方法について規定。コーンを打ち込むために，規定の質量及び落下高さをもつハンマーを使用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '93.020'
+    text: Earthworks. Excavations. Foundation construction. Underground works
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1230

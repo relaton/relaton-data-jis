@@ -1,0 +1,94 @@
+---
+id: JISB43552016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 歯車用ホブの精度
+- language: en
+  script: Latn
+  content: Gear hobs -- Accuracy requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+4355%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_04355_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 4355:2016
+  type: JIS
+  primary: true
+docnumber: B4355
+date:
+- type: issued
+  at: '2016-11-21'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本機械工具工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本機械工具工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本機械工具工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: モジュールｍが０．１～４０，基準圧力角αが２０°のインボリュート平歯車及びはすば歯車用の条数が１～７条，外径が２４～４００ｍｍ及び全長８～５１０ｍｍの歯車用ホブの精度及び試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '21.200'
+    text: Gears
+  - code: 25.100.99
+    text: Other cutting tools
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B4355

@@ -1,0 +1,84 @@
+---
+id: JISA149112025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築用断熱材の長期断熱性能の収束値評価方法－第１部：通則
+- language: en
+  script: Latn
+  content: 'Method for convergence value evaluating long-term thermal insulation performance
+    of building insulation materials-Part 1: General rules'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1491-1%3A2025
+docidentifier:
+- content: JIS A 1491-1:2025
+  type: JIS
+  primary: true
+docnumber: A1491
+date:
+- type: issued
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 断熱・保温規格協議会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 断熱・保温規格協議会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 断熱・保温規格協議会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，JIS A 9521及びJIS A 9523に適合する建築用断熱材の長期断熱性能に関する評価方法のうち，断熱性能の収束値による評価方法において一般的に要求される通則について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.220'
+    text: Heat recovery. Thermal insulation
+  - code: 91.100.60
+    text: Thermal and sound insulating materials
+  - code: 91.120.10
+    text: Thermal insulation of buildings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1491

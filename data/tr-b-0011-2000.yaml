@@ -1,0 +1,75 @@
+---
+id: TRB00112000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＣＮＣ用アプリケーションプログラミングインタフェース
+- language: en
+  script: Latn
+  content: CNC Application Programming Interface
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+B+0011%3A2000
+docidentifier:
+- content: TR B 0011:2000
+  type: JIS
+  primary: true
+docnumber: B0011
+date:
+- type: issued
+  at: '2000-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 工作機械を制御する装置（ＣＮＣ）における，制御機能と表示機能の間のインタフェース（ＡＰＩ）について規定。ＡＰＩは，ＣＮＣのインタフェースとしてシステム管理，マニュアル操作，プログラム実行処理などの主要な機能を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 25.080.01
+    text: Machine tools in general
+  - code: 35.240.50
+    text: IT applications in industry
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0011

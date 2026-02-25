@@ -1,0 +1,75 @@
+---
+id: JISB86181994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 別置き形水冷凝縮器
+- language: en
+  script: Latn
+  content: Water-cooled condensers, remote type
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8618%3A1994
+docidentifier:
+- content: JIS B 8618:1994
+  type: JIS
+  primary: true
+docnumber: B8618
+date:
+- type: issued
+  at: '1994-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本冷凍空調工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本冷凍空調工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本冷凍空調工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 単体で取引され，冷媒配管を現地で行う呼び冷凍能力が７６７Ｗ｛６６０ｋｃａｌ／ｈ｝以上，１１６２８Ｗ｛１００００ｋｃａｌ／ｈ｝未満の蒸気圧縮式冷凍装置の水冷凝縮器について規定。海水を冷却水として使用するものは除く。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.200'
+    text: Refrigerating technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8618

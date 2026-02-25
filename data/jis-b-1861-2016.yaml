@@ -1,0 +1,95 @@
+---
+id: JISB18612016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: Ｖベルト及びＶリブドベルト―軸間距離の変動の測定方法
+- language: en
+  script: Latn
+  content: V-belts and V-ribbed belts -- Test method for determination of centre distance
+    variation
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1861%3A2016
+docidentifier:
+- content: JIS B 1861:2016
+  type: JIS
+  primary: true
+docnumber: B1861
+date:
+- type: issued
+  at: '2016-10-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本ベルト工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本ベルト工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本ベルト工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｋ　６３２３に規定する一般用Ｖベルト，ＪＩＳ　Ｋ　６３６８に規定する細幅Ｖベルト，及びＪＩＳ　Ｂ　１８５８に規定するＶリブドベルトの軸間距離の変動の測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.01
+    text: Linear and angular measurements in general
+  - code: 21.220.10
+    text: Belt drives and their components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1861

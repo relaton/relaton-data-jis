@@ -1,0 +1,95 @@
+---
+id: JISC21362017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 過酷な環境条件下で用いる固体電気絶縁材料―耐トラッキング性及び耐浸食性試験方法
+- language: en
+  script: Latn
+  content: Electrical insulating materials used under severe ambient conditions --
+    Test methods for evaluating resistance to tracking and erosion
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2136%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02136_000_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 2136:2017
+  type: JIS
+  primary: true
+docnumber: C2136
+date:
+- type: issued
+  at: '2017-08-21'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 過酷な環境条件下で商用周波数（４５Ｈｚ～６５Ｈｚ）の電圧が加わる電気絶縁材料の耐トラッキング性及び耐浸食性を，汚損液及び傾斜平板試験片を用いて評価するための試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  - code: 29.035.01
+    text: Insulating materials in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2136

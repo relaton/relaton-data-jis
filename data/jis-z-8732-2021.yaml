@@ -1,0 +1,94 @@
+---
+id: JISZ87322021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 音響―音圧法による騒音源の音響パワーレベル及び音響エネルギーレベルの測定―無響室及び半無響室における精密測定方法
+- language: en
+  script: Latn
+  content: Acoustics -- Determination of sound power levels and sound energy levels
+    of noise sources using sound pressure -- Precision methods for anechoic rooms
+    and hemi-anechoic rooms
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8732%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08732_000_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8732:2021
+  type: JIS
+  primary: true
+docnumber: Z8732
+date:
+- type: issued
+  at: '2021-03-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本音響学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本音響学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本音響学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 自由音場の条件を満たす無響室又は半自由音場の条件を満たす半無響室を用いて，機械類，装置類などの騒音源が発生する１／３オクターブバンドの周波数帯域ごと及びＡ特性周波数重み付けをした音響パワーレベル及び音響エネルギーレベルの測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.140.01
+    text: Acoustic measurements and noise abatement in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8732

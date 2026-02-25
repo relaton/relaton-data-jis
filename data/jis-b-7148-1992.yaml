@@ -1,0 +1,75 @@
+---
+id: JISB71481992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 顕微鏡用接眼レンズ
+- language: en
+  script: Latn
+  content: Microscope eyepieces
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7148%3A1992
+docidentifier:
+- content: JIS B 7148:1992
+  type: JIS
+  primary: true
+docnumber: B7148
+date:
+- type: issued
+  at: '1992-02-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本顕微鏡工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本顕微鏡工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本顕微鏡工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 顕微鏡に使用する顕微鏡用接眼レンズについて規定。中形生物顕微鏡，小形生物顕微鏡，双眼実態顕微鏡の接眼レンズ及び特殊な構造のものには適用しない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '37.020'
+    text: Optical equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7148

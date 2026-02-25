@@ -1,0 +1,87 @@
+---
+id: JISB06622024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性仕様（ＧＰＳ）―測得
+- language: en
+  script: Latn
+  content: Geometrical product specifications (GPS) -- Extraction
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0662%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00662_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 0662:2024
+  type: JIS
+  primary: true
+docnumber: B0662
+date:
+- type: issued
+  at: '2024-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性仕様（ＧＰＳ）の測得における基本的な用語を規定。また，基本的な形状における主なサンプリングスキームの例を記載。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.01
+    text: Linear and angular measurements in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0662

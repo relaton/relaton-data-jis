@@ -1,0 +1,72 @@
+---
+id: JISC50311975
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子部品の気密性試験方法
+- language: en
+  script: Latn
+  content: Sealing testing methods for electronic components
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5031%3A1975
+docidentifier:
+- content: JIS C 5031:1975
+  type: JIS
+  primary: true
+docnumber: C5031
+date:
+- type: issued
+  at: '1983-06-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本電子機械工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子部品が要求されている密閉構造を満足しているかどうかを判定するための試験方法Ａ，Ｂ，Ｃについて規定。これらの試験は，密閉した箇所が動かない部分に限り適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5031

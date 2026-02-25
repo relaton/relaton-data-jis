@@ -1,0 +1,76 @@
+---
+id: JISF80032000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用電気照明器具構造通則　―　白熱電球用
+- language: en
+  script: Latn
+  content: Shipbuilding -- Incandescent lamps type electric lighting fittings -- General
+    requirements for construction
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8003%3A2000
+docidentifier:
+- content: JIS F 8003:2000
+  type: JIS
+  primary: true
+docnumber: F8003
+date:
+- type: issued
+  at: '2000-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　日本船舶標準協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　日本船舶標準協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 財団法人　日本船舶標準協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 船で使用する電圧２５０Ｖ以下の白熱電球を光源とする照明器具の構造の一般的要求事項について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.60
+    text: Electrical equipment of ships and  of marine structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F8003

@@ -1,0 +1,84 @@
+---
+id: JISK55382002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ラッカー系シンナー
+- language: en
+  script: Latn
+  content: Lacquer thinner
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5538%3A2002
+docidentifier:
+- content: JIS K 5538:2002
+  type: JIS
+  primary: true
+docnumber: K5538
+date:
+- type: issued
+  at: '2002-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本塗料工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本塗料工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本塗料工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ニトロセルロースラッカーの希釈などに使用するラッカーシンナー及び塗装時の白化防止の目的でラッカーシンナーに混合して用いるリターダーについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 87.060.30
+    text: Solvents
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K5538

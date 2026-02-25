@@ -1,0 +1,89 @@
+---
+id: JISD10432001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 二輪自動車―アンチロックブレーキシステム―試験方法
+- language: en
+  script: Latn
+  content: Two-wheeled motorcycles -- Antilock braking systems -- Tests and measurement
+    methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+1043%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01043_000_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS D 1043:2001
+  type: JIS
+  primary: true
+docnumber: D1043
+date:
+- type: issued
+  at: '2001-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　自動車技術会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 二輪自動車及び原動機付自転車に装備されるアンチロックブレーキ装置（ＡＢＳ）の試験方法について規定。連動ブレーキを装備した二輪車及び側車付き二輪車は除く。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.040.40
+    text: Braking systems
+  - code: '43.140'
+    text: Motorcycles and mopeds
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D1043

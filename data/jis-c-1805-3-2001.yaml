@@ -1,0 +1,93 @@
+---
+id: JISC180532001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プロセス計測制御機器―性能評価の一般的方法及び手順―第３部：影響量の効果に関する試験
+- language: en
+  script: Latn
+  content: 'Process measurement and control devices -- General methods and procedures
+    for evaluating performance -- Part 3: Tests for the effects of influence quantities'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1805-3%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01805_003_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS C 1805-3:2001
+  type: JIS
+  primary: true
+docnumber: C1805
+date:
+- type: issued
+  at: '2001-09-30'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: プロセス計測制御機器の機能及び性能に関する試験の実施と報告のための，一般的な方法と手順を規定。影響量の効果に関する試験を取扱う。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1805

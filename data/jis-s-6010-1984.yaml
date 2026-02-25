@@ -1,0 +1,74 @@
+---
+id: JISS60101984
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 炭酸カルシウム製白墨
+- language: en
+  script: Latn
+  content: White chalks made of calcium carbonate
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+6010%3A1984
+docidentifier:
+- content: JIS S 6010:1984
+  type: JIS
+  primary: true
+docnumber: S6010
+date:
+- type: issued
+  at: '1984-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本白墨工業組合
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本白墨工業組合
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本白墨工業組合
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 黒板などに使用する炭酸カルシウム製の白墨について規定。着色してあるものは，この規定によらないものとする。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.260.20
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S6010

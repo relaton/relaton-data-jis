@@ -1,0 +1,81 @@
+---
+id: JISC6140012025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 風力発電システム－第１部：設計要件
+- language: en
+  script: Latn
+  content: 'Wind energy generation systems-Part 1: Design requirements'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61400-1%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61400_001_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61400-1:2025
+  type: JIS
+  primary: true
+docnumber: C61400
+date:
+- type: issued
+  at: '2025-09-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，風車の技術的な健全性を確保するために不可欠な設計要件について規定する。その目的は，設計寿命を通じて生じる全ての危険要因による損傷に対して，適切なレベルの保護措置を講じることである。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.180'
+    text: Wind turbine energy systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61400

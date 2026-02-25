@@ -1,0 +1,84 @@
+---
+id: JISC036477152002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築電気設備―第７－７１５部：特殊設備又は特殊場所に関する要求事項―特別低電圧照明設備
+- language: en
+  script: Latn
+  content: 'Electrical installations of buildings -- Part 7-715: Requirements for
+    special installations or locations -- Extra-low-voltage lighting installations'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0364-7-715%3A2002
+docidentifier:
+- content: JIS C 0364-7-715:2002
+  type: JIS
+  primary: true
+docnumber: C0364
+date:
+- type: issued
+  at: '2002-03-31'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気設備学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気設備学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電気設備学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 定格電圧が交流５０Ｖ以下又は直流１２０Ｖ以下の電源から供給する特別低電圧照明設備に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.140.40
+    text: Luminaires
+  - code: 91.160.01
+    text: Lighting in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0364

@@ -1,0 +1,74 @@
+---
+id: TRC00242002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電磁両立性　第２部：環境　第４節：産業プラントにおける低周波伝導性妨害に対する両立性レベル
+- language: en
+  script: Latn
+  content: 'Electromagnetic compatibility (EMC) Part 2: Environment -- Section 4:
+    Compatibility levels in industrial plants for low-frequency conducted disturbances'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0024%3A2002
+docidentifier:
+- content: TR C 0024:2002
+  type: JIS
+  primary: true
+docnumber: C0024
+date:
+- type: issued
+  at: '2002-11-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 産業用及び自家用電力系統のための電磁両立性レベルを規定。これらのレベルは，通常の運転条件において電源に生じる妨害波に関連するものである。５０／６０Ｈｚの低圧と中圧の交流電源に適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 33.100.01
+    text: Electromagnetic compatibility in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0024

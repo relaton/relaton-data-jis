@@ -1,0 +1,92 @@
+---
+id: JISC09222002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気機械器具の外郭による人体及び内部機器の保護―検査プローブ
+- language: en
+  script: Latn
+  content: Protection of persons and equipment by enclosures for electrical apparatus
+    -- Probes for verification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0922%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00922_000_000_2002_j_ed10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00922_000_000_2002_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 0922:2002
+  type: JIS
+  primary: true
+docnumber: C0922
+date:
+- type: issued
+  at: '2002-03-31'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気機械器具の外郭内部の危険な箇所への接近に対する人体の保護；外部から侵入する固形物に対する外郭内部の機器の保護に関する外郭（ｅｎｃｌｏｕｓｒｅ）による保護を検証するための，検査プローブの詳細及び寸法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.180'
+    text: Ergonomics
+  - code: '13.260'
+    text: Protection against electric shock.  Live working
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0922

@@ -1,0 +1,87 @@
+---
+id: JISC92501992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子レンジ
+- language: en
+  script: Latn
+  content: Microwave ovens
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9250%3A1992
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09250_000_000_1992_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09250_000_000_1992_e_pr10_i4.pdf
+docidentifier:
+- content: JIS C 9250:1992
+  type: JIS
+  primary: true
+docnumber: C9250
+date:
+- type: issued
+  at: '1992-07-31'
+- type: confirmed
+  at: '2002-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 周波数が２４５０ＭＨｚ帯の電磁波によって食品の加熱を行う定格高周波出力２ｋＷ以下の電子レンジ及びそれに付加装置をもつ電子レンジについて規定。ガスその他の熱源を併用する複合形のものは，適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.040.20
+    text: Cooking ranges, working tables, ovens and similar appliances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9250

@@ -1,0 +1,83 @@
+---
+id: JISC89532006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 結晶系太陽電池アレイ出力のオンサイト測定方法
+- language: en
+  script: Latn
+  content: On-site measurements of crystalline photovoltaic array I-V characteristics
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8953%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08953_000_000_2006_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8953:2006
+  type: JIS
+  primary: true
+docnumber: C8953
+date:
+- type: issued
+  at: '2006-02-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 同一形式の結晶系シリコン太陽電池モジュールで構成され，すべてのモジュールが同一方位・同一傾斜角の太陽電池アレイのオンサイトにおける電流－電圧特性（Ｉ－Ｖ特性）の測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8953

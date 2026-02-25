@@ -1,0 +1,79 @@
+---
+id: JISZ84481977
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: キロジュール毎キログラム毎ケルビンとカロリー毎グラム毎度との換算表
+- language: en
+  script: Latn
+  content: Calorie per gramme degree celsius-kilojoule per kilogramme kelvin conversion
+    tables
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8448%3A1977
+docidentifier:
+- content: JIS Z 8448:1977
+  type: JIS
+  primary: true
+docnumber: Z8448
+date:
+- type: issued
+  at: '1977-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般に用いるキロジュール毎キログラム毎ケルビン〔ｋＪ／（ｋｇ・Ｋ）〕とカロリー毎グラム毎度〔ｃａｌ／（ｇ・℃）〕との換算表について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8448

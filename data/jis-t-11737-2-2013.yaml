@@ -1,0 +1,96 @@
+---
+id: JIST1173722013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療機器の滅菌―微生物学的方法―第２部：滅菌プロセスの定義，バリデーション及び維持において実施する無菌性の試験
+- language: en
+  script: Latn
+  content: 'Sterilization of medical devices -- Microbiological methods -- Part 2:
+    Tests of sterility performed in the definition, validation and maintenance of
+    a sterilization process'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+11737-2%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_11737_002_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 11737-2:2013
+  type: JIS
+  primary: true
+docnumber: T11737
+date:
+- type: issued
+  at: '2013-03-01'
+- type: confirmed
+  at: '2023-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本医療機器学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本医療機器学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 日常の滅菌処理において用いられる処理と比較して，低減した処理による滅菌剤へのばく（曝）露を行った医療機器の無菌性の試験の一般的な基準について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 07.100.10
+    text: Medical microbiology
+  - code: 11.080.01
+    text: Sterilization and disinfection in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T11737

@@ -1,0 +1,90 @@
+---
+id: JISX630532012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 識別カードの試験方法―第３部：外部端子付きＩＣカード及び接続装置
+- language: en
+  script: Latn
+  content: 'Identification cards -- Test methods -- Part 3: Integrated circuit cards
+    with contacts and related interface devices'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6305-3%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06305_003_000_2012_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 6305-3:2012
+  type: JIS
+  primary: true
+docnumber: X6305
+date:
+- type: issued
+  at: '2012-10-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
+        \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
+        \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
+          \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｘ　６３２０規格群の規定に従い，外部端子付きＩＣカード及び関連した接続装置の特性の試験方法を定義。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.15
+    text: Identification cards. Chip cards. Biometrics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6305

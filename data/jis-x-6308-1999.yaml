@@ -1,0 +1,84 @@
+---
+id: JISX63081999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 外部端子付きＩＣカード　―　第５部：アプリケーション識別子のための付番システム及び登録手続
+- language: en
+  script: Latn
+  content: 'Identification cards -- Integrated circuit(s) cards with contacts -- Part
+    5: Numbering system and registration procedure for application identifiers'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6308%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06308_000_000_1999_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 6308:1999
+  type: JIS
+  primary: true
+docnumber: X6308
+date:
+- type: issued
+  at: '1999-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 外部端子付きＩＣカードのアプリケーション識別子の付番システム及びアプリケーション提供者識別子の登録手続について規定。付番システムは，与えられたカードがアプリケーション，又はそれに関連したサービスが必要とする要素を含む場合，カード提供者によって行われたそれらの識別のための手段を提供。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.15
+    text: Identification cards. Chip cards. Biometrics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6308

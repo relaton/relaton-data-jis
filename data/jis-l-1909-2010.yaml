@@ -1,0 +1,100 @@
+---
+id: JISL19092010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 繊維製品の寸法変化測定方法
+- language: en
+  script: Latn
+  content: Textiles -- Determination of dimensional change
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+L+1909%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_l_01909_000_000_2010_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_l_01909_000_000_2010_e_ed10_i4.pdf
+docidentifier:
+- content: JIS L 1909:2010
+  type: JIS
+  primary: true
+docnumber: L1909
+date:
+- type: issued
+  at: '2010-06-21'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　繊維評価技術協議会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　繊維評価技術協議会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　繊維評価技術協議会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 繊維製品の洗濯，ドライクリーニング，浸せき，乾燥，仕上げ処理などによる寸法変化の測定方法について規定。ただし，生地及び床敷物は除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 59.080.01
+    text: Textiles in general
+  - code: 59.080.30
+    text: Textile fabrics
+  - code: '61.020'
+    text: Clothes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: L1909

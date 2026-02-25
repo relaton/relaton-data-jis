@@ -1,0 +1,85 @@
+---
+id: JISB650831999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 木材加工機械―丸のこ盤―第３部：走行丸のこ盤の名称及び検査方法
+- language: en
+  script: Latn
+  content: 'Woodworking machines -- Circular sawing machines -- Part 3: Nomenclature
+    and acceptance conditions of single blade stroke circular sawing machines for
+    lengthwise cutting of solid woods and panels'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6508-3%3A1999
+docidentifier:
+- content: JIS B 6508-3:1999
+  type: JIS
+  primary: true
+docnumber: B6508
+date:
+- type: issued
+  at: '1999-07-31'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本木工機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本木工機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本木工機械工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 走行丸のこ盤の各部の名称を規定。ＪＩＳ　Ｂ　６１９１に基づいた走行丸のこ盤の静的精度検査及び工作精度検査を規定。これらに対応する一般用途で適用する許容値について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.79
+    text: Wood technology (Vocabularies)
+  - code: 79.120.10
+    text: Woodworking machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6508

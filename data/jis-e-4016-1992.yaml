@@ -1,0 +1,88 @@
+---
+id: JISE40161992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄道車両の照度―基準及び測定方法
+- language: en
+  script: Latn
+  content: Illuminance for railway rolling stock -- Recommended levels and measuring
+    methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+4016%3A1992
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_04016_000_000_1992_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_04016_000_000_1992_e_ed10_i4.pdf
+docidentifier:
+- content: JIS E 4016:1992
+  type: JIS
+  primary: true
+docnumber: E4016
+date:
+- type: issued
+  at: '1992-04-30'
+- type: confirmed
+  at: '2008-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道車輌工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道車輌工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄道車輌工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄道車両において，人工照明によって乗客，乗務員などの良好な車内環境及び安全を確保するために必要な照度の基準及びその測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 45.060.01
+    text: Railway rolling stock in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E4016

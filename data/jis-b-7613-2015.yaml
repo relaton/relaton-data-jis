@@ -1,0 +1,91 @@
+---
+id: JISB76132015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用はかり―一般用体重計，乳幼児用体重計及び調理用はかり
+- language: en
+  script: Latn
+  content: Household scales -- Bathroom scales, baby scales and cooking scales
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7613%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07613_000_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7613:2015
+  type: JIS
+  primary: true
+docnumber: B7613
+date:
+- type: issued
+  at: '2015-08-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 主として家庭で使用される一般用体重計，乳幼児用体重計及び調理用はかりであって，目量が１０ｍｇ以上かつ目盛標識の数が１００以上のひょう量が２０ｋｇを超え，２００ｋｇ以下の一般用体重計；ひょう量が２０ｋｇ以下の乳幼児用体重計；ひょう量が３ｋｇ以下の調理用はかりのはかりについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.100'
+    text: Measurement of force, weight and pressure
+  - code: '97.180'
+    text: Miscellaneous domestic and commercial equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7613

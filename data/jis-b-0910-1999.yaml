@@ -1,0 +1,88 @@
+---
+id: JISB09101999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 非往復動機械の機械振動―回転軸における測定及び評価基準―一般的指針
+- language: en
+  script: Latn
+  content: Mechanical vibration of non-reciprocating machines -- Measurements on rotating
+    shafts and evaluation criteria -- General guidelines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0910%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00910_000_000_1999_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00910_000_000_1999_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 0910:1999
+  type: JIS
+  primary: true
+docnumber: B0910
+date:
+- type: issued
+  at: '1999-04-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械学会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 回転軸のａ）振動挙動の変化，ｂ）過大な動荷重，及びｃ）半径方向すきまの監視を直接測定することによって，軸振動を把握するための機械振動の測定と評価基準の一般的指針について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.160'
+    text: Vibrations, shock and vibration measurements
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0910

@@ -1,0 +1,93 @@
+---
+id: JISX92512021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術―セキュリティ技術―プライバシー影響評価のためのガイドライン
+- language: en
+  script: Latn
+  content: Information technology -- Security techniques -- Guidelines for privacy
+    impact assessment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9251%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09251_000_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 9251:2021
+  type: JIS
+  primary: true
+docnumber: X9251
+date:
+- type: issued
+  at: '2021-01-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本情報経済社会推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本情報経済社会推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　日本情報経済社会推進協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "次の事項に関するガイドラインを示す。－\tプライバシー影響評価のプロセス－\tPIA報告書の構成及び内容これは，公開企業，非公開企業，政府機関及び非営利団体を含む，あらゆる種類及び規模の組織に適用することができる。PIIを処理するデータ処理システム及びサービスを運営する当事者を含む，プロジェクトの設計又は実装に関わる者に関係する。"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.030'
+    text: IT Security
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X9251

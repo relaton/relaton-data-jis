@@ -1,0 +1,83 @@
+---
+id: JIST149712020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療機器―リスクマネジメントの医療機器への適用
+- language: en
+  script: Latn
+  content: Medical devices -- Application of risk management to medical devices
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+14971%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_14971_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 14971:2020
+  type: JIS
+  primary: true
+docnumber: T14971
+date:
+- type: issued
+  at: '2020-10-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本医療機器産業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本医療機器産業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本医療機器産業連合会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 医療機器としてのソフトウェア及び体外診断用医療機器を含む医療機器のリスクマネジメントの用語，原則及びプロセスについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.01
+    text: Medical equipment in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T14971

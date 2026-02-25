@@ -1,0 +1,89 @@
+---
+id: JISQ140012015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境マネジメントシステム―要求事項及び利用の手引
+- language: en
+  script: Latn
+  content: Environmental management systems -- Requirements with guidance for use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+14001%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_14001_000_000_2015_j_ed20_ch.pdf
+docidentifier:
+- content: JIS Q 14001:2015
+  type: JIS
+  primary: true
+docnumber: Q14001
+date:
+- type: issued
+  at: '2015-11-20'
+- type: confirmed
+  at: '2020-06-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 組織が環境パフォーマンスを向上させるために用いることができる環境マネジメントシステムの要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.020.10
+    text: Environmental management
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q14001

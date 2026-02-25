@@ -1,0 +1,90 @@
+---
+id: JISC99102011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気・電子製品の環境配慮設計
+- language: en
+  script: Latn
+  content: Environmentally conscious design for electrical and electronic products
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9910%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09910_000_000_2011_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09910_000_000_2011_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 9910:2011
+  type: JIS
+  primary: true
+docnumber: C9910
+date:
+- type: issued
+  at: '2011-03-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気・電子製品及びそれらの組合せ並びにそれらを構成する材料及び部品の設計及び開発プロセスに，環境側面を導入するための要求事項及びその手順を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.020'
+    text: Environmental protection
+  - code: 43.040.10
+    text: Electrical and electronic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9910

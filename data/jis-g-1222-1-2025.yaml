@@ -1,0 +1,82 @@
+---
+id: JISG122212025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄及び鋼－コバルト定量方法－第１部：１-ニトロソ-２-ナフトール沈殿分離四酸化三コバルト重量法
+- language: en
+  script: Latn
+  content: 'Iron and steel-Determination of cobalt-Part 1: Tricobalt tetraoxide gravimetric
+    method after precipitation separation of 1-nitroso-2-naphthol complex'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+1222-1%3A2025
+docidentifier:
+- content: JIS G 1222-1:2025
+  type: JIS
+  primary: true
+docnumber: G1222
+date:
+- type: issued
+  at: '2025-12-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，鉄及び鋼中のコバルト定量方法のうち，1-ニトロソ-2-ナフトール沈殿分離四酸化三コバルト重量法について規定する。
+    この方法は，コバルト含有率（質量分率）0.5 %以上20 %以下の定量に適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.080.01
+    text: Ferrous metals in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G1222

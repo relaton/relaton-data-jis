@@ -1,0 +1,92 @@
+---
+id: JISA95232023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 吹込み用繊維質断熱材
+- language: en
+  script: Latn
+  content: Loose fill thermal insulation materials
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+9523%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_09523_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 9523:2023
+  type: JIS
+  primary: true
+docnumber: A9523
+date:
+- type: issued
+  at: '2023-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本保温保冷工業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本保温保冷工業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本保温保冷工業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 主に建築物の小屋裏などに断熱を目的として現場施工する吹込み用繊維質断熱材について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.60
+    text: Thermal and sound insulating materials
+  - code: 91.120.10
+    text: Thermal insulation of buildings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A9523

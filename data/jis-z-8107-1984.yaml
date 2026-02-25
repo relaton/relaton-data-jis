@@ -1,0 +1,77 @@
+---
+id: JISZ81071984
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 音響用語（機器）
+- language: en
+  script: Latn
+  content: Glossary of acoustical terms (transducers and instruments)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8107%3A1984
+docidentifier:
+- content: JIS Z 8107:1984
+  type: JIS
+  primary: true
+docnumber: Z8107
+date:
+- type: issued
+  at: '1984-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本音響学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本音響学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本音響学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 音響機器に関する用語とその意味について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.17
+    text: Metrology and measurement. Physical phenomena (Vocabularies)
+  - code: 17.140.01
+    text: Acoustic measurements and noise abatement in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8107

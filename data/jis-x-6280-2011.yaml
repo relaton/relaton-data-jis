@@ -1,0 +1,78 @@
+---
+id: JISX62802011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報交換用１３０ｍｍ／９．１ＧＢ光ディスクカートリッジ
+- language: en
+  script: Latn
+  content: 'Information technology -- Data interchange on 130 mm magneto-optical disk
+    cartridges -- Capacity: 9.1 Gbytes per cartridge'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6280%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06280_000_000_2011_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 6280:2011
+  type: JIS
+  primary: true
+docnumber: X6280
+date:
+- type: issued
+  at: '2011-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　光産業技術振興協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 熱磁気効果及び光磁気効果を使用した，カートリッジ当たり９．１ギガバイト（ＧＢ）の容量をもつ１３０ｍｍ光ディスクカートリッジの機械的特性，物理的特性及び光学的特性について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.220.30
+    text: Optical storage devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6280

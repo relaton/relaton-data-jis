@@ -1,0 +1,79 @@
+---
+id: JISB741112014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 一般用ガラス製温度計―第１部：一般計量器
+- language: en
+  script: Latn
+  content: 'Glass thermometers for general -- Part 1: General measuring instruments'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7411-1%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07411_001_000_2014_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07411_001_000_2014_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 7411-1:2014
+  type: JIS
+  primary: true
+docnumber: B7411
+date:
+- type: issued
+  at: '2014-03-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本計量機器工業連合会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 目盛範囲が－１００℃～＋５００℃の棒状又は二重管の液体封入ガラス製温度計で，かつ，棒状については全浸没用又は部分浸没用，二重管については全浸没用に目盛られた一般用の温度計について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.200.20
+    text: Temperature-measuring instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7411

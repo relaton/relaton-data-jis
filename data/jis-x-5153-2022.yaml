@@ -1,0 +1,92 @@
+---
+id: JISX51532022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 平衡配線設備―エンド　ツーエンドリンク，モジュラプラグ終端リンク及びダイレクトアタッチ配線設備の測定
+- language: en
+  script: Latn
+  content: 'Information technology -- Implementation and operation of customer premises
+    cabling -- Part 4: Measurement of end-to-end (E2E) links, modular plug terminated
+    links (MPTLs) and direct attach cabling'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5153%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05153_000_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 5153:2022
+  type: JIS
+  primary: true
+docnumber: X5153
+date:
+- type: issued
+  at: '2022-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 次（ークラスＤ，クラスＥ及びクラスＥＡのエンド　ツーエンド（Ｅ２Ｅ）リンク；ークラスＤ，クラスＥ，クラスＥＡ，クラスＦ，クラスＦＡ，クラスＩ及びクラスＩＩのモジュラプラグ終端リンク（ＭＰＴＬ）；ークラスＤ，クラスＥ，クラスＥＡ，クラスＦ，クラス不ＦＡ，クラスＩ及びクラスＩＩのダイレクトアタッチ配線設備）の２対平衡配線設備及び４対平衡配線設備の測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.200'
+    text: Interface and interconnection equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5153

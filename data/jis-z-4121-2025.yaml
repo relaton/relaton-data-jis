@@ -1,0 +1,91 @@
+---
+id: JISZ41212025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 線質等価ろ過及び固有ろ過の測定
+- language: en
+  script: Latn
+  content: Determination of quality equivalent filtration and permanent filtration
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4121%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04121_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 4121:2025
+  type: JIS
+  primary: true
+docnumber: Z4121
+date:
+- type: issued
+  at: '2025-02-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本画像医療システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本画像医療システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本画像医療システム工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，管電圧150 kVまでの医療診断に用いるX線管装置の固有ろ過及びろ過物質並びに放射線治療に用いるX線管装置の固有ろ過の測定方法について規定する。医療診断に用いるX線管装置の管電圧が50
+    kV以上の場合は，X線管装置のターゲット材質がタングステン又はタングステン合金にだけ適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.50
+    text: Radiographic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4121

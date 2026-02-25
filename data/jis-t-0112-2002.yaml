@@ -1,0 +1,87 @@
+---
+id: JIST01122002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 義足―こ（股）継手の構造強度試験
+- language: en
+  script: Latn
+  content: Prostheses -- Structural testing of hip units
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0112%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00112_000_000_2002_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00112_000_000_2002_e_ed10_i4.pdf
+docidentifier:
+- content: JIS T 0112:2002
+  type: JIS
+  primary: true
+docnumber: T0112
+date:
+- type: issued
+  at: '2002-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本義肢装具学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本義肢装具学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本義肢装具学会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: こ（股）離断義足の部品単体及び組立品の試験方法について規定。ＪＩＳ　Ｔ　０１１１シリーズに規定する義足部品には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.40
+    text: Implants for surgery, prosthetics and orthotics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T0112

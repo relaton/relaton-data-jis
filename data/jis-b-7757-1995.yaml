@@ -1,0 +1,85 @@
+---
+id: JISB77571995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 強制循環式空気加熱老化試験機
+- language: en
+  script: Latn
+  content: Forced air circulation oven type thermal accelerated aging testers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7757%3A1995
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07757_000_000_1995_e_pr10_i4.pdf
+docidentifier:
+- content: JIS B 7757:1995
+  type: JIS
+  primary: true
+docnumber: B7757
+date:
+- type: issued
+  at: '1995-12-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "日本試験機工業会                                                \r\n                                                                                            一般社団法人　日本試験機工業会"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "日本試験機工業会                                                \r\n                                                                                            一般社団法人　日本試験機工業会"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "日本試験機工業会                                                \r\n                                                                                            一般社団法人　日本試験機工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 高分子系材料の加圧空気による耐熱老化性を評価するために用いる，試験槽の容積が０．６＊３以下の強制循環式空気加熱老化試験機について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.100'
+    text: Non-destructive testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7757

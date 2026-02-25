@@ -1,0 +1,94 @@
+---
+id: JISZ91272020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: スポーツ照明基準
+- language: en
+  script: Latn
+  content: Recommendation for sports lighting
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9127%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09127_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 9127:2020
+  type: JIS
+  primary: true
+docnumber: Z9127
+date:
+- type: issued
+  at: '2020-11-20'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　照明学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　照明学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　照明学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 運動競技者，審判員などの運動競技関係者，観客，テレビジョン放送関係者などが，安全，円滑及び快適に，運動競技を行い，それを観戦し，又は撮影するために必要な照明要件について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.160.01
+    text: Lighting in general
+  - code: 97.220.10
+    text: Sports facilities
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9127

@@ -1,0 +1,96 @@
+---
+id: JISB35012004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プログラマブルコントローラ―一般情報
+- language: en
+  script: Latn
+  content: 'Programmable controllers -- Part 1: General information'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3501%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03501_000_000_2004_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 3501:2004
+  type: JIS
+  primary: true
+docnumber: B3501
+date:
+- type: issued
+  at: '2004-06-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: プログラマブルコントローラ（Ｐｒｏｇｒａｍｍａｂｌｅ　ｃｏｎｔｒｏｌｌｅｒｓ　略称ＰＬＣ）及び関連周辺装置であるプログラミングツール（Ｐｒｏｇｒａｍｍｉｎｇ　ａｎｄ　ｄｅｂｕｇｇｉｎｇ　ｔｏｏｌｓ，略称ＰＡＤＴ），ヒューマンマシンインタフェース（Ｈｕｍａｎ－ｍａｃｈｉｎｅ　ｉｎｔｅｒｆａｃｅｓ，略称ＨＭＩ）などに適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  - code: 35.240.50
+    text: IT applications in industry
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B3501

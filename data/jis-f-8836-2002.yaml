@@ -1,0 +1,83 @@
+---
+id: JISF88362002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船用防水形プラグ及びソケットアウトレット通則
+- language: en
+  script: Latn
+  content: Shipbuilding -- General requirements for watertight type plugs and socket-outlets
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+8836%3A2002
+docidentifier:
+- content: JIS F 8836:2002
+  type: JIS
+  primary: true
+docnumber: F8836
+date:
+- type: issued
+  at: '2002-05-31'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船内の公称電圧６９０Ｖ以下，周波数５０Ｈｚ又は６０Ｈｚの交流回路及び公称電圧２２０Ｖ以下の直流回路に使用する定格電流２５０Ａ以下の防水形プラグ及び防水形ソケットアウトレットの一般的要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.30
+    text: Plugs, socket-outlets, couplers
+  - code: 47.020.60
+    text: Electrical equipment of ships and  of marine structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F8836

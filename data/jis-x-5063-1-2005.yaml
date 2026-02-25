@@ -1,0 +1,90 @@
+---
+id: JISX506312005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: タイムスタンピングサービス－第１部：枠組み
+- language: en
+  script: Latn
+  content: 'Information technology -- Security techniques -- Time-stamping services
+    -- Part 1: Framework'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5063-1%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05063_001_000_2005_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 5063-1:2005
+  type: JIS
+  primary: true
+docnumber: X5063
+date:
+- type: issued
+  at: '2005-01-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 次のことを規定。タイムスタンピング機関の目的を明確にする；タイムスタンピングサービスが基礎とする一般モデルを記述する；タイムスタンピングサービスを定義する；タイムスタンピングの基本プロトコルを定義する；関連するエンティティ間のプロトコルを規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5063

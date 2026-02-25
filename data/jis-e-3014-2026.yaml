@@ -1,0 +1,90 @@
+---
+id: JISE30142026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄道信号保安部品－振動試験方法
+- language: en
+  script: Latn
+  content: Parts of railway signalling-Vibration test methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+3014%3A2026
+docidentifier:
+- content: JIS E 3014:2026
+  type: JIS
+  primary: true
+docnumber: E3014
+date:
+- type: issued
+  at: '2026-02-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道電気技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道電気技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本鉄道電気技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，振動試験機によって行う鉄道信号保安部品の振動試験方法架・操作卓，レールなどに取り付ける機器及び部品を対象とする。ただし，車両に搭載する信号保安部品には，適用しない。
+    この規格は，鉄道車両の走行によって発生する振動に対する鉄道信号保安部品の機能及び耐久性を調べる際に適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '45.080'
+    text: Rails and railway components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E3014

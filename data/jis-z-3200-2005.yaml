@@ -1,0 +1,86 @@
+---
+id: JISZ32002005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 溶接材料―寸法，許容差，製品の状態，表示及び包装
+- language: en
+  script: Latn
+  content: Welding consumables -- Technical delivery conditions for welding filler
+    materials -- Type of product, dimensions, tolerances and markings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3200%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03200_000_000_2005_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 3200:2005
+  type: JIS
+  primary: true
+docnumber: Z3200
+date:
+- type: issued
+  at: '2005-03-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本溶接協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本溶接協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 溶接方法に使用する溶接材料の寸法及び許容差，並びに製品の状態，表示及び包装について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.20
+    text: Welding consumables
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z3200

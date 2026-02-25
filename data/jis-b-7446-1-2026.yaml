@@ -1,0 +1,90 @@
+---
+id: JISB744612026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 産業用ロボットを用いた非接触座標測定システム－受入検査－第１部：置換測定法
+- language: en
+  script: Latn
+  content: 'Optical coordinate measuring system using industrial robot-Acceptance
+    tests-Part 1: Substitution measurement'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7446-1%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07446_001_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7446-1:2026
+  type: JIS
+  primary: true
+docnumber: B7446
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，校正された基準器を参照する置換測定法を用いた非接触座標測定システムの性能が，製造業者の指定する仕様に適合するかどうかを検証するための受入検査について規定する。
+    この規格は，産業用ロボットに光学式距離センサを取り付けた非接触座標測定システムに，置換測定法を用いる場合に適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.30
+    text: Industrial robots. Manipulators
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7446

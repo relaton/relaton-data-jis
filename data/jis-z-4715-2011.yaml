@@ -1,0 +1,87 @@
+---
+id: JISZ47152011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医用電気機器―放射線治療計画システムの安全要求事項
+- language: en
+  script: Latn
+  content: Medical electrical equipment -- Requirements for the safety of radiotherapy
+    treatment planning systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4715%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04715_000_000_2011_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 4715:2011
+  type: JIS
+  primary: true
+docnumber: Z4715
+date:
+- type: issued
+  at: '2011-08-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本画像医療システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本画像医療システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本画像医療システム工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 製造業者及び販売業者が，人への医療行為における放射線治療計画作成に使用する；操作者が入力する，又は直接他の装置からデータを取り込む；データを再評価できるように印刷形式で出力する又は他の装置へ直接出力する；さらに；正常な使用のため，適切な資格をもつ者又は有資格者の監督の下で，訓練を受け必要な技能を修得した操作者によって使用する；取扱説明書の記載内容に従って保守する；技術仕様書に指定している環境条件及び電源条件で使用すること；を意図されたもの；のようなＲＴＰＳの設計，製造及び据付け業務を行うときに，適合させなければならない安全要求事項について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.60
+    text: Therapy equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4715

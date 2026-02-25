@@ -1,0 +1,77 @@
+---
+id: JISK24101988
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 芳香族製品及びタール製品用語
+- language: en
+  script: Latn
+  content: Glossary of terms used in aromatic hydrocarbons and tar products
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2410%3A1988
+docidentifier:
+- content: JIS K 2410:1988
+  type: JIS
+  primary: true
+docnumber: K2410
+date:
+- type: issued
+  at: '1988-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本芳香族工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本芳香族工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本芳香族工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 香族及びタール工業において用いる用語と，その読み方及び意味について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.75
+    text: Petroleum and related technologies (Vocabularies)
+  - code: '75.140'
+    text: Waxes, bituminous materials and other petroleum products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K2410

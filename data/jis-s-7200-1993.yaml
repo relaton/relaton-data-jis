@@ -1,0 +1,81 @@
+---
+id: JISS72001993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 歩数計
+- language: en
+  script: Latn
+  content: Pedometer
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+7200%3A1993
+docidentifier:
+- content: JIS S 7200:1993
+  type: JIS
+  primary: true
+docnumber: S7200
+date:
+- type: issued
+  at: '1993-11-30'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 独立行政法人　製品評価技術基盤機構
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 独立行政法人　製品評価技術基盤機構
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 独立行政法人　製品評価技術基盤機構
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 歩行時に身体に取り付け，上下運動の衝撃を感知し，歩数を表す歩数計について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.220.01
+    text: Sports equipment and facilities in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S7200

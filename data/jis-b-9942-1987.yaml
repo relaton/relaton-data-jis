@@ -1,0 +1,83 @@
+---
+id: JISB99421987
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 清澄ろ過装置の試験方法
+- language: en
+  script: Latn
+  content: Testing methods of filtration equipments for clarifying
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9942%3A1987
+docidentifier:
+- content: JIS B 9942:1987
+  type: JIS
+  primary: true
+docnumber: B9942
+date:
+- type: issued
+  at: '1987-08-31'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本産業機械工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 廃水処理の工程から発生する比較的濃度の懸濁物質を除去して，清澄液を得る清澄ろ過装置の使用状態における試験項目及び試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.30
+    text: Sewage water
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9942

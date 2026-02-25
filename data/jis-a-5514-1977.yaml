@@ -1,0 +1,75 @@
+---
+id: JISA55141977
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 衛生陶器附属金具
+- language: en
+  script: Latn
+  content: Fittings for sanitary wares
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5514%3A1977
+docidentifier:
+- content: JIS A 5514:1977
+  type: JIS
+  primary: true
+docnumber: A5514
+date:
+- type: issued
+  at: '1977-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本衛生設備機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本衛生設備機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本衛生設備機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ａ　５２０７に規定する陶器の洗浄口及び排水口に取り付ける金具について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.140.70
+    text: Sanitary installations
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5514

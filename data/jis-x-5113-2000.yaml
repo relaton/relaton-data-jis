@@ -1,0 +1,85 @@
+---
+id: JISX51132000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＩＳＤＮ一次群アクセスインタフェースの参照点Ｓ及び参照点Ｔにおけるインタフェースコネクタ及びコンタクト配列
+- language: en
+  script: Latn
+  content: Information technology -- Telecommunications and information exchange between
+    systems -- Interface connector and contact assignments for ISDN primary rate access
+    connector located at reference points S and T
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5113%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05113_000_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5113:2000
+  type: JIS
+  primary: true
+docnumber: X5113
+date:
+- type: issued
+  at: '2000-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＴＵ－Ｔ勧告Ｉ．４３１に適合したサービス統合ディジタル網（ＩＳＤＮ）　―　次群アクセス構成の物理的インタフェースに用いる８極コネクタ（プラグ及びジャック）並びに極及びコンタクトの配列について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.10
+    text: Physical layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5113

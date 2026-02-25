@@ -1,0 +1,96 @@
+---
+id: JIST92522007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用段差解消機
+- language: en
+  script: Latn
+  content: Lifting platforms and wheelchair lifting tables for home use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9252%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09252_000_000_2007_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 9252:2007
+  type: JIS
+  primary: true
+docnumber: T9252
+date:
+- type: issued
+  at: '2007-04-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 車いすを用いている人，自力で段差を昇降することが困難な人などが，主に住宅の屋内，屋外で用いる垂直昇降式で，昇降行程が２ｍ以下，最大積載量が２５０ｋｇ未満の家庭用段差解消機について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.180.10
+    text: Aids and adaptation for moving
+  - code: 91.140.90
+    text: Lifts. Escalators
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9252

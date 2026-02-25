@@ -1,0 +1,81 @@
+---
+id: JIST81431994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: レーザ保護フィルタ及びレーザ保護めがね
+- language: en
+  script: Latn
+  content: Filters and eye-protectors against laser radiation
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8143%3A1994
+docidentifier:
+- content: JIS T 8143:1994
+  type: JIS
+  primary: true
+docnumber: T8143
+date:
+- type: issued
+  at: '1994-06-30'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本保安用品協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 波長１８０ｍｍから１ｍｍまでのレーザ放射に対して，作業者の目を保護するために使用するレーザ保護フィルタ及びレーザ保護めがねについて規定。医用のものは除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '31.260'
+    text: Optoelectronics. Laser equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T8143

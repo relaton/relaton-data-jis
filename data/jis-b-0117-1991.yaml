@@ -1,0 +1,81 @@
+---
+id: JISB01171991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 事務機械用語
+- language: en
+  script: Latn
+  content: Office machines -- Nomenclature
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0117%3A1991
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00117_000_000_1991_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00117_000_000_1991_e_pr10_i4.pdf
+docidentifier:
+- content: JIS B 0117:1991
+  type: JIS
+  primary: true
+docnumber: B0117
+date:
+- type: issued
+  at: '1991-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般に用いる事務機械の名称について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.35
+    text: Information technology (Vocabularies)
+  - code: '35.260'
+    text: Office machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0117

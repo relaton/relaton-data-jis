@@ -1,0 +1,78 @@
+---
+id: JISX69342002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術―事務機器―複写生産性を測定する方法
+- language: en
+  script: Latn
+  content: Information technology -- Office equipment -- Method for measuring copying
+    machine productivity
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6934%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06934_000_000_2002_j_ed11_i4.pdf
+docidentifier:
+- content: JIS X 6934:2002
+  type: JIS
+  primary: true
+docnumber: X6934
+date:
+- type: issued
+  at: '2002-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ビジネス機械・情報システム産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　ビジネス機械・情報システム産業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 複写機の実際の出力速度，すなわち，“生産性”を測定する方法を規定。原稿自動送り機能を装備する普通紙複写機に適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 37.100.10
+    text: Reproduction equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6934

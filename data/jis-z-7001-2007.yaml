@@ -1,0 +1,95 @@
+---
+id: JISZ70012007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プラスチック―環境側面―規格への一般導入指針
+- language: en
+  script: Latn
+  content: Plastics -- Environmental aspects -- General guidelines for their inclusion
+    in standards
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+7001%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_07001_000_000_2007_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 7001:2007
+  type: JIS
+  primary: true
+docnumber: Z7001
+date:
+- type: issued
+  at: '2007-03-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本プラスチック工業連盟"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: プラスチック製品の規格における環境側面の導入についての指針を示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.020.01
+    text: Environment and environmental protection in general
+  - code: 83.080.01
+    text: Plastics in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z7001

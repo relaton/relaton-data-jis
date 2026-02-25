@@ -1,0 +1,73 @@
+---
+id: TRX00432001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＳＧＭＬ利用技術　―　数学用及び科学用の公開実体集合
+- language: en
+  script: Latn
+  content: Techniques for using SGML -- Public entity sets for mathematics and science
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0043%3A2001
+docidentifier:
+- content: TR X 0043:2001
+  type: JIS
+  primary: true
+docnumber: X0043
+date:
+- type: issued
+  at: '2001-07-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: テキスト出版には何万もの図形文字が使われている。標準的な符号化表現が存在しても，キーボードで直接入力できなかったり，文字を望ましい形状で表示できない場合がある。これらの障害を克服してＳＧＭＬ文書の交換を可能にするために，広く使われている特定名図形文字の幾つかに関する文字実体集合を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0043

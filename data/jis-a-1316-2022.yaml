@@ -1,0 +1,91 @@
+---
+id: JISA13162022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: コーンカロリーメーターによる建築材料の発熱速度及び煙生成速度を測定する試験方法
+- language: en
+  script: Latn
+  content: Test method using cone calorimeter measuring heat release rate and smoke
+    production rate for building materials
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1316%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01316_000_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 1316:2022
+  type: JIS
+  primary: true
+docnumber: A1316
+date:
+- type: issued
+  at: '2022-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建築材料協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建築材料協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本建築材料協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 点火装置が備わっており制御されたレベルの放射照度で水平な設置面を暴露する試験体の発熱速度及び煙生成速度を評価する方法について規定。発熱速度は，燃焼生成物の流量及び酸素濃度から得られる酸素消費量を測定することによって求める。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.220.50
+    text: Fire-resistance of building materials and elements
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1316

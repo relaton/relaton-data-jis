@@ -1,0 +1,76 @@
+---
+id: TRD000232001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＩＴＳ参照アーキテクチャ　―　第３部：ＩＴＳ規格におけるアーキテクチャ記述要件
+- language: en
+  script: Latn
+  content: 'ITS Reference model architecture -- Part 3: Requirements for architecture
+    description in ITS standards'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+D+0002-3%3A2001
+docidentifier:
+- content: TR D 0002-3:2001
+  type: JIS
+  primary: true
+docnumber: D0002
+date:
+- type: issued
+  at: '2001-12-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＴＳアーキテクチャは，ＩＴＳを実配備するための枠組みであり，ＩＴＳの主要な要素及びそれら要素間の連携関係を高い抽象レベルで記述。ＩＴＳアーキテクチャは，インタフェース，仕様，及びＩＴＳシステムの詳細設計を定義するときの基盤となる中核的な枠組みを提供。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 03.220.01
+    text: Transport in general
+  - code: 35.240.60
+    text: IT applications in transport
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0002

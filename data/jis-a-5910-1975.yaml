@@ -1,0 +1,84 @@
+---
+id: JISA59101975
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 外装用化粧硬質繊維板
+- language: en
+  script: Latn
+  content: Dressed hard fibreboard for exterior use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5910%3A1975
+docidentifier:
+- content: JIS A 5910:1975
+  type: JIS
+  primary: true
+docnumber: A5910
+date:
+- type: issued
+  at: '1975-03-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本繊維板工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本繊維板工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本繊維板工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 表面平滑又は表面型押しした硬質繊維板に塗装，印刷並びにみぞなどの機械加工をした建築物の外装として用いられる化粧硬質繊維板について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '91.100'
+    text: Construction materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5910

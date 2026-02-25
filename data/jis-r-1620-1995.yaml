@@ -1,0 +1,83 @@
+---
+id: JISR16201995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ファインセラミックス粉末の粒子密度測定方法
+- language: en
+  script: Latn
+  content: Testing methods for particle density of fine ceramic powder
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+1620%3A1995
+docidentifier:
+- content: JIS R 1620:1995
+  type: JIS
+  primary: true
+docnumber: R1620
+date:
+- type: issued
+  at: '1995-07-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ファインセラミックス協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ファインセラミックス協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ファインセラミックス協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ファインセラミックス粉末の粒子密度を，ピクノメータ，懸ちょう法及び気体置換法によって測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 81.060.10
+    text: Raw materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R1620

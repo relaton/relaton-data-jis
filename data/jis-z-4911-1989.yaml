@@ -1,0 +1,75 @@
+---
+id: JISZ49111989
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: Ｘ線蛍光板の寸法及び形状
+- language: en
+  script: Latn
+  content: Dimensions and form for X-ray fluorescent screen
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4911%3A1989
+docidentifier:
+- content: JIS Z 4911:1989
+  type: JIS
+  primary: true
+docnumber: Z4911
+date:
+- type: issued
+  at: '1990-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本放射線機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本放射線機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本放射線機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: Ｘ線蛍光板の寸法及び形状について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.50
+    text: Radiographic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4911

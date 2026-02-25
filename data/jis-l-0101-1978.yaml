@@ -1,0 +1,86 @@
+---
+id: JISL01011978
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: テックス方式
+- language: en
+  script: Latn
+  content: Tex system to designate linear density of fibres, yarn intermediates, yarns
+    and other textile materials
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+L+0101%3A1978
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_l_00101_000_000_1978_e_pr10_i4.pdf
+docidentifier:
+- content: JIS L 0101:1978
+  type: JIS
+  primary: true
+docnumber: L0101
+date:
+- type: issued
+  at: '1978-06-30'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本化学繊維協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本化学繊維協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本化学繊維協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 単繊維，糸，ロープ，コード，スレッド及びこれらの中間製品（スライバー，ロービング，トップなど）のテックス方式による繊度又は番手について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 59.060.01
+    text: Textile fibres in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: L0101

@@ -1,0 +1,93 @@
+---
+id: JISZ43462017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: Ｘ・γ線用受動形環境モニタリング用線量計測装置
+- language: en
+  script: Latn
+  content: Passive integrating dosimetry systems for environmental monitoring of photon
+    radiation
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4346%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04346_000_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 4346:2017
+  type: JIS
+  primary: true
+docnumber: Z4346
+date:
+- type: issued
+  at: '2017-11-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ３０ｋｅＶ～３ＭｅＶのＸ・γ線による空気吸収線量又は空気カーマの測定に用いる，受動形環境モニタリング用線量計測装置について適用。また，Ｘ・γ線は，その散乱線を含む。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.280'
+    text: Radiation protection
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4346

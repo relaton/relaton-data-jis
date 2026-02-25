@@ -1,0 +1,91 @@
+---
+id: JISB00251998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製図―幾何公差表示方式―位置度公差方式
+- language: en
+  script: Latn
+  content: Technical drawings -- Geometrical tolerancing -- Positional tolerancing
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0025%3A1998
+docidentifier:
+- content: JIS B 0025:1998
+  type: JIS
+  primary: true
+docnumber: B0025
+date:
+- type: issued
+  at: '1998-03-31'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 規則正しい形状をもつ形体及び不規則な形状をもつ形体の位置を決めるための位置度公差表示方式の原則について規定。穴，ボルト，植込みボルト又はピン，平行側面をもつ溝，キー及びキー溝などような規則正しい形状をもつ形体の場合だけについて示す。位置度公差方式は，点，直線又は平面に適用。線が直線ではない場合，及び面が平面ではない場合には，輪郭度公差方式を用いる。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.100.01
+    text: Technical drawings in general
+  - code: 17.040.10
+    text: Limits and fits
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0025

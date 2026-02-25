@@ -1,0 +1,92 @@
+---
+id: JIST92652025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 福祉用具－歩行補助具－歩行車
+- language: en
+  script: Latn
+  content: Assistive products for walking-Rollators and walking tables
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9265%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09265_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 9265:2025
+  type: JIS
+  primary: true
+docnumber: T9265
+date:
+- type: issued
+  at: '2025-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，フレームの下端に車輪をもつ3本以上の脚を備えた，両上肢又は上部体幹で身体を支え操作する歩行補助具について規定する。前後の車軸間の距離が250 mm未満のものは除く。
+    なお，体重又は力をかけるとロックする圧力ブレーキをもつ車輪は，車輪とみなさない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.180.10
+    text: Aids and adaptation for moving
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9265

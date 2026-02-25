@@ -1,0 +1,94 @@
+---
+id: JISC051132021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機能安全―プロセス産業分野の安全計装システム―第３部：要求安全度水準の決定のための指針
+- language: en
+  script: Latn
+  content: 'Functional safety -- Safety instrumented systems for the process industry
+    sector -- Part 3: Guidance for the determination of the required safety integrity
+    levels'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0511-3%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00511_003_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 0511-3:2021
+  type: JIS
+  primary: true
+docnumber: C0511
+date:
+- type: issued
+  at: '2021-03-22'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，次［－　リスクの根本的な概念及びリスクの安全度との関係性（Ａ.４参照）；－　許容リスクの決定（附属書Ｋ参照）；－\t安全計装機能（ＳＩＦ）について安全度水準（ＳＩＬ）を決定する様々な方法（附属書Ｂ～附属書Ｋ参照）；－　要求されるリスク軽減を達成できるかの評価計算において，多重安全システムが与える影響（附属書Ｊ参照）］の指針を示す。"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.01
+    text: Industrial automation systems in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0511

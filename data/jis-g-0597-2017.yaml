@@ -1,0 +1,88 @@
+---
+id: JISG05972017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 絶対湿度一定下におけるステンレス鋼の乾湿繰返し促進腐食試験方法
+- language: en
+  script: Latn
+  content: Accelerated cyclic corrosion tests with dry and wet conditions at constant
+    absolute humidity for stainless steels
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0597%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00597_000_000_2017_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00597_000_000_2017_e_ed10_i4.pdf
+docidentifier:
+- content: JIS G 0597:2017
+  type: JIS
+  primary: true
+docnumber: G0597
+date:
+- type: issued
+  at: '2017-11-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: ステンレス協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: ステンレス協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: ステンレス協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 大気環境におけるステンレス鋼の腐食挙動を評価する促進腐食試験方法について規定。腐食試験で使用する装置も規定。この腐食試験には，塩分付着条件，及び絶対湿度一定下における乾燥・湿潤条件を含む。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '77.060'
+    text: Corrosion of metals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G0597

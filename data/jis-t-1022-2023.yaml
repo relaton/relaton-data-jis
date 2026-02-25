@@ -1,0 +1,95 @@
+---
+id: JIST10222023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 病院電気設備の安全基準
+- language: en
+  script: Latn
+  content: Safety requirements of electrical installations for medically used rooms
+    in hospitals and clinics
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1022%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_01022_000_000_2023_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_01022_000_000_2023_e_ed10_ch.pdf
+docidentifier:
+- content: JIS T 1022:2023
+  type: JIS
+  primary: true
+docnumber: T1022
+date:
+- type: issued
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気設備学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気設備学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気設備学会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 医用電気機器などの使用上の安全確保を目的とし，病院，診療所などの医用室に設ける電気設備のうちの，接地，非常電源及び電源回路に対する施設方法，検査方法及び保守方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '11.140'
+    text: Hospital equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T1022

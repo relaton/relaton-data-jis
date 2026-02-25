@@ -1,0 +1,93 @@
+---
+id: JISB633612018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: マシニングセンタ―試験条件―第１部：水平主軸をもつ機械の幾何精度（水平Ｚ軸）
+- language: en
+  script: Latn
+  content: 'Test conditions for machining centres -- Part 1: Geometric tests for machines
+    with horizontal spindle (horizontal Z-axis)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6336-1%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06336_001_000_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 6336-1:2018
+  type: JIS
+  primary: true
+docnumber: B6336
+date:
+- type: issued
+  at: '2018-08-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本工作機械工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　６１９０－１に基づき，水平主軸（水平Ｚ軸）をもつマシニングセンタ（又はこの規格が適用できる他の数値制御工作機械）の幾何精度試験について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.10
+    text: Machining centres
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6336

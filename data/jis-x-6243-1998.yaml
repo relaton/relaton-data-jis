@@ -1,0 +1,77 @@
+---
+id: JISX62431998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: １２０　ｍｍ　ＤＶＤ―書換形ディスク（ＤＶＤ－ＲＡＭ）
+- language: en
+  script: Latn
+  content: 120 mm DVD Rewritable Disk (DVD-RAM)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6243%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06243_000_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 6243:1998
+  type: JIS
+  primary: true
+docnumber: X6243
+date:
+- type: issued
+  at: '1998-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　光産業技術振興協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: １２０　ｍｍ　ＤＶＤ　―　書換形ディスクの互換性を可能にする機械的特性，物理的特性及び光学的特性を規定。情報交換を可能にする記録した信号の品質，データのフォーマット及び記録方法について規定。ディスクは，１２０　ｍｍ　ＤＶＤ－ＲＡＭディスクと称する。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.220.30
+    text: Optical storage devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6243

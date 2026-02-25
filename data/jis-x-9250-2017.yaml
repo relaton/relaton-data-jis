@@ -1,0 +1,92 @@
+---
+id: JISX92502017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術―セキュリティ技術―プライバシーフレームワーク（プライバシー保護の枠組み及び原則）
+- language: en
+  script: Latn
+  content: Information technology -- Security techniques -- Privacy framework
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9250%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09250_000_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 9250:2017
+  type: JIS
+  primary: true
+docnumber: X9250
+date:
+- type: issued
+  at: '2017-06-20'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本情報経済社会推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本情報経済社会推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　日本情報経済社会推進協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 一つのプライバシーフレームワークを提供。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.030'
+    text: IT Security
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X9250

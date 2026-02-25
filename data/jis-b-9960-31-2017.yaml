@@ -1,0 +1,86 @@
+---
+id: JISB9960312017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械類の安全性―機械の電気装置―第３１部：縫製機械，縫製ユニット及び縫製システムの安全性並びにＥＭＣに対する個別要求事項
+- language: en
+  script: Latn
+  content: 'Safety of machinery -- Electrical equipment of machines -- Part 31: Particular
+    safety and EMC requirements for sewing machines, units and systems'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9960-31%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09960_031_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 9960-31:2017
+  type: JIS
+  primary: true
+docnumber: B9960
+date:
+- type: issued
+  at: '2017-11-25'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械工業連合会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 特に縫製産業用に設計された縫製機械，縫製ユニット及び縫製システムの電気装置又は電子装置に適用。交流１　０００Ｖ又は直流１　５００Ｖを超えない公称電源電圧で，２００Ｈｚを超えない公称周波数で使用する電気装置及び電気装置の部分に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: '61.080'
+    text: Sewing machines and other equipment for the clothing industry
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9960

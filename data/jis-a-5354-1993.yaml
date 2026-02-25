@@ -1,0 +1,78 @@
+---
+id: JISA53541993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: コンクリート矢板
+- language: en
+  script: Latn
+  content: Concrete sheet piles
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5354%3A1993
+docidentifier:
+- content: JIS A 5354:1993
+  type: JIS
+  primary: true
+docnumber: A5354
+date:
+- type: issued
+  at: '1993-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般社団法人　プレストレスト・コンクリート建設業協会                                                \r\n
+        \                                                                                           日本コンクリート矢板工業会"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般社団法人　プレストレスト・コンクリート建設業協会                                                \r\n
+        \                                                                                           日本コンクリート矢板工業会"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般社団法人　プレストレスト・コンクリート建設業協会                                                \r\n
+          \                                                                                           日本コンクリート矢板工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 加圧成形によって製造したコンクリートの圧縮強度が６００ｋｇｆ／ｃｍ×２｛５８．９Ｎ／ｍｍ×２｝（平成７年４月１日からは５８．９Ｎ／ｍｍ×２）以上の加圧コンクリート矢板及びプレテンション方式によって製造したコンクリートの圧縮強度が７００ｋｇｆ／ｃｍ×２｛６８．７Ｎ／ｍｍ×２｝（平成７年４月１日からは６８．７ｎ／ｍｍ×２｝以上のプレストレストコンクリート矢板について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.30
+    text: Concrete and concrete products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5354

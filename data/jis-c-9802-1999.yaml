@@ -1,0 +1,84 @@
+---
+id: JISC98021999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用電気掃除機の性能測定方法
+- language: en
+  script: Latn
+  content: Methods of measurement of performance of vacuum cleaners for household
+    and similar use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9802%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09802_000_000_1999_j_pr10_i4.pdf
+docidentifier:
+- content: JIS C 9802:1999
+  type: JIS
+  primary: true
+docnumber: C9802
+date:
+- type: issued
+  at: '1999-11-30'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 家庭用電気掃除機及び同種の用途に用いられる機器に適用。ユーザに関心がある電気掃除機の主要性能・特性を明示及び定義し，それらを測定する標準試験方法を示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '97.080'
+    text: Cleaning appliances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9802

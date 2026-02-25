@@ -1,0 +1,82 @@
+---
+id: JISR16522003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: セラミックススラリーの回転粘度計による粘度測定方法
+- language: en
+  script: Latn
+  content: Method for measurement of viscosity with a rotational viscometer of ceramics
+    slurry
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+1652%3A2003
+docidentifier:
+- content: JIS R 1652:2003
+  type: JIS
+  primary: true
+docnumber: R1652
+date:
+- type: issued
+  at: '2003-05-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ファインセラミックス協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ファインセラミックス協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ファインセラミックス協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 共通－二軸円筒形回転粘度計，円すい－平板形回転粘度計及びブルックフィールド形単一円筒回転粘度計を用いて，常温でのセラミックス粉体分散スラリーの粘度を測定する方法を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 81.060.10
+    text: Raw materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R1652

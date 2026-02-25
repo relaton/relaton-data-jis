@@ -1,0 +1,81 @@
+---
+id: TSX72542006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＯＷＬウェブオントロジ言語―意味論及び抽象構文
+- language: en
+  script: Latn
+  content: OWL Web Ontology Language -- Semantics and Abstract Syntax
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+X+7254%3A2006
+docidentifier:
+- content: TS X 7254:2006
+  type: JIS
+  primary: true
+docnumber: X7254
+date:
+- type: issued
+  at: '2006-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: Ｗ３Ｃのウェブオントロジ作業グループが設計したウェブオントロジ言語ＯＷＬについて，ＯＷＬの下位言語であるＯＷＬ　ＤＬ及びＯＷＬ　Ｌｉｔｅの両方に関する高水準の抽象構文を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X7254

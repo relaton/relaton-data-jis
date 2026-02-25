@@ -1,0 +1,90 @@
+---
+id: JISB83222024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 両吸込渦巻ポンプ
+- language: en
+  script: Latn
+  content: Double suction volute pumps
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8322%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08322_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8322:2024
+  type: JIS
+  primary: true
+docnumber: B8322
+date:
+- type: issued
+  at: '2024-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本産業機械工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 共通ベース上で，５０　Ｈｚ又は６０　Ｈｚの４極，６極又は８極三相誘導電動機をたわみ軸継手によって直結し，０　℃～４０　℃の清水を取り扱う両吸込横軸形単段で最高使用圧力１．４　ＭＰａまでで使用するフランジの呼び径で表す吸込口径が２００　ｍｍ～５００　ｍｍの一般用両吸込渦巻ポンプについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.080'
+    text: Pumps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8322

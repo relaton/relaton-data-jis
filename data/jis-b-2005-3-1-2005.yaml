@@ -1,0 +1,87 @@
+---
+id: JISB2005312005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工業プロセス用調節弁―第３部：寸法―第１節：フランジ形二方ストレート形グローブ調節弁の面間寸法及びアングル形グローブ調節弁の中心―面間寸法
+- language: en
+  script: Latn
+  content: 'Industrial-process control valves -- Part 3-1: Dimensions -- Face-to-face
+    dimensions for flanged, two-way, globe-type, straight pattern and centre-to-face
+    dimensions for flanged, two-way, globe-type, angle pattern control valves'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2005-3-1%3A2005
+docidentifier:
+- content: JIS B 2005-3-1:2005
+  type: JIS
+  primary: true
+docnumber: B2005
+date:
+- type: issued
+  at: '2005-03-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本バルブ工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本バルブ工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本バルブ工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: フランジ形ニ方ストレート形グローブ調節弁及びフランジ形ニ方アングル形グローブ調節弁の呼び径並びに定格圧力に対応する面間寸法（ＦＴＦ）及び中心－面間寸法（ＣＴＦ）について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.060'
+    text: Valves
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B2005

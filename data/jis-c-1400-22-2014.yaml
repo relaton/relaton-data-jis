@@ -1,0 +1,83 @@
+---
+id: JISC1400222014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 風車―第２２部：風車の適合性試験及び認証
+- language: en
+  script: Latn
+  content: 'Wind turbines -- Part 22: Conformity testing and certification'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1400-22%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01400_022_000_2014_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 1400-22:2014
+  type: JIS
+  primary: true
+docnumber: C1400
+date:
+- type: issued
+  at: '2014-08-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 陸上及び洋上に設置する風車の型式認証及びプロジェクト認証などから成る，風車の認証システムの規則及び手順を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.180'
+    text: Wind turbine energy systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1400

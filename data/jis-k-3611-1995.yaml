@@ -1,0 +1,91 @@
+---
+id: JISK36111995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 生体工学用語（生体システム部門）
+- language: en
+  script: Latn
+  content: Technical terms for biological engineering (biosystem)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+3611%3A1995
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_03611_000_000_1995_j_pr10_i4.pdf
+docidentifier:
+- content: JIS K 3611:1995
+  type: JIS
+  primary: true
+docnumber: K3611
+date:
+- type: issued
+  at: '1995-01-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 生体工学分野で用いる用語のうち，生体材料工学，生体機械工学及び生体計測工学部門で用いる用語について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.07
+    text: Natural and applied sciences (Vocabularies)
+  - code: '07.080'
+    text: Biology. Botany. Zoology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K3611

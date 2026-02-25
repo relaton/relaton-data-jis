@@ -1,0 +1,94 @@
+---
+id: JISB43542013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 歯車用ホブ―第１部：むくホブの形状・寸法
+- language: en
+  script: Latn
+  content: 'Gear hobs -- Part 1: Dimensions of solid hobs'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+4354%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_04354_000_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 4354:2013
+  type: JIS
+  primary: true
+docnumber: B4354
+date:
+- type: issued
+  at: '2013-11-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本機械工具工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本機械工具工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本機械工具工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: モジュールｍが０．１～４０ｍｍ，基準圧力角α（ＰＡ）が２０°の，インボリュート平歯車及びはすば歯車の歯切りに用いる歯車用ホブについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '21.200'
+    text: Gears
+  - code: 25.100.99
+    text: Other cutting tools
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B4354

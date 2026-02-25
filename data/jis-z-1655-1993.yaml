@@ -1,0 +1,81 @@
+---
+id: JISZ16551993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プラスチック製通い容器
+- language: en
+  script: Latn
+  content: Plastic returnable containers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1655%3A1993
+docidentifier:
+- content: JIS Z 1655:1993
+  type: JIS
+  primary: true
+docnumber: Z1655
+date:
+- type: issued
+  at: '1993-09-30'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　東日本プラスチック製品工業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　東日本プラスチック製品工業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　東日本プラスチック製品工業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 輸送・運搬・保管に，繰り返し使用することを目的としたプラスチック製通い容器（断熱材入り・中仕切り付き及びふた付きのものを除く。）について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 55.180.10
+    text: General purpose containers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z1655

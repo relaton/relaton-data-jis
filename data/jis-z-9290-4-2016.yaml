@@ -1,0 +1,95 @@
+---
+id: JISZ929042016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 雷保護―第４部：建築物等内の電気及び電子システム
+- language: en
+  script: Latn
+  content: 'Protection against lightning -- Part 4: Electrical and electronic systems
+    within structures'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9290-4%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09290_004_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 9290-4:2016
+  type: JIS
+  primary: true
+docnumber: Z9290
+date:
+- type: issued
+  at: '2016-09-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気設備学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気設備学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気設備学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 雷電磁インパルス（ＬＥＭＰ）による恒久的故障の発生を低減するため，建築物等内の電気及び電子システムの保護対策の設計，施工，検査，保守及び試験について規定。内部システムの機能不全を引き起こす雷による電磁妨害に対する保護には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: 91.120.40
+    text: Lightning protection
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9290

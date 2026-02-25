@@ -1,0 +1,94 @@
+---
+id: JISB18112023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 伝動用ローラチェーン及びリーフチェーンの疲労試験方法
+- language: en
+  script: Latn
+  content: Fatigue test method for transmission precision roller chains and leaf chains
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1811%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01811_000_000_2023_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01811_000_000_2023_e_ed10_ch.pdf
+docidentifier:
+- content: JIS B 1811:2023
+  type: JIS
+  primary: true
+docnumber: B1811
+date:
+- type: issued
+  at: '2023-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本チエーン工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本チエーン工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本チエーン工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 伝動用ローラチェーン及びリーフチェーンの疲労試験方法について規定。この規格の試験は，室温で実施しチェーンの長手方向に張力を負荷して部分片振り引張りで行う。また，試験結果の統計的解析の手順を指定するとともに，疲労試験結果及び解析結果を提示するための形式及び要点を規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.220.30
+    text: Chain drives and their components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1811

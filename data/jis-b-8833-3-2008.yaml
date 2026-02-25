@@ -1,0 +1,91 @@
+---
+id: JISB883332008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: クレーン―荷重及び荷重の組合せに関する設計原則―第３部：タワークレーン
+- language: en
+  script: Latn
+  content: 'Cranes -- Design principles for loads and load combinations -- Part 3:
+    Tower cranes'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8833-3%3A2008
+docidentifier:
+- content: JIS B 8833-3:2008
+  type: JIS
+  primary: true
+docnumber: B8833
+date:
+- type: issued
+  at: '2008-04-01'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本クレーン協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本クレーン協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本クレーン協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 第１部に規定した一般設計原則に加えて，ＪＩＳ　Ｂ　０１４６－１で規定するタワークレーンの，限界状態設計法に基づく荷重の組合せ及び諸係数の値について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 53.020.20
+    text: Cranes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8833

@@ -1,0 +1,96 @@
+---
+id: JISS20292002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プラスチック製食器類
+- language: en
+  script: Latn
+  content: Plastics Table Wares
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2029%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02029_000_000_2002_e_ed10_i4.pdf
+docidentifier:
+- content: JIS S 2029:2002
+  type: JIS
+  primary: true
+docnumber: S2029
+date:
+- type: issued
+  at: '2002-03-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　化学研究評価機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　化学研究評価機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　化学研究評価機構"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: プラスチック製食器類について規定。一時的に使用されるものは除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.140.99
+    text: Other rubber and plastics products
+  - code: 97.040.60
+    text: Cookware, cutlery and flatware
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S2029

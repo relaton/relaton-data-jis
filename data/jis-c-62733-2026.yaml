@@ -1,0 +1,93 @@
+---
+id: JISC627332026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気光源用電子制御装置に組み込まれるプログラム可能な部品－一般要求事項及び安全要求事項
+- language: en
+  script: Latn
+  content: Programmable components in electronic controlgear for electric light sources-General
+    and safety requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+62733%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_62733_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 62733:2026
+  type: JIS
+  primary: true
+docnumber: C62733
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本照明工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，JIS C 8147規格群を対象とする製品に使用されるプログラム可能な部品に対する一般要求事項及び安全要求事項を規定する。
+    この規格の要求事項は，電気光源用電子制御装置内のプログラム可能な部品（組込みソフトウェアを含む。）だけに適用する。電気光源用電子制御装置内のその他の電気・電子回路及びその構成部品については，JIS C 8147規格群の要求事項を適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.140.99
+    text: Other standards related to lamps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C62733

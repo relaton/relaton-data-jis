@@ -1,0 +1,76 @@
+---
+id: JISC870421999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 据置鉛蓄電池　―　一般的要求事項及び試験方法　―　第２部：制御弁式
+- language: en
+  script: Latn
+  content: 'Stationary lead-acid batteries -- General requirements and methods of
+    tests -- Part 2: Valve regulated types'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8704-2%3A1999
+docidentifier:
+- content: JIS C 8704-2:1999
+  type: JIS
+  primary: true
+docnumber: C8704
+date:
+- type: issued
+  at: '1999-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電池工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電池工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電池工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 負荷や直流電源に常に接続された状態で用いられる制御弁式措置鉛蓄電池について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.220.20
+    text: Acid secondary cells and batteries
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8704

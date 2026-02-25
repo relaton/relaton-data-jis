@@ -1,0 +1,86 @@
+---
+id: JISC53201994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子機器用高周波コイル及び中間周波変成器通則
+- language: en
+  script: Latn
+  content: General rules of high frequency coils and intermediate frequency transformers
+    for electronic equipment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5320%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05320_000_000_1994_e_pr10_i4.pdf
+docidentifier:
+- content: JIS C 5320:1994
+  type: JIS
+  primary: true
+docnumber: C5320
+date:
+- type: issued
+  at: '1994-04-30'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ラジオ，テレビジョン受信機などの電子機器に用いる高周波用の可変コイル及び高周波コイル並びに中間周波変成器の形名，定格，構造，寸法などの定める場合の基準について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.180'
+    text: Transformers. Reactors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5320

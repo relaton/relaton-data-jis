@@ -1,0 +1,88 @@
+---
+id: JISC10311990
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工業プロセス用圧力・差圧伝送器の試験方法
+- language: en
+  script: Latn
+  content: Methods of evaluating the performance of pressure and differential pressure
+    transmitters for use in industrial-process control systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1031%3A1990
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01031_000_000_1990_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01031_000_000_1990_e_pr10_i4.pdf
+docidentifier:
+- content: JIS C 1031:1990
+  type: JIS
+  primary: true
+docnumber: C1031
+date:
+- type: issued
+  at: '1990-10-31'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気計測器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気計測器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電気計測器工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業用プロセスに用いられる圧力・差圧伝送器の試験方法について規定。ここでいう伝送器とは，入力の圧力又は差圧を統一信号の出力値に変換し，伝送する直流電源駆動の電子式伝送器又は空気式伝送器である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.140'
+    text: Compressors and pneumatic machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1031

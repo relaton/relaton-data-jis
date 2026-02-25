@@ -1,0 +1,88 @@
+---
+id: JISZ43022002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: γ線及び硬Ｘ線用フィルムバッジ
+- language: en
+  script: Latn
+  content: Gamma-ray and hard X-ray film badges
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4302%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04302_000_000_2002_j_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 4302:2002
+  type: JIS
+  primary: true
+docnumber: Z4302
+date:
+- type: issued
+  at: '2002-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本保安用品協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｚ　４３３２に規定する個人線量計のうち，実効エネルギーが０．３～３ＭｅＶの硬Ｘ線，光子エネルギーが０．３～３ＭｅＶのγ線によって，個人が体外から受ける１ｃｍ線量当量及び７０μｍ線量当量を測定するフィルムバッジ，並びにそのフィルムバッジを用いて，それらの線量当量を算出する方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.280'
+    text: Radiation protection
+  - code: 37.040.25
+    text: Radiographic films
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4302

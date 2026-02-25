@@ -1,0 +1,92 @@
+---
+id: JISB04191991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 普通公差―第２部：個々に公差の指示がない形体に対する幾何公差
+- language: en
+  script: Latn
+  content: 'General tolerances -- Part 2: Geometrical tolerances for features without
+    individual tolerance indications'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0419%3A1991
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00419_000_000_1991_e_pr10_i4.pdf
+docidentifier:
+- content: JIS B 0419:1991
+  type: JIS
+  primary: true
+docnumber: B0419
+date:
+- type: issued
+  at: '1991-02-28'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 図面指示を簡単にすることを意図し，個々に幾何公差の指示がない形体を規制するための三つの公差等級の普通公差（ｇｅｎｅｒａｌ　ｇｅｏｍｅｔｒｉｃａｌ　ｔｏｌｅｒａａｎｃｅ）について規定。除去加工（ｒｅｍｏｖａｌ　ｏｆ　ｍａｔｅｒｉａｌ）によって製作した形体に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.10
+    text: Limits and fits
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0419

@@ -1,0 +1,84 @@
+---
+id: JISF90052021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 航海情報記録装置の装備に関する指針
+- language: en
+  script: Latn
+  content: Ships and marine technology -- Guidelines for the operation and installation
+    of voyage data recorder (VDR)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+9005%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_09005_000_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS F 9005:2021
+  type: JIS
+  primary: true
+docnumber: F9005
+date:
+- type: issued
+  at: '2021-03-22'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＭＯ　Ｒｅｓｏｌｕｔｉｏｎ　ＭＳＣ．３３３　（９０）：２０１２及びＩＥＣ　６１９９６－１：２０１３に規定する航海情報記録装置［Ｖｏｙａｇｅ　Ｄａｔａ　Ｒｅｃｏｒｄｅｒ］の装備に関する計画，設備，及び運用試験のための指針について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '47.040'
+    text: Seagoing vessels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F9005

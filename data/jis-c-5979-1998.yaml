@@ -1,0 +1,77 @@
+---
+id: JISC59791998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: Ｆ１０形単心光ファイバコネクタ
+- language: en
+  script: Latn
+  content: F10 Type connectors for optical fiber cables
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5979%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05979_000_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS C 5979:1998
+  type: JIS
+  primary: true
+docnumber: C5979
+date:
+- type: issued
+  at: '1998-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　光産業技術振興協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｃ　５９６２に基づき，バヨネット締結構造及び外径２．０ｍｍの整列フェルール構造を備えたプラグ（接栓）―アダプタープラグ及びプラグ―レセプタクル結合方式のＦ１０形単心光ファイバコネクタについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.20
+    text: Fibre optic interconnecting devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5979

@@ -1,0 +1,84 @@
+---
+id: JISZ85121995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 人間工学―視覚表示装置を用いるオフィス作業―仕事の要求事項についての指針
+- language: en
+  script: Latn
+  content: Ergonomics -- Office work with visual display terminals (VDTs) -- Guidance
+    on task requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8512%3A1995
+docidentifier:
+- content: JIS Z 8512:1995
+  type: JIS
+  primary: true
+docnumber: Z8512
+date:
+- type: issued
+  at: '1995-12-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本人間工学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本人間工学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本人間工学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＶＤＴ情報処理システムを使用する際に，その利用者のためにオフィスでの仕事に関しての指針について規定。システムを具体化する組織と，そのシステムを使用する人との両方に関係している。地方及び国の条例・法規に従って適用されることが望ましい。この規格は，実際の経験に基づき人間工学上の知識を仕事の設計に適用することによって，利用者個々の能率及び福利を向上させることを目的。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.180'
+    text: Ergonomics
+  - code: '31.120'
+    text: Electronic display devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8512

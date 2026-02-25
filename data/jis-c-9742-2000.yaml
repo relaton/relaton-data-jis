@@ -1,0 +1,75 @@
+---
+id: JISC97422000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 絶縁変圧器及び安全絶縁変圧器　―　要求事項
+- language: en
+  script: Latn
+  content: Isolating transformers and safety isolating transformers -- Requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9742%3A2000
+docidentifier:
+- content: JIS C 9742:2000
+  type: JIS
+  primary: true
+docnumber: C9742
+date:
+- type: issued
+  at: '2000-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　電気安全環境研究所
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　電気安全環境研究所
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　電気安全環境研究所
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 定格供給電圧が交流１０００Ｖ以下及び５００Ｈｚ以下の定格周波数をもつ，提携されるかそれとは別に据置形又は可搬形，単相又は多相，空冷形の絶縁変圧器及び安全絶縁変圧器に適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.180'
+    text: Transformers. Reactors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9742

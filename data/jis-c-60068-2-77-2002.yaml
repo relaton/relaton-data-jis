@@ -1,0 +1,80 @@
+---
+id: JISC600682772002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―表面実装部品（ＳＭＤ）の本体強度及び耐衝撃性試験方法
+- language: en
+  script: Latn
+  content: 'Environmental testing -- Part 2-77: Tests -- Test 77: Body strength and
+    impact shock'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-77%3A2002
+docidentifier:
+- content: JIS C 60068-2-77:2002
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  at: '2002-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: コンデンサ，抵抗器及びフェライトを用いたインダクタのようなガラス又は焼結材料で作られた表面実装部品（ＳＭＤ）の試験方法に適用。試験方法は，本体強度試験及び耐衝撃性試験で構成。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.160'
+    text: Vibrations, shock and vibration measurements
+  - code: '19.040'
+    text: Environmental testing
+  - code: '31.190'
+    text: Electronic component assemblies
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60068

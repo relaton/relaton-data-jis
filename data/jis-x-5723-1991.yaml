@@ -1,0 +1,84 @@
+---
+id: JISX57231991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 開放型システム間相互接続―ファイルの転送，アクセス及び管理（ＦＴＡＭ）―第３部　ファイルサービス定義
+- language: en
+  script: Latn
+  content: 'Information processing systems -- Open Systems Interconnection -- File
+    Transfer, Access and Management -- Part 3: File service definition'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5723%3A1991
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05723_000_000_1991_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5723:1991
+  type: JIS
+  primary: true
+docnumber: X5723
+date:
+- type: issued
+  at: '1991-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 外部から見た開放型システム間相互接続（ＯＳＩ）の応用層内のファイルの転送，アクセス及び管理サービスを（ａ）プリミティブ動作及びサービス　（ｂ）各プリミティブ動作及び事象に関連したパラメタデータ　（ｃ）動作及び事象間の関係並びに動作及び事象の有効な順次　の点から抽象的な形で規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.70
+    text: Application layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5723

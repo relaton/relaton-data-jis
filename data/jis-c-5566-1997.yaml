@@ -1,0 +1,87 @@
+---
+id: JISC55661997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 磁気テープ録音再生システム　第５部　磁気テープの電気的特性
+- language: en
+  script: Latn
+  content: 'Magnetic tape sound recording and reproducing systems Part 5: Electrical
+    magnetic tape properties'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5566%3A1997
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05566_000_000_1997_j_pr10_i4.pdf
+docidentifier:
+- content: JIS C 5566:1997
+  type: JIS
+  primary: true
+docnumber: C5566
+date:
+- type: issued
+  at: '1997-02-28'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般社団法人　日本記録メディア工業会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般社団法人　日本記録メディア工業会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般社団法人　日本記録メディア工業会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 業務用及び民生用のアナログ音声の録音再生に用いる磁気テープに適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.160.30
+    text: Audio systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5566

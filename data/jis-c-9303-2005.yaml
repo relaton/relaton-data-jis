@@ -1,0 +1,84 @@
+---
+id: JISC93032005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 単相交流式定置形スポット溶接機
+- language: en
+  script: Latn
+  content: Stationary type single phase AC spot welding machines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9303%3A2005
+docidentifier:
+- content: JIS C 9303:2005
+  type: JIS
+  primary: true
+docnumber: C9303
+date:
+- type: issued
+  at: '2005-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本溶接協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 定格周波数５０Ｈｚ又は６０Ｈｚの単相式の溶接変圧器，主通電回路の開閉器及び空気加圧機構を主体とし，薄鋼板の溶接を対象とする定置形スポット溶接機について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.30
+    text: Welding equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9303

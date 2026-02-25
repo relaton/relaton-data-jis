@@ -1,0 +1,98 @@
+---
+id: JISK01282000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 用水・排水中の農薬試験方法
+- language: en
+  script: Latn
+  content: Testing methods for pesticides in industrial water and waste water
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0128%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00128_000_000_2000_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00128_000_000_2000_e_ed10_i4.pdf
+docidentifier:
+- content: JIS K 0128:2000
+  type: JIS
+  primary: true
+docnumber: K0128
+date:
+- type: issued
+  at: '2000-12-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　産業環境管理協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　産業環境管理協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　産業環境管理協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業用水及び工場排水中の農薬類の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.50
+    text: Examination of water for chemical substances
+  - code: '65.100'
+    text: Pesticides and other agrochemicals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0128

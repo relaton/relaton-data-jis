@@ -1,0 +1,94 @@
+---
+id: JISB10532014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 炭素鋼及び合金鋼製締結用部品の機械的性質―硬さ区分を規定した止めねじ及び類似のおねじ部品―並目ねじ及び細目ねじ
+- language: en
+  script: Latn
+  content: Mechanical properties of fasteners made of carbon steel and alloy steel
+    -- Set screws and similar threaded fasteners with specified hardness classes --
+    Coarse thread and fine pitch thread
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1053%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01053_000_000_2014_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 1053:2014
+  type: JIS
+  primary: true
+docnumber: B1053
+date:
+- type: issued
+  at: '2014-09-22'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ねじ研究協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ねじ研究協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ねじ研究協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: １０℃～３５℃の環境温度範囲で試験を行ったときの炭素鋼又は合金鋼製の止めねじ，及び類似のおねじ部品の機械的及び物理的性質について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.060.10
+    text: Bolts, screws, studs
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1053

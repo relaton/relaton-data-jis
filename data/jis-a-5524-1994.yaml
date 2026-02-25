@@ -1,0 +1,85 @@
+---
+id: JISA55241994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ラスシート（角波亜鉛鉄板ラス）
+- language: en
+  script: Latn
+  content: Lath sheets
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5524%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05524_000_000_1994_e_pr10_i4.pdf
+docidentifier:
+- content: JIS A 5524:1994
+  type: JIS
+  primary: true
+docnumber: A5524
+date:
+- type: issued
+  at: '1994-07-31'
+- type: confirmed
+  at: '2006-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　建材試験センター
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 建物の主に壁，屋根，床などのモルタル下地及びコンクリート下地に使用する角波亜鉛鉄板の上面にメタルラスを溶接したラスシートについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.10
+    text: Cement. Gypsum. Lime. Mortar
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5524

@@ -1,0 +1,91 @@
+---
+id: JISC61000432022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電磁両立性―第４－３部：試験及び測定技術―放射無線周波電磁界イミュニティ試験
+- language: en
+  script: Latn
+  content: 'Electromagnetic compatibility (EMC) -- Part 4-3: Testing and measurement
+    techniques -- Radiated, radio-frequency,  electromagnetic field immunity test'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61000-4-3%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61000_004_003_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61000-4-3:2022
+  type: JIS
+  primary: true
+docnumber: C61000
+date:
+- type: issued
+  at: '2022-11-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気・電子装置の放射エネルギーに対するイミュニティ試験要求事項，試験レベル及び必要な試験の手順について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.100.20
+    text: Immunity
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61000

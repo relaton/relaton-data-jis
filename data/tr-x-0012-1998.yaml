@@ -1,0 +1,74 @@
+---
+id: TRX00121998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 色再現評価用標準物体色分光データベース（ＳＯＣＳ）
+- language: en
+  script: Latn
+  content: Standard Object Colour Spectra Database for Colour Reproduction Evaluation
+    (SOCS)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0012%3A1998
+docidentifier:
+- content: TR X 0012:1998
+  type: JIS
+  primary: true
+docnumber: X0012
+date:
+- type: issued
+  at: '1999-03-10'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: カラー画像入力装置を評価又は設計する際に色再現を考慮することが求められる対象の，分光反射率・透過率を体系的に収集し整理した標準データを示す。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 37.100.01
+    text: Graphic technology in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0012

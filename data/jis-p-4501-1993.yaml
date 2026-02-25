@@ -1,0 +1,83 @@
+---
+id: JISP45011993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: トイレットペーパー
+- language: en
+  script: Latn
+  content: Toilet tissue papers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+4501%3A1993
+docidentifier:
+- content: JIS P 4501:1993
+  type: JIS
+  primary: true
+docnumber: P4501
+date:
+- type: issued
+  at: '1993-03-31'
+- type: confirmed
+  at: '1998-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: トイレットペーパーＪＩＳ普及会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: トイレットペーパーＪＩＳ普及会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: トイレットペーパーＪＩＳ普及会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 巻取りのトイレットペーパーについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '85.080'
+    text: Paper products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: P4501

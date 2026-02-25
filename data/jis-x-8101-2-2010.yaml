@@ -1,0 +1,90 @@
+---
+id: JISX810122010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術―バイオメトリック性能試験及び報告―第２部：テクノロジ評価及びシナリオ評価の試験方法
+- language: en
+  script: Latn
+  content: 'Information technology -- Biometric performance testing and reporting
+    -- Part 2: Testing methodologies for technology and scenario evaluation'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+8101-2%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_08101_002_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 8101-2:2010
+  type: JIS
+  primary: true
+docnumber: X8101
+date:
+- type: issued
+  at: '2010-02-22'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 二つの重要な評価方法，すなわち，テクノロジ評価及びシナリオ評価に特有なデータ収集，データ分析及び報告書の作成に関する要求事項及び推奨事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X8101

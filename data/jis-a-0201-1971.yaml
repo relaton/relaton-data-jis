@@ -1,0 +1,78 @@
+---
+id: JISA02011971
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築用内外装材料用語
+- language: en
+  script: Latn
+  content: Glossary of terms used in finishing building materials for interior and
+    exterior uses
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+0201%3A1971
+docidentifier:
+- content: JIS A 0201:1971
+  type: JIS
+  primary: true
+docnumber: A0201
+date:
+- type: issued
+  at: '1971-04-10'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建築学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建築学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本建築学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 建築物の内外装仕上げに用いる材料に関するおもな用語とその読み方および意味について規定。塗料を除く。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.91
+    text: Construction materials and building (Vocabularies)
+  - code: 91.100.01
+    text: Construction materials in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A0201

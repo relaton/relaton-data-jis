@@ -1,0 +1,94 @@
+---
+id: JISB744052022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性仕様（ＧＰＳ）―座標測定システム（ＣＭＳ）の受入検査及び定期検査―第５部：シングル及びマルチスタイラス接触プロービングシステムを用いた離散点及びスキャニング測定
+- language: en
+  script: Latn
+  content: 'Geometrical product specifications (GPS) -- Acceptance and reverification
+    tests for coordinate measuring systems (CMS) -- Part 5: Coordinate measuring machines
+    (CMMs) using single and multiple stylus contacting probing systems using discrete
+    point and/or scanning measuring mode'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7440-5%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07440_005_000_2022_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07440_005_000_2022_e_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7440-5:2022
+  type: JIS
+  primary: true
+docnumber: B7440
+date:
+- type: issued
+  at: '2022-03-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 接触プロービングシステムをもつ座標測定機（ＣＭＭ）の受入検査及び定期検査について規定。なお，次（あらゆる種類の接触プロービングシステム；球又は半球スタイラスチップ）のものを使用したCMMにだけに適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.30
+    text: Measuring instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7440

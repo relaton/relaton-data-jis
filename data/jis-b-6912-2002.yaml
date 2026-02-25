@@ -1,0 +1,96 @@
+---
+id: JISB69122002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄鋼の高周波焼入焼戻し加工
+- language: en
+  script: Latn
+  content: Process of induction hardening and tempering of iron and steel
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6912%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06912_000_000_2002_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 6912:2002
+  type: JIS
+  primary: true
+docnumber: B6912
+date:
+- type: issued
+  at: '2002-01-31'
+- type: confirmed
+  at: '2007-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本金属熱処理工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本金属熱処理工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本金属熱処理工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄鋼の高周波焼入焼戻し加工又は高周波焼入れ加工について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '25.200'
+    text: Heat treatment
+  - code: 77.140.01
+    text: Iron and steel products in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6912

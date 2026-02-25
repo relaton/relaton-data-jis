@@ -1,0 +1,90 @@
+---
+id: JISC9300112023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: アーク溶接装置―第１１部：溶接棒ホルダ
+- language: en
+  script: Latn
+  content: 'Arc welding equipment -- Part 11: Electrode holders'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9300-11%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09300_011_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 9300-11:2023
+  type: JIS
+  primary: true
+docnumber: C9300
+date:
+- type: issued
+  at: '2023-12-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本溶接協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 直径１０　ｍｍ以下の溶接棒を用いる被覆アーク溶接の手溶接作業に使用する溶接棒ホルダの性能要求事項及び安全要求事項について規定。ただし，水中溶接のためのホルダを除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.30
+    text: Welding equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9300

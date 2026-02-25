@@ -1,0 +1,87 @@
+---
+id: JISZ225112024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ヌープ硬さ試験－第１部：試験方法
+- language: en
+  script: Latn
+  content: 'Knoop hardness test-Part 1: Test method'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2251-1%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02251_001_000_2024_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02251_000_000_2024_e_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 2251-1:2024
+  type: JIS
+  primary: true
+docnumber: Z2251
+date:
+- type: issued
+  at: '2024-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，試験力範囲が０．００９　８０７N～１９．６１３Nの金属材料のヌープ硬さ試験方法について規定する。
+    この規格で規定するヌープ硬さ試験は，くぼみの対角線長さ０．０２０ｍｍ以上に適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.10
+    text: Heat-treatable steels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z2251

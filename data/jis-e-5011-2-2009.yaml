@@ -1,0 +1,89 @@
+---
+id: JISE501122009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄道車両―電力変換装置及び交流電動機の組合せ試験―第２部：コンバータ・インバータ方式（中間直流リンクあり）
+- language: en
+  script: Latn
+  content: 'Rolling stock -- Combined testing of power convertor with ac motors --
+    Part 2: Convertor-inverter system with intermediate dc link'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+5011-2%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05011_002_000_2009_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_05011_002_000_2009_e_ed10_i4.pdf
+docidentifier:
+- content: JIS E 5011-2:2009
+  type: JIS
+  primary: true
+docnumber: E5011
+date:
+- type: issued
+  at: '2009-04-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本鉄道車輌工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 交流電動機，コンバータ・インバータ及びそれらの制御システムの組合せ試験について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 45.060.01
+    text: Railway rolling stock in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E5011

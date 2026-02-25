@@ -1,0 +1,75 @@
+---
+id: JISB83171986
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 蒸気噴射真空ポンプ性能試験方法
+- language: en
+  script: Latn
+  content: Vapour vacuum pumps -- Measurement of performance characteristics
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8317%3A1986
+docidentifier:
+- content: JIS B 8317:1986
+  type: JIS
+  primary: true
+docnumber: B8317
+date:
+- type: issued
+  at: '1986-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本真空協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本真空協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本真空協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 補助ポンプ（油回転真空ポンプなど）によって排気された真空中で，油又は水銀の蒸気の噴流によって排気作用を行わせる蒸気噴射真空ポンプの性能の試験方法について規定。蒸気噴射真空ポンプには拡散ポンプ及び蒸気ジェット真空ポンプを含む。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.160'
+    text: Vacuum technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8317

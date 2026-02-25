@@ -1,0 +1,93 @@
+---
+id: JISX52302018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: システム間の通信及び情報交換―容量性結合近距離通信物理層（ＣＣＣＣ　ＰＨＹ）
+- language: en
+  script: Latn
+  content: Information technology -- Telecommunications and information exchange between
+    systems -- Close Capacitive Coupling Communication Physical Layer (CCCC PHY)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5230%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05230_000_000_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 5230:2018
+  type: JIS
+  primary: true
+docnumber: X5230
+date:
+- type: issued
+  at: '2018-01-22'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 周波数分割多重チャネル上のタイムスロットにおける全二重型及び放送型の通信を行うための容量性結合近距離通信物理層（ＣＣＣＣ　ＰＨＹ）を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.10
+    text: Physical layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5230

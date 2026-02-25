@@ -1,0 +1,92 @@
+---
+id: TRB003942021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械類の安全性―ＪＩＳ　Ｂ　９７００との関係―第４部：機械製造業者がＩＴセキュリティ面を考慮するための指針
+- language: en
+  script: Latn
+  content: 'Safety of machinery -- Relationship with JIS B 9700 -- Part 4: Guidance
+    to machinery manufacturers for consideration of related IT-security (cyber security)
+    aspects'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+B+0039-4%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_tr_b_00039_004_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: TR B 0039-4:2021
+  type: JIS
+  primary: true
+docnumber: B0039
+date:
+- type: issued
+  at: '2021-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本機械工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本機械工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本機械工業連合会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 標準報告書は，機械製造業者が初めて機械のサービスを提供する場合，又は初めて市場に出荷する場合の，機械類の安全性に関連するセキュリティ面に関する指針を示す。このＴＲは，機械類の安全性に影響を与え得るＩＴセキュリティの脅威を特定し，かつ，対処するための本質的な情報を機械製造業者に対して提供する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0039

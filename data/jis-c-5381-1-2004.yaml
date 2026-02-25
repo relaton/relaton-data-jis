@@ -1,0 +1,87 @@
+---
+id: JISC538112004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧配電システムに接続するサージ防護デバイスの所要性能及び試験方法
+- language: en
+  script: Latn
+  content: Surge protective devices connected to low-voltage power distribution systems
+    -- Performance requirements and testing methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5381-1%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05381_001_000_2004_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 5381-1:2004
+  type: JIS
+  primary: true
+docnumber: C5381
+date:
+- type: issued
+  at: '2004-04-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ５０／６０の交流１０００Ｖ以下又は直流１５００Ｖ以下の電源回路及び機器に接続するサージ防護デバイス（ＳＰＤ）の所要性能，標準試験方法及び定格について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.240.10
+    text: Substations. Surge arresters
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5381

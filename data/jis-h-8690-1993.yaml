@@ -1,0 +1,85 @@
+---
+id: JISH86901993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ドライプロセス窒化チタンコーティング
+- language: en
+  script: Latn
+  content: Titanium nitride coatings by dry processing
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+8690%3A1993
+docidentifier:
+- content: JIS H 8690:1993
+  type: JIS
+  primary: true
+docnumber: H8690
+date:
+- type: issued
+  at: '1993-12-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　表面技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　表面技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　表面技術協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 金属及び非金属素地上に装飾用又は工業用の目的で行った，ドライプロセス窒化チタンコーティングの有効面について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.220.40
+    text: Metallic coatings
+  - code: 77.120.50
+    text: Titanium and titanium alloys
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H8690

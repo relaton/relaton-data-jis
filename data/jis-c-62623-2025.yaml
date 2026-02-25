@@ -1,0 +1,91 @@
+---
+id: JISC626232025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: パーソナルコンピュータの消費電力測定方法
+- language: en
+  script: Latn
+  content: Desktop and notebook computers-Measurement of energy consumption
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+62623%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_62623_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 62623:2025
+  type: JIS
+  primary: true
+docnumber: C62623
+date:
+- type: issued
+  at: '2025-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，パーソナルコンピュータ製品を対象としている。対象範囲は，市場において最終製品として販売されるデスクトップ及びノートブックパーソナルコンピュータである。特に，試験に使用する製品を被試験機器（EUT：equipment
+    under test）という。\nこの規格では，次のことを規定する。\na)\tEUT\tの各消費電力モードにおける消費電力及び／又は消費電力量の測定を可能にする試験方法\nb)\t任意の期間（通常は年間）における標準消費電力量（以下，TECという。）を算出する計算式\nc)\tこの規格とともに使用する主要プロファイルの求め方。主要プロファイルは，平均消費電力を電力量へ変換するTEC計算式において用いる。\nd)\t結果を提示するための所定書式"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.160'
+    text: Microprocessor systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C62623

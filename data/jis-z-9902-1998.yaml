@@ -1,0 +1,82 @@
+---
+id: JISZ99021998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 品質システム　―　製造，据付け及び付帯サービスにおける品質保証モデル
+- language: en
+  script: Latn
+  content: Quality systems -- Model for quality assurance in production, installation
+    and servicing
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9902%3A1998
+docidentifier:
+- content: JIS Z 9902:1998
+  type: JIS
+  primary: true
+docnumber: Z9902
+date:
+- type: issued
+  at: '1998-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 確立された設計に適合する製品を供給する供給者の能力を実証することが必要な場合に用いる品質システム要求事項を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.10
+    text: Quality management and quality assurance
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9902

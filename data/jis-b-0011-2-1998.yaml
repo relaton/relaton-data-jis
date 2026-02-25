@@ -1,0 +1,94 @@
+---
+id: JISB001121998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製図―配管の簡略図示方法―第２部：等角投影図
+- language: en
+  script: Latn
+  content: 'Technical drawings -- Simplified representation of pipelines -- Part 2:
+    Isometric representation'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0011-2%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00011_002_000_1998_e_pr10_i4.pdf
+docidentifier:
+- content: JIS B 0011-2:1998
+  type: JIS
+  primary: true
+docnumber: B0011
+date:
+- type: issued
+  at: '1998-02-28'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　００１１－１に規定する通則に加えて等角投影図に適用する補足規則について規定。等角投影図は配管の特徴を三次元で明確に表したい場合に用いる。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.100.01
+    text: Technical drawings in general
+  - code: 23.040.01
+    text: Pipeline components and pipelines in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0011

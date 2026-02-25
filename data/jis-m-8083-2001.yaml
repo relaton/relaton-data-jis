@@ -1,0 +1,95 @@
+---
+id: JISM80832001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 銅，鉛及び亜鉛硫化精鉱―サンプリング及び水分決定方法
+- language: en
+  script: Latn
+  content: Copper, lead and zinc sulfide concentrates -- Sampling procedures and methods
+    for determination of moisture content
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8083%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08083_000_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS M 8083:2001
+  type: JIS
+  primary: true
+docnumber: M8083
+date:
+- type: issued
+  at: '2001-01-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本鉱業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本鉱業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本鉱業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 銅，鉛及び亜鉛の硫化精鉱について，ロットの成分，水分の平均値を決定するための方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 73.060.99
+    text: Other metalliferous minerals
+  - code: 77.040.99
+    text: Other methods of testing of metals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M8083

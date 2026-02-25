@@ -1,0 +1,89 @@
+---
+id: JISA15201988
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建具の遮音試験方法
+- language: en
+  script: Latn
+  content: Method for field measurements of sound insulation of windows and doors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1520%3A1988
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01520_000_000_1988_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01520_000_000_1988_e_pr10_i4.pdf
+docidentifier:
+- content: JIS A 1520:1988
+  type: JIS
+  primary: true
+docnumber: A1520
+date:
+- type: issued
+  at: '1988-10-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本サッシ協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本サッシ協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本サッシ協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 建築物の外周壁に取り付けられた建具の遮音性能を表す音響透過損失相当値を測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.060.50
+    text: Doors and windows
+  - code: 91.120.20
+    text: Acoustics in building. Sound insulation
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1520

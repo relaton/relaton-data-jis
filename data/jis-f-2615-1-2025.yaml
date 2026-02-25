@@ -1,0 +1,81 @@
+---
+id: JISF261512025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船舶及び海洋技術－パイロットラダー－第１部：設計及び仕様
+- language: en
+  script: Latn
+  content: 'Ships and marine technology-Pilot ladders-Part 1: Design and specification'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+2615-1%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_02615_001_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS F 2615-1:2025
+  type: JIS
+  primary: true
+docnumber: F2615
+date:
+- type: issued
+  at: '2025-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，パイロットが船体の垂直部分に対して安全に乗下船するために装備するパイロットラダーに対する要求事項について規定する。この規格は，航海中にパイロットが乗下船する船舶に適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.50
+    text: Deck equipment and installations
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F2615

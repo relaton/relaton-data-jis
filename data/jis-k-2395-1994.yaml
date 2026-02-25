@@ -1,0 +1,83 @@
+---
+id: JISK23951994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車用燃料の水溶解剤
+- language: en
+  script: Latn
+  content: Water solubilizer in fuel system for automobiles
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2395%3A1994
+docidentifier:
+- content: JIS K 2395:1994
+  type: JIS
+  primary: true
+docnumber: K2395
+date:
+- type: issued
+  at: '1994-09-30'
+- type: confirmed
+  at: '2005-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本オートケミカル工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本オートケミカル工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本オートケミカル工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 自動車のガソリンタンク，軽油タンクなどにたまる水分を燃料中に溶解させるために用いる水溶解剤について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.060.40
+    text: Fuel systems
+  - code: 75.160.20
+    text: Liquid fuels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K2395

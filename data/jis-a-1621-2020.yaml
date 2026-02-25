@@ -1,0 +1,87 @@
+---
+id: JISA16212020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 太陽熱利用システムの屋内性能試験方法
+- language: en
+  script: Latn
+  content: Indoor test methods for solar heating system performance
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1621%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01621_000_000_2020_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01621_000_000_2020_e_ed10_ch.pdf
+docidentifier:
+- content: JIS A 1621:2020
+  type: JIS
+  primary: true
+docnumber: A1621
+date:
+- type: issued
+  at: '2020-04-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ソーラーシステム振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　ソーラーシステム振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　ソーラーシステム振興協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 主として一般家庭の給湯及び暖房に用いる，太陽集熱器，太陽蓄熱槽，補助熱源などで構成する太陽熱利用システムのうち，液体集熱式及び空気集熱式の給湯標準使用モードを用いた給湯効率，及び空気集熱式の暖房効率の屋内試験による測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1621

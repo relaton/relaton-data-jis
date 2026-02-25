@@ -1,0 +1,81 @@
+---
+id: JISQ1497112001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療用具―リスクマネジメント―第１部：リスク分析の適用
+- language: en
+  script: Latn
+  content: 'Medical devices -- Risk management -- Part 1: Application of risk analysis'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+14971-1%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_14971_001_000_2001_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_14971_001_000_2001_e_ed10_i4.pdf
+docidentifier:
+- content: JIS Q 14971-1:2001
+  type: JIS
+  primary: true
+docnumber: Q14971
+date:
+- type: issued
+  at: '2001-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本医療機器産業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本医療機器産業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本医療機器産業連合会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 医療用具に関連するハザードの特定及びリスクの推定によって，インビトロ診断用具又は附属品を含む医療用具の安全性を，利用可能な情報を用いて，調査する手順を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.100.01
+    text: Company organization and management in general
+  - code: 11.040.01
+    text: Medical equipment in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q14971

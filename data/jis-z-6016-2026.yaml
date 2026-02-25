@@ -1,0 +1,94 @@
+---
+id: JISZ60162026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 文書の受領プロセス
+- language: en
+  script: Latn
+  content: Process for receiving of document
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+6016%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_06016_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 6016:2026
+  type: JIS
+  primary: true
+docnumber: Z6016
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本文書情報マネジメント協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本文書情報マネジメント協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本文書情報マネジメント協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，文書を取得し，処理に適した形式に変換する受領プロセスについて規定する。
+    受領プロセスは，文書の取得作業及び処理可能形式への変換作業及び処理プロセスへの引渡し作業から構成される。また，受領プロセスで取り扱った文書及び経緯情報の保存運用への移行，文書の品質及び信頼性の確認を含む。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.140.30
+    text: Documents in administration, commerce and industry
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z6016

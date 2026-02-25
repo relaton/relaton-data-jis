@@ -1,0 +1,95 @@
+---
+id: JISR31092024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築用ガラスの暴風時における飛来物衝突試験方法
+- language: en
+  script: Latn
+  content: Glass in building -- Destructive-windstorm-resistant security glazing --
+    Test method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+3109%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_03109_000_000_2024_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_03109_000_000_2024_e_ed10_ch.pdf
+docidentifier:
+- content: JIS R 3109:2024
+  type: JIS
+  primary: true
+docnumber: R3109
+date:
+- type: issued
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　板硝子協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　板硝子協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　板硝子協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 破壊的な暴風による飛来物の脅威に対する建築用の防災ガラスの耐力を判定するための試験方法について規定台風などに伴って生じる基本風速３０　ｍ／ｓ以上の強風に対して，ガラスに開口などが生じるか否かについての判定に適用し，基本風速が４８　ｍ／ｓを超える暴風の場合には，適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 81.040.20
+    text: Glass in building
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R3109

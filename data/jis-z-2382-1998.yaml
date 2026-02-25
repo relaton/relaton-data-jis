@@ -1,0 +1,89 @@
+---
+id: JISZ23821998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 大気環境の腐食性を評価するための環境汚染因子の測定
+- language: en
+  script: Latn
+  content: Determination of pollution for evaluation of corrosivity of atmospheres
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2382%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02382_000_000_1998_j_pr11_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02382_000_000_1998_e_pr20_i4.pdf
+docidentifier:
+- content: JIS Z 2382:1998
+  type: JIS
+  primary: true
+docnumber: Z2382
+date:
+- type: issued
+  at: '1998-06-30'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本ウエザリングテストセンター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本ウエザリングテストセンター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本ウエザリングテストセンター
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 大気中の二酸化硫黄（硫黄化合物）及び大気浮遊塩分（海塩粒子）の付着度を測定する５つの方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.20
+    text: Ambient atmospheres
+  - code: '77.060'
+    text: Corrosion of metals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z2382

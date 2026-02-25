@@ -1,0 +1,75 @@
+---
+id: JISZ49201988
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: Ｘ線写真フィルム用ネームプリンタ
+- language: en
+  script: Latn
+  content: Name printers for radiographic films
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4920%3A1988
+docidentifier:
+- content: JIS Z 4920:1988
+  type: JIS
+  primary: true
+docnumber: Z4920
+date:
+- type: issued
+  at: '1988-02-29'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本放射線技術学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本放射線技術学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本放射線技術学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: Ｘ線検査依頼票，照射録，認証カードなどに記載されている，文字，記号などを転記することなく，ＪＩＳ　Ｋ　７５２１に規定する医療用Ｘ線写真フィルムに光でプリントするネームプリントについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.50
+    text: Radiographic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4920

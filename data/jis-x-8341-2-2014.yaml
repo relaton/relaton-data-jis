@@ -1,0 +1,96 @@
+---
+id: JISX834122014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高齢者・障害者等配慮設計指針―情報通信における機器，ソフトウェア及びサービス―第２部：パーソナルコンピュータ
+- language: en
+  script: Latn
+  content: 'Guidelines for older persons and persons with disabilities -- Information
+    and communications equipment, software and services -- Part 2: Personal computer
+    hardware'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+8341-2%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_08341_002_000_2014_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 8341-2:2014
+  type: JIS
+  primary: true
+docnumber: X8341
+date:
+- type: issued
+  at: '2014-11-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: パソコンのハードウェアの企画，開発，設計及び流通を行う際のアクセシビリティに対する要求事項及び推奨事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.180.99
+    text: Other standards related to aids for disabled and handicapped people
+  - code: '35.180'
+    text: IT terminal and other peripheral equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X8341

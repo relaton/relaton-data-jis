@@ -1,0 +1,89 @@
+---
+id: JISX72542008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＯＷＬウェブオントロジ言語―意味論及び抽象構文
+- language: en
+  script: Latn
+  content: OWL Web Ontology Language -- Semantics and Abstract Syntax
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7254%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07254_000_000_2008_j_ed11_ch.pdf
+docidentifier:
+- content: JIS X 7254:2008
+  type: JIS
+  primary: true
+docnumber: X7254
+date:
+- type: issued
+  at: '2008-11-20'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: Ｗ３Ｃのウェブオントロジ作業グループが設計したウェブオントロジ言語ＯＷＬについて，ＯＷＬの部分言語であるＯＷＬＤＬ及びＯＷＬＬｉｔｅの両方に関する高水準の抽象構文を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X7254

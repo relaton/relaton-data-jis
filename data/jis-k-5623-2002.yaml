@@ -1,0 +1,86 @@
+---
+id: JISK56232002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 亜酸化鉛さび止めペイント
+- language: en
+  script: Latn
+  content: Lead suboxide anticorrosive paint
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5623%3A2002
+docidentifier:
+- content: JIS K 5623:2002
+  type: JIS
+  primary: true
+docnumber: K5623
+date:
+- type: issued
+  at: '2002-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本塗料工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本塗料工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本塗料工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 屋外における大形鉄鋼製品，鉄鋼構造物などの地肌塗りに用いる亜酸化鉛さび止めペイントについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.150.60
+    text: Lead, zinc and tin products
+  - code: '87.040'
+    text: Paints and varnishes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K5623

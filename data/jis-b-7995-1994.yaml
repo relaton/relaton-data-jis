@@ -1,0 +1,85 @@
+---
+id: JISB79951994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 原油及び石油製品中の硫黄分自動計測器
+- language: en
+  script: Latn
+  content: Automatic analysers for sulphur in crude oil and petroleum products
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7995%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07995_000_000_1994_j_pr10_i4.pdf
+docidentifier:
+- content: JIS B 7995:1994
+  type: JIS
+  primary: true
+docnumber: B7995
+date:
+- type: issued
+  at: '1994-08-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本分析機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本分析機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本分析機器工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 原油及び石油製品中の硫黄分を放射線を用いて測定する自動計測器について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '75.040'
+    text: Crude petroleum
+  - code: '75.080'
+    text: Petroleum products in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7995

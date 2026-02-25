@@ -1,0 +1,81 @@
+---
+id: JISL42122000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 繊維製防水シーツ
+- language: en
+  script: Latn
+  content: Water proof bed sheets
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+L+4212%3A2000
+docidentifier:
+- content: JIS L 4212:2000
+  type: JIS
+  primary: true
+docnumber: L4212
+date:
+- type: issued
+  at: '2000-04-30'
+- type: confirmed
+  at: '2015-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 独立行政法人　製品評価技術基盤機構
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 独立行政法人　製品評価技術基盤機構
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 独立行政法人　製品評価技術基盤機構
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 繊維製防水シーツについて規定。ポリ塩化ビニルフィルムなどの合成樹脂製のもの，病院，療養所などで用いるもの，使い捨て製品などの特殊なものは除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 59.080.40
+    text: Coated fabrics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: L4212

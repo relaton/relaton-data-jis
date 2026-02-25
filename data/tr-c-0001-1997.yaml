@@ -1,0 +1,73 @@
+---
+id: TRC00011997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 燃料電池発電用語
+- language: en
+  script: Latn
+  content: Glossary of terms for fuel cell power plant
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0001%3A1997
+docidentifier:
+- content: TR C 0001:1997
+  type: JIS
+  primary: true
+docnumber: C0001
+date:
+- type: issued
+  at: '1997-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 燃料電池発電に関して用いられる一般的な用語のうち，燃料電池の種類，燃料電池発電システムの範囲，設置形態，性能，運転特性等のすべてのタイプの燃料電池に適用できる用語，並びにりん酸形燃料電池発電システムの構成，システム用機器及び付帯設備に関する用語について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 29.240.99
+    text: Other equipment related to power transmission and distribution networks
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0001

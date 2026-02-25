@@ -1,0 +1,86 @@
+---
+id: JISB970922001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械類の安全性―機械類から放出される危険物質による健康へのリスクの低減―第２部：検証手順に関する方法論
+- language: en
+  script: Latn
+  content: 'Safety of machinery -- Reduction of risks to health from hazardous substances
+    emitted by machinery -- Part 2: Methodology leading to verification procedures'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9709-2%3A2001
+docidentifier:
+- content: JIS B 9709-2:2001
+  type: JIS
+  primary: true
+docnumber: B9709
+date:
+- type: issued
+  at: '2001-09-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械工業連合会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 適切な検証手順を明確にするために，危険物質の放出に関連する重要要因を選択するための手順を特定。ＪＩＳ　Ｂ　９７０９－１：２００１とともに使用することを意図している。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: '13.300'
+    text: Protection against dangerous goods
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9709

@@ -1,0 +1,83 @@
+---
+id: JISZ87541999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 真空技術―質量分析計形リークディテクター校正方法
+- language: en
+  script: Latn
+  content: Vacuum technology -- Mass-spectrometer-type leak-detector calibration
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8754%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08754_000_000_1999_j_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 8754:1999
+  type: JIS
+  primary: true
+docnumber: Z8754
+date:
+- type: issued
+  at: '1999-04-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本非破壊検査協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本非破壊検査協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本非破壊検査協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 質量分析計形リークディテクターの校正の手順について規定。分析管を低圧力下に保持するための高真空排気系をもつリークディテクターだけを扱う。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.160'
+    text: Vacuum technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8754

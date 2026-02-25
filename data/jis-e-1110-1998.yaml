@@ -1,0 +1,87 @@
+---
+id: JISE11101998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 炭素鋼製タイプレート
+- language: en
+  script: Latn
+  content: Carbon steel tie-plates
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+1110%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_01110_000_000_1998_j_pr11_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_01110_000_000_1998_e_ed10_i4.pdf
+docidentifier:
+- content: JIS E 1110:1998
+  type: JIS
+  primary: true
+docnumber: E1110
+date:
+- type: issued
+  at: '1998-09-30'
+- type: confirmed
+  at: '2007-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道施設協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道施設協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄道施設協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｅ　１１０１に規定するレールを，木まくらぎに締結するときに用いる圧延及び熱間鍛造による炭素鋼製タイプレートに要求される品質と受入条件及び形状・寸法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '45.080'
+    text: Rails and railway components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E1110

@@ -1,0 +1,82 @@
+---
+id: JISP01381998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 紙加工仕上寸法
+- language: en
+  script: Latn
+  content: Writing paper and certain classes of printed matter -- Trimmed sizes --
+    A and B series
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+P+0138%3A1998
+docidentifier:
+- content: JIS P 0138:1998
+  type: JIS
+  primary: true
+docnumber: P0138
+date:
+- type: issued
+  at: '1998-10-31'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本製紙連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本製紙連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本製紙連合会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 筆記用紙及び各種印刷物の仕上寸法について規定。行政，商取引，工業の分野で用いられる紙の仕上げ寸法並びにビジネスフォーム，カタログ，その他各種印刷物に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '85.060'
+    text: Paper and board
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: P0138

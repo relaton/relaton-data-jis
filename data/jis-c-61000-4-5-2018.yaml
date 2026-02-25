@@ -1,0 +1,93 @@
+---
+id: JISC61000452018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電磁両立性―第４－５部：試験及び測定技術―サージイミュニティ試験
+- language: en
+  script: Latn
+  content: 'Electromagnetic compatibility (EMC) -- Part 4-5: Testing and measurement
+    techniques -- Surge immunity test'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61000-4-5%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61000_004_005_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61000-4-5:2018
+  type: JIS
+  primary: true
+docnumber: C61000
+date:
+- type: issued
+  at: '2018-03-20'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電力系統における開閉及び雷の過渡現象による過電圧によって発生する単極性（正又は負）のサージに対する，イミュニティ要求事項及び試験方法について規定。これらの要求事項は，電気・電子装置に適用し，異なる環境及び設置状態に関係する幾つかの試験レベルの範囲を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.100.20
+    text: Immunity
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61000

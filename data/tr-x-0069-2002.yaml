@@ -1,0 +1,76 @@
+---
+id: TRX00692002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 多目的インターネットメール拡張（ＭＩＭＥ）　第１部　インターネットメッセージ本体のフォーマット
+- language: en
+  script: Latn
+  content: 'Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet
+    Message Bodies'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0069%3A2002
+docidentifier:
+- content: TR X 0069:2002
+  type: JIS
+  primary: true
+docnumber: X0069
+date:
+- type: issued
+  at: '2002-11-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: インターネット公式プロトコル規定ＳＴＤ　１１であるＲＦＣ　８２２では，ＵＳ－ＡＳＣＩＩメッセージヘッダについて多くの詳細を規定したメッセージ表現プロトコルを定義しているが，メッセージ内容，すなわちメッセージ本体については，構造のないＵＳ－ＡＳＣＩＩテキストだけとしている。このＴＲを含む一連のＴＲは，多目的インターネットネール拡張又はＭＩＭＥと総称され，メッセージのフォーマットを再定義する。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '35.110'
+    text: Networking
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0069

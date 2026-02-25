@@ -1,0 +1,86 @@
+---
+id: JISX02101986
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報交換用文字列による数値表現
+- language: en
+  script: Latn
+  content: Representation of numerical values in character strings for information
+    interchange
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0210%3A1986
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00210_000_000_1986_e_pr10_i4.pdf
+docidentifier:
+- content: JIS X 0210:1986
+  type: JIS
+  primary: true
+docnumber: X0210
+date:
+- type: issued
+  at: '1986-11-30'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　情報処理学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　情報処理学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　情報処理学会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: データ処理システム間の情報交換に用いるために機械的に読み取ることのできる文字列によって，数値を表現する場合の３種類の表現形式について規定。有限個の数字又は有限個の数字と小数点で構成される正負の１０進数についてだけ適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0210

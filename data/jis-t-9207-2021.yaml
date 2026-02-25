@@ -1,0 +1,94 @@
+---
+id: JIST92072021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 車椅子用可搬形スロープ
+- language: en
+  script: Latn
+  content: Portable ramps for wheelchairs
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9207%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09207_000_000_2021_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09207_000_000_2021_e_ed10_ch.pdf
+docidentifier:
+- content: JIS T 9207:2021
+  type: JIS
+  primary: true
+docnumber: T9207
+date:
+- type: issued
+  at: '2021-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本福祉用具・生活支援用具協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 段差，段差又は間隙のある部分に設置し，手動車椅子又は電動車椅子が通行可能なようにするために両端で荷重を支える可搬形スロープについて規定。ただし，爪などで固定するスロープは除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '11.180'
+    text: Aids for disabled or handicapped persons
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9207

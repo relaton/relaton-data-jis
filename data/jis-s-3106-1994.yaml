@@ -1,0 +1,85 @@
+---
+id: JISS31061994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用除湿剤
+- language: en
+  script: Latn
+  content: Dehumidifying agent for home use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+3106%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_03106_000_000_1994_j_pr10_i4.pdf
+docidentifier:
+- content: JIS S 3106:1994
+  type: JIS
+  primary: true
+docnumber: S3106
+date:
+- type: issued
+  at: '1994-06-30'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 独立行政法人　製品評価技術基盤機構
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 独立行政法人　製品評価技術基盤機構
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 独立行政法人　製品評価技術基盤機構
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般家庭の押入れ，たんすなど比較的狭い空間において除湿を目的として使用するもので，除湿を行うための吸湿剤の成分に塩化カルシウム，酸化カルシウム，塩化マグネシウム及びシリカゲルを使用した家庭用除湿剤について規定。商品の包装用のもの並びに食品及び人体に使用するものを除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.060.20
+    text: Oxides
+  - code: '97.180'
+    text: Miscellaneous domestic and commercial equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S3106

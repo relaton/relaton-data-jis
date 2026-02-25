@@ -1,0 +1,91 @@
+---
+id: JISG34632023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ボイラ・熱交換器用ステンレス鋼鋼管
+- language: en
+  script: Latn
+  content: Stainless steel tubes for boiler and heat exchanger
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3463%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03463_000_000_2023_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03463_000_000_2023_e_ed10_ch.pdf
+docidentifier:
+- content: JIS G 3463:2023
+  type: JIS
+  primary: true
+docnumber: G3463
+date:
+- type: issued
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 管の内外で熱の授受をするために使用するステンレス鋼鋼管，例えば，ボイラの過熱器，化学工業・石油工業の熱交換器，コンデンサ管，触媒管などに使用する管について規定。ただし，加熱炉用鋼管には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.040.10
+    text: Iron and steel pipes
+  - code: 27.060.30
+    text: Boilers and heat exchangers
+  - code: 77.140.20
+    text: Stainless steels
+  - code: 77.140.75
+    text: Steel pipes and tubes for specific use
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G3463

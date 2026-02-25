@@ -1,0 +1,82 @@
+---
+id: JISB06152002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性仕様（ＧＰＳ）―プリズムの角度及びこう配の基準値
+- language: en
+  script: Latn
+  content: Geometrical Product Specifications (GPS) -- Series of angles and slopes
+    on prisms
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0615%3A2002
+docidentifier:
+- content: JIS B 0615:2002
+  type: JIS
+  primary: true
+docnumber: B0615
+date:
+- type: issued
+  at: '2002-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般の機械用プリズムの角度１２０°～０°３０’及びこう配１：１０～１：５００の基準値について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.01
+    text: Linear and angular measurements in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0615

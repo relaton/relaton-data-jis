@@ -1,0 +1,73 @@
+---
+id: TRX002131999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ソフトウェアプロセスアセスメント　―　第３部：アセスメントの実施
+- language: en
+  script: Latn
+  content: 'Software process assessment -- Part 3: Performing an assessment'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0021-3%3A1999
+docidentifier:
+- content: TR X 0021-3:1999
+  type: JIS
+  primary: true
+docnumber: X0021
+date:
+- type: issued
+  at: '2000-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: アセスメント実施の最小限の要求事項を定義。要求事項は，アセスメントの結果が,診断したプロセスを客観的で，公平で，一貫して再現性を持って，表現することを確かにする。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0021

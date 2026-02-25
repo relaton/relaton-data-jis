@@ -1,0 +1,92 @@
+---
+id: JISD42332001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車用タイヤのユニフォーミティ試験方法
+- language: en
+  script: Latn
+  content: Test procedures for automobile tire uniformity
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+4233%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_04233_000_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS D 4233:2001
+  type: JIS
+  primary: true
+docnumber: D4233
+date:
+- type: issued
+  at: '2001-06-30'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　自動車技術会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　自動車技術会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 二輪自動車用タイヤ，乗用車用タイヤ，軽トラック用タイヤ及び小形トラック用タイヤ並びにトラック及びバス用タイヤのユニフォーミティ試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.160.10
+    text: Road vehicle tyres
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D4233

@@ -1,0 +1,77 @@
+---
+id: TRT00082002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 段差解消機の安全性，機能等に関するデータ集
+- language: en
+  script: Latn
+  content: Data book of vertical lifting platforms for safety and functional operation
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+T+0008%3A2002
+docidentifier:
+- content: TR T 0008:2002
+  type: JIS
+  primary: true
+docnumber: T0008
+date:
+- type: issued
+  at: '2002-01-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 車いすへの乗降や介助者の有無を考慮しながら移動性を損なった人のための垂直式段差解消機のうち，昇降路囲い及び床の貫通工事を伴わないものであって，昇降工程が２．０ｍ以下，定格速度が０．２５ｍ／ｓｅｃ以下，定格荷重が２５０ｋｇ未満のものの安全性，機能等に関する評価基準及び方法を検討するために実施した試験のデータをまとめたもの。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 11.180.10
+    text: Aids and adaptation for moving
+  - code: '13.200'
+    text: Accident and disaster control
+  - code: 53.020.99
+    text: Other lifting equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T0008

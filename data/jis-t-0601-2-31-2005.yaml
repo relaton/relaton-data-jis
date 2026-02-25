@@ -1,0 +1,78 @@
+---
+id: JIST06012312005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医用電気機器－第２－３１部：内部電源形体外式心臓ペースメーカの安全に関する個別要求事項
+- language: en
+  script: Latn
+  content: 'Medical electrical equipment -- Part 2-31: Particular requirements for
+    the safety of external cardiac pacemakers with internal power source'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0601-2-31%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00601_002_031_2005_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 0601-2-31:2005
+  type: JIS
+  primary: true
+docnumber: T0601
+date:
+- type: issued
+  at: '2005-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 内部電源で駆動する体外式ペースメーカの個別安全要求事項を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.01
+    text: Medical equipment in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T0601

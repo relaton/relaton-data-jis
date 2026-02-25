@@ -1,0 +1,72 @@
+---
+id: JISE40021973
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄道車両用語（走行装置）
+- language: en
+  script: Latn
+  content: Glossary of terms for railway rolling stock (running gear)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+4002%3A1973
+docidentifier:
+- content: JIS E 4002:1973
+  type: JIS
+  primary: true
+docnumber: E4002
+date:
+- type: issued
+  at: '1973-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道車輌工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道車輌工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄道車輌工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄道車両に関する用語のうち，走行装置用語について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E4002

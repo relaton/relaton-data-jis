@@ -1,0 +1,101 @@
+---
+id: JISK67412016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 硬質ポリ塩化ビニル管
+- language: en
+  script: Latn
+  content: Unplasticized poly(vinyl chloride) (PVC-U) pipes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6741%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06741_000_000_2016_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06741_000_000_2016_e_ed10_i4.pdf
+docidentifier:
+- content: JIS K 6741:2016
+  type: JIS
+  primary: true
+docnumber: K6741
+date:
+- type: issued
+  at: '2016-10-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           塩化ビニル管・継手協会
+        \                                               \r\n                                                                                            日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           塩化ビニル管・継手協会
+        \                                               \r\n                                                                                            日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           塩化ビニル管・継手協会
+          \                                               \r\n                                                                                            日本プラスチック工業連盟"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 主に一般流体輸送配管に用いる硬質ポリ塩化ビニル管及び耐衝撃性硬質ポリ塩化ビニル管について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.040.20
+    text: Plastics pipes
+  - code: 83.140.30
+    text: Plastics pipes and fittings for non fluid use
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K6741

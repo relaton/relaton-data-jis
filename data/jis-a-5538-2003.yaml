@@ -1,0 +1,96 @@
+---
+id: JISA55382003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 壁・天井ボード用接着剤
+- language: en
+  script: Latn
+  content: Adhesives for wall and ceiling boards
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5538%3A2003
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05538_000_000_2003_j_ed12_ch.pdf
+docidentifier:
+- content: JIS A 5538:2003
+  type: JIS
+  primary: true
+docnumber: A5538
+date:
+- type: issued
+  at: '2003-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本接着剤工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本接着剤工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本接着剤工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 壁面・天井面に建築用ボード類を張り付ける場合に使用する接着剤について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '83.180'
+    text: Adhesives
+  - code: 91.060.10
+    text: Walls. Partitions. Façades
+  - code: 91.060.30
+    text: Ceilings. Floors. Stairs
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5538

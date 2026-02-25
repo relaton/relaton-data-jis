@@ -1,0 +1,83 @@
+---
+id: JISX04022020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 市区町村コード
+- language: en
+  script: Latn
+  content: Identification code for cities, towns and villages
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0402%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00402_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0402:2020
+  type: JIS
+  primary: true
+docnumber: X0402
+date:
+- type: issued
+  at: '2020-03-23'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: データ処理機械を用いて機械と機械との間及び機械と人との間で情報を交換する場合の市区町村コードについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.140.30
+    text: Documents in administration, commerce and industry
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0402

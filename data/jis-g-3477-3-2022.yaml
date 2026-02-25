@@ -1,0 +1,88 @@
+---
+id: JISG347732022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ポリエチレン被覆鋼管―第３部：外面ポリエチレン粉体被覆鋼管
+- language: en
+  script: Latn
+  content: 'Polyethylene coated steel pipes -- Part 3: External polyethylene powder
+    coated steel pipes'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3477-3%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03477_003_000_2022_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03477_003_000_2022_e_ed10_ch.pdf
+docidentifier:
+- content: JIS G 3477-3:2022
+  type: JIS
+  primary: true
+docnumber: G3477
+date:
+- type: issued
+  at: '2022-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ガス，油，水などの輸送に用いるもので，主に地中（河川底，海底などを含む。）埋設用に適用される外面ポリエチレン粉体被覆鋼管について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.10
+    text: Heat-treatable steels
+  - code: 77.140.75
+    text: Steel pipes and tubes for specific use
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G3477

@@ -1,0 +1,79 @@
+---
+id: JISZ81231995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 印刷用語―基本用語
+- language: en
+  script: Latn
+  content: Graphic arts -- Glossary -- Fundamental terms
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8123%3A1995
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08123_000_000_1995_e_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 8123:1995
+  type: JIS
+  primary: true
+docnumber: Z8123
+date:
+- type: issued
+  at: '1995-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本印刷産業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本印刷産業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本印刷産業連合会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 印刷に関する基礎的な用語及び定義について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.37
+    text: Image technology (Vocabularies)
+  - code: 37.100.10
+    text: Reproduction equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8123

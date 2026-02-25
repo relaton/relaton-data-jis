@@ -1,0 +1,89 @@
+---
+id: JISZ4752252001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医用画像部門における品質維持の評価及び日常試験方法―第２－５部：不変性試験―画像表示装置
+- language: en
+  script: Latn
+  content: 'Evaluation and routine testing in medical imaging departments -- Part
+    2-5: Constancy tests -- Imaging display devices'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4752-2-5%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04752_002_005_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 4752-2-5:2001
+  type: JIS
+  primary: true
+docnumber: Z4752
+date:
+- type: issued
+  at: '2001-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本画像医療システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本画像医療システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本画像医療システム工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 画像診断システム（ディジタルラジオグラフィー装置；ＤＳＡ装置；医用Ｘ線ＣＴ装置；磁気共鳴画像診断装置；超音波画像診断装置；核医学診断装置）に使われる，画像表示装置に適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.50
+    text: Radiographic equipment
+  - code: 37.040.99
+    text: Other standards related to photography
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4752

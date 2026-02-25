@@ -1,0 +1,79 @@
+---
+id: JISG74012000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 冷間圧造及び冷間押出し用鋼（ＩＳＯ仕様）
+- language: en
+  script: Latn
+  content: Steels for cold heading and cold extruding
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+7401%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_07401_000_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS G 7401:2000
+  type: JIS
+  primary: true
+docnumber: G7401
+date:
+- type: issued
+  at: '2000-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "線材製品協会                                                \r\n                                                                                            一般社団法人　日本鉄鋼連盟"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "線材製品協会                                                \r\n                                                                                            一般社団法人　日本鉄鋼連盟"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "線材製品協会                                                \r\n                                                                                            一般社団法人　日本鉄鋼連盟"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 冷間圧造又は冷間押出しに用いられる線材，線又は棒鋼で受け渡される非合金及び合金の鋼材に適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.10
+    text: Heat-treatable steels
+  - code: 77.140.20
+    text: Stainless steels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G7401

@@ -1,0 +1,81 @@
+---
+id: JISC76141993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 照明の場における輝度測定方法
+- language: en
+  script: Latn
+  content: Methods of luminance measurements in lighting fields
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7614%3A1993
+docidentifier:
+- content: JIS C 7614:1993
+  type: JIS
+  primary: true
+docnumber: C7614
+date:
+- type: issued
+  at: '1993-07-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　照明学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　照明学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　照明学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 照明の場における一般的な輝度測定の方法について規定。発光体，再帰反射体などのような特殊な面の輝度測定には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.160.01
+    text: Lighting in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C7614

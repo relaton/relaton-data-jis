@@ -1,0 +1,93 @@
+---
+id: JISC051122023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機能安全―プロセス産業分野の安全計装システム―第２部：ＪＩＳ　Ｃ　０５１１－１：２０１９の適用指針
+- language: en
+  script: Latn
+  content: 'Functional safety -- Safety instrumented systems for the process industry
+    sector -- Part 2: Guidelines for the application of JIS C 0511-1:2019'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0511-2%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00511_002_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 0511-2:2023
+  type: JIS
+  primary: true
+docnumber: C0511
+date:
+- type: issued
+  at: '2023-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＳＩＦ（群）及びそれに関連するＳＩＳに対する，ＪＩＳ　Ｃ　０５１１－１：２０１９で規定した仕様，設計，運用，及び保全に対する適用指針を示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: 25.040.01
+    text: Industrial automation systems in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0511

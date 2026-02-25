@@ -1,0 +1,92 @@
+---
+id: JISC84802023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: キャビネット形分電盤
+- language: en
+  script: Latn
+  content: Cabinet type distribution board
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8480%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08480_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8480:2023
+  type: JIS
+  primary: true
+docnumber: C8480
+date:
+- type: issued
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本配電制御システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本配電制御システム工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本配電制御システム工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 需要家が構内に電気を分配するために用いる，主に電気設備技術の熟練者及び技能者が取り扱う分電盤であって，定格電圧６００　Ｖ（対地電圧３００　Ｖ）以下，定格周波数５０　Ｈｚ又は６０Ｈｚ，定格短時間耐電流３５　ｋＡ以下及び基準定格電流６３０　Ａ以下のもの，又は直流１２５　Ｖ以下及び基準定格電流２００　Ａ以下の電路に用いるキャビネット形分電盤について規定。ただし，住宅用分電盤には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.130.01
+    text: Switchgear and controlgear in general
+  - code: 29.130.20
+    text: Low voltage switchgear and controlgear
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8480

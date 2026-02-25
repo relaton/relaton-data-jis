@@ -1,0 +1,93 @@
+---
+id: JISQ500092023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: エネルギーマネジメントシステム―複数の組織で共通のエネルギーマネジメントシステムを実施するための手引
+- language: en
+  script: Latn
+  content: Energy management systems -- Guidance for implementing a common energy
+    management system in multiple organizations
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+50009%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_50009_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 50009:2023
+  type: JIS
+  primary: true
+docnumber: Q50009
+date:
+- type: issued
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　エネルギー総合工学研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　エネルギー総合工学研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　エネルギー総合工学研究所"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 複数の組織に共通のエネルギーマネジメントシステム（ＥｎＭＳ）を確立し，実施し，維持し，改善するための指針を提供する。この規格の構成は，基本的にＪＩＳ　Ｑ　５０００１：２０１９の構成に合わせている。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.100.70
+    text: Management systems
+  - code: '27.015'
+    text: Energy efficiency. Energy conservation in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q50009

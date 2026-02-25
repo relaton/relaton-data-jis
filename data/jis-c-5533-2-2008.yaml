@@ -1,0 +1,87 @@
+---
+id: JISC553322008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: オーディオ機器及びオーディオビジュアル機器―デジタルオーディオ部―音響特性の基本測定方法―第２部：一般消費者用機器
+- language: en
+  script: Latn
+  content: 'Audio and audiovisual equipment -- Digital audio parts -- Basic measurement
+    methods of audio characteristics -- Part 2: Consumer use'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5533-2%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05533_002_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 5533-2:2008
+  type: JIS
+  primary: true
+docnumber: C5533
+date:
+- type: issued
+  at: '2008-12-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+          \                                                                                           国立研究開発法人　産業技術総合研究所"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般消費者用のオーディオ機器及びオーディオビジュアル機器のデジタルオーディオ部について，音響特性の基本的な測定方法を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.160.01
+    text: Audio, video and audiovisual systems in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5533

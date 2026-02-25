@@ -1,0 +1,84 @@
+---
+id: JISS00422010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高齢者・障害者配慮設計指針―アクセシブルミーティング
+- language: en
+  script: Latn
+  content: Guidelines for older persons and persons with disabilities -- Considerations
+    and apparatuses for accessible meetings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+0042%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_00042_000_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: JIS S 0042:2010
+  type: JIS
+  primary: true
+docnumber: S0042
+date:
+- type: issued
+  at: '2010-03-23'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益財団法人　共用品推進機構
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益財団法人　共用品推進機構
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益財団法人　共用品推進機構
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 高齢者及び障害のある人々が参加する会議を行う場合，会議主催者が，安全かつ円滑に会議を運営するための支援機器の利用方法などに関する配慮事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.99
+    text: IT applications in other fields
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S0042

@@ -1,0 +1,89 @@
+---
+id: JISB00061993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製図―スプライン及びセレーションの表し方
+- language: en
+  script: Latn
+  content: Technical drawings -- Representation of splines and serrations
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0006%3A1993
+docidentifier:
+- content: JIS B 0006:1993
+  type: JIS
+  primary: true
+docnumber: B0006
+date:
+- type: issued
+  at: '1993-08-31'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 図面にスプライン及びセレーションを表す方法並びに図記号を規定。規定する表し方は，（ａ）忠実な表し方　（ｂ）簡単な表し方の２つある。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.100.20
+    text: Mechanical engineering drawings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0006

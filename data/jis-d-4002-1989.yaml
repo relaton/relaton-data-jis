@@ -1,0 +1,83 @@
+---
+id: JISD40021989
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: トラック荷台の内のり寸法
+- language: en
+  script: Latn
+  content: Internal dimensions for rear body of motor trucks
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+4002%3A1989
+docidentifier:
+- content: JIS D 4002:1989
+  type: JIS
+  primary: true
+docnumber: D4002
+date:
+- type: issued
+  at: '1989-10-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本ロジスティクスシステム協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本ロジスティクスシステム協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本ロジスティクスシステム協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: トラックの普通荷台及びバンボデーの内のり寸法について規定。ただし，断熱壁をもつ荷台は除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.080.10
+    text: Trucks and trailers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D4002

@@ -1,0 +1,83 @@
+---
+id: JISG33511987
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: エキスパンドメタル
+- language: en
+  script: Latn
+  content: Expanded metals
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3351%3A1987
+docidentifier:
+- content: JIS G 3351:1987
+  type: JIS
+  primary: true
+docnumber: G3351
+date:
+- type: issued
+  at: '1987-09-30'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: エキスパンドメタル工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: エキスパンドメタル工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: エキスパンドメタル工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 土木，建築及びその他一般の鉱工業などに使用される鋼製エキスパンドメタルについて規定。ただし，ＪＩＳ　Ａ　５５０５に規定されたメタルラスを除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.99
+    text: Other iron and steel products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G3351

@@ -1,0 +1,86 @@
+---
+id: JISD64021999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 産業車両及び建設車両用ホイール―リムの輪郭
+- language: en
+  script: Latn
+  content: Wheels for industrial vehicles and off the road service -- Contours of
+    rims
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+6402%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_06402_000_000_1999_j_pr10_i4.pdf
+docidentifier:
+- content: JIS D 6402:1999
+  type: JIS
+  primary: true
+docnumber: D6402
+date:
+- type: issued
+  at: '1999-05-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車部品工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本自動車部品工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本自動車部品工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 産業車両及び建設車両用のホイールに使用する５°深底リム，浅底リム，５°平底リム，傾斜座リム，１５°深底リム及び二つ割りリムのタイヤを装着する側の輪郭及び寸法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '53.060'
+    text: Industrial trucks
+  - code: '53.100'
+    text: Earth-moving machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D6402

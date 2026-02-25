@@ -1,0 +1,75 @@
+---
+id: JISC45211991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 制御用ボタンスイッチ
+- language: en
+  script: Latn
+  content: Button control switches
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4521%3A1991
+docidentifier:
+- content: JIS C 4521:1991
+  type: JIS
+  primary: true
+docnumber: C4521
+date:
+- type: issued
+  at: '1991-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気制御機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気制御機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電気制御機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電圧が交流６００Ｖ（周波数が５０Ｈｚ又は６０Ｈｚ）又は直流２５０Ｖ以下の電路に使用する制御用ボタンスイッチについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.40
+    text: Switches
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C4521

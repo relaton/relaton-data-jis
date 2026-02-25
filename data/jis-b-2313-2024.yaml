@@ -1,0 +1,94 @@
+---
+id: JISB23132024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 配管用鋼板製突合せ溶接式管継手
+- language: en
+  script: Latn
+  content: Steel plate butt-welding pipe fittings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2313%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02313_000_000_2024_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02313_000_000_2024_e_ed10_ch.pdf
+docidentifier:
+- content: JIS B 2313:2024
+  type: JIS
+  primary: true
+docnumber: B2313
+date:
+- type: issued
+  at: '2024-01-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本金属継手協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本金属継手協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本金属継手協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 主として圧力配管，高温配管，合金鋼配管，ステンレス鋼配管及び低温配管に用いる長手継目をもつ突合せ溶接式管継手について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.040.40
+    text: Metal fittings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B2313

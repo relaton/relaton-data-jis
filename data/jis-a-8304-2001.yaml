@@ -1,0 +1,92 @@
+---
+id: JISA83042001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 土工機械―運転員の座席の振動評価試験
+- language: en
+  script: Latn
+  content: Earth-moving machinery -- Laboratory evaluation of operator seat vibration
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8304%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_08304_000_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS A 8304:2001
+  type: JIS
+  primary: true
+docnumber: A8304
+date:
+- type: issued
+  at: '2001-05-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建設機械施工協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建設機械施工協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本建設機械施工協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 運転員の座席の懸架装置が，土工機械の運転員に伝わる１～２０Ｈｚの周波数範囲の垂直方向の全身振動を減衰させる効果を測定及び評価するための室内試験方法について，ＩＳＯ　１０３２６－１に従い，規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '91.220'
+    text: Construction equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8304

@@ -1,0 +1,91 @@
+---
+id: JISZ88372018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 体積置換による密度の測定―ガスピクノメータ法による骨格密度
+- language: en
+  script: Latn
+  content: Determination of density by volumetric displacement -- Skeleton density
+    by gas pycnometry
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8837%3A2018
+docidentifier:
+- content: JIS Z 8837:2018
+  type: JIS
+  primary: true
+docnumber: Z8837
+date:
+- type: issued
+  at: '2018-02-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本粉体工業技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 規則形状又は不規則形状で，粉末状又は一つの塊状となった固体試料の骨格密度を，ガスピクノメータを用いて迅速かつ効率的に測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.120'
+    text: Particle size analysis. Sieving
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8837

@@ -1,0 +1,75 @@
+---
+id: JISZ03041974
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: さび止め処理金属の大気暴露試験方法
+- language: en
+  script: Latn
+  content: Outdoor exposure test for protected metals
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+0304%3A1974
+docidentifier:
+- content: JIS Z 0304:1974
+  type: JIS
+  primary: true
+docnumber: Z0304
+date:
+- type: issued
+  at: '1982-04-23'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本防錆技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本防錆技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本防錆技術協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: さび止め処理を施した金属の大気暴露試験方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '77.060'
+    text: Corrosion of metals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z0304

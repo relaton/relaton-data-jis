@@ -1,0 +1,92 @@
+---
+id: JISB839012023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 空気圧―圧縮性流体用機器の流量特性試験方法―第１部：通則及び定常流れ試験方法
+- language: en
+  script: Latn
+  content: 'Pneumatic fluid power -- Determination of flow-rate characteristics of
+    components using compressible fluids -- Part 1: General rules and test methods
+    for steady-state flow'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8390-1%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08390_001_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8390-1:2023
+  type: JIS
+  primary: true
+docnumber: B8390
+date:
+- type: issued
+  at: '2023-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本フルードパワー工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "圧縮性流体，すなわち気体を使用する空気圧機器の流量特性を決定するための定常流れ試験方法について規定。ただし，次［ａ）\t流れによって変形する弾性部品を含むため，著しく大きなヒステリシス特性をもつ機器；ｂ）\t減圧弁などのような内部フィードバック機構をもつ機器；ｃ）\tシリンダ，アキュムレータなどのような，流量測定中に流体と機器との間でエネルギーの変換をする機器］のような流量係数が変化する機器に適用しない。"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.01
+    text: Fluid power systems in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8390

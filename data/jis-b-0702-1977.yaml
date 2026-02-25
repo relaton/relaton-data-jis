@@ -1,0 +1,75 @@
+---
+id: JISB07021977
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械部分の丸み（プレス加工品）
+- language: en
+  script: Latn
+  content: Radius of machine parts (Press working of sheet metals)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0702%3A1977
+docidentifier:
+- content: JIS B 0702:1977
+  type: JIS
+  primary: true
+docnumber: B0702
+date:
+- type: issued
+  at: '1978-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: プレスにより金属板を打抜き加工，曲げ加工，絞り加工，ビード加工，エンボス加工，バーリング加工及び穴フランジ加工した部品のかどの丸み及びすみの丸みの値について規定。機能上の考慮を要するところには，これを適用しない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.120.10
+    text: Forging equipment. Presses. Shears
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0702

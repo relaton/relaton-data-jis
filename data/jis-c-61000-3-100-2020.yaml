@@ -1,0 +1,93 @@
+---
+id: JISC6100031002020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電磁両立性―第３－１００部：限度値―２ｋＨｚを超え９ｋＨｚ以下の周波数帯における電流エミッション限度値
+- language: en
+  script: Latn
+  content: 'Electromagnetic compatibility (EMC) -- Part 3-100: Limits -- Limits for
+    current emissions in frequency band of over 2 kHz up to 9 kHz'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61000-3-100%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61000_003_100_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61000-3-100:2020
+  type: JIS
+  primary: true
+docnumber: C61000
+date:
+- type: issued
+  at: '2020-02-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 商用電源系統に流入する２　ｋＨｚを超え９　ｋＨｚ以下の周波数の電流エミッションの限度値及び判定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.100.10
+    text: Emission
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61000

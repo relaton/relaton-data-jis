@@ -1,0 +1,95 @@
+---
+id: JIST90022021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 感染対策医療用マスクの性能要件及び試験方法
+- language: en
+  script: Latn
+  content: Performance requirements and test methods of filtering facepiece respirators
+    for infection control at medical use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9002%3A2021
+docidentifier:
+- content: JIS T 9002:2021
+  type: JIS
+  primary: true
+docnumber: T9002
+date:
+- type: issued
+  at: '2021-06-16'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本衛生材料工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本衛生材料工業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本衛生材料工業連合会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 主に医療施設において感染症にり（罹）患している又はり患しているおそれのある患者に対し，手術，治療又は接近する医療従事者などが使用するマスクのうち，一体となったろ過材及び面体，並びにしめひもからなる排気弁をもたない感染対策医療用の単回使用の呼吸用保護具の性能要件及び試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.020.99
+    text: Other standards related to health care in general
+  - code: '13.100'
+    text: Occupational safety. Industrial hygiene
+  - code: 13.340.30
+    text: Respiratory protective devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9002

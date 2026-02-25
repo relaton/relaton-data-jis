@@ -1,0 +1,84 @@
+---
+id: JISZ87161991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 表面色の比較に用いる常用光源蛍光ランプＤ６５―形式及び性能
+- language: en
+  script: Latn
+  content: Fluorescent lamp as a simulator of CIE standard illuminant D65 for a visual
+    comparison of surface colours -- Type and characteristics
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8716%3A1991
+docidentifier:
+- content: JIS Z 8716:1991
+  type: JIS
+  primary: true
+docnumber: Z8716
+date:
+- type: issued
+  at: '1991-09-01'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　照明学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　照明学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　照明学会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 表面色を視感によって比較する場合の常用光源Ｄ６５として用いる蛍光ランプの形式及び性能について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.180.20
+    text: Colours and measurement of light
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8716

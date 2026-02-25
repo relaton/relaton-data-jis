@@ -1,0 +1,75 @@
+---
+id: TSD00082018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車リユース部品―呼び方のシステム及び仕様表記
+- language: en
+  script: Latn
+  content: Automobile used parts -- Designation system and basic for specifications
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+D+0008%3A2018
+docidentifier:
+- content: TS D 0008:2018
+  type: JIS
+  primary: true
+docnumber: D0008
+date:
+- type: issued
+  at: '2018-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ＥＬＶリサイクル機構
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ＥＬＶリサイクル機構
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ＥＬＶリサイクル機構
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 使用済自動車から回収された自動車部品をリサイクル部品として再生処理した自動車リユース部品の呼び方及び仕様を表記する方法について規定。ただし，リビルト部品及び解体部品を除く。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: '43.020'
+    text: Road vehicles in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0008

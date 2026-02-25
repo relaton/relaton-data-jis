@@ -1,0 +1,91 @@
+---
+id: JISC54421996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 制御用小形電磁リレーの試験方法
+- language: en
+  script: Latn
+  content: Test methods of low power electromagnetic relays for industrial control
+    circuits
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5442%3A1996
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05442_000_000_1996_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05442_000_000_1996_e_pr10_i4.pdf
+docidentifier:
+- content: JIS C 5442:1996
+  type: JIS
+  primary: true
+docnumber: C5442
+date:
+- type: issued
+  at: '1996-05-31'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般社団法人　日本電気制御機器工業会                                                \r\n
+        \                                                                                           日本電気制御技術工業会"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般社団法人　日本電気制御機器工業会                                                \r\n
+        \                                                                                           日本電気制御技術工業会"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般社団法人　日本電気制御機器工業会                                                \r\n
+          \                                                                                           日本電気制御技術工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子機器及び工業用制御回路の信号伝送用に用いる制御用小形電磁リレーの試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.70
+    text: Relays
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5442

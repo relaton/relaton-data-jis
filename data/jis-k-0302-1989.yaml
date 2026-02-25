@@ -1,0 +1,89 @@
+---
+id: JISK03021989
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 排ガス中のダスト粒径分布の測定方法
+- language: en
+  script: Latn
+  content: Measuring method for particle-size distribution of dusts in flue gas
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0302%3A1989
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00302_000_000_1989_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00302_000_000_1989_e_pr10_i4.pdf
+docidentifier:
+- content: JIS K 0302:1989
+  type: JIS
+  primary: true
+docnumber: K0302
+date:
+- type: issued
+  at: '1989-06-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　産業環境管理協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 排ガス中のダストの粒径分布を煙突，煙道，ダクトなどにおいて，質量基準によって測定する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.40
+    text: Stationary source emissions
+  - code: 71.040.40
+    text: Chemical analysis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0302

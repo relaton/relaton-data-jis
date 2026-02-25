@@ -1,0 +1,77 @@
+---
+id: JISC70361985
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 発光ダイオード測定方法（表示用）
+- language: en
+  script: Latn
+  content: Measuring methods for light emitting diodes (for indication)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+7036%3A1985
+docidentifier:
+- content: JIS C 7036:1985
+  type: JIS
+  primary: true
+docnumber: C7036
+date:
+- type: issued
+  at: '1985-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本電子部品信頼性センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本電子部品信頼性センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本電子部品信頼性センター
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 表示用として使用する発光ダイオードの電気及び光学的特性の測定方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.080.10
+    text: Diodes
+  - code: '31.260'
+    text: Optoelectronics. Laser equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C7036

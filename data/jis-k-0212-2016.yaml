@@ -1,0 +1,94 @@
+---
+id: JISK02122016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 分析化学用語（光学部門）
+- language: en
+  script: Latn
+  content: Technical terms for analytical chemistry (optical part)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0212%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00212_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 0212:2016
+  type: JIS
+  primary: true
+docnumber: K0212
+date:
+- type: issued
+  at: '2016-12-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本分析化学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本分析化学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本分析化学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 分析化学における光学部門で用いる主な用語及びその定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.71
+    text: Chemical technology (Vocabularies)
+  - code: 71.040.01
+    text: Analytical chemistry in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0212

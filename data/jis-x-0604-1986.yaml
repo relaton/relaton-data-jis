@@ -1,0 +1,79 @@
+---
+id: JISX06041986
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報交換用データ記述ファイル
+- language: en
+  script: Latn
+  content: Specification for a data descriptive file for information interchange
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0604%3A1986
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00604_000_000_1986_j_pr20_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00604_000_000_1986_e_pr10_i4.pdf
+docidentifier:
+- content: JIS X 0604:1986
+  type: JIS
+  primary: true
+docnumber: X0604
+date:
+- type: issued
+  at: '1986-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　情報処理学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　情報処理学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　情報処理学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 多様な形と構造をもつデータを，計算機システム間で情報交換するためのレコード及びファイルに関し，媒体に依存しない一般的構造及びその記述方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.220.20
+    text: Magnetic storage devices in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0604

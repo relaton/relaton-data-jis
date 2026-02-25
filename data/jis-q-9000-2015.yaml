@@ -1,0 +1,92 @@
+---
+id: JISQ90002015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 品質マネジメントシステム―基本及び用語
+- language: en
+  script: Latn
+  content: Quality management systems -- Fundamentals and vocabulary
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+9000%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_09000_000_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 9000:2015
+  type: JIS
+  primary: true
+docnumber: Q9000
+date:
+- type: issued
+  at: '2015-11-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 組織及び人（品質マネジメントシステムの実施を通して持続的成功を求める組織；要求事項に適合する製品及びサービスを一貫して提供するための組織の能力について，信頼感を得ようとする顧客；製品及びサービスの要求事項が満たされるという信頼感を，自らのサプライチェーンにおいて得ようとする組織；品質マネジメントで用いる用語の共通理解を通して，コミュニケーションを改善しようとする組織及び利害関係者；ＪＩＳ　Ｑ　９００１の要求事項に対する適合性評価を行う組織；品質マネジメントに関する教育・訓練，評価又は助言の提供者；関連する規格の作成者）に広く適用できる，品質マネジメントの基本概念及び原則について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.03
+    text: Services. Company organization, management and quality. Administration.
+      Transport. Sociology. (Vocabularies)
+  - code: 03.120.10
+    text: Quality management and quality assurance
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q9000

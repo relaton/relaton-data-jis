@@ -1,0 +1,97 @@
+---
+id: JISC239032019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 生分解性電気絶縁油―第３部：植物由来エステル
+- language: en
+  script: Latn
+  content: 'Readily biodegradable electrical insulating oils -- Part 3: Modified esters
+    derived from vegetable oils'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2390-3%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02390_003_000_2019_e_ed10_ch.pdf
+docidentifier:
+- content: JIS C 2390-3:2019
+  type: JIS
+  primary: true
+docnumber: C2390
+date:
+- type: issued
+  at: '2019-09-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　石油学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　石油学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　石油学会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 油入コンデンサ，油入ケーブル，油入変圧器，油入遮断器，その他の油入電気機器に絶縁媒体，及び／又は熱交換媒体として用いる未使用植物由来エステルについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.040.01
+    text: Insulating fluids in general
+  - code: 29.040.99
+    text: Other insulating fluids
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2390

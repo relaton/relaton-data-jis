@@ -1,0 +1,84 @@
+---
+id: JISS20612022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 合成樹脂製食品用器具・容器包装の安全性確認に関する情報伝達項目
+- language: en
+  script: Latn
+  content: The details of information to communicate regarding confirmation of synthetic
+    resin safety of utensils, containers and packaging for food
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2061%3A2022
+docidentifier:
+- content: JIS S 2061:2022
+  type: JIS
+  primary: true
+docnumber: S2061
+date:
+- type: issued
+  at: '2022-01-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　化学研究評価機構
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　化学研究評価機構
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　化学研究評価機構
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 合成樹脂製食品用器具・容器包装及びそれに使用される原材料を販売，製造又は輸入する者が，製品等の安全性情報を事業者間で伝達するための項目について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '55.020'
+    text: Packaging and distribution of goods in general
+  - code: 97.040.50
+    text: Small kitchen appliances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S2061

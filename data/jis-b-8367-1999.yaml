@@ -1,0 +1,75 @@
+---
+id: JISB83671999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 油圧シリンダ
+- language: en
+  script: Latn
+  content: Hydraulic cylinders
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8367%3A1999
+docidentifier:
+- content: JIS B 8367:1999
+  type: JIS
+  primary: true
+docnumber: B8367
+date:
+- type: issued
+  at: '1999-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本フルードパワー工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 機械設備に使用される油圧システムの中の要素機器の一つである油圧シリンダについて規定。規定するシリンダは，ピストンにはシール機構をもち，複動又は単動運動を行うもの。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.20
+    text: Cylinders
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8367

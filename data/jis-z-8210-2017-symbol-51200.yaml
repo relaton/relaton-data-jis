@@ -1,0 +1,79 @@
+---
+id: JISZ82102017SYMBOL51200
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 案内用図記号 案内所 (JIS Z 8210:2017)
+- language: en
+  script: Latn
+  content: ''
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8210%3A2017+SYMBOL+51200
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08210_000_000_2017_j_symbol_51200.pdf
+docidentifier:
+- content: JIS Z 8210:2017 SYMBOL 51200
+  type: JIS
+  primary: true
+docnumber: Z8210
+date:
+- type: issued
+  at: '2017-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.080.10
+    text: Public information symbols. Signs. Plates. Labels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8210

@@ -1,0 +1,81 @@
+---
+id: JISM25061992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ロックボルト及びその構成部品
+- language: en
+  script: Latn
+  content: Rock bolt and its equipment parts
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+2506%3A1992
+docidentifier:
+- content: JIS M 2506:1992
+  type: JIS
+  primary: true
+docnumber: M2506
+date:
+- type: issued
+  at: '1992-07-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　資源・素材学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　資源・素材学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　資源・素材学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 坑道，トンネル，地下空洞，切取斜面の岩盤支保などに用いるロックボトル及びその構成部品について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 73.100.10
+    text: Tunnelling and tubing equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M2506

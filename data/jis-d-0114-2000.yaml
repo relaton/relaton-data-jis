@@ -1,0 +1,83 @@
+---
+id: JISD01142000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気自動車用語（電池）
+- language: en
+  script: Latn
+  content: Glossary of terms relating to electric vehicles (Batteries)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+0114%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_00114_000_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS D 0114:2000
+  type: JIS
+  primary: true
+docnumber: D0114
+date:
+- type: issued
+  at: '2000-07-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本自動車研究所
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本自動車研究所
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本自動車研究所
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気自動車の電池（ただし，車両，電動機・制御装置及び充電器に関するものを除く）に関する用語について規定。ＪＩＳ　Ｄ　０１０１に規定する産業車両用は除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '43.120'
+    text: Electric road vehicles
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0114

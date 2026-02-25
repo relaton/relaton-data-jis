@@ -1,0 +1,85 @@
+---
+id: JIST606012472018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医用電気機器―第２－４７部：ホルタ心電図システムの基礎安全及び基本性能に関する個別要求事項
+- language: en
+  script: Latn
+  content: 'Medical electrical equipment -- Part 2-47: Particular requirements for
+    the basic safety and essential performance of ambulatory electrocardiographic
+    systems'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+60601-2-47%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_60601_002_047_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 60601-2-47:2018
+  type: JIS
+  primary: true
+docnumber: T60601
+date:
+- type: issued
+  at: '2018-03-01'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ホルタ心電図システムの基礎安全及び基本性能に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.55
+    text: Diagnostic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T60601

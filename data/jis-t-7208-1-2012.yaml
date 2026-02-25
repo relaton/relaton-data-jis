@@ -1,0 +1,102 @@
+---
+id: JIST720812012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療用吸引器―第１部：電動式吸引器―安全要求事項
+- language: en
+  script: Latn
+  content: 'Medical suction equipment -- Part 1: Electrically powered suction equipment
+    -- Safety requirements'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+7208-1%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_07208_001_000_2012_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_07208_001_000_2012_e_ed10_i4.pdf
+docidentifier:
+- content: JIS T 7208-1:2012
+  type: JIS
+  primary: true
+docnumber: T7208
+date:
+- type: issued
+  at: '2012-03-01'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本麻酔科学会
+        \                                               \r\n                                                                                            一般社団法人　日本医療機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本麻酔科学会
+        \                                               \r\n                                                                                            一般社団法人　日本医療機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本麻酔科学会
+          \                                               \r\n                                                                                            一般社団法人　日本医療機器工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 病院のような医療施設用，在宅医療用，野外用及び搬送用に使用する医療用吸引器の安全及び性能に関する最小限の要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.060.20
+    text: Dental equipment
+  - code: 11.060.25
+    text: Dental instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T7208

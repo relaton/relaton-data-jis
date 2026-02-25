@@ -1,0 +1,81 @@
+---
+id: JISZ89081998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 集じん用ろ布
+- language: en
+  script: Latn
+  content: Filter fabrics for dust collection
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8908%3A1998
+docidentifier:
+- content: JIS Z 8908:1998
+  type: JIS
+  primary: true
+docnumber: Z8908
+date:
+- type: issued
+  at: '1998-07-31'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本粉体工業技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本粉体工業技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本粉体工業技術協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 乾式ろ過集じん装置に用いる集じん用職布及び集じん用不職布の表示方法と品質の表し方について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.20
+    text: Ambient atmospheres
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8908

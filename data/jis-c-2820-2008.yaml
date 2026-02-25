@@ -1,0 +1,95 @@
+---
+id: JISC28202008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気機械用ブラシ材料の物理特性試験方法
+- language: en
+  script: Latn
+  content: Test procedures for determining physical properties of brush materials
+    for electrical machines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2820%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02820_000_000_2008_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 2820:2008
+  type: JIS
+  primary: true
+docnumber: C2820
+date:
+- type: issued
+  at: '2008-06-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           炭素協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           炭素協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           炭素協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気機械用ブラシ材料のかさ密度・硬さ・抵抗率・曲げ強さの物理特性試験法及び灰分の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.160.10
+    text: Components for rotating machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2820

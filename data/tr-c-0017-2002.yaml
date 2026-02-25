@@ -1,0 +1,75 @@
+---
+id: TRC00172002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ビルディング内光配線システム
+- language: en
+  script: Latn
+  content: Optical fiber distribution system for customer premises
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0017%3A2002
+docidentifier:
+- content: TR C 0017:2002
+  type: JIS
+  primary: true
+docnumber: C0017
+date:
+- type: issued
+  at: '2002-01-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 単一のビルディング又は構内のビル群で使用する光配線システムに関して，石英系の光ファイバケーブル（光ケーブルともいう）の布設，配線盤設置，光ファイバ接続，試験方法，表示及び管理について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 33.180.10
+    text: Fibres and cables
+  - code: 91.140.50
+    text: Electricity supply systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0017

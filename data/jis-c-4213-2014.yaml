@@ -1,0 +1,88 @@
+---
+id: JISC42132014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧三相かご形誘導電動機―低圧トップランナーモータ
+- language: en
+  script: Latn
+  content: Low-voltage three-phase squirrel-cage induction motors -- Low-voltage top
+    runner motor
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4213%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04213_000_000_2014_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04213_000_000_2014_e_ed10_i4.pdf
+docidentifier:
+- content: JIS C 4213:2014
+  type: JIS
+  primary: true
+docnumber: C4213
+date:
+- type: issued
+  at: '2014-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 次に示す周波数５０Ｈｚ及び／又は６０Ｈｚの単一速度低圧三相かご形誘導電動機のうち，低圧トップランナーモータについて規定。インバータ駆動専用に製作した電動機；機械（例えば，ポンプ，ファン及びコンプレッサ）に組み込んで，かつ，機械から分離して試験ができない電動機には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.160.30
+    text: Motors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C4213

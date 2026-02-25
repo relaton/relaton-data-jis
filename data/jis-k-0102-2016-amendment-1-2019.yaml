@@ -1,0 +1,79 @@
+---
+id: JISK01022016AMENDMENT12019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工場排水試験方法（追補１）
+- language: en
+  script: Latn
+  content: Testing methods for industrial wastewater (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0102%3A2016%2FAMENDMENT+1%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00102_000_000_2016_am_1_2019_j_ed11_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00102_000_000_2016_am_1_2019_e_ed10_ch.pdf
+docidentifier:
+- content: JIS K 0102:2016/AMENDMENT 1:2019
+  type: JIS
+  primary: true
+docnumber: K0102
+date:
+- type: issued
+  at: '2019-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　産業環境管理協会
+      type: technical-committee
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: 13.060.25
+    text: Water for industrial use
+  - code: 13.060.30
+    text: Sewage water
+  - code: 13.060.50
+    text: Examination of water for chemical substances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0102

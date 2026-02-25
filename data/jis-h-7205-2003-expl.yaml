@@ -1,0 +1,83 @@
+---
+id: JISH72052003EXPL
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: JIS H 7205:2003 解説
+- language: en
+  script: Latn
+  content: JIS H 7205:2003 explanatory version
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+7205%3A2003%2FEXPL
+docidentifier:
+- content: JIS H 7205:2003/EXPL
+  type: JIS
+  primary: true
+docnumber: H7205
+date:
+- type: issued
+  at: '2003-12-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.220.99
+    text: Other cells and batteries
+  - code: 77.150.40
+    text: Nickel and chromium products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H7205

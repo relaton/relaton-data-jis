@@ -1,0 +1,83 @@
+---
+id: JISX30172013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プログラム言語Ｒｕｂｙ
+- language: en
+  script: Latn
+  content: Programming languages -- Ruby
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3017%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03017_000_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 3017:2013
+  type: JIS
+  primary: true
+docnumber: X3017
+date:
+- type: issued
+  at: '2013-12-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　Ｒｕｂｙアソシエーション
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　Ｒｕｂｙアソシエーション
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　Ｒｕｂｙアソシエーション
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: プログラム言語Rubyの構文規則及び意味規則を規定し，その規格適合処理系，規格に厳密に適合するプログラム及び規格適合プログラムの要件を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X3017

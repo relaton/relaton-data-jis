@@ -1,0 +1,94 @@
+---
+id: JISZ812332013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 印刷技術用語―第３部：プリンティング用語
+- language: en
+  script: Latn
+  content: 'Graphic technology -- Vocabulary -- Part 3: Printing terms'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8123-3%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08123_003_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8123-3:2013
+  type: JIS
+  primary: true
+docnumber: Z8123
+date:
+- type: issued
+  at: '2013-02-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本印刷産業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本印刷産業連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本印刷産業連合会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 印刷におけるプリンティングに関する用語及び定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.37
+    text: Image technology (Vocabularies)
+  - code: 37.100.01
+    text: Graphic technology in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8123

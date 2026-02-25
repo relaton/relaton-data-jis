@@ -1,0 +1,85 @@
+---
+id: JISM76511996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 閉鎖循環式酸素自己救命器
+- language: en
+  script: Latn
+  content: Closed-circuit oxygen self rescuers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+7651%3A1996
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_07651_000_000_1996_j_pr10_i4.pdf
+docidentifier:
+- content: JIS M 7651:1996
+  type: JIS
+  primary: true
+docnumber: M7651
+date:
+- type: issued
+  at: '1996-05-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本保安用品協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉱山，ずい道，工場などにおいて，火災，爆発，その他の事故によって発生した有害ガス，煙，酸素欠乏などのために生命に危険のおそれがある箇所から脱出するときに用いる閉鎖循環式酸素自己救命器について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.340.30
+    text: Respiratory protective devices
+  - code: 73.100.01
+    text: Mining equipment in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M7651

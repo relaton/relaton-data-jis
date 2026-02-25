@@ -1,0 +1,99 @@
+---
+id: JISZ39302013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: アーク溶接のヒューム発生量測定方法及び分析用ヒューム採取方法
+- language: en
+  script: Latn
+  content: Determination of fume emission rate during arc welding and collection of
+    fume for analysis
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3930%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03930_000_000_2013_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03930_000_000_2013_e_ed10_i4.pdf
+docidentifier:
+- content: JIS Z 3930:2013
+  type: JIS
+  primary: true
+docnumber: Z3930
+date:
+- type: issued
+  at: '2013-03-21'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本溶接協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 被覆アーク溶接棒，ガスシールドアーク溶接用ソリッドワイヤ並びにガスシールドアーク溶接用及びセルフシールドアーク溶接用フラックス入りワイヤによるアーク溶接時の，ヒューム発生量測定方法及び分析用ヒューム採取方法について規定。ティグ溶接用溶加棒及びソリッドワイヤを用いるティグ溶接は，ヒューム発生量が少ないため対象としない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.100'
+    text: Occupational safety. Industrial hygiene
+  - code: 25.160.10
+    text: Welding processes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z3930

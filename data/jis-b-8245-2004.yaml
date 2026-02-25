@@ -1,0 +1,94 @@
+---
+id: JISB82452004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 液化石油ガス容器用弁
+- language: en
+  script: Latn
+  content: Valves for liquefied petroleum gas cylinder
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8245%3A2004
+docidentifier:
+- content: JIS B 8245:2004
+  type: JIS
+  primary: true
+docnumber: B8245
+date:
+- type: issued
+  at: '2004-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本高圧ガス容器バルブ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本高圧ガス容器バルブ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本高圧ガス容器バルブ工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ４８℃における圧力が，１．５３ＭＰａを超え１．８２ＭＰａ以下の液化石油ガスを充てんする，内容積３Ｌ以上１２０Ｌ未満の液化石油ガスの容器に使用する弁について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.020.30
+    text: Pressure vessels
+  - code: 75.160.30
+    text: Gaseous fuels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8245

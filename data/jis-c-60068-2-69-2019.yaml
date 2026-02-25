@@ -1,0 +1,98 @@
+---
+id: JISC600682692019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―第２－６９部：試験―試験Ｔｅ／Ｔｃ：電子部品及びプリント配線板のはんだ付け性試験方法（平衡法）
+- language: en
+  script: Latn
+  content: 'Environmental testing -- Part 2-69: Tests -- Test Te/Tc: Solderability
+    testing of electronic components and printed boards by the wetting balance (force
+    measurement) method'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-69%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_069_2019_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_069_2019_e_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60068-2-69:2019
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  at: '2019-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: はんだ槽平衡法及びはんだ小球平衡法を用いて電子部品及びプリント配線板の端子などのはんだ付け性を定量的に評価する試験Ｔｅ（プリント配線板のはんだ付け性試験）及び試験Ｔｃ［定量的判定基準（ぬれ時間及びぬれ力）によって判定する，平衡法によるはんだ付け性試験］について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  - code: '31.190'
+    text: Electronic component assemblies
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60068

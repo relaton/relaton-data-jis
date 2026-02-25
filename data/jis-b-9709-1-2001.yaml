@@ -1,0 +1,86 @@
+---
+id: JISB970912001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械類の安全性―機械類から放出される危険物質による健康へのリスクの低減―第１部：機械類製造者のための原則及び仕様
+- language: en
+  script: Latn
+  content: 'Safety of machinery -- Reduction of risks to health from hazardous substances
+    emitted by machinery -- Part 1: Principles and specifications for machinery manufacturers'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9709-1%3A2001
+docidentifier:
+- content: JIS B 9709-1:2001
+  type: JIS
+  primary: true
+docnumber: B9709
+date:
+- type: issued
+  at: '2001-09-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械工業連合会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 機械類から放出される危険物質による健康へのリスクを制限するための原則を規定。爆発，火災又は放射能若しくは極度の温度又は圧力下での挙動に関する健康への危険源には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: '13.300'
+    text: Protection against dangerous goods
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9709

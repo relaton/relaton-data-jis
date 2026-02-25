@@ -1,0 +1,84 @@
+---
+id: JISB761112005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 非自動はかり―性能要件及び試験方法―第１部：一般計量器
+- language: en
+  script: Latn
+  content: 'Nonautomatic weighing instruments -- Metrological and technical requirements
+    and Tests -- Part 1: General measuring instruments'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7611-1%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07611_001_000_2005_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7611-1:2005
+  type: JIS
+  primary: true
+docnumber: B7611
+date:
+- type: issued
+  at: '2005-03-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本計量機器工業連合会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 目盛の数が１００以上，かつ，目盛が０．００１ｇ以上の非自動はかりについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.100'
+    text: Measurement of force, weight and pressure
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7611

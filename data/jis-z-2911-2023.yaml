@@ -1,0 +1,96 @@
+---
+id: JISZ29112023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: かび抵抗性試験方法
+- language: en
+  script: Latn
+  content: Methods of test for fungus resistance
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2911%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02911_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 2911:2023
+  type: JIS
+  primary: true
+docnumber: Z2911
+date:
+- type: issued
+  at: '2023-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　抗菌製品技術協議会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　抗菌製品技術協議会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　抗菌製品技術協議会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 特にかび抵抗性を必要とする工業製品又は工業材料のかびに対する抵抗性の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 07.100.10
+    text: Medical microbiology
+  - code: '11.100'
+    text: Laboratory medicine
+  - code: '19.040'
+    text: Environmental testing
+  - code: '37.020'
+    text: Optical equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z2911

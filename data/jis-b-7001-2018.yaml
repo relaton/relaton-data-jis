@@ -1,0 +1,92 @@
+---
+id: JISB70012018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 時計―試験方法
+- language: en
+  script: Latn
+  content: Watches and clocks -- Test methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7001%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07001_000_000_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7001:2018
+  type: JIS
+  primary: true
+docnumber: B7001
+date:
+- type: issued
+  at: '2018-08-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本時計協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本時計協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本時計協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 時計の試験方法について規定。航空機用・船舶用・車両用の時計，設備時計などの特定用途のものについては適用しない。また，他の製品に組み込まれた時計についても，適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 39.040.01
+    text: Horology in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7001

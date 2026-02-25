@@ -1,0 +1,92 @@
+---
+id: JIST71012020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療ガス設備
+- language: en
+  script: Latn
+  content: Medical gas pipeline systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+7101%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_07101_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 7101:2020
+  type: JIS
+  primary: true
+docnumber: T7101
+date:
+- type: issued
+  at: '2020-03-01'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業・医療ガス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業・医療ガス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本産業・医療ガス協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 医療施設で使用される次に記載する医療ガスの設備において，それらの適正な連続供給を確実にするために，その設計，設置，据付け，表示，性能，記録及び試験・検査について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.10
+    text: Anaesthetic, respiratory and reanimation equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T7101

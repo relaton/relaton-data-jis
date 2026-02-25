@@ -1,0 +1,91 @@
+---
+id: JISB99212025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光散乱式気中粒子計数器－校正方法及び試験方法
+- language: en
+  script: Latn
+  content: Light scattering airborne particle counter for clean spaces
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9921%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09921_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 9921:2025
+  type: JIS
+  primary: true
+docnumber: B9921
+date:
+- type: issued
+  at: '2025-05-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本空気清浄協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本空気清浄協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本空気清浄協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，空気を吸引し，その中に含まれる浮遊粒子の個数濃度及び粒径分布を測定する光散乱式気中粒子計数器の校正方法及び試験方法について規定する。この規格における粒子計数器は，粒子を個々に測定する装置であり，一般的な測定粒径範囲は，0.1
+    μm～10 μmである。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.120'
+    text: Particle size analysis. Sieving
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9921

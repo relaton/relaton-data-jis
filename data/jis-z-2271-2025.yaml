@@ -1,0 +1,81 @@
+---
+id: JISZ22712025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 金属材料のクリープ及びクリープ破断試験方法
+- language: en
+  script: Latn
+  content: Metallic materials-Uniaxial creep testing in tension-Method of test
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2271%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02271_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 2271:2025
+  type: JIS
+  primary: true
+docnumber: Z2271
+date:
+- type: issued
+  at: '2025-12-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，次の試験方法を規定する。\na)\t伸び計伸びの連続的な監視による連続（uninterrupted）クリープ試験\nb)\t伸びの定期的な測定による不連続（interrupted）クリープ試験\nc)\t通常，クリープ破断時間だけを測定する応力破断試験\nd)\tクリープ伸びを報告しない，所定の応力の下で所定時間を超えることが可能であることを検証する試験"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.040.10
+    text: Mechanical testing of metals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z2271

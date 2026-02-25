@@ -1,0 +1,89 @@
+---
+id: JISZ890922008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 集じん用ろ布の試験方法―第２部：耐久性試験方法
+- language: en
+  script: Latn
+  content: 'Test method of filter media for dust collection -- Part 2: Test on durability
+    under simulated running conditions'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8909-2%3A2008
+docidentifier:
+- content: JIS Z 8909-2:2008
+  type: JIS
+  primary: true
+docnumber: Z8909
+date:
+- type: issued
+  at: '2008-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本粉体工業技術協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 乾式ろ過集じん装置に用いる集じん用織布及び不織布の耐久性能を評価するために行う，試験方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.060'
+    text: Mechanical testing
+  - code: '23.120'
+    text: Ventilators. Fans. Air-conditioners
+  - code: 59.080.30
+    text: Textile fabrics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8909

@@ -1,0 +1,99 @@
+---
+id: JISA870422009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 道路工事機械―アスファルトプラント―第２部：仕様書様式及び性能試験方法
+- language: en
+  script: Latn
+  content: 'Road construction and maintenance equipment -- Asphalt mixing plants --
+    Part 2: Standard form of specifications and testing methods'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8704-2%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_08704_002_000_2009_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 8704-2:2009
+  type: JIS
+  primary: true
+docnumber: A8704
+date:
+- type: issued
+  at: '2009-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建設機械施工協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本建設機械施工協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本建設機械施工協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 加熱混合物の生産能力が毎時３０ｔ以上のバッチ式アスファルトプラントの仕様書の様式及び記入要領並びにその性能試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.93
+    text: Civil engineering (Vocabularies)
+  - code: '91.220'
+    text: Construction equipment
+  - code: 93.080.10
+    text: Road construction
+  - code: 93.080.20
+    text: Road construction materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8704

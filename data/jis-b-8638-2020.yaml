@@ -1,0 +1,92 @@
+---
+id: JISB86382020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ヒートポンプデシカント方式による調湿外気処理機
+- language: en
+  script: Latn
+  content: Humidity control outdoor air processing machines by heat pump desiccant
+    system
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8638%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08638_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8638:2020
+  type: JIS
+  primary: true
+docnumber: B8638
+date:
+- type: issued
+  at: '2020-06-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 主として業務用の建物に用いられるように設計・製作された第１種換気方式で，無給水，又は無給水かつ無排水の除湿機能及び加湿機能をもち，送風機を一つのきょう（筐）体に組み込んだ，定格風量が１５０ｍ＊３／ｈ～２　０００ｍ＊３／ｈのヒートポンプデシカント方式による調湿外気処理機について規定（給水を行わずに加湿する機能を“無給水加湿機能”，排水を行わずに除湿する機能を“無排水除湿機能”という。）。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.120'
+    text: Ventilators. Fans. Air-conditioners
+  - code: '27.080'
+    text: Heat pumps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8638

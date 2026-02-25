@@ -1,0 +1,79 @@
+---
+id: JISD00322011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車―操作，計量及び警報装置の識別記号
+- language: en
+  script: Latn
+  content: Road vehicles -- Symbols for controls, indicators and tell-tales
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+0032%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_00032_000_000_2011_j_ed10_ch.pdf
+docidentifier:
+- content: JIS D 0032:2011
+  type: JIS
+  primary: true
+docnumber: D0032
+date:
+- type: issued
+  at: '2011-04-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　自動車技術会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 乗用車，小型・大型商用車及びバスの運転時に確実に認識でき，かつ，使用しやすいような操作装置，計量装置及び警報装置に用いる識別記号について規定。また，関係装置の作動又は不作動の状態を運転者に伝える視覚的警報装置の表示色を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.080.20
+    text: Graphical symbols for use on specific equipment
+  - code: 43.040.30
+    text: Indicating and control devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0032

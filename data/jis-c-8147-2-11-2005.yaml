@@ -1,0 +1,82 @@
+---
+id: JISC81472112005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ランプ制御装置―第２－１１部：照明器具用のその他の電子回路の個別要求事項
+- language: en
+  script: Latn
+  content: 'Lamp controlgear -- Part 2-11: Particular requirements for miscellaneous
+    electronic circuits used with luminaires'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8147-2-11%3A2005
+docidentifier:
+- content: JIS C 8147-2-11:2005
+  type: JIS
+  primary: true
+docnumber: C8147
+date:
+- type: issued
+  at: '2005-12-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本照明工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本照明工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本照明工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ５０Ｈｚ又は６０Ｈｚの１　０００Ｖまでの交流電源及び／又は２５０Ｖまでの直接電源で使用するその他の照明器具用電子回路に対する一般及び安全要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.140.99
+    text: Other standards related to lamps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8147

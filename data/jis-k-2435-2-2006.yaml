@@ -1,0 +1,92 @@
+---
+id: JISK243522006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ベンゼン・トルエン・キシレン―第２部：トルエン
+- language: en
+  script: Latn
+  content: 'Benzene・Toluene・Xylene -- Part 2: Toluene'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2435-2%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02435_002_000_2006_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 2435-2:2006
+  type: JIS
+  primary: true
+docnumber: K2435
+date:
+- type: issued
+  at: '2006-03-25'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本芳香族工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本芳香族工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本芳香族工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業用（溶剤用を含む）トルエンについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.080.15
+    text: Aromatic hydrocarbons
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K2435

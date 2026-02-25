@@ -1,0 +1,79 @@
+---
+id: TRX00582003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: オンライン出版技術の関連用語
+- language: en
+  script: Latn
+  content: Glossary of Terms Used in Online Publishing Technology
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0058%3A2003
+docidentifier:
+- content: TR X 0058:2003
+  type: JIS
+  primary: true
+docnumber: X0058
+date:
+- type: issued
+  at: '2003-05-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 出版物（デジタルコンテンツを含む）の編集，製作，流通，販売のいずれかに対して利用するオンライン技術を“オンライン出版技術”と位置付け，この技術に関連する用語を体系的に整理し，各用語の定義を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 01.040.01
+    text: Generalities. Terminology. Standardization. Documentation (Vocabularies)
+  - code: 01.040.35
+    text: Information technology (Vocabularies)
+  - code: '01.140'
+    text: Information sciences. Publishing
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0058

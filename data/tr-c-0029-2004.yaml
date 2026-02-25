@@ -1,0 +1,76 @@
+---
+id: TRC00292004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 耐火性試験－電気・電子－燃焼放出物の毒性－試験結果の利用及び解釈
+- language: en
+  script: Latn
+  content: Fire hazard testing -- Toxicity of effluent -- Use and interpretation of
+    test results
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0029%3A2004
+docidentifier:
+- content: TR C 0029:2004
+  type: JIS
+  primary: true
+docnumber: C0029
+date:
+- type: issued
+  at: '2004-01-06'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 実験室試験で得られる結果の利用と解釈についての指針を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '13.220'
+    text: Protection against fire
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0029

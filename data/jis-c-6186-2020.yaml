@@ -1,0 +1,92 @@
+---
+id: JISC61862020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光ファイバ用光パワーメータ校正方法
+- language: en
+  script: Latn
+  content: Calibration of fiber optic power meters
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6186%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06186_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 6186:2020
+  type: JIS
+  primary: true
+docnumber: C6186
+date:
+- type: issued
+  at: '2020-11-20'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 校正機関又は光パワーメータの製造業者が行う，光伝送用に用いる一般的な光源から放射した光パワーを測定する光パワーメータの校正方法について規定。これらの光源には，レーザダイオード，発光ダイオード（ＬＥＤ）及び光ファイバ出力の光源を含む。拡散光及び平行ビーム光の両方を取り扱う。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.10
+    text: Fibres and cables
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6186

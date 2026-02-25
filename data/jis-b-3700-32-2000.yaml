@@ -1,0 +1,88 @@
+---
+id: JISB3700322000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 産業オートメーションシステム及びその統合―製品データの表現及び交換―第３２部：適合性試験の方法及び枠組み：試験機関及び依頼者の要件
+- language: en
+  script: Latn
+  content: 'Industrial automation systems and integration -- Product data representation
+    and exchange -- Part 32: Conformance testing methodology and framework: Requirements
+    on testing laboratories and clients'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3700-32%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03700_032_000_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS B 3700-32:2000
+  type: JIS
+  primary: true
+docnumber: B3700
+date:
+- type: issued
+  at: '2001-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本情報経済社会推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本情報経済社会推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　日本情報経済社会推進協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 適合性試験の技法を規定し，これらの技法を試験機関及び依頼者が使用するのを促進するための方法も規定。適合性評価過程における試験機関及び依頼者の役割，両者で合意に至る必要性，及び両者の要件を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B3700

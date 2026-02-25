@@ -1,0 +1,92 @@
+---
+id: JISX92052005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子製版画像データ交換用タグ付きファイルフォーマット（ＴＩＦＦ／ＩＴ）
+- language: en
+  script: Latn
+  content: Graphic technology -- Prepress digital data exchange -- Tag image file
+    format for image technology (TIFF/IT)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+9205%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_09205_000_000_2005_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 9205:2005
+  type: JIS
+  primary: true
+docnumber: X9205
+date:
+- type: issued
+  at: '2005-11-20'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 製版用電子データ交換のための伝達媒体に依存しないタグ付き画像ファイルフォーマットについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  - code: 37.100.99
+    text: Other standards related to graphic technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X9205

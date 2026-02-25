@@ -1,0 +1,85 @@
+---
+id: JISG33122024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 塗装溶融亜鉛めっき鋼板及び鋼帯
+- language: en
+  script: Latn
+  content: Prepainted hot-dip zinc-coated steel sheet and strip
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3312%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03312_000_000_2024_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03312_000_000_2024_e_ed10_ch.pdf
+docidentifier:
+- content: JIS G 3312:2024
+  type: JIS
+  primary: true
+docnumber: G3312
+date:
+- type: issued
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 溶融亜鉛めっき鋼板及び鋼帯に，合成樹脂塗料を塗装し焼き付けた，塗装溶融亜鉛めっき鋼板，塗装溶融亜鉛めっき鋼帯，並びに板をＪＩＳ　Ｇ　３３１６に規定する形状及び寸法に加工した波板について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.50
+    text: Flat steel products and semi-products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G3312

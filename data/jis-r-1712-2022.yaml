@@ -1,0 +1,86 @@
+---
+id: JISR17122022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ファインセラミックス―光触媒材料の防藻性試験方法
+- language: en
+  script: Latn
+  content: Fine ceramics (advanced ceramics, advanced technical ceramics) -- Test
+    method for antialgal activity of semiconducting photocatalytic materials
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+1712%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_01712_000_000_2022_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_01712_000_000_2022_e_ed10_ch.pdf
+docidentifier:
+- content: JIS R 1712:2022
+  type: JIS
+  primary: true
+docnumber: R1712
+date:
+- type: issued
+  at: '2022-03-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 光触媒工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 光触媒工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 光触媒工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 屋外構造物に用いる面状の光触媒材料（例えば，外壁材，テント，窓ガラス，水槽ガラス，フィルム，ガードレールなど）の紫外光照射下における防藻性試験方法について規定。ただし，粉体，粒状及び多孔質な光触媒材料には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 81.060.30
+    text: Advanced ceramics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R1712

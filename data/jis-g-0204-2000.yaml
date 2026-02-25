@@ -1,0 +1,90 @@
+---
+id: JISG02042000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄鋼用語（鋼製品の分類及び定義）
+- language: en
+  script: Latn
+  content: Steel products -- Definitions and classification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0204%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00204_000_000_2000_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_00204_000_000_2000_e_pr10_i4.pdf
+docidentifier:
+- content: JIS G 0204:2000
+  type: JIS
+  primary: true
+docnumber: G0204
+date:
+- type: issued
+  at: '2000-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄鋼連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄鋼連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本鉄鋼連盟"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 鋼製品をａ）製造段階　ｂ）形状及び寸法　ｃ）外観　の項目によって分類及び定義。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.77
+    text: Metallurgy (Vocabularies)
+  - code: 77.140.01
+    text: Iron and steel products in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G0204

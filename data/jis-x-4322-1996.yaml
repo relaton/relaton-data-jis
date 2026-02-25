@@ -1,0 +1,84 @@
+---
+id: JISX43221996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ディジタル記録媒体のための動画信号及び付随する音響信号の１．５Ｍｂｉｔ／ｓ符号化―第２部　動画
+- language: en
+  script: Latn
+  content: 'Information technology -- Coding of moving pictures and associated audio
+    for digital storage media at up to about 1.5 Mbit/s -- Part 2: Video'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4322%3A1996
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04322_000_000_1996_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 4322:1996
+  type: JIS
+  primary: true
+docnumber: X4322
+date:
+- type: issued
+  at: '1996-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ディジタル記録媒体用の動画の符号化表現及びその復号処理について規定。この符号化表現は，通常速度の順方向再生に適用できるほか，ランダムアクセス，高速順方向再生，高速逆方向再生，通常速度の逆方向再生，一時停止及び静止画像といった特別な機能にも適用。この規格は，標準の走査線数が５２５本及び６２５本のテレビジョン形式と互換性があり，パーソナルコンピュータ及びワークステーションでも使用できる柔軟性がある。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.160.01
+    text: Audio, video and audiovisual systems in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4322

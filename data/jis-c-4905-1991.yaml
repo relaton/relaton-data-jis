@@ -1,0 +1,75 @@
+---
+id: JISC49051991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電動機始動用電解コンデンサ
+- language: en
+  script: Latn
+  content: Electrolytic capacitors for motor starting
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4905%3A1991
+docidentifier:
+- content: JIS C 4905:1991
+  type: JIS
+  primary: true
+docnumber: C4905
+date:
+- type: issued
+  at: '1991-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本電子機械工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 単相誘導電動機の始動用として用いるアルミニウム電解コンデンサについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.060.70
+    text: Power capacitors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C4905

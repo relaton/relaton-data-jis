@@ -1,0 +1,79 @@
+---
+id: TSC00382004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ランプ及びランプシステムの光生物学的安全性
+- language: en
+  script: Latn
+  content: Photobiological safety of lamps and lamp systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+C+0038%3A2004
+docidentifier:
+- content: TS C 0038:2004
+  type: JIS
+  primary: true
+docnumber: C0038
+date:
+- type: issued
+  at: '2004-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電球工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電球工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電球工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ランプ及び照明器具を含むランプシステムの光生物学的安全性を評価するための指針を示す。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: 17.180.20
+    text: Colours and measurement of light
+  - code: 29.140.01
+    text: Lamps in general
+  - code: 91.160.01
+    text: Lighting in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0038

@@ -1,0 +1,95 @@
+---
+id: JISB624012022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工作機械―万能主軸頭の試験条件―第１部：水平主軸（水平Ｚ軸）をもつ交換形主軸頭
+- language: en
+  script: Latn
+  content: 'Machine tools -- Test conditions for universal spindle heads -- Part 1:
+    Accessory heads for machines with horizontal spindle (horizontal Z-axis)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6240-1%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06240_001_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 6240-1:2022
+  type: JIS
+  primary: true
+docnumber: B6240
+date:
+- type: issued
+  at: '2022-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本工作機械工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　６１９０規格群を参照して，水平主軸（すなわち，水平Z軸）をもつマシニングセンタ，数値制御フライス盤などで使用される交換形主軸頭の一連の試験について規定。この規格で規定する試験は，手動割出形の主軸頭にも適用可能である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.10
+    text: Machining centres
+  - code: 25.040.20
+    text: Numerically controlled machines
+  - code: 25.080.20
+    text: Boring and milling machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6240

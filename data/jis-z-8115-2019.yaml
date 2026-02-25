@@ -1,0 +1,94 @@
+---
+id: JISZ81152019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ディペンダビリティ（総合信頼性）用語
+- language: en
+  script: Latn
+  content: Glossary of terms used in dependability
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8115%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08115_000_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8115:2019
+  type: JIS
+  primary: true
+docnumber: Z8115
+date:
+- type: issued
+  at: '2019-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 信頼性，保全性及び安全性の分野に用いるディペンダビリティに関する主な用語及び定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.03
+    text: Services. Company organization, management and quality. Administration.
+      Transport. Sociology. (Vocabularies)
+  - code: 03.120.01
+    text: Quality in general
+  - code: '21.020'
+    text: Characteristics and design of machines, apparatus, equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8115

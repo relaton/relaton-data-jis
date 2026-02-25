@@ -1,0 +1,77 @@
+---
+id: JISB86591989
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気油圧サーボ弁試験方法
+- language: en
+  script: Latn
+  content: Test methods for electro-hydraulic servo valves
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8659%3A1989
+docidentifier:
+- content: JIS B 8659:1989
+  type: JIS
+  primary: true
+docnumber: B8659
+date:
+- type: issued
+  at: '1990-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本フルードパワー工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気油圧流量制御サーボ弁の定格能力又は性能を確かめるための試験方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.060.40
+    text: Pressure regulators
+  - code: 23.100.50
+    text: Control components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8659

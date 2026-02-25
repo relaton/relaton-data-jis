@@ -1,0 +1,91 @@
+---
+id: JISZ602112026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 文書管理－情報の分類，マーキング及び取扱い－第１部：要件
+- language: en
+  script: Latn
+  content: 'Document management-Information classification, marking and handling-Part
+    1: Requirements'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+6021-1%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_06021_001_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 6021-1:2026
+  type: JIS
+  primary: true
+docnumber: Z6021
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本文書情報マネジメント協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本文書情報マネジメント協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本文書情報マネジメント協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 'この規格は，情報の分類，マーキング及び取扱い（ICMH: Information Classification, Marking and Handling）に関する要件について規定する。また，組織内外で情報を所有する利用者が情報にアクセスできる方法について規定する。'
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '37.080'
+    text: Document imaging applications
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z6021

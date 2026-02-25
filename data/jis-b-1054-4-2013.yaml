@@ -1,0 +1,97 @@
+---
+id: JISB105442013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 耐食ステンレス鋼製締結用部品の機械的性質―第４部：タッピンねじ
+- language: en
+  script: Latn
+  content: 'Mechanical properties of corrosion-resistant stainless steel fasteners
+    -- Part 4: Tapping screws'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1054-4%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01054_004_000_2013_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01054_004_000_2013_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 1054-4:2013
+  type: JIS
+  primary: true
+docnumber: B1054
+date:
+- type: issued
+  at: '2013-05-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ねじ研究協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ねじ研究協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ねじ研究協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: １０℃～３５℃の環境温度範囲で試験したときの，オーステナイト系，マルテンサイト系及びフェライト系耐食ステンレス鋼製タッピンねじの機械的性質について規定。溶接性能などの特殊な性質が要求されるタッピンねじには適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.060.10
+    text: Bolts, screws, studs
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1054

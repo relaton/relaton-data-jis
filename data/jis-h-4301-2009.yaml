@@ -1,0 +1,96 @@
+---
+id: JISH43012009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉛板及び硬鉛板
+- language: en
+  script: Latn
+  content: Lead sheets and plates and hard lead sheets and plates
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+4301%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_04301_000_000_2009_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_04301_000_000_2009_e_ed10_i4.pdf
+docidentifier:
+- content: JIS H 4301:2009
+  type: JIS
+  primary: true
+docnumber: H4301
+date:
+- type: issued
+  at: '2009-09-24'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全国鉛管鉛板工業協同組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           全国鉛管鉛板工業協同組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           全国鉛管鉛板工業協同組合"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 医療施設，原子力施設などにおける放射線防護用及び防音用の装置，建築用及び化学工業用の装置などに用いられる圧延した鉛板及び硬鉛板について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.150.60
+    text: Lead, zinc and tin products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H4301

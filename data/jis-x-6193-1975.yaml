@@ -1,0 +1,72 @@
+---
+id: JISX61931975
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報交換用紙カード
+- language: en
+  script: Latn
+  content: Unpunched paper cards for information interchange
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6193%3A1975
+docidentifier:
+- content: JIS X 6193:1975
+  type: JIS
+  primary: true
+docnumber: X6193
+date:
+- type: issued
+  at: '1975-08-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子工業振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子工業振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本電子工業振興協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 計数形電子計算機，データ通信装置及びこれに準ずる情報処理装置において，情報交換用の記録媒体として用いる情報交換用紙カードについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6193

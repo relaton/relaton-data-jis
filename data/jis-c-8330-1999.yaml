@@ -1,0 +1,86 @@
+---
+id: JISC83301999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 金属製電線管用の附属品
+- language: en
+  script: Latn
+  content: Fittings for rigid metal conduits
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8330%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08330_000_000_1999_j_pr10_i4.pdf
+docidentifier:
+- content: JIS C 8330:1999
+  type: JIS
+  primary: true
+docnumber: C8330
+date:
+- type: issued
+  at: '1999-10-31'
+- type: confirmed
+  at: '2019-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般社団法人　電気設備学会                                                \r\n
+        \                                                                                           全国金属製電線管附属品工業組合"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般社団法人　電気設備学会                                                \r\n
+        \                                                                                           全国金属製電線管附属品工業組合"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般社団法人　電気設備学会                                                \r\n
+          \                                                                                           全国金属製電線管附属品工業組合"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｃ　８３０５に規定する鋼製電線管に用いる附属品について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.10
+    text: Conduits for electrical purposes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8330

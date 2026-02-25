@@ -1,0 +1,75 @@
+---
+id: JISH16861996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: タンタル中の銅定量方法
+- language: en
+  script: Latn
+  content: Method for determination of copper in tantalum
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+1686%3A1996
+docidentifier:
+- content: JIS H 1686:1996
+  type: JIS
+  primary: true
+docnumber: H1686
+date:
+- type: issued
+  at: '1996-03-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　新金属協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　新金属協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　新金属協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: タンタル中の銅定量方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.120.99
+    text: Other non-ferrous metals and their alloys
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H1686

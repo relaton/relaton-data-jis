@@ -1,0 +1,89 @@
+---
+id: JISB04181999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自由鍛造品の取り代
+- language: en
+  script: Latn
+  content: Machining allowance for open die forgings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0418%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00418_000_000_1999_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00418_000_000_1999_e_pr10_i4.pdf
+docidentifier:
+- content: JIS B 0418:1999
+  type: JIS
+  primary: true
+docnumber: B0418
+date:
+- type: issued
+  at: '1999-04-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鍛造協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鍛造協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鍛造協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ハンマ又はプレスによる質量が１０ｋｇを超え，１０，０００以下の機械構造用炭素鋼，合金鋼及び鍛鋼品の熱間域での自由鍛造品の基準取り代，黒皮寸法の求め方及び許容差について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.10
+    text: Limits and fits
+  - code: 77.140.85
+    text: Iron and steel forgings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0418

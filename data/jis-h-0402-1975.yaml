@@ -1,0 +1,77 @@
+---
+id: JISH04021975
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: すずめっき試験方法
+- language: en
+  script: Latn
+  content: Methods of test for tin plating
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+0402%3A1975
+docidentifier:
+- content: JIS H 0402:1975
+  type: JIS
+  primary: true
+docnumber: H0402
+date:
+- type: issued
+  at: '1975-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　表面技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　表面技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　表面技術協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 防食装飾の目的で施したすずめっきの試験について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.220.40
+    text: Metallic coatings
+  - code: 77.040.30
+    text: Chemical analysis of metals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H0402

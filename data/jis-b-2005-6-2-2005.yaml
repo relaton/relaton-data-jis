@@ -1,0 +1,86 @@
+---
+id: JISB2005622005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工業プロセス用調節弁―第６部：調節弁へのポジショナの取付けの詳細―第２節：回転運動駆動部へのポジショナの取付け
+- language: en
+  script: Latn
+  content: 'Industrial-process control valves -- Part 6-2: Mounting details for attachment
+    of positioners to control valves -- Positioner mounting on rotary actuators'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2005-6-2%3A2005
+docidentifier:
+- content: JIS B 2005-6-2:2005
+  type: JIS
+  primary: true
+docnumber: B2005
+date:
+- type: issued
+  at: '2005-03-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本バルブ工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本バルブ工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本バルブ工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 直接又はマウンティングブラケットを用いて，調節弁の回転運動部に取り付けるポジショナの取付方法の詳細について規定。駆動部とポジショナとの間の互換性が要求される場合に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.060'
+    text: Valves
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B2005

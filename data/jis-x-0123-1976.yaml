@@ -1,0 +1,73 @@
+---
+id: JISX01231976
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電子計算組織構成機器の性能表示
+- language: en
+  script: Latn
+  content: Items in functional specifications of computers and information processing
+    equipment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0123%3A1976
+docidentifier:
+- content: JIS X 0123:1976
+  type: JIS
+  primary: true
+docnumber: X0123
+date:
+- type: issued
+  at: '1976-01-05'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子工業振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子工業振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本電子工業振興協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電子計算組織の中央処理装置，周辺装置・端末装置及びデータ作成装置を構成する機器の性能を，文書などで表示する場合の性能項目及び単位について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0123

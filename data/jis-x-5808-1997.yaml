@@ -1,0 +1,82 @@
+---
+id: JISX58081997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: メッセージ通信処理システム（ＭＨＳ）　―　第８部　電子データ交換メッセージ通信サービス
+- language: en
+  script: Latn
+  content: 'Information technology -- Message Handling Systems (MHS) -- Part 8: Electronic
+    Data Interchange Messaging Service'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5808%3A1997
+docidentifier:
+- content: JIS X 5808:1997
+  type: JIS
+  primary: true
+docnumber: X5808
+date:
+- type: issued
+  at: '1997-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＥＤＩメッセージ通信に関する全般的なシステム及びサービスを定義。メッセージ通信処理システム及びサービスのその他の事項は，ＭＨＳの規格群の他の規格による。メッセージ通信処理システム及びサービスを定義するこの規格の構成は，ＪＩＳ　Ｘ　５８０１の表１による。ＭＨＳ上の公衆サービスは，公衆サービスのためのＭＨＳへのアクセス及びＭＨＳからのアクセスと同様に，ＩＴＵ－Ｔ勧告Ｆ．４００シリーズに定義されている。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.20
+    text: IT applications in office work
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5808

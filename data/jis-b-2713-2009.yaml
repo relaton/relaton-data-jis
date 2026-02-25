@@ -1,0 +1,97 @@
+---
+id: JISB27132009
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 薄板ばねの設計計算式及び仕様の定め方
+- language: en
+  script: Latn
+  content: The design calculating formulas and the procedures of decision of specifications
+    for flat springs
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2713%3A2009
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02713_000_000_2009_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02713_000_000_2009_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 2713:2009
+  type: JIS
+  primary: true
+docnumber: B2713
+date:
+- type: issued
+  at: '2009-03-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ばね工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ばね工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ばね工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般に使用する金属製薄板ばねの設計計算式及び仕様の定め方について規定。他の日本工業規格の製品規格（皿ばね，止め輪，ばね座金及びスプリングピン）のばねは除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '21.160'
+    text: Springs
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B2713

@@ -1,0 +1,77 @@
+---
+id: JISX05021994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 物流商品コード用バーコードシンボル
+- language: en
+  script: Latn
+  content: Bar code symbol for dispatch unit code
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0502%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00502_000_000_1994_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 0502:1994
+  type: JIS
+  primary: true
+docnumber: X0502
+date:
+- type: issued
+  at: '1994-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　流通システム開発センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　流通システム開発センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　流通システム開発センター
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 流通情報システムに利用する，物流商品コード表示用バーコードシンボルで，（１）物流商品コードを対応するバーコードシンボルで表す方法　（２）印刷されたバーコードシンボルの光学的及び寸法上の特性　の各事項について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0502

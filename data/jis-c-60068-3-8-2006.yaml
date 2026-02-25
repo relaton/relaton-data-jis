@@ -1,0 +1,92 @@
+---
+id: JISC60068382006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―第３－８部：振動試験方法の選択の指針
+- language: en
+  script: Latn
+  content: 'Environmental testing -- Part 3-8: Supporting documentation and guidance
+    -- Selecting amongst vibration tests'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-3-8%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_003_008_2006_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60068-3-8:2006
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  at: '2006-09-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: JIS　C　６００６８－２－６，ＪＩＳ　Ｃ　６００６８－２－６４及びＩＥＣ　６００６８－２－８０から試験方法を選択するための指針について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60068

@@ -1,0 +1,82 @@
+---
+id: JISC612271998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光ファイバ増幅器―測定方法―第７部：波長帯域外挿入損失測定方法
+- language: en
+  script: Latn
+  content: 'Optical fiber amplifiers -- Test methods -- Part 7: Test methods for out-of-band
+    insertion loses'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6122-7%3A1998
+docidentifier:
+- content: JIS C 6122-7:1998
+  type: JIS
+  primary: true
+docnumber: C6122
+date:
+- type: issued
+  at: '1998-02-28'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　光産業技術振興協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 現在商用化されている希土類が添加されたアクティブ光ディスクを使用した光ファイバ増幅器（ＯＦＡ）に適用。目的は，ＩＥＣ　６１２９１－１の３．に定義される光ファイバ増幅器の，ａ）増幅波長帯域外挿入損失　ｂ）増幅波長帯域外逆方向挿入損失　のパラメータについて，光フィルタを用いたパワーメータ測定方法による正確かつ信頼性のある測定を行うために必要な一定の条件を確立。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.30
+    text: Optic amplifiers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6122

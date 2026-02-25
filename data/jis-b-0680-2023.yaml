@@ -1,0 +1,86 @@
+---
+id: JISB06802023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性仕様（ＧＰＳ）―製品の幾何特性及び寸法特性の仕様に関する標準基準温度
+- language: en
+  script: Latn
+  content: Geometrical product specifications (GPS) -- Standard reference temperature
+    for the specification of geometrical and dimensional properties
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0680%3A2023
+docidentifier:
+- content: JIS B 0680:2023
+  type: JIS
+  primary: true
+docnumber: B0680
+date:
+- type: issued
+  at: '2023-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性及び寸法特性の仕様を規定するための基準温度及び標準基準温度の概念を定義し，標準基準温度の値を規定。幾何特性及び寸法特性の例としては，製品のサイズ，位置，姿勢（角度を含む。），形状，表面性状などがある。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.01
+    text: Linear and angular measurements in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0680

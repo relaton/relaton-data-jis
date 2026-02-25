@@ -1,0 +1,87 @@
+---
+id: JISG35492000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 構造用ワイヤロープ
+- language: en
+  script: Latn
+  content: Wire ropes for structure
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3549%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03549_000_000_2000_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03549_000_000_2000_e_pr10_i4.pdf
+docidentifier:
+- content: JIS G 3549:2000
+  type: JIS
+  primary: true
+docnumber: G3549
+date:
+- type: issued
+  at: '2000-12-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鋼構造協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鋼構造協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鋼構造協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 橋りょう（梁），建築物及び鉄塔などの部材に使用する，亜鉛めっき鋼線をより合わせたワイヤロープについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.65
+    text: Steel wire, wire ropes and link chains
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G3549

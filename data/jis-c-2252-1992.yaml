@@ -1,0 +1,77 @@
+---
+id: JISC22521992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 整流子片用マイカ板
+- language: en
+  script: Latn
+  content: Rigid mica materials for commutator separators
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2252%3A1992
+docidentifier:
+- content: JIS C 2252:1992
+  type: JIS
+  primary: true
+docnumber: C2252
+date:
+- type: issued
+  at: '1992-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 電気絶縁材料工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 電気絶縁材料工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 電気絶縁材料工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 整流子片の電気絶縁に用いるマイカ板について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.035.99
+    text: Other insulating materials
+  - code: '73.080'
+    text: Non-metalliferous minerals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2252

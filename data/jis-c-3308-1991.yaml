@@ -1,0 +1,75 @@
+---
+id: JISC33081991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ネオン管用電線
+- language: en
+  script: Latn
+  content: Insulated wires for neon tube
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3308%3A1991
+docidentifier:
+- content: JIS C 3308:1991
+  type: JIS
+  primary: true
+docnumber: C3308
+date:
+- type: issued
+  at: '1991-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電線工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電線工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電線工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ネオン管灯回路の高電圧側配線に使用するネオン管用電線について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.060.10
+    text: Wires
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C3308

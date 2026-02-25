@@ -1,0 +1,99 @@
+---
+id: JISZ43372011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 据置形β線用物品表面汚染モニタ
+- language: en
+  script: Latn
+  content: Installed articles surface contamination monitoring assemblies for beta
+    emitters
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4337%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04337_000_000_2011_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04337_000_000_2011_e_ed10_i4.pdf
+docidentifier:
+- content: JIS Z 4337:2011
+  type: JIS
+  primary: true
+docnumber: Z4337
+date:
+- type: issued
+  at: '2011-11-21'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 原子力施設などの管理区域から搬出する物品の表面汚染を測定するため，最大エネルギー０．１５ＭｅＶ以上のβ線を放出する核種による汚染の検出を目的とする，据置形β線用物品表面汚染モニタについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.280'
+    text: Radiation protection
+  - code: '17.240'
+    text: Radiation measurements
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4337

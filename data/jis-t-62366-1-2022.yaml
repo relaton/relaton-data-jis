@@ -1,0 +1,82 @@
+---
+id: JIST6236612022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療機器―第１部：ユーザビリティエンジニアリングの医療機器への適用
+- language: en
+  script: Latn
+  content: 'Medical devices -- Part 1: Application of usability engineering to medical
+    devices'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+62366-1%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_62366_001_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 62366-1:2022
+  type: JIS
+  primary: true
+docnumber: T62366
+date:
+- type: issued
+  at: '2022-02-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 製造業者が医療機器の安全に関連するユーザビリティを分析し，仕様を定め，開発し，評価するためのプロセスを規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.01
+    text: Medical equipment in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T62366

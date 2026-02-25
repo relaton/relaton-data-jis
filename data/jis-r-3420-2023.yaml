@@ -1,0 +1,96 @@
+---
+id: JISR34202023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ガラス繊維一般試験方法
+- language: en
+  script: Latn
+  content: Testing methods for textile glass products
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+3420%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_03420_000_000_2023_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_03420_000_000_2023_e_ed10_ch.pdf
+docidentifier:
+- content: JIS R 3420:2023
+  type: JIS
+  primary: true
+docnumber: R3420
+date:
+- type: issued
+  at: '2023-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           硝子繊維協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           硝子繊維協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           硝子繊維協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ガラス長繊維及びガラス長繊維を用いたガラスクロス，ガラスマットなどの製品の一般試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 59.100.01
+    text: Materials for the reinforcement of composites in general
+  - code: 59.100.10
+    text: Textile glass materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R3420

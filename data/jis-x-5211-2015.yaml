@@ -1,0 +1,93 @@
+---
+id: JISX52112015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: システム間の通信及び情報交換―近距離通信用インタフェース及びプロトコル（ＮＦＣＩＰ－１）
+- language: en
+  script: Latn
+  content: Information technology -- Telecommunications and information exchange between
+    systems -- Near Field Communication -- Interface and Protocol (NFCIP-1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5211%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05211_000_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 5211:2015
+  type: JIS
+  primary: true
+docnumber: X5211
+date:
+- type: issued
+  at: '2015-06-22'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: コンピュータ周辺機器の相互接続を行うために，中心周波数１３．５６ＭＨｚで動作する電磁誘導結合を利用したデバイス間での近距離通信用インタフェース及びプロトコル（ＮＦＣＩＰ－１）で利用する通信モードを規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.10
+    text: Physical layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5211

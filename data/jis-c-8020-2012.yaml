@@ -1,0 +1,93 @@
+---
+id: JISC80202012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 蛍光灯器具のエネルギー消費効率及び固有エネルギー消費効率の算出方法
+- language: en
+  script: Latn
+  content: Method of calculation on fluorescent luminaire efficacy and fluorescent
+    luminaire efficacy rating
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8020%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08020_000_000_2012_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8020:2012
+  type: JIS
+  primary: true
+docnumber: C8020
+date:
+- type: issued
+  at: '2012-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本照明工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般照明用蛍光灯器具のエネルギー消費効率及び固有エネルギー消費効率の算出方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.010'
+    text: Energy and heat transfer engineering in general
+  - code: 29.140.30
+    text: Fluorescent lamps. Discharge lamps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8020

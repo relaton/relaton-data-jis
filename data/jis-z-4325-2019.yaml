@@ -1,0 +1,94 @@
+---
+id: JISZ43252019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境γ線連続モニタ
+- language: en
+  script: Latn
+  content: Equipment for continuously monitoring gamma radiation in the environment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4325%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04325_000_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 4325:2019
+  type: JIS
+  primary: true
+docnumber: Z4325
+date:
+- type: issued
+  at: '2019-04-22'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 原子力施設及び放射線施設の敷地内，敷地境界，周辺地域などの野外で用いられ，５０ｋｅＶ～７ＭｅＶの環境γ線の空気吸収線量率，空気カーマ率又は周辺線量当量率を連続的に監視する，据置形，可搬形又は移動形の環境γ線モニタについて規定。事故時又は緊急時の線量率の監視に関わる特別な性能は，規定しない。熱ルミネセンス線量計，光刺激ルミネセンス線量計，ガラス線量計などの受動形線量計には適用しない。β線及び中性子の監視には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.280'
+    text: Radiation protection
+  - code: '17.240'
+    text: Radiation measurements
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4325

@@ -1,0 +1,87 @@
+---
+id: JISQ140312000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境マネジメント―環境パフォーマンス評価―指針
+- language: en
+  script: Latn
+  content: Environmental management -- Environmental performance evaluation -- Guidelines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+14031%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_14031_000_000_2000_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_14031_000_000_2000_e_ed10_i4.pdf
+docidentifier:
+- content: JIS Q 14031:2000
+  type: JIS
+  primary: true
+docnumber: Q14031
+date:
+- type: issued
+  at: '2000-10-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　産業環境管理協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　産業環境管理協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 組織内部での環境パフォーマンス評価の設計及び使用に関する指針を示す。種類，規模，所在地及び複雑さを問わず，すべての組織に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.020.10
+    text: Environmental management
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q14031

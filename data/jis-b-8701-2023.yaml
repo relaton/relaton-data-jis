@@ -1,0 +1,90 @@
+---
+id: JISB87012023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 次亜塩素酸水生成装置
+- language: en
+  script: Latn
+  content: Hypochlorous acid water producing apparatus
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8701%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08701_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8701:2023
+  type: JIS
+  primary: true
+docnumber: B8701
+date:
+- type: issued
+  at: '2023-08-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　機能水研究振興財団"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　機能水研究振興財団"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　機能水研究振興財団"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 塩化物イオンを含む水溶液を電気分解することによって，有効塩素を含有する水を生成する定格電圧２５０　Ｖ以下の装置について規定。次亜塩素酸水を生成する装置及び水道電解水を生成する装置に適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.01
+    text: Water quality in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8701

@@ -1,0 +1,87 @@
+---
+id: JISC88422013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 固体酸化物形燃料電池単セル及びスタックの発電性能試験方法
+- language: en
+  script: Latn
+  content: Single cell and stack-performance test methods for solid oxide fuel cell
+    (SOFC)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8842%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08842_000_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8842:2013
+  type: JIS
+  primary: true
+docnumber: C8842
+date:
+- type: issued
+  at: '2013-12-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "国立研究開発法人　産業技術総合研究所                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "国立研究開発法人　産業技術総合研究所                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "国立研究開発法人　産業技術総合研究所                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 固体酸化物形燃料電池（ＳＯＦＣ）発電システムに用いる単セル及びスタックに対する発電性能試験方法について規定。セル／スタックの発電性能試験のためのセル／スタックアセンブリユニット，試験システム，測定方法及び試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.070'
+    text: Fuel cells
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8842

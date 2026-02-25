@@ -1,0 +1,90 @@
+---
+id: JISZ482122024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 密封放射線源―第２部：漏出試験方法
+- language: en
+  script: Latn
+  content: 'Sealed radioactive sources -- Part 2: Leakage test methods'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4821-2%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04821_002_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 4821-2:2024
+  type: JIS
+  primary: true
+docnumber: Z4821
+date:
+- type: issued
+  at: '2024-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本アイソトープ協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本アイソトープ協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本アイソトープ協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 密封放射線源の様々な漏出試験方法について規定。放射能による試験及び放射能によらない試験を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.280'
+    text: Radiation protection
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4821

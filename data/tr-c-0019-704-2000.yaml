@@ -1,0 +1,78 @@
+---
+id: TRC00197042000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気設備指針　―　第７０４節：建設現場及び解体現場における設備
+- language: en
+  script: Latn
+  content: 'Electrical installation guide -- Section 704: Construction and demolition
+    site installations'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0019-704%3A2000
+docidentifier:
+- content: TR C 0019-704:2000
+  type: JIS
+  primary: true
+docnumber: C0019
+date:
+- type: issued
+  at: '2001-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 建設期間中にだけ用意される仮設設備の指針として利用するためのもので，仮設設備は，その期間中しばしば模様替え及び位置替えされることがある。仮設設備は工事の完了とともに撤去され，移動される。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '13.260'
+    text: Protection against electric shock.  Live working
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: '91.200'
+    text: Construction technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0019

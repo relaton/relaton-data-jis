@@ -1,0 +1,83 @@
+---
+id: JISS20411995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プラスチック製洗い容器
+- language: en
+  script: Latn
+  content: Plastics washing basins
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2041%3A1995
+docidentifier:
+- content: JIS S 2041:1995
+  type: JIS
+  primary: true
+docnumber: S2041
+date:
+- type: issued
+  at: '1995-02-28'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　化学研究評価機構
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　化学研究評価機構
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　化学研究評価機構
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ちゅう（厨）房，浴室などで使用するたらい，洗いおけ，湯おけ，洗面器などプラスチック製の洗い容器について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.040.50
+    text: Small kitchen appliances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S2041

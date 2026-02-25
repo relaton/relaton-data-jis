@@ -1,0 +1,90 @@
+---
+id: JISB89262015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ハンドリフタ
+- language: en
+  script: Latn
+  content: Hand lifters
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8926%3A2015
+docidentifier:
+- content: JIS B 8926:2015
+  type: JIS
+  primary: true
+docnumber: B8926
+date:
+- type: issued
+  at: '2015-05-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本運搬車両機器協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本運搬車両機器協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本運搬車両機器協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 荷を構内・屋内などで，マストに案内されて昇降するフォークで荷役し，人力によって運搬するのに用いるハンドリフタ（以下，リフタという。）で，最大積載質量が１　０００ｋｇ以下の人力，油圧又は電動（公称電圧が１２Ｖに限る。）によって，荷を昇降させるリフタについて規定。電動走行式リフタは除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '53.060'
+    text: Industrial trucks
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8926

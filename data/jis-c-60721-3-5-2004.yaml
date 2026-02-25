@@ -1,0 +1,91 @@
+---
+id: JISC60721352004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境条件の分類―第３－５部：環境パラメータとその厳しさのグループ別分類―車載機器の条件
+- language: en
+  script: Latn
+  content: 'Classification of environmental conditions -- Part 3: Classification of
+    groups of environmental parameters and their severities -- Section 5: Ground vehicle
+    installations'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60721-3-5%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60721_003_005_2004_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60721-3-5:2004
+  type: JIS
+  primary: true
+docnumber: C60721
+date:
+- type: issued
+  at: '2004-04-20'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 車載機器の環境条件について分類する。車載機器とは，車の構成部品ではなく，例えば，ラジオ受信機，通信機，料金計，車で運搬されるミルク及び石油類の流量計などで，恒久的又は一時的に取り付けるものを対象とする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60721

@@ -1,0 +1,77 @@
+---
+id: JISB61091998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工作機械　―　旋盤の主軸端及び面板　―　互換性のための形状・寸法
+- language: en
+  script: Latn
+  content: Machine tool -- Spindle noses and face plates of lathes -- Sizes for interchangeability
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6109%3A1998
+docidentifier:
+- content: JIS B 6109:1998
+  type: JIS
+  primary: true
+docnumber: B6109
+date:
+- type: issued
+  at: '1998-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本工作機械工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: Ａ形旋盤主軸端とそれに取り付ける画板との互換性のための寸法規格。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.060.20
+    text: Dividing and tool-workpiece holding devices
+  - code: 25.080.10
+    text: Lathes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6109

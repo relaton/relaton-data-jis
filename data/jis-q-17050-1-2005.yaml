@@ -1,0 +1,90 @@
+---
+id: JISQ1705012005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 適合性評価―供給者適合宣言―第１部：一般要求事項
+- language: en
+  script: Latn
+  content: 'Conformity assessment -- Supplier''s declaration of conformity -- Part
+    1: General requirements'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+17050-1%3A2005
+docidentifier:
+- content: JIS Q 17050-1:2005
+  type: JIS
+  primary: true
+docnumber: Q17050
+date:
+- type: issued
+  at: '2005-07-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 分野を問わず，ある対象の規定要求事項への適合を証明する事が望ましいか又は必要な場合の，供給者適合宣言に対する一般要求事項を規定。供給者適合宣言の対象には製品，プロセス，マネジメントシステム，人又は機関がある。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.20
+    text: Product and company certification. Conformity assessment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q17050

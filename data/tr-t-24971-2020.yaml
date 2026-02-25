@@ -1,0 +1,81 @@
+---
+id: TRT249712020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療機器―ＪＩＳ　Ｔ　１４９７１適用の指針
+- language: en
+  script: Latn
+  content: Medical devices -- Guidance on the application of JIS T 14971
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+T+24971%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_tr_t_24971_000_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: TR T 24971:2020
+  type: JIS
+  primary: true
+docnumber: T24971
+date:
+- type: issued
+  at: '2020-10-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本医療機器産業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本医療機器産業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本医療機器産業連合会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｔ　１４９７１：２０２０に従って医療機器のリスクマネジメントシステムを開発し，実施し，維持するための指針を示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 11.040.01
+    text: Medical equipment in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T24971

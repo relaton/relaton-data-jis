@@ -1,0 +1,90 @@
+---
+id: JISX300612004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: データベース言語　ＳＱＬマルチメディア及び適用業務パッケージ　第１部：枠組
+- language: en
+  script: Latn
+  content: 'Information technology -- Database languages -- SQL multimedia and application
+    packages -- Part 1: Framework'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3006-1%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03006_001_000_2004_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 3006-1:2004
+  type: JIS
+  primary: true
+docnumber: X3006
+date:
+- type: issued
+  at: '2004-09-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｘ　３００６規格郡の他の二つ以上の部で共通の，それらの概念，表記法及び規約を定義する。特に，各当該分野に適合するユーザ定義型，及びそれらの振る舞いを定義するために，他の部の中でＪＩＳ　Ｘ　３００５を用いる方法を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X3006

@@ -1,0 +1,75 @@
+---
+id: JIST81051983
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 発泡ポリウレタン表底安全靴
+- language: en
+  script: Latn
+  content: Safety shoes with polyurethane foam sole
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8105%3A1983
+docidentifier:
+- content: JIS T 8105:1983
+  type: JIS
+  primary: true
+docnumber: T8105
+date:
+- type: issued
+  at: '1984-02-29'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本保安用品協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 製造業，運輸業，林業，食品加工業，サービス業などの事業場において使用するために発泡ポリウレタンを主体とした表底を用いた安全靴であってセメント式製法及びダイレクト式製法によるものについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.340.10
+    text: Protective clothing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T8105

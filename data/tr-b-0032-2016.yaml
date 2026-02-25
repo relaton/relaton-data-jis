@@ -1,0 +1,78 @@
+---
+id: TRB00322016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: オートメーションシステム及びその統合―情報交換に必要なモデリング及びソフトウェアケイパビリティプロファイリングを使用したアプリケーション統合の方法
+- language: en
+  script: Latn
+  content: Automation systems and integration -- Applications integration approach
+    using information exchange requirements modelling and software capability profiling
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+B+0032%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_tr_b_00032_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: TR B 0032:2016
+  type: JIS
+  primary: true
+docnumber: B0032
+date:
+- type: issued
+  at: '2016-03-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　製造科学技術センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　製造科学技術センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　製造科学技術センター
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: アプリケーション間の情報交換要求を規定するＩＳＯ　１６１００及びＩＳＯ　１８４３５を使用する方法を記載。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 25.040.01
+    text: Industrial automation systems in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0032

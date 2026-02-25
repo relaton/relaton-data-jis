@@ -1,0 +1,96 @@
+---
+id: JISH40402023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: アルミニウム及びアルミニウム合金の棒及び線
+- language: en
+  script: Latn
+  content: Aluminium and aluminium alloy bars and wires
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+4040%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_04040_000_000_2023_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_04040_000_000_2023_e_ed10_ch.pdf
+docidentifier:
+- content: JIS H 4040:2023
+  type: JIS
+  primary: true
+docnumber: H4040
+date:
+- type: issued
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本アルミニウム協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本アルミニウム協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本アルミニウム協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 押出加工したアルミニウム及びアルミニウム合金の棒，引抜加工したアルミニウム及びアルミニウム合金の棒，並びに引抜加工したアルミニウム及びアルミニウム合金の線について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.040.15
+    text: Non-ferrous metal pipes
+  - code: 77.150.10
+    text: Aluminium products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H4040

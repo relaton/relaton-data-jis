@@ -1,0 +1,91 @@
+---
+id: JISC04572006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気及び関連分野―取扱説明の作成―構成，内容及び表示方法
+- language: en
+  script: Latn
+  content: Preparation of instructions -- Structuring, content and presentation
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0457%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_00457_000_000_2006_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 0457:2006
+  type: JIS
+  primary: true
+docnumber: C0457
+date:
+- type: issued
+  at: '2006-03-25'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 乾電池のような小さくて簡単な製品から，大規模電気工業設備のような大形又は高度に複雑な製品に至るまで，電気及び関連分野におけるあらゆる種類の製品にとって必要又は有用であるすべての種類の取扱説明に関する立案と定式化とについて，一般原則及び詳細な要求事項を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '01.110'
+    text: Technical product documentation
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0457

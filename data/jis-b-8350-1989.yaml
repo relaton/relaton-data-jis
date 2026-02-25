@@ -1,0 +1,75 @@
+---
+id: JISB83501989
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 油圧ポンプ及び油圧モータの騒音レベル測定方法
+- language: en
+  script: Latn
+  content: Methods of noise level measurement for oil hydraulic pumps and motors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8350%3A1989
+docidentifier:
+- content: JIS B 8350:1989
+  type: JIS
+  primary: true
+docnumber: B8350
+date:
+- type: issued
+  at: '1990-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 油圧ポンプ及び油圧モータから放射される定常的な騒音の騒音レベルを測定する方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.10
+    text: Pumps and motors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8350

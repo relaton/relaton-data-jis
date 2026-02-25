@@ -1,0 +1,86 @@
+---
+id: JISB83811995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 空気圧用たわみ管の管継手
+- language: en
+  script: Latn
+  content: Pneumatic system -- Flexible tubes -- Tube fittings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8381%3A1995
+docidentifier:
+- content: JIS B 8381:1995
+  type: JIS
+  primary: true
+docnumber: B8381
+date:
+- type: issued
+  at: '1995-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本フルードパワー工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本フルードパワー工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 機械設備に用いる空気圧システムの中で使用されるポリアミド管又はポリウレタン管を接続するフレアレス管について規定。この継手と接続して用いる空気圧用の管は，附属書による。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.40
+    text: Piping and couplings
+  - code: 83.140.30
+    text: Plastics pipes and fittings for non fluid use
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8381

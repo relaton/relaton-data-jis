@@ -1,0 +1,94 @@
+---
+id: JISC810532024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 照明器具―第３部：性能要求事項
+- language: en
+  script: Latn
+  content: 'Luminaires -- Part 3: General requirements for performance'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8105-3%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08105_003_000_2024_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08105_003_000_2024_e_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8105-3:2024
+  type: JIS
+  primary: true
+docnumber: C8105
+date:
+- type: issued
+  at: '2024-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本照明工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本照明工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 電源電圧が１　０００　Ｖ以下で動作する電気光源（例えば，白熱電球，蛍光ランプ，その他の放電ランプ，ＬＥＤ光源などの電子発光体）を組み込んだ照明器具の性能要求事項及び環境に関する要求事項について規定。特に規定のない限り，この規格が適用する性能特性は，指定の手順で初期エージングが完了した新規製造時の照明器具の性能特性を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.140.40
+    text: Luminaires
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8105

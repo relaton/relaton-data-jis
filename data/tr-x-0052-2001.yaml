@@ -1,0 +1,74 @@
+---
+id: TRX00522001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ハイパテキストマーク付け言語（ＪＩＳ　Ｘ　４１５６：２０００）の利用者ガイド
+- language: en
+  script: Latn
+  content: 'User''s Guide to HyperText Markup Language (HTML: JIS X 4156:2000) (ISO/IEC
+    15445:2000))'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0052%3A2001
+docidentifier:
+- content: TR X 0052:2001
+  type: JIS
+  primary: true
+docnumber: X0052
+date:
+- type: issued
+  at: '2001-12-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｘ　４１５６（ＩＳＯ／ＩＥＣ　１５４４５）の適用範囲は，ＩＳＯ－ＨＴＭＬによって洗練されたＨＴＭＫ　４．０のためのＷ３Ｃ勧告の箇条の一覧によって示される。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0052

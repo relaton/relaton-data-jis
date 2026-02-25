@@ -1,0 +1,94 @@
+---
+id: JISC22622012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気絶縁用ガラスクロス補強ドライ集成マイカ
+- language: en
+  script: Latn
+  content: Glass-backed mica paper for electrical insulation with resin binder for
+    post-impregnation (VPI)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2262%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02262_000_000_2012_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 2262:2012
+  type: JIS
+  primary: true
+docnumber: C2262
+date:
+- type: issued
+  at: '2012-02-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ガラスクロス，接着用の少量のエポキシ樹脂などの合成樹脂及び集成マイカから成る電気絶縁用ガラスクロス補強ドライ集成マイカについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.035.10
+    text: Paper and board insulating materials
+  - code: 29.035.50
+    text: Mica based materials
+  - code: '73.080'
+    text: Non-metalliferous minerals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2262

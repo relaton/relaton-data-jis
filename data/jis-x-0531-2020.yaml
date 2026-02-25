@@ -1,0 +1,82 @@
+---
+id: JISX05312020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術―自動認識及びデータ取得技術―ＧＳ１アプリケーション識別子及びＡＳＣ　ＭＨ１０データ識別子並びにその管理
+- language: en
+  script: Latn
+  content: Information technology -- Automatic identification and data capture techniques
+    -- GS1 Application Identifiers and ASC MH10 Data Identifiers and maintenance
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0531%3A2020
+docidentifier:
+- content: JIS X 0531:2020
+  type: JIS
+  primary: true
+docnumber: X0531
+date:
+- type: issued
+  at: '2020-03-23'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電子情報技術産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電子情報技術産業協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 符号化されたデータの識別に用いられる一連のＧＳ１アプリケーション識別子及びＡＳＣ　ＭＨ１０データ識別子について規定し，その管理を担当する組織を明確にする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.040.50
+    text: Automatic identification and data capture techniques
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0531

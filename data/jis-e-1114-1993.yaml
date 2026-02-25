@@ -1,0 +1,79 @@
+---
+id: JISE11141993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: Ｎ形レール及び６０ｋｇレール用継目板ボルト及びナット
+- language: en
+  script: Latn
+  content: Fish bolts and nuts for N type rail and 60 kg rail
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+1114%3A1993
+docidentifier:
+- content: JIS E 1114:1993
+  type: JIS
+  primary: true
+docnumber: E1114
+date:
+- type: issued
+  at: '1993-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道施設協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道施設協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄道施設協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｅ　１１０２に規定する４０ｋｇＮ並びに５０ｋｇＮレール用及び６０ｋｇレール用継目板に用いる継目板ボルト及びナットについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.060.10
+    text: Bolts, screws, studs
+  - code: 21.060.20
+    text: Nuts
+  - code: '45.080'
+    text: Rails and railway components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E1114

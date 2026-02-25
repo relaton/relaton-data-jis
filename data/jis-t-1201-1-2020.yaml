@@ -1,0 +1,98 @@
+---
+id: JIST120112020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 聴覚検査機器―第１部：純音聴力検査及び語音聴覚検査に用いる機器
+- language: en
+  script: Latn
+  content: 'Audiometric equipment -- Part 1: Equipment for pure-tone and speech audiometry'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+1201-1%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_01201_001_000_2020_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_01201_001_000_2020_e_ed10_ch.pdf
+docidentifier:
+- content: JIS T 1201-1:2020
+  type: JIS
+  primary: true
+docnumber: T1201
+date:
+- type: issued
+  at: '2020-06-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本音響学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本音響学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本音響学会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 聴覚いき（閾）値レベルを，音響心理学的検査法によって標準化された基準いき（閾）値レベルと比較して測定するため，及び語音検査材料を用いて音響心理学的検査を行うために設計された機器の一般要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.55
+    text: Diagnostic equipment
+  - code: 17.140.50
+    text: Electroacoustics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T1201

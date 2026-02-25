@@ -1,0 +1,89 @@
+---
+id: JISZ81252004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 印刷用語―デジタル印刷
+- language: en
+  script: Latn
+  content: Graphic arts -- Glossary -- Digital printing terms
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8125%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08125_000_000_2004_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08125_000_000_2004_e_ed10_i4.pdf
+docidentifier:
+- content: JIS Z 8125:2004
+  type: JIS
+  primary: true
+docnumber: Z8125
+date:
+- type: issued
+  at: '2004-02-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本印刷産業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本印刷産業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本印刷産業連合会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: デジテル印刷技術に関連して用いる用語及びその定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.37
+    text: Image technology (Vocabularies)
+  - code: 37.100.10
+    text: Reproduction equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8125

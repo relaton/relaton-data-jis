@@ -1,0 +1,93 @@
+---
+id: JISX250192025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: システム及びソフトウェア技術－システム及びソフトウェア製品の品質要求及び評価（ＳＱｕａＲＥ）－利用時品質モデル
+- language: en
+  script: Latn
+  content: Systems and software engineering-Systems and software Quality Requirements
+    and Evaluation (SQuaRE)-Quality-in-use model
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+25019%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_25019_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 25019:2025
+  type: JIS
+  primary: true
+docnumber: X25019
+date:
+- type: issued
+  at: '2025-12-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，製品又はシステムが明示された利用状況で利用される場合に利害関係者に影響を与える可能性のある，三つの特性（更に副特性に細分化される）から構成される利用時品質モデルについて規定する。このモデルは，利用時のコンピュータシステム及び利用時のソフトウェア製品の両方を含む，情報システム及びITサービスシステムの全領域に適用可能である。
+    この規格は，利用時品質を仕様化，測定，評価及び改善するための一組の品質特性を提供する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X25019

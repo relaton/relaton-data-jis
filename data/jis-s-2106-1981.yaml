@@ -1,0 +1,72 @@
+---
+id: JISS21061981
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 液化石油ガス用グリル
+- language: en
+  script: Latn
+  content: Grills used with liquefied petroleum gas
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2106%3A1981
+docidentifier:
+- content: JIS S 2106:1981
+  type: JIS
+  primary: true
+docnumber: S2106
+date:
+- type: issued
+  at: '1981-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ガス石油機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ガス石油機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ガス石油機器工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 液化石油ガスを燃料とするバーナをもち，表示ガス消費量が１時間当たり０．５ｋｇ以下の一般家庭用のグリルについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S2106

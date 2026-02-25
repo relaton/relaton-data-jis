@@ -1,0 +1,87 @@
+---
+id: JISK67261994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ポリビニルアルコール試験方法
+- language: en
+  script: Latn
+  content: Testing methods for polyvinyl alcohol
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6726%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06726_000_000_1994_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06726_000_000_1994_e_pr10_i4.pdf
+docidentifier:
+- content: JIS K 6726:1994
+  type: JIS
+  primary: true
+docnumber: K6726
+date:
+- type: issued
+  at: '1994-07-31'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 酢ビ・ポバール工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 酢ビ・ポバール工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 酢ビ・ポバール工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: けん化度約７０（モル％）以上のポリビニルアルコールの試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.080.20
+    text: Thermoplastic materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K6726

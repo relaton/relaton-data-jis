@@ -1,0 +1,78 @@
+---
+id: TSB002412010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工作機械―消費電力測定方法―第１部：マシニングセンタ
+- language: en
+  script: Latn
+  content: 'Machine tools -- Test methods for electric power consumption -- Part 1
+    : Machining centres'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+B+0024-1%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_ts_b_00024_001_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: TS B 0024-1:2010
+  type: JIS
+  primary: true
+docnumber: B0024
+date:
+- type: issued
+  at: '2010-03-23'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本工作機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本工作機械工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: マシニングセンタの消費電力の測定方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: 25.080.01
+    text: Machine tools in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0024

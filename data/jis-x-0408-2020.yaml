@@ -1,0 +1,75 @@
+---
+id: JISX04082020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 大学・高等専門学校コード
+- language: en
+  script: Latn
+  content: Identification code for universities and colleges
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0408%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00408_000_000_2020_j_ed11_ch.pdf
+docidentifier:
+- content: JIS X 0408:2020
+  type: JIS
+  primary: true
+docnumber: X0408
+date:
+- type: issued
+  at: '2020-03-23'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: データ処理機械を用いて機械と機械，機械と人との間で情報を交換する場合の大学・高等専門学校コードについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0408

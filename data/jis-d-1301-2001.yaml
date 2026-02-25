@@ -1,0 +1,96 @@
+---
+id: JISD13012001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気自動車―一充電走行距離及び交流充電電力量消費率試験方法
+- language: en
+  script: Latn
+  content: Electric vehicle -- Measurement for driving range and energy consumption
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+1301%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01301_000_000_2001_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01301_000_000_2001_e_pr10_i4.pdf
+docidentifier:
+- content: JIS D 1301:2001
+  type: JIS
+  primary: true
+docnumber: D1301
+date:
+- type: issued
+  at: '2001-04-30'
+- type: confirmed
+  at: '2020-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本自動車研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本自動車研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　日本自動車研究所"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 車載電池だけを動力源とする車両総質量が３５００ｋｇ以下の電気自動車（自動二輪車及び原動機付自転車で原動機に電動機を用いたものを除く。）の一充電走行距離及び交流充電電力量消費率を求める試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '43.120'
+    text: Electric road vehicles
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D1301

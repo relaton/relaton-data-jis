@@ -1,0 +1,95 @@
+---
+id: JISC214332013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気絶縁材料―熱的耐久性―第３部：熱的耐久性の計算の手引き
+- language: en
+  script: Latn
+  content: 'Electrical insulating materials -- Properties of thermal endurance --
+    Part 3: Instructions for calculating thermal endurance characteristics'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2143-3%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02143_003_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 2143-3:2013
+  type: JIS
+  primary: true
+docnumber: C2143
+date:
+- type: issued
+  at: '2013-01-21'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｃ　２１４３－１及びＪＩＳ　Ｃ　２１４３－２に従って，複数の一定温度で試験片を劣化処理したとき，時間経過によって得られる特性変化を基に，熱的耐久性を導く計算手順について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.99
+    text: Other standards related to electricity and magnetism
+  - code: '19.020'
+    text: Test conditions and procedures in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2143

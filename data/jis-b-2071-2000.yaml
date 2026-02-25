@@ -1,0 +1,87 @@
+---
+id: JISB20712000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鋼製弁
+- language: en
+  script: Latn
+  content: Steel valves
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2071%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02071_000_000_2000_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02071_000_000_2000_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 2071:2000
+  type: JIS
+  primary: true
+docnumber: B2071
+date:
+- type: issued
+  at: '2000-06-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本バルブ工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本バルブ工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本バルブ工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 鋳鋼フランジ形弁：一般の機械装置，化学装置などに用いる鋳鋼フランジ形弁について規定。一般工業用鋼製弁：一般分野に用いる鋼製弁について規定。石油及び天然ガス工業用ボルテッドボンネット鋼製弁：石油精製及び関連する分野で要求されるエロージョン，コローション又は使用条件から，フルポートの口径寸法及び厚い肉厚を必要とするボルテッドボンネット鋼製弁について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.060.01
+    text: Valves in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B2071

@@ -1,0 +1,85 @@
+---
+id: JISB96542017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 水産加工機械の安全及び衛生に関する設計要求事項
+- language: en
+  script: Latn
+  content: Requirements for safety and hygiene of marine product machinery
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+9654%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_09654_000_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 9654:2017
+  type: JIS
+  primary: true
+docnumber: B9654
+date:
+- type: issued
+  at: '2017-03-01'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本食品機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本食品機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本食品機械工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 水産加工機械及びその附属装置（以下，水産加工機械という。）に限定した特定の安全・衛生設計のための要求事項であり，ＪＩＳ　Ｂ　９６５０－１，ＪＩＳ　Ｂ　９６５０－２，ＪＩＳ　Ｂ　９７００及びＪＩＳ　Ｂ　９９６０－１に規定する要求事項の拡張が必要な事項について規定。家庭，レストランなどのちゅう（厨）房で使用する水産加工機械には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: '67.260'
+    text: Plants and equipment for the food industry
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B9654

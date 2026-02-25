@@ -1,0 +1,85 @@
+---
+id: JIST09022014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高齢者・障害者配慮設計指針―公共空間に設置する移動支援用音案内
+- language: en
+  script: Latn
+  content: Guidelines for older persons and persons with disabilities -- Auditory
+    guides in public space for mobility assist
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0902%3A2014
+docidentifier:
+- content: JIS T 0902:2014
+  type: JIS
+  primary: true
+docnumber: T0902
+date:
+- type: issued
+  at: '2014-05-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+          \                                                                                           国立研究開発法人　産業技術総合研究所"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 音声及び非音声音の両方又は一方だけを含む音によって，高齢者・障害者（特に視覚に障害のある人）を含む音の案内の利用者の円滑かつ安全な歩行・移動を促進するため，誘導，注意喚起，位置及び状態に関する情報提供を行う移動支援用音案内の音の特性，機器の設計及び使用方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.180.10
+    text: Aids and adaptation for moving
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T0902

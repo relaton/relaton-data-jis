@@ -1,0 +1,75 @@
+---
+id: JISA00141976
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 住宅用冷暖房ユニットのモデュール呼び寸法
+- language: en
+  script: Latn
+  content: Modular co-ordinating sizes of air-conditioning unit for dwellings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+0014%3A1976
+docidentifier:
+- content: JIS A 0014:1976
+  type: JIS
+  primary: true
+docnumber: A0014
+date:
+- type: issued
+  at: '1976-06-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本燃焼機器検査協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本燃焼機器検査協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本燃焼機器検査協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 住宅に使用される冷暖房ユニットのモデュール呼び寸法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.100.01
+    text: Heating appliances in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A0014

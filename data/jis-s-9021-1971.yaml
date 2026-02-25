@@ -1,0 +1,75 @@
+---
+id: JISS90211971
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: はとめ及びアイレットリング
+- language: en
+  script: Latn
+  content: Eyelets
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+9021%3A1971
+docidentifier:
+- content: JIS S 9021:1971
+  type: JIS
+  primary: true
+docnumber: S9021
+date:
+- type: issued
+  at: '1977-04-11'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 東京ハトメ工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 東京ハトメ工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 東京ハトメ工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 紙工品，重布，厚織布地，その他の織物，皮革，ゴム，プラスチック製品および機器などに用いるはとめおよびアイレットリングについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '21.080'
+    text: Hinges, eyelets and other articulated joints
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S9021

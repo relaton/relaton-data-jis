@@ -1,0 +1,81 @@
+---
+id: JISS21092019AMENDMENT12024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用ガス温水機器（追補１）
+- language: en
+  script: Latn
+  content: Gas burning water heaters for domestic use (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2109%3A2019%2FAMENDMENT+1%3A2024
+docidentifier:
+- content: JIS S 2109:2019/AMENDMENT 1:2024
+  type: JIS
+  primary: true
+docnumber: S2109
+date:
+- type: issued
+  at: '2024-01-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本ガス機器検査協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本ガス機器検査協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本ガス機器検査協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: 27.060.20
+    text: Gas fuel burners
+  - code: 91.140.65
+    text: Water heating equipment
+  - code: 97.100.20
+    text: Gas heaters
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S2109

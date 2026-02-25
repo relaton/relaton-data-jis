@@ -1,0 +1,83 @@
+---
+id: JISX71552011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 地理情報―場所識別子（ＰＩ）アーキテクチャ
+- language: en
+  script: Latn
+  content: Geographic information -- Place Identifier (PI) Architecture
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+7155%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_07155_000_000_2011_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 7155:2011
+  type: JIS
+  primary: true
+docnumber: X7155
+date:
+- type: issued
+  at: '2011-03-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本情報経済社会推進協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本情報経済社会推進協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本情報経済社会推進協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 場所の識別子を作成，登録，管理，検索・取得（変換）及び利用するための概念的な構造を規定するとともに，この構造を具現化する要素技術の位置付けを規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.70
+    text: IT applications in science
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X7155

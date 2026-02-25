@@ -1,0 +1,83 @@
+---
+id: JISE11072008AMENDMENT12012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 継目板用及びレール締結用のボルト及びナット（追補１）
+- language: en
+  script: Latn
+  content: Steel bolts and nuts for fish-plates and fastenings (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+1107%3A2008%2FAMENDMENT+1%3A2012
+docidentifier:
+- content: JIS E 1107:2008/AMENDMENT 1:2012
+  type: JIS
+  primary: true
+docnumber: E1107
+date:
+- type: issued
+  at: '2012-02-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道施設協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄道施設協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄道施設協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: amendment
+  flavor: jis
+  ics:
+  - code: 21.060.10
+    text: Bolts, screws, studs
+  - code: 21.060.20
+    text: Nuts
+  - code: '45.080'
+    text: Rails and railway components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E1107

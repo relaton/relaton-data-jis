@@ -1,0 +1,75 @@
+---
+id: JISC04011982
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: シーケンス制御用展開接続図
+- language: en
+  script: Latn
+  content: Circuit diagram (schematic diagram) for sequential control
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0401%3A1982
+docidentifier:
+- content: JIS C 0401:1982
+  type: JIS
+  primary: true
+docnumber: C0401
+date:
+- type: issued
+  at: '1982-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電気学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般産業の設備，装置及び機器のシーケンス制御系における電気系統の展開接続図について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.20
+    text: Numerically controlled machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0401

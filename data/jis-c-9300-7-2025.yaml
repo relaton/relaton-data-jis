@@ -1,0 +1,90 @@
+---
+id: JISC930072025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: アーク溶接装置－第７部：トーチ
+- language: en
+  script: Latn
+  content: 'Arc welding equipment-Part 7: Torches'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9300-7%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09300_007_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 9300-7:2025
+  type: JIS
+  primary: true
+docnumber: C9300
+date:
+- type: issued
+  at: '2025-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本溶接協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，アーク溶接及び類似の関連プロセスのために用いるトーチの，構造要求事項及び安全要求事項について規定する。この規格は，手動用トーチ，自動機用トーチ，空冷トーチ，水冷トーチ，モータ装備トーチ，スプールオントーチ及びヒューム吸引トーチに適用する。この規格におけるトーチは，トーチボディ，ケーブルホースアセンブリ及びその他の構成部品からなる。この規格は，アーク溶接電源と補助装置とを接続するケーブルホースアセンブリにも適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.30
+    text: Welding equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9300

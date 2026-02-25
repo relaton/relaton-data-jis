@@ -1,0 +1,98 @@
+---
+id: JISA53732016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プレキャストプレストレストコンクリート製品
+- language: en
+  script: Latn
+  content: Precast prestressed concrete products
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5373%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05373_000_000_2016_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05373_000_000_2016_e_ed10_i4.pdf
+docidentifier:
+- content: JIS A 5373:2016
+  type: JIS
+  primary: true
+docnumber: A5373
+date:
+- type: issued
+  at: '2016-04-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           特定非営利活動法人　コンクリート製品ＪＩＳ協議会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           特定非営利活動法人　コンクリート製品ＪＩＳ協議会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           特定非営利活動法人　コンクリート製品ＪＩＳ協議会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: プレストレストコンクリート製のプレキャストコンクリート製品について規定。日本工業規格が別途定められている，建築用コンクリート製品及びその他のコンクリート製品には，この規格は適用しない。プレストレストコンクリート構造とすることを意図しない施工上の安全確保などを目的としてＰＣ鋼材などを用いている製品には，適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.30
+    text: Concrete and concrete products
+  - code: 93.080.30
+    text: Road equipment and installations
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5373

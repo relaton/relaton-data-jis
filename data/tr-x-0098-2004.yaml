@@ -1,0 +1,75 @@
+---
+id: TRX00982004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 音声認証システムの精度評価方法
+- language: en
+  script: Latn
+  content: Evaluation Method for Accuracy of Voice Authentication Systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0098%3A2004
+docidentifier:
+- content: TR X 0098:2004
+  type: JIS
+  primary: true
+docnumber: X0098
+date:
+- type: issued
+  at: '2004-01-06'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 対象とする音声認証システムとは，あらかじめ登録した音声の登録データと，ユーザが登録者であることを主張してあらたに入力する音声データを比較し，音声の個人性が一致したか否かを録音であることを主張してあらたに入力する音声データを比較し，音声の個人性が一致したか否かを判定するアルゴリズム，照合装置，又はシステムとする。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '13.310'
+    text: Protection against crime
+  - code: 17.140.01
+    text: Acoustic measurements and noise abatement in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0098

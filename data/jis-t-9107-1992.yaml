@@ -1,0 +1,75 @@
+---
+id: JIST91071992
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 手術用ゴム手袋
+- language: en
+  script: Latn
+  content: Surgical rubber gloves
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9107%3A1992
+docidentifier:
+- content: JIS T 9107:1992
+  type: JIS
+  primary: true
+docnumber: T9107
+date:
+- type: issued
+  at: '1992-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　化学物質評価研究機構
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　化学物質評価研究機構
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　化学物質評価研究機構
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 医科及び歯科において手術に用いる手術用ゴム手袋について規定。包装減菌済みの使い捨て形式及び未減菌形式の手袋に限る。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.30
+    text: Surgical instruments and materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9107

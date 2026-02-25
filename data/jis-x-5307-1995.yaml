@@ -1,0 +1,84 @@
+---
+id: JISX53071995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: システム間の通信及び情報交換　―　ＯＳＩトランスポート層規格に関する管理情報要素
+- language: en
+  script: Latn
+  content: Information technology -- Telecommunications and information exchange between
+    systems -- Elements of Management Information Related to OSI Transport Layer Standards
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5307%3A1995
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05307_000_000_1995_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5307:1995
+  type: JIS
+  primary: true
+docnumber: X5307
+date:
+- type: issued
+  at: '1995-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＯＳＩトランスポート層の動作に関する開放型システム内の管理情報の仕様を定める。トランスポート層管理をどのように行うかは，この規格では規定しない。トランスポート層管理情報は，（ａ）トランスポート層管理オブジェクトの管理オブジェクトクラスの定義。これは管理情報の構造（ＩＳＯ／ＩＥＣ　１０１６５の一連の規格及びＩＴＵ－Ｔ勧告Ｘ．７２０－Ｘ．７２３）を規定する一連の指針に従っている。（ｂ）管理オブジェクト及び属性のもつ関係で，層の動作に対するもの，並びに他のオブジェクト及び属性に対するもの。（ｃ）トランスポート層管理オブジェクトの属性に関する動作型の操作で，ＯＳＩシステム管理で利用可能なもの。　を規定することによって定義される。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.40
+    text: Transport layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5307

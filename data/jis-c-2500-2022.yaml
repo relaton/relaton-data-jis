@@ -1,0 +1,93 @@
+---
+id: JISC25002022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 超電導磁石を用いる開磁路法による永久磁石の磁気特性測定方法
+- language: en
+  script: Latn
+  content: Methods of measurement of the magnetic properties of permanent magnet (magnetically
+    hard) materials in an open magnetic circuit using a superconducting magnet
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2500%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02500_000_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 2500:2022
+  type: JIS
+  primary: true
+docnumber: C2500
+date:
+- type: issued
+  at: '2022-04-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　大阪科学技術センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　大阪科学技術センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　大阪科学技術センター"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 超電導磁石（ＳＣＭ：Ｓｕｐｅｒｃｏｎｄｕcｔｉｎｇ　Ｍａｇｎｅｔ）を用いる開磁気回路における永久磁石の直流磁界での磁気特性の測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.220.20
+    text: Measurement of electrical and magnetic quantities
+  - code: '29.030'
+    text: Magnetic materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2500

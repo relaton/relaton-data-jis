@@ -1,0 +1,96 @@
+---
+id: JISR32092023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 複層ガラス　　　
+- language: en
+  script: Latn
+  content: Insulating glass
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+3209%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_03209_000_000_2023_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_03209_000_000_2023_e_ed10_ch.pdf
+docidentifier:
+- content: JIS R 3209:2023
+  type: JIS
+  primary: true
+docnumber: R3209
+date:
+- type: issued
+  at: '2023-04-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　板硝子協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　板硝子協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　板硝子協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 主に建築物及び冷凍・冷蔵ショーケースに使用する複層ガラスについて規定。ただし，中空層が１層又は２層の複層ガラスに適用し，中空層に格子部材などの内蔵物を入れた複層ガラス，及び空気以外の気体同士を混合して中空層に封入した複層ガラスには適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 81.040.20
+    text: Glass in building
+  - code: 81.040.30
+    text: Glass products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R3209

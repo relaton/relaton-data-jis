@@ -1,0 +1,81 @@
+---
+id: JISZ48171995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 放射線遮へい用鉛ブロック
+- language: en
+  script: Latn
+  content: Radiation shielding lead bricks
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4817%3A1995
+docidentifier:
+- content: JIS Z 4817:1995
+  type: JIS
+  primary: true
+docnumber: Z4817
+date:
+- type: issued
+  at: '1995-05-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本保安用品協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 原子力関連の事業所において，放射性同位元素，放射線発生装置などを使用するとき，Ｘ線，γ線などを遮へいするために用いる放射線遮へい用鉛ブロックについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.280'
+    text: Radiation protection
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4817

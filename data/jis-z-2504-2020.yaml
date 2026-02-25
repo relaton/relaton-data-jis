@@ -1,0 +1,93 @@
+---
+id: JISZ25042020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 金属粉―見掛密度測定方法
+- language: en
+  script: Latn
+  content: Metallic powders -- Determination of apparent density
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2504%3A2020
+docidentifier:
+- content: JIS Z 2504:2020
+  type: JIS
+  primary: true
+docnumber: Z2504
+date:
+- type: issued
+  at: '2020-10-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本粉末冶金工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本粉末冶金工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本粉末冶金工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 漏斗を用いて金属粉の見掛密度を測定する方法について規定。この方法は，漏斗角60°で直径2.5 mmのオリフィスから自然に流れ出す金属粉に適用する。ただし，漏斗角60°で直径2.5
+    mmのオリフィスから流れ出ない場合は，漏斗角30°で直径2.5 mmのオリフィス又は漏斗角60°で直径5.0 mmのオリフィスを用いてもよい。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '77.160'
+    text: Powder metallurgy
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z2504

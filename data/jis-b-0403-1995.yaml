@@ -1,0 +1,95 @@
+---
+id: JISB04031995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鋳造品―寸法公差方式及び削り代方式
+- language: en
+  script: Latn
+  content: Castings -- System of dimensional tolerances and machining allowances
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0403%3A1995
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00403_000_000_1995_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00403_000_000_1995_e_pr10_i4.pdf
+docidentifier:
+- content: JIS B 0403:1995
+  type: JIS
+  primary: true
+docnumber: B0403
+date:
+- type: issued
+  at: '1995-02-28'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 鋳造品の寸法に対する公差方式及び要求する削り代方式について規定し，金属及びそれらの合金を種々の方法で鋳造した鋳造品の寸法に適用。図面に一括して指示する鋳造品の普通寸法公差の特級及び要求する削り代，並びに特定の寸法の後に続けて直接指示する個々の公差特級及び要求する削り代の両方に適用。鋳造工場が模型又は金型を準備する場合，又はその準備に対して責任を負う場合に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.10
+    text: Limits and fits
+  - code: 77.140.80
+    text: Iron and steel castings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0403

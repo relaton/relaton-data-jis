@@ -1,0 +1,92 @@
+---
+id: JISK689932002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プラスチック―記号及び略語―第３部：可塑剤
+- language: en
+  script: Latn
+  content: 'Plastics -- Symbols and abbreviated terms -- Part 3: Plasticizers'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6899-3%3A2002
+docidentifier:
+- content: JIS K 6899-3:2002
+  type: JIS
+  primary: true
+docnumber: K6899
+date:
+- type: issued
+  at: '2002-02-28'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本プラスチック工業連盟"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 略語を作成するため，可塑剤に関連する用語の構成要素に対する一定の方式による記号の付け方を規定。一般に用語の確立された略語だけを含む。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.83
+    text: Rubber and plastics industries (Vocabularies)
+  - code: 83.040.30
+    text: Auxiliary materials and additives for plastics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K6899

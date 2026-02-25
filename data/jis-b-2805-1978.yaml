@@ -1,0 +1,75 @@
+---
+id: JISB28051978
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: Ｅ形止め輪
+- language: en
+  script: Latn
+  content: Retaining rings -- E type
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2805%3A1978
+docidentifier:
+- content: JIS B 2805:1978
+  type: JIS
+  primary: true
+docnumber: B2805
+date:
+- type: issued
+  at: '1978-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ばね工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ばね工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ばね工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 一般に使用する軸用の止め輪で，その形状がＥに似ている止め輪について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.060.60
+    text: Rings, bushes, sleeves, collars
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B2805

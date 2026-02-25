@@ -1,0 +1,96 @@
+---
+id: JISA65122007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 可動間仕切
+- language: en
+  script: Latn
+  content: Movable partitions
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+6512%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_06512_000_000_2007_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_06512_000_000_2007_e_ed10_i4.pdf
+docidentifier:
+- content: JIS A 6512:2007
+  type: JIS
+  primary: true
+docnumber: A6512
+date:
+- type: issued
+  at: '2007-07-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本パーティション工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本パーティション工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本パーティション工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 非耐力壁の間仕切として建物の内部空間に取り付けるもので，分解，組立又は移設して再使用のできる可動間仕切について規定。アコーディオンドア，スライディングドア，トイレブース，ついたて及びローパーティション並びに可動間仕切に収納の機能が加わった収納間仕切は除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.060.10
+    text: Walls. Partitions. Façades
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A6512

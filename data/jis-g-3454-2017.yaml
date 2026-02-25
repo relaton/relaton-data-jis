@@ -1,0 +1,87 @@
+---
+id: JISG34542017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 圧力配管用炭素鋼鋼管
+- language: en
+  script: Latn
+  content: Carbon steel pipes for pressure service
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3454%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03454_000_000_2017_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03454_000_000_2017_e_ed10_i4.pdf
+docidentifier:
+- content: JIS G 3454:2017
+  type: JIS
+  primary: true
+docnumber: G3454
+date:
+- type: issued
+  at: '2017-08-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ３５０℃程度以下で使用する圧力配管に用いる炭素鋼鋼管について規定。高圧配管用炭素鋼鋼管には，適用しない。この規格は，外径１０．５ｍｍ（呼び径６Ａ又は１／８Ｂ）～６６０．４ｍｍ（呼び径６５０Ａ又は２６Ｂ）の管に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.040.10
+    text: Iron and steel pipes
+  - code: 77.140.75
+    text: Steel pipes and tubes for specific use
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G3454

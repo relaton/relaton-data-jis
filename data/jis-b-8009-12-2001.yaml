@@ -1,0 +1,95 @@
+---
+id: JISB8009122001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 往復動内燃機関駆動発電装置―第１２部：非常用発電装置
+- language: en
+  script: Latn
+  content: 'Reciprocating internal combustion engine driven alternating current generating
+    sets -- Part 12: Emergency power supply to safety services'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8009-12%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08009_012_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS B 8009-12:2001
+  type: JIS
+  primary: true
+docnumber: B8009
+date:
+- type: issued
+  at: '2001-12-31'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本内燃機関連合会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 防災用電気機器に非常用電源を供給するため往復動内燃機関によって駆動する発電装置について規定。病院，高層ビル，人々が集まる公共の場所などの安全装置に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.020'
+    text: Internal combustion engines
+  - code: 29.160.40
+    text: Generating sets
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8009

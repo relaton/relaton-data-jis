@@ -1,0 +1,87 @@
+---
+id: JISA53501991
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 強化プラスチック複合管
+- language: en
+  script: Latn
+  content: Fiberglass reinforced plastic mortar pipes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5350%3A1991
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05350_000_000_1991_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05350_000_000_1991_e_pr10_i4.pdf
+docidentifier:
+- content: JIS A 5350:1991
+  type: JIS
+  primary: true
+docnumber: A5350
+date:
+- type: issued
+  at: '1991-10-31'
+- type: confirmed
+  at: '2001-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 強化プラスチック複合管協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 強化プラスチック複合管協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 強化プラスチック複合管協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 水路に使用される強化プラスチック複合管について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '83.120'
+    text: Reinforced plastics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5350

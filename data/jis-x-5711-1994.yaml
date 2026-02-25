@@ -1,0 +1,84 @@
+---
+id: JISX57111994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 開放型システム間相互接続　―　分散型トランザクション処理　―　第２部　ＯＳＩ　ＴＰのサービス
+- language: en
+  script: Latn
+  content: 'Information technology -- Open Systems Interconnection -- Distributed
+    Transaction Processing -- Part 2: OSI TP Service'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5711%3A1994
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05711_000_000_1994_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 5711:1994
+  type: JIS
+  primary: true
+docnumber: X5711
+date:
+- type: issued
+  at: '1994-01-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 応用層に位置付けられるトランザクション処理サービスを，（１）サービスプリティブの動作及び事象　（２）サービスプリミティブの動作及び事象　（３）動作と事象との関係及びそれらの順序　個々の実装又は製品を規定せず，情報処理システムの内のエンティティ又はインタフェースの実装方法を制約しない。　の観点から抽象的に規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.70
+    text: Application layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5711

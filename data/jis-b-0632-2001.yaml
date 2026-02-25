@@ -1,0 +1,82 @@
+---
+id: JISB06322001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性仕様（ＧＰＳ）―表面性状：輪郭曲線方式―位相補償フィルタの特性
+- language: en
+  script: Latn
+  content: 'Geometrical Product Specification (GPS) -- Surface texture: Profile method
+    -- Metrological characteristics of phase correct filters'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0632%3A2001
+docidentifier:
+- content: JIS B 0632:2001
+  type: JIS
+  primary: true
+docnumber: B0632
+date:
+- type: issued
+  at: '2001-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 輪郭曲線測定のための位相補償フィルタの特性について規定。特に，輪郭曲線に含まれる長波長成分及び短波長成分を分離する方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.20
+    text: Properties of surfaces
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0632

@@ -1,0 +1,83 @@
+---
+id: JISX013342001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ソフトウェア製品の評価―第４部：取得者のプロセス
+- language: en
+  script: Latn
+  content: 'Software engineering -- Product evaluation -- Part 4: Process for acquirers'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0133-4%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00133_004_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 0133-4:2001
+  type: JIS
+  primary: true
+docnumber: X0133
+date:
+- type: issued
+  at: '2001-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 既製ソフトウェア製品，注文ソフトウェア製品又は既存のソフトウェア製品への修正部分の取得におけるソフトウェア製品品質の体系的な測定，総合評価及び評価のための要求事項，推奨事項及び要領を含む。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0133

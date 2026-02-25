@@ -1,0 +1,100 @@
+---
+id: JISZ342212022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 金属材料の溶接施工要領及びその適格性確認―溶接施工法試験―第１部：鋼のアーク溶接及びガス溶接並びにニッケル及びニッケル合金のアーク溶接
+- language: en
+  script: Latn
+  content: 'Specification and qualification of welding procedures for metallic materials
+    -- Welding procedure test -- Part 1: Arc and gas welding of steels and arc welding
+    of nickel and nickel alloys'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3422-1%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03422_001_000_2022_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03422_001_000_2022_e_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 3422-1:2022
+  type: JIS
+  primary: true
+docnumber: Z3422
+date:
+- type: issued
+  at: '2022-03-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本溶接協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 全ての製品の種類における鋼のアーク溶接及びガス溶接，並びにニッケル及びニッケル合金のアーク溶接の溶接施工法試験を行うことによって適格性確認前の溶接施工要領書の適格性を確認する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.10
+    text: Welding processes
+  - code: 77.140.01
+    text: Iron and steel products in general
+  - code: 77.150.40
+    text: Nickel and chromium products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z3422

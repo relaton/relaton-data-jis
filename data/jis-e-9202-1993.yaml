@@ -1,0 +1,75 @@
+---
+id: JISE92021993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鋼索鉄道用線路導滑車
+- language: en
+  script: Latn
+  content: Guide rollers for cable cars
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+9202%3A1993
+docidentifier:
+- content: JIS E 9202:1993
+  type: JIS
+  primary: true
+docnumber: E9202
+date:
+- type: issued
+  at: '1993-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本鋼索交通協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本鋼索交通協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本鋼索交通協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 鋼索鉄道の直線部に使用する線路導滑車について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '45.100'
+    text: Cableway equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E9202

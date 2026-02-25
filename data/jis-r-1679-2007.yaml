@@ -1,0 +1,93 @@
+---
+id: JISR16792007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電波吸収体のミリ波帯における電波吸収特性測定方法
+- language: en
+  script: Latn
+  content: Measurement methods for reflectivity of electromagnetic wave absorber in
+    millimetre wave frequency
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+1679%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_r_01679_000_000_2007_j_ed10_ch.pdf
+docidentifier:
+- content: JIS R 1679:2007
+  type: JIS
+  primary: true
+docnumber: R1679
+date:
+- type: issued
+  at: '2007-06-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ファインセラミックス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ファインセラミックス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ファインセラミックス協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ３０ＧＨz～３００ＧＨzの周波数範囲において，反射量０～－５０dB ・入射角０°～８０°の垂直入射，斜入射，及び各偏波に対する電波吸収体の反射量の測定方法を規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 81.060.30
+    text: Advanced ceramics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R1679

@@ -1,0 +1,77 @@
+---
+id: JISK56731983
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 安全色彩用蛍光塗料
+- language: en
+  script: Latn
+  content: Fluorescent paint for safety colour
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5673%3A1983
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_05673_000_000_1983_e_pr10_i4.pdf
+docidentifier:
+- content: JIS K 5673:1983
+  type: JIS
+  primary: true
+docnumber: K5673
+date:
+- type: issued
+  at: '1983-07-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本塗料工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本塗料工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本塗料工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 工場・鉱山・学校・病院・劇場などの事業場，道路，船舶，航空保安施設などにおける災害を防止する目的で使用する安全色彩用螢光塗料について規定。螢光塗料は，有機螢光顔料とアクリル樹脂ワニスなどを原料として作った液状のもの。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '87.040'
+    text: Paints and varnishes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K5673

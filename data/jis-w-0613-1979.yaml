@@ -1,0 +1,73 @@
+---
+id: JISW06131979
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 飛行機の強度及び剛性，フラッタ，ダイバージェンス及びその他の空力弾性の不安定
+- language: en
+  script: Latn
+  content: Airplane strength and rigidity, flutter, divergence, and other aero elastic
+    instabilities
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+0613%3A1979
+docidentifier:
+- content: JIS W 0613:1979
+  type: JIS
+  primary: true
+docnumber: W0613
+date:
+- type: issued
+  at: '1979-12-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本航空宇宙工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 飛行機の設計及び構造について，フラッタ，ダイバージェンス及びその他の空力弾性上の不安定の防止，飛行機のフラッタ，ダイバージェンス及びその他の空力弾性上の不安定が発生しないことを保証するための解析，飛行試験及び地上試験に対する一般的事項について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: W0613

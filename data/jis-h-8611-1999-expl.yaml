@@ -1,0 +1,81 @@
+---
+id: JISH86111999EXPL
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: JIS H 8611:1999解説
+- language: en
+  script: Latn
+  content: JIS H 8611:1999 explanatory version
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+8611%3A1999%2FEXPL
+docidentifier:
+- content: JIS H 8611:1999/EXPL
+  type: JIS
+  primary: true
+docnumber: H8611
+date:
+- type: issued
+  at: '2000-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.220.40
+    text: Metallic coatings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H8611

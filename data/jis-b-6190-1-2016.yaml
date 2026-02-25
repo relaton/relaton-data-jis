@@ -1,0 +1,93 @@
+---
+id: JISB619012016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工作機械試験方法通則―第１部：幾何精度試験
+- language: en
+  script: Latn
+  content: 'Test code for machine tools -- Part 1: Geometric accuracy of machines
+    operating under no-load or quasi-static conditions'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6190-1%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06190_001_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 6190-1:2016
+  type: JIS
+  primary: true
+docnumber: B6190
+date:
+- type: issued
+  at: '2016-03-22'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本工作機械工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 無負荷又は準静的な条件で行う工作機械の幾何精度試験方法について規定。加工中に手で持って操作する可搬形の機械には適用しない。幾何学的な精度試験だけに適用し，運転試験（振動，運動部品の動きの滑らかさなど）又は特性試験（回転速度及び送り速度）には適用しない。加工力よりも明らかに慣性力が大きい高速運動の精度試験には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.080.01
+    text: Machine tools in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6190

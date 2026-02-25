@@ -1,0 +1,89 @@
+---
+id: JISC820151012008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧開閉装置及び制御装置―第５部：制御回路機器及び開閉素子―第１０１節：接触器形リレー及びスタータの補助接点
+- language: en
+  script: Latn
+  content: 'Low-voltage switchgear and controlgear -- Part 5-101: Contactor relays
+    and auxiliary contact for contactors and motor-starters'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8201-5-101%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08201_005_101_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8201-5-101:2008
+  type: JIS
+  primary: true
+docnumber: C8201
+date:
+- type: issued
+  at: '2008-04-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 交流定格電圧１　０００Ｖａ．ｃ．以下（１　０００Ｈｚを超えない周波数において）又は直流電圧６００Ｖ以下の制御スイッチ，例えば接触形リレー及びスタータの補助接点について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.40
+    text: Switches
+  - code: 29.130.20
+    text: Low voltage switchgear and controlgear
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8201

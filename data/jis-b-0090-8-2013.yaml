@@ -1,0 +1,95 @@
+---
+id: JISB009082013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光学素子及び光学システム用の製図手法―第８部：表面性状（粗さ及びうねり）
+- language: en
+  script: Latn
+  content: 'Preparation of drawings for optical elements and systems -- Part 8: Surface
+    texture; roughness and waviness'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0090-8%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00090_008_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 0090-8:2013
+  type: JIS
+  primary: true
+docnumber: B0090
+date:
+- type: issued
+  at: '2013-10-21'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本光学工業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本光学工業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本光学工業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 光学素子の表面性状を指示する表示方法；主として研磨された光学面の仕様の表示方法；測定表面から表面形状を差引くトレンド除去後の残差表面の特徴付けの方法及びその表示方法について規定。表面形状を管理する規格はＪＩＳ　Ｂ　００９０－５及びＪＩＳ　Ｂ　００９０－１２であり，この規格では規定しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.100.20
+    text: Mechanical engineering drawings
+  - code: '37.020'
+    text: Optical equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0090

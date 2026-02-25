@@ -1,0 +1,87 @@
+---
+id: JISX30132001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プログラム言語Ｐｒｏｌｏｇ―第１部：基本部
+- language: en
+  script: Latn
+  content: 'Information technology -- Programming languages -- Prolog -- Part 1: General
+    core'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+3013%3A2001
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_03013_000_000_2001_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 3013:2001
+  type: JIS
+  primary: true
+docnumber: X3013
+date:
+- type: issued
+  at: '2001-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ａ）Ｐｒｏｌｏｇテキストの表現　ｂ）Ｐｒｏｌｏｇ言語の構文及び制約　ｃ）Ｐｒｏｌｏｇテキストを解釈するための意味規則　ｄ）Ｐｒｏｌｏｇが処理する入力データの表現　ｅ）Ｐｒｏｌｏｇが生成する出力の表現　ｆ）適合Ｐｒｏｌｏｇ処理系に対する制約及び限界の事項を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.060'
+    text: Languages used in information technology
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X3013

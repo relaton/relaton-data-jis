@@ -1,0 +1,93 @@
+---
+id: JISX303002023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報及びドキュメンテーション―記録管理―基本概念及び用語
+- language: en
+  script: Latn
+  content: Information and documentation -- Records management -- Core concepts and
+    vocabulary
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+30300%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_30300_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 30300:2023
+  type: JIS
+  primary: true
+docnumber: X30300
+date:
+- type: issued
+  at: '2023-05-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報科学技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報科学技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報科学技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 記録管理領域の基本概念に関連する用語及び定義について規定。これは，情報及びドキュメンテーションのアーカイブズ・記録管理の分野の規格における新しい用語の定義を制限するものではない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.01
+    text: Generalities. Terminology. Standardization. Documentation (Vocabularies)
+  - code: 01.140.20
+    text: Information sciences
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X30300

@@ -1,0 +1,86 @@
+---
+id: JISZ88262005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 粒子径解析―光子相関法
+- language: en
+  script: Latn
+  content: Particle size analysis -- Photon correlation spectroscopy
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8826%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08826_000_000_2005_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8826:2005
+  type: JIS
+  primary: true
+docnumber: Z8826
+date:
+- type: issued
+  at: '2005-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本粉体工業技術協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 液体中に分散した粒子の平均粒子径及び粒子径分布の広がりを測定するための光子相関法について規定。数ｍｍから約１μｍまで，又は沈降の影響が認められるまでの粒子に適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.120'
+    text: Particle size analysis. Sieving
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8826

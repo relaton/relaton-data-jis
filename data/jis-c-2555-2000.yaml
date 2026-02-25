@@ -1,0 +1,87 @@
+---
+id: JISC25552000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 磁極用鋼板及び鋼帯
+- language: en
+  script: Latn
+  content: Steel sheets and strip for pole core
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2555%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02555_000_000_2000_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02555_000_000_2000_e_pr10_i4.pdf
+docidentifier:
+- content: JIS C 2555:2000
+  type: JIS
+  primary: true
+docnumber: C2555
+date:
+- type: issued
+  at: '2000-04-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 回転電気機械の磁極及び継鉄に用いる磁極用鋼板及び鋼帯について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.030'
+    text: Magnetic materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2555

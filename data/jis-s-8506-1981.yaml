@@ -1,0 +1,75 @@
+---
+id: JISS85061981
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄琴
+- language: en
+  script: Latn
+  content: Glockenspiels
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+8506%3A1981
+docidentifier:
+- content: JIS S 8506:1981
+  type: JIS
+  primary: true
+docnumber: S8506
+date:
+- type: issued
+  at: '1981-04-10'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国楽器協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国楽器協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 全国楽器協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: １５幹音以上の音域をもつ鉄琴について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.200.20
+    text: Musical instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S8506

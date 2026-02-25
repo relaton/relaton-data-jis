@@ -1,0 +1,86 @@
+---
+id: JISB85742013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 液化石油ガスメーター―取引又は証明用
+- language: en
+  script: Latn
+  content: LPG dispensers for motor vehicles -- Measuring instruments used in transaction
+    or certification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8574%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08574_000_000_2013_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8574:2013
+  type: JIS
+  primary: true
+docnumber: B8574
+date:
+- type: issued
+  at: '2013-02-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本計量機器工業連合会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本計量機器工業連合会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 車両の燃料タンクなどに，液化石油ガスを充填するための機構をもつものであって，充填所（給油取扱所）に設置し，取引又は証明に使用する口径４０ｍｍ以下の液化石油ガスメーターについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.120.01
+    text: Measurement of fluid flow in general
+  - code: 75.160.30
+    text: Gaseous fuels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8574

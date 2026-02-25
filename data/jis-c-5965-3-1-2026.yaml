@@ -1,0 +1,94 @@
+---
+id: JISC5965312026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光ファイバ接続デバイス及び光受動部品－光ファイバコネクタ光学互換－第３－１部：１　３１０ｎｍゼロ分散形シングルモード光ファイバ用コネクタパラメータ－直径２．５ｍｍ及び１．２５ｍｍ円筒形全ジルコニア直角ＰＣ端面フェルール
+- language: en
+  script: Latn
+  content: 'Fiber optic interconnecting devices and passive components-Connector optical
+    interfaces-Part 3-1: Connector parameters of dispersion unshifted single-mode
+    physically contacting fibers-Non-angled 2.5 mm and 1.25 mm diameter cylindrical
+    full zirconia ferrules'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5965-3-1%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05965_003_001_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 5965-3-1:2026
+  type: JIS
+  primary: true
+docnumber: C5965
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，直角フィジカルコンタクト（PC：physical contact）端面をもつ，直径2.5mm及び1.25 mmの円筒形全ジルコニア（ZrO2）フェルール（PC端面フェルール）を用いたシングルモード光ファイバ同士の接続において，JIS
+    C 5965-2-1の挿入損失の要求性能を満足する許容寸法限度について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.20
+    text: Fibre optic interconnecting devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5965

@@ -1,0 +1,87 @@
+---
+id: JISA43011983
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: エレベーターのかご及び昇降路の寸法
+- language: en
+  script: Latn
+  content: Size of car and hoistway of elevators
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+4301%3A1983
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_04301_000_000_1983_e_pr10_i4.pdf
+docidentifier:
+- content: JIS A 4301:1983
+  type: JIS
+  primary: true
+docnumber: A4301
+date:
+- type: issued
+  at: '1983-11-30'
+- type: confirmed
+  at: '2025-11-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本エレベーター協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本エレベーター協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本エレベーター協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 建築物及び工作物に設置するエレベーターのかごと昇降路の寸法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 53.020.01
+    text: Lifting appliances in general
+  - code: 91.140.90
+    text: Lifts. Escalators
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A4301

@@ -1,0 +1,82 @@
+---
+id: JISC88522024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 小形燃料電池発電システムのエネルギー消費量の測定方法及びエネルギー消費量推定に用いる設備仕様の算定方法
+- language: en
+  script: Latn
+  content: Measurement methods of energy consumption and calculation methods of facility
+    specifications used to estimate energy consumption for fuel cell power systems
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8852%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08852_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8852:2024
+  type: JIS
+  primary: true
+docnumber: C8852
+date:
+- type: issued
+  at: '2024-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，定置用の固体高分子形燃料電池発電システム及び固体酸化物形燃料電池発電システムのエネルギー消費量の測定方法，及び住宅に設置した場合のエネルギー消費量推定に用いる設備仕様の算定方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.070'
+    text: Fuel cells
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8852

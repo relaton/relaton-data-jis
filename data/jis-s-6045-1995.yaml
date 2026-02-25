@@ -1,0 +1,75 @@
+---
+id: JISS60451995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 焼付け黒板
+- language: en
+  script: Latn
+  content: Porcelain-enameled and baking finished chalkboards
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+6045%3A1995
+docidentifier:
+- content: JIS S 6045:1995
+  type: JIS
+  primary: true
+docnumber: S6045
+date:
+- type: issued
+  at: '1995-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国黒板工業連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 全国黒板工業連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 全国黒板工業連盟
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 次のいずれかの表面材を黒板面とした焼付け黒板について規定。　（１）表面がほうろうで仕上げられたもの。　（２）さび止め処理を施した鋼板の表面に黒板揚塗料を塗装し，焼き付け，仕上げをしたもの。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '97.180'
+    text: Miscellaneous domestic and commercial equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S6045

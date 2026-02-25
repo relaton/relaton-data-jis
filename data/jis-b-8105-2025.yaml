@@ -1,0 +1,91 @@
+---
+id: JISB81052025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 蒸気タービン－受渡試験方法－改造時の性能確認
+- language: en
+  script: Latn
+  content: Steam turbines-Acceptance test-Thermal performance verification tests of
+    retrofitted steam turbines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8105%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08105_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8105:2025
+  type: JIS
+  primary: true
+docnumber: B8105
+date:
+- type: issued
+  at: '2025-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　火力原子力発電技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　火力原子力発電技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　火力原子力発電技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，蒸気タービン及び蒸気タービン設備に，幾つかの設備変更を伴う改造を行った改造蒸気タービンの受渡試験の性能確認方法について，a)～d)の事項の保証値を実証するため，発電用の過熱及び湿り蒸気タービンの試験の実施，並びに試験結果の計算方法について規定する。\nなお，この規格を発電用以外の蒸気タービンに適用してもよい。\na)\tタービン全体の改造による熱消費率又は内部効率の絶対値又は相対値\nb)\tタービン全体の改造による定格出力の絶対値又は相対値\nc)\tタービン部品の改造による熱消費率又は内部効率の絶対値又は相対値\nd)\tタービン部品の改造による圧力損失割合の絶対値又は相対値"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.040'
+    text: Gas and steam turbines. Steam engines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8105

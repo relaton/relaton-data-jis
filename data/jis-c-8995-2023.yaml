@@ -1,0 +1,93 @@
+---
+id: JISC89952023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 融雪形太陽電池（融雪形ＰＶ）モジュールの安全性―構造及び試験に関する要求事項
+- language: en
+  script: Latn
+  content: Safety of snow melting photovoltaic (PV) modules -- Requirements for construction
+    and testing
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8995%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08995_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8995:2023
+  type: JIS
+  primary: true
+docnumber: C8995
+date:
+- type: issued
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           太陽光発電技術研究組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           太陽光発電技術研究組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           太陽光発電技術研究組合"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 地上に設置する太陽光発電システムに用いる平面・非集光形の太陽電池モジュールに，融雪を目的とする電熱シートを一体化した融雪形太陽電池モジュールの構造の安全性に係る要求事項及びその構造を検証するための一連の試験について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  - code: 29.220.99
+    text: Other cells and batteries
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8995

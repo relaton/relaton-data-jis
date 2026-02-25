@@ -1,0 +1,88 @@
+---
+id: JISB16011996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 角形スプライン―小径合わせ―寸法，公差及び検証方法
+- language: en
+  script: Latn
+  content: Straight-sided splines for cylindrical shafts with internal centering --
+    Dimensions, tolerances and verification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1601%3A1996
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01601_000_000_1996_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01601_000_000_1996_e_pr10_i4.pdf
+docidentifier:
+- content: JIS B 1601:1996
+  type: JIS
+  primary: true
+docnumber: B1601
+date:
+- type: issued
+  at: '1996-01-31'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本機械学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本機械学会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 小径による中心合わせを行う，円筒軸に用いる軽荷重用及び中荷重用の角形スプラインの寸法について規定。管理方法及び対応するゲージについても規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 21.120.30
+    text: Keys and keyways, splines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1601

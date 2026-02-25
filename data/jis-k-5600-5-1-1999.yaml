@@ -1,0 +1,84 @@
+---
+id: JISK5600511999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 塗料一般試験方法―第５部：塗膜の機械的性質―第１節：耐屈曲性（円筒形マンドレル法）
+- language: en
+  script: Latn
+  content: 'Testing methods for paints -- Part 5: Mechanical property of film -- Section
+    1: Bend test (cylindrical mandrel)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+5600-5-1%3A1999
+docidentifier:
+- content: JIS K 5600-5-1:1999
+  type: JIS
+  primary: true
+docnumber: K5600
+date:
+- type: issued
+  at: '1999-05-31'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本塗料工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本塗料工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本塗料工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 標準的な条件下で円筒形マンドレルにより折り曲げられた場合の，塗料，ワニス及びそれらの関連製品の塗膜の割れ及び／又は金属基板からのはがれの抵抗性を確認するための経験的な試験手順を記載。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '87.040'
+    text: Paints and varnishes
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K5600

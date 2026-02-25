@@ -1,0 +1,75 @@
+---
+id: JISR72311995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自焼式電極用ペーストの試験方法
+- language: en
+  script: Latn
+  content: Testing method for solderberg paste
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+7231%3A1995
+docidentifier:
+- content: JIS R 7231:1995
+  type: JIS
+  primary: true
+docnumber: R7231
+date:
+- type: issued
+  at: '1995-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 炭素協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 炭素協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 炭素協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 自焼式電極用ペーストの試験方法について規定。アルミニウム電気分解に用いるペーストは除く。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.20
+    text: Welding consumables
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: R7231

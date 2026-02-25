@@ -1,0 +1,75 @@
+---
+id: JISB83041990
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 復水ポンプの試験及び検査方法
+- language: en
+  script: Latn
+  content: Testing methods for condensate pumps
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8304%3A1990
+docidentifier:
+- content: JIS B 8304:1990
+  type: JIS
+  primary: true
+docnumber: B8304
+date:
+- type: issued
+  at: '1990-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本産業機械工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本産業機械工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 蒸気タービン復水器中の凝縮水を吸出する遠心ポンプ及び斜流ポンプの工場における試験及び検査方法について規定。なお，ポンプの範囲は，原則として，ポンプ吸込フランジ（又はポンプ本体に付く吸込ベルマウス）及び吐出しフランジの断面で区切られた部分とする。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.080'
+    text: Pumps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8304

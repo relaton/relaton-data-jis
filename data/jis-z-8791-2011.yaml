@@ -1,0 +1,82 @@
+---
+id: JISZ87912011
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ホログラムの回折効率及び関連する光学特性の測定方法
+- language: en
+  script: Latn
+  content: Methods of measuring diffraction efficiency and associated optical characteristics
+    of hologram
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8791%3A2011
+docidentifier:
+- content: JIS Z 8791:2011
+  type: JIS
+  primary: true
+docnumber: Z8791
+date:
+- type: issued
+  at: '2011-01-20'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国立研究開発法人　産業技術総合研究所
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国立研究開発法人　産業技術総合研究所
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 国立研究開発法人　産業技術総合研究所
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ホログラムの回折効率，並びに関連する光学特性である角度選択性及び波長選択性の測定方法について規定。測定方法は，二光束干渉によって作製したホログラム，転写複製した表面レリーフ型ホログラム，及び電子線描画装置などによって作製した空間的に周期的な構造をもつホログラムに適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.180.20
+    text: Colours and measurement of light
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8791

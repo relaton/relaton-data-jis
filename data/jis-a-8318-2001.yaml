@@ -1,0 +1,85 @@
+---
+id: JISA83182001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 土工機械―座席基準点（ＳＩＰ）
+- language: en
+  script: Latn
+  content: Earth-moving machinery -- Seat index point (SIP)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8318%3A2001
+docidentifier:
+- content: JIS A 8318:2001
+  type: JIS
+  primary: true
+docnumber: A8318
+date:
+- type: issued
+  at: '2001-04-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建設機械施工協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建設機械施工協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本建設機械施工協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ａ　８３０８に規定された土工機械，及びＩＳＯ　３３３９－０に規定された農業用並びに林業用の，トラクタ並びに機械のために設計された，すべての種類の座席に対応する座席基準点（ＳＩＰ）の位置を決定するために使用される方法と装置について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.180'
+    text: Ergonomics
+  - code: '53.100'
+    text: Earth-moving machinery
+  - code: 65.060.01
+    text: Agricultural machines and equipment in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8318

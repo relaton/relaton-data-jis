@@ -1,0 +1,79 @@
+---
+id: TRZ00182002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 光触媒材料　―　大気浄化性能試験方法
+- language: en
+  script: Latn
+  content: Photocatalytic materials -- Air purification test procedure
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+Z+0018%3A2002
+docidentifier:
+- content: TR Z 0018:2002
+  type: JIS
+  primary: true
+docnumber: Z0018
+date:
+- type: issued
+  at: '2002-01-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 光触媒を建築材料その他の表面に付着させた光触媒材料の大気浄化性能を試験する方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 13.020.40
+    text: Pollution, pollution control and conservation
+  - code: 13.040.01
+    text: Air quality in general
+  - code: '19.040'
+    text: Environmental testing
+  - code: 71.100.99
+    text: Other products of the chemical industry
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z0018

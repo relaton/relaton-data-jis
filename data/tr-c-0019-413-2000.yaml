@@ -1,0 +1,76 @@
+---
+id: TRC00194132000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気設備指針　―　第４１３節：間接接触保護　―　電源の自動遮断による間接接触保護方式
+- language: en
+  script: Latn
+  content: 'Electrical installation guide -- Section 413: Measures of protection against
+    indirect contact by automatic disconnection of supply'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0019-413%3A2000
+docidentifier:
+- content: TR C 0019-413:2000
+  type: JIS
+  primary: true
+docnumber: C0019
+date:
+- type: issued
+  at: '2001-01-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気設備に適用する技術報告書である。ＪＩＳ　Ｃ　０３６４－４－４１（ＩＥＣ　６０３６４－４－４１）の使用を容易にするために，注釈，説明，例及び電気システムについて編集したもの。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: '13.260'
+    text: Protection against electric shock.  Live working
+  - code: 29.130.01
+    text: Switchgear and controlgear in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0019

@@ -1,0 +1,81 @@
+---
+id: JISA15311998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家具―常温液体に対する表面抵抗の試験方法
+- language: en
+  script: Latn
+  content: Furniture -- Assessment of surface resistance to cold liquids
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1531%3A1998
+docidentifier:
+- content: JIS A 1531:1998
+  type: JIS
+  primary: true
+docnumber: A1531
+date:
+- type: issued
+  at: '1998-06-30'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本オフィス家具協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本オフィス家具協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本オフィス家具協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 家具の仕上げ面とその表面の常温液体に対する耐久性の評価の方法について規定。家具と同一の方法で仕上げられた，また同じ材料を用いた試験条件に合った試験体にも適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '97.140'
+    text: Furniture
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1531

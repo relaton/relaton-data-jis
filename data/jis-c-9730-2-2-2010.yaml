@@ -1,0 +1,90 @@
+---
+id: JISC9730222010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用及びこれに類する用途の自動電気制御装置―第２－２部：感熱式モータ保護装置の個別要求事項
+- language: en
+  script: Latn
+  content: 'Automatic electrical controls for household and similar use -- Part 2-2:
+    Particular requirements for thermal motor protectors'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9730-2-2%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09730_002_002_2010_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 9730-2-2:2010
+  type: JIS
+  primary: true
+docnumber: C9730
+date:
+- type: issued
+  at: '2010-03-23'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 暖房，空気調節及びこれに類する用途を含む，ＪＩＳ　Ｃ　９７３０－１に定義される家庭用及びこれに類する用途の感熱式モータ保護装置の部分的評価に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '97.120'
+    text: Automatic controls for household use
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9730

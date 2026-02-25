@@ -1,0 +1,84 @@
+---
+id: JISF20532017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船舶及び海洋技術―クローズドチョック
+- language: en
+  script: Latn
+  content: Ships and marine technology -- Ship's mooring and towing fittings -- Closed
+    chocks
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+2053%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_02053_000_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS F 2053:2017
+  type: JIS
+  primary: true
+docnumber: F2053
+date:
+- type: issued
+  at: '2017-12-20'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 船舶の係留及びえい（曳）航ロープに用いるクローズドチョックの形状，寸法及び技術的要件について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.50
+    text: Deck equipment and installations
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F2053

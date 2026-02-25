@@ -1,0 +1,89 @@
+---
+id: JISZ902042018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 管理図―第４部：累積和管理図
+- language: en
+  script: Latn
+  content: 'Control charts -- Part 4: Cumulative sum charts'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9020-4%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09020_004_000_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 9020-4:2018
+  type: JIS
+  primary: true
+docnumber: Z9020
+date:
+- type: issued
+  at: '2018-03-20'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 量的（測定値）及び質的データを用いる工程及び品質管理の累積和管理図を設計するための統計的手順について規定。モニタリング，管理及び解析に累積和（ｃｕｓｕｍ）を用いる場合の意思決定の汎用的な方法についても規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.30
+    text: Application of statistical methods
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9020

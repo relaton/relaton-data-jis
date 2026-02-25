@@ -1,0 +1,89 @@
+---
+id: JISQ310002019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: リスクマネジメント―指針
+- language: en
+  script: Latn
+  content: Risk management -- Guidelines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+31000%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_31000_000_000_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 31000:2019
+  type: JIS
+  primary: true
+docnumber: Q31000
+date:
+- type: issued
+  at: '2019-01-21'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 組織が直面するリスクのマネジメントを行うことに関して，適用可能な指針を示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.100.01
+    text: Company organization and management in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q31000

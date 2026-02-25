@@ -1,0 +1,94 @@
+---
+id: JISC490212010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高圧及び特別高圧進相コンデンサ並びに附属機器―第１部：コンデンサ
+- language: en
+  script: Latn
+  content: 'High voltage power capacitors and attached apparatus -- Part 1: Capacitors'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4902-1%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04902_001_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 4902-1:2010
+  type: JIS
+  primary: true
+docnumber: C4902
+date:
+- type: issued
+  at: '2010-01-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 力率改善，電圧調整などの目的で，送配電系統の交流６００Ｖを超える回路で負荷と並列に接続して使用する高圧及び特別高圧進相コンデンサについて規定。電極として金属はく又は蒸着金属を用い，誘電体として含浸された紙，プラスチックフィルム及びこれらの複合体，又は非含浸プラスチックフィルムを用いた単位コンデンサに適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.240.99
+    text: Other equipment related to power transmission and distribution networks
+  - code: 31.060.70
+    text: Power capacitors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C4902

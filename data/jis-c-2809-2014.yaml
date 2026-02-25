@@ -1,0 +1,95 @@
+---
+id: JISC28092014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 平形接続子
+- language: en
+  script: Latn
+  content: Connecting devices -- Flat quick-connect terminations for electrical copper
+    conductors -- Safety requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2809%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02809_000_000_2014_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 2809:2014
+  type: JIS
+  primary: true
+docnumber: C2809
+date:
+- type: issued
+  at: '2014-12-22'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 機器又は部品と一体化した端子及び端子単体として使用する２．８ｍｍ，４．８ｍｍ，６．３ｍｍ又は９．５ｍｍシリーズの孔又はディンプル戻止め付きメールタブと平形接続端子とを組み合わせた絶縁被覆なしの平形接続子の寸法，性能及び試験方法について規定。アルミニウム電線には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.20
+    text: Connecting devices
+  - code: 29.120.30
+    text: Plugs, socket-outlets, couplers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2809

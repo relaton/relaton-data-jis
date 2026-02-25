@@ -1,0 +1,91 @@
+---
+id: JISX52122015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 近距離通信用インタフェース及びプロトコル２（ＮＦＣＩＰ－２）
+- language: en
+  script: Latn
+  content: Information technology -- Telecommunications and information exchange between
+    systems -- Near Field Communication Interface and Protocol -2 (NFCIP-2)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5212%3A2015
+docidentifier:
+- content: JIS X 5212:2015
+  type: JIS
+  primary: true
+docnumber: X5212
+date:
+- type: issued
+  at: '2015-03-20'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｘ　６３２２規格群又はＪＩＳ　Ｘ　６３２３規格群に従うＩＣカード読取り機能をＪＩＳ　Ｘ　５２１１と合わせて実装するデバイスのために，ＮＦＣ通信モード，ＰＩＣＣ通信モード，ＰＣＤ通信モード及びＶＣＤ通信モードの四つの通信モードのうちの選択された一つに入る方法を規定。これらの通信モードの仕様は規定しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.100.20
+    text: Data link layer
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5212

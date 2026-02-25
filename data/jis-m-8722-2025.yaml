@@ -1,0 +1,81 @@
+---
+id: JISM87222025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄鉱石－熱割れ試験方法
+- language: en
+  script: Latn
+  content: Iron ore-Determination of the decrepitation index
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8722%3A2025
+docidentifier:
+- content: JIS M 8722:2025
+  type: JIS
+  primary: true
+docnumber: M8722
+date:
+- type: issued
+  at: '2025-07-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本鉄鋼連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本鉄鋼連盟
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，鉄鉱石を急速加熱することによって生じる粉化の度合いを測定し，熱割れ指数を求める試験方法について規定する。
+    この方法は，高炉用天然鉄鉱石の塊鉱石に適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 73.060.10
+    text: Iron ores
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M8722

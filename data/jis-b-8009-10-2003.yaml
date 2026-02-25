@@ -1,0 +1,97 @@
+---
+id: JISB8009102003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 往復動内燃機関駆動発電装置―第１０部：空気音の測定方法
+- language: en
+  script: Latn
+  content: 'Reciprocating internal combustion engine driven alternating current generating
+    sets -- Part 10: Measurement of airborne noise by the enveloping surface method'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8009-10%3A2003
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08009_010_000_2003_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8009-10:2003
+  type: JIS
+  primary: true
+docnumber: B8009
+date:
+- type: issued
+  at: '2003-03-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本内燃機関連合会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 往復動内燃機関駆動発電装置から放射される空気音の音圧レベルの測定及び音源から発生する音響パワーレベルの算出方法に関して，空気音測定における実用測定方法及び空気音測定における簡易測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.160'
+    text: Vibrations, shock and vibration measurements
+  - code: '27.020'
+    text: Internal combustion engines
+  - code: 29.160.40
+    text: Generating sets
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8009

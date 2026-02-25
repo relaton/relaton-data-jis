@@ -1,0 +1,81 @@
+---
+id: JISA50011995
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 道路用砕石
+- language: en
+  script: Latn
+  content: Crushed stone for road construction
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5001%3A1995
+docidentifier:
+- content: JIS A 5001:1995
+  type: JIS
+  primary: true
+docnumber: A5001
+date:
+- type: issued
+  at: '1995-01-31'
+- type: confirmed
+  at: '2007-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本砕石協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本砕石協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本砕石協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 道路の敷砕石，路盤，歴青舗装の表層・基層などに使用する道路用砕石について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 93.080.10
+    text: Road construction
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A5001

@@ -1,0 +1,80 @@
+---
+id: TRD00062012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高度道路交通システム―走行制御に関する協調システムのための基本情報項目
+- language: en
+  script: Latn
+  content: Intelligent transport systems -- Basic information for cooperative systems
+    related vehicle / roadway warning and control
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+D+0006%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_tr_d_00006_000_000_2012_j_ed10_ch.pdf
+docidentifier:
+- content: TR D 0006:2012
+  type: JIS
+  primary: true
+docnumber: D0006
+date:
+- type: issued
+  at: '2012-08-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　自動車技術会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 高度道路交通システム（Ｉｎｔｅｌｌｉｇｅｎｔ　ｔｒａｎｓｐｏｒｔ　ｓｙｓｔｅｍｓ）分野における安全運転に資する協調形走行制御システムにおいて安全を支援するアプリケーションを成り立たせるための基本的な情報及び要件を示す。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 43.040.80
+    text: Crash protection and restraint systems
+  - code: 43.040.99
+    text: Other road vehicle systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0006

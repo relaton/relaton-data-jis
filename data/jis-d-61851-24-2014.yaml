@@ -1,0 +1,85 @@
+---
+id: JISD61851242014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気自動車コンダクティブ充電システム―第２４部：直流充電制御のための直流充電ステーションと電気自動車との間のデジタル通信
+- language: en
+  script: Latn
+  content: 'Electric vehicle conductive charging system -- Part 24: Digital communication
+    between a d.c. EV charging station and an electric vehicle for control of d.c.
+    charging'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+61851-24%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_61851_024_000_2014_j_ed10_ch.pdf
+docidentifier:
+- content: JIS D 61851-24:2014
+  type: JIS
+  primary: true
+docnumber: D61851
+date:
+- type: issued
+  at: '2014-10-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本自動車研究所
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本自動車研究所
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本自動車研究所
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｄ　６１８５１－２３とともに，入力電圧が交流（ＡＣ）６００Ｖ又は直流（ＤＣ）７５０Ｖまでのコンダクティブ充電における，電気自動車（ＥＶ）用ＤＣ充電ステーションとＥＶとの間のＤＣ充電制御デジタル通信について規定。高電圧ＡＣ電源に接続する充電ステーションを除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '43.120'
+    text: Electric road vehicles
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D61851

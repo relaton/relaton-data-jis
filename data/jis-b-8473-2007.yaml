@@ -1,0 +1,89 @@
+---
+id: JISB84732007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 燃料油用電磁弁
+- language: en
+  script: Latn
+  content: Fuel oil pipe line -- Solenoid valves
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8473%3A2007
+docidentifier:
+- content: JIS B 8473:2007
+  type: JIS
+  primary: true
+docnumber: B8473
+date:
+- type: issued
+  at: '2007-11-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 燃料油を流す管路に使用し，開閉機能をもつ，作動圧力差：０～２．５ＭＰａの範囲の間にあるもの。；最高許容圧力：０．０５～２．５ＭＰａの範囲の間にあるもの。；周囲温度：－２０～＋６０℃；燃料油の温度及び動粘度：示す範囲の仕様の電磁弁について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.060.40
+    text: Pressure regulators
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8473

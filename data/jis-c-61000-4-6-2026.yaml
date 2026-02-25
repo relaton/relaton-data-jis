@@ -1,0 +1,91 @@
+---
+id: JISC61000462026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電磁両立性－第４－６部：試験及び測定技術－無線周波電磁界によって誘導する伝導妨害に対するイミュニティ
+- language: en
+  script: Latn
+  content: 'Electromagnetic compatibility (EMC)-Part 4-6: Testing and measurement
+    techniques-Immunity to conducted disturbances, induced by radio-frequency fields'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61000-4-6%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61000_004_006_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61000-4-6:2026
+  type: JIS
+  primary: true
+docnumber: C61000
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電気学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電気学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，周波数範囲150 kHz～80 MHzの意図的な無線周波（RF）送信機から到来する電磁妨害に対する電気・電子装置の伝導性イミュニティ要求事項について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.100.20
+    text: Immunity
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61000

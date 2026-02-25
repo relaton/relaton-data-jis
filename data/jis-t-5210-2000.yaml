@@ -1,0 +1,81 @@
+---
+id: JIST52102000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 歯科用回転器具―技工用アブレーシブ研削器具
+- language: en
+  script: Latn
+  content: Dental rotary instruments -- Laboratory abrasive instruments
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+5210%3A2000
+docidentifier:
+- content: JIS T 5210:2000
+  type: JIS
+  primary: true
+docnumber: T5210
+date:
+- type: issued
+  at: '2000-10-31'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本歯科材料工業協同組合
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 日本歯科材料工業協同組合
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 日本歯科材料工業協同組合
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 歯科用回転器具の一種である技工用アブレーシブ研削器具において，通常最も多く使用される形状の寸法及び偏心について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.060.20
+    text: Dental equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T5210

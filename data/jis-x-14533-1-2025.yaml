@@ -1,0 +1,91 @@
+---
+id: JISX1453312025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 長期署名プロファイル－第１部：ＣＡｄＥＳデジタル署名
+- language: en
+  script: Latn
+  content: 'Processes, data elements and documents in commerce, industry and administration-Long
+    term signature-Part 1: Profiles for CMS Advanced Electronic Signatures (CAdES)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+14533-1%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_14533_001_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 14533-1:2025
+  type: JIS
+  primary: true
+docnumber: X14533
+date:
+- type: issued
+  at: '2025-09-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           特定非営利活動法人　日本ネットワークセキュリティ協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           特定非営利活動法人　日本ネットワークセキュリティ協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           特定非営利活動法人　日本ネットワークセキュリティ協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，長期間にわたってデジタル署名の検証を可能にするためのCMSデジタル署名及びCAdESデジタル署名で定義されている要素について規定する。この規格は，デジタル署名自体についての新しい技術仕様書を与えるものではなく，既に存在しているデジタル署名についての技術仕様書の新たな利用制限をもたらさない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.63
+    text: IT applications in trade
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X14533

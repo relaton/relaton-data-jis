@@ -1,0 +1,87 @@
+---
+id: JISB82672022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 圧力容器の設計
+- language: en
+  script: Latn
+  content: Construction of pressure vessel
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8267%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08267_000_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8267:2022
+  type: JIS
+  primary: true
+docnumber: B8267
+date:
+- type: issued
+  at: '2022-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 圧力容器（多層容器を含む。）の設計について規定。この規格を設計圧力３０　ＭＰａ以上の圧力容器に適用する場合は，高圧への適用に対する設計上の考慮を示す必要がある。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.020.30
+    text: Pressure vessels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8267

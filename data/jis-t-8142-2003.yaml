@@ -1,0 +1,86 @@
+---
+id: JIST81422003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 溶接用保護面
+- language: en
+  script: Latn
+  content: Personal face protectors for welding
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8142%3A2003
+docidentifier:
+- content: JIS T 8142:2003
+  type: JIS
+  primary: true
+docnumber: T8142
+date:
+- type: issued
+  at: '2003-07-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本保安用品協会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｔ　８１４１の遮光保護具に規定するフィルタプレート及びカバープレートと併用することによって，溶接，熱切断などの際に発生する目に有害な紫外放射及び赤外放射並びに強烈な可視光から作業者の目を保護し，かつ，アーク，スパッタなどによる外傷の危険から顔部及び頭けい部の前面を保護する溶接用保護面について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.340.20
+    text: Head protective equipment
+  - code: 25.160.01
+    text: Welding, brazing and soldering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T8142

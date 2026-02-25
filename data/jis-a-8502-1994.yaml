@@ -1,0 +1,81 @@
+---
+id: JISA85021994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 振動パイルハンマの仕様書様式
+- language: en
+  script: Latn
+  content: Standard form of specifications of vibratory pile hammers
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8502%3A1994
+docidentifier:
+- content: JIS A 8502:1994
+  type: JIS
+  primary: true
+docnumber: A8502
+date:
+- type: issued
+  at: '1994-11-30'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建設機械施工協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本建設機械施工協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本建設機械施工協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 電動機で駆動する振動パイルハンマ及び油圧で駆動する振動パイルハンマの仕様書の様式及び記入要領について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '91.220'
+    text: Construction equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8502

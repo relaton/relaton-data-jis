@@ -1,0 +1,96 @@
+---
+id: JISC16132007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: メタルハライドランプ方式試験機用高エネルギー紫外放射照度計
+- language: en
+  script: Latn
+  content: High irradiance ultraviolet radiometers of the metalhalide lamp type exposure
+    apparatus
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+1613%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_01613_000_000_2007_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 1613:2007
+  type: JIS
+  primary: true
+docnumber: C1613
+date:
+- type: issued
+  at: '2007-02-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本試験機工業会
+        \                                               \r\n                                                                                            一般社団法人　日本試験機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本試験機工業会
+        \                                               \r\n                                                                                            一般社団法人　日本試験機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本試験機工業会
+          \                                               \r\n                                                                                            一般社団法人　日本試験機工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 工業材料及び工業製品の物理的特性・化学的特性を人工的に促進劣化させるためにメタルハライドランプを光源として用いる試験機において，その装置内における紫外放射照度（対象物の面に与えられる紫外放射の密度）を，試験機内に非常設で測定する光電素子を用いたメタルハライドランプ方式試験機用高エネルギー紫外放射照度計について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.180.30
+    text: Optical measuring instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C1613

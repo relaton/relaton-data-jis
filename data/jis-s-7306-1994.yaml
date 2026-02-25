@@ -1,0 +1,75 @@
+---
+id: JISS73061994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: スクーバ用圧縮空気基準
+- language: en
+  script: Latn
+  content: Compressed air for SCUBA diving
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+7306%3A1994
+docidentifier:
+- content: JIS S 7306:1994
+  type: JIS
+  primary: true
+docnumber: S7306
+date:
+- type: issued
+  at: '1994-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　レジャー・スポーツダイビング産業協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　レジャー・スポーツダイビング産業協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　レジャー・スポーツダイビング産業協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: レジャー用としてスクーバダイビングに使用する開放式スクーバの呼吸用圧縮空気で，ＪＩＳ　Ｓ　７３０２に規定するスクーバ用シリンダに，圧力１９．６ＭＰ以下に充てんした呼吸用空気の基準について規定。ただし，呼吸用空気は，自然空気を圧縮機で圧縮してシリンダに充てんしたもので，人工的に各種成分のガスを原料として混合・製造した混合・製造した混合ガスには適用しない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.220.40
+    text: Outdoor and water sports equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S7306

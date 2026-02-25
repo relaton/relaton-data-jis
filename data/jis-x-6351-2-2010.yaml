@@ -1,0 +1,93 @@
+---
+id: JISX635122010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 物品管理用ＲＦＩＤ―第２部：１３５ｋＨｚ未満のエアインタフェース通信パラメタ
+- language: en
+  script: Latn
+  content: 'Information technology -- Radio frequency identification for item management
+    -- Part 2: Parameters for air interface communications below 135 kHz'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6351-2%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06351_002_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 6351-2:2010
+  type: JIS
+  primary: true
+docnumber: X6351
+date:
+- type: issued
+  at: '2010-03-23'
+- type: confirmed
+  at: '2024-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: １３５ｋＨｚ未満で動作し，物品管理アプリケーションで使用されるＲＦＩＤ装置のためのエアインタフェースを定義。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6351

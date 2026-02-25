@@ -1,0 +1,85 @@
+---
+id: TSC004312006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 無停電電源装置（ＵＰＳ）―第１部：操作者接近区域（近付くことが制限されていない区域）で用いるＵＰＳの一般要求事項及び安全要求事項
+- language: en
+  script: Latn
+  content: 'Uninterruptible power systems (UPS) -- Part 1: General and safety requirements
+    for UPS used in operator access areas'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+C+0043-1%3A2006
+docidentifier:
+- content: TS C 0043-1:2006
+  type: JIS
+  primary: true
+docnumber: C0043
+date:
+- type: issued
+  at: '2006-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 直流リンクに電気エネルギー蓄積装置をもつ半導体無停電電源装置について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: '29.200'
+    text: Rectifiers. Converters. Stabilized power supply
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0043

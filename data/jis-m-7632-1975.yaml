@@ -1,0 +1,75 @@
+---
+id: JISM76321975
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 炭坑防爆形電気機関車用蓄電池
+- language: en
+  script: Latn
+  content: Traction batteries for explosion-proof type locomotives
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+7632%3A1975
+docidentifier:
+- content: JIS M 7632:1975
+  type: JIS
+  primary: true
+docnumber: M7632
+date:
+- type: issued
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 蓄電池を動力の電源とする防爆形蓄電池式電気機関車に用いる鉛蓄電池について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.220.20
+    text: Acid secondary cells and batteries
+  - code: 29.260.20
+    text: Electrical apparatus for explosive atmospheres
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M7632

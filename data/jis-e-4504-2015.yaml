@@ -1,0 +1,98 @@
+---
+id: JISE45042015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄道車両―輪軸―品質要求
+- language: en
+  script: Latn
+  content: Rolling stock -- Wheelsets -- Quality requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+4504%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_04504_000_000_2015_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_e_04504_000_000_2015_e_ed10_ch.pdf
+docidentifier:
+- content: JIS E 4504:2015
+  type: JIS
+  primary: true
+docnumber: E4504
+date:
+- type: issued
+  at: '2015-01-20'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道車輌工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本鉄道車輌工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 一体車輪，輪心，タイヤ付車輪，車軸装着のブレーキディスク，ダイナモプーリ，歯車，チェーンホイール及び輪軸に装着する発注者指定部品を，圧入，焼ばめ又は油圧ばめによって車軸に組み込むときの要求事項について規定。また，完成組立品の形状，寸法公差及び検査並びに納入の状態についても規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 45.060.01
+    text: Railway rolling stock in general
+  - code: 77.140.99
+    text: Other iron and steel products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E4504

@@ -1,0 +1,73 @@
+---
+id: TRX00562002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＸＨＴＭＬのモジュール化
+- language: en
+  script: Latn
+  content: Modularization of XHTML
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+X+0056%3A2002
+docidentifier:
+- content: TR X 0056:2002
+  type: JIS
+  primary: true
+docnumber: X0056
+date:
+- type: issued
+  at: '2002-06-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＸＨＴＭＬの抽象モジュール化を規定し，ＸＭＬの文書型定義（ＤＴＤ）による抽象化の実装を規定。このモジュール化は，ＸＨＴＭＬをサブセット化し拡張するための手段，つまり，今後のプラットフォームに対するＸＨＴＭＬの支援への拡張に必要な機能を提供。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0056

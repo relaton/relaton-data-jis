@@ -1,0 +1,91 @@
+---
+id: JISX013522004
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ソフトウェア測定―機能規模測定―第２部：ソフトウェア規模測定手法のＪＩＳ　Ｘ　０１３５－１：１９９９への適合性評価
+- language: en
+  script: Latn
+  content: 'Information technology -- Software measurement -- Functional size measurement
+    -- Part 2: Conformity evaluation of software size measurement methods to JIS X
+    0135-1:1999'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0135-2%3A2004
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00135_002_000_2004_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0135-2:2004
+  type: JIS
+  primary: true
+docnumber: X0135
+date:
+- type: issued
+  at: '2004-06-20'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ａ）ＪＩＳ　Ｘ　０１３５－１の各規定内容に対して，機能規模測定（ＦＳＭ）手法候補の適合性評価の枠組みを確立する。　ｂ）ＦＳＭ手法候補がＪＩＳ　Ｘ　０１３５－１の要求事項を満足するかを判断するための適合性評価プロセスを規定。ｃ）適合評価プロセスの再現性並びに適合性判定及び最終結果の一貫性を保証するために，適合性評価を実行するための要求事項を規定。　ｄ）適合性評価プロセスの成果物が，客観的であり，公平であり，一貫性があり，再現性があり，完全であり及び監査可能であることを保証することを目的。　ｅ）適合性評価チームの適格性を決定するための参考指針を提供。　ｆ）ＦＳＭ手法候補の適合性評価を支援するためのチェエクリストの例を提供。　ｇ）適合性評価報告書の記載例を提供，を行う。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.080'
+    text: Software
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0135

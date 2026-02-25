@@ -1,0 +1,78 @@
+---
+id: JISC00321996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法　―　電気・電子　―　機器用耐湿性（定常）試験方法
+- language: en
+  script: Latn
+  content: 'Environmental testing Part 2: Tests. Test Cb: Damp heat, steady state,
+    primarily for equipment'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0032%3A1996
+docidentifier:
+- content: JIS C 0032:1996
+  type: JIS
+  primary: true
+docnumber: C0032
+date:
+- type: issued
+  at: '1996-07-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本電子部品信頼性センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本電子部品信頼性センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本電子部品信頼性センター
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気機器・電子機器を高湿度の状態で使用又は貯蔵することができる能力を調べることを目的としている。この試験は，規定の時間，一定温度で供試品に結露を生じない状態での高湿度の影響を調べることを意図したものであり，発熱供試品及び非発熱供試品いずれにも適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  - code: '19.080'
+    text: Electrical and electronic testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0032

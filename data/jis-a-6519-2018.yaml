@@ -1,0 +1,94 @@
+---
+id: JISA65192018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 体育館用鋼製床下地構成材
+- language: en
+  script: Latn
+  content: Steel furring components for gymnasium floors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+6519%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_06519_000_000_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS A 6519:2018
+  type: JIS
+  primary: true
+docnumber: A6519
+date:
+- type: issued
+  at: '2018-10-22'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本体育床下地工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本体育床下地工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本体育床下地工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 過大な荷重が負荷する床（多目的床など）を含まない一般体育館，柔道場，剣道場及び柔剣道場に使用する支持脚（支持台，調整ボルト・ナット，支持板，緩衝材などのいずれかで構成），大引，根太，床パネルなどの主要部材で構成された鋼製床下地構成材について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.060.30
+    text: Ceilings. Floors. Stairs
+  - code: 97.220.10
+    text: Sports facilities
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A6519

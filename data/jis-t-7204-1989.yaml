@@ -1,0 +1,87 @@
+---
+id: JIST72041989
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 医療用人工呼吸器
+- language: en
+  script: Latn
+  content: Lung ventilators for medical use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+7204%3A1989
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_07204_000_000_1989_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_07204_000_000_1989_e_pr10_i4.pdf
+docidentifier:
+- content: JIS T 7204:1989
+  type: JIS
+  primary: true
+docnumber: T7204
+date:
+- type: issued
+  at: '1989-09-30'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本医療機器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本医療機器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本医療機器工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 医療用に使われる成人用，小児用又は新生児用の人工呼吸器について規定。麻酔専用のものを含む。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.040.10
+    text: Anaesthetic, respiratory and reanimation equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T7204

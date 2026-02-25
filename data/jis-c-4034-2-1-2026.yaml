@@ -1,0 +1,91 @@
+---
+id: JISC4034212026
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 回転電気機械－第２－１部：単一速度三相かご形誘導電動機の損失及び効率の算定方法
+- language: en
+  script: Latn
+  content: 'Rotating electrical machines-Part 2-1: Methods for determining losses
+    and efficiency from tests of single-speed, three-phase, cage-induction motors'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4034-2-1%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_04034_002_001_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 4034-2-1:2026
+  type: JIS
+  primary: true
+docnumber: C4034
+date:
+- type: issued
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，商用電源運転の定格をもつ，JIS C 4034-1に基づく単一速度三相かご形誘導電動機の効率を試験から算定するための方法，及び個々の損失を求める方法について規定する。この規格には，同期機，直流機，発電機及び巻線形誘導機は含まない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.160.01
+    text: Rotating machinery in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C4034

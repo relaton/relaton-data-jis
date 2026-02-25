@@ -1,0 +1,94 @@
+---
+id: JISB01482006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 巻上機―用語
+- language: en
+  script: Latn
+  content: Lifting equipment -- Terminology
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0148%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00148_000_000_2006_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 0148:2006
+  type: JIS
+  primary: true
+docnumber: B0148
+date:
+- type: issued
+  at: '2006-03-25'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本産業機械工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: チェーンブロック，チェーンレバーホイスト，ワイヤ式レバーホイスト，電気チェーンブロック，電気ホイスト，電動ウインチ，空気チェーンホイストなどの巻上機，巻上用関連品(スリング及び附属品を含む。)などに関連する用語及びその定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.53
+    text: Materials handling equipment (Vocabularies)
+  - code: 53.020.99
+    text: Other lifting equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0148

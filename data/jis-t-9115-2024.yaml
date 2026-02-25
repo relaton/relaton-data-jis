@@ -1,0 +1,92 @@
+---
+id: JIST91152024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 単回使用検査・検診用ゴム手袋
+- language: en
+  script: Latn
+  content: Single-use rubber examination gloves
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9115%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09115_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 9115:2024
+  type: JIS
+  primary: true
+docnumber: T9115
+date:
+- type: issued
+  at: '2024-05-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本グローブ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本グローブ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本グローブ工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 治療及び処置の際に，患者及び使用者を交差感染から守るために使用する滅菌及び未滅菌の単回使用の検査・検診用ゴム手袋について規定。また，手袋の表面が平滑なもの及び表面の一部又は全面が粗面の手袋にも適用可能である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '11.140'
+    text: Hospital equipment
+  - code: 83.140.99
+    text: Other rubber and plastics products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9115

@@ -1,0 +1,76 @@
+---
+id: JISX61571980
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: １枚形磁気ディスクカートリッジ（上面着脱形）の機械的互換性
+- language: en
+  script: Latn
+  content: Physical characteristics of interchangeable magnetic single disk cartridge
+    (top loaded)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6157%3A1980
+docidentifier:
+- content: JIS X 6157:1980
+  type: JIS
+  primary: true
+docnumber: X6157
+date:
+- type: issued
+  at: '1980-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子工業振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本電子工業振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本電子工業振興協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 計数形電子計算機及び類似の機械相互間において，交換可能な情報記録媒体として用いる１枚形磁気ディスクカートリッジ（上面着脱形）の機械的互換性を確保するための構造，形状，寸法及び機械的特性について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.220.20
+    text: Magnetic storage devices in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6157

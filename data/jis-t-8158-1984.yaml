@@ -1,0 +1,72 @@
+---
+id: JIST81581984
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 簡易防じんマスク
+- language: en
+  script: Latn
+  content: Disposable dust respirators
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8158%3A1984
+docidentifier:
+- content: JIS T 8158:1984
+  type: JIS
+  primary: true
+docnumber: T8158
+date:
+- type: issued
+  at: '1984-05-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本保安用品協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 事業場その他で空気中に浮遊する鉱物性粉じんなどの粒子状物質を吸入することにより，人体に有害な影響を及ぼすおそれがある場合であって，臨時の作業などを行うときに使用する簡易防じんマスクについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T8158

@@ -1,0 +1,83 @@
+---
+id: JISA13221966
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築用薄物材料の難燃性試験方法
+- language: en
+  script: Latn
+  content: Testing method for incombustibility of thin materials for buildings
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1322%3A1966
+docidentifier:
+- content: JIS A 1322:1966
+  type: JIS
+  primary: true
+docnumber: A1322
+date:
+- type: issued
+  at: '1966-11-10'
+- type: confirmed
+  at: '2021-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　建材試験センター
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ４５゜メッケルバーナ法による厚さ５ｍｍ未満のボード，プレート，シート，フィルム，厚手布地およびこれらに類似する平板な材料の難燃性試験方法について規定。防炎３級に達しない性能の薄い材料の難燃性の効果的な評価には，この試験方法は適用できない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.100.01
+    text: Construction materials in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1322

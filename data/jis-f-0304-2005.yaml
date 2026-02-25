@@ -1,0 +1,86 @@
+---
+id: JISF03042005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船の居住区の空調及び通風―設計条件及び計算基準
+- language: en
+  script: Latn
+  content: Ships and marine technology -- Air conditioning and ventilation of accommodation
+    spaces -- Design condition and basis of calculations
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0304%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_00304_000_000_2005_j_ed10_ch.pdf
+docidentifier:
+- content: JIS F 0304:2005
+  type: JIS
+  primary: true
+docnumber: F0304
+date:
+- type: issued
+  at: '2005-12-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 国際運行商船の居住区域及び無線室の空調並びに通風のための設計条件と適切な計算方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.80
+    text: Accommodation spaces
+  - code: 47.020.90
+    text: Marine ventilation, air conditioning and heating systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F0304

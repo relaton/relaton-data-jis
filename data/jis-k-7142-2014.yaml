@@ -1,0 +1,92 @@
+---
+id: JISK71422014
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プラスチック―屈折率の求め方
+- language: en
+  script: Latn
+  content: Plastics -- Determination of refractive index
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7142%3A2014
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_07142_000_000_2014_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 7142:2014
+  type: JIS
+  primary: true
+docnumber: K7142
+date:
+- type: issued
+  at: '2014-09-22'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本プラスチック工業連盟"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本プラスチック工業連盟"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 次の二つ（Ａ法：成形品，キャストシート若しくは押出シート，又はフィルムの屈折率を屈折率計によって測定する方法。粉体又は粒状の材料には適用できない。；Ｂ法：粉体又は粒状の透明材料の屈折率を顕微鏡による液浸法（ベッケ線現象を利用）によって測定する方法。不透明材料及び異方性材料には適用できない。）の方法によるプラスチックの屈折率の求め方について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.080.01
+    text: Plastics in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K7142

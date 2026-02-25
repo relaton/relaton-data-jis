@@ -1,0 +1,96 @@
+---
+id: JISK69412019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 紫外線硬化樹脂及び熱硬化樹脂の収縮率連続測定方法
+- language: en
+  script: Latn
+  content: UV curable resin and thermosetting resin -- Continuous measurement method
+    of shrinkage rate
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6941%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06941_000_000_2019_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06941_000_000_2019_e_ed10_ch.pdf
+docidentifier:
+- content: JIS K 6941:2019
+  type: JIS
+  primary: true
+docnumber: K6941
+date:
+- type: issued
+  at: '2019-02-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 紫外線硬化樹脂及び／又は熱硬化樹脂の硬化の状態を連続的に測定し，硬化収縮率を求める方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.060'
+    text: Measurement of volume, mass, density, viscosity
+  - code: 83.080.10
+    text: Thermosetting materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K6941

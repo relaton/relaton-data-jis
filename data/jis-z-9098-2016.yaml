@@ -1,0 +1,91 @@
+---
+id: JISZ90982016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 災害種別避難誘導標識システム
+- language: en
+  script: Latn
+  content: Hazard specific evacuation guidance sign system
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9098%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09098_000_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 9098:2016
+  type: JIS
+  primary: true
+docnumber: Z9098
+date:
+- type: issued
+  at: '2016-03-22'
+- type: confirmed
+  at: '2020-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 洪水災害（洪水及び内水氾濫），土砂災害（土石流及び崖崩れ・地滑り），高潮，大規模な火事などの災害の発生に備え，人々が安全な場所へ避難する際に利用する災害種別避難誘導標識システムについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.080.10
+    text: Public information symbols. Signs. Plates. Labels
+  - code: 01.080.20
+    text: Graphical symbols for use on specific equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9098

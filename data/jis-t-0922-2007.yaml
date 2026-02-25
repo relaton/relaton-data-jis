@@ -1,0 +1,95 @@
+---
+id: JIST09222007
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高齢者・障害者配慮設計指針―触知案内図の情報内容及び形状並びにその表示方法
+- language: en
+  script: Latn
+  content: Guidelines for older persons and persons with disabilities -- Information
+    content, shapes and display methods of tactile guide maps
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+0922%3A2007
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_00922_000_000_2007_j_ed11_ch.pdf
+docidentifier:
+- content: JIS T 0922:2007
+  type: JIS
+  primary: true
+docnumber: T0922
+date:
+- type: issued
+  at: '2007-03-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益財団法人　共用品推進機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益財団法人　共用品推進機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益財団法人　共用品推進機構"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 不特定多数の人が利用する施設・設備及び移動空間を視覚障害者が安全で，かつ，円滑に移動できるように，施設・設備及び移動空間の位置情報を提示する触知案内図の情報内容及び形状並びにその表示方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.180'
+    text: Ergonomics
+  - code: '97.020'
+    text: Home economics in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T0922

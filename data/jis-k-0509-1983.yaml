@@ -1,0 +1,81 @@
+---
+id: JISK05091983
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高純度ウンデカン
+- language: en
+  script: Latn
+  content: High purity undecane
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0509%3A1983
+docidentifier:
+- content: JIS K 0509:1983
+  type: JIS
+  primary: true
+docnumber: K0509
+date:
+- type: issued
+  at: '1983-10-31'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 標準物質協議会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 標準物質協議会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 標準物質協議会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ガスクロマトグラフ分析，質量分析などの機器分析に用いられる含量９９．５％以上の高純度ウンデカンについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.080.10
+    text: Aliphatic hydrocarbons
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0509

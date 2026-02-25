@@ -1,0 +1,90 @@
+---
+id: JISX581032008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 多目的インターネットメール拡張(ＭＩＭＥ)―第３部：非ＡＳＣＩＩテキストへのメッセージヘッダ拡張
+- language: en
+  script: Latn
+  content: 'Multipurpose Internet Mail Extensions (MIME) -- Part 3: Message Header
+    Extensions for non-ASCII text'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5810-3%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05810_003_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 5810-3:2008
+  type: JIS
+  primary: true
+docnumber: X5810
+date:
+- type: issued
+  at: '2008-03-20'
+- type: confirmed
+  at: '2023-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｘ　５８１０の規格群の第３部であり，インターネットメールヘッダフィールドの中で非ＵＳ－ＡＳＣＩＩデータを可能にするためのＲＦＣ　８２２の拡張について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '35.110'
+    text: Networking
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5810

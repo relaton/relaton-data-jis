@@ -1,0 +1,86 @@
+---
+id: TSZ00322012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 国際計量計測用語―基本及び一般概念並びに関連用語（ＶＩＭ）
+- language: en
+  script: Latn
+  content: International vocabulary of metrology -- Basic and general concepts and
+    associated terms (VIM)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+Z+0032%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_ts_z_00032_000_000_2012_j_ed10_ch.pdf
+docidentifier:
+- content: TS Z 0032:2012
+  type: JIS
+  primary: true
+docnumber: Z0032
+date:
+- type: issued
+  at: '2012-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 主として，測定のトレーサビリティを確実にすることが必要な場合に，計量器及び測定器の校正並びに標準物質の値付けにおいて用いられる国際計量計測用語について定義。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: 01.040.17
+    text: Metrology and measurement. Physical phenomena (Vocabularies)
+  - code: '17.020'
+    text: Metrology and measurement in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z0032

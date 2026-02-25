@@ -1,0 +1,84 @@
+---
+id: JISD011652025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ディーゼル機関－燃料噴射装置の用語－第５部：コモンレール燃料噴射システム
+- language: en
+  script: Latn
+  content: 'Diesel engines-Vocabulary of fuel injection equipment-Part 5: Common rail
+    fuel injection system'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+0116-5%3A2025
+docidentifier:
+- content: JIS D 0116-5:2025
+  type: JIS
+  primary: true
+docnumber: D0116
+date:
+- type: issued
+  at: '2025-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　自動車技術会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，ディーゼル（圧縮着火）機関用コモンレール（CR）燃料噴射システム及びその構成部品に関する，用語及び定義について規定する。
+    この規格で定義している用語は，コモンレール燃料噴射システムに固有のものであり，それ以外の燃料噴射システムの一般的な用語は，この規格群のその他の部に規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.43
+    text: Road vehicle engineering (Vocabularies)
+  - code: 43.060.40
+    text: Fuel systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D0116

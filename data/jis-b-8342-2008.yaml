@@ -1,0 +1,96 @@
+---
+id: JISB83422008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 小形往復空気圧縮機
+- language: en
+  script: Latn
+  content: Small-size reciprocating air compressors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8342%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08342_000_000_2008_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08342_000_000_2008_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 8342:2008
+  type: JIS
+  primary: true
+docnumber: B8342
+date:
+- type: issued
+  at: '2008-06-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本産業機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本産業機械工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 定格出力１１ｋＷ以下の電動機又はこれに見合う内燃機関によって駆動される給油式，又は無給油式の最高圧力０．２～１．０ＭＰａの単動空冷１段往復空気圧縮機及び最高圧力０．７～１．４ＭＰａの単動空冷２段往復空気圧縮機で圧縮機本体，空気タンクの上に圧縮機本体を搭載したもの，圧縮機を防音カバーで覆ってあるものなどで，各種空気供給源として使用する圧縮機について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.140'
+    text: Compressors and pneumatic machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8342

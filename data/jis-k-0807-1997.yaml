@@ -1,0 +1,85 @@
+---
+id: JISK08071997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 水質監視用紫外線吸光度自動計測器
+- language: en
+  script: Latn
+  content: Ultraviolet photometer for monitoring of water pollution
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0807%3A1997
+docidentifier:
+- content: JIS K 0807:1997
+  type: JIS
+  primary: true
+docnumber: K0807
+date:
+- type: issued
+  at: '1998-01-31'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気計測器工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電気計測器工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電気計測器工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 工場，事業場などからの排出水及び河川・湖沼などの公共用水域の水の汚濁の程度を，紫外線の吸光度から評価するための水質監視用の自動計測器について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.060.01
+    text: Water quality in general
+  - code: 71.040.50
+    text: Physicochemical methods of analysis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K0807

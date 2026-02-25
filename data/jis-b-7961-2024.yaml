@@ -1,0 +1,86 @@
+---
+id: JISB79612024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 水素ガス中の一酸化炭素自動計測器－交流電流印加方式
+- language: en
+  script: Latn
+  content: Continuous analyzer for carbon monoxide in hydrogen gas-Alternating current
+    applying method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7961%3A2024
+docidentifier:
+- content: JIS B 7961:2024
+  type: JIS
+  primary: true
+docnumber: B7961
+date:
+- type: issued
+  at: '2024-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，主に輸送用及び定置用の固体高分子形燃料電池（PEFC）に供給する水蒸気改質法（SMR）＋圧力変動吸着法（PSA）で精製した水素燃料ガス中の微量の一酸化炭素濃度を長期間かつ小流量で連続測定するための，交流電流印加方式の自動計測器について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.40
+    text: Chemical analysis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7961

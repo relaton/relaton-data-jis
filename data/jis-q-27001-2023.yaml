@@ -1,0 +1,90 @@
+---
+id: JISQ270012023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報セキュリティ，サイバーセキュリティ及びプライバシー保護―情報セキュリティマネジメントシステム―要求事項
+- language: en
+  script: Latn
+  content: Information security, cybersecurity and privacy protection -- Information
+    security management systems -- Requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+27001%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_27001_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 27001:2023
+  type: JIS
+  primary: true
+docnumber: Q27001
+date:
+- type: issued
+  at: '2023-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 組織の状況の下で，ＩＳＭＳを確立し，実施し，維持し，継続的に改善するための要求事項について規定。また，組織のニーズに応じて調整した情報セキュリティのリスクアセスメント及びリスク対応を行うための要求事項についても規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.100.70
+    text: Management systems
+  - code: '35.030'
+    text: IT Security
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q27001

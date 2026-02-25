@@ -1,0 +1,78 @@
+---
+id: JISB3700461997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 産業オートメーションシステム及びその統合―製品データの表現及び交換―第４６部：統合総称リソース：可視表示
+- language: en
+  script: Latn
+  content: 'Industrial automation systems and integration -- Product data representation
+    and exchange -- Part 46: Integrated generic resources: Visual presentation'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3700-46%3A1997
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03700_046_000_1997_j_pr10_i4.pdf
+docidentifier:
+- content: JIS B 3700-46:1997
+  type: JIS
+  primary: true
+docnumber: B3700
+date:
+- type: issued
+  at: '1997-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本情報経済社会推進協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本情報経済社会推進協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本情報経済社会推進協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 表示可能な製品情報の可視化のための総称リソースを規定。提供される表示データは，受取側システムが人間の理解に適した製品情報の一つ以上の絵を構成できるようにするために，製品データと組み合わせされ，ともにシステム間で交換される。絵の中での製品情報の望まれる視覚的体裁を記述するための必要な総称リソースを規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B3700

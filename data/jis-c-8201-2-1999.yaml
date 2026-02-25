@@ -1,0 +1,75 @@
+---
+id: JISC820121999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低圧開閉装置及び制御装置　―　第２部：回路遮断器（配線用遮断器，漏電遮断器，低圧遮断器，その他の遮断器）
+- language: en
+  script: Latn
+  content: 'Low-voltage switchgear and controlgear -- Part 2: Circuit breaker'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8201-2%3A1999
+docidentifier:
+- content: JIS C 8201-2:1999
+  type: JIS
+  primary: true
+docnumber: C8201
+date:
+- type: issued
+  at: '1999-09-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 主接点が接続する回路の定格電圧が，交流１０００Ｖ以下又は直流１５００Ｖ以下の定格電圧である回路遮断器について規定。ヒューズ組込み回路遮断器に対する追加要求事項を含む。回路遮断器の適用，構造の形態及び定格電流にかかわらず適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.130.20
+    text: Low voltage switchgear and controlgear
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8201

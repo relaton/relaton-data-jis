@@ -1,0 +1,85 @@
+---
+id: JISK225812025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 原油及び石油製品－蒸気圧の求め方－第１部：リード法
+- language: en
+  script: Latn
+  content: 'Crude petroleum and petroleum products-Determination of vapour pressure-Part
+    1: Reid method'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2258-1%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02258_001_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 2258-1:2025
+  type: JIS
+  primary: true
+docnumber: K2258
+date:
+- type: issued
+  at: '2025-12-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 石油連盟
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，揮発性で，かつ，非粘ちょう性の原油及び石油製品の37.8 ℃における180 kPa以下の蒸気圧をリード法によって求める方法について規定する。ただし，酸素化合物を含む石油製品については，炭素数が5以上のエーテル類は体積分率15
+    %以下のもの，エタノールは体積分率10 %以下のもの，炭素数が3以上のアルコール類は体積分率7 %以下のものだけに適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '75.040'
+    text: Crude petroleum
+  - code: '75.080'
+    text: Petroleum products in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K2258

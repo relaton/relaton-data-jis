@@ -1,0 +1,79 @@
+---
+id: JISC8269212000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 低電圧ヒューズ―第２－１部：専門家用ヒューズの追加要求事項（主として工業用のヒューズ）―第Ｉ章～第Ｖ章：専門家用標準ヒューズの例
+- language: en
+  script: Latn
+  content: 'Low-voltage fuses -- Part 2-1: Supplementary requirements for fuses for
+    use by authorized persons (fuses mainly for industrial application) -- Section
+    I to V: Examples of types of standardized fuses for use by authorized persions'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8269-2-1%3A2000
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08269_002_001_2000_j_pr10_i4.pdf
+docidentifier:
+- content: JIS C 8269-2-1:2000
+  type: JIS
+  primary: true
+docnumber: C8269
+date:
+- type: issued
+  at: '2000-10-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 専門家によって使用されるヒューズは，ＪＩＳ　Ｃ　８２６９－１，ＪＩＳ　Ｃ　８２６９－２のすべての条項にも適合しなければならない。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.50
+    text: Fuses and other overcurrent protection devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8269

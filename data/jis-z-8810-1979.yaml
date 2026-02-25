@@ -1,0 +1,73 @@
+---
+id: JISZ88101979
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 静電式ダストサンプラ及び静電式ダストサンプラによる空気中浮遊粉じん量の測定方法
+- language: en
+  script: Latn
+  content: Electrostatic dust sampler and measuring method for mass of airborne dust
+    by the electrostatic dust sampler
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8810%3A1979
+docidentifier:
+- content: JIS Z 8810:1979
+  type: JIS
+  primary: true
+docnumber: Z8810
+date:
+- type: issued
+  at: '1983-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本保安用品協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉱山，工場，その他の事業場において，空気中に浮遊する粉じん量を測定する静電式ダストサンプラ及びダストサンプラを用いて粉じんの質量を測定する方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8810

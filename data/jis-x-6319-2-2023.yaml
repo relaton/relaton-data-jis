@@ -1,0 +1,91 @@
+---
+id: JISX631922023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ICカード実装仕様―第２部：非接触（外部端子なし）近接型ICカード
+- language: en
+  script: Latn
+  content: 'Specification of implementation for integrated circuit cards -- Part 2:
+    Proximity cards'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6319-2%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06319_002_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 6319-2:2023
+  type: JIS
+  primary: true
+docnumber: X6319
+date:
+- type: issued
+  at: '2023-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ＩＤ認証技術推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　ＩＤ認証技術推進協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　ＩＤ認証技術推進協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 近接型ＩＣカード又は同様な動作をする対象物の物理的特性（ＩＳＯ／ＩＥＣ　１４４４３－１），ＰＩＣＣとその結合装置との間の非接触通信に関わる機能（ＩＳＯ／ＩＥＣ　１４４４３－２～ＩＳＯ／ＩＥＣ　１４４４３－４）及び識別カードの試験方法（ＩＳＯ／ＩＥＣ　１０３７３ー６）に加えて，これらを補足する事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.15
+    text: Identification cards. Chip cards. Biometrics
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X6319

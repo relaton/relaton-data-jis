@@ -1,0 +1,97 @@
+---
+id: JISC61326312020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 計測用，制御用及び試験室用の電気装置―電磁両立性要求事項―第３－１部：安全関連システム及び安全関連機能（機能安全）の遂行を意図した装置に対するイミュニティ要求事項―一般工業用途
+- language: en
+  script: Latn
+  content: 'Electrical equipment for measurement, control and laboratory use -- EMC
+    requirements -- Part 3-1: Immunity requirements for safety-related systems and
+    for equipment intended to perform safety-related functions (functional safety)
+    -- General industrial applications'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61326-3-1%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61326_003_001_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61326-3-1:2020
+  type: JIS
+  primary: true
+docnumber: C61326
+date:
+- type: issued
+  at: '2020-01-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電気計測器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電気計測器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｃ　６１３２６－１の適用範囲（箇条１）にあり，かつ，ＪＩＳ　Ｃ　０５０８規格群で安全度水準（ＳＩＬ）１～３として規定している安全機能の遂行を意図した工業用システム及び装置の電磁両立性（ＥＭＣ）に関するイミュニティの要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  - code: 33.100.20
+    text: Immunity
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61326

@@ -1,0 +1,96 @@
+---
+id: JISZ16012017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鋼製タイトヘッドドラム
+- language: en
+  script: Latn
+  content: Tight head steel drums
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1601%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_01601_000_000_2017_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_01601_000_000_2017_e_ed10_i4.pdf
+docidentifier:
+- content: JIS Z 1601:2017
+  type: JIS
+  primary: true
+docnumber: Z1601
+date:
+- type: issued
+  at: '2017-01-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           ドラム缶工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           ドラム缶工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           ドラム缶工業会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 鋼板から製造され，全容量が２１２Ｌ，２１６．５Ｌ及び２３０Ｌの鋼製タイトヘッドドラムについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '55.140'
+    text: Barrels. Drums. Canisters
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z1601

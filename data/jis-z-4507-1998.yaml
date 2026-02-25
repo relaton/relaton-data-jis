@@ -1,0 +1,84 @@
+---
+id: JISZ45071998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 放射性物質で汚染された表面の除染―除染の容易性の試験及び評価の方法
+- language: en
+  script: Latn
+  content: Decontamination of radioactively contaminated surfaces -- Method for testing
+    and assessing the ease of decontamination
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4507%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04507_000_000_1998_j_pr10_i4.pdf
+docidentifier:
+- content: JIS Z 4507:1998
+  type: JIS
+  primary: true
+docnumber: Z4507
+date:
+- type: issued
+  at: '1998-07-31'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本原子力学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本原子力学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本原子力学会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 材料の表面が放射性物質によって汚染されるおそれのある表面の除染のしやすさの試験及び評価の方法に適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.280'
+    text: Radiation protection
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z4507

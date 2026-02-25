@@ -1,0 +1,94 @@
+---
+id: JISC36603022019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気・光ファイバケーブル―非金属材料の試験方法―第３０２部：電気試験―充填コンパウンドの２３℃及び１００℃における直流抵抗率の測定
+- language: en
+  script: Latn
+  content: 'Electric and optical fibre cables -- Test methods for non-metallic materials
+    -- Part 302: Electrical tests -- Measurement of the d.c.resistivity at 23 degree
+    C and 100 degree C of filling compounds'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+3660-302%3A2019
+docidentifier:
+- content: JIS C 3660-302:2019
+  type: JIS
+  primary: true
+docnumber: C3660
+date:
+- type: issued
+  at: '2019-11-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電線工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電線工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電線工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 通信ケーブル及び光ファイバーケーブルに用いる，充填コンパウンドに適用する２３℃及び１００℃における直流抵抗率の測定手順について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.035.01
+    text: Insulating materials in general
+  - code: 29.060.20
+    text: Cables
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C3660

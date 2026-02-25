@@ -1,0 +1,75 @@
+---
+id: JISH21101968
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気用アルミニウム地金
+- language: en
+  script: Latn
+  content: Virgin aluminium ingots for electrical purposes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+2110%3A1968
+docidentifier:
+- content: JIS H 2110:1968
+  type: JIS
+  primary: true
+docnumber: H2110
+date:
+- type: issued
+  at: '1968-02-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本アルミニウム協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本アルミニウム協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本アルミニウム協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気用アルミニウム地金について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.120.10
+    text: Aluminium and aluminium alloys
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H2110

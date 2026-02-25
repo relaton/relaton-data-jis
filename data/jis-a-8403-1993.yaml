@@ -1,0 +1,77 @@
+---
+id: JISA84031993
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ショベル系掘削機用語
+- language: en
+  script: Latn
+  content: Glossary of terms for shovel type excavators
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+8403%3A1993
+docidentifier:
+- content: JIS A 8403:1993
+  type: JIS
+  primary: true
+docnumber: A8403
+date:
+- type: issued
+  at: '1993-02-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本建設機械化協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 社団法人　日本建設機械化協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 社団法人　日本建設機械化協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ショベル系掘削機に関して用いられる用語及び定義について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.53
+    text: Materials handling equipment (Vocabularies)
+  - code: '53.100'
+    text: Earth-moving machinery
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A8403

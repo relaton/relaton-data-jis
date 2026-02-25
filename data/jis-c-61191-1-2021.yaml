@@ -1,0 +1,94 @@
+---
+id: JISC6119112021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プリント配線板実装―第１部：通則―表面実装及び関連する実装技術を用いた電気機器・電子機器用はんだ付け実装要求事項
+- language: en
+  script: Latn
+  content: 'Printed board assemblies -- Part 1: Generic specification -- Requirements
+    for soldered electrical and electronic assemblies using surface mount and related
+    assembly technologies'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61191-1%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61191_001_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61191-1:2021
+  type: JIS
+  primary: true
+docnumber: C61191
+date:
+- type: issued
+  at: '2021-02-22'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 表面実装及び関連する実装技術を用いる高品質のはんだ付け接合，並びに実装品を生産するための材料，方法及び検証基準に対する要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '31.240'
+    text: Mechanical structures for electronic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61191

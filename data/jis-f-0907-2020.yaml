@@ -1,0 +1,85 @@
+---
+id: JISF09072020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 機械振動―船上における振動の計測―客船及び商船の居住性に関する振動計測，評価及び記録基準
+- language: en
+  script: Latn
+  content: Mechanical vibration -- Measurement of vibration on ships -- Guidelines
+    for measurement, evaluation and reporting of vibration with regard to habitability
+    on passenger and merchant ships
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0907%3A2020
+docidentifier:
+- content: JIS F 0907:2020
+  type: JIS
+  primary: true
+docnumber: F0907
+date:
+- type: issued
+  at: '2020-03-23'
+- type: confirmed
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 客船及び商船に乗る全ての人，特に乗組員の居住性に関する振動計測，評価及び記録基準について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.160'
+    text: Vibrations, shock and vibration measurements
+  - code: 47.020.80
+    text: Accommodation spaces
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F0907

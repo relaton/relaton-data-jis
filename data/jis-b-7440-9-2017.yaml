@@ -1,0 +1,91 @@
+---
+id: JISB744092017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 製品の幾何特性仕様（ＧＰＳ）―座標測定システム（ＣＭＳ）の受入検査及び定期検査―第９部：マルチセンサシステム付き座標測定機
+- language: en
+  script: Latn
+  content: 'Geometrical product specifications (GPS) -- Acceptance and reverification
+    tests for coordinate measuring systems (CMS) -- Part 9: CMMs with multiple probing
+    systems'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+7440-9%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_07440_009_000_2017_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 7440-9:2017
+  type: JIS
+  primary: true
+docnumber: B7440
+date:
+- type: issued
+  at: '2017-02-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 接触モード及び非接触モードでマルチセンサシステムを使用する座標測定機の性能が，製造業者の仕様に適合するかどうかを検証するための受入検査について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 17.040.30
+    text: Measuring instruments
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B7440

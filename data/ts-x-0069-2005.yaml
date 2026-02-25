@@ -1,0 +1,84 @@
+---
+id: TSX00692005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 多目的インターネットメール拡張（ＭＩＭＥ）―第１部：インターネットメッセージ本体のフォーマット
+- language: en
+  script: Latn
+  content: 'Multipurpose Internet Mail Extensions (MIME) -- Part 1: Format of Internet
+    Message Bodies'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TS+X+0069%3A2005
+docidentifier:
+- content: TS X 0069:2005
+  type: JIS
+  primary: true
+docnumber: X0069
+date:
+- type: issued
+  at: '2005-09-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 多目的インターネットメール拡張又はＭＩＭＥと総称され，ＵＳ－ＡＳＣＩ以外の文字集合でのテキストのメッセージ本体；非テキストのメッセージ本体のための異なるフォーマットの拡張集合；マルチパートのメッセージ本体；ＵＳ－ＡＳＣＩＩ以外の文字集合でのテキストのヘッダ情報を可能とするために，メッセージのフォーマットを再定義する。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-specification
+  flavor: jis
+  ics:
+  - code: '35.110'
+    text: Networking
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0069

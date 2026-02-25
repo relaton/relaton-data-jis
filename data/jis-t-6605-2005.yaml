@@ -1,0 +1,86 @@
+---
+id: JIST66052005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 歯科用硬質石こう（膏）
+- language: en
+  script: Latn
+  content: Dental stone
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+6605%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_06605_000_000_2005_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 6605:2005
+  type: JIS
+  primary: true
+docnumber: T6605
+date:
+- type: issued
+  at: '2005-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本歯科材料工業協同組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本歯科材料工業協同組合"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本歯科材料工業協同組合"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 微粉砕された硫酸カルシウムの半水和物を主成分とし，必要に応じ調整材及び着色材を含み，陰型，模型又は歯型の作製及び義歯埋没用に用いる歯科用硬質石こう（膏）について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.060.10
+    text: Dental materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T6605

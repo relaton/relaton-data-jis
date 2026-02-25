@@ -1,0 +1,90 @@
+---
+id: JISZ840422008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 測定の不確かさ―第２部：測定の不確かさの評価における繰返し測定及び枝分かれ実験の利用の指針
+- language: en
+  script: Latn
+  content: 'Measurement uncertainty -- Part 2: Measurement uncertainty for metrological
+    applications -- Repeated measurements and nested experiments'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8404-2%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08404_002_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8404-2:2008
+  type: JIS
+  primary: true
+docnumber: Z8404
+date:
+- type: issued
+  at: '2008-01-20'
+- type: confirmed
+  at: '2022-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 不確かさの成分が，繰返し測定，測定機器，試験項目又は検査用標準の統計解析から見積もることができるような実験的状況について規定。１段，２段又は３段の枝分かれ実験から不確かさを見積もる場合だけを規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.020'
+    text: Metrology and measurement in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8404

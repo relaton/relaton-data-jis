@@ -1,0 +1,93 @@
+---
+id: JISC2560312006
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: フェライト磁心―第３－１部：寸法及び外観―Ｅ形フェライト磁心
+- language: en
+  script: Latn
+  content: 'Cores made of ferrite -- Part 3-1: Dimensions and surface irregularities
+    -- E cores'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2560-3-1%3A2006
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02560_003_001_2006_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 2560-3-1:2006
+  type: JIS
+  primary: true
+docnumber: C2560
+date:
+- type: issued
+  at: '2006-11-20'
+- type: confirmed
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 主に変成器，変圧器及びチョークコイルに使用するＥ形フェライト磁心の寸法，それらの寸法を用いて算出する実効パラメータ，磁心とともに用いるボビンの寸法及び外観の許容限界について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.100.10
+    text: Magnetic components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2560

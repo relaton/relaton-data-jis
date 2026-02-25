@@ -1,0 +1,86 @@
+---
+id: JISK641022015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築免震用積層ゴム支承―第２部：試験方法
+- language: en
+  script: Latn
+  content: 'Elastomeric seismic-protection isolators for buildings -- Part 2: Test
+    methods'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6410-2%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06410_002_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 6410-2:2015
+  type: JIS
+  primary: true
+docnumber: K6410
+date:
+- type: issued
+  at: '2015-10-20'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ゴム工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ゴム工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ゴム工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 建築物を地震から保護するための免震構造に用いる積層ゴム支承の試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 83.140.99
+    text: Other rubber and plastics products
+  - code: 91.120.25
+    text: Seismic and vibration protection
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K6410

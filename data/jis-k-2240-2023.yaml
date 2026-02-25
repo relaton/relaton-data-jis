@@ -1,0 +1,96 @@
+---
+id: JISK22402023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 液化石油ガス（ＬＰガス）
+- language: en
+  script: Latn
+  content: Liquefied petroleum gases
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2240%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02240_000_000_2023_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02240_000_000_2023_e_ed10_ch.pdf
+docidentifier:
+- content: JIS K 2240:2023
+  type: JIS
+  primary: true
+docnumber: K2240
+date:
+- type: issued
+  at: '2023-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本ＬＰガス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本ＬＰガス協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本ＬＰガス協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 家庭用，業務用，工業用，自動車用などの燃料及び工業用原料に用いる液化石油ガスについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '75.080'
+    text: Petroleum products in general
+  - code: 75.160.30
+    text: Gaseous fuels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K2240

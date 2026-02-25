@@ -1,0 +1,91 @@
+---
+id: JISZ32712023
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ろう付―ろう付用フラックス―種類及び受渡条件
+- language: en
+  script: Latn
+  content: Brazing -- Fluxes for brazing -- Classification and technical delivery
+    conditions
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+3271%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_03271_000_000_2023_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 3271:2023
+  type: JIS
+  primary: true
+docnumber: Z3271
+date:
+- type: issued
+  at: '2023-05-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本溶接協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本溶接協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ろう付用フラックスを，その特性及び用途に基づいて分類するとともに，受渡条件及び安全衛生上の注意事項を規定。重金属（鋼，銅及びその合金，ニッケル及びその合金，貴金属，モリブデン，タングステンなど）及び軽金属（アルミニウム，アルミニウム合金）のろう付に使用されるフラックスに適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.160.50
+    text: Brazing and soldering
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z3271

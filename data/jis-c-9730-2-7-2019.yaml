@@ -1,0 +1,90 @@
+---
+id: JISC9730272019
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動電気制御装置―第２－７部：タイマ及びタイムスイッチの個別要求事項
+- language: en
+  script: Latn
+  content: 'Automatic electrical controls -- Part 2-7: Particular requirements for
+    timers and time switches'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9730-2-7%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_09730_002_007_2019_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 9730-2-7:2019
+  type: JIS
+  primary: true
+docnumber: C9730
+date:
+- type: issued
+  at: '2019-02-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 家庭用及び類似の用途の電気的及び非電気的な器具その他の装置の中で使用するタイマの固有の安全性について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '97.120'
+    text: Automatic controls for household use
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9730

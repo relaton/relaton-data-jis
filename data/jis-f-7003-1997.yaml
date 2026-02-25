@@ -1,0 +1,83 @@
+---
+id: JISF70031997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船舶―圧力計の装備基準
+- language: en
+  script: Latn
+  content: Shipbuilding -- Application of pressure gauges on board
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+7003%3A1997
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_f_07003_000_000_1997_j_pr10_i4.pdf
+docidentifier:
+- content: JIS F 7003:1997
+  type: JIS
+  primary: true
+docnumber: F7003
+date:
+- type: issued
+  at: '1997-04-30'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本船舶技術研究協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本船舶技術研究協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　７５０５に規定するブルドン管圧力計を船の機関関係に使用する場合の種類，大きさ，最高目盛，用途，外部の形状及び装備について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 47.020.30
+    text: Piping systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F7003

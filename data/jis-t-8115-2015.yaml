@@ -1,0 +1,92 @@
+---
+id: JIST81152015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 化学防護服
+- language: en
+  script: Latn
+  content: Protective clothing for protection against chemicals
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8115%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08115_000_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 8115:2015
+  type: JIS
+  primary: true
+docnumber: T8115
+date:
+- type: issued
+  at: '2015-11-01'
+- type: confirmed
+  at: '2025-10-27'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本保安用品協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 酸，アルカリ，有機薬品，その他の気体及び液体並びに粒子状の化学物質を取り扱う作業に従事するときに着用し，化学物質の透過及び／又は浸透の防止を目的として使用する防護服について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.340.10
+    text: Protective clothing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T8115

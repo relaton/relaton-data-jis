@@ -1,0 +1,95 @@
+---
+id: JISM88212002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 石炭類―全水銀の定量方法
+- language: en
+  script: Latn
+  content: Coal -- Determination of total mercury content
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8821%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08821_000_000_2002_j_pr10_i4.pdf
+docidentifier:
+- content: JIS M 8821:2002
+  type: JIS
+  primary: true
+docnumber: M8821
+date:
+- type: issued
+  at: '2002-02-28'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　石炭エネルギーセンター
+        \                                               \r\n                                                                                            一般財団法人　石炭フロンティア機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　石炭エネルギーセンター
+        \                                               \r\n                                                                                            一般財団法人　石炭フロンティア機構"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　石炭エネルギーセンター
+          \                                               \r\n                                                                                            一般財団法人　石炭フロンティア機構"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 石炭中の全水銀の定量方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '73.040'
+    text: Coals
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: M8821

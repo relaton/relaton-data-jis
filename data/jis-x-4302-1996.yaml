@@ -1,0 +1,90 @@
+---
+id: JISX43021996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 連続階調静止画像のディジタル圧縮及び符号処理―第２部　適合性試験
+- language: en
+  script: Latn
+  content: 'Information technology -- Digital compression and coding of continuous-tone
+    still images -- Part 2: Compliance testing'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+4302%3A1996
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_04302_000_000_1996_j_pr10_i4.pdf
+docidentifier:
+- content: JIS X 4302:1996
+  type: JIS
+  primary: true
+docnumber: X4302
+date:
+- type: issued
+  at: '1996-05-31'
+- type: confirmed
+  at: '2025-06-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｘ　４３０１に規定された連続階調静止画像の符号化処理，復合処理及び圧縮データ様式の適合性試験について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.160.01
+    text: Audio, video and audiovisual systems in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X4302

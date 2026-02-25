@@ -1,0 +1,80 @@
+---
+id: TRS00052010
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ロービジョンの基本色領域データ集
+- language: en
+  script: Latn
+  content: Data on span of similar colors of low vision
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+S+0005%3A2010
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_tr_s_00005_000_000_2010_j_ed10_ch.pdf
+docidentifier:
+- content: TR S 0005:2010
+  type: JIS
+  primary: true
+docnumber: S0005
+date:
+- type: issued
+  at: '2010-04-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+          \                                                                                           国立研究開発法人　産業技術総合研究所"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 矯正が難しい視力の低下，視野欠損，更に網膜疾患など，生理的に制限された視覚機能をもつロービジョンと呼ばれる人々に対し，一般の視覚表示物に用いる表面色についてＪＩＳ　Ｚ　８１０２に規定する無彩色を含む基本色の領域データを，明所視及び薄明視において，ＪＩＳ　Ｚ　８７２１に規定する三属性による色の表示方法に従って示したもの。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 17.180.99
+    text: Other standards related to optics and optical measurements
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S0005

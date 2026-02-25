@@ -1,0 +1,88 @@
+---
+id: JISC89802020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 小出力太陽光発電用パワーコンディショナ
+- language: en
+  script: Latn
+  content: Power conditioner for small photovoltaic power generating system
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8980%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08980_000_000_2020_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08980_000_000_2020_e_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8980:2020
+  type: JIS
+  primary: true
+docnumber: C8980
+date:
+- type: issued
+  at: '2020-03-23'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 次のa) 定格出力が１０　Ｗ以上で１００Ｗ未満の場合［1） 直流入出力電圧が３０　Ｖ以上７５０　Ｖ以下；２）交流出力電圧が３０　Ｖ以上６００　Ｖ以下］及びｂ）定格出力が１００　Ｗ以上で５０　ｋＷ未満の場合［１）
+    直流入出力電圧が７５０　Ｖ以下；２） 交流出力電圧が６００　Ｖ以下］に該当する太陽光発電システム用のパワーコンディショナのうち，交流定電圧出力で，かつ，出力周波数が一定の独立形ＰＣＳ，直流定電圧出力の独立形ＰＣＳ及び系統連系形ＰＣＳの性能評価並びにこれらの試験方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8980

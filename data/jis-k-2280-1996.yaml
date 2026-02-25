@@ -1,0 +1,78 @@
+---
+id: JISK22801996
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 石油製品―燃料油―オクタン価及びセタン価試験方法並びにセタン指数算出方法
+- language: en
+  script: Latn
+  content: Petroleum products -- Fuels -- Determination of octane number, cetane number
+    and calculation of cetane index
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2280%3A1996
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02280_000_000_1996_j_pr10_i4.pdf
+docidentifier:
+- content: JIS K 2280:1996
+  type: JIS
+  primary: true
+docnumber: K2280
+date:
+- type: issued
+  at: '1996-01-01'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油連盟
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 石油連盟
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 石油連盟
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 火花点火式エンジン用燃料のオクタン価及び圧縮着火式エンジン用燃料のセタン価を測定する方法並びにセンタ指数算出方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 75.160.20
+    text: Liquid fuels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K2280

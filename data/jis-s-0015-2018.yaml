@@ -1,0 +1,87 @@
+---
+id: JISS00152018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: アクセシブルデザイン―消費生活用製品の音声案内
+- language: en
+  script: Latn
+  content: Accessible design -- Spoken instructions for consumer products
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+0015%3A2018
+docidentifier:
+- content: JIS S 0015:2018
+  type: JIS
+  primary: true
+docnumber: S0015
+date:
+- type: issued
+  at: '2018-02-20'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国立研究開発法人　産業技術総合研究所
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 国立研究開発法人　産業技術総合研究所
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 国立研究開発法人　産業技術総合研究所
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 視覚又は聴覚の障害の有無にかかわらず，使用者が消費生活用製品を使用する際に，その操作又は状態を知らせる手段として用いられる音声案内について規定。火災警報装置における避難誘導音声など，法令などで規制されている音声案内又は音声放送，及び設備用，業務用，専門家用など，特定用途に限定される機器の音声案内又は音声放送には適用しない。音声案内機能と併せて使用される報知音も規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '11.180'
+    text: Aids for disabled or handicapped persons
+  - code: '13.120'
+    text: Domestic safety
+  - code: '97.020'
+    text: Home economics in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S0015

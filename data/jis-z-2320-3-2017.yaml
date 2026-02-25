@@ -1,0 +1,96 @@
+---
+id: JISZ232032017
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 非破壊試験―磁粉探傷試験―第３部：装置
+- language: en
+  script: Latn
+  content: 'Non-destructive testing -- Magnetic particle testing -- Part 3: Equipment'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2320-3%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02320_003_000_2017_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02320_003_000_2017_e_ed10_i4.pdf
+docidentifier:
+- content: JIS Z 2320-3:2017
+  type: JIS
+  primary: true
+docnumber: Z2320
+date:
+- type: issued
+  at: '2017-03-21'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本非破壊検査協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本非破壊検査協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本非破壊検査協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 磁粉探傷試験のための３様式［ａ）可搬形電磁石；ｂ）定置形磁化台；ｃ）専用試験システム：基本的には部品を連続的に検査する特殊な検査システムで，一連の製造ラインの中で連続的に行う検査工程台］の装置について規定。磁化装置，脱磁装置，照明装置，測定装置及び観察装置についても規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.100'
+    text: Non-destructive testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z2320

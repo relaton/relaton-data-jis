@@ -1,0 +1,93 @@
+---
+id: JISH73502025
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 超電導－超電導電子素子－センサー及び検出器の一般仕様
+- language: en
+  script: Latn
+  content: Superconductivity-Superconducting electronic devices-Generic specification
+    for sensors and detectors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+7350%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_07350_000_000_2025_j_ed10_ch.pdf
+docidentifier:
+- content: JIS H 7350:2025
+  type: JIS
+  primary: true
+docnumber: H7350
+date:
+- type: issued
+  at: '2025-09-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電線工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電線工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電線工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，種々のタイプの超電導センサー及び超電導検出器の仕様に関する一般事項について規定する。センサー及び検出器は，基本的に超電導材料をベースに作られており，超電導現象又は関連する現象に依存している。測定対象（測定量）には，磁界，電磁波，種々のエネルギーの光子，電子，イオン，α粒子などが含まれる。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.220'
+    text: Electricity. Magnetism. Electrical and magnetic measurements
+  - code: '29.050'
+    text: Superconductivity and conducting materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H7350

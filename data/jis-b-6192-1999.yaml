@@ -1,0 +1,85 @@
+---
+id: JISB61921999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工作機械　―　数値制御による位置決め精度試験方法通則
+- language: en
+  script: Latn
+  content: Test code for machine tools -- Determination of accuracy and repeatability
+    of positioning numerically controlled axes
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6192%3A1999
+docidentifier:
+- content: JIS B 6192:1999
+  type: JIS
+  primary: true
+docnumber: B6192
+date:
+- type: issued
+  at: '1999-08-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機械工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本工作機械工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 数値制御工作機械運動軸の位置決め精度の試験方法及び評価方法について規定。測定は，機上で各運動軸について行う。規定している方法は，直進運動軸及び回転運動軸に適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.20
+    text: Numerically controlled machines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6192

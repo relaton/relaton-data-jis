@@ -1,0 +1,91 @@
+---
+id: JISD57162024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 自動車用緊急脱出支援用具
+- language: en
+  script: Latn
+  content: Emergency escape tools for automobile
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+5716%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_05716_000_000_2024_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_05716_000_000_2024_e_ed10_ch.pdf
+docidentifier:
+- content: JIS D 5716:2024
+  type: JIS
+  primary: true
+docnumber: D5716
+date:
+- type: issued
+  at: '2024-03-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 主に競技用途を除く自動車での交通事故又は水没事故で車内に閉じ込められた場合に，車内から緊急脱出するために用いる，シートベルト切断機能及びガラス破砕機能をもつ自動車用緊急脱出支援用具について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.040.20
+    text: Lighting, signalling and warning devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D5716

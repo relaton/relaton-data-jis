@@ -1,0 +1,76 @@
+---
+id: JISB835692000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 油圧用フィルタ性能評価方法―第９部：フィルタの要求性能一覧
+- language: en
+  script: Latn
+  content: 'Hydraulic fluid power -- Filters -- Evaluation of filter performance --
+    Part 9: Filters -- Statement of requirements'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8356-9%3A2000
+docidentifier:
+- content: JIS B 8356-9:2000
+  type: JIS
+  primary: true
+docnumber: B8356
+date:
+- type: issued
+  at: '2000-04-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本フルードパワー工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 油圧用フィルタの要求性能を定義。要求性能一覧は，ユーザが製造業者に要求性能を提示する書類として定義。製造業者が，的確に要求性能に応えられるように，ユーザが要求性能を明確に標準書式で提示できるように要求性能一覧の事例を記す。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.60
+    text: Filters, seals and contamination of fluids
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8356

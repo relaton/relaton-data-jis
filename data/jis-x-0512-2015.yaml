@@ -1,0 +1,96 @@
+---
+id: JISX05122015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術―自動認識及びデータ取得技術―バーコードシンボル体系仕様―データマトリックス
+- language: en
+  script: Latn
+  content: Information technology -- Automatic identification and data capture techniques
+    -- Data Matrix bar code symbology specification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0512%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00512_000_000_2015_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 0512:2015
+  type: JIS
+  primary: true
+docnumber: X0512
+date:
+- type: issued
+  at: '2015-03-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動認識システム協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動認識システム協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本自動認識システム協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: データマトリックスとして知られているシンボル体系の要件を規定。データマトリックスシンボル体系の特徴，データキャラクタの符号化，シンボルフォーマット，寸法，印刷品質要件，誤り訂正規則及び復号アルゴリズム並びに利用者が選択可能なアプリケーションパラメタを規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.080.50
+    text: Graphical symbols for use on information technology and telecommunications
+      technical drawings and in relevant technical product documentation
+  - code: '35.040'
+    text: Information coding
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X0512

@@ -1,0 +1,79 @@
+---
+id: JISC89111998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 二次基準結晶系太陽電池セル
+- language: en
+  script: Latn
+  content: Secondary reference crystalline solar cells
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8911%3A1998
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08911_000_000_1998_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08911_000_000_1998_e_pr10_i4.pdf
+docidentifier:
+- content: JIS C 8911:1998
+  type: JIS
+  primary: true
+docnumber: C8911
+date:
+- type: issued
+  at: '1998-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　光産業技術振興協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　光産業技術振興協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 平面・非集光形の電力発電を目的とする地上用結晶系太陽電池セル，及び地上用結晶系太陽電池モジュールの出力測定に用いる二次基準結晶系太陽電池セルについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.160'
+    text: Solar energy engineering
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8911

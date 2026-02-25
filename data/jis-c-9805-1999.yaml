@@ -1,0 +1,75 @@
+---
+id: JISC98051999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 家庭用電気トースタの性能測定方法
+- language: en
+  script: Latn
+  content: Electric toasters for household use -- Methods for measuring performance
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+9805%3A1999
+docidentifier:
+- content: JIS C 9805:1999
+  type: JIS
+  primary: true
+docnumber: C9805
+date:
+- type: issued
+  at: '1999-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 家庭用及びこれに類似の電気トースタに適用。ユーザの参考のために，家庭用及び類似の電気トースタの主要性能特性及びこれら特性の測定方法を明示。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 97.040.50
+    text: Small kitchen appliances
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C9805

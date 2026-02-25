@@ -1,0 +1,93 @@
+---
+id: JISX223872024
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: セキュリティ及びレジリエンス－製品及び文書の真正性，完全性及び信頼性－人工物メトリクスを利用する際の妥当性確認手順
+- language: en
+  script: Latn
+  content: Security and resilience-Authenticity, integrity and trust for products
+    and documents-Validation procedures for the application of artefact metrics
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+22387%3A2024
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_22387_000_000_2024_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 22387:2024
+  type: JIS
+  primary: true
+docnumber: X22387
+date:
+- type: issued
+  at: '2024-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           国立研究開発法人　産業技術総合研究所"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，人工物メトリクスの適切性，信頼性及び有効性を認定するための手順，並びに識別及び照合のための人工物メトリック認識の原則を規定するものである。
+    この規格で説明する人工物メトリック認識は，人工物の特性の一つ以上の測定値を使用して，人工物を識別又は照合するために使用することが可能であり，各測定値は個々の人工物に固有で，再現は不可能とされている。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.100.01
+    text: Company organization and management in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X22387

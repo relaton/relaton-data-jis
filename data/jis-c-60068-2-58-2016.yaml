@@ -1,0 +1,96 @@
+---
+id: JISC600682582016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―第２－５８部：表面実装部品（ＳＭＤ）のはんだ付け性，電極の耐はんだ食われ性及びはんだ耐熱性試験方法
+- language: en
+  script: Latn
+  content: 'Environmental testing -- Part 2-58: Tests -- Test Td: Test methods for
+    solderability, resistance to dissolution of metallization and to soldering heat
+    of surface mounting devices (SMD)'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-58%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_60068_002_058_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 60068-2-58:2016
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  at: '2016-12-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 共晶又は共晶に近い“すず－鉛”はんだ合金及び鉛フリーはんだ合金を用いてはんだ付けするＳＭＤのはんだ付け性，電極部の耐はんだ食われ性及びはんだ耐熱性の判定を行うための標準手順について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  - code: 25.160.50
+    text: Brazing and soldering
+  - code: '31.190'
+    text: Electronic component assemblies
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60068

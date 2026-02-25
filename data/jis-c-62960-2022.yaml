@@ -1,0 +1,87 @@
+---
+id: JISC629602022
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ライフサイクル全般にわたる総合信頼性レビュー
+- language: en
+  script: Latn
+  content: Dependability reviews during the life cycle
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+62960%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_62960_000_000_2022_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 62960:2022
+  type: JIS
+  primary: true
+docnumber: C62960
+date:
+- type: issued
+  at: '2022-08-22'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: システムのライフサイクルの全段階で適用可能な，技術的観点からの総合信頼性レビューの方法についての手引を示す。潜在的な総合信頼性の問題に対処するために，適切なタイミングで適切な対策を講じることによって，システムのライフサイクル全体の総合信頼性を向上させることが可能である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.01
+    text: Quality in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C62960

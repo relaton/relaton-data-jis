@@ -1,0 +1,87 @@
+---
+id: JISC60695222000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法　―　電気・電子　―　耐火性試験　ニードルフレーム（注射針バーナ）試験方法
+- language: en
+  script: Latn
+  content: 'Fire hazard testing -- Part 2: Test methods -- Section 2 -- Needle-flame
+    test'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60695-2-2%3A2000
+docidentifier:
+- content: JIS C 60695-2-2:2000
+  type: JIS
+  primary: true
+docnumber: C60695
+date:
+- type: issued
+  at: '2000-03-31'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本電子部品信頼性センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　日本電子部品信頼性センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　日本電子部品信頼性センター"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: シミュレーション技術を用いて火災を予測するために，装置内の故障に起因する小さな炎による影響をシミュレートするために行うニードルフレーム試験について規定。電気製品・電子部品，サブアセンブリ及び部品，並びに固体電気絶縁物その他の可燃物に適用。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60695

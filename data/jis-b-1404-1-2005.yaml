@@ -1,0 +1,92 @@
+---
+id: JISB140412005
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電磁クラッチ及び電磁ブレーキ―第１部：用語
+- language: en
+  script: Latn
+  content: 'Electromagnetic clutches and electromagnetic brakes -- Part 1: Vocabulary'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+1404-1%3A2005
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_01404_001_000_2005_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 1404-1:2005
+  type: JIS
+  primary: true
+docnumber: B1404
+date:
+- type: issued
+  at: '2005-04-01'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本工作機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本工作機器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 一直線上にある２軸の一方から他の軸へ，又は同心軸上にある駆動側から被動側ヘトルクを伝達，遮断又は制動を行う電磁クラッチ及び電磁ブレーキに関する用語について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.040.40
+    text: Braking systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B1404

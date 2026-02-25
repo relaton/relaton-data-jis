@@ -1,0 +1,91 @@
+---
+id: JISB200542012
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 工業プロセス用調節弁―第４部：検査及び試験
+- language: en
+  script: Latn
+  content: 'Industrial-process control valves -- Part 4: Inspection and routine testing'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2005-4%3A2012
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02005_004_000_2012_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02005_004_000_2012_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 2005-4:2012
+  type: JIS
+  primary: true
+docnumber: B2005
+date:
+- type: issued
+  at: '2012-01-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本バルブ工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本バルブ工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本バルブ工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: ＪＩＳ　Ｂ　２００５の規格群に適合する調節弁の検査及び試験のための必要条件について規定。呼び圧力クラス２５００までのバルブに適用。駆動部に対する要求事項は，空気式にだけ適用。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '17.120'
+    text: Measurement of fluid flow
+  - code: '19.020'
+    text: Test conditions and procedures in general
+  - code: '23.100'
+    text: Fluid power systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B2005

@@ -1,0 +1,92 @@
+---
+id: JISE30192018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鉄道信号保安部品の高温及び低温試験方法
+- language: en
+  script: Latn
+  content: High and low temperature testing methods for parts of railway signalling
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+3019%3A2018
+docidentifier:
+- content: JIS E 3019:2018
+  type: JIS
+  primary: true
+docnumber: E3019
+date:
+- type: issued
+  at: '2018-10-10'
+- type: confirmed
+  at: '2023-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道電気技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本鉄道電気技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本鉄道電気技術協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 鉄道信号保安部品（鉄道信号保安装置の機器及び部品をいう。以下，部品という。）が使用される環境に応じた温度での適性を調べるために行う温度試験方法について規定。ただし，次のもの［ａ）温度サイクル試験を目的とするもの。；ｂ）耐久性・耐候性及び耐食性の試験を目的とするもの。；ｃ）輸送及び貯蔵の場合に受ける温度についての試験を目的とするもの。；ｄ）鉄道車両に取り付ける機器及び部品。］は除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '45.080'
+    text: Rails and railway components
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: E3019

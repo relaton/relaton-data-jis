@@ -1,0 +1,94 @@
+---
+id: JIST91162018
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 単回使用検査・検診用ビニル手袋
+- language: en
+  script: Latn
+  content: Single-use polyvinyl chloride gloves for dentistry
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9116%3A2018
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09116_000_000_2018_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 9116:2018
+  type: JIS
+  primary: true
+docnumber: T9116
+date:
+- type: issued
+  at: '2018-03-01'
+- type: confirmed
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本グローブ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本グローブ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本グローブ工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 治療及び処置に用いる際，患者及び使用者を交差感染から守るために使用する滅菌及び未滅菌の単回使用形式の検査・検診用ビニル手袋について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '11.140'
+    text: Hospital equipment
+  - code: 83.140.99
+    text: Other rubber and plastics products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9116

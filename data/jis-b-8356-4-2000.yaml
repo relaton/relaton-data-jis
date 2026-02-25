@@ -1,0 +1,82 @@
+---
+id: JISB835642000
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 油圧用フィルタ性能評価方法―第４部：フィルタエレメントの材料の作動油適合性試験
+- language: en
+  script: Latn
+  content: 'Hydraulic fluid power -- Filters -- Evaluation of filter performance --
+    Part 4: Filter elements -- Verification of material compatibility with fluid'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8356-4%3A2000
+docidentifier:
+- content: JIS B 8356-4:2000
+  type: JIS
+  primary: true
+docnumber: B8356
+date:
+- type: issued
+  at: '2000-04-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本フルードパワー工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本フルードパワー工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 油圧用フィルタエレメントを構成する材料が，加熱した流体に浸せきした後，つぶれ又は破裂強度を維持しているかを確認することにより，指定流体に対する材料の適合性を試験する方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.100.60
+    text: Filters, seals and contamination of fluids
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8356

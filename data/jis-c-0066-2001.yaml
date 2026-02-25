@@ -1,0 +1,88 @@
+---
+id: JISC00662001
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法―電気・電子―炎着火源による固体非金属材料の燃焼性―試験方法のリスト
+- language: en
+  script: Latn
+  content: Flammability of solid non-metallic materials when exposed to flame sources
+    -- List of test methods
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+0066%3A2001
+docidentifier:
+- content: JIS C 0066:2001
+  type: JIS
+  primary: true
+docnumber: C0066
+date:
+- type: issued
+  at: '2001-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: ＩＳＯ　８４５に従って測定した見掛け密度が２５０ｋｇ／ｍ＊３以上の固体非金属材料に適用する試験方法をまとめたもので，材料を着火源である炎にさらしたときの挙動を予備的に表すためのものである。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.220.40
+    text: Ignitability and burning behaviour of materials and products
+  - code: '19.020'
+    text: Test conditions and procedures in general
+  - code: '29.020'
+    text: Electrical engineering in general
+  - code: '31.020'
+    text: Electronic components in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C0066

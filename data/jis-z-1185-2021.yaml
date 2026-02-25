@@ -1,0 +1,93 @@
+---
+id: JISZ11852021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 青果物輸送のための包装貨物のパレットへの積載方法の指針―みかん輸出
+- language: en
+  script: Latn
+  content: Guideline for loading packaged cargo on pallets for transportation of fruits
+    and vegetables -- Mandarin orange export
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+1185%3A2021
+docidentifier:
+- content: JIS Z 1185:2021
+  type: JIS
+  primary: true
+docnumber: Z1185
+date:
+- type: issued
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本青果物輸出促進協議会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本青果物輸出促進協議会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本青果物輸出促進協議会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: みかん輸出用輸送のために用いる，ＪＩＳ　Ｚ　０６０１に規定された一貫輸送用平パレット及び包装貨物の平面寸法，並びに積付けを行う際の積載方法についての指針。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '55.020'
+    text: Packaging and distribution of goods in general
+  - code: '55.180'
+    text: Freight distribution of goods
+  - code: 67.080.10
+    text: Fruits and derived products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z1185

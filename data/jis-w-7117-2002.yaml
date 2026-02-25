@@ -1,0 +1,78 @@
+---
+id: JISW71172002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 航空機―耐火性電気ケーブル―寸法，導体抵抗及び質量
+- language: en
+  script: Latn
+  content: Aircraft -- Fire-resisting electrical cables -- Dimensions, conductor resistance
+    and mass
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+W+7117%3A2002
+docidentifier:
+- content: JIS W 7117:2002
+  type: JIS
+  primary: true
+docnumber: W7117
+date:
+- type: issued
+  at: '2002-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本航空宇宙工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本航空宇宙工業会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 公称電圧６００Ｖ，最大周波数２０００Ｈｚ及び２８０℃以下の温度（周囲温度＋発熱）での連続使用，また限定された時間では４００℃の温度に耐え得る使用を目的として，銅単一の導体でできたケーブルの寸法，導体抵抗及び質量を規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.060.20
+    text: Cables
+  - code: '49.060'
+    text: Aerospace electric equipment and systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: W7117

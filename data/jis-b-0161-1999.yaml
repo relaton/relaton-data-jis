@@ -1,0 +1,89 @@
+---
+id: JISB01611999
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 球面滑り軸受―用語
+- language: en
+  script: Latn
+  content: Spherical plain bearings -- Vocabulary
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0161%3A1999
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00161_000_000_1999_j_pr10_i4.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00161_000_000_1999_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 0161:1999
+  type: JIS
+  primary: true
+docnumber: B0161
+date:
+- type: issued
+  at: '1999-04-30'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ベアリング工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ベアリング工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ベアリング工業会
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 球面滑り軸受に関する用語及び定義について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.21
+    text: Mechanical systems and components for general use (Vocabularies)
+  - code: 21.100.10
+    text: Plain bearings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0161

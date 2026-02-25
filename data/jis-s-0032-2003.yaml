@@ -1,0 +1,91 @@
+---
+id: JISS00322003
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 高齢者・障害者配慮設計指針―視覚表示物―日本語文字の最小可読文字サイズ推定方法
+- language: en
+  script: Latn
+  content: Guidelines for the elderly and people with disabilities -- Visual signs
+    and displays -- Estimation of minimum legible size for a Japanese single character
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+0032%3A2003
+docidentifier:
+- content: JIS S 0032:2003
+  type: JIS
+  primary: true
+docnumber: S0032
+date:
+- type: issued
+  at: '2003-10-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+        \                                                                                           国立研究開発法人　産業技術総合研究所"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "独立行政法人　製品評価技術基盤機構                                                \r\n
+          \                                                                                           国立研究開発法人　産業技術総合研究所"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 若年者から高齢者までの任意の年齢の観測対象者（対象者）が，様々な環境下で平仮名，片仮名，アラビア数字，及び漢字の日本語文字の１文字を読むことのできる最小の文字サイズの推定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.120'
+    text: Domestic safety
+  - code: '37.080'
+    text: Document imaging applications
+  - code: '97.020'
+    text: Home economics in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S0032

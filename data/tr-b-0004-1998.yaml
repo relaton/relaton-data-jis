@@ -1,0 +1,75 @@
+---
+id: TRB00041998
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: プログラマブルコントローラ　―　使用指針
+- language: en
+  script: Latn
+  content: Programmable controllers -- User Guidelines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+B+0004%3A1998
+docidentifier:
+- content: TR B 0004:1998
+  type: JIS
+  primary: true
+docnumber: B0004
+date:
+- type: issued
+  at: '1998-11-30'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - {}
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: プログラマブルコントローラ及びその周辺装置[プログラミングツール（ＰＡＤＴ），テスト機器（ＴＥ）及びマンマシンインタフェース（ＭＭＩ）]に適用。オーバーボルテージカテゴリⅡ（ＩＥＣ　６０６６４）の低圧設備に使用される機器及び工業用プロセスの制御又は管理のための装置を対象。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: technical-report
+  flavor: jis
+  ics:
+  - code: 25.040.40
+    text: Industrial process measurement and control
+  - code: 35.240.50
+    text: IT applications in industry
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0004

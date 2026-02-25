@@ -1,0 +1,75 @@
+---
+id: JISC21101994
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 固体電気絶縁材料の絶縁耐力の試験方法
+- language: en
+  script: Latn
+  content: Testing methods for electric strength of solid insulating materials
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2110%3A1994
+docidentifier:
+- content: JIS C 2110:1994
+  type: JIS
+  primary: true
+docnumber: C2110
+date:
+- type: issued
+  at: '1994-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気学会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　電気学会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　電気学会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 固体電気絶縁材料の商用周波数電圧による絶縁耐力の試験方法について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.035.01
+    text: Insulating materials in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2110

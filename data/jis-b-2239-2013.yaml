@@ -1,0 +1,98 @@
+---
+id: JISB22392013
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 鋳鉄製管フランジ
+- language: en
+  script: Latn
+  content: Cast iron pipe flanges
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2239%3A2013
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02239_000_000_2013_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02239_000_000_2013_e_ed10_i4.pdf
+docidentifier:
+- content: JIS B 2239:2013
+  type: JIS
+  primary: true
+docnumber: B2239
+date:
+- type: issued
+  at: '2013-11-20'
+- type: confirmed
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本金属継手協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本金属継手協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本金属継手協会"
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 水（雑用水，消火用水，工業用水，空調用冷温水，冷却水などをいう。ただし，飲料用水は除く。），油，蒸気，空気，ガスなどの流体に使用する鋼管を接合し，また鋳鉄製の管，管継手，バルブなどに使用する呼び圧力５Ｋ，１０Ｋ，１０Ｋ薄形，１６Ｋ及び２０Ｋの呼び径１０Ａから１５００Ａまでの鋳鉄製管フランジについて規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 23.040.60
+    text: Flanges, couplings and joints
+  - code: 77.140.99
+    text: Other iron and steel products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B2239

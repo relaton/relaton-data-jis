@@ -1,0 +1,88 @@
+---
+id: JISQ223132021
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: セキュリティ及びレジリエンス―事業継続マネジメントシステム―ＪＩＳＱ２２３０１使用の手引
+- language: en
+  script: Latn
+  content: Security and resilience -- Business continuity management systems -- Guidance
+    on the use of ISO 22301
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+22313%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_22313_000_000_2021_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 22313:2021
+  type: JIS
+  primary: true
+docnumber: Q22313
+date:
+- type: issued
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "JIS Q 22301に規定する事業継続マネジメントシステム（BCMS）の要求事項を適用するための手引及び推奨事項を規定する。この規格に規定する手引及び推奨事項は，国際的な優良事例に基づいている。次の事項を行おうとする組織に適用が可能である。a)\tBCMSを実施し，維持し，改善する。b)\t表明した事業継続方針とこの規格との適合を保証する。c)\t事業の中断・阻害の発生時にも，あらかじめ定めた許容できる能力で，製品及びサービスの提供を継続することができることを必要とする。d)\tBCMSの効果的な適用を通じて組織のレジリエンスの向上を求める。この手引及び推奨事項は，商工業，公共及び非営利の分野で活動する大中小の組織を含む，あらゆる規模及び種類の組織に適用することが可能である。採用するアプローチは，組織の事業環境及び複雑さによって異なる。"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.100.01
+    text: Company organization and management in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q22313

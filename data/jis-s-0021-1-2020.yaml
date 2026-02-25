@@ -1,0 +1,94 @@
+---
+id: JISS002112020
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 包装―アクセシブルデザイン―第１部：一般要求事項
+- language: en
+  script: Latn
+  content: 'Packaging -- Accessible design -- Part 1: General requirements'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+0021-1%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_00021_001_000_2020_j_ed10_ch.pdf
+docidentifier:
+- content: JIS S 0021-1:2020
+  type: JIS
+  primary: true
+docnumber: S0021
+date:
+- type: issued
+  at: '2020-11-20'
+- type: confirmed
+  at: '2025-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本包装技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本包装技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本包装技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 感覚機能，身体機能及び認知機能の低下している人々，アレルギーがある人々，高齢者並びに異文化・多言語圏の人々を含むより多くの人々にとって，包装された製品の内容物を適切に識別し，取扱い及び使用できるように，包装の設計及び評価を行うために役立つ一般要求事項について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 11.180.99
+    text: Other standards related to aids for disabled and handicapped people
+  - code: '55.020'
+    text: Packaging and distribution of goods in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S0021

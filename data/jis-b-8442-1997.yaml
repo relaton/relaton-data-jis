@@ -1,0 +1,84 @@
+---
+id: JISB84421997
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 産業用マニピュレーティングロボット―エンドエフェクタ自動交換装置―用語及び特性の表し方
+- language: en
+  script: Latn
+  content: Manipulating industrial robots -- Automatic end effector exchange systems
+    -- Vocabulary and presentation of characteristics
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8442%3A1997
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08442_000_000_1997_j_pr10_i4.pdf
+docidentifier:
+- content: JIS B 8442:1997
+  type: JIS
+  primary: true
+docnumber: B8442
+date:
+- type: issued
+  at: '1997-06-30'
+- type: confirmed
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ロボット工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ロボット工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ロボット工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 製造環境で用いるロボットのエンドエフェクタ自動交換装置に関する用語を定める。用語について，記号及び単位を与え，定義及び説明を行う。参照する現行の規格の定義も適用。附属書Ａ（参考）は，交換装置の特性を表すための様式を示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.30
+    text: Industrial robots. Manipulators
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8442

@@ -1,0 +1,88 @@
+---
+id: JISC21112002
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 電気絶縁紙試験方法
+- language: en
+  script: Latn
+  content: Testing methods of electrical insulating papers, pressboard and presspaper
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2111%3A2002
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02111_000_000_2002_j_pr10_i4.pdf
+docidentifier:
+- content: JIS C 2111:2002
+  type: JIS
+  primary: true
+docnumber: C2111
+date:
+- type: issued
+  at: '2002-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           電気機能材料工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           電気機能材料工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           電気機能材料工業会"
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 電気絶縁用の紙及び板紙の試験方法について規定。板紙には，プレスボード及びプレスペーパーを含む。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.035.10
+    text: Paper and board insulating materials
+  - code: '85.080'
+    text: Paper products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C2111

@@ -1,0 +1,92 @@
+---
+id: JISA19012015
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 建築材料の揮発性有機化合物（ＶＯＣ），ホルムアルデヒド及び他のカルボニル化合物放散測定方法―小形チャンバー法
+- language: en
+  script: Latn
+  content: Determination of the emission of volatile organic compounds and aldehydes
+    by building products -- Small chamber method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+1901%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01901_000_000_2015_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_01901_000_000_2015_e_ed10_i4.pdf
+docidentifier:
+- content: JIS A 1901:2015
+  type: JIS
+  primary: true
+docnumber: A1901
+date:
+- type: issued
+  at: '2015-03-20'
+- type: confirmed
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　建材試験センター
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　建材試験センター
+      type: technical-committee
+language:
+- ja
+- en
+script:
+- Jpan
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: チャンバーを用いて建築材料から空気中へ放散する化学物質の測定方法について規定。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.20
+    text: Ambient atmospheres
+  - code: 71.040.40
+    text: Chemical analysis
+  - code: 83.140.01
+    text: Rubber and plastics products in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: A1901

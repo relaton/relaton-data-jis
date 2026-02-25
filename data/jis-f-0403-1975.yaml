@@ -1,0 +1,77 @@
+---
+id: JISF04031975
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 船における圧力の呼び方
+- language: en
+  script: Latn
+  content: Terminology of pressure used in ship
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+F+0403%3A1975
+docidentifier:
+- content: JIS F 0403:1975
+  type: JIS
+  primary: true
+docnumber: F0403
+date:
+- type: issued
+  at: '1975-02-28'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　日本船舶標準協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 財団法人　日本船舶標準協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 財団法人　日本船舶標準協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 船のボイラ・圧力容器及びバルブ・コックその他付着品などに用いる圧力の呼び方について規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.47
+    text: Shipbuilding and marine structures (Vocabularies)
+  - code: 47.020.01
+    text: General standards related to shipbuilding and marine structures
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: F0403

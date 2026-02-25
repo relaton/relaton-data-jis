@@ -1,0 +1,94 @@
+---
+id: JISB390062016
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: 産業オートメーションシステム及びその統合―製造用ソフトウェア相互運用のためのケイパビリティプロファイリング―第６部：複数のケイパビリティクラス構造に基づいたプロファイル照合のためのインタフェースサービス及びプロトコル
+- language: en
+  script: Latn
+  content: 'Industrial automation systems and integration -- Manufacturing software
+    capability profiling for interoperability -- Part 6: Interface services and protocols
+    for matching profiles based on multiple capability class structures'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+3900-6%3A2016
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_03900_006_000_2016_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 3900-6:2016
+  type: JIS
+  primary: true
+docnumber: B3900
+date:
+- type: issued
+  at: '2016-06-20'
+- type: confirmed
+  at: '2021-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　製造科学技術センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　製造科学技術センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　製造科学技術センター"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 製造用ソフトウェアにおける複数のケイパビリティクラス構造を用いたプロファイル照合の手法について規定。製造用領域で使用するソフトウェア製品に適用。製造用の工程設計，操作及び制御に関わるソフトウェアのインタフェースを適用範囲とし，製品設計，工場管理，サプライチェーンマネジメント（ＳＣＭ）及び企業資源計画（ＥＲＰ）には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.040.01
+    text: Industrial automation systems in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B3900

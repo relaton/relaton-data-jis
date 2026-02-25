@@ -1,0 +1,77 @@
+---
+id: JISX50922008
+type: standard
+schema_version: v1.4.1
+title:
+- language: ja
+  script: Jpan
+  content: ＣＭＳ利用電子署名（ＣＡｄＥＳ）の長期署名プロファイル
+- language: en
+  script: Latn
+  content: Long term signature profiles for CMS advanced electronic signatures (CAdES)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+5092%3A2008
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_05092_000_000_2008_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 5092:2008
+  type: JIS
+  primary: true
+docnumber: X5092
+date:
+- type: issued
+  at: '2008-03-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本情報経済社会推進協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本情報経済社会推進協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本情報経済社会推進協会
+      type: technical-committee
+abstract:
+- language: ja
+  script: Jpan
+  content: 長期署名プロファイルのうち，ＣＭＳ利用電子署名（ＣＡｄＥＳ）に関するプロファイルについて規定。
+status:
+  stage:
+    content: withdrawn
+ext:
+  schema_version: v0.0.1
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X5092
