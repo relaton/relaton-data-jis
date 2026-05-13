@@ -1,7 +1,7 @@
 ---
 id: JISL10152021
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -22,8 +22,6 @@ docnumber: L1015
 date:
 - type: issued
   at: '2021-03-22'
-- type: confirmed
-  at: '2025-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -67,19 +65,15 @@ contributor:
       - content: "一般財団法人　日本規格協会                                                \r\n
           \                                                                                           日本化学繊維協会"
       type: technical-committee
-language:
-- ja
-script:
-- Jpan
 abstract:
 - language: ja
   script: Jpan
   content: 化学繊維ステープルの試験方法について規定。
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

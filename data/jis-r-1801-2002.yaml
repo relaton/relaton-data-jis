@@ -1,7 +1,7 @@
 ---
 id: JISR18012002
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -38,14 +38,12 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: 一般社団法人　遠赤外線協会
 - role:
   - type: publisher
   organization:
     name:
     - language: ja
       script: Jpan
-      content: 一般社団法人　遠赤外線協会
 - role:
   - type: author
     description:
@@ -53,7 +51,6 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: 一般社団法人　遠赤外線協会
       type: technical-committee
 abstract:
 - language: ja
@@ -63,7 +60,7 @@ status:
   stage:
     content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

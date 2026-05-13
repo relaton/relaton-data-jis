@@ -1,7 +1,7 @@
 ---
 id: JISZ88121987
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -20,8 +20,6 @@ docnumber: Z8812
 date:
 - type: issued
   at: '1987-07-31'
-- type: confirmed
-  at: '2020-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -56,21 +54,15 @@ contributor:
     - name:
       - content: 公益社団法人　日本保安用品協会
       type: technical-committee
-language:
-- ja
-- en
-script:
-- Jpan
-- Latn
 abstract:
 - language: ja
   script: Jpan
   content: 一般の人工光及び自然の光における，人の目に対する有害紫外放射の有害放射照度を物理的に測定する方法について規定。ただし，レーザの直射放射の測定は含まない。
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

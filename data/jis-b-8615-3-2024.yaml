@@ -1,7 +1,7 @@
 ---
 id: JISB861532024
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -78,13 +78,11 @@ status:
   stage:
     content: valid
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis
   ics:
-  - code: '23.120'
-    text: Ventilators. Fans. Air-conditioners
   - code: '23.120'
     text: Ventilators. Fans. Air-conditioners
   - code: '27.080'

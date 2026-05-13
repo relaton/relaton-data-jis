@@ -1,14 +1,13 @@
 ---
 id: JISZ82102017SYMBOL53200
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
   content: 案内用図記号 喫茶・軽食 (JIS Z 8210:2017)
 - language: en
   script: Latn
-  content: ''
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8210%3A2017+SYMBOL+53200
@@ -66,7 +65,7 @@ status:
   stage:
     content: valid
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

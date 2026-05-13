@@ -1,7 +1,7 @@
 ---
 id: JISE77011992
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -20,8 +20,6 @@ docnumber: E7701
 date:
 - type: issued
   at: '1992-04-30'
-- type: confirmed
-  at: '2020-10-26'
 contributor:
 - role:
   - type: authorizer
@@ -56,19 +54,15 @@ contributor:
     - name:
       - content: 一般社団法人　日本鉄道車輌工業会
       type: technical-committee
-language:
-- ja
-script:
-- Jpan
 abstract:
 - language: ja
   script: Jpan
   content: 鉄道車両の高圧ガスタンク車のタンクに用いる安全弁について規定。
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

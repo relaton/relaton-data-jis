@@ -1,0 +1,84 @@
+---
+id: JISK624222026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 加硫ゴム－加熱条件下で揮発する硫黄化合物の定量法－第２部：硫黄化合物
+- language: en
+  script: Latn
+  content: 'Rubber, vulcanized-Quantitative analysis methods for volatilized sulfur
+    and sulfur compounds under heating conditions-Part 2: Sulfur compounds'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+6242-2%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_06242_002_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 6242-2:2026
+  type: JIS
+  primary: true
+docnumber: K6242
+date:
+- type: issued
+  at: '2026-03-23'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ゴム工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本ゴム工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本ゴム工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，加硫ゴムを加熱した際に揮発する硫黄化合物量を，ガスクロマトグラフ（GC）又はイオンクロマトグラフを用いて求める方法について規定する。なお，この規格で測定可能な硫黄化合物は，硫化水素（H2S），硫化カルボニル（COS），二硫化炭素（CS2）及び二酸化硫黄（SO2）である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.040.40
+    text: Chemical analysis
+  - code: '83.060'
+    text: Rubber
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K6242

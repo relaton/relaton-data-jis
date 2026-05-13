@@ -1,7 +1,7 @@
 ---
 id: JISG12811977AMENDMENT12006
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -53,7 +53,6 @@ contributor:
   organization:
     subdivision:
     - name:
-      - {}
       type: technical-committee
 language:
 - ja
@@ -65,7 +64,7 @@ status:
   stage:
     content: valid
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: amendment
   flavor: jis

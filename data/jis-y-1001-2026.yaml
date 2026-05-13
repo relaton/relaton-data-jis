@@ -1,0 +1,95 @@
+---
+id: JISY10012026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: ロボティクス－サービスロボットが提供するアプリケーションサービス－安全マネジメントシステム要求事項
+- language: en
+  script: Latn
+  content: Robotics-Application services provided by service robots-Safety management
+    systems requirements
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Y+1001%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_y_01001_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Y 1001:2026
+  type: JIS
+  primary: true
+docnumber: Y1001
+date:
+- type: issued
+  at: '2026-03-23'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ロボット工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本ロボット工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本ロボット工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，サービスロボットが提供するアプリケーションサービス安全マネジメントシステム（ASSMS）の要求事項を規定する。アプリケーションサービスプロバイダが，訓練を受けた人間及び訓練を受けていない人間がいる非構造的な空間でアプリケーションサービスを提供する場合（空港，ショッピングモールなどで来訪者に道案内をする，病院内で患者に荷物を運ぶ，レストランで客に料理を運ぶなど）に，利用者及びその第三者の安全のためにこのASSMSを使用することが可能である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.080.99
+    text: Other services
+  - code: 03.100.70
+    text: Management systems
+  - code: 25.040.30
+    text: Industrial robots. Manipulators
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Y1001

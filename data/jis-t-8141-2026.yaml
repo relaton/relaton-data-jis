@@ -1,0 +1,92 @@
+---
+id: JIST81412026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 遮光保護具
+- language: en
+  script: Latn
+  content: Personal eye protectors for optical radiations
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8141%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08141_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 8141:2026
+  type: JIS
+  primary: true
+docnumber: T8141
+date:
+- type: issued
+  at: '2026-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本保安用品協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，目に対して有害な紫外放射，赤外放射及び強烈な可視光，並びに飛散する粒子及び破片が存在する場所において，職業上の危険に対する作業者の目を保護するため，着用する遮光保護具，並びに交換用のレンズ及びプレートの材料，設計及び性能について規定する。ただし，溶接用保護面の面体には適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.13
+    text: Environment. Health protection. Safety (Vocabularies)
+  - code: 13.340.20
+    text: Head protective equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T8141

@@ -1,0 +1,84 @@
+---
+id: JISD162622026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 自動車部品－電気・電子機器の環境条件及び試験法－第２部：電気負荷
+- language: en
+  script: Latn
+  content: 'Road vehicles-Environmental conditions and testing for electrical and
+    electronic equipment-Part 2: Electrical loads'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+D+1626-2%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_d_01626_002_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS D 1626-2:2026
+  type: JIS
+  primary: true
+docnumber: D1626
+date:
+- type: issued
+  at: '2026-03-23'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　自動車技術会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　自動車技術会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，電気・電子システム及びコンポーネントが，自動車内部又は外部へ取り付けられたときに影響を与える電気負荷を記載し，対応する試験手順及び要求事項について規定する。
+    この規格は，モーターサイクル及びモペットのシステム並びにコンポーネントに対する環境要求事項又は試験に適用はしない。この規格に電磁両立性は含まない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 43.040.10
+    text: Electrical and electronic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: D1626

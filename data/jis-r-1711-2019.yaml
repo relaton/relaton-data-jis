@@ -1,7 +1,7 @@
 ---
 id: JISR17112019
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -42,8 +42,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "国立研究開発法人　産業技術総合研究所                                                \r\n
-        \                                                                                           一般社団法人　日本ファインセラミックス協会
-        \                                               \r\n                                                                                            光触媒工業会"
+        \                                                                                           光触媒工業会"
 - role:
   - type: publisher
   organization:
@@ -51,8 +50,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "国立研究開発法人　産業技術総合研究所                                                \r\n
-        \                                                                                           一般社団法人　日本ファインセラミックス協会
-        \                                               \r\n                                                                                            光触媒工業会"
+        \                                                                                           光触媒工業会"
 - role:
   - type: author
     description:
@@ -61,8 +59,7 @@ contributor:
     subdivision:
     - name:
       - content: "国立研究開発法人　産業技術総合研究所                                                \r\n
-          \                                                                                           一般社団法人　日本ファインセラミックス協会
-          \                                               \r\n                                                                                            光触媒工業会"
+          \                                                                                           光触媒工業会"
       type: technical-committee
 language:
 - ja
@@ -76,7 +73,7 @@ status:
   stage:
     content: valid
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

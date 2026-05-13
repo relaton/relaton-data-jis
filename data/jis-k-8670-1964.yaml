@@ -1,14 +1,13 @@
 ---
 id: JISK86701964
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
   content: １，３，５－トリニトロベンゼン（試薬）
 - language: en
   script: Latn
-  content: ''
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+8670%3A1964
@@ -17,8 +16,6 @@ docidentifier:
   type: JIS
   primary: true
 docnumber: K8670
-date:
-- type: issued
 contributor:
 - role:
   - type: authorizer
@@ -49,13 +46,12 @@ contributor:
   organization:
     subdivision:
     - name:
-      - {}
       type: technical-committee
 status:
   stage:
     content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

@@ -1,0 +1,81 @@
+---
+id: JISZ90982026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 災害種別避難誘導標識システム
+- language: en
+  script: Latn
+  content: Natural disaster safety way guidance system
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9098%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09098_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 9098:2026
+  type: JIS
+  primary: true
+docnumber: Z9098
+date:
+- type: issued
+  at: '2026-03-23'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　日本保安用品協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　日本保安用品協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，津波，高潮，洪水，内水氾濫，土石流，崖崩れ・地滑り，大規模な火事，火山噴火及び地震による災害の発生に備え，人々が様々な種類の自然災害の危険性を明確に認識し，安全な場所へ適切に避難するための情報を提供する災害種別避難誘導標識システムについて規定する。ただし，この規格で扱う自然災害の原因となる台風又は雪崩などの特殊な危険性によるものを除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.080.10
+    text: Public information symbols. Signs. Plates. Labels
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9098

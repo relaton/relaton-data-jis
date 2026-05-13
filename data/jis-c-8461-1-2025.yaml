@@ -1,7 +1,7 @@
 ---
 id: JISC846112025
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -14,6 +14,8 @@ source:
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8461-1%3A2025
 - type: pdf
   content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08461_001_000_2025_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08461_001_000_2025_e_ed10_ch.pdf
 docidentifier:
 - content: JIS C 8461-1:2025
   type: JIS
@@ -67,8 +69,10 @@ contributor:
       type: technical-committee
 language:
 - ja
+- en
 script:
 - Jpan
+- Latn
 abstract:
 - language: ja
   script: Jpan
@@ -77,7 +81,7 @@ status:
   stage:
     content: valid
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

@@ -1,7 +1,7 @@
 ---
 id: JISD08062011
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -23,8 +23,6 @@ docnumber: D0806
 date:
 - type: issued
   at: '2011-03-22'
-- type: confirmed
-  at: '2020-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -68,19 +66,15 @@ contributor:
       - content: "一般財団法人　日本規格協会                                                \r\n
           \                                                                                           公益社団法人　自動車技術会"
       type: technical-committee
-language:
-- ja
-script:
-- Jpan
 abstract:
 - language: ja
   script: Jpan
   content: ＬＳＦシステムに関する，基本的制御方針，機能要件に対する最低要求事項，基本的な運転者インタフェース，故障診断及び故障時の動作に関する最低要求事項並びに性能試験手順について規定。
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

@@ -1,7 +1,7 @@
 ---
 id: JISK65441977
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -20,8 +20,6 @@ docnumber: K6544
 date:
 - type: issued
   at: '1977-09-10'
-- type: confirmed
-  at: '2025-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -56,19 +54,15 @@ contributor:
     - name:
       - content: 一般社団法人　日本皮革産業連合会
       type: technical-committee
-language:
-- ja
-script:
-- Jpan
 abstract:
 - language: ja
   script: Jpan
   content: すべての革の吸湿度試験方法について規定。
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

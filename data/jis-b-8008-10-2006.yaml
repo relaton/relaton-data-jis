@@ -1,7 +1,7 @@
 ---
 id: JISB8008102006
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -24,8 +24,6 @@ docnumber: B8008
 date:
 - type: issued
   at: '2006-10-20'
-- type: confirmed
-  at: '2021-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -69,19 +67,15 @@ contributor:
       - content: "一般財団法人　日本規格協会                                                \r\n
           \                                                                                           日本内燃機関連合会"
       type: technical-committee
-language:
-- ja
-script:
-- Jpan
 abstract:
 - language: ja
   script: Jpan
   content: 圧縮点火機関からの排気煙排出の評価を現地で行うための，試験サイクル及び測定方法について規定。
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

@@ -1,7 +1,7 @@
 ---
 id: JISD93111994
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -43,14 +43,14 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般社団法人　自転車協会                                                \r\n                                                                                            一般財団法人　自転車産業振興協会"
+      content: 一般財団法人　自転車産業振興協会
 - role:
   - type: publisher
   organization:
     name:
     - language: ja
       script: Jpan
-      content: "一般社団法人　自転車協会                                                \r\n                                                                                            一般財団法人　自転車産業振興協会"
+      content: 一般財団法人　自転車産業振興協会
 - role:
   - type: author
     description:
@@ -58,8 +58,7 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "一般社団法人　自転車協会                                                \r\n
-          \                                                                                           一般財団法人　自転車産業振興協会"
+      - content: 一般財団法人　自転車産業振興協会
       type: technical-committee
 language:
 - ja
@@ -75,7 +74,7 @@ status:
   stage:
     content: valid
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

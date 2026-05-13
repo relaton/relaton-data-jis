@@ -1,0 +1,94 @@
+---
+id: JISB800832026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 往復動内燃機関－排気排出物測定－第３部：圧縮点火機関の排気煙濃度測定のための試験手順－フィルタ式スモークメータを使用する方法
+- language: en
+  script: Latn
+  content: 'Reciprocating internal combustion engines-Exhaust emission measurement-Part
+    3: Test procedures for measurement of exhaust gas smoke emissions from compression
+    ignition engines using a filter type smoke meter'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8008-3%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08008_003_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8008-3:2026
+  type: JIS
+  primary: true
+docnumber: B8008
+date:
+- type: issued
+  at: '2026-04-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本内燃機関連合会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本内燃機関連合会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，圧縮点火機関の排気煙濃度をフィルタ式スモークメータで測定する手法を規定する。この手法は，定常状態においてフィルタの黒色化の計測（フィルタスモーク試験）及びフィルタ排気煙濃度値からのブラックカーボン質量濃度の導出によってすすの含有量を評価する。必要な場合には，特別な機関に適用するために個別の要求を指定してもよい。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.040.50
+    text: Transport exhaust emissions
+  - code: '27.020'
+    text: Internal combustion engines
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8008

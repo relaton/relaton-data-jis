@@ -1,7 +1,7 @@
 ---
 id: JISA50232024
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -12,8 +12,6 @@ title:
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5023%3A2024
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_a_05023_000_000_2024_j_ed10_ch.pdf
 docidentifier:
 - content: JIS A 5023:2024
   type: JIS
@@ -77,7 +75,7 @@ status:
   stage:
     content: valid
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

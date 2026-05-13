@@ -1,0 +1,94 @@
+---
+id: JIST91072026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 単回使用手術用ゴム手袋
+- language: en
+  script: Latn
+  content: Single-use sterile rubber surgical gloves-Specification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+9107%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_09107_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 9107:2026
+  type: JIS
+  primary: true
+docnumber: T9107
+date:
+- type: issued
+  at: '2026-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本グローブ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本グローブ工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本グローブ工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，医科及び歯科で手術をする際，患者及び使用者を交差感染から守るために使用する滅菌済みの単回使用形式の手術用ゴム手袋について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '11.040'
+    text: Medical equipment
+  - code: '11.140'
+    text: Hospital equipment
+  - code: 83.140.99
+    text: Other rubber and plastics products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T9107

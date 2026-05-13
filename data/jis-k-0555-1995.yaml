@@ -1,7 +1,7 @@
 ---
 id: JISK05551995
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -12,10 +12,6 @@ title:
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0555%3A1995
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00555_000_000_1995_j_pr10_i4.pdf
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_00555_000_000_1995_e_pr10_i4.pdf
 docidentifier:
 - content: JIS K 0555:1995
   type: JIS
@@ -74,7 +70,7 @@ status:
   stage:
     content: valid
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

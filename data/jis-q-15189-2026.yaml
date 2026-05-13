@@ -1,0 +1,94 @@
+---
+id: JISQ151892026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 臨床検査室－品質及び能力に関する要求事項
+- language: en
+  script: Latn
+  content: Medical laboratories-Requirements for quality and competence
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+15189%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_15189_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Q 15189:2026
+  type: JIS
+  primary: true
+docnumber: Q15189
+date:
+- type: issued
+  at: '2026-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本臨床検査標準協議会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本臨床検査標準協議会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本臨床検査標準協議会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，臨床検査室の品質及び能力に関する要求事項について規定する。
+    この規格は，臨床検査室がマネジメントシステムを構築し，自らの能力を評価する際に使用することが可能である。また，臨床検査室の利用者，行政機関及び認定機関による臨床検査室の能力の確信又は確認に使用することも可能である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.10
+    text: Quality management and quality assurance
+  - code: 11.100.01
+    text: Laboratory medicine in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Q15189

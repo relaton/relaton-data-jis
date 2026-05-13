@@ -1,7 +1,7 @@
 ---
 id: JISD13012001
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -24,8 +24,6 @@ docnumber: D1301
 date:
 - type: issued
   at: '2001-04-30'
-- type: confirmed
-  at: '2020-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -69,21 +67,15 @@ contributor:
       - content: "一般財団法人　日本規格協会                                                \r\n
           \                                                                                           一般財団法人　日本自動車研究所"
       type: technical-committee
-language:
-- ja
-- en
-script:
-- Jpan
-- Latn
 abstract:
 - language: ja
   script: Jpan
   content: 車載電池だけを動力源とする車両総質量が３５００ｋｇ以下の電気自動車（自動二輪車及び原動機付自転車で原動機に電動機を用いたものを除く。）の一充電走行距離及び交流充電電力量消費率を求める試験方法について規定。
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

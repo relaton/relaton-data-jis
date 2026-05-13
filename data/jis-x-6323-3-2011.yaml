@@ -1,7 +1,7 @@
 ---
 id: JISX632332011
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -41,8 +41,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
-        \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+        \                                                                                           一般社団法人　ＩＤ認証技術推進協会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -53,8 +52,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
-        \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+        \                                                                                           一般社団法人　ＩＤ認証技術推進協会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -66,8 +64,7 @@ contributor:
     subdivision:
     - name:
       - content: "一般財団法人　日本規格協会                                                \r\n
-          \                                                                                           一般社団法人　日本ＩＣカードシステム利用促進協議会
-          \                                               \r\n                                                                                            一般社団法人　ＩＤ認証技術推進協会"
+          \                                                                                           一般社団法人　ＩＤ認証技術推進協会"
       type: technical-committee
 abstract:
 - language: ja
@@ -77,7 +74,7 @@ status:
   stage:
     content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

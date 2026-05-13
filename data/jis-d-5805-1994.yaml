@@ -1,7 +1,7 @@
 ---
 id: JISD58051994
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -20,8 +20,6 @@ docnumber: D5805
 date:
 - type: issued
   at: '1994-10-31'
-- type: confirmed
-  at: '2020-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -56,19 +54,15 @@ contributor:
     - name:
       - content: 一般社団法人　日本自動車部品工業会
       type: technical-committee
-language:
-- ja
-script:
-- Jpan
 abstract:
 - language: ja
   script: Jpan
   content: 最大負荷１６０Ｗ以下の自動車用各種ランプ（ただし，ハザードウォーニングランプを除く。）及び各種機器の電流回路を手動により開閉するプッシュプルスイッチについて規定。
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

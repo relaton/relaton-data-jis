@@ -1,0 +1,92 @@
+---
+id: JIST81472026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 保護めがね
+- language: en
+  script: Latn
+  content: Personal eye protectors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8147%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08147_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 8147:2026
+  type: JIS
+  primary: true
+docnumber: T8147
+date:
+- type: issued
+  at: '2026-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本保安用品協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，浮遊粉じん，薬液飛まつ（沫），飛来物などから作業者の目を保護するために用いる保護めがね，並びに交換用のレンズ及びアイピースの材料，設計及び性能について規定する。ただし，遮光用保護めがね及び屈折補正用保護めがねを除く。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.13
+    text: Environment. Health protection. Safety (Vocabularies)
+  - code: 13.340.20
+    text: Head protective equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T8147

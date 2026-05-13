@@ -1,0 +1,82 @@
+---
+id: JISK482842026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 火薬類危険区分判定試験方法－第４部：試験シリーズ８
+- language: en
+  script: Latn
+  content: 'Test methods for the hazard classification of explosives-Part 4: Test
+    series 8'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+4828-4%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_04828_004_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS K 4828-4:2026
+  type: JIS
+  primary: true
+docnumber: K4828
+date:
+- type: issued
+  at: '2026-03-23'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　全国火薬類保安協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 公益社団法人　全国火薬類保安協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 公益社団法人　全国火薬類保安協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，硝酸アンモニウムエマルション，サスペンション又はゲル（ANE）が火薬類以外のものであるかどうか，及びANEをポータブルタンクで輸送することができるかどうかを判定するための試験方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 71.100.30
+    text: Explosives. Pyrotechnics and fireworks
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: K4828

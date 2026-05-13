@@ -1,7 +1,7 @@
 ---
 id: JISM76021993
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -20,8 +20,6 @@ docnumber: M7602
 date:
 - type: issued
   at: '1993-05-31'
-- type: confirmed
-  at: '2020-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -56,19 +54,15 @@ contributor:
     - name:
       - content: 公益社団法人　日本保安用品協会
       type: technical-committee
-language:
-- ja
-script:
-- Jpan
 abstract:
 - language: ja
   script: Jpan
   content: 鉱山，工場，その他の事業場などにおいて，可燃性ガスの測定に使用する干渉計形精密可燃性ガス検定器について規定。
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

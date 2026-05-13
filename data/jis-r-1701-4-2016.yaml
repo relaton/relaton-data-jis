@@ -1,7 +1,7 @@
 ---
 id: JISR170142016
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -45,7 +45,6 @@ contributor:
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           国立研究開発法人　産業技術総合研究所
-        \                                               \r\n                                                                                            一般社団法人　日本ファインセラミックス協会
         \                                               \r\n                                                                                            光触媒工業会"
     - language: en
       script: Latn
@@ -58,7 +57,6 @@ contributor:
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
         \                                                                                           国立研究開発法人　産業技術総合研究所
-        \                                               \r\n                                                                                            一般社団法人　日本ファインセラミックス協会
         \                                               \r\n                                                                                            光触媒工業会"
     - language: en
       script: Latn
@@ -72,7 +70,6 @@ contributor:
     - name:
       - content: "一般財団法人　日本規格協会                                                \r\n
           \                                                                                           国立研究開発法人　産業技術総合研究所
-          \                                               \r\n                                                                                            一般社団法人　日本ファインセラミックス協会
           \                                               \r\n                                                                                            光触媒工業会"
       type: technical-committee
 language:
@@ -89,7 +86,7 @@ status:
   stage:
     content: valid
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

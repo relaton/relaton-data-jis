@@ -1,0 +1,90 @@
+---
+id: JIST81542026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 防毒機能を有する電動ファン付き呼吸用保護具
+- language: en
+  script: Latn
+  content: Powered air purifying respirator for toxic gases
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+8154%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_08154_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS T 8154:2026
+  type: JIS
+  primary: true
+docnumber: T8154
+date:
+- type: issued
+  at: '2026-03-25'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           公益社団法人　日本保安用品協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           公益社団法人　日本保安用品協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，事業場その他の場所において，有毒なガス若しくは蒸気又は有毒ガスと混在する粒子状物質1)を吸入することによって，人体に有害な影響を及ぼすおそれがある環境で用いるろ過式の防毒機能を有する電動ファン付き呼吸用保護具（G-PAPRという。）について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 13.340.30
+    text: Respiratory protective devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: T8154

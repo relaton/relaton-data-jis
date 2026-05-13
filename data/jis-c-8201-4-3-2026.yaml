@@ -1,0 +1,95 @@
+---
+id: JISC8201432026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 低圧開閉装置及び制御装置－第４－３部：接触器及びモータスタータ－非モータ負荷用半導体制御器及び半導体接触器
+- language: en
+  script: Latn
+  content: 'Low-voltage switchgear and controlgear-Part 4-3: Contactors and motor-starters-Semiconductor
+    controllers and semiconductor contactors for non-motor loads'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8201-4-3%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08201_004_003_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8201-4-3:2026
+  type: JIS
+  primary: true
+docnumber: C8201
+date:
+- type: issued
+  at: '2026-04-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本電機工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本電機工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，定格電圧が交流1000 V以下の回路に接続することを意図した，モータ以外の負荷用の半導体制御器及び半導体接触器について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.120.40
+    text: Switches
+  - code: 29.120.99
+    text: Other electrical accessories
+  - code: 29.130.20
+    text: Low voltage switchgear and controlgear
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8201

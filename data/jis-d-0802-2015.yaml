@@ -1,7 +1,7 @@
 ---
 id: JISD08022015
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -23,8 +23,6 @@ docnumber: D0802
 date:
 - type: issued
   at: '2015-10-20'
-- type: confirmed
-  at: '2020-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -68,19 +66,15 @@ contributor:
       - content: "一般財団法人　日本規格協会                                                \r\n
           \                                                                                           公益社団法人　自動車技術会"
       type: technical-committee
-language:
-- ja
-script:
-- Jpan
 abstract:
 - language: ja
   script: Jpan
   content: 当該車両の前方にある他の車両との追突の可能性を運転者に警告するシステムの，性能要件及び試験方法について規定。
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

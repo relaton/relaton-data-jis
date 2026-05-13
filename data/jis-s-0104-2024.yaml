@@ -1,7 +1,7 @@
 ---
 id: JISS01042024
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -37,22 +37,14 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           主婦連合会"
-    - language: en
-      script: Latn
-      content: Japanese Industrial Standards
+      content: 主婦連合会
 - role:
   - type: publisher
   organization:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           主婦連合会"
-    - language: en
-      script: Latn
-      content: Japanese Industrial Standards
+      content: 主婦連合会
 - role:
   - type: author
     description:
@@ -60,8 +52,7 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "一般財団法人　日本規格協会                                                \r\n
-          \                                                                                           主婦連合会"
+      - content: 主婦連合会
       type: technical-committee
 language:
 - ja
@@ -75,7 +66,7 @@ status:
   stage:
     content: valid
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

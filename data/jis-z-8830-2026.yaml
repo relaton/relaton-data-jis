@@ -1,0 +1,92 @@
+---
+id: JISZ88302026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: ガス吸着による粉体（固体）の比表面積測定方法
+- language: en
+  script: Latn
+  content: Determination of the specific surface area of powders (solids) by gas adsorption-BET
+    method
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8830%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_08830_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 8830:2026
+  type: JIS
+  primary: true
+docnumber: Z8830
+date:
+- type: issued
+  at: '2026-03-23'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本粉体工業技術協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本粉体工業技術協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 'この規格は，2015年国際純正・応用化学連合（IUPAC）の勧告に基づき，ブルナウアー・エメット・テラー（Brunauer, Emmett
+    and Teller: BET）法に従って物理的に吸着されたガスの量を測定することによって，粉体状（例えば，ナノ粉体）又は細孔をもつ固体の外部及び内部（開気孔）の比表面積を測定する方法について規定する。'
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.120'
+    text: Particle size analysis. Sieving
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z8830

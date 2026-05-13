@@ -1,7 +1,7 @@
 ---
 id: JISC99012019R
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -41,8 +41,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般社団法人　日本電機工業会                                                \r\n
-        \                                                                                           一般社団法人　日本冷凍空調工業会
-        \                                               \r\n                                                                                            一般社団法人　電子情報技術産業協会
+        \                                                                                           一般社団法人　電子情報技術産業協会
         \                                               \r\n                                                                                            一般社団法人　日本照明工業会"
 - role:
   - type: publisher
@@ -51,8 +50,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般社団法人　日本電機工業会                                                \r\n
-        \                                                                                           一般社団法人　日本冷凍空調工業会
-        \                                               \r\n                                                                                            一般社団法人　電子情報技術産業協会
+        \                                                                                           一般社団法人　電子情報技術産業協会
         \                                               \r\n                                                                                            一般社団法人　日本照明工業会"
 - role:
   - type: author
@@ -62,8 +60,7 @@ contributor:
     subdivision:
     - name:
       - content: "一般社団法人　日本電機工業会                                                \r\n
-          \                                                                                           一般社団法人　日本冷凍空調工業会
-          \                                               \r\n                                                                                            一般社団法人　電子情報技術産業協会
+          \                                                                                           一般社団法人　電子情報技術産業協会
           \                                               \r\n                                                                                            一般社団法人　日本照明工業会"
       type: technical-committee
 language:
@@ -80,7 +77,7 @@ status:
   stage:
     content: valid
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

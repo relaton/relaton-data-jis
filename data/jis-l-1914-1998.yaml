@@ -1,7 +1,7 @@
 ---
 id: JISL19141998
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -39,16 +39,14 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "全日本わた寝装品製造協同組合                                                \r\n
-        \                                                                                           日本ふとん製造協同組合"
+      content: 日本ふとん製造協同組合
 - role:
   - type: publisher
   organization:
     name:
     - language: ja
       script: Jpan
-      content: "全日本わた寝装品製造協同組合                                                \r\n
-        \                                                                                           日本ふとん製造協同組合"
+      content: 日本ふとん製造協同組合
 - role:
   - type: author
     description:
@@ -56,8 +54,7 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "全日本わた寝装品製造協同組合                                                \r\n
-          \                                                                                           日本ふとん製造協同組合"
+      - content: 日本ふとん製造協同組合
       type: technical-committee
 language:
 - ja
@@ -71,7 +68,7 @@ status:
   stage:
     content: valid
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis

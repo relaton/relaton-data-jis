@@ -1,14 +1,13 @@
 ---
 id: JISZ82102022AMENDMENT12024SYMBOL61100
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
   content: 案内用図記号 光警報装置(火災用) (JIS Z 8210:2022/AMENDMENT 1:2024)
 - language: en
   script: Latn
-  content: ''
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+8210%3A2022%2FAMENDMENT+1%3A2024+SYMBOL+61100
@@ -66,7 +65,7 @@ status:
   stage:
     content: valid
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: amendment
   flavor: jis

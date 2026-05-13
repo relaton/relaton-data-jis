@@ -1,7 +1,7 @@
 ---
 id: JISD58152001
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: ja
   script: Jpan
@@ -20,8 +20,6 @@ docnumber: D5815
 date:
 - type: issued
   at: '2001-06-30'
-- type: confirmed
-  at: '2020-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -65,19 +63,15 @@ contributor:
       - content: "一般財団法人　日本規格協会                                                \r\n
           \                                                                                           公益社団法人　自動車技術会"
       type: technical-committee
-language:
-- ja
-script:
-- Jpan
 abstract:
 - language: ja
   script: Jpan
   content: 二輪自動車（原動機付自転車を含む。）の盗難防止装置としてステアリングシャフト又はステアリングシャフトと一体の部品をキーによって施錠，開錠されるステアリングロックについて規定。
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
-  schema_version: v0.0.1
+  schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis
