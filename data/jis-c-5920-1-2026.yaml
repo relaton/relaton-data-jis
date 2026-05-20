@@ -1,30 +1,27 @@
 ---
-id: JISC5964132015
+id: JISC592012026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 光ファイバコネクタかん合標準―第１３部：ＦＣ－ＰＣ形光ファイバコネクタ類（Ｆ０１形）
+  content: 光伝送用パワー制御受動部品－第１部：通則
 - language: en
   script: Latn
-  content: 'Fiber optic connector interfaces -- Part 13: Type FC-PC connector family
-    (F01 Type)'
+  content: 'Fiber optic passive power control devices-Part 1: Generic specification'
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5964-13%3A2015
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5920-1%3A2026
 - type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05964_013_000_2015_j_ed10_ch.pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05920_001_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS C 5964-13:2015
+- content: JIS C 5920-1:2026
   type: JIS
   primary: true
-docnumber: C5964
+docnumber: C5920
 date:
 - type: issued
-  at: '2015-03-20'
-- type: confirmed
-  at: '2024-06-20'
+  at: '2026-05-20'
 contributor:
 - role:
   - type: authorizer
@@ -75,7 +72,7 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: ＦＣ－ＰＣ形光ファイバコネクタ類のかん合構造及び互換寸法について規定。
+  content: この規格は，光ファイバを用いた光伝送に使用するパワー制御受動部品の通則であり，用語，分類などの一般的な共通事項について規定する。
 status:
   stage:
     content: valid
@@ -90,4 +87,4 @@ ext:
   structuredidentifier:
     type: JIS
     project_number:
-      content: C5964
+      content: C5920

@@ -1,29 +1,25 @@
 ---
-id: JISK22462026
+id: JISG43112019AMENDMENT12026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 防せい（錆）油
+  content: 耐熱鋼棒及び線材（追補１）
 - language: en
   script: Latn
-  content: Rust preventive oils
+  content: Heat-resistant steel bars and wire rods (Amendment 1)
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2246%3A2026
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02246_000_000_2026_j_ed10_ch.pdf
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02246_000_000_2026_e_ed10_ch.pdf
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+4311%3A2019%2FAMENDMENT+1%3A2026
 docidentifier:
-- content: JIS K 2246:2026
+- content: JIS G 4311:2019/AMENDMENT 1:2026
   type: JIS
   primary: true
-docnumber: K2246
+docnumber: G4311
 date:
 - type: issued
-  at: '2026-01-20'
+  at: '2026-05-20'
 contributor:
 - role:
   - type: authorizer
@@ -42,7 +38,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本防錆技術協会"
+        \                                                                                           ステンレス協会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -53,7 +49,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本防錆技術協会"
+        \                                                                                           ステンレス協会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -65,30 +61,28 @@ contributor:
     subdivision:
     - name:
       - content: "一般財団法人　日本規格協会                                                \r\n
-          \                                                                                           一般社団法人　日本防錆技術協会"
+          \                                                                                           ステンレス協会"
       type: technical-committee
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
-abstract:
-- language: ja
-  script: Jpan
-  content: この規格は，鉄鋼を主とした金属材料及び金属製品のさびの発生を，一時的に防止するために用いる防せい（錆）油について規定する。
 status:
   stage:
     content: valid
 ext:
   schema_version: v1.0.2
   doctype:
-    content: japanese-industrial-standard
+    content: amendment
   flavor: jis
   ics:
-  - code: '75.140'
-    text: Waxes, bituminous materials and other petroleum products
+  - code: 77.140.10
+    text: Heat-treatable steels
+  - code: 77.140.20
+    text: Stainless steels
+  - code: 77.140.60
+    text: Steel bars and rods
   structuredidentifier:
     type: JIS
     project_number:
-      content: K2246
+      content: G4311

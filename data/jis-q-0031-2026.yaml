@@ -1,29 +1,27 @@
 ---
-id: JISQ00332019
+id: JISQ00312026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 標準物質―標準物質の適正な使い方
+  content: 標準物質－認証書，ラベル及び附属文書の内容
 - language: en
   script: Latn
-  content: Reference materials -- Good practice in using reference materials
+  content: Reference materials-Contents of certificates, labels and accompanying documentation
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+0033%3A2019
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+0031%3A2026
 - type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_00033_000_000_2019_j_ed10_ch.pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_00031_000_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS Q 0033:2019
+- content: JIS Q 0031:2026
   type: JIS
   primary: true
-docnumber: Q0033
+docnumber: Q0031
 date:
 - type: issued
-  at: '2019-04-22'
-- type: confirmed
-  at: '2024-06-20'
+  at: '2026-05-20'
 contributor:
 - role:
   - type: authorizer
@@ -71,7 +69,7 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: 測定プロセスにおける標準物質，特に認証標準物質の適正な使い方について説明。様々な用途に対する各種の標準物質の主な要件についても説明。
+  content: この規格は，標準物質生産者（RMPs）が標準物質（RM）に附属させる，明瞭で簡潔な文書の作成を支援することを意図し，製品情報シート及びRM認証書の作成のときに考慮する必須事項，推奨事項及びその他の事項について規定する。RMの使用者及びその他の利害関係者が，RM又は認証標準物質（CRM）の適切性を確認するときに，この情報を使用することが可能である。
 status:
   stage:
     content: valid
@@ -86,4 +84,4 @@ ext:
   structuredidentifier:
     type: JIS
     project_number:
-      content: Q0033
+      content: Q0031

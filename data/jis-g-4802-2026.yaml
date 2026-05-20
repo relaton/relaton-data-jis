@@ -1,25 +1,27 @@
 ---
-id: JISA55282021
+id: JISG48022026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 熱間圧延鋼矢板
+  content: ばね用冷間圧延鋼帯
 - language: en
   script: Latn
-  content: Hot rolled steel sheet piles
+  content: Cold-reduced steel strip for springs
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5528%3A2021
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+4802%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_04802_000_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS A 5528:2021
+- content: JIS G 4802:2026
   type: JIS
   primary: true
-docnumber: A5528
+docnumber: G4802
 date:
 - type: issued
-  at: '2021-02-22'
+  at: '2026-05-20'
 contributor:
 - role:
   - type: authorizer
@@ -56,14 +58,12 @@ contributor:
       type: technical-committee
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 abstract:
 - language: ja
   script: Jpan
-  content: 土留め，締切り，構造物の基礎などに使用する熱間圧延鋼矢板について規定。
+  content: この規格は，主として薄板ばね及びぜんまいばねに使用される鋼帯及び鋼帯からせん断した鋼板について規定する。
 status:
   stage:
     content: valid
@@ -73,11 +73,13 @@ ext:
     content: japanese-industrial-standard
   flavor: jis
   ics:
-  - code: 77.140.70
-    text: Steel profiles
-  - code: '93.020'
-    text: Earthworks. Excavations. Foundation construction. Underground works
+  - code: 77.140.10
+    text: Heat-treatable steels
+  - code: 77.140.25
+    text: Spring steels
+  - code: 77.140.50
+    text: Flat steel products and semi-products
   structuredidentifier:
     type: JIS
     project_number:
-      content: A5528
+      content: G4802

@@ -1,29 +1,28 @@
 ---
-id: JISC61912019
+id: JISC5964132026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 波長可変光源試験方法
+  content: 光ファイバコネクタかん合標準－第１３部：ＦＣ－ＰＣ形光ファイバコネクタ類（Ｆ０１形）
 - language: en
   script: Latn
-  content: Test methods of tuneable laser sources
+  content: 'Fiber optic connector interfaces-Part 13: Type FC-PC connector family
+    (F01 Type)'
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6191%3A2019
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5964-13%3A2026
 - type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_06191_000_000_2019_j_ed10_ch.pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05964_013_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS C 6191:2019
+- content: JIS C 5964-13:2026
   type: JIS
   primary: true
-docnumber: C6191
+docnumber: C5964
 date:
 - type: issued
-  at: '2019-03-20'
-- type: confirmed
-  at: '2023-06-20'
+  at: '2026-05-20'
 contributor:
 - role:
   - type: authorizer
@@ -74,7 +73,7 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: 波長可変光源の波長及び出力光パワーについて事前校正した，光波長計（光周波数計を含む。），光パワーメータなどの基準計測器による安定かつ再現性のある校正手順について規定。
+  content: この規格は，FC-PC形光ファイバコネクタ類のかん合構造及び互換寸法について規定する。
 status:
   stage:
     content: valid
@@ -84,11 +83,9 @@ ext:
     content: japanese-industrial-standard
   flavor: jis
   ics:
-  - code: '31.260'
-    text: Optoelectronics. Laser equipment
-  - code: 33.180.01
-    text: Fibre optic systems in general
+  - code: 33.180.20
+    text: Fibre optic interconnecting devices
   structuredidentifier:
     type: JIS
     project_number:
-      content: C6191
+      content: C5964

@@ -1,28 +1,27 @@
 ---
-id: JISQ00312018
+id: JISQ00332026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 標準物質―認証書，ラベル及び附属文書の内容
+  content: 標準物質－使用上の要求事項及び推奨事項
 - language: en
   script: Latn
-  content: Reference materials -- Contents of certificates, labels and accompanying
-    documentation
+  content: Reference materials-Requirements and recommendations for use
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+0031%3A2018
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+0033%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_00033_000_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS Q 0031:2018
+- content: JIS Q 0033:2026
   type: JIS
   primary: true
-docnumber: Q0031
+docnumber: Q0033
 date:
 - type: issued
-  at: '2018-03-20'
-- type: confirmed
-  at: '2022-06-20'
+  at: '2026-05-20'
 contributor:
 - role:
   - type: authorizer
@@ -70,7 +69,7 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: 標準物質生産者が標準物質に添付する，明瞭で簡潔な文書の作成を支援することを意図している。この規格はまた，標準物質の容器に貼付するラベルの最小限の要求事項を含む。
+  content: "この規格は，測定プロセスにおける標準物質（RM），特に認証標準物質（CRM）の適正な使用方法について規定し，また，指針を示す。これらの使用方法には次が含まれる。\n－\t測定方法の精度及び真度の評価\n－\t品質管理\n－\t物質に対する値の付与\n－\t校正\n－\t取決めによる目盛の確立"
 status:
   stage:
     content: valid
@@ -85,4 +84,4 @@ ext:
   structuredidentifier:
     type: JIS
     project_number:
-      content: Q0031
+      content: Q0033

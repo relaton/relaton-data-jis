@@ -1,25 +1,28 @@
 ---
-id: JISG34542017AMENDMENT12019
+id: JISG122012026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 圧力配管用炭素鋼鋼管（追補１）
+  content: 鉄及び鋼－タングステン定量方法－第１部：シンコニン沈殿分離酸化タングステン（ＶＩ）重量法
 - language: en
   script: Latn
-  content: Carbon steel pipes for pressure service (Amendment 1)
+  content: 'Iron and steel-Determination of tungsten-Part 1: Tungsten(VI) oxide gravimetric
+    method after cinchonine complex precipitation separation'
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3454%3A2017%2FAMENDMENT+1%3A2019
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+1220-1%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_01220_001_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS G 3454:2017/AMENDMENT 1:2019
+- content: JIS G 1220-1:2026
   type: JIS
   primary: true
-docnumber: G3454
+docnumber: G1220
 date:
 - type: issued
-  at: '2019-03-20'
+  at: '2026-05-20'
 contributor:
 - role:
   - type: authorizer
@@ -56,24 +59,25 @@ contributor:
       type: technical-committee
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，鉄及び鋼中のタングステンの定量方法のうち，シンコニン沈殿分離酸化タングステン（VI）重量法について規定する。この方法は，タングステン含有率（質量分率）0.5
+    %以上20 %以下の定量に適用する。
 status:
   stage:
     content: valid
 ext:
   schema_version: v1.0.2
   doctype:
-    content: amendment
+    content: japanese-industrial-standard
   flavor: jis
   ics:
-  - code: 23.040.10
-    text: Iron and steel pipes
-  - code: 77.140.75
-    text: Steel pipes and tubes for specific use
+  - code: 77.080.01
+    text: Ferrous metals in general
   structuredidentifier:
     type: JIS
     project_number:
-      content: G3454
+      content: G1220

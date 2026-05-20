@@ -1,30 +1,28 @@
 ---
-id: JISX05102018
+id: JISX05102026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 情報技術―自動認識及びデータ取得技術―ＱＲコード　バーコードシンボル体系仕様
+  content: 情報技術－自動認識及びデータ取得技術－ＱＲコード　バーコードシンボル体系仕様
 - language: en
   script: Latn
-  content: Information technology -- Automatic identification and data capture techniques
-    -- QR Code bar code symbology specification
+  content: Information technology-Automatic identification and data capture techniques-QR
+    Code bar code symbology specification
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0510%3A2018
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0510%3A2026
 - type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00510_000_000_2018_j_ed10_ch.pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00510_000_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS X 0510:2018
+- content: JIS X 0510:2026
   type: JIS
   primary: true
 docnumber: X0510
 date:
 - type: issued
-  at: '2018-01-22'
-- type: confirmed
-  at: '2022-10-20'
+  at: '2026-05-20'
 contributor:
 - role:
   - type: authorizer
@@ -75,7 +73,7 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: ＱＲコードのシンボル体系の特徴，データキャラクタの符号化，シンボルの形式，寸法特性，誤り訂正規則，参照復号アルゴリズム，印刷品質の要件及び利用者が選択可能なアプリケーションパラメタを規定。
+  content: この規格は，QRコードとして知られるシンボル体系の要件である，QRコードのシンボル体系の特性，データキャラクタの符号化，シンボルの形式，寸法特性，誤り訂正規則，参照復号アルゴリズム，印刷品質の要件及び利用者が選択可能なアプリケーションパラメタについて規定する。
 status:
   stage:
     content: valid
@@ -88,8 +86,8 @@ ext:
   - code: 01.080.50
     text: Graphical symbols for use on information technology and telecommunications
       technical drawings and in relevant technical product documentation
-  - code: '35.040'
-    text: Information coding
+  - code: 35.040.50
+    text: Automatic identification and data capture techniques
   structuredidentifier:
     type: JIS
     project_number:

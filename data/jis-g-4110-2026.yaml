@@ -1,29 +1,28 @@
 ---
-id: JISG40532023
+id: JISG41102026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 機械構造用合金鋼鋼材
+  content: 高温圧力容器用高強度クロムモリブデン鋼及びクロムモリブデンバナジウム鋼鋼板
 - language: en
   script: Latn
-  content: Low-alloyed steels for machine structural use
+  content: High strength chromium-molybdenum and chromium-molybdenum-vanadium alloy
+    steel plates for pressure vessels under high-temperature service
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+4053%3A2023
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+4110%3A2026
 - type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_04053_000_000_2023_j_ed10_ch.pdf
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_04053_000_000_2023_e_ed10_ch.pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_04110_000_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS G 4053:2023
+- content: JIS G 4110:2026
   type: JIS
   primary: true
-docnumber: G4053
+docnumber: G4110
 date:
 - type: issued
-  at: '2023-05-22'
+  at: '2026-05-20'
 contributor:
 - role:
   - type: authorizer
@@ -60,14 +59,12 @@ contributor:
       type: technical-committee
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 abstract:
 - language: ja
   script: Jpan
-  content: 熱間圧延，熱間鍛造及び熱間押出によって製造する機械構造用合金鋼鋼材について規定。同一断面形状の鋼材に適用し，通常，更に鍛造，切削などの加工及び熱処理を施して使用される。ただし，鋼管にはこの規格を適用しない。
+  content: この規格は，高温で使用される圧力容器に用いる，高強度のクロムモリブデン鋼及びクロムモリブデンバナジウム鋼の熱間圧延鋼板について規定する。
 status:
   stage:
     content: valid
@@ -77,13 +74,11 @@ ext:
     content: japanese-industrial-standard
   flavor: jis
   ics:
-  - code: 77.140.10
-    text: Heat-treatable steels
-  - code: 77.140.20
-    text: Stainless steels
-  - code: 77.140.70
-    text: Steel profiles
+  - code: 77.140.30
+    text: Steels for pressure purposes
+  - code: 77.140.50
+    text: Flat steel products and semi-products
   structuredidentifier:
     type: JIS
     project_number:
-      content: G4053
+      content: G4110

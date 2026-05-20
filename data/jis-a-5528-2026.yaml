@@ -1,27 +1,25 @@
 ---
-id: JISG34522019
+id: JISA55282026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 配管用炭素鋼鋼管
+  content: 熱間圧延鋼矢板
 - language: en
   script: Latn
-  content: Carbon steel pipes for ordinary piping
+  content: Hot rolled steel sheet piles
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3452%3A2019
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03452_000_000_2019_e_ed10_ch.pdf
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+5528%3A2026
 docidentifier:
-- content: JIS G 3452:2019
+- content: JIS A 5528:2026
   type: JIS
   primary: true
-docnumber: G3452
+docnumber: A5528
 date:
 - type: issued
-  at: '2019-06-20'
+  at: '2026-05-20'
 contributor:
 - role:
   - type: authorizer
@@ -58,14 +56,12 @@ contributor:
       type: technical-committee
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 abstract:
 - language: ja
   script: Jpan
-  content: 使用圧力の比較的低い蒸気，水（上水道用を除く。），油，ガス，空気などの配管に用いる炭素鋼鋼管について規定。外径１０．５ｍｍ～５０８．０ｍｍの管に適用。
+  content: この規格は，土留め，締切り，構造物の基礎などに使用する熱間圧延鋼矢板について規定する。
 status:
   stage:
     content: valid
@@ -75,11 +71,11 @@ ext:
     content: japanese-industrial-standard
   flavor: jis
   ics:
-  - code: 23.040.10
-    text: Iron and steel pipes
-  - code: 77.140.75
-    text: Steel pipes and tubes for specific use
+  - code: 77.140.70
+    text: Steel profiles
+  - code: '93.020'
+    text: Earthworks. Excavations. Foundation construction. Underground works
   structuredidentifier:
     type: JIS
     project_number:
-      content: G3452
+      content: A5528

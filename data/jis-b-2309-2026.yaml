@@ -15,6 +15,8 @@ source:
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+2309%3A2026
 - type: pdf
   content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02309_000_000_2026_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_02309_000_000_2026_e_ed10_ch.pdf
 docidentifier:
 - content: JIS B 2309:2026
   type: JIS
@@ -68,8 +70,10 @@ contributor:
       type: technical-committee
 language:
 - ja
+- en
 script:
 - Jpan
+- Latn
 abstract:
 - language: ja
   script: Jpan

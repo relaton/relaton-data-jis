@@ -1,29 +1,27 @@
 ---
-id: JISG34542017
+id: JISG40532026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 圧力配管用炭素鋼鋼管
+  content: 機械構造用合金鋼鋼材
 - language: en
   script: Latn
-  content: Carbon steel pipes for pressure service
+  content: Low-alloyed steels for machine structural use
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+3454%3A2017
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+4053%3A2026
 - type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03454_000_000_2017_j_ed10_ch.pdf
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_03454_000_000_2017_e_ed10_i4.pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_g_04053_000_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS G 3454:2017
+- content: JIS G 4053:2026
   type: JIS
   primary: true
-docnumber: G3454
+docnumber: G4053
 date:
 - type: issued
-  at: '2017-08-21'
+  at: '2026-05-20'
 contributor:
 - role:
   - type: authorizer
@@ -60,14 +58,12 @@ contributor:
       type: technical-committee
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 abstract:
 - language: ja
   script: Jpan
-  content: ３５０℃程度以下で使用する圧力配管に用いる炭素鋼鋼管について規定。高圧配管用炭素鋼鋼管には，適用しない。この規格は，外径１０．５ｍｍ（呼び径６Ａ又は１／８Ｂ）～６６０．４ｍｍ（呼び径６５０Ａ又は２６Ｂ）の管に適用。
+  content: この規格は，主として，熱間圧延，熱間鍛造及び熱間押出によって製造する機械構造用合金鋼鋼材について規定する。この規格は，同一断面形状の鋼材に適用し，通常，更に鍛造，切削などの加工及び熱処理を施して使用される。ただし，鋼管にはこの規格を適用しない。
 status:
   stage:
     content: valid
@@ -77,11 +73,13 @@ ext:
     content: japanese-industrial-standard
   flavor: jis
   ics:
-  - code: 23.040.10
-    text: Iron and steel pipes
-  - code: 77.140.75
-    text: Steel pipes and tubes for specific use
+  - code: 77.140.10
+    text: Heat-treatable steels
+  - code: 77.140.20
+    text: Stainless steels
+  - code: 77.140.70
+    text: Steel profiles
   structuredidentifier:
     type: JIS
     project_number:
-      content: G3454
+      content: G4053

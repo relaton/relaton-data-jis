@@ -15,6 +15,8 @@ source:
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+2812%3A2025
 - type: pdf
   content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02812_000_000_2025_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_02812_000_000_2025_e_ed10_ch.pdf
 docidentifier:
 - content: JIS C 2812:2025
   type: JIS
@@ -41,7 +43,8 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           日本電気制御技術工業会"
+        \                                                                                           日本電気制御技術工業会
+        \                                               \r\n                                                                                            一般社団法人　日本電気制御技術工業会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -52,7 +55,8 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           日本電気制御技術工業会"
+        \                                                                                           日本電気制御技術工業会
+        \                                               \r\n                                                                                            一般社団法人　日本電気制御技術工業会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -64,12 +68,15 @@ contributor:
     subdivision:
     - name:
       - content: "一般財団法人　日本規格協会                                                \r\n
-          \                                                                                           日本電気制御技術工業会"
+          \                                                                                           日本電気制御技術工業会
+          \                                               \r\n                                                                                            一般社団法人　日本電気制御技術工業会"
       type: technical-committee
 language:
 - ja
+- en
 script:
 - Jpan
+- Latn
 abstract:
 - language: ja
   script: Jpan

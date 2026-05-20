@@ -1,29 +1,27 @@
 ---
-id: JISC592012015
+id: JISC613002442026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 光伝送用パワー制御受動部品―第１部：通則
+  content: 光ファイバ接続デバイス及び光受動部品－基本試験及び測定手順－第２－４４部：試験－光ファイバクランプ強度－繰返し曲げ
 - language: en
   script: Latn
-  content: 'Fiber optic passive power control devices -- Part 1: Generic specification'
+  content: 'Fiber optic interconnecting devices and passive components-Basic test
+    and measurement procedures-Part 2-44: Tests-Flexing of the strain relief of fiber
+    optic devices and components'
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5920-1%3A2015
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05920_001_000_2015_j_ed10_ch.pdf
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61300-2-44%3A2026
 docidentifier:
-- content: JIS C 5920-1:2015
+- content: JIS C 61300-2-44:2026
   type: JIS
   primary: true
-docnumber: C5920
+docnumber: C61300
 date:
 - type: issued
-  at: '2015-11-20'
-- type: confirmed
-  at: '2025-06-20'
+  at: '2026-05-20'
 contributor:
 - role:
   - type: authorizer
@@ -74,7 +72,7 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: 光ファイバを用いた光伝送に使用するパワー制御受動部品の通則であり，用語，分類などの一般的な共通事項について規定。
+  content: この規格は，光ファイバ接続デバイス及び光受動部品の光ファイバクランプ強度試験のうち，繰返し曲げについて規定する。この試験の目的は，一般的な使用環境下で耐用年数中に発生し得る繰返し曲げの影響を模擬することである。この試験は，単心の光ファイバ素線，光ファイバ心線及び光ファイバコード並びに2心以上の光ファイバに適用する。
 status:
   stage:
     content: valid
@@ -89,4 +87,4 @@ ext:
   structuredidentifier:
     type: JIS
     project_number:
-      content: C5920
+      content: C61300
