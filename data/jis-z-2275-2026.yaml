@@ -1,29 +1,27 @@
 ---
-id: JISB01162020
+id: JISZ22752026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: パッキン及びガスケット用語
+  content: 金属平板の平面曲げ疲労試験方法
 - language: en
   script: Latn
-  content: Glossary of terms for packings and gaskets
+  content: Method of plane bending fatigue testing of metallic plates
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0116%3A2020
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+2275%3A2026
 - type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00116_000_000_2020_j_ed10_ch.pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_02275_000_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS B 0116:2020
+- content: JIS Z 2275:2026
   type: JIS
   primary: true
-docnumber: B0116
+docnumber: Z2275
 date:
 - type: issued
-  at: '2020-08-20'
-- type: confirmed
-  at: '2025-10-20'
+  at: '2026-06-22'
 contributor:
 - role:
   - type: authorizer
@@ -42,7 +40,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本高圧力技術協会"
+        \                                                                                           公益社団法人　日本材料学会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -53,7 +51,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本高圧力技術協会"
+        \                                                                                           公益社団法人　日本材料学会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -65,7 +63,7 @@ contributor:
     subdivision:
     - name:
       - content: "一般財団法人　日本規格協会                                                \r\n
-          \                                                                                           一般社団法人　日本高圧力技術協会"
+          \                                                                                           公益社団法人　日本材料学会"
       type: technical-committee
 language:
 - ja
@@ -74,7 +72,7 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: パッキン及びガスケットの種類及び名称に関する用語，並びにそれらに関する技術用語について規定。
+  content: この規格は，意図的に応力集中を導入することなく，室温（理想的には10℃～35℃）において，金属試験片に対して一定振幅のモーメント，試験力又は変位を制御した試験機によって，平面曲げ疲労試験を実施するための条件について規定する。平面曲げ疲労試験の目的は，硬さ及び微視組織が与えられた材料の，様々な応力比における，負荷応力と破損までの繰返し数との関係などの情報を提供することである。
 status:
   stage:
     content: valid
@@ -84,11 +82,9 @@ ext:
     content: japanese-industrial-standard
   flavor: jis
   ics:
-  - code: 01.040.21
-    text: Mechanical systems and components for general use (Vocabularies)
-  - code: '21.140'
-    text: Seals, glands
+  - code: 77.040.10
+    text: Mechanical testing of metals
   structuredidentifier:
     type: JIS
     project_number:
-      content: B0116
+      content: Z2275

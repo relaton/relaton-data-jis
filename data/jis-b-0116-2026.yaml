@@ -1,29 +1,27 @@
 ---
-id: JISX05072004
+id: JISB01162026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: バーコードシンボル－ＥＡＮ／ＵＰＣ－基本仕様
+  content: パッキン及びガスケット用語
 - language: en
   script: Latn
-  content: Bar code symbology -- EAN/UPC -- Basic specification
+  content: Glossary of terms for packings and gaskets
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0507%3A2004
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0116%3A2026
 - type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00507_000_000_2004_j_ed10_ch.pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00116_000_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS X 0507:2004
+- content: JIS B 0116:2026
   type: JIS
   primary: true
-docnumber: X0507
+docnumber: B0116
 date:
 - type: issued
-  at: '2004-04-01'
-- type: confirmed
-  at: '2024-10-21'
+  at: '2026-06-22'
 contributor:
 - role:
   - type: authorizer
@@ -42,7 +40,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般財団法人　流通システム開発センター"
+        \                                                                                           一般社団法人　日本高圧力技術協会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -53,7 +51,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般財団法人　流通システム開発センター"
+        \                                                                                           一般社団法人　日本高圧力技術協会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -65,7 +63,7 @@ contributor:
     subdivision:
     - name:
       - content: "一般財団法人　日本規格協会                                                \r\n
-          \                                                                                           一般財団法人　流通システム開発センター"
+          \                                                                                           一般社団法人　日本高圧力技術協会"
       type: technical-committee
 language:
 - ja
@@ -74,7 +72,7 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: ＥＡＮ／ＵＰＣシンボル体系のデータキャラクタの符号化，シンボル形式，寸法，試験仕様及び参照復号アルゴリズムを含む要件について規定。
+  content: この規格は，パッキン及びガスケットの種類及び名称に関する用語，並びにそれらに関する技術用語について規定する。
 status:
   stage:
     content: valid
@@ -84,12 +82,11 @@ ext:
     content: japanese-industrial-standard
   flavor: jis
   ics:
-  - code: 01.080.50
-    text: Graphical symbols for use on information technology and telecommunications
-      technical drawings and in relevant technical product documentation
-  - code: '35.040'
-    text: Information coding
+  - code: 01.040.21
+    text: Mechanical systems and components for general use (Vocabularies)
+  - code: '21.140'
+    text: Seals, glands
   structuredidentifier:
     type: JIS
     project_number:
-      content: X0507
+      content: B0116

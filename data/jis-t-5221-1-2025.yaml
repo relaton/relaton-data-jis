@@ -14,6 +14,8 @@ source:
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+T+5221-1%3A2025
 - type: pdf
   content: https://webdesk.jsa.or.jp/preview/pre_jis_t_05221_001_000_2025_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_t_05221_001_000_2025_e_ed10_ch.pdf
 docidentifier:
 - content: JIS T 5221-1:2025
   type: JIS
@@ -67,8 +69,10 @@ contributor:
       type: technical-committee
 language:
 - ja
+- en
 script:
 - Jpan
+- Latn
 abstract:
 - language: ja
   script: Jpan

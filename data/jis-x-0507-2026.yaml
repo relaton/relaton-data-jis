@@ -1,29 +1,27 @@
 ---
-id: JISX05092012
+id: JISX05072026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 情報技術―自動認識及びデータ取得技術―バーコードシンボル体系仕様―ＧＳ１データバー
+  content: 情報技術－自動認識及びデータ取得技術－ＥＡＮ／ＵＰＣバーコードシンボル体系仕様
 - language: en
   script: Latn
-  content: Information technology -- Automatic identification and data capture techniques
-    -- bar code symbology specification -- GS1 DataBar
+  content: Information technology-Automatic identification and data capture techniques-EAN/UPC
+    bar code symbology specification
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0509%3A2012
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0507%3A2026
 - type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00509_000_000_2012_j_ed10_ch.pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_00507_000_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS X 0509:2012
+- content: JIS X 0507:2026
   type: JIS
   primary: true
-docnumber: X0509
+docnumber: X0507
 date:
 - type: issued
-  at: '2012-02-20'
-- type: confirmed
   at: '2026-06-22'
 contributor:
 - role:
@@ -43,7 +41,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本自動認識システム協会"
+        \                                                                                           一般財団法人　流通システム開発センター"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -54,7 +52,7 @@ contributor:
     - language: ja
       script: Jpan
       content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本自動認識システム協会"
+        \                                                                                           一般財団法人　流通システム開発センター"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -66,7 +64,7 @@ contributor:
     subdivision:
     - name:
       - content: "一般財団法人　日本規格協会                                                \r\n
-          \                                                                                           一般社団法人　日本自動認識システム協会"
+          \                                                                                           一般財団法人　流通システム開発センター"
       type: technical-committee
 language:
 - ja
@@ -75,7 +73,7 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: ＧＳ１データバーシンボル体系ファミリの要件を規定。
+  content: この規格は，EAN/UPCとして知られるシンボル体系の要件について規定する。この規格は，EAN/UPCシンボル体系の特性，データキャラクタの符号化，寸法，許容値，参照復号アルゴリズム及びアプリケーションで定めるパラメタを規定する。EAN/UPCシンボルのシンボル体系識別子の先頭の文字列を規定する。
 status:
   stage:
     content: valid
@@ -93,4 +91,4 @@ ext:
   structuredidentifier:
     type: JIS
     project_number:
-      content: X0509
+      content: X0507
