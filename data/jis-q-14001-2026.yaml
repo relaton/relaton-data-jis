@@ -1,29 +1,25 @@
 ---
-id: JISQ140012015
+id: JISQ140012026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 環境マネジメントシステム―要求事項及び利用の手引
+  content: 環境マネジメントシステム－要求事項及び利用の手引
 - language: en
   script: Latn
-  content: Environmental management systems -- Requirements with guidance for use
+  content: Environmental management systems-Requirements with guidance for use
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+14001%3A2015
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_q_14001_000_000_2015_j_ed20_ch.pdf
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+14001%3A2026
 docidentifier:
-- content: JIS Q 14001:2015
+- content: JIS Q 14001:2026
   type: JIS
   primary: true
 docnumber: Q14001
 date:
 - type: issued
-  at: '2015-11-20'
-- type: confirmed
-  at: '2020-06-22'
+  at: '2026-08-20'
 contributor:
 - role:
   - type: authorizer
@@ -64,10 +60,14 @@ contributor:
     - name:
       - content: 一般財団法人　日本規格協会
       type: technical-committee
+language:
+- ja
+script:
+- Jpan
 abstract:
 - language: ja
   script: Jpan
-  content: 組織が環境パフォーマンスを向上させるために用いることができる環境マネジメントシステムの要求事項について規定。
+  content: この規格は，組織が環境パフォーマンスを向上させるために用いることができる環境マネジメントシステムの要求事項について規定する。この規格は，持続可能性の“環境の柱”に寄与するような体系的な方法で組織の環境責任をマネジメントしようとする組織によって用いられることを意図している。
 status:
   stage:
     content: valid
@@ -77,6 +77,8 @@ ext:
     content: japanese-industrial-standard
   flavor: jis
   ics:
+  - code: 03.100.70
+    text: Management systems
   - code: 13.020.10
     text: Environmental management
   structuredidentifier:

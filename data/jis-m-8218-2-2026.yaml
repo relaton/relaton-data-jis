@@ -1,29 +1,28 @@
 ---
-id: JISM82181997
+id: JISM821822026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 鉄鉱石―銅定量方法
+  content: 鉄鉱石－銅定量方法－第２部：原子吸光分析法
 - language: en
   script: Latn
-  content: Iron ores -- Methods for determination of copper content
+  content: 'Iron ores-Determination of copper-Part 2: Flame atomic absorption spectrometric
+    method'
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8218%3A1997
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8218-2%3A2026
 - type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08218_000_000_1997_j_pr10_i4.pdf
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08218_000_000_1997_e_pr10_i4.pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08218_002_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS M 8218:1997
+- content: JIS M 8218-2:2026
   type: JIS
   primary: true
 docnumber: M8218
 date:
 - type: issued
-  at: '1997-08-31'
+  at: '2026-07-21'
 contributor:
 - role:
   - type: authorizer
@@ -58,13 +57,19 @@ contributor:
     - name:
       - content: 一般社団法人　日本鉄鋼連盟
       type: technical-committee
+language:
+- ja
+script:
+- Jpan
 abstract:
 - language: ja
   script: Jpan
-  content: 鉄鉱石中の銅定量方法について規定。
+  content: |-
+    この規格は，鉄鉱石中の銅定量方法のうち，原子吸光分析法について規定する。
+    この方法は，銅含有率（質量分率）0.001 %以上0.8 %以下の定量に適用する。
 status:
   stage:
-    content: withdrawn
+    content: valid
 ext:
   schema_version: v1.0.2
   doctype:

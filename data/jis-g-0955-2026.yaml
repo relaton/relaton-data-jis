@@ -1,0 +1,80 @@
+---
+id: JISG09552026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 鋼板に対する鋼製剛飛来物衝突における貫通限界速度及び貫通限界板厚の推定
+- language: en
+  script: Latn
+  content: Estimation of the ballistic limit velocity and the limit thickness of steel
+    plate for impact with steel rigid flying object
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+0955%3A2026
+docidentifier:
+- content: JIS G 0955:2026
+  type: JIS
+  primary: true
+docnumber: G0955
+date:
+- type: issued
+  at: '2026-07-21'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本高圧力技術協会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本高圧力技術協会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本高圧力技術協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，支持部の影響を受けない条件下で，鋼製剛飛来物が鋼板に衝突する際に，貫通が生じない飛来物の最大速度（貫通限界速度）及び貫通を生じないために必要となる最小板厚（貫通限界板厚）の推定について規定する。ただし，個々の規格，又はガイドラインなどで貫通限界速度，又は貫通限界板厚の推定が規定されている場合には，この規格を適用しない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 77.140.50
+    text: Flat steel products and semi-products
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: G0955

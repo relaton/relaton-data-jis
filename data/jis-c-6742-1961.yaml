@@ -1,29 +1,21 @@
 ---
-id: JISM82291997
+id: JISC67421961
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 鉄鉱石―鉛定量方法
+  content: ＪＹ－６０－１８形水晶振動子
 - language: en
   script: Latn
-  content: Iron ores -- Method for determination of lead content
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8229%3A1997
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_m_08229_000_000_1997_e_pr10_i4.pdf
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6742%3A1961
 docidentifier:
-- content: JIS M 8229:1997
+- content: JIS C 6742:1961
   type: JIS
   primary: true
-docnumber: M8229
-date:
-- type: issued
-  at: '1997-08-31'
-- type: confirmed
-  at: '2022-06-20'
+docnumber: C6742
 contributor:
 - role:
   - type: authorizer
@@ -41,14 +33,12 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: 一般社団法人　日本鉄鋼連盟
 - role:
   - type: publisher
   organization:
     name:
     - language: ja
       script: Jpan
-      content: 一般社団法人　日本鉄鋼連盟
 - role:
   - type: author
     description:
@@ -56,30 +46,16 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: 一般社団法人　日本鉄鋼連盟
       type: technical-committee
-language:
-- ja
-- en
-script:
-- Jpan
-- Latn
-abstract:
-- language: ja
-  script: Jpan
-  content: 鉄鉱石中の鉛定量方法について規定。
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
   schema_version: v1.0.2
   doctype:
     content: japanese-industrial-standard
   flavor: jis
-  ics:
-  - code: 73.060.10
-    text: Iron ores
   structuredidentifier:
     type: JIS
     project_number:
-      content: M8229
+      content: C6742

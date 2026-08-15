@@ -1,27 +1,26 @@
 ---
-id: JISM87172017
+id: JISM822712026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 鉄鉱石―密度試験方法
+  content: 鉄鉱石－すず定量方法－第１部：よう化物抽出分離フェニルフルオロン吸光光度法
 - language: en
   script: Latn
-  content: Iron ores -- Determination of density
+  content: 'Iron ores-Determination of tin-Part 1: Phenylfluorone spectrophotometric
+    method after iodide extraction'
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8717%3A2017
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8227-1%3A2026
 docidentifier:
-- content: JIS M 8717:2017
+- content: JIS M 8227-1:2026
   type: JIS
   primary: true
-docnumber: M8717
+docnumber: M8227
 date:
 - type: issued
-  at: '2017-03-21'
-- type: confirmed
-  at: '2021-06-21'
+  at: '2026-07-21'
 contributor:
 - role:
   - type: authorizer
@@ -63,7 +62,9 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: 鉄鉱石の密度の試験方法について規定。　
+  content: |-
+    この規格は，鉄鉱石中のすず定量方法のうち，よう化物抽出分離フェニルフルオロン吸光光度法について規定する。
+    この方法は，すず含有率（質量分率）0.01 %以上0.10 %以下の定量に適用する。
 status:
   stage:
     content: valid
@@ -78,4 +79,4 @@ ext:
   structuredidentifier:
     type: JIS
     project_number:
-      content: M8717
+      content: M8227

@@ -1,26 +1,26 @@
 ---
-id: JISK00941994AMENDMENT12026
+id: JISM82292026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 工業用水・工場排水の試料採取方法（追補１）
+  content: 鉄鉱石－鉛定量方法－鉄抽出分離原子吸光分析法
 - language: en
   script: Latn
-  content: Sampling methods for industrial water and industrial wastewater (Amendment
-    1)
+  content: Iron ores-Determination of lead-Flame atomic absorption spectrometric method
+    after separation of iron
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0094%3A1994%2FAMENDMENT+1%3A2026
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+M+8229%3A2026
 docidentifier:
-- content: JIS K 0094:1994/AMENDMENT 1:2026
+- content: JIS M 8229:2026
   type: JIS
   primary: true
-docnumber: K0094
+docnumber: M8229
 date:
 - type: issued
-  at: '2026-03-23'
+  at: '2026-07-21'
 contributor:
 - role:
   - type: authorizer
@@ -38,14 +38,14 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: 一般社団法人　産業環境管理協会
+      content: 一般社団法人　日本鉄鋼連盟
 - role:
   - type: publisher
   organization:
     name:
     - language: ja
       script: Jpan
-      content: 一般社団法人　産業環境管理協会
+      content: 一般社団法人　日本鉄鋼連盟
 - role:
   - type: author
     description:
@@ -53,28 +53,30 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: 一般社団法人　産業環境管理協会
+      - content: 一般社団法人　日本鉄鋼連盟
       type: technical-committee
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，鉄鉱石中の鉛定量方法である，鉄抽出分離原子吸光分析法について規定する。
+    この方法は，鉛含有率（質量分率）0.001 %以上0.5 %以下の定量に適用する。
 status:
   stage:
     content: valid
 ext:
   schema_version: v1.0.2
   doctype:
-    content: amendment
+    content: japanese-industrial-standard
   flavor: jis
   ics:
-  - code: 13.060.25
-    text: Water for industrial use
-  - code: 13.060.30
-    text: Sewage water
+  - code: 73.060.10
+    text: Iron ores
   structuredidentifier:
     type: JIS
     project_number:
-      content: K0094
+      content: M8229

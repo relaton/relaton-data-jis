@@ -1,26 +1,21 @@
 ---
-id: JISK00941994AMENDMENT12026
+id: JISK87251964
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 工業用水・工場排水の試料採取方法（追補１）
+  content: ｐ－ニトロ塩化ベンジル（試薬）
 - language: en
   script: Latn
-  content: Sampling methods for industrial water and industrial wastewater (Amendment
-    1)
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0094%3A1994%2FAMENDMENT+1%3A2026
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+8725%3A1964
 docidentifier:
-- content: JIS K 0094:1994/AMENDMENT 1:2026
+- content: JIS K 8725:1964
   type: JIS
   primary: true
-docnumber: K0094
-date:
-- type: issued
-  at: '2026-03-23'
+docnumber: K8725
 contributor:
 - role:
   - type: authorizer
@@ -38,14 +33,12 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: 一般社団法人　産業環境管理協会
 - role:
   - type: publisher
   organization:
     name:
     - language: ja
       script: Jpan
-      content: 一般社団法人　産業環境管理協会
 - role:
   - type: author
     description:
@@ -53,28 +46,16 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: 一般社団法人　産業環境管理協会
       type: technical-committee
-language:
-- ja
-- en
-script:
-- Jpan
-- Latn
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
   schema_version: v1.0.2
   doctype:
-    content: amendment
+    content: japanese-industrial-standard
   flavor: jis
-  ics:
-  - code: 13.060.25
-    text: Water for industrial use
-  - code: 13.060.30
-    text: Sewage water
   structuredidentifier:
     type: JIS
     project_number:
-      content: K0094
+      content: K8725
