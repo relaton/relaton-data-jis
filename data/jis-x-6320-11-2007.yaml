@@ -23,8 +23,6 @@ docnumber: X6320
 date:
 - type: issued
   at: '2007-09-20'
-- type: confirmed
-  at: '2021-06-21'
 contributor:
 - role:
   - type: authorizer
@@ -68,17 +66,13 @@ contributor:
       - content: "一般財団法人　日本規格協会                                                \r\n
           \                                                                                           一般社団法人　ビジネス機械・情報システム産業協会"
       type: technical-committee
-language:
-- ja
-script:
-- Jpan
 abstract:
 - language: ja
   script: Jpan
   content: ＩＣカード内のバイオメトリック情報を用いた本人確認で使用される，セキュリティ関連の産業間共通コマンドについて規定。バイオメトリック参照データの運搬媒体及び個人のバイオメトリック照合（カード内マッチング）を実行する機器としてカードを使用するための，データ構造及びデータ利用方式を規定。
 status:
   stage:
-    content: valid
+    content: withdrawn
 ext:
   schema_version: v1.0.2
   doctype:

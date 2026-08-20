@@ -1,0 +1,93 @@
+---
+id: JISB86392026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 全熱交換・換気ユニット－風量，有効換気量，及び熱交換効率の測定方法
+- language: en
+  script: Latn
+  content: Heat recovery ventilators and energy recovery ventilators-Method of test
+    for performance of flowrate, net supply airflow and gross effectiveness
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+8639%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_08639_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 8639:2026
+  type: JIS
+  primary: true
+docnumber: B8639
+date:
+- type: issued
+  at: '2026-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本冷凍空調工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本冷凍空調工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本冷凍空調工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，JIS B 8628で規定する全熱交換・換気ユニットの換気関連及びエネルギー関連の性能である風量，有効換気量，及び熱交換効率の測定方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '23.120'
+    text: Ventilators. Fans. Air-conditioners
+  - code: '27.080'
+    text: Heat pumps
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B8639

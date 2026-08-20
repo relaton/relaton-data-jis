@@ -1,0 +1,93 @@
+---
+id: JISC510192026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 電子機器用固定コンデンサ－第９部：品種別通則：固定磁器コンデンサ種類２
+- language: en
+  script: Latn
+  content: 'Fixed capacitors for use in electronic equipment-Part 9: Sectional specification-Fixed
+    capacitors of ceramic dielectric, Class 2'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5101-9%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05101_009_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 5101-9:2026
+  type: JIS
+  primary: true
+docnumber: C5101
+date:
+- type: issued
+  at: '2026-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，JIS C 5101-1を品目別通則とする品種別通則で，電子機器の高誘電率用途に用いる，固定磁器コンデンサ種類2について規定する。また，この種類2のリードなしのコンデンサにも適用するが，表面実装用固定積層磁器コンデンサ種類2（高誘電率系）は，JIS C 5101-22を適用する。
+    電磁障害用防止用固定コンデンサは，この規格を適用しないでJIS C 5101-14を適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.060.20
+    text: Ceramic and mica capacitors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5101

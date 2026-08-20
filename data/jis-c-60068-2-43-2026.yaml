@@ -1,0 +1,91 @@
+---
+id: JISC600682432026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 環境試験方法－電気・電子－第２－４３部：接点及び接続部の硫化水素試験方法（試験記号Ｋｄ）
+- language: en
+  script: Latn
+  content: 'Environmental testing-Part 2-43: Tests-Test Kd: Hydrogen sulphide test
+    for contacts and connections'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60068-2-43%3A2026
+docidentifier:
+- content: JIS C 60068-2-43:2026
+  type: JIS
+  primary: true
+docnumber: C60068
+date:
+- type: issued
+  at: '2026-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，接点及び接続部に用いる銀及び銀合金の腐食の影響を評価するための加速試験方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '19.040'
+    text: Environmental testing
+  - code: '19.080'
+    text: Electrical and electronic testing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C60068

@@ -1,0 +1,93 @@
+---
+id: JISC5101222026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 電子機器用固定コンデンサ－第２２部：品種別通則：表面実装用固定積層磁器コンデンサ種類２
+- language: en
+  script: Latn
+  content: 'Fixed capacitors for use in electronic equipment-Part 22: Sectional specification-Fixed
+    surface mount multilayer capacitors of ceramic dielectric, Class 2'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+5101-22%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_05101_022_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 5101-22:2026
+  type: JIS
+  primary: true
+docnumber: C5101
+date:
+- type: issued
+  at: '2026-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　電子情報技術産業協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　電子情報技術産業協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，JIS C 5101-1を品目別通則とする品種別通則で，電子機器用の外装なし固定積層磁器コンデンサ種類2の表面実装用積層コンデンサに適用する。この規格に規定するコンデンサは，金属化電極又ははんだ付け用板端子をもち，プリント基板又はハイブリッド回路用基板に直接搭載することを意図している。
+    電磁障害防止固定コンデンサは，この規格を適用せず，JIS C 5101-14を適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 31.060.10
+    text: Fixed capacitors
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C5101

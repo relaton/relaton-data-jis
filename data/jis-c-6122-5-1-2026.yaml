@@ -1,0 +1,89 @@
+---
+id: JISC6122512026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 光増幅器－測定方法－第５－１部：光反射率パラメータ－光スペクトラムアナライザ法
+- language: en
+  script: Latn
+  content: 'Optical amplifiers-Test methods-Part 5-1: Reflectance parameters-Optical
+    spectrum analyzer method'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+6122-5-1%3A2026
+docidentifier:
+- content: JIS C 6122-5-1:2026
+  type: JIS
+  primary: true
+docnumber: C6122
+date:
+- type: issued
+  at: '2026-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般財団法人　光産業技術振興協会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般財団法人　光産業技術振興協会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，光スペクトラムアナライザを用いた光増幅器の光反射率パラメータの測定方法について規定し，商用化されている光増幅器（OA）及び光増幅器サブシステムに適用する。ここでいうOAには，光ファイバ増幅器（OFA），半導体光増幅器（SOA）及び平面導波路形光増幅器（POWA）を含む。この中で，OFAには希土類添加OFA及びラマン効果を用いたOFAを含む。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 33.180.30
+    text: Optic amplifiers
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C6122

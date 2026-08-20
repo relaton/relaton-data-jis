@@ -1,0 +1,89 @@
+---
+id: JISC610322026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 電気機械器具の外郭による人体及び内部機器の保護－検査プローブ
+- language: en
+  script: Latn
+  content: Protection of persons and equipment by enclosures-Probes for verification
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61032%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61032_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61032:2026
+  type: JIS
+  primary: true
+docnumber: C61032
+date:
+- type: issued
+  at: '2026-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: "この規格は，次の電気機器の外郭による保護を検証するための，検査プローブの詳細及び寸法について規定する。\n－\t外郭内の危険な箇所へ接近することに対する人体の保護\n－\t外部から固形物の侵入に対する外郭内の電気機器の保護"
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.260'
+    text: Protection against electric shock.  Live working
+  - code: '29.020'
+    text: Electrical engineering in general
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61032

@@ -1,0 +1,82 @@
+---
+id: JISC61400312026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 風力発電システム－第３－１部：着床式洋上風車の設計要件
+- language: en
+  script: Latn
+  content: 'Wind energy generation systems-Part 3-1: Design requirements for fixed
+    offshore wind turbines'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+61400-3-1%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_61400_003_001_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 61400-3-1:2026
+  type: JIS
+  primary: true
+docnumber: C61400
+date:
+- type: issued
+  at: '2026-08-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人　日本電機工業会
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般社団法人　日本電機工業会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，着床式洋上風車サイトの外部条件を評価するための追加の要件を規定し，着床式洋上風車の技術的な健全性を確保するために不可欠な設計要件について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '27.180'
+    text: Wind turbine energy systems
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C61400
