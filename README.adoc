@@ -3,3 +3,28 @@
 This repository is used by Relaton-JIS to represent known JIS publications.
 
 Data is stored in Relaton YAML format.
+
+Branch `v2` is the published branch. `crawler.rb` runs daily, uses the JIS
+flavor of the https://github.com/relaton/relaton[relaton] gem to fetch the
+documents, and stores them in the `data` directory.
+
+== Indexes
+
+Two indexes are published. `relaton/support`'s shared `crawler.yml` zips and
+commits both. Nothing in this repository zips.
+
+`index-v2`:: The pubid-keyed index. `Relaton::Jis::DataFetcher` writes it. Each
+row's `:id` is a `Pubid::Jis::Identifier`, serialized to a
+`_type: pubid:jis:*` hash.
+
+`index-v1`:: The legacy index, with plain string ids. The released
+`relaton-jis` gem still reads `index-v1.zip` from this branch. The relaton gem
+stops writing it, so `crawler.rb` builds it from `data/` with
+`build_index_v1.rb`.
+
+Run the specs that guard the build with:
+
+[source,sh]
+----
+bundle exec rspec
+----

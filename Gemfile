@@ -13,4 +13,12 @@ gem "relaton", git: "https://github.com/relaton/relaton.git", branch: "main"
 # pubid 2.x is unpublished; pull the v2 line from main. (The old
 # `rt-new-lutaml-model` pin broke once that branch was deleted upstream —
 # `bundle` exits 11 with "Revision rt-new-lutaml-model does not exist".)
-gem "pubid", git: "https://github.com/metanorma/pubid.git", branch: "main"
+#
+# `pubid/pubid`, not `metanorma/pubid`: the repository was renamed. GitHub still
+# redirects the old path, but only until someone creates a new repository at the
+# old name. The pin would then resolve to a different repository and not fail.
+gem "pubid", git: "https://github.com/pubid/pubid.git", branch: "main"
+
+group :development, :test do
+  gem "rspec", "~> 3.13"
+end
