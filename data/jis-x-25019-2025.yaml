@@ -1,3 +1,4 @@
+---
 id: JISX250192025
 schema_version: v1.5.6
 type: standard
@@ -7,7 +8,8 @@ title:
   content: システム及びソフトウェア技術－システム及びソフトウェア製品の品質要求及び評価（ＳＱｕａＲＥ）－利用時品質モデル
 - language: en
   script: Latn
-  content: Systems and software engineering-Systems and software Quality Requirements and Evaluation (SQuaRE)-Quality-in-use model
+  content: Systems and software engineering-Systems and software Quality Requirements
+    and Evaluation (SQuaRE)-Quality-in-use model
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+25019%3A2025
@@ -38,7 +40,8 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -48,7 +51,8 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -59,7 +63,8 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
       type: technical-committee
 language:
 - ja
@@ -68,7 +73,9 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，製品又はシステムが明示された利用状況で利用される場合に利害関係者に影響を与える可能性のある，三つの特性（更に副特性に細分化される）から構成される利用時品質モデルについて規定する。このモデルは，利用時のコンピュータシステム及び利用時のソフトウェア製品の両方を含む，情報システム及びITサービスシステムの全領域に適用可能である。\nこの規格は，利用時品質を仕様化，測定，評価及び改善するための一組の品質特性を提供する。"
+  content: |-
+    この規格は，製品又はシステムが明示された利用状況で利用される場合に利害関係者に影響を与える可能性のある，三つの特性（更に副特性に細分化される）から構成される利用時品質モデルについて規定する。このモデルは，利用時のコンピュータシステム及び利用時のソフトウェア製品の両方を含む，情報システム及びITサービスシステムの全領域に適用可能である。
+    この規格は，利用時品質を仕様化，測定，評価及び改善するための一組の品質特性を提供する。
 status:
   stage:
     content: valid

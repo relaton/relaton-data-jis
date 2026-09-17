@@ -1,3 +1,4 @@
+---
 id: TRZ00162000
 schema_version: v1.5.6
 type: standard
@@ -7,7 +8,8 @@ title:
   content: 超高真空計測における電極絶縁性の問題及び補正方法
 - language: en
   script: Latn
-  content: Problems on degradation of insulation of electrodes in ultra-high vacuum measurements and compensation method
+  content: Problems on degradation of insulation of electrodes in ultra-high vacuum
+    measurements and compensation method
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+Z+0016%3A2000
@@ -48,7 +50,7 @@ contributor:
     - content: committee
   organization:
     subdivision:
-    - name: null
+    - name:
       type: technical-committee
 abstract:
 - language: ja

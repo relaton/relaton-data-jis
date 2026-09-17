@@ -1,3 +1,4 @@
+---
 id: JISG31942024
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,9 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，熱間圧延によって製造された平鋼の形状，寸法及びその許容差並びに外観及び質量について規定する。\nなお，この規格の適用については，それぞれの製品規格による。"
+  content: |-
+    この規格は，熱間圧延によって製造された平鋼の形状，寸法及びその許容差並びに外観及び質量について規定する。
+    なお，この規格の適用については，それぞれの製品規格による。
 status:
   stage:
     content: valid

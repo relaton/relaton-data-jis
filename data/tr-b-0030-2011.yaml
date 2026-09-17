@@ -1,3 +1,4 @@
+---
 id: TRB00302011
 schema_version: v1.5.6
 type: standard
@@ -7,7 +8,8 @@ title:
   content: 機械類の安全性―安全関連通信システムの使用指針
 - language: en
   script: Latn
-  content: Safety of machinery -- Guidelines for the use of communication systems in safety-related applications
+  content: Safety of machinery -- Guidelines for the use of communication systems
+    in safety-related applications
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+B+0030%3A2011
@@ -38,14 +40,16 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般社団法人　日本機械工業連合会                                                \r\n                                                                                            一般社団法人　日本電気制御機器工業会"
+      content: "一般社団法人　日本機械工業連合会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会"
 - role:
   - type: publisher
   organization:
     name:
     - language: ja
       script: Jpan
-      content: "一般社団法人　日本機械工業連合会                                                \r\n                                                                                            一般社団法人　日本電気制御機器工業会"
+      content: "一般社団法人　日本機械工業連合会                                                \r\n
+        \                                                                                           一般社団法人　日本電気制御機器工業会"
 - role:
   - type: author
     description:
@@ -53,7 +57,8 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "一般社団法人　日本機械工業連合会                                                \r\n                                                                                            一般社団法人　日本電気制御機器工業会"
+      - content: "一般社団法人　日本機械工業連合会                                                \r\n
+          \                                                                                           一般社団法人　日本電気制御機器工業会"
       type: technical-committee
 abstract:
 - language: ja

@@ -1,3 +1,4 @@
+---
 id: JISR18012002
 schema_version: v1.5.6
 type: standard
@@ -7,7 +8,8 @@ title:
   content: 遠赤外ヒータに放射部材として用いられるセラミックスのＦＴＩＲによる分光放射率測定方法
 - language: en
   script: Latn
-  content: Method of measuring spectral emissivity of ceramic radiating materials for infrared heaters by using FTIR
+  content: Method of measuring spectral emissivity of ceramic radiating materials
+    for infrared heaters by using FTIR
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+R+1801%3A2002
@@ -48,7 +50,7 @@ contributor:
     - content: committee
   organization:
     subdivision:
-    - name: null
+    - name:
       type: technical-committee
 abstract:
 - language: ja

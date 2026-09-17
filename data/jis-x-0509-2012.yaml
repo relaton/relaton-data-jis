@@ -1,3 +1,4 @@
+---
 id: JISX05092012
 schema_version: v1.5.6
 type: standard
@@ -7,7 +8,8 @@ title:
   content: 情報技術―自動認識及びデータ取得技術―バーコードシンボル体系仕様―ＧＳ１データバー
 - language: en
   script: Latn
-  content: Information technology -- Automatic identification and data capture techniques -- bar code symbology specification -- GS1 DataBar
+  content: Information technology -- Automatic identification and data capture techniques
+    -- bar code symbology specification -- GS1 DataBar
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+0509%3A2012
@@ -40,7 +42,8 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本自動認識システム協会"
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動認識システム協会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -50,7 +53,8 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本自動認識システム協会"
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本自動認識システム協会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -61,7 +65,8 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本自動認識システム協会"
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本自動認識システム協会"
       type: technical-committee
 language:
 - ja
@@ -81,7 +86,8 @@ ext:
   flavor: jis
   ics:
   - code: 01.080.50
-    text: Graphical symbols for use on information technology and telecommunications technical drawings and in relevant technical product documentation
+    text: Graphical symbols for use on information technology and telecommunications
+      technical drawings and in relevant technical product documentation
   - code: '35.040'
     text: Information coding
   structuredidentifier:

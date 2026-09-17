@@ -1,3 +1,4 @@
+---
 id: JISA02062013
 schema_version: v1.5.6
 type: standard
@@ -7,7 +8,8 @@ title:
   content: 地質図―工学地質図に用いる記号，色，模様，用語及び地層・岩体区分の表示とコード群
 - language: en
   script: Latn
-  content: Geological map -- Symbols, colors, patterns, terms, geological units, and codes for engineering geological maps
+  content: Geological map -- Symbols, colors, patterns, terms, geological units, and
+    codes for engineering geological maps
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+A+0206%3A2013
@@ -40,14 +42,18 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "国立研究開発法人　産業技術総合研究所                                                \r\n                                                                                            一般社団法人　全国地質調査業協会連合会                                                \r\n                                                                                            国立研究開発法人　土木研究所"
+      content: "国立研究開発法人　産業技術総合研究所                                                \r\n
+        \                                                                                           一般社団法人　全国地質調査業協会連合会
+        \                                               \r\n                                                                                            国立研究開発法人　土木研究所"
 - role:
   - type: publisher
   organization:
     name:
     - language: ja
       script: Jpan
-      content: "国立研究開発法人　産業技術総合研究所                                                \r\n                                                                                            一般社団法人　全国地質調査業協会連合会                                                \r\n                                                                                            国立研究開発法人　土木研究所"
+      content: "国立研究開発法人　産業技術総合研究所                                                \r\n
+        \                                                                                           一般社団法人　全国地質調査業協会連合会
+        \                                               \r\n                                                                                            国立研究開発法人　土木研究所"
 - role:
   - type: author
     description:
@@ -55,7 +61,9 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "国立研究開発法人　産業技術総合研究所                                                \r\n                                                                                            一般社団法人　全国地質調査業協会連合会                                                \r\n                                                                                            国立研究開発法人　土木研究所"
+      - content: "国立研究開発法人　産業技術総合研究所                                                \r\n
+          \                                                                                           一般社団法人　全国地質調査業協会連合会
+          \                                               \r\n                                                                                            国立研究開発法人　土木研究所"
       type: technical-committee
 language:
 - ja
@@ -75,7 +83,8 @@ ext:
   flavor: jis
   ics:
   - code: 01.080.30
-    text: Graphical symbols for use on mechanical engineering and construction drawings, diagrams, plans, maps and in relevant technical product documentation
+    text: Graphical symbols for use on mechanical engineering and construction drawings,
+      diagrams, plans, maps and in relevant technical product documentation
   - code: '07.060'
     text: Geology. Meteorology. Hydrology
   structuredidentifier:

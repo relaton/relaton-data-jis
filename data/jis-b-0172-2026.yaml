@@ -1,3 +1,4 @@
+---
 id: JISB01722026
 schema_version: v1.5.6
 type: standard
@@ -38,7 +39,8 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本機械工具工業会"
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本機械工具工業会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -48,7 +50,8 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本機械工具工業会"
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本機械工具工業会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -59,7 +62,8 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本機械工具工業会"
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本機械工具工業会"
       type: technical-committee
 language:
 - ja
@@ -68,7 +72,9 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，主として金属切削用として一般に用いるフライスの呼び方並びに用語及びその定義について規定する。\nなお，フライスは，ミーリングカッタともいう。"
+  content: |-
+    この規格は，主として金属切削用として一般に用いるフライスの呼び方並びに用語及びその定義について規定する。
+    なお，フライスは，ミーリングカッタともいう。
 status:
   stage:
     content: valid

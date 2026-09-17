@@ -1,3 +1,4 @@
+---
 id: TRQ00042000
 schema_version: v1.5.6
 type: standard
@@ -7,7 +8,8 @@ title:
   content: 環境マネジメント　―　ライフサイクルアセスメント　―　目的及び調査範囲の設定並びにインベントリ分析のＪＩＳ　Ｑ　１４０４１に関する適用事例
 - language: en
   script: Latn
-  content: Environmental management -- Life Cycle assessment -- Examples of application of ISO 14041 to goal and scope definition and inventory analysis
+  content: Environmental management -- Life Cycle assessment -- Examples of application
+    of ISO 14041 to goal and scope definition and inventory analysis
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+Q+0004%3A2000
@@ -48,7 +50,7 @@ contributor:
     - content: committee
   organization:
     subdivision:
-    - name: null
+    - name:
       type: technical-committee
 abstract:
 - language: ja

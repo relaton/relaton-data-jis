@@ -1,3 +1,4 @@
+---
 id: TRS00012002
 schema_version: v1.5.6
 type: standard
@@ -7,7 +8,8 @@ title:
   content: 消費生活製品の報知音等の設計指針　―　生活環境音データベース
 - language: en
   script: Latn
-  content: A guideline for determining the acoustic properties of auditory signals used in consumer products -- A database of domestic sounds
+  content: A guideline for determining the acoustic properties of auditory signals
+    used in consumer products -- A database of domestic sounds
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+S+0001%3A2002
@@ -48,7 +50,7 @@ contributor:
     - content: committee
   organization:
     subdivision:
-    - name: null
+    - name:
       type: technical-committee
 abstract:
 - language: ja

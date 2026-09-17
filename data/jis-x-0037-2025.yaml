@@ -1,3 +1,4 @@
+---
 id: JISX00372025
 schema_version: v1.5.6
 type: standard
@@ -38,7 +39,8 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -48,7 +50,8 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　情報処理学会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -59,7 +62,8 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　情報処理学会"
       type: technical-committee
 language:
 - ja
@@ -68,7 +72,9 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，人を認識するバイオメトリクスの分野に関連する概念の体系的記述を確立する。また，この規格は，バイオメトリクスに関する既存の国際規格で使用する変形語を，優先用語と照らし合わせて調整することで，この分野における用語の使用を明確にする。\nこの規格は，情報技術，パターン認識，生物学，数学などからの概念（用語で表現する）を網羅していない。バイオメトリクスでは，このような分野の知識を基礎として使用する。"
+  content: |-
+    この規格は，人を認識するバイオメトリクスの分野に関連する概念の体系的記述を確立する。また，この規格は，バイオメトリクスに関する既存の国際規格で使用する変形語を，優先用語と照らし合わせて調整することで，この分野における用語の使用を明確にする。
+    この規格は，情報技術，パターン認識，生物学，数学などからの概念（用語で表現する）を網羅していない。バイオメトリクスでは，このような分野の知識を基礎として使用する。
 status:
   stage:
     content: valid

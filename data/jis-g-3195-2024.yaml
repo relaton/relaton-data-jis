@@ -1,3 +1,4 @@
+---
 id: JISG31952024
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,9 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，断面が円の線材の外観，寸法，質量及びその許容差について規定する。\nなお，この規格の適用については，それぞれの製品規格による。"
+  content: |-
+    この規格は，断面が円の線材の外観，寸法，質量及びその許容差について規定する。
+    なお，この規格の適用については，それぞれの製品規格による。
 status:
   stage:
     content: valid

@@ -1,3 +1,4 @@
+---
 id: JISQ550002025
 schema_version: v1.5.6
 type: standard
@@ -38,7 +39,8 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本アセットマネジメント協会"
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本アセットマネジメント協会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -48,7 +50,8 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本アセットマネジメント協会"
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           一般社団法人　日本アセットマネジメント協会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -59,7 +62,8 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本アセットマネジメント協会"
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           一般社団法人　日本アセットマネジメント協会"
       type: technical-committee
 language:
 - ja
@@ -68,7 +72,11 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，アセットマネジメントの用語を定義し，原則及び成果について規定する。この規格では，次の事項を記載している。\n－アセットマネジメント及びアセットマネジメントシステムの便益\n－アセットマネジメント，アセットマネジメントシステム及びアセットポートフォリオの関係\n－アセットマネジメントの改善及び成熟度"
+  content: |-
+    この規格は，アセットマネジメントの用語を定義し，原則及び成果について規定する。この規格では，次の事項を記載している。
+    －アセットマネジメント及びアセットマネジメントシステムの便益
+    －アセットマネジメント，アセットマネジメントシステム及びアセットポートフォリオの関係
+    －アセットマネジメントの改善及び成熟度
 status:
   stage:
     content: valid
@@ -79,7 +87,8 @@ ext:
   flavor: jis
   ics:
   - code: 01.040.03
-    text: Services. Company organization, management and quality. Administration. Transport. Sociology. (Vocabularies)
+    text: Services. Company organization, management and quality. Administration.
+      Transport. Sociology. (Vocabularies)
   - code: 03.100.01
     text: Company organization and management in general
   structuredidentifier:

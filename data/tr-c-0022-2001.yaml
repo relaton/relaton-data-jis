@@ -1,3 +1,4 @@
+---
 id: TRC00222001
 schema_version: v1.5.6
 type: standard
@@ -7,7 +8,8 @@ title:
   content: 照明の質を考慮した蛍光灯器具のエネルギー消費効率指数の算出方法
 - language: en
   script: Latn
-  content: Method of calculation of energy efficient level for fluorescent lamp luminaires considering quality of lighting
+  content: Method of calculation of energy efficient level for fluorescent lamp luminaires
+    considering quality of lighting
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=TR+C+0022%3A2001
@@ -48,7 +50,7 @@ contributor:
     - content: committee
   organization:
     subdivision:
-    - name: null
+    - name:
       type: technical-committee
 abstract:
 - language: ja
