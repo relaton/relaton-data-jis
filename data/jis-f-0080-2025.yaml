@@ -1,4 +1,3 @@
----
 id: JISF00802025
 schema_version: v1.5.6
 type: standard
@@ -61,7 +60,13 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，舟艇の識別を明確に行うための番号付与システムに関する次の事項について規定する。\na)\t製造された舟艇の製造業者の国名コード\nb)\t製造業者の識別コード\nc)\t製造番号\nd)\t製造年月\ne)\tモデルイヤー"
+  content: |-
+    この規格は，舟艇の識別を明確に行うための番号付与システムに関する次の事項について規定する。
+    a)	製造された舟艇の製造業者の国名コード
+    b)	製造業者の識別コード
+    c)	製造番号
+    d)	製造年月
+    e)	モデルイヤー
 status:
   stage:
     content: valid

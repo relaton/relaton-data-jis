@@ -1,4 +1,3 @@
----
 id: JISC60695512024
 schema_version: v1.5.6
 type: standard
@@ -8,8 +7,7 @@ title:
   content: 火災危険性試験－電気・電子－第５－１部：燃焼放出物による腐食損傷の影響－一般指針
 - language: en
   script: Latn
-  content: 'Fire hazard testing-Part 5-1: Corrosion damage effects of fire effluent-General
-    guidance'
+  content: 'Fire hazard testing-Part 5-1: Corrosion damage effects of fire effluent-General guidance'
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+60695-5-1%3A2024
@@ -70,7 +68,12 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，電気・電子製品の腐食損傷試験方法に係る次の事項に関する指針を示す。\na)\t試験方法の一般的説明\nb)\t測定方法\nc)\t試験方法選択の検討方法\nd)\t試験結果の危険性評価への適用"
+  content: |-
+    この規格は，電気・電子製品の腐食損傷試験方法に係る次の事項に関する指針を示す。
+    a)	試験方法の一般的説明
+    b)	測定方法
+    c)	試験方法選択の検討方法
+    d)	試験結果の危険性評価への適用
 status:
   stage:
     content: valid

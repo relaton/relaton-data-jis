@@ -1,4 +1,3 @@
----
 id: JISQ385002026
 schema_version: v1.5.6
 type: standard
@@ -39,8 +38,7 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　情報処理学会"
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -50,8 +48,7 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　情報処理学会"
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -62,8 +59,7 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "一般財団法人　日本規格協会                                                \r\n
-          \                                                                                           一般社団法人　情報処理学会"
+      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
       type: technical-committee
 language:
 - ja
@@ -72,7 +68,11 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，組織の経営陣のメンバー及びそれを支援する者に対し，組織内における情報技術（IT）の効果的，効率的及び受容可能な利活用に関する原則についての指針を示す。\nこの規格は，次のことに適用される。\n－\t組織の現在及び将来のITの利活用のガバナンス\n－\t組織のガバナンスの一領域としてのITガバナンス"
+  content: |-
+    この規格は，組織の経営陣のメンバー及びそれを支援する者に対し，組織内における情報技術（IT）の効果的，効率的及び受容可能な利活用に関する原則についての指針を示す。
+    この規格は，次のことに適用される。
+    －	組織の現在及び将来のITの利活用のガバナンス
+    －	組織のガバナンスの一領域としてのITガバナンス
 status:
   stage:
     content: valid

@@ -1,4 +1,3 @@
----
 id: JISC44422025
 schema_version: v1.5.6
 type: standard
@@ -8,8 +7,7 @@ title:
   content: 電気エネルギー貯蔵システム－電力システムに接続される電気エネルギー貯蔵システムの安全要求事項－電気化学的システムの計画外変更の実施
 - language: en
   script: Latn
-  content: Electrical energy storage (EES) systems-Safety requirements for grid-integrated
-    EES systems-Performing unplanned modification of electrochemical based system
+  content: Electrical energy storage (EES) systems-Safety requirements for grid-integrated EES systems-Performing unplanned modification of electrochemical based system
 source:
 - type: src
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+4442%3A2025
@@ -40,8 +38,7 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　電気学会"
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電気学会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -51,8 +48,7 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　電気学会"
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電気学会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -63,8 +59,7 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "一般財団法人　日本規格協会                                                \r\n
-          \                                                                                           一般社団法人　電気学会"
+      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電気学会"
       type: technical-committee
 language:
 - ja
@@ -73,8 +68,14 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，蓄電池のような電気化学的技術を使用した貯蔵装置をもつ，電力システムに接続される電気エネルギー貯蔵システム（BESS：Battery
-    Energy Storage System）が計画外変更を受ける場合に適用する。計画外変更は，次の一つ以上を含む可能性がある。\n－\tエネルギー貯蔵容量の変更\n－\t蓄電サブシステムの電池種（電池の種類），設計及び製造業者の変更\n－\t非正規部品を使用したサブシステム構成要素の変更\n－\t運転モードの変更\n－\t設置場所の変更\n－\t再利用又は転用電池の設置による蓄電サブシステムの変更"
+  content: |-
+    この規格は，蓄電池のような電気化学的技術を使用した貯蔵装置をもつ，電力システムに接続される電気エネルギー貯蔵システム（BESS：Battery Energy Storage System）が計画外変更を受ける場合に適用する。計画外変更は，次の一つ以上を含む可能性がある。
+    －	エネルギー貯蔵容量の変更
+    －	蓄電サブシステムの電池種（電池の種類），設計及び製造業者の変更
+    －	非正規部品を使用したサブシステム構成要素の変更
+    －	運転モードの変更
+    －	設置場所の変更
+    －	再利用又は転用電池の設置による蓄電サブシステムの変更
 status:
   stage:
     content: valid

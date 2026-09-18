@@ -1,4 +1,3 @@
----
 id: JISB2005232025
 schema_version: v1.5.6
 type: standard
@@ -39,8 +38,7 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本バルブ工業会"
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本バルブ工業会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -50,8 +48,7 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　日本バルブ工業会"
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本バルブ工業会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -62,8 +59,7 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "一般財団法人　日本規格協会                                                \r\n
-          \                                                                                           一般社団法人　日本バルブ工業会"
+      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本バルブ工業会"
       type: technical-committee
 language:
 - ja
@@ -72,9 +68,15 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，工業プロセス用調節弁に適用し，JIS B 2005-2-1の諸式に使用する次の変数を決定するための流れの容量の試験手順について規定する。\na)\t容量係数
-    C\nb)\t継手を接続しない場合の調節弁の液体圧力回復係数 FL\nc)\t継手を接続する場合の調節弁の液体圧力回復係数と配管形状係数との組合せ係数 FLP\nd)\t配管形状係数
-    Fp\ne)\t差圧比係数 xT及びxTP\nf)\tバルブ形状修正係数 Fd\ng)\tレイノルズ数係数 FR"
+  content: |-
+    この規格は，工業プロセス用調節弁に適用し，JIS B 2005-2-1の諸式に使用する次の変数を決定するための流れの容量の試験手順について規定する。
+    a)	容量係数 C
+    b)	継手を接続しない場合の調節弁の液体圧力回復係数 FL
+    c)	継手を接続する場合の調節弁の液体圧力回復係数と配管形状係数との組合せ係数 FLP
+    d)	配管形状係数 Fp
+    e)	差圧比係数 xT及びxTP
+    f)	バルブ形状修正係数 Fd
+    g)	レイノルズ数係数 FR
 status:
   stage:
     content: valid

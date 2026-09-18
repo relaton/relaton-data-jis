@@ -1,4 +1,3 @@
----
 id: JISC68242025
 schema_version: v1.5.6
 type: standard
@@ -41,8 +40,7 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般財団法人　光産業技術振興協会"
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　光産業技術振興協会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -52,8 +50,7 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般財団法人　光産業技術振興協会"
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　光産業技術振興協会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -64,8 +61,7 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "一般財団法人　日本規格協会                                                \r\n
-          \                                                                                           一般財団法人　光産業技術振興協会"
+      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　光産業技術振興協会"
       type: technical-committee
 language:
 - ja
@@ -76,7 +72,11 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，石英系マルチモード光ファイバ，多成分系マルチモード光ファイバ，プラスチッククラッドマルチモード光ファイバ及び全プラスチックマルチモード光ファイバの単位長さ当たりの帯域の試験方法について規定する。試験方法については，次の三つの試験方法を規定している（箇条4参照）。\n・\t方法A：パルス法\n・\t方法B：周波数掃引法\n・\t方法C：モード遅延時間差（DMD）から全モード励振理論帯域（OMBc）を求める方法"
+  content: |-
+    この規格は，石英系マルチモード光ファイバ，多成分系マルチモード光ファイバ，プラスチッククラッドマルチモード光ファイバ及び全プラスチックマルチモード光ファイバの単位長さ当たりの帯域の試験方法について規定する。試験方法については，次の三つの試験方法を規定している（箇条4参照）。
+    ・	方法A：パルス法
+    ・	方法B：周波数掃引法
+    ・	方法C：モード遅延時間差（DMD）から全モード励振理論帯域（OMBc）を求める方法
 status:
   stage:
     content: valid
