@@ -1,25 +1,27 @@
 ---
-id: JISG43112019AMENDMENT12026
+id: JISH05312026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: 耐熱鋼棒及び線材（追補１）
+  content: すき間噴流による銅及び銅合金の無粒子エロージョン・コロージョン標準試験方法
 - language: en
   script: Latn
-  content: Heat-resistant steel bars and wire rods (Amendment 1)
+  content: Standard test method for particle-free erosion corrosion of copper and copper alloys by jet-in-slit
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+G+4311%3A2019%2FAMENDMENT+1%3A2026
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+0531%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_00531_000_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS G 4311:2019/AMENDMENT 1:2026
+- content: JIS H 0531:2026
   type: JIS
   primary: true
-docnumber: G4311
+docnumber: H0531
 date:
 - type: issued
-  at: '2026-05-20'
+  at: '2026-09-24'
 contributor:
 - role:
   - type: authorizer
@@ -62,26 +64,24 @@ contributor:
       type: technical-committee
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，単相流体中の流れが誘起する腐食である無粒子エロージョン・コロージョンに対する銅及び銅合金の耐性を，すき間噴流を用いて評価する試験方法について規定する。
 status:
   stage:
     content: valid
 ext:
   schema_version: v1.0.2
   doctype:
-    content: amendment
+    content: japanese-industrial-standard
   flavor: jis
   ics:
-  - code: 77.140.10
-    text: Heat-treatable steels
-  - code: 77.140.20
-    text: Stainless steels
-  - code: 77.140.60
-    text: Steel bars and rods
+  - code: '77.060'
+    text: Corrosion of metals
   structuredidentifier:
     type: JIS
     project_number:
-      content: G4311
+      content: H0531

@@ -1,0 +1,87 @@
+---
+id: JISH84572026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 遮熱コーティングの曲げ共振による高温ヤング率測定方法
+- language: en
+  script: Latn
+  content: Measurement method for Young’s modulus of thermal barrier coatings at elevated temperature by flexural resonance
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+8457%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_08457_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS H 8457:2026
+  type: JIS
+  primary: true
+docnumber: H8457
+date:
+- type: issued
+  at: '2026-09-24'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　大阪科学技術センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　大阪科学技術センター"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　大阪科学技術センター"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，基材上に被覆した遮熱コーティングの，曲げ共振による面内ヤング率を室温から1 000 ℃までの範囲で測定する方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 25.220.40
+    text: Metallic coatings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H8457
