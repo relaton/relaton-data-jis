@@ -1,31 +1,27 @@
 ---
-id: JISX631942016
+id: JISX631942026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: ＩＣカード実装仕様―第４部：高速処理用近接型ＩＣカード
+  content: ＩＣカード実装仕様－第４部：高速処理用近接型ＩＣカード
 - language: en
   script: Latn
-  content: 'Specification of implementation for integrated circuit(s) cards -- Part 4: High speed proximity cards'
+  content: 'Specification of implementation for integrated circuit(s) cards-Part 4: High speed proximity cards'
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6319-4%3A2016
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+6319-4%3A2026
 - type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06319_004_000_2016_j_ed10_ch.pdf
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06319_004_000_2016_e_ed10_i4.pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_06319_004_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS X 6319-4:2016
+- content: JIS X 6319-4:2026
   type: JIS
   primary: true
 docnumber: X6319
 date:
 - type: issued
-  at: '2016-03-22'
-- type: confirmed
-  at: '2025-10-20'
+  at: '2026-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -68,14 +64,12 @@ contributor:
       type: technical-committee
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 abstract:
 - language: ja
   script: Jpan
-  content: 高速化機能をもつ非接触（外部端子のない）近接型ＩＣカードの物理的特性，電波インタフェース，伝送プロトコル，ファイル構造，コマンドなどについて規定。
+  content: この規格は，高速化機能をもつ非接触（外部端子のない）近接型ICカードの物理的特性，電波インタフェース，伝送プロトコル，ファイル構造，コマンドなどについて規定する。
 status:
   stage:
     content: valid

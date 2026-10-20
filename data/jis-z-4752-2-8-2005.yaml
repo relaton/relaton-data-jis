@@ -14,6 +14,8 @@ source:
   content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+4752-2-8%3A2005
 - type: pdf
   content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04752_002_008_2005_j_ed10_ch.pdf
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_04752_002_008_2005_e_ed10_ch.pdf
 docidentifier:
 - content: JIS Z 4752-2-8:2005
   type: JIS
@@ -66,8 +68,10 @@ contributor:
       type: technical-committee
 language:
 - ja
+- en
 script:
 - Jpan
+- Latn
 abstract:
 - language: ja
   script: Jpan

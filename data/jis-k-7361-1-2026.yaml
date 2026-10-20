@@ -1,27 +1,25 @@
 ---
-id: JISK71362000
+id: JISK736112026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: プラスチック―透明材料のヘーズの求め方
+  content: プラスチック－透明材料の全光線透過率の試験方法－第１部：一般的方法
 - language: en
   script: Latn
-  content: Plastics -- Determination of haze for transparent materials
+  content: 'Plastics-Determination of the total luminous transmittance of transparent materials-Part 1: General measurement'
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7136%3A2000
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+7361-1%3A2026
 docidentifier:
-- content: JIS K 7136:2000
+- content: JIS K 7361-1:2026
   type: JIS
   primary: true
-docnumber: K7136
+docnumber: K7361
 date:
 - type: issued
-  at: '2000-02-29'
-- type: confirmed
-  at: '2025-10-20'
+  at: '2026-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -69,7 +67,7 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: 透明で基本的には無色のプラスチックについて，光線の広角散乱に関する特定の光学的性質であるヘーズの求め方について規定。試験方法は，この方法によって測定したヘーズ値４０％以下の材料に適用。
+  content: この規格は，CIE規格で指定する光源及びフォト検出器を備えた測光器を用いて，平らで透明な，基本的に無色のプラスチックの可視領域における全光線透過率の試験方法について規定する。
 status:
   stage:
     content: valid
@@ -84,4 +82,4 @@ ext:
   structuredidentifier:
     type: JIS
     project_number:
-      content: K7136
+      content: K7361

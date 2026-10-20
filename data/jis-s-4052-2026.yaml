@@ -1,31 +1,25 @@
 ---
-id: JISK24381990
+id: JISS40522026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: ピリジン類（ピリジン・ピコリン・キノリン）
+  content: 化学繊維製化粧ブラシの力学特性測定方法
 - language: en
   script: Latn
-  content: Pyridine bases (Pyridine･Picoline･Quinoline)
+  content: Test method for mechanical properties of synthetic fiber make-up brushes
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2438%3A1990
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02438_000_000_1990_j_pr10_i4.pdf
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02438_000_000_1990_e_pr10_i4.pdf
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+4052%3A2026
 docidentifier:
-- content: JIS K 2438:1990
+- content: JIS S 4052:2026
   type: JIS
   primary: true
-docnumber: K2438
+docnumber: S4052
 date:
 - type: issued
-  at: '1990-05-31'
-- type: confirmed
-  at: '2003-05-20'
+  at: '2026-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -43,14 +37,20 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: 一般社団法人　日本芳香族工業会
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
 - role:
   - type: publisher
   organization:
     name:
     - language: ja
       script: Jpan
-      content: 一般社団法人　日本芳香族工業会
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
 - role:
   - type: author
     description:
@@ -58,18 +58,16 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: 一般社団法人　日本芳香族工業会
+      - content: 一般財団法人　日本規格協会
       type: technical-committee
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 abstract:
 - language: ja
   script: Jpan
-  content: 工業用のピリジン，ピコリン及びキノリンについて規定。
+  content: この規格は，主として化粧料を肌に付ける際に使用する化粧ブラシの，使用時における力学特性を測定する方法について規定する。
 status:
   stage:
     content: valid
@@ -79,9 +77,9 @@ ext:
     content: japanese-industrial-standard
   flavor: jis
   ics:
-  - code: 71.080.20
-    text: Halogenated hydrocarbons
+  - code: '97.170'
+    text: Body care equipment
   structuredidentifier:
     type: JIS
     project_number:
-      content: K2438
+      content: S4052

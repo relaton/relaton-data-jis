@@ -1,0 +1,87 @@
+---
+id: JISS20762026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 電気ヒートポンプ・ガス瞬間式併用型給湯機（ハイブリッド給湯機）の性能測定及び年間給湯効率算出方法
+- language: en
+  script: Latn
+  content: Performance measurement and annual water heating efficiency calculation method for electric heat pump and gas instantaneous hybrid water heater (hybrid water heater)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+S+2076%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_s_02076_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS S 2076:2026
+  type: JIS
+  primary: true
+docnumber: S2076
+date:
+- type: issued
+  at: '2026-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ガス石油機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ガス石油機器工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本ガス石油機器工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，主に一般家庭における入浴，台所，洗面などに使用する温水の供給設備用に設計・製造した給湯機であって，電動圧縮式・空気熱源方式のヒートポンプ及び液化石油ガス又は都市ガスを燃料とする補助熱源機，貯湯タンク，給湯制御機器，リモコンなどで構成する家庭用の電気ヒートポンプ・ガス瞬間式併用型給湯機の給湯モードを用いた性能測定及び年間給湯効率算出方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 91.140.65
+    text: Water heating equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: S2076

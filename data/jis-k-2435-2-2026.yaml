@@ -1,31 +1,27 @@
 ---
-id: JISK24252006
+id: JISK243522026
 schema_version: v1.5.6
 type: standard
 title:
 - language: ja
   script: Jpan
-  content: クレオソート油，加工タール及びタールピッチ試験方法
+  content: ベンゼン・トルエン・キシレン－第２部：トルエン
 - language: en
   script: Latn
-  content: Test methods of creosote oil, prepared tar and tar pitch
+  content: 'Benzene・Toluene・Xylene-Part 2: Toluene'
 source:
 - type: src
-  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2425%3A2006
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+2435-2%3A2026
 - type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02425_000_000_2006_j_ed10_ch.pdf
-- type: pdf
-  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02425_000_000_2006_e_ed10_i4.pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_k_02435_002_000_2026_j_ed10_ch.pdf
 docidentifier:
-- content: JIS K 2425:2006
+- content: JIS K 2435-2:2026
   type: JIS
   primary: true
-docnumber: K2425
+docnumber: K2435
 date:
 - type: issued
-  at: '2006-11-20'
-- type: confirmed
-  at: '2021-10-20'
+  at: '2026-10-20'
 contributor:
 - role:
   - type: authorizer
@@ -68,14 +64,12 @@ contributor:
       type: technical-committee
 language:
 - ja
-- en
 script:
 - Jpan
-- Latn
 abstract:
 - language: ja
   script: Jpan
-  content: コールタール製品としてのクレオソート油，加工タール及びタールピッチの試験方法について規定。
+  content: この規格は，工業用のトルエンについて規定する。
 status:
   stage:
     content: valid
@@ -85,11 +79,9 @@ ext:
     content: japanese-industrial-standard
   flavor: jis
   ics:
-  - code: 71.100.50
-    text: Wood-protecting chemicals
-  - code: '75.140'
-    text: Waxes, bituminous materials and other petroleum products
+  - code: 71.080.15
+    text: Aromatic hydrocarbons
   structuredidentifier:
     type: JIS
     project_number:
-      content: K2425
+      content: K2435

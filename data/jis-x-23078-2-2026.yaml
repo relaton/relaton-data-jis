@@ -1,0 +1,87 @@
+---
+id: JISX2307822026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 情報技術－デジタル出版物のデジタル著作権管理（ＤＲＭ）技術の仕様－第２部：ユーザー鍵に基づく保護
+- language: en
+  script: Latn
+  content: 'Information technology-Specification of digital rights management (DRM) technology for digital publications-Part 2: User key-based protection'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+X+23078-2%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_x_23078_002_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS X 23078-2:2026
+  type: JIS
+  primary: true
+docnumber: X23078
+date:
+- type: issued
+  at: '2026-10-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，デジタル出版物（特にEPUB）のリソースを暗号化し，復号鍵を閲覧システムに安全に配信するための技術的手段について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 35.240.30
+    text: IT applications in information, documentation and publishing
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: X23078
