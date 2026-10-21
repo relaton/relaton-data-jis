@@ -4,7 +4,6 @@ require "fileutils"
 require "relaton/jis/data_fetcher"
 require_relative "build_index_v1"
 
-FileUtils.rm_rf("data")
 # Narrower than 'index*', which would also match a Ruby file named index*.rb
 # next to it -- the crawler would then delete its own source.
 # relaton-data-bipm hit that bug; spec/crawler_sources_spec.rb guards it here.
@@ -12,7 +11,9 @@ FileUtils.rm Dir.glob("index-v*.{yaml,zip}")
 
 # Writes data/ and index-v2.yaml. A relaton that still writes index-v1 also
 # writes it here; the build below replaces it with the same rows.
-Relaton::Jis::DataFetcher.fetch
+# Incremental crawl: the fetcher skips byte-identical records and
+# prunes stale ones (relaton#328); an empty fetch prunes nothing.
+Relaton::Jis::DataFetcher.fetch(prune: true)
 
 # The released relaton-jis gem still reads index-v1.zip from this branch, so
 # build it from the data/ the fetch just wrote. See build_index_v1.rb.
