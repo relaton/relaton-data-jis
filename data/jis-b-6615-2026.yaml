@@ -1,0 +1,92 @@
+---
+id: JISB66152026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 鋳造機械－高圧ダイカストマシンの安全要求事項
+- language: en
+  script: Latn
+  content: Foundry machinery-Safety requirements for high pressure die casting machines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+6615%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_06615_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 6615:2026
+  type: JIS
+  primary: true
+docnumber: B6615
+date:
+- type: issued
+  at: '2026-10-26'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本ダイカストマシン工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n
+        \                                                                                           日本ダイカストマシン工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n
+          \                                                                                           日本ダイカストマシン工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，高圧ダイカストマシンの安全要求事項及び保護方策について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '13.110'
+    text: Safety of machinery
+  - code: '77.180'
+    text: Equipment for the metallurgical industry
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B6615
