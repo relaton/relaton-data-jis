@@ -1,0 +1,63 @@
+---
+id: WES28031990
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 圧力容器用鋼板の表面きずによる等級分類基準
+- language: en
+  script: Latn
+  content: Classification of Surface lmperfections for Pressure Vessel Plates
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+2803%3A1990
+docidentifier:
+- content: WES 2803:1990
+  type: WES
+  primary: true
+docnumber: '2803'
+date:
+- type: issued
+  at: '1990-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，圧力容器に使用する厚さ6mm以上の熱間圧延鋼板（ただし，ステンレス鋼は除く）の表面きず（目視検査）による等級分類について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '2803'

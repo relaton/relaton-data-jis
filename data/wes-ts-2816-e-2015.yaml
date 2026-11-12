@@ -1,0 +1,66 @@
+---
+id: WESTS2816E2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+- language: en
+  script: Latn
+  content: Simplified test method for brittle crack arrest toughness using press-notched
+    bend specimen(English Edition)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+TS+2816%28E%29%3A2015
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_2816_000_000_e___2015.pdf
+docidentifier:
+- content: WES TS 2816(E):2015
+  type: WES
+  primary: true
+docnumber: '2816'
+date:
+- type: issued
+  at: '2015-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- en
+script:
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: This technical specification (TS) specifies the simplified test method
+    to evaluate the brittle crack arrest toughness of steel.
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: technical-specification
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '2816'

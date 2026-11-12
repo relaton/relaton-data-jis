@@ -1,0 +1,65 @@
+---
+id: WES28212025
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 溶着金属のトランス・バレストレイン試験方法
+- language: en
+  script: Latn
+  content: Method of Trans-Varestraint test for deposited metal
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+2821%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_2821_000_000_j___2025.pdf
+docidentifier:
+- content: WES 2821:2025
+  type: WES
+  primary: true
+docnumber: '2821'
+date:
+- type: issued
+  at: '2025-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，炭素鋼，低合金鋼，ステンレス鋼及びニッケル基合金の溶接材料を用いた溶着金属の凝固割れ感受性を相対的に評価するためのトランス・バレストレイン試験方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '2821'

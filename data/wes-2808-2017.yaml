@@ -1,0 +1,68 @@
+---
+id: WES28082017
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 動的繰返し大変形を受ける溶接鋼構造物のぜい性破壊性能評価方法
+- language: en
+  script: Latn
+  content: Method of assessing brittle fracture in steel weldments subjected to large
+    cyclic and dynamic strain
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+2808%3A2017
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_2808_000_000_j___2017.pdf
+docidentifier:
+- content: WES 2808:2017
+  type: WES
+  primary: true
+docnumber: '2808'
+date:
+- type: issued
+  at: '2017-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，地震により動的繰返し大変形を受ける溶接鋼構造物のぜい性破壊に対する性能を，破壊力学パラメータとして亀裂先端開口変位（CTOD）を用いて評価する手法を規定する。
+    2003 年に発行された初版では，400～590 N/mm2 級鋼溶接構造物を対象としていたが，この版では780 N/mm2 級鋼溶接構造物までに適用範囲を拡大している。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '2808'

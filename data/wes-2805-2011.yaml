@@ -1,0 +1,68 @@
+---
+id: WES28052011
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 溶接継手のぜい性破壊発生及び疲労亀裂進展に対する欠陥の評価方法
+- language: en
+  script: Latn
+  content: Method of Assessment for Flaws in Fusion Welded Joints with Respect to
+    Brittle Fracture and Fatigue Crack Growth
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+2805%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_2805_000_000_j___2011.pdf
+docidentifier:
+- content: WES 2805:2011
+  type: WES
+  primary: true
+docnumber: '2805'
+date:
+- type: issued
+  at: '2011-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，溶接構造物の製作時又は使用中に各種試験により発見された欠陥に対し，機能適合性又は合目的評価の観点から，欠陥を含む当該構造要素の使用条件を十分考慮に入れて，構造要素に要求される機能に応じた評価方法の指針を示している。
+    ここでは，既往の破壊力学的諸研究成果を踏まえ，かつ実用性の見地から種々の単純化を行い，一般の溶接構造物における欠陥の機能適合性に照らした許容判定を行っている。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '2805'

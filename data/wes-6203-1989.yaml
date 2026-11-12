@@ -1,0 +1,65 @@
+---
+id: WES62031989
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: シーム溶接機用ローラ電極の形状・寸法
+- language: en
+  script: Latn
+  content: Shapes and Dimensions of Electrode Wheel for Seam Welding Machines
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+6203%3A1989
+docidentifier:
+- content: WES 6203:1989
+  type: WES
+  primary: true
+docnumber: '6203'
+date:
+- type: issued
+  at: '1989-07-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，シーム溶接機用のローラ電極の形状・寸法について規定する。
+    なお，縦シーム溶接機の従動電極も，この規格に準ずるものとする。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '6203'

@@ -1,0 +1,67 @@
+---
+id: WES20152019
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: ジルコニウム溶接継手の放射線透過試験方法
+- language: en
+  script: Latn
+  content: Methods of radiographic examination for welded joints in zirconium
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+2015%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_2015_000_000_j___2019.pdf
+docidentifier:
+- content: WES 2015:2019
+  type: WES
+  primary: true
+docnumber: '2015'
+date:
+- type: issued
+  at: '2019-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，ジルコニウムの溶接継手をエックス線又はガンマ線による直接撮影方法によって試験を行う放射線透過試験方法について規定する。
+    本規格では，撮影方法はJIS Z 3104:1995 に従い，透過写真の必要条件についてはジルコニウム溶接継手の吸収係数を考慮し，放射線の吸収が試験部と異なる透過度計を用いて識別線径の換算を行っていたJIS Z3107:1973 を準用して規定した。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '2015'

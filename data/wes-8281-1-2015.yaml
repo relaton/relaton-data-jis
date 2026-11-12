@@ -1,0 +1,65 @@
+---
+id: WES828112015
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: ISO9606-1に基づく溶接技能者の資格認証基準 -第1部：総則
+- language: en
+  script: Latn
+  content: Standard for certification of welders in accordance with ISO 9606-1 －Part
+    1：General
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+8281-1%3A2015
+docidentifier:
+- content: WES 8281-1:2015
+  type: WES
+  primary: true
+docnumber: '8281'
+date:
+- type: issued
+  at: '2015-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 'この規格は，ISO 9606-1（Qualification testing of welders－Fusion
+    welding－Part 1: Steels）に基づいて，一般社団法人日本溶接協会が実施する溶接技能者の資格認証基準について規定する。'
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '8281'

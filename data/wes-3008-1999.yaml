@@ -1,0 +1,60 @@
+---
+id: WES30081999
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 鋼板及び平鋼の厚さ方向特性
+- language: en
+  script: Latn
+  content: Specification for through-thickness characteristics of steel plate and
+    wide flat
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+3008%3A1999
+docidentifier:
+- content: WES 3008:1999
+  type: WES
+  primary: true
+docnumber: '3008'
+date:
+- type: issued
+  at: '1999-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，厚さ方向の絞り特性が規定された鋼板及び平鋼が満足すべき品質基準及び試験条件について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '3008'

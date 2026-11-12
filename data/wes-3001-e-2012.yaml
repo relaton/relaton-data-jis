@@ -1,0 +1,62 @@
+---
+id: WES3001E2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+- language: en
+  script: Latn
+  content: Weldable High Strength Steel Plates(English Edition)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+3001%28E%29%3A2012
+docidentifier:
+- content: WES 3001(E):2012
+  type: WES
+  primary: true
+docnumber: '3001'
+date:
+- type: issued
+  at: '2012-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- en
+script:
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: "This standard specifies the high strength steel plates of 355 N/mm2 yield point or 0.2% proof stress and higher, with improved weldability, used for steel structures, certified by the Japan \nWelding Engineering Society."
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '3001'

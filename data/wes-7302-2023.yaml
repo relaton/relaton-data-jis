@@ -1,0 +1,67 @@
+---
+id: WES73022023
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: スポット溶接作業標準（アルミニウム及びアルミニウム合金）
+- language: en
+  script: Latn
+  content: Recommended Practices for Spot Welding (Aluminium and Aluminium Alloy)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+7302%3A2023
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_7302_000_000_j___2023.pdf
+docidentifier:
+- content: WES 7302:2023
+  type: WES
+  primary: true
+docnumber: '7302'
+date:
+- type: issued
+  at: '2023-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，板厚0.4 mm 以上5.0 mm 以下の3 枚以内のアルミニウム及びアルミニウム合金（以下，アルミニウム合金という。）の抵抗スポット溶接（以下，スポット溶接という。）の作業標準について規定する。ただし，シリーズスポット溶接などの特殊な通電方式及び亜鉛めっき材，陽極酸化処理材などの表面処理材は除く。
+    なお，鋳物及びダイカストに関しては，受渡当事者間の協定による。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '7302'

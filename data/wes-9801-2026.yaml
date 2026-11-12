@@ -1,0 +1,70 @@
+---
+id: WES98012026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 特定認定高度保安実施者による保安検査基準（コンビナート等保安規則関係）
+- language: en
+  script: Latn
+  content: Safety inspection standards by Specifically Certified Advanced Safety Implementer
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+9801%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_9801_000_000_j___2026.pdf
+docidentifier:
+- content: WES 9801:2026
+  type: WES
+  primary: true
+docnumber: '9801'
+date:
+- type: issued
+  at: '2026-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，“コンビナート等保安規則（昭和61.12.13　通商産業省令第88号）（以下，コンビ則という。）”で規定された技術上の基準への適合状況を確認するための検査項目及び検査方法について規定する。
+    この規格は，特定認定高度保安実施者又は特定認定事業者が行うコンビ則の適用を受ける製造設備のうち，コンビ則第34条第1項に規定する特定施設に係る法第35条で規定する保安検査に適用する。
+    ただし，次のa)及びb)の設備は対象外とする。
+    a)　コンビ則の適用を受ける製造設備のうち，コンビ則第2条第1項第9号の2の液化石油ガス岩盤貯槽を有する岩盤備蓄基地（KHKS 0850-8の適用範囲のもの），同第14号の特定液化石油ガススタンド，同第15号の圧縮天然ガススタンド，同第15号の2の液化天然ガススタンド，同第15号の3の圧縮水素スタンド，液化天然ガス受入基地（KHKS 0850-7の適用範囲のもの）及び同第13号の2のコールド・エバポレータ
+    b)　コンビ則の経過措置によって，“一般高圧ガス保安規則（昭和41.5.25　通商産業省令第53号）”又は“液化石油ガス保安規則（昭和41.5.25　通商産業省令第52号）”に規定する技術上の基準を適用する製造設備
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '9801'

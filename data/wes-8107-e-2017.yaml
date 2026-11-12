@@ -1,0 +1,64 @@
+---
+id: WES8107E2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+- language: en
+  script: Latn
+  content: Standard for certification of welding practitioner(English Edition)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+8107%28E%29%3A2017
+docidentifier:
+- content: WES 8107(E):2017
+  type: WES
+  primary: true
+docnumber: '8107'
+date:
+- type: issued
+  at: '2017-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- en
+script:
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: This standard shall regulate to attest the certification of the welding
+    practitioners whose responsibility is to conduct fusion welding of metallic materials
+    and related work properly based on expert skills and experiences.
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '8107'

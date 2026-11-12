@@ -1,0 +1,67 @@
+---
+id: WES73012020
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: スポット溶接作業標準（低炭素鋼及び低合金鋼）
+- language: en
+  script: Latn
+  content: Recommended practice for spot welding (Low Carbon Steel and Low Alloy Steel)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+7301%3A2020
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_7301_000_000_j___2020.pdf
+docidentifier:
+- content: WES 7301:2020
+  type: WES
+  primary: true
+docnumber: '7301'
+date:
+- type: issued
+  at: '2020-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    この規格は，板厚0.4  mm以上5.0  mm以下の低炭素鋼及び低合金鋼（いずれもめっき鋼板を含む。）におけるスポット溶接（以下，溶接という。）作業について規定する。
+    ただし，ダイレクトスポット溶接を対象とし，シリーズスポット溶接などの特殊な通電方式のものは除くものとする。溶接機としては，変圧器付ガン，ポータブル型溶接機を含む。電源としては，単相交流式電源以外に，単相整流式，三相整流式及びインバータ式の直流電源及び交流電源，並びにコンデンサ式電源を含む。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '7301'

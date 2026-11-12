@@ -1,0 +1,60 @@
+---
+id: WES00012021AMENDMENT12025
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 日本溶接協会規格作成基準（追補1）
+- language: en
+  script: Latn
+  content: Drafting manual for Welding Engineering Standard of The Japan Welding Engineering
+    Society (Amendment 1)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+0001%3A2021%2FAMENDMENT+1%3A2025
+docidentifier:
+- content: WES 0001:2021/AMENDMENT 1:2025
+  type: WES
+  primary: true
+docnumber: '0001'
+date:
+- type: issued
+  at: '2025-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: amendment
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '0001'

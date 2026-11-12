@@ -1,0 +1,65 @@
+---
+id: WES98022026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 圧力設備の維持管理基準
+- language: en
+  script: Latn
+  content: In-service inspection and maintenance of pressure equipment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+9802%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_9802_000_000_j___2026.pdf
+docidentifier:
+- content: WES 9802:2026
+  type: WES
+  primary: true
+docnumber: '9802'
+date:
+- type: issued
+  at: '2026-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，圧力設備の維持管理における検査，評価，補修及び試験について規定する。高圧ガス保安法の対象設備の維持管理にこの規格を適用する場合で，この規格と適用法規との間に矛盾がある場合，この規格の内容にかかわらず，適用法規を優先して適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '9802'

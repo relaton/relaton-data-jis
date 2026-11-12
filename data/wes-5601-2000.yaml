@@ -1,0 +1,63 @@
+---
+id: WES56012000
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 溶接溶剤の水分定量方法
+- language: en
+  script: Latn
+  content: Method for measurement of moisture content in welding flux
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+5601%3A2000
+docidentifier:
+- content: WES 5601:2000
+  type: WES
+  primary: true
+docnumber: '5601'
+date:
+- type: issued
+  at: '2000-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，被覆アーク溶接棒の被覆剤，サブマージアーク溶接フラックス，裏当て材などの溶剤中に含まれている107±2℃で抽出される水分及び溶接溶剤が吸着した水分を定量する方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '5601'

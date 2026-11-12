@@ -1,0 +1,69 @@
+---
+id: WES1112E2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+- language: en
+  script: Latn
+  content: Method for ultrasonic fatigue testing in metallic material(English Edition)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+1112%28E%29%3A2022
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_1112_000_000_e___2022.pdf
+docidentifier:
+- content: WES 1112(E):2022
+  type: WES
+  primary: true
+docnumber: '1112'
+date:
+- type: issued
+  at: '2022-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- en
+script:
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: 'This standard applies to two methods of ultrasonic fatigue testing-i.e.,
+    axial loading by longitudinal oscillation and torsional loading by torsional oscillation-for
+    metallic materials with a fatigue life of 10^7 or more at room temperature. Note:
+    Ultrasonic fatigue testing is a technique to measure the fatigue life of materials
+    by applying ultrasonic oscillations at a frequency to resonate the specimen for
+    cyclic loadings.'
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '1112'

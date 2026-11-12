@@ -1,0 +1,65 @@
+---
+id: WES3003E1995
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+- language: en
+  script: Latn
+  content: Evaluation Criterion of Rolled Steels for Low Temperature Application(English
+    Edition)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+3003%28E%29%3A1995
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_3003_000_000_e___1995.pdf
+docidentifier:
+- content: WES 3003(E):1995
+  type: WES
+  primary: true
+docnumber: '3003'
+date:
+- type: issued
+  at: '1995-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- en
+script:
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: "This standard is applied to the hot rolled steel plates approved by JWES for fusion welded structures in low temperature service.  \nThe applicable plate thickness is 6mm to 100mm incl., the minimum specified yield point or proof  stress of the plates is 685N/mm2 and under. and the service temperature of the plates shall be 0°C  to -196°C incl.."
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '3003'

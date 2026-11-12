@@ -1,0 +1,65 @@
+---
+id: WES11092021
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 溶接継手のCTOD試験方法
+- language: en
+  script: Latn
+  content: Standard CTOD test method in welded joints
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+1109%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_1109_000_000_j___2021.pdf
+docidentifier:
+- content: WES 1109:2021
+  type: WES
+  primary: true
+docnumber: '1109'
+date:
+- type: issued
+  at: '2021-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: 破壊じん（靱）性値は，不安定破壊が開始する限界値としての限界CTOD値として与えられ，構造要素の破壊安全性評価，又は材料選定のための材料評価に用いることができる。この規格は，鋼の溶接継手における破壊じん（靱）性値を評価するための試験方法を規定するものである。試験片の疲労予亀裂前縁形状の直線性を確保するため、局部圧縮法及び逆曲げ法を適用できるようにしている。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '1109'

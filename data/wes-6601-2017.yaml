@@ -1,0 +1,63 @@
+---
+id: WES66012017
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 数値制御切断機の精度検査
+- language: en
+  script: Latn
+  content: Accuracy Inspection for Numerically Controlled Cutting Machine
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+6601%3A2017
+docidentifier:
+- content: WES 6601:2017
+  type: WES
+  primary: true
+docnumber: '6601'
+date:
+- type: issued
+  at: '2017-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，数値制御によって制御されるレール間隔3m以上の，ガス，プラズマ及びレーザ切断機の精度検査について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '6601'

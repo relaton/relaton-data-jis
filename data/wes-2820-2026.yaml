@@ -1,0 +1,66 @@
+---
+id: WES28202026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 圧力設備の供用適性評価方法－減肉評価
+- language: en
+  script: Latn
+  content: Fitness-For-Service assessment procedure for pressure equipment - Metal
+    loss assessment
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+2820%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_2820_000_000_j___2026.pdf
+docidentifier:
+- content: WES 2820:2026
+  type: WES
+  primary: true
+docnumber: '2820'
+date:
+- type: issued
+  at: '2026-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，検査によって耐圧部の内面又は外面に，きず又は損傷が発見された圧力設備の次回検査までの継続供用，補修，取替えなどの対応策の決定に適用する供用適性評価方法のうち，減肉評価に特化した評価手順について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '2820'

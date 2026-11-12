@@ -1,0 +1,69 @@
+---
+id: WES11082025
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 亀裂先端開口変位（ＣＴＯＤ）試験方法
+- language: en
+  script: Latn
+  content: Standard test method for crack-tip opening displacement (CTOD) fracture
+    toughness measurement
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+1108%3A2025
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_1108_000_000_j___2025.pdf
+docidentifier:
+- content: WES 1108:2025
+  type: WES
+  primary: true
+docnumber: '1108'
+date:
+- type: issued
+  at: '2025-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，亀裂先端開口変位（以下，CTODという。）を用いて金属材料の破壊じん性を評価する破壊力学試験法を規定する。この試験方法は，金属材料に対して疲労予亀裂試験片を用いて不安定破壊が開始する破壊じん性の決定に適用可能である。材料及び試験温度によって，不安定破壊は疲労予亀裂先端から直接生じる場合と疲労予亀裂先端から安定進展する延性亀裂先端から生じる場合との，二つの場合がある。この規格では，延性亀裂の進展開始には適用しない。この試験方法で用いる限界CTODの算定式は，材料の降伏比RY
+    = 0.6～0.98，及び試験片厚さB = 10 mm～200 mmの範囲で適用可能である。この試験方法によって求められる不安定破壊開始時のCTOD（限界CTODのうちデルタc又はデルタu）は，WES
+    2805などの構造要素の破壊安全評価，又は材料選定のための材料評価などに適用可能である。この試験方法によって求められる限界CTODの値は，金属材料の破壊挙動を特徴付ける指標であるが，溶接部のような巨視的に見ても不均質な材料の取扱いについては，WES
+    1109 に規定されている。高延性・高じん性な材料では，多くの場合不安定破壊に至らず，最高荷重時のCTODのみが評価されるようになるが，この限界CTOD（デルタm）は不安定破壊に対するじん性指標とはならない。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '1108'

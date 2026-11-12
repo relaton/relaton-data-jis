@@ -1,0 +1,65 @@
+---
+id: WES2805E2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+- language: en
+  script: Latn
+  content: Method of Assessment for Flaws in Fusion Welded Joints with Respect to
+    Brittle Fracture and Fatigue Crack Growth(English Edition)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+2805%28E%29%3A2011
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_2805_000_000_e___2011.pdf
+docidentifier:
+- content: WES 2805(E):2011
+  type: WES
+  primary: true
+docnumber: '2805'
+date:
+- type: issued
+  at: '2011-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- en
+script:
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: "This standard applies to general welded steel structures, specifying the method for assessing the brittle fracture from cracks or similar planar flaws and for assessing the damage or brittle fracture caused by the fatigue crack growth from various types of flaws in fusion welded joints. \nWhen assuming that the final form of damage is brittle fracture, only the flaws existing in the stress concentration areas of structural elements, i.e. those surrounded by elastic stress fields, are assessed. When through-thickness flaws exist in planar joints, this standard only applies to the cases of fatigue crack growth. A pure application of fracture mechanics is sufficient to assess such relatively simple cases."
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '2805'

@@ -1,0 +1,65 @@
+---
+id: WES30031995
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 低温用圧延鋼板判定基準
+- language: en
+  script: Latn
+  content: Evaluation Criterion of Rolled Steels for Low Temperature Application
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+3003%3A1995
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_3003_000_000_j___1995.pdf
+docidentifier:
+- content: WES 3003:1995
+  type: WES
+  primary: true
+docnumber: '3003'
+date:
+- type: issued
+  at: '1995-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，溶接構造物に用いられる降伏点又は耐力の保証値が685N/mm2以下の圧延鋼板で，板厚が6mm以上100mm以下，最低使用温度が0°C以下-196°C以上のものを対象とした鋼板の材質判定基準を規定し，一般社団法人日本溶接協会において低温用圧延鋼板の鋼種認定を受けた鋼種に適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '3003'

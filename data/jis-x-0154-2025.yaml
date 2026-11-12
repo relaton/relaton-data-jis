@@ -40,8 +40,7 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　情報処理学会"
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -51,8 +50,7 @@ contributor:
     name:
     - language: ja
       script: Jpan
-      content: "一般財団法人　日本規格協会                                                \r\n
-        \                                                                                           一般社団法人　情報処理学会"
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
     - language: en
       script: Latn
       content: Japanese Industrial Standards
@@ -63,8 +61,7 @@ contributor:
   organization:
     subdivision:
     - name:
-      - content: "一般財団法人　日本規格協会                                                \r\n
-          \                                                                                           一般社団法人　情報処理学会"
+      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　情報処理学会"
       type: technical-committee
 language:
 - ja
@@ -73,7 +70,11 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，次によって制作される情報を効率的に作成及び管理するための要求事項を規定する。\n－\tシステム及びソフトウェア製品のライフサイクル全体を通して\n－\tシステム及びソフトウェアのための利用者用情報の準備のため\n－\tITサービス及び保守サービスの管理のため"
+  content: |-
+    この規格は，次によって制作される情報を効率的に作成及び管理するための要求事項を規定する。
+    －	システム及びソフトウェア製品のライフサイクル全体を通して
+    －	システム及びソフトウェアのための利用者用情報の準備のため
+    －	ITサービス及び保守サービスの管理のため
 status:
   stage:
     content: valid

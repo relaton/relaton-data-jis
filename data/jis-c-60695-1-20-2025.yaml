@@ -70,7 +70,11 @@ script:
 abstract:
 - language: ja
   script: Jpan
-  content: "この規格は，電気・電子製品及びそれを構成する材料の着火性について，a)～c)の指針を示す。\na)\t着火性の原則\nb)\t適切な試験方法の選択\nc)\t結果の利用及び解釈"
+  content: |-
+    この規格は，電気・電子製品及びそれを構成する材料の着火性について，a)～c)の指針を示す。
+    a)	着火性の原則
+    b)	適切な試験方法の選択
+    c)	結果の利用及び解釈
 status:
   stage:
     content: valid

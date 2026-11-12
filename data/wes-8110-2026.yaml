@@ -1,0 +1,66 @@
+---
+id: WES81102026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 建築鉄骨ロボット溶接オペレータの技術検定における試験方法及び判定基準
+- language: en
+  script: Latn
+  content: Standard qualification procedure for robot welding operators of building
+    structures
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+8110%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_8110_000_000_j___2026.pdf
+docidentifier:
+- content: WES 8110:2026
+  type: WES
+  primary: true
+docnumber: '8110'
+date:
+- type: issued
+  at: '2026-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，建築鉄骨溶接ロボットを用いて溶接施工を行う溶接オペレータの技術検定における試験方法及び判定基準について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '8110'

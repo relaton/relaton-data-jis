@@ -1,0 +1,63 @@
+---
+id: WES30012012
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 溶接用高張力鋼板
+- language: en
+  script: Latn
+  content: Weldable High Strength Steel Plates
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+3001%3A2012
+docidentifier:
+- content: WES 3001:2012
+  type: WES
+  primary: true
+docnumber: '3001'
+date:
+- type: issued
+  at: '2012-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，構造物全般に使用する高張力鋼板で，降伏点又は0.2%耐力355N/mm2以上を有し，かつ，溶接性のすぐれた鋼板について規定したものであり，一般社団法人日本溶接協会において，溶接用高張力鋼板の鋼種認定を受けた鋼種に適用する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '3001'

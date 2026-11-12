@@ -1,0 +1,67 @@
+---
+id: WES8103E2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+- language: en
+  script: Latn
+  content: Standard for certification of welding coordinators(English Edition)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+8103%28E%29%3A2019
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_8103_000_000_e___2019.pdf
+docidentifier:
+- content: WES 8103(E):2019
+  type: WES
+  primary: true
+docnumber: '8103'
+date:
+- type: issued
+  at: '2019-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- en
+script:
+- Latn
+abstract:
+- language: ja
+  script: Jpan
+  content: This standard shall be used to regulate the certification of welding coordinators
+    on the basis of the welding coordination personnel prescribed in subclause B.6.3
+    of Annex B or subclause C.6.3 of Annex C of JIS Z 3400 (corresponding to subclause
+    7.3 of ISO 3834-2 or subclause 7.3 of ISO 3834-3) and JIS Z 3410/ISO 14731.
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '8103'

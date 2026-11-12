@@ -1,0 +1,64 @@
+---
+id: WES90202014
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 高出力レーザ溶接及び切断の安全基準
+- language: en
+  script: Latn
+  content: Safety of high power laser welding and cutting
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+9020%3A2014
+docidentifier:
+- content: WES 9020:2014
+  type: WES
+  primary: true
+docnumber: '9020'
+date:
+- type: issued
+  at: '2014-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，波長範囲0.7μm～1mmのレーザ光の放出を行うJIS
+    C 6802：2011 に規定されたクラス 4 のレーザ加工機を用いて行うレーザ溶接及び切断作業の安全について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '9020'

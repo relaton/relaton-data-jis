@@ -1,0 +1,69 @@
+---
+id: WES00012021
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 日本溶接協会規格作成基準
+- language: en
+  script: Latn
+  content: Drafting manual for Welding Engineering Standard of The Japan Welding Engineering
+    Society
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+0001%3A2021
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_WES_0001_000_000_j___2021.pdf
+docidentifier:
+- content: WES 0001:2021
+  type: WES
+  primary: true
+docnumber: '0001'
+date:
+- type: issued
+  at: '2021-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: |-
+    日本溶接協会規格は，協会が制定した団体規格で，Welding Engineering Standard の頭文字をとってWESと略称される。
+    この規格は，日本溶接協会規格(WES)として必要な事項及び様式を規定する。
+    JIS Z 8301:2019（規格票の様式及び作成方法）に準拠すると共に，WES の規格票作成における関係委員会の任務及び責任，WES の制定，改正（追補を含む。）及び廃止のプロセス並びに発行済みのWESの修正プロセスを明確にした。さらに，英語による規格票の作成にも適用可能とした。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '0001'

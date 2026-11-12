@@ -1,0 +1,63 @@
+---
+id: WES11122022
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 金属材料の超音波疲労試験方法
+- language: en
+  script: Latn
+  content: Method for ultrasonic fatigue testing in metallic materials
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=WES+1112%3A2022
+docidentifier:
+- content: WES 1112:2022
+  type: WES
+  primary: true
+docnumber: '1112'
+date:
+- type: issued
+  at: '2022-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般社団法人日本溶接協会
+    - language: en
+      script: Latn
+      content: Japan Welding Engineering Society
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，繰返し数が主として 10^7サイクル以上の疲労寿命を対象として室温大気中で行う金属材料の2つの超音波疲労試験方法（縦振動を用いた場合の軸荷重疲労試験方法及びねじり振動を用いた場合のねじり疲労試験方法）について規定する。注記　ここで，超音波疲労試験方法とは，試験片に超音波振動を与えて共振状態とすることにより，試験片に繰返し荷重を与えて，疲労寿命を測定する方法である。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  structuredidentifier:
+    type: WES
+    project_number:
+      content: '1112'
