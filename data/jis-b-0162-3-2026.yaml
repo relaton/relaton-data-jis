@@ -1,0 +1,90 @@
+---
+id: JISB016232026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 滑り軸受－用語，定義，分類及び記号－第３部：潤滑
+- language: en
+  script: Latn
+  content: 'Plain bearings-Terms, definitions, classification and symbols-Part 3:
+    Lubrication'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+B+0162-3%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_b_00162_003_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS B 0162-3:2026
+  type: JIS
+  primary: true
+docnumber: B0162
+date:
+- type: issued
+  at: '2026-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本機械学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本機械学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本機械学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，滑り軸受の潤滑で最も一般的に使用される用語，定義及び分類について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 01.040.21
+    text: Mechanical systems and components for general use (Vocabularies)
+  - code: 21.100.10
+    text: Plain bearings
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: B0162

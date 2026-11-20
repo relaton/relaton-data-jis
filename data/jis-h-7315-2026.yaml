@@ -1,0 +1,88 @@
+---
+id: JISH73152026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 超電導－臨界電流の試験方法－ＲＥ－Ｂａ－Ｃｕ－Ｏ超電導線の直流臨界電流
+- language: en
+  script: Latn
+  content: Superconductivity-Critical current measurement-DC critical current of RE-Ba-Cu-O
+    composite superconductors
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+H+7315%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_h_07315_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS H 7315:2026
+  type: JIS
+  primary: true
+docnumber: H7315
+date:
+- type: issued
+  at: '2026-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電線工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電線工業会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　日本電線工業会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，直線状フラットテープ形状をした短尺のRE（希土類元素）-Ba-Cu-O（REBCO）超電導線試料における直流臨界電流を決定するための試験方法について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: '29.050'
+    text: Superconductivity and conducting materials
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: H7315

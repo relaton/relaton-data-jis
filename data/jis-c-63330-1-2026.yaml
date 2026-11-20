@@ -1,0 +1,91 @@
+---
+id: JISC6333012026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 二次電池のリパーパス－第１部：一般要求事項
+- language: en
+  script: Latn
+  content: 'Repurposing of secondary batteries-Part 1: General requirements'
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+63330-1%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_63330_001_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 63330-1:2026
+  type: JIS
+  primary: true
+docnumber: C63330
+date:
+- type: issued
+  at: '2026-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　日本自動車研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　日本自動車研究所"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般財団法人　日本自動車研究所"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，元々は電気自動車などに適用するために製造された二次電池セル，電池モジュール，電池パック及び電池システムのリパーパスに関する一般要求事項について規定する。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.220.20
+    text: Acid secondary cells and batteries
+  - code: 29.220.30
+    text: Alkaline secondary cells and batteries
+  - code: 43.040.10
+    text: Electrical and electronic equipment
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C63330

@@ -1,0 +1,88 @@
+---
+id: JISZ90622026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: 新技術及び新製品開発プロセスのための統計的方法の応用－ロバスト許容差設計（ＲＴＤ）
+- language: en
+  script: Latn
+  content: Application of statistical and related methods to new technology and product
+    development process-Robust tolerance design (RTD)
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9062%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_z_09062_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS Z 9062:2026
+  type: JIS
+  primary: true
+docnumber: Z9062
+date:
+- type: issued
+  at: '2026-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: 一般財団法人　日本規格協会
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，製品の設計を最終的に決定するために，タグチメソッドが提供するロバスト許容差設計（RTD）を製品に適用するための指針を示す。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 03.120.30
+    text: Application of statistical methods
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: Z9062

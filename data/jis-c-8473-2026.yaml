@@ -1,0 +1,90 @@
+---
+id: JISC84732026
+schema_version: v1.5.6
+type: standard
+title:
+- language: ja
+  script: Jpan
+  content: ライティングダクト－電源用ダクトシステムの安全性要求事項
+- language: en
+  script: Latn
+  content: Lighting busways-Particular safety requirements for power supply use
+source:
+- type: src
+  content: https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+C+8473%3A2026
+- type: pdf
+  content: https://webdesk.jsa.or.jp/preview/pre_jis_c_08473_000_000_2026_j_ed10_ch.pdf
+docidentifier:
+- content: JIS C 8473:2026
+  type: JIS
+  primary: true
+docnumber: C8473
+date:
+- type: issued
+  at: '2026-11-20'
+contributor:
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: 一般財団法人　日本規格協会
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電気設備学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: ja
+      script: Jpan
+      content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電気設備学会"
+    - language: en
+      script: Latn
+      content: Japanese Industrial Standards
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: "一般財団法人　日本規格協会                                                \r\n                                                                                            一般社団法人　電気設備学会"
+      type: technical-committee
+language:
+- ja
+script:
+- Jpan
+abstract:
+- language: ja
+  script: Jpan
+  content: この規格は，定格電圧が単相交流277 V以下，又は二相交流若しくは三相交流480
+    V以下の周波数が50 Hz又は60 Hzで定格電流が50 A以下の電源用ダクトシステム（PT）システムに関する一般要求事項及び試験について規定する。この電源用ダクトシステムは，家庭用，商業用及び工業用施設に配電するために用いられる。
+status:
+  stage:
+    content: valid
+ext:
+  schema_version: v1.0.2
+  doctype:
+    content: japanese-industrial-standard
+  flavor: jis
+  ics:
+  - code: 29.060.10
+    text: Wires
+  - code: 29.120.20
+    text: Connecting devices
+  structuredidentifier:
+    type: JIS
+    project_number:
+      content: C8473
